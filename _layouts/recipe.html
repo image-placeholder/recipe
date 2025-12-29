@@ -2,25 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.name }}</title>
+  <title>{{ page.title }}</title>
   <meta name="description" content="{{ page.description }}">
   <script type="application/ld+json">
     {{ page | jsonify }}
   </script>
 </head>
 <body>
-  <h1>{{ page.name }}</h1>
+  <h1>{{ page.title }}</h1>
 
 <p><strong>Author:</strong>
-  {% if page.author.first %}
-    {% for a in page.author %}
-      {{ a.name }}{% unless forloop.last %}, {% endunless %}
-    {% endfor %}
-  {% else %}
-    {{ page.author.name }}
-  {% endif %}
-</p>
-
 {% assign authors = page.author %}
  
 {% if authors.name %}
@@ -31,6 +22,9 @@
     {{ name }}{% unless forloop.last %}{% if forloop.index == last_author_index %}, and {% else %}, {% endif %}{% endunless %}
   {% endfor %}
 {% endif %}
+</p>
+
+
 
   <p><strong>Description:</strong> {{ page.description }}</p>
   <p><strong>Category:</strong> {{ page.recipeCategory }}</p>
