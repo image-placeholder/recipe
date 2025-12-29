@@ -113,7 +113,7 @@
     
     <div class="flex-1 pr-0 md:pr-12 md:border-r border-stone-100 mb-12 md:mb-0">
       {% if page.pagination.previous %}
-        <a href="{{ page.pagination.previous.url }}" class="group block no-underline">
+        <a href="{{ page.pagination.previous.url | relative_url }}" class="group block no-underline">
           <span class="flex items-center gap-2 uppercase tracking-[0.4em] text-[9px] font-bold text-stone-400 mb-4 transition-transform group-hover:-translate-x-1">
             <span>&larr;</span> Previous Recipe
           </span>
@@ -126,7 +126,7 @@
 
     <div class="flex-1 pl-0 md:pl-12 text-right">
       {% if page.pagination.next %}
-        <a href="{{ page.pagination.next.url }}" class="group block no-underline">
+        <a href="{{ page.pagination.next.url | relative_url }}" class="group block no-underline">
           <span class="flex items-center justify-end gap-2 uppercase tracking-[0.4em] text-[9px] font-bold text-stone-400 mb-4 transition-transform group-hover:translate-x-1">
             Next Recipe <span>&rarr;</span>
           </span>
@@ -140,7 +140,7 @@
   </div>
   <!-- Back to Collection -->
   <div class="mt-4 text-center">
-    <a href="/recipe/"
+    <a href="{{ 'recipes/ | relative_url }}"
        class="group inline-flex items-center gap-3 uppercase tracking-[0.4em] text-[10px] font-semibold text-stone-500 no-underline transition-colors hover:text-stone-800">
 
       <span class="h-px w-8 bg-stone-300 transition-all duration-300 group-hover:w-12"></span>
