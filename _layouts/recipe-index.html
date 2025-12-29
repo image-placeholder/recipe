@@ -31,7 +31,7 @@
     <span class="text-stone-400 text-xs italic">Page {{ page.pagination.current_page }} of {{ page.pagination.total_pages }}</span>
 
     {% if page.pagination.next_page %}
-      <a href="{{ '/recipes/' | relative_url }}page{{ page.pagination.next_page }}/" class="uppercase tracking-widest text-[10px] font-bold text-stone-400">Older &rarr;</a>
+      <a href="{{ '/recipes/' | relative_url }}{{ page.pagination.next_page }}/" class="uppercase tracking-widest text-[10px] font-bold text-stone-400">Older &rarr;</a>
     {% endif %}
   </nav>
 </div>
