@@ -1,0 +1,139 @@
+# ----------------------- #
+#          Jekyll         #
+# ----------------------- #
+# All of these settings are required
+
+
+title: "Crediton Cemetery Heritage Portal"
+description: "A platform for exploring and preserving the history of Crediton Cemetery."
+
+# Set this to true to disable plugins
+# safe:               false
+# Enables or disables Jekyll from recreating the site when files are modified.
+# regeneration:       true
+# Changes the port that the Jekyll server will run on
+# port:               4000
+# Sets site.url, useful for environment switching
+url:                https://marketingpip.github.io
+# Changes the directory where Jekyll will look to transform files
+# source:             ./
+# Changes the directory where Jekyll will write files to
+# destination:        _site
+# Changes the directory where Jekyll will look for plugins
+plugins_dir:        _plugins
+baseurl: "/"
+
+# Inclusion/exclusion of future dated posts
+future:             false
+# Produces an index for related posts. Install rb-gsl and libgsl to speed this up
+lsi:                false
+# Uses [engine] instead of Maruku
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: false
+  syntax_highlighter_opts:
+    disable : true
+highlighter: none
+
+
+exclude:
+  - pages
+  - pages/blog
+  - pages/blog/author
+  - pages/exibits
+  - pages/exibits/history_of_town
+  - bin
+  - action-build
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - Rakefile
+  - README.md
+  - requirements.txt
+  - package.json
+  - vendor
+  - _webpack
+  - postcss.config.js
+  - tailwind.config.js
+  - package-lock.json
+# Timezone for timestamp conversion
+timezone: UTC
+
+defaults:
+  - scope:
+      path: "assets/people"
+    values:
+      people: true
+  - scope:
+      path: "resources/**/*.pdf"
+    values:
+     sitemap: false
+# Plugins
+plugins:
+ # - octopress-minify-html
+  - jekyll-sitemap
+  - jekyll-assets
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-purge-css
+  - jekyll-minifier
+  - jekyll-terser
+  - jekyll-archives-v2
+  - jekyll-collection-pages
+
+# -----------------------------------------------------------------------------
+# Jekyll Minifier
+# -----------------------------------------------------------------------------
+
+jekyll-minifier:
+  compress_javascript: false # set to false since we are using terser as the js minifier
+  compress_css: false
+  exclude: ["robots.txt", "search.json", "assets/js/pwa/manifest.json"]
+
+
+# -----------------------------------------------------------------------------
+# Jekyll PurgeCSS
+# -----------------------------------------------------------------------------
+
+PurgeCSS:
+  content: ["_site/**/*.html", "_site/**/*.js"]
+  css: ["_site/assets/css/font-awesome.css"] ## Only purge font awesome, purgeCSS will break with tailwind. 
+  output: _site/assets/css/
+
+
+# -----------------------------------------------------------------------------
+# Jekyll Archives
+# -----------------------------------------------------------------------------
+
+jekyll-archives:
+  posts:
+    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+    layout:  tag
+    permalinks:
+      year: "/blog/:year/"
+# -----------------------------------------------------------------------------
+# Terser
+# -----------------------------------------------------------------------------
+
+terser:
+  compress:
+    drop_console: true
+
+  
+assets:
+  compress: true  # Enable CSS and JS compression
+  minify: true    # Enable HTML minification
+
+gh_repo_name: cemetery_demo- # required for downloading images
+
+download_images_folder: "assets/images"
+
+og_template: _includes/og-template.html
+
+json_api:
+  posts: true
+  authors: true
+  categories: true
+  tags: true
+    
