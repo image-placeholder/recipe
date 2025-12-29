@@ -16,7 +16,20 @@
                 <p class="text-xs tracking-widest uppercase opacity-60">The Digitized Church Ledger • South Huron, ON</p>
             </div>
             <div class="flex items-center gap-6">
-                <button class="bg-stone-900 text-white px-5 py-2 text-xs uppercase tracking-widest font-bold hover:bg-stone-700 transition">The Archive</button>
+                  <!-- Hamburger Toggle -->
+                  <button
+                    aria-label="Open navigation"
+                    class="group relative flex h-10 w-10 items-center justify-center">
+                
+                    <span class="sr-only">Open menu</span>
+                
+                    <span class="absolute flex flex-col justify-between h-[14px] w-[18px]">
+                      <span class="h-px w-full bg-stone-800 transition-all duration-300 group-hover:w-[14px]"></span>
+                      <span class="h-px w-full bg-stone-800 transition-all duration-300"></span>
+                      <span class="h-px w-full bg-stone-800 transition-all duration-300 group-hover:w-[14px] self-end"></span>
+                    </span>
+                
+                  </button>
             </div>
         </div>
 </nav>
