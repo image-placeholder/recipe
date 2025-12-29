@@ -1,3 +1,4 @@
+const searchInput = document.getElementById('menu-search');
 document.addEventListener('DOMContentLoaded', () => {
   const menuToggle = document.getElementById('menu-toggle');
   const mobileMenu = document.getElementById('mobile-menu');
@@ -36,6 +37,9 @@ document.addEventListener('DOMContentLoaded', () => {
       line1.classList.add('-rotate-45', '-translate-y-[5px]', 'w-[20px]');
       line2.classList.add('opacity-0');
       line3.classList.add('rotate-45', 'translate-y-[5px]', 'w-[20px]');
+      setTimeout(() => {
+      searchInput.focus();
+    }, 500);
     }
   }
 
@@ -48,4 +52,13 @@ document.addEventListener('DOMContentLoaded', () => {
       toggleMenu();
     }
   });
+});
+
+// Simple Search Listener
+searchInput.addEventListener('keypress', (e) => {
+  if (e.key === 'Enter') {
+    const query = e.target.value;
+    // Update this URL to match your search results page
+    window.location.href = `/cemetery_demo-/search-cemetery?q=${encodeURIComponent(query)}`;
+  }
 });
