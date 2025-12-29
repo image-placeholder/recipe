@@ -5,11 +5,12 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ page.description }}">
   <script src="https://cdn.tailwindcss.com"></script> 
+ {% assign base_url = site.baseurl | default: "" %}
+ {% include head_content.html base_url=base_url %}     
 </head>
 <body>
 
- {% assign base_url = site.baseurl | default: "" %}
- {% include head_content.html base_url=base_url %}   
+
     <!-- Navigation -->
 {% include navigation.html %} 
 
