@@ -7,9 +7,9 @@ module Jekyll
     priority :low
 
     def generate(site)
-      Jekyll.logger.info "Starting people page generation..."
+      Jekyll.logger.info "Starting recipe page generation..."
 
-      people_dir = File.join(site.source, "assets", "people")
+      people_dir = File.join(site.source, "api", "recipes")
       unless Dir.exist?(people_dir)
         Jekyll.logger.warn "People directory not found:", people_dir
         return
@@ -24,10 +24,10 @@ module Jekyll
       json_files.each do |file_path|
         begin
           person_data = JSON.parse(File.read(file_path))
-          raw_name = person_data["name"] || File.basename(file_path, ".json")
+          raw_name = person_data["name"] 
           
           # 1. Generate initial slug from name
-          base_slug = Utils.slugify(raw_name)
+          base_slug = File.basename(file_path, ".json")
           
           # 2. Check for duplicates and append index if necessary
           unique_slug = base_slug
@@ -38,7 +38,7 @@ module Jekyll
             used_slugs[base_slug] = 1
           end
 
-          dir = File.join("people", unique_slug)
+          dir = File.join("recipe", unique_slug)
           page_name = "index.html"
 
           page = Jekyll::PageWithoutAFile.new(site, site.source, dir, page_name)
@@ -53,7 +53,7 @@ module Jekyll
           page.content = "" 
           site.pages << page
 
-          Jekyll.logger.info "✓ Page generated for '#{raw_name}' as /people/#{unique_slug}/"
+          Jekyll.logger.info "✓ Page generated for '#{raw_name}' as /recipe/#{unique_slug}/"
 
         rescue JSON::ParserError => e
           Jekyll.logger.error "JSON parse error for #{file_path}: #{e.message}"
