@@ -28,7 +28,7 @@ module Jekyll
             used_slugs[base_slug] = 1
           end
 
-          page = Jekyll::PageWithoutAFile.new(site, site.source, "recipe/#{unique_slug}", "index.html")
+          page = Jekyll::PageWithoutAFile.new(site, site.source, "recipes/#{unique_slug}", "index.html")
           page.data = data.merge({
             "layout" => "recipe",
             "title" => data["name"],
