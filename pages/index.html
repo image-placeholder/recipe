@@ -49,6 +49,11 @@ permalink: /
       }
     }
   </style>
+
+  
+ {% assign base_url = site.baseurl | default: "" %}
+ {% include head_content.html base_url=base_url %} 
+  
 </head>
 <body> 
 <!-- Navigation -->
