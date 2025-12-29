@@ -2,8 +2,11 @@ const fs = require('fs');
 const path = require('path');
 
 // 1. Configuration
-const DATA_FILE = path.join(__dirname, '_data', 'recipes.json');
-const OUTPUT_DIR = path.join(__dirname, 'api', 'recipes');
+// Data file is in the root _data folder
+const DATA_FILE = path.join(process.cwd(), '_data', 'recipes.json');
+
+// Output directory is in root/api/recipes
+const OUTPUT_DIR = path.join(process.cwd(), 'api', 'recipes');
 
 // Utility to create a URL-friendly slug
 const slugify = (text) => {
