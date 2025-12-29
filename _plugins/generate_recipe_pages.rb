@@ -32,7 +32,7 @@ module Jekyll
           page.data = data.merge({
             "layout" => "recipe",
             "title" => data["name"],
-            "permalink" => "/recipe/#{unique_slug}/"
+            "permalink" => "/recipes/#{unique_slug}/"
           })
           page.content = ""
           all_recipe_pages << page
@@ -68,12 +68,12 @@ module Jekyll
         offset = (page_num - 1) * per_page
         recipes_for_this_page = all_recipe_pages.slice(offset, per_page)
         
-        dir = page_num == 1 ? 'recipe' : "recipe/page#{page_num}"
+        dir = page_num == 1 ? 'recipe' : "recipes/#{page_num}"
         
         index_page = Jekyll::PageWithoutAFile.new(site, site.source, dir, "index.html")
         index_page.data = {
           "layout" => "recipe-index",
-          "title" => "Recipe Archive - Page #{page_num}",
+          "title" => "Page #{page_num}",
           "paginated_recipes" => recipes_for_this_page.map(&:data),
           "pagination" => {
             "current_page" => page_num,
