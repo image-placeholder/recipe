@@ -2,34 +2,24 @@ require 'json'
 require 'jekyll'
 
 module Jekyll
-  class GeneratePeoplePages < Generator
+  class GenerateRecipePages < Generator
     safe true
     priority :low
 
     def generate(site)
-      Jekyll.logger.info "Starting recipe page generation..."
+      # 1. Setup paths and data
+      recipe_dir = File.join(site.source, "api", "recipes")
+      return unless Dir.exist?(recipe_dir)
 
-      people_dir = File.join(site.source, "api", "recipes")
-      unless Dir.exist?(people_dir)
-        Jekyll.logger.warn "People directory not found:", people_dir
-        return
-      end
-
-      json_files = Dir[File.join(people_dir, "*.json")]
-      
-      # Track used slugs to handle duplicates
-      # Format: { "john-doe" => 1 }
+      # 2. Generate all individual recipe pages
+      all_recipe_pages = []
       used_slugs = {}
-
-      json_files.each do |file_path|
+      
+      Dir[File.join(recipe_dir, "*.json")].each do |file_path|
         begin
-          person_data = JSON.parse(File.read(file_path))
-          raw_name = person_data["name"] 
-          
-          # 1. Generate initial slug from name
+          data = JSON.parse(File.read(file_path))
           base_slug = File.basename(file_path, ".json")
           
-          # 2. Check for duplicates and append index if necessary
           unique_slug = base_slug
           if used_slugs.key?(base_slug)
             used_slugs[base_slug] += 1
@@ -38,28 +28,61 @@ module Jekyll
             used_slugs[base_slug] = 1
           end
 
-          dir = File.join("recipe", unique_slug)
-          page_name = "index.html"
-
-          page = Jekyll::PageWithoutAFile.new(site, site.source, dir, page_name)
-          page.data = person_data.merge({
+          page = Jekyll::PageWithoutAFile.new(site, site.source, "recipe/#{unique_slug}", "index.html")
+          page.data = data.merge({
             "layout" => "recipe",
-            "title" => raw_name,
-            "slug" => unique_slug,
-            "permalink" => "/recipe/#{unique_slug}/",
-            "robots" => "noindex"
+            "title" => data["name"],
+            "permalink" => "/recipe/#{unique_slug}/"
           })
-
-          page.content = "" 
-          site.pages << page
-
-          Jekyll.logger.info "✓ Page generated for '#{raw_name}' as /recipe/#{unique_slug}/"
-
-        rescue JSON::ParserError => e
-          Jekyll.logger.error "JSON parse error for #{file_path}: #{e.message}"
+          page.content = ""
+          all_recipe_pages << page
         rescue StandardError => e
-          Jekyll.logger.error "Error creating page for #{file_path}: #{e.message}"
+          Jekyll.logger.error "Error parsing #{file_path}: #{e.message}"
         end
+      end
+
+      # Sort alphabetically to establish order
+      all_recipe_pages.sort_by! { |p| p.data["title"].downcase }
+
+      # --- RELATIONSHIP PAGINATION (Next/Prev for Single Recipes) ---
+      all_recipe_pages.each_with_index do |p, i|
+        # Use a hash structure similar to your index pagination
+        p.data["pagination"] = {
+          "previous" => i > 0 ? { 
+            "url" => all_recipe_pages[i - 1].data["permalink"], 
+            "title" => all_recipe_pages[i - 1].data["title"] 
+          } : nil,
+          "next" => i < all_recipe_pages.length - 1 ? { 
+            "url" => all_recipe_pages[i + 1].data["permalink"], 
+            "title" => all_recipe_pages[i + 1].data["title"] 
+          } : nil
+        }
+        site.pages << p
+      end
+
+      # 3. Handle Index Pagination (Archive Pages)
+      per_page = 12
+      total_pages = (all_recipe_pages.size.to_f / per_page).ceil
+
+      (1..total_pages).each do |page_num|
+        offset = (page_num - 1) * per_page
+        recipes_for_this_page = all_recipe_pages.slice(offset, per_page)
+        
+        dir = page_num == 1 ? 'recipe' : "recipe/page#{page_num}"
+        
+        index_page = Jekyll::PageWithoutAFile.new(site, site.source, dir, "index.html")
+        index_page.data = {
+          "layout" => "recipe-index",
+          "title" => "Recipe Archive - Page #{page_num}",
+          "paginated_recipes" => recipes_for_this_page.map(&:data),
+          "pagination" => {
+            "current_page" => page_num,
+            "total_pages" => total_pages,
+            "next_page" => (page_num < total_pages ? page_num + 1 : nil),
+            "prev_page" => (page_num > 1 ? page_num - 1 : nil)
+          }
+        }
+        site.pages << index_page
       end
     end
   end
