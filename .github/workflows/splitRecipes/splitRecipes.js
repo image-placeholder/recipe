@@ -37,7 +37,7 @@ const generateRecipes = () => {
     recipes.forEach((recipe, index) => {
       // Use recipe.id if it exists, otherwise use the array index
       const id = recipe.id || (index + 1);
-      const baseSlug = slugify(recipe.title || 'untitled-recipe');
+      const baseSlug = slugify(recipe.name || 'untitled-recipe');
       
       // Combine slug and ID for uniqueness: "spaghetti-bolognese-1.json"
       const fileName = `${baseSlug}-${id}.json`;
