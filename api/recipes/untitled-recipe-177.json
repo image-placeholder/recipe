@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Spaghetti Sauce",
+  "author": {
+    "@type": "Person",
+    "name": "Heather Clarke"
+  },
+  "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+  "recipeCategory": "Sauce",
+  "recipeCuisine": "Italian",
+  "prepTime": "PT20M",
+  "cookTime": "PT4H",
+  "totalTime": "PT4H20M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "1 large onion, chopped",
+    "1 bunch celery, finely chopped",
+    "1 green pepper, chopped",
+    "2 cloves garlic, finely chopped",
+    "1 (369 mL) tin tomato paste",
+    "1 (680 mL) tin tomato sauce",
+    "2 (796 mL) tins tomatoes",
+    "2 lb hamburg (ground beef)",
+    "Chili powder to taste",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Continue cooking gently for another 2 hours."
+    }
+  ],
+  "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce"
+}

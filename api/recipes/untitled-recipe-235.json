@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Thai Chicken",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Robertson"
+  },
+  "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Thai",
+  "prepTime": "PT20M",
+  "cookTime": "PT15M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1 package spaghetti",
+    "1 sweet red pepper",
+    "2 tsp sesame oil",
+    "1 onion",
+    "2 to 3 limes",
+    "4 stalks celery",
+    "4 Tbsp soya sauce",
+    "2 to 3 carrots",
+    "1 lb snow peas",
+    "2 tsp Sambal Oelek or hot pepper sauce",
+    "1 tsp each salt and sugar",
+    "2 crushed cloves garlic",
+    "4 chicken breasts",
+    "1/4 cup water"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir pasta in a large bowl to coat with sesame oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add snow peas and stir about 1 minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+    }
+  ],
+  "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired"
+}

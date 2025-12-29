@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Punch",
+  "author": {
+    "@type": "Person",
+    "name": "June Schroeder"
+  },
+  "description": "A refreshing fruit punch made with grape juice, orange juice, ginger ale, and lemon-lime soda.",
+  "recipeCategory": "Beverage",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "1 cup frozen grape juice concentrate",
+    "2 (6 oz) cans frozen orange juice concentrate",
+    "1 qt ginger ale",
+    "1 (12 oz) can frozen pink lemonade concentrate",
+    "1 cup sugar",
+    "12 cups water",
+    "Soda water",
+    "Ice cubes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix the first 5 ingredients in a large bowl or punch bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the remaining ingredients just before serving."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir well and serve chilled."
+    }
+  ],
+  "keywords": "fruit punch, party drink, refreshing beverage"
+}

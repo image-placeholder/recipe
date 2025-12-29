@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cream of Asparagus Soup",
+  "author": {
+    "@type": "Person",
+    "name": "Bonnie McNutt"
+  },
+  "description": "A creamy and smooth asparagus soup made with canned asparagus, perfect for serving year-round with optional fresh garnishes.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT40M",
+  "totalTime": "PT1H",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "2 medium onions, chopped",
+    "6 chicken bouillon cubes",
+    "2 (12 oz) cans asparagus tips or cuttings",
+    "4 celery sticks, chopped",
+    "¼ cup (125 mL) butter",
+    "6 Tbsp (90 mL) flour",
+    "1 cup (250 mL) whipping cream",
+    "6 cups (1½ L) water",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Chop onions and celery medium fine and sauté in butter until limp but not brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add flour and stir for 1 minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gradually add chicken stock (dissolve bouillon cubes in water) and stir until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to a boil, then add canned asparagus including liquid and simmer for 30 to 40 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Purée the soup in a blender and press through a sieve for a smooth texture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To serve, bring soup to a boil, remove from heat, and stir in whipping cream."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season to taste and keep warm over low heat without boiling."
+    }
+  ],
+  "keywords": "asparagus soup, creamy soup, canned asparagus"
+}

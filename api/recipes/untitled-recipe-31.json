@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Fancy Pickled Eggs",
+  "author": {
+    "@type": "Person",
+    "name": "Antonia Hull"
+  },
+  "description": "A variation of pickled eggs with beets, giving them a distinctive purple color and sweet flavor.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT5M",
+  "totalTime": "PT20M",
+  "recipeYield": "12 pickled eggs",
+  "recipeIngredient": [
+    "1 (16 oz) can sliced beets",
+    "½ tsp ground cloves",
+    "2 bay leaves",
+    "2 Tbsp sugar",
+    "½ tsp celery seed",
+    "1 large onion, sliced into rings",
+    "1 tsp salt",
+    "2 cups cider vinegar",
+    "12 large boiled eggs (shells removed)",
+    "1 cinnamon stick"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In an enamel or stainless steel saucepan, combine all ingredients except eggs and onion rings."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to a boil and simmer for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large glass jar, alternate layers of eggs, beets, and onion rings."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the heated liquid into the jar, ensuring all layers are covered."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
+    }
+  ],
+  "keywords": "pickled eggs, beets, appetizer, purple eggs"
+}

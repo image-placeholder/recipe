@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Bacon Wrapped Water Chestnuts",
+  "author": {
+    "@type": "Person",
+    "name": "Suzanne Finkbeiner"
+  },
+  "description": "Sweet and savory bacon-wrapped water chestnuts marinated overnight in a mixture of soya sauce and brown sugar.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT8H45M",
+  "recipeYield": "1 batch",
+  "recipeIngredient": [
+    "1 can whole water chestnuts",
+    "¼ cup soya sauce",
+    "¼ cup brown sugar",
+    "½ lb bacon"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown bacon and cut in half."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roll water chestnuts in white sugar, wrap with bacon, and secure with toothpicks."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix brown sugar and soya sauce together."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour mixture over bacon-wrapped water chestnuts and marinate overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F for 30 minutes.",
+      "cookMethod": "Bake",
+      "tool": "Oven",
+      "temperature": {
+        "@type": "Temperature",
+        "name": "oven",
+        "value": 350,
+        "unitCode": "FAR"
+      },
+      "duration": "PT30M"
+    }
+  ],
+  "keywords": "bacon-wrapped water chestnuts, sweet and savory, appetizer"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Broccoli Casserole",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Nola Lewis"
+    },
+    {
+      "@type": "Person",
+      "name": "Tanya Allen"
+    }
+  ],
+  "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT35M",
+  "totalTime": "PT55M",
+  "recipeIngredient": [
+    "2 lb broccoli, fresh or frozen",
+    "1 can cream of chicken soup",
+    "8 oz Cheez Whiz",
+    "1 cup cooked rice",
+    "1 can mushroom soup",
+    "Butter and bread crumbs or fried onions for topping"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F for 30 to 40 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+    }
+  ],
+  "keywords": "broccoli casserole, cheesy casserole, comforting main dish"
+}

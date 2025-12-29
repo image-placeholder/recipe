@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Jo-Ann's Homemade Iced Tea",
+  "author": {
+    "@type": "Person",
+    "name": "Suzanne Finkbeiner"
+  },
+  "description": "A refreshing homemade iced tea recipe sweetened with sugar and mixed with frozen lemonade for a tangy twist.",
+  "recipeCategory": "Beverage",
+  "recipeCuisine": "American",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "recipeYield": "1 large container",
+  "recipeIngredient": [
+    "1 brewed pot of tea (made with 4 tea bags)",
+    "1 cup sugar",
+    "1 container frozen lemonade",
+    "Water",
+    "Ice cubes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine brewed tea, sugar, and frozen lemonade in a large container."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add cold water to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve with ice cubes."
+    }
+  ],
+  "keywords": "homemade iced tea, sweet tea, lemonade-infused tea, refreshing drink"
+}

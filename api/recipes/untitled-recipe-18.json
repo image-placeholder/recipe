@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Vegetable Dip",
+  "author": {
+    "@type": "Person",
+    "name": "Jacqui Wein"
+  },
+  "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "recipeIngredient": [
+    "1 cup Miracle Whip",
+    "1/8 tsp garlic salt",
+    "1 tsp Worcestershire sauce",
+    "2 tsp minced onion",
+    "2 tsp chopped celery",
+    "2 hard-boiled eggs, finely chopped",
+    "2 tsp vinegar",
+    "Fresh vegetables for serving"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, mix all ingredients together until well combined."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve with fresh vegetables."
+    }
+  ],
+  "keywords": "vegetable dip, Miracle Whip dip, easy appetizer"
+}

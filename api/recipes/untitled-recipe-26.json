@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Roasted Chestnuts",
+  "author": {
+    "@type": "Person",
+    "name": "Julie-Ann Bibby"
+  },
+  "description": "Tender and flavorful roasted chestnuts seasoned with butter, salt, and cinnamon.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "recipeYield": "1 lb roasted chestnuts",
+  "recipeIngredient": [
+    "1 lb chestnuts",
+    "¼ cup butter",
+    "Salt to taste",
+    "1 pinch cinnamon"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 375°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut a ½-inch crisscross on the flat side of each chestnut, ensuring the cut goes through the nut to prevent explosion during baking."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the scored chestnuts in a shallow baking pan and bake for 25 to 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Allow the chestnuts to cool, then peel off the shells."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet, melt the butter over high heat and sauté the peeled chestnuts until well coated."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the skillet to the oven and roast until the chestnuts are golden on top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle with salt and cinnamon to taste before serving."
+    }
+  ],
+  "keywords": "roasted chestnuts, savory snack, holiday appetizer"
+}

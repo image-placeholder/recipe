@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Florentine Lasagna Rolls",
+  "author": {
+    "@type": "Person",
+    "name": "Antonia Hull"
+  },
+  "description": "Lasagna noodles rolled with a spinach and ricotta cheese mixture, baked in a creamy Alfredo sauce.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian-American",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "6 to 12 servings",
+  "recipeIngredient": [
+    "12 lasagna noodles",
+    "2 packages frozen chopped spinach, thawed",
+    "2 packages Alfredo sauce mix",
+    "4 cups milk",
+    "1 cup ricotta cheese",
+    "2 Tbsp butter or margarine",
+    "1 cup grated mozzarella cheese",
+    "1/2 cup diced red pepper",
+    "2 eggs",
+    "1/2 tsp ground nutmeg"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook lasagna noodles according to package directions. Drain and plunge into cold water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a medium saucepan, combine Alfredo sauce mix, milk, and butter. Bring to a boil over medium heat, stirring constantly with a whisk."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Reduce heat to medium-low. Add red peppers and simmer for 3 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour half of the sauce into a greased large square baking dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain spinach, pressing out extra moisture. Combine with ricotta cheese, mozzarella cheese, eggs, and nutmeg."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain noodles and pat dry. Spread spinach mixture evenly over noodles. Roll up and place seam-down in the baking dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with remaining sauce. Cover and bake in a 350°F oven for 30 to 40 minutes or until the sauce is bubbling."
+    }
+  ],
+  "keywords": "lasagna rolls, Florentine, spinach, ricotta, Alfredo sauce"
+}

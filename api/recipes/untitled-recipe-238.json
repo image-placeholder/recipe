@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Chicken Supreme",
+  "author": {
+    "@type": "Person",
+    "name": "Lori Allen"
+  },
+  "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian-American",
+  "prepTime": "PT20M",
+  "cookTime": "PT45M",
+  "totalTime": "PT1H5M",
+  "recipeYield": "4-8 servings",
+  "recipeIngredient": [
+    "8 boneless, skinless chicken breast pieces",
+    "1 (28 oz) can stewed tomatoes",
+    "1 chopped green pepper",
+    "1 chopped onion",
+    "2 generous slices of fresh Basil",
+    "2 Spanish Oregano slices",
+    "1 dozen chopped fresh Garlic",
+    "Salt and Seasoning salt",
+    "Onion powder",
+    "Grated mozzarella and cheddar cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Boil the chicken breasts in a separate container until pink is gone (about 1/4 of the way cooked)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a baking or roasting pan, mix together the tomato ingredients (stewed tomatoes, green pepper, onion, basil, oregano, garlic)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the partially cooked chicken breasts in the bottom of the pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle spices over the chicken breasts."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the remaining tomato mixture on top of the chicken breasts."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover and bake at 350°F for approximately ½ hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle grated cheese on top, cover, and bake for an additional 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve over rice or pasta."
+    }
+  ],
+  "keywords": "chicken supreme, baked chicken, Italian-style chicken"
+}

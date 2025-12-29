@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cheese English Muffins",
+  "author": {
+    "@type": "Person",
+    "name": "Deb Hodge"
+  },
+  "description": "Toasted English muffin quarters topped with a rich cheese and bacon mixture.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "½ lb sharp yellow cheese, grated",
+    "½ cup mayonnaise",
+    "2 Tbsp Worcestershire sauce",
+    "Crumbled fried bacon",
+    "1 small onion, finely chopped",
+    "English muffins"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix grated cheese, mayonnaise, Worcestershire sauce, crumbled bacon, and chopped onion together."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice English muffins into quarters."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the cheese mixture onto the English muffin quarters."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 400°F for 10 minutes."
+    }
+  ],
+  "keywords": "cheese English muffins, appetizer, snack"
+}

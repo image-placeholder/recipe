@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cheesy Ham Chowder",
+  "author": {
+    "@type": "Person",
+    "name": "Ruth Haines"
+  },
+  "description": "A creamy, cheesy ham chowder with potatoes, carrots, and corn, finished with crispy bacon.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT40M",
+  "totalTime": "PT1H",
+  "recipeYield": "10 servings",
+  "recipeIngredient": [
+    "10 strips bacon, diced",
+    "1 large onion, chopped",
+    "2 tsp chicken bouillon granules",
+    "1 cup diced carrots",
+    "3 Tbsp all-purpose flour",
+    "3 cups (12 oz) shredded cheddar cheese",
+    "3 cups milk",
+    "1½ cups water",
+    "2 cups fully cooked, cubed ham",
+    "2½ cups cubed potatoes",
+    "1 can (15 oz) corn, drained"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large soup kettle or Dutch oven, cook the bacon over medium heat until crisp. Remove to paper towels to drain."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the bacon drippings, sauté the chopped onion until tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the flour until blended. Gradually add the milk and water, bringing to a boil. Cook and stir for 2 minutes or until thickened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the potatoes, corn, bouillon granules, and pepper. Reduce heat and simmer, uncovered, for 20 minutes or until potatoes are tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the shredded cheese and cubed ham; heat until cheese is melted. Stir in the cooked bacon."
+    }
+  ],
+  "keywords": "ham chowder, cheesy soup, comfort food"
+}

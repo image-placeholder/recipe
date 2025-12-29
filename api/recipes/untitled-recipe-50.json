@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Mexican Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Sheila Jarvie"
+  },
+  "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "Mexican-American",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "recipeYield": "8 to 9 servings",
+  "recipeIngredient": [
+    "¾ cup kidney beans",
+    "¾ cup lentils",
+    "½ cup diced tomato",
+    "1 cup shredded lettuce",
+    "½ green pepper, chopped",
+    "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+    "2 green onions, chopped",
+    "¼ cup Catalina dressing",
+    "¼ cup salsa",
+    "Taco chips for serving"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the salad with Catalina dressing until well coated."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top the salad with salsa."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately with taco chips on the side."
+    }
+  ],
+  "keywords": "Mexican salad, bean salad, taco chips"
+}

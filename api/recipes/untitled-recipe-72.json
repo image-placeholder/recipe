@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Macaroni Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Theresa Finkbeiner"
+  },
+  "description": "A classic macaroni salad with tuna, ham, and cheddar cheese, mixed with Miracle Whip and spices.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT8M",
+  "totalTime": "PT23M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "2 cups macaroni",
+    "1 can (drained) white solid tuna",
+    "1 cup cubed cheddar cheese",
+    "1 cup cubed ham",
+    "1/2 cup cubed celery",
+    "1/4 cup chopped onion",
+    "1 tsp parsley flakes",
+    "1/2 tsp paprika",
+    "Salt to taste",
+    "Miracle Whip (enough to moisten)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook macaroni according to package directions. Let cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut up celery, cheese, tuna, and ham into small pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine cooled macaroni with the tuna mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add enough Miracle Whip to moisten the salad."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle with parsley flakes and paprika."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix well and serve."
+    }
+  ],
+  "keywords": "macaroni salad, tuna salad, cheddar cheese"
+}

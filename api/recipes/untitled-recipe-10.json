@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Shrimp Spread",
+  "author": {
+    "@type": "Person",
+    "name": "Janet Dearing"
+  },
+  "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "recipeYield": "1 bowl",
+  "recipeIngredient": [
+    "1 can shrimp cocktail",
+    "3 green onions, finely chopped",
+    "1 tsp garlic powder",
+    "1 (8 oz) package cream cheese, softened",
+    "1 tsp Worcestershire sauce",
+    "1½ cups shredded cheddar cheese",
+    "Miracle Whip (as needed for consistency)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix all ingredients together in a medium bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mash the shrimp with a fork until well blended."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate before serving with crackers."
+    }
+  ],
+  "keywords": "shrimp spread, seafood dip, party appetizer"
+}

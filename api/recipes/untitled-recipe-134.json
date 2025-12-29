@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Plum Pudding Sauce",
+  "author": {
+    "@type": "Person",
+    "name": "Donna Greb"
+  },
+  "description": "A sweet sauce made with brown sugar and vanilla, perfect for plum pudding.",
+  "recipeCategory": "Sauce",
+  "recipeCuisine": "American",
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "recipeYield": "2 cups",
+  "recipeIngredient": [
+    "2 cups brown sugar",
+    "2 cups boiling water",
+    "2 Tbsp cornstarch",
+    "2 tsp butter",
+    "1/4 cup cold water",
+    "1 tsp vanilla"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix brown sugar and cornstarch in a saucepan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add cold water and mix until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add boiling water and cook until thickened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add butter and vanilla."
+    }
+  ],
+  "keywords": "plum pudding sauce, dessert sauce, brown sugar sauce"
+}

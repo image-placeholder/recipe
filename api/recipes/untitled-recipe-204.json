@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Spareribs to Go",
+  "author": {
+    "@type": "Person",
+    "name": "Betty Glanville"
+  },
+  "description": "A versatile spareribs recipe that can be broiled or heated in a glaze sauce, perfect for make-ahead meals.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT1H30M",
+  "totalTime": "PT1H45M",
+  "recipeIngredient": [
+    "3 to 4 lb spareribs",
+    "1 cup ketchup",
+    "¼ cup soya sauce",
+    "Glaze: 4 crushed garlic cloves",
+    "½ cup honey"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Boil spareribs, cut into serving pieces, in salted water for 1½ hours. Drain and place in a shallow dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the glaze mixture (garlic and honey) over the ribs. May be frozen for later use."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To finish, remove ribs from the glaze and broil 6 inches from heat in the oven or barbecue until crisp. Alternatively, baste ribs and heat in the sauce."
+    }
+  ],
+  "keywords": "spareribs, garlic honey glaze, make-ahead ribs"
+}

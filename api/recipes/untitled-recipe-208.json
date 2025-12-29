@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Yummy Country-Style Ribs",
+  "author": {
+    "@type": "Person",
+    "name": "Leanne M. Kenney"
+  },
+  "description": "A flavorful and tender country-style ribs recipe marinated in a mixture of soy sauce, orange juice, and spices, then grilled to perfection.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT1H",
+  "totalTime": "PT24H20M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "2 lb (1 kg) country-style pork ribs",
+    "⅔ cup orange juice",
+    "2 Tbsp dry mustard",
+    "1 Tbsp coarsely ground pepper",
+    "1½ cups vegetable oil",
+    "¾ cup soy sauce",
+    "2 tsp salt",
+    "2 Tbsp chopped parsley",
+    "½ cup vinegar",
+    "1 clove garlic, minced",
+    "¼ cup Worcestershire sauce"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all marinade ingredients except the ribs in a bowl. Mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place ribs in a shallow dish and cover with the marinade. Refrigerate for 24 hours, turning meat occasionally."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove ribs from marinade and place on barbecue grill. Cook over low heat for about 1 hour, brushing with marinade occasionally."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Close barbecue hood and continue cooking until done, about 15 minutes more."
+    }
+  ],
+  "keywords": "country-style ribs, marinated ribs, BBQ ribs"
+}

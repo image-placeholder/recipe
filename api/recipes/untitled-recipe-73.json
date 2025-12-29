@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Nacho Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Martine Bercier"
+  },
+  "description": "A spicy nacho salad with ground beef, lettuce, tomatoes, and nacho chips, topped with a creamy dressing.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT15M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1/2 romaine lettuce, shredded",
+    "1/4 lb lean ground beef",
+    "1/2 onion, chopped",
+    "1 clove garlic, crushed",
+    "1/2 cup Monterey Jack cheese (or mozzarella), shredded",
+    "1/2 cup nacho chips, lightly crushed",
+    "2 tomatoes, coarsely diced",
+    "1/2 tsp cayenne pepper",
+    "1/4 cup mayonnaise",
+    "1 tsp relish",
+    "1 Tbsp ketchup",
+    "2 drops hot pepper sauce (Tabasco)",
+    "1/4 cup water"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown the ground beef with onion and garlic. Drain excess fat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add spices and water to the beef mixture. Bring to a boil, then simmer for 15 minutes. Let cool for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large salad bowl, mix together the shredded lettuce, diced tomatoes, shredded cheese, and crushed nacho chips."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a separate bowl, mix the mayonnaise, relish, ketchup, and hot pepper sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the dressing over the salad and add the cooled meat mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the salad to combine all ingredients and serve."
+    }
+  ],
+  "keywords": "nacho salad, spicy salad, ground beef salad"
+}

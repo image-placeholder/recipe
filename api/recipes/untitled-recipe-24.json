@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Fruit Dip",
+  "author": {
+    "@type": "Person",
+    "name": "Suzanne Finkbeiner"
+  },
+  "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "recipeYield": "1 cup",
+  "recipeIngredient": [
+    "8 oz package cream cheese",
+    "2 tsp frozen orange juice concentrate",
+    "½ cup marshmallow creme",
+    "1 tsp grated orange rind"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all ingredients in a dish and beat until smooth and well blended."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately with fresh cut-up fruit."
+    }
+  ],
+  "keywords": "fruit dip, orange cream cheese, marshmallow dip"
+}

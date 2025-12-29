@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Marinated Vegetable Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Ruth Haines"
+  },
+  "description": "A colorful and versatile marinated vegetable salad perfect for serving as finger food or a side dish.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "recipeYield": "Variable",
+  "recipeIngredient": [
+    "1 medium cauliflower",
+    "3 celery stalks",
+    "1/2 English cucumber",
+    "1 bunch broccoli",
+    "1/2 bunch radishes",
+    "Cherry tomatoes",
+    "1 small bag baby carrots",
+    "1 bottle Italian dressing"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash and clean all the vegetables, then drain well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Break cauliflower and broccoli into bite-sized pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Trim radishes and carrots; leave whole unless large, then cut into bite-sized pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut celery into 3-inch pieces and slice cucumber into 1/2-inch slices."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Leave cherry tomatoes whole."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place all prepared vegetables in a large bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour Italian dressing over the vegetables and let set for a few hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve as finger food or as a salad."
+    }
+  ],
+  "keywords": "marinated vegetables, vegetable salad, Italian dressing"
+}

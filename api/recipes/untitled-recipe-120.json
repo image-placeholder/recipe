@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Veggie Basic Soup",
+  "author": {
+    "@type": "Person",
+    "name": "Julie-Ann Bibby"
+  },
+  "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "1/2 tsp ground pepper",
+    "3 Tbsp butter",
+    "1 Tbsp dried parsley",
+    "1 diced onion",
+    "3 Tbsp soya sauce",
+    "2 large diced carrots",
+    "1 Tbsp Worcestershire sauce",
+    "3 stalks diced celery",
+    "1 tsp paprika",
+    "1 can whole diced tomatoes",
+    "2 qt beef broth",
+    "1 Tbsp salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
+    }
+  ],
+  "keywords": "vegetable soup, beef broth, savory soup"
+}

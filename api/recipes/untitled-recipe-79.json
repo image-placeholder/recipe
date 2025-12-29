@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Fruit Mold Ring-Around",
+  "author": {
+    "@type": "Person",
+    "name": "Norma Fahner"
+  },
+  "description": "A layered fruit mold dessert featuring red and lemon Jello with canned fruit and ginger ale.",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT8H30M",
+  "recipeYield": "10 or more servings",
+  "recipeIngredient": [
+    "1 (3 oz) package red Jello powder",
+    "2 (3 oz) packages lemon Jello powder",
+    "1¼ cups cranberry juice cocktail",
+    "2 Tbsp lemon juice",
+    "1½ cups syrup from canned fruit",
+    "2 cups ginger ale",
+    "3 cups canned fruit, drained"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat cranberry juice to a boil and stir in red Jello powder until dissolved."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the red Jello mixture into an oiled ice cube tray and chill until firm."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the fruit juice syrup to a boil and stir in lemon Jello powder until dissolved."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add lemon juice and ginger ale to the lemon Jello mixture and chill until as thick as honey."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the red Jello into ½ inch cubes and fold into the thickened lemon Jello along with the canned fruit."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the mixture into a 1½ quart ring mold rinsed in cold water and chill overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To serve, unmold and fill the center with raw fruit."
+    }
+  ],
+  "keywords": "fruit mold, layered Jello, dessert"
+}
