@@ -1,6 +1,7 @@
 ---
 permalink: /
 ---
+{% assign base_url = site.baseurl | default: "" %}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -51,7 +52,7 @@ permalink: /
   </style>
 
   
- {% assign base_url = site.baseurl | default: "" %}
+
  {% include head_content.html base_url=base_url %} 
   
 </head>
