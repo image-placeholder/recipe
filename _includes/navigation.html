@@ -1,0 +1,22 @@
+<style> body { font-family: 'Inter', sans-serif; background-color: #f8f7f2; } h1, h2, h3, .serif { font-family: 'Playfair Display', serif; }
+    /* Premium Navigation Blur */
+    .glass-nav { background-color: rgba(248, 247, 242, 0.8); backdrop-filter: blur(8px); }
+
+    /* Print optimization to hide URL and Page # */
+    @media print {
+        @page { margin: 0; }
+        body { margin: 2cm; background: white !important; color: black !important; }
+        nav, footer, button, .no-print { display: none !important; }
+    }
+</style>
+<nav class="border-b border-stone-200 py-8 px-6 sticky top-0 z-50 glass-nav">
+        <div class="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
+            <div class="text-center md:text-left cursor-pointer" onclick="location.reload()">
+                <h1 class="text-2xl tracking-widest font-bold uppercase italic">Crediton Table</h1>
+                <p class="text-xs tracking-widest uppercase opacity-60">The Digitized Church Ledger • South Huron, ON</p>
+            </div>
+            <div class="flex items-center gap-6">
+                <button class="bg-stone-900 text-white px-5 py-2 text-xs uppercase tracking-widest font-bold hover:bg-stone-700 transition">The Archive</button>
+            </div>
+        </div>
+</nav>
