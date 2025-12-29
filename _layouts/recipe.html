@@ -12,50 +12,102 @@
 <body>
     <!-- Navigation -->
 {% include navigation.html %} 
-  <h1>{{ page.title }}</h1>
 
-<p><strong>Author:</strong>
-{% assign authors = page.author %}
- 
-{% if authors.name %}
-  {{ authors.name }}
-{% else %}
-  {% assign names = authors | map: "name" %}
-  {% for name in names %}
-    {{ name }}{% unless forloop.last %}{% if forloop.index == last_author_index %}, and {% else %}, {% endif %}{% endunless %}
-  {% endfor %}
-{% endif %}
-</p>
+  <main id="main-view" class="transition-opacity duration-500">
+  <div class="max-w-4xl mx-auto py-20 px-6">
 
+    <!-- Header -->
+    <header class="text-center mb-16">
 
-
-  <p><strong>Description:</strong> {{ page.description }}</p>
-  <p><strong>Category:</strong> {{ page.recipeCategory }}</p>
-  <p><strong>Cuisine:</strong> {{ page.recipeCuisine }}</p>
-  <p><strong>Prep Time:</strong> {{ page.prepTime }}</p>
-  <p><strong>Cook Time:</strong> {{ page.cookTime }}</p>
-  <p><strong>Total Time:</strong> {{ page.totalTime }}</p>
-  <p><strong>Yield:</strong> {{ page.recipeYield }}</p>
-  <p><strong>Keywords:</strong> {{ page.keywords }}</p>
-
-  <h2>Ingredients</h2>
-  <ul>
-    {% for ingredient in page.recipeIngredient %}
-      <li>{{ ingredient }}</li>
-    {% endfor %}
-  </ul>
-
-  <h2>Instructions</h2>
-  <ol>
-    {% for step in page.recipeInstructions %}
-      <li>
-        {{ step.text }}
-        {% if step.temperature %}
-          (Bake at {{ step.temperature.value }}°F using {{ step.tool }})
+      {% assign authors = page.author %}
+      <span class="uppercase tracking-[0.3em] text-[10px] font-bold text-stone-400 mb-4 block">
+        Original Entry:
+        {% if authors.name %}
+          {{ authors.name }}
+        {% else %}
+          {% assign names = authors | map: "name" %}
+          {% for name in names %}
+            {{ name }}{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
         {% endif %}
-      </li>
-    {% endfor %}
-  </ol>
+      </span>
+
+      <h2 class="text-5xl md:text-7xl mb-8 leading-tight serif">
+        {{ page.title }}
+      </h2>
+
+      <div class="w-12 h-px bg-stone-300 mx-auto mb-8"></div>
+
+      <p class="text-xl text-stone-500 italic font-light max-w-2xl mx-auto leading-relaxed">
+        {{ page.description }}
+      </p>
+    </header>
+
+    <!-- Meta Grid -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 py-8 mb-20 border-y border-stone-200 text-center uppercase tracking-tighter text-sm">
+      <div>
+        <p class="text-stone-400 mb-1">Yield</p>
+        <p>{{ page.recipeYield }}</p>
+      </div>
+      <div>
+        <p class="text-stone-400 mb-1">Time</p>
+        <p>{{ page.totalTime }}</p>
+      </div>
+      <div>
+        <p class="text-stone-400 mb-1">Category</p>
+        <p>{{ page.recipeCategory }}</p>
+      </div>
+      <div>
+        <p class="text-stone-400 mb-1">Cuisine</p>
+        <p>{{ page.recipeCuisine }}</p>
+      </div>
+    </div>
+
+    <!-- Ingredients & Instructions -->
+    <div class="grid grid-cols-1 md:grid-cols-12 gap-16">
+
+      <!-- Ingredients -->
+      <div class="md:col-span-4">
+        <h3 class="text-sm font-bold uppercase tracking-widest mb-8 text-stone-400 border-b border-stone-200 pb-2">
+          The Pantry
+        </h3>
+        <ul class="space-y-6">
+          {% for ingredient in page.recipeIngredient %}
+            <li class="text-sm serif italic border-b border-stone-100 pb-2">
+              {{ ingredient }}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <!-- Instructions -->
+      <div class="md:col-span-8">
+        <h3 class="text-sm font-bold uppercase tracking-widest mb-8 text-stone-400 border-b border-stone-200 pb-2">
+          The Process
+        </h3>
+        <ol class="space-y-12">
+          {% for step in page.recipeInstructions %}
+            <li class="flex gap-6">
+              <span class="text-xl font-serif italic text-stone-300">
+                {{ forloop.index }}.
+              </span>
+              <p class="text-stone-700 leading-relaxed">
+                {{ step.text }}
+                {% if step.temperature %}
+                  <span class="block text-sm text-stone-400 mt-2">
+                    Bake at {{ step.temperature.value }}°F using {{ step.tool }}
+                  </span>
+                {% endif %}
+              </p>
+            </li>
+          {% endfor %}
+        </ol>
+      </div>
+
+    </div>
+  </div>
+</main>
+
 
 <!-- Footer -->
 {% include footer.html %}  
