@@ -38,11 +38,6 @@ highlighter: none
 
 
 exclude:
-  - pages
-  - pages/blog
-  - pages/blog/author
-  - pages/exibits
-  - pages/exibits/history_of_town
   - bin
   - action-build
   - Gemfile
