@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.name }}</title>
+  <meta name="description" content="{{ page.description }}">
+  <script type="application/ld+json">
+    {{ page | jsonify }}
+  </script>
+</head>
+<body>
+  <h1>{{ page.name }}</h1>
+
+  <p><strong>Author:</strong> 
+    {% if page.author.size %}
+      {% assign authors = page.author %}
+      {% for a in authors %}
+        {{ a.name }}{% if forloop.last == false %}, {% endif %}
+      {% endfor %}
+    {% else %}
+      {{ page.author.name }}
+    {% endif %}
+  </p>
+
+  <p><strong>Description:</strong> {{ page.description }}</p>
+  <p><strong>Category:</strong> {{ page.recipeCategory }}</p>
+  <p><strong>Cuisine:</strong> {{ page.recipeCuisine }}</p>
+  <p><strong>Prep Time:</strong> {{ page.prepTime }}</p>
+  <p><strong>Cook Time:</strong> {{ page.cookTime }}</p>
+  <p><strong>Total Time:</strong> {{ page.totalTime }}</p>
+  <p><strong>Yield:</strong> {{ page.recipeYield }}</p>
+  <p><strong>Keywords:</strong> {{ page.keywords }}</p>
+
+  <h2>Ingredients</h2>
+  <ul>
+    {% for ingredient in page.recipeIngredient %}
+      <li>{{ ingredient }}</li>
+    {% endfor %}
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    {% for step in page.recipeInstructions %}
+      <li>
+        {{ step.text }}
+        {% if step.temperature %}
+          (Bake at {{ step.temperature.value }}°F using {{ step.tool }})
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ol>
+</body>
+</html>
