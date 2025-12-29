@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Nacho Dip",
+  "author": {
+    "@type": "Person",
+    "name": "Meghan Brand"
+  },
+  "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "Mexican-American",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "recipeYield": "1 large glass pan",
+  "recipeIngredient": [
+    "8 oz pkg cream cheese",
+    "500 g tub sour cream",
+    "¼ pkg taco seasoning mix",
+    "1 cup shredded cheddar cheese",
+    "1 small container salsa sauce",
+    "1 chopped red pepper",
+    "1 chopped green pepper",
+    "1 chopped tomato",
+    "Baked nacho chips for serving"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the mixture in a large glass pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread salsa sauce over the cream cheese layer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle shredded cheddar cheese over the salsa layer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add chopped red pepper, green pepper, and tomato on top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve with baked nacho chips."
+    }
+  ],
+  "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip"
+}

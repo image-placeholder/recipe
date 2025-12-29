@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Sweet & Sour Pineapple Chicken",
+  "author": {
+    "@type": "Person",
+    "name": "Heather Clarke"
+  },
+  "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT1H30M",
+  "totalTime": "PT1H45M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
+    "½ cup vinegar",
+    "2 Tbsp light brown sugar",
+    "½ tsp salt",
+    "¼ to ½ cup ketchup",
+    "¼ cup water",
+    "4 chicken breasts",
+    "1 Tbsp cornstarch"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
+    }
+  ],
+  "keywords": "sweet and sour chicken, pineapple chicken, baked chicken"
+}

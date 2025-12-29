@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cranberry Mold",
+  "author": {
+    "@type": "Person",
+    "name": "Mary Kenney"
+  },
+  "description": "A festive cranberry salad molded with cherry-flavored gelatin, celery, and nuts, perfect as a side dish for turkey.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT2H15M",
+  "recipeYield": "1 1½ quart mold",
+  "recipeIngredient": [
+    "2 (3 oz) packages cherry flavored gelatin",
+    "1 cup boiling water",
+    "1 cup cold water",
+    "1 lb can whole cranberry sauce",
+    "1 cup chopped celery",
+    "½ cup chopped nuts"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dissolve gelatin in boiling water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add cold water and chill until the mixture thickens but is not set."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in cranberry sauce, celery, and nuts."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the mixture into a 1½ quart mold and chill until firm."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Unmold before serving."
+    }
+  ],
+  "keywords": "cranberry mold, gelatin salad, holiday side dish"
+}

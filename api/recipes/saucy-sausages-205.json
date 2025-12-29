@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Saucy Sausages",
+  "author": {
+    "@type": "Person",
+    "name": "Lori Allen"
+  },
+  "description": "A flavorful Oktoberfest sausage dish baked in a rich sauce made with chili sauce, salsa, and spices.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "recipeIngredient": [
+    "Approximately 9 Oktoberfest sausages",
+    "1 Tbsp garlic barbecue sauce",
+    "4 Tbsp HP sauce",
+    "1 cup chili sauce",
+    "1 tsp garlic salt",
+    "1 cup salsa sauce",
+    "1 tsp seasoning salt",
+    "¼ cup ketchup",
+    "1 tsp onion powder"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "First, boil sausages until almost done or brown them in a frying pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a separate bowl, combine the barbecue sauce, HP sauce, chili sauce, garlic salt, salsa sauce, seasoning salt, ketchup, and onion powder."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the sausages in the bottom of a roasting pan or baking dish. Sprinkle with the three spices (garlic salt, seasoning salt, onion powder). Cover with the sauce mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover and bake in a 350 °F oven for approximately ½ hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Can be served with rice."
+    }
+  ],
+  "keywords": "Oktoberfest sausages, saucy sausages, baked sausages"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cracker Spread",
+  "author": {
+    "@type": "Person",
+    "name": "Irene Haugh"
+  },
+  "description": "A simple and creamy cheese spread made with tomato soup and Kraft cheese, served with crackers.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT10M",
+  "recipeIngredient": [
+    "1 can Campbell's tomato soup",
+    "Any type of butter",
+    "1 small size jar Kraft cheese spread"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix together the tomato soup, butter, and Kraft cheese spread."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the mixture but do not boil. Stir constantly for 5 minutes."
+    }
+  ],
+  "keywords": "cheese spread, cracker dip, party appetizer"
+}

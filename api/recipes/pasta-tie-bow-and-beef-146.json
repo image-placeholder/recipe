@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Pasta Tie Bow and Beef",
+  "author": {
+    "@type": "Person",
+    "name": "Suzanne Finkbeiner"
+  },
+  "description": "A hearty pasta dish with sautéed beef, mushrooms, and red peppers, topped with Parmesan cheese.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian-inspired",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1 tsp (5 mL) cooking oil",
+    "8 oz (225 g) pasta bow tie",
+    "2 cups (500 mL) boiling water",
+    "3 Tbsp (45 mL) cooking oil (divided)",
+    "1 Tbsp (15 mL) salt",
+    "¾ lb (340 g) sirloin steak, sliced into thin strips",
+    "2 tsp (10 mL) dried crushed chilies",
+    "1 red pepper, cut into ¾ inch squares",
+    "Parmesan cheese for serving"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook pasta in boiling water with 1 tsp cooking oil and salt for about 12 minutes. Drain and keep warm."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat wok on medium-high. Add 1 Tbsp cooking oil and stir-fry beef strips until desired doneness. Transfer to bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add another 1 Tbsp cooking oil to the wok. Stir-fry mushrooms, red pepper, and crushed chilies for 2 to 3 minutes until tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add beef back into the wok and heat through. Stir in Parmesan cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread cooked pasta on a plate and spoon the beef mixture over top. Sprinkle with additional Parmesan cheese."
+    }
+  ],
+  "keywords": "pasta, beef, Italian-inspired, Parmesan cheese"
+}

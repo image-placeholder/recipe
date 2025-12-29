@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Meat and Potato Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "Martine Bercier"
+  },
+  "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+  "recipeCategory": "Casserole",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT50M",
+  "totalTime": "PT1H5M",
+  "recipeYield": "1 8L casserole",
+  "recipeIngredient": [
+    "½ lb lean ground beef",
+    "1 onion",
+    "1 clove garlic",
+    "6 medium potatoes, peeled and sliced",
+    "1 envelope (50g) gravy mix",
+    "2½ cups water",
+    "2 cups corn",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Layer sliced potatoes in an 8L casserole dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with corn and the browned meat mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover and cook at 350°F for 50 minutes."
+    }
+  ],
+  "keywords": "meat casserole, potato and corn dish, gravy topping"
+}

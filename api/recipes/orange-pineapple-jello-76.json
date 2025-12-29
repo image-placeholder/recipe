@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Orange-Pineapple Jello",
+  "author": {
+    "@type": "Person",
+    "name": "Shelley Kinsman"
+  },
+  "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT5M",
+  "totalTime": "PT25M",
+  "recipeYield": "1 serving",
+  "recipeIngredient": [
+    "1 package orange Jello",
+    "1 cup mini marshmallows",
+    "1 small can crushed pineapple",
+    "½ cup frozen orange juice concentrate",
+    "1 package Dream Whip",
+    "½ cup pecans"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Drain pineapple and reserve syrup. Add water to make ¾ cup."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the liquid to boiling."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place Jello in a bowl and add hot liquid, pineapple, and orange juice concentrate."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chill until thickish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fold in Dream Whip along with marshmallows and pecans."
+    }
+  ],
+  "keywords": "orange-pineapple Jello, fruity dessert, nuts"
+}

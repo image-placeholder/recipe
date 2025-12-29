@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Baked Striped Bass (Or White Fish)",
+  "author": {
+    "@type": "Person",
+    "name": "Antonia Hull"
+  },
+  "description": "A whole striped bass or white fish baked with garlic, mushrooms, and herbs, served with a rich butter sauce.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT40M",
+  "totalTime": "PT1H",
+  "recipeYield": "6 servings",
+  "recipeIngredient": [
+    "3 to 4 lb whole striped bass, dressed and boned",
+    "2 cloves garlic",
+    "1 cup sliced mushrooms",
+    "½ cup parsley sprigs",
+    "½ tsp salt",
+    "⅛ tsp pepper",
+    "2 celery stalks, with leaves",
+    "3 cups dry white wine",
+    "1 green onion (or shallot), sliced",
+    "1 cup thinly sliced onion",
+    "2 bay leaves",
+    "1 tsp dried thyme",
+    "½ cup butter",
+    "1 tsp flour"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400°F and lightly butter a large, shallow baking pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wash and pat dry the fish with paper towels. Sprinkle inside and outside with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the fish in the baking pan and add the remaining ingredients except for the sauce ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake, basting frequently with the liquid in the pan, for 40 minutes or until the fish flakes easily with a fork."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Carefully remove the fish to a heated serving platter, cover, and keep warm."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To make the sauce, cook the pan liquid over medium heat until it reduces to 1 cup, about 15 to 20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blend 1 teaspoon of butter with flour and stir into the hot liquid. Bring to a boil and cook for 2 minutes, stirring constantly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Reduce heat and add the remaining butter, shaking the pan until melted. Remove from heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the sauce with the fish."
+    }
+  ],
+  "keywords": "baked fish, striped bass, white fish, herb butter sauce"
+}

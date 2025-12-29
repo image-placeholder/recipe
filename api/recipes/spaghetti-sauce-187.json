@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Spaghetti Sauce",
+  "author": {
+    "@type": "Person",
+    "name": "Margaret Beaver"
+  },
+  "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian-American",
+  "prepTime": "PT20M",
+  "cookTime": "PT2H",
+  "totalTime": "PT2H20M",
+  "recipeYield": "Several servings",
+  "recipeIngredient": [
+    "1 lb ground hamburger",
+    "2 cups chopped onions",
+    "2 cups chopped celery",
+    "2 large cloves garlic",
+    "1 can (28 oz) diced tomatoes",
+    "2 cups tomato juice",
+    "3 Oxo cubes",
+    "1 small can tomato paste",
+    "3 cups boiling water",
+    "2 cups sliced mushrooms",
+    "1/2 tsp dried basil",
+    "1/2 tsp dried oregano",
+    "1/4 tsp red pepper",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Saute the onion, celery, and garlic until tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the ground hamburger and brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the remaining ingredients and simmer for several hours."
+    }
+  ],
+  "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine"
+}

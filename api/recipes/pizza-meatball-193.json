@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Pizza Meatball",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Ratz"
+  },
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian-American",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "recipeYield": "8 servings",
+  "recipeIngredient": [
+    "1 (12 inch) baked pizza crust",
+    "12 oz frozen meatballs, thawed and cut in half",
+    "14 oz pizza sauce, divided",
+    "1¼ tsp dried Italian seasoning",
+    "1½ cups shredded mozzarella cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place pizza crust in a pizza pan or on a baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle 1 cup of shredded mozzarella cheese over the crust."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place meatballs on top of the cheese, cut side down."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread remaining pizza sauce over the meatballs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle with remaining cheese and Italian seasoning."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in a 400°F oven for approximately 20 minutes, or until cheese is melted."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut into pizza wheels and serve."
+    }
+  ],
+  "keywords": "pizza, meatball, Italian-American, baked"
+}

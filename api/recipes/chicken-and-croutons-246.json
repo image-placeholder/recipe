@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Chicken and Croutons",
+  "author": {
+    "@type": "Person",
+    "name": "Tanya Allen"
+  },
+  "description": "A creamy chicken casserole topped with Swiss cheese and crunchy croutons.",
+  "recipeCategory": "Casserole",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT1H15M",
+  "totalTime": "PT1H35M",
+  "recipeYield": "8 servings",
+  "recipeIngredient": [
+    "8 chicken breast fillets",
+    "1 (8 oz) can mushrooms",
+    "8 slices Swiss cheese",
+    "1 (10 oz) can cream of chicken soup",
+    "½ cup milk",
+    "1 (6 oz) pkg croutons",
+    "¼ cup melted butter"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 350°F.",
+      "cookMethod": "Bake",
+      "tool": "Oven",
+      "temperature": {
+        "@type": "Temperature",
+        "name": "oven",
+        "value": 350,
+        "unitCode": "FAR"
+      }
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the chicken and pat dry, then arrange in a 9×13 inch baking dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top each chicken fillet with a slice of Swiss cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the cream of chicken soup, mushrooms, and milk in a bowl; mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the soup mixture over the chicken."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the croutons with melted butter in a small bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the buttered croutons over the casserole."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake, covered with foil, for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake, uncovered, for an additional 15 minutes until the top is browned.",
+      "cookMethod": "Bake",
+      "tool": "Oven",
+      "duration": "PT15M"
+    }
+  ],
+  "keywords": "chicken casserole, croutons, creamy chicken bake"
+}

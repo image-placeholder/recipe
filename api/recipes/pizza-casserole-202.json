@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Pizza Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "June Schroeder"
+  },
+  "description": "A hearty pizza casserole made with spaghetti, hamburger, pepperoni, and mozzarella cheese.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "1 9x13 inch pan",
+  "recipeIngredient": [
+    "8 or 7 oz spaghetti",
+    "1 lb hamburger",
+    "1/2 cup chopped onion",
+    "2 Tbsp margarine or butter",
+    "2 eggs, beaten",
+    "1/3 cup grated Parmesan cheese",
+    "1 (32 oz) jar spaghetti sauce",
+    "1 pkg (3 oz) pepperoni, sliced",
+    "4 cups diced mozzarella cheese",
+    "1 tsp dried oregano leaves",
+    "1 tsp cooking oil or olive oil",
+    "Salt to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook spaghetti as per package instructions and drain."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, combine cooked spaghetti, margarine or butter, eggs, and Parmesan cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the spaghetti mixture in a greased 9x13 inch pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Brown hamburger and onion in a skillet and spoon over the spaghetti mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread spaghetti sauce over the hamburger mixture and cover with mozzarella cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle with oregano and drizzle with oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange pepperoni slices on top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in a preheated 350°F oven for 20 to 30 minutes."
+    }
+  ],
+  "keywords": "pizza casserole, spaghetti, hamburger, pepperoni"
+}

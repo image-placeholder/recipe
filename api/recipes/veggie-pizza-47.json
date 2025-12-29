@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Veggie Pizza",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Linda Nakamura"
+    },
+    {
+      "@type": "Person",
+      "name": "Teena Houston"
+    }
+  ],
+  "description": "A simple and customizable veggie pizza using crescent rolls as the crust, topped with a cream cheese mixture and various vegetables.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT30M",
+  "recipeIngredient": [
+    "2 pkg Pillsbury crescent rolls",
+    "1 cup sour cream",
+    "1/2 cup mayonnaise",
+    "2 large cream cheese",
+    "2 pkg Hidden Valley ranch dressing",
+    "Grated cheddar cheese",
+    "Veggies (broccoli, cauliflower, carrots, celery, red or green peppers, green onions)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Roll out crescent rolls on a cookie sheet and a small cake pan. Bake until golden brown. Cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix sour cream, mayonnaise, cream cheese, and ranch dressing to make the cream mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread cream mixture on cooled rolls."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with finely chopped vegetables of your choice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover with grated cheddar cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chill and cut into small pieces. Serve as hors d'oeuvres."
+    }
+  ],
+  "keywords": "veggie pizza, appetizer, crescent rolls"
+}

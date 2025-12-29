@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cheeseburger Meat Loaf",
+  "author": {
+    "@type": "Person",
+    "name": "Lori Allen"
+  },
+  "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT25M",
+  "cookTime": "PT1H15M",
+  "totalTime": "PT1H40M",
+  "recipeYield": "1 meatloaf",
+  "recipeIngredient": [
+    "1½ lb lean ground hamburger",
+    "½ tsp garlic salt",
+    "½ cup fine bread crumbs",
+    "1 tsp onion powder",
+    "1 egg",
+    "1 can (8 oz) tomato sauce",
+    "¼ cup parsley flakes",
+    "½ cup finely chopped onion",
+    "1 tsp salt",
+    "1 cup shredded cheddar cheese",
+    "⅛ tsp pepper",
+    "½ tsp seasoning salt",
+    "½ cup sweet pickle relish"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a mixing bowl, combine ground beef, egg, bread crumbs, garlic salt, onion powder, salt, pepper, and seasoning salt. Mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix chopped onion and tomato sauce together in a separate bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add half of the tomato sauce and onion mixture to the beef mixture and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pack half of the beef mixture into a loaf pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle shredded cheddar cheese and sweet pickle relish evenly over the top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pack the remaining beef mixture on top and press firmly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in a preheated oven at 350°F for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Carefully spoon off excess fat from the top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the remaining tomato sauce and onion mixture over the meatloaf."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for an additional 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
+    }
+  ],
+  "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling"
+}

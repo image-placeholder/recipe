@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Taco Ring",
+  "author": {
+    "@type": "Person",
+    "name": "Lorie Valkengoed"
+  },
+  "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Mexican-American",
+  "prepTime": "PT20M",
+  "cookTime": "PT16M",
+  "totalTime": "PT36M",
+  "recipeYield": "1 ring",
+  "recipeIngredient": [
+    "1 lb lean ground hamburger",
+    "1 cup water",
+    "1 packet taco seasoning mix",
+    "2 cups shredded lettuce",
+    "1 cup grated mild cheddar cheese",
+    "1 cup salsa dip",
+    "2 packages Pillsbury crescent rolls",
+    "1 tomato, diced",
+    "1 green pepper (optional)",
+    "Sour cream for serving"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Fry the hamburger and let it cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add shredded cheese on top of the hamburger mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let cool slightly before serving."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
+    }
+  ],
+  "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired"
+}

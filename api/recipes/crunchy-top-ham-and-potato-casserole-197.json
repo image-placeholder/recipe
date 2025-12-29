@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Crunchy Top Ham and Potato Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "Norma Fahner"
+  },
+  "description": "A hearty ham and potato casserole with a crunchy corn flake topping.",
+  "recipeCategory": "Casserole",
+  "recipeCuisine": "American",
+  "prepTime": "PT25M",
+  "cookTime": "PT1H",
+  "totalTime": "PT1H25M",
+  "recipeYield": "10 servings",
+  "recipeIngredient": [
+    "2 lb frozen hash brown potatoes, thawed",
+    "1½ cups shredded cheddar cheese",
+    "1 (10 oz) can cream of chicken soup, undiluted",
+    "½ tsp ground pepper",
+    "⅔ cup chopped green onion",
+    "2 cups cubed, cooked ham",
+    "2 cups sour cream",
+    "Topping: ½ cup butter, melted",
+    "2 cups crushed corn flakes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all casserole ingredients and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the mixture in a 13x9 inch baking dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine topping ingredients (melted butter and crushed corn flakes) and sprinkle on top of the casserole."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F for 1 hour."
+    }
+  ],
+  "keywords": "ham and potato casserole, crunchy topping, comforting casserole"
+}

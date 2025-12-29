@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Chili Turkey",
+  "author": {
+    "@type": "Person",
+    "name": "Dianne Finkbeiner"
+  },
+  "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1 tsp ground coriander",
+    "1½ tsp vegetable oil",
+    "¼ tsp salt",
+    "1 large chopped onion",
+    "½ tsp ground cumin",
+    "1 large chopped green pepper",
+    "¼ tsp cinnamon",
+    "2 chopped garlic cloves",
+    "2 to 3 Tbsp chili powder",
+    "1⅓ lb ground turkey",
+    "1 can red kidney beans",
+    "1¾ cups chicken broth",
+    "6 oz whole wheat spaghetti",
+    "3 tsp tomato paste",
+    "½ cup shredded cheese",
+    "1½ tsp dried oregano"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add garlic and cook for 1 minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the pasta as directed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+    }
+  ],
+  "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti"
+}

@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "English Shepherd's Pie",
+  "author": {
+    "@type": "Person",
+    "name": "Sue Dinney"
+  },
+  "description": "A traditional shepherd's pie with ground beef, vegetables, and mashed potatoes.",
+  "recipeCategory": "Casserole",
+  "recipeCuisine": "British",
+  "prepTime": "PT30M",
+  "cookTime": "PT50M",
+  "totalTime": "PT1H20M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "1 lb ground beef",
+    "1 large onion, finely chopped",
+    "1 bay leaf",
+    "3 Tbsp flour",
+    "1¼ cups water",
+    "1 beef stock cube",
+    "1 Tbsp Worcestershire sauce",
+    "½ tsp salt",
+    "Pepper to taste",
+    "¼ tsp thyme",
+    "1 can peas, undrained",
+    "10 potatoes, peeled and mashed"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown the ground beef briskly over high heat. Drain off excess fat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chopped onion and reduce heat. Stir-fry for 3 to 4 minutes until the meat is well browned."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the flour over the meat mixture and stir to coat evenly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gradually add water, stock cube, Worcestershire sauce, salt, pepper, bay leaf, and thyme. Bring to a boil, then reduce heat and simmer for 40 minutes until the gravy thickens."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the can of peas to the meat mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the meat mixture to a casserole dish and cover with mashed potatoes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in a 400°F oven until the top is golden brown."
+    }
+  ],
+  "keywords": "shepherd's pie, ground beef, mashed potatoes"
+}

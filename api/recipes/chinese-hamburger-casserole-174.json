@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Chinese Hamburger Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "Meredith Mary"
+  },
+  "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
+  "recipeCategory": "Casserole",
+  "recipeCuisine": "Chinese-American",
+  "prepTime": "PT20M",
+  "cookTime": "PT1H",
+  "totalTime": "PT1H20M",
+  "recipeYield": "6 to 8 servings",
+  "recipeIngredient": [
+    "1 lb hamburger",
+    "½ cup warm water",
+    "½ cup uncooked rice",
+    "2 medium onions, chopped",
+    "1 cup sliced celery",
+    "1 can cream of mushroom soup",
+    "1 can cream of chicken soup (optional)",
+    "1 can mushrooms, drained",
+    "¼ cup soya sauce",
+    "¼ tsp pepper",
+    "1 tsp salt",
+    "1 cup bean sprouts (optional)",
+    "1 handful chow mein noodles"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add bean sprouts if using for a more authentic taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
+    }
+  ],
+  "keywords": "Chinese casserole, hamburger casserole, rice casserole"
+}

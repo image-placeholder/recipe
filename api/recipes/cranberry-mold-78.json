@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cranberry Mold",
+  "author": {
+    "@type": "Person",
+    "name": "Betty Macisaac"
+  },
+  "description": "A simple cranberry mold dessert made with raspberry Jello, sugar, and whole orange.",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "recipeYield": "1 mold",
+  "recipeIngredient": [
+    "1 cup white sugar",
+    "2 cups cranberries",
+    "1 package raspberry Jello powder",
+    "1 whole orange"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Put the cranberries and whole orange through a food chopper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix the chopped cranberries and orange with sugar and raspberry Jello powder."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the mixture in a mold and set."
+    }
+  ],
+  "keywords": "cranberry mold, raspberry Jello, dessert"
+}

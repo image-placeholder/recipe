@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Pesto Pasta",
+  "author": {
+    "@type": "Person",
+    "name": "Valerie (Finkbeiner) Mullin"
+  },
+  "description": "A simple and flavorful pasta dish made with pesto, sun-dried tomatoes, and Asiago cheese.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian",
+  "prepTime": "PT10M",
+  "cookTime": "PT8M",
+  "totalTime": "PT18M",
+  "recipeYield": "Several servings",
+  "recipeIngredient": [
+    "Cooked pasta",
+    "Pesto sauce (see pesto recipe)",
+    "Chopped sun-dried tomatoes",
+    "Asiago cheese, crumbled or grated",
+    "Pine nuts",
+    "Balsamic vinegar",
+    "Oil from sun-dried tomatoes",
+    "Parmesan cheese, grated (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Chop the sun-dried tomatoes and crumble or grate the Asiago cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Beat together the pesto, balsamic vinegar, and oil from sun-dried tomatoes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chopped tomatoes, Asiago cheese, and pine nuts to the pesto mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the hot cooked pasta with the pesto mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve with grated Parmesan cheese on top if desired."
+    }
+  ],
+  "keywords": "pesto pasta, sun-dried tomatoes, Asiago cheese, Italian cuisine"
+}
