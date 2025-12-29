@@ -1,0 +1,34 @@
+name: Convert CSV to JSON
+
+on:
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  convert_csv_to_json:
+    runs-on: ubuntu-latest  # Use the latest Ubuntu runner
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2  # Check out the code in the repository
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'  # Set the Node.js version to use (adjust based on your project)
+
+    - name: Install dependencies
+      run: |
+        npm install ./ .github/workflows/splitRecipes
+
+    - name: Run CSV to JSON conversion script
+      run: |
+        node .github/workflows/splitRecipes/splitRecipes.js  # Path to your script in .github/workflows/
+
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        git add .
+        git commit -m "Add converted CSV to JSON output"
+        git push
