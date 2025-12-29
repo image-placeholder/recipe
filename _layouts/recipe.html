@@ -21,6 +21,17 @@
   {% endif %}
 </p>
 
+{% assign authors = page.author %}
+
+{% if authors.name %}
+  {% comment %} This handles the single object case {% endcomment %}
+  <span class="author">{{ authors.name }}</span>
+{% else %}
+  {% comment %} This handles the array case {% endcomment %}
+  {% for author in authors %}
+    <span class="author">{{ author.name }}</span>{% unless forloop.last %}{% if forloop.index == authors.size | minus: 1 %}, and {% else %}, {% endif %}{% endunless %}
+  {% endfor %}
+{% endif %}  
 
   <p><strong>Description:</strong> {{ page.description }}</p>
   <p><strong>Category:</strong> {{ page.recipeCategory }}</p>
