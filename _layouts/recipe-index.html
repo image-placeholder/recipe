@@ -25,7 +25,7 @@
 
   <nav class="mt-20 flex justify-center items-center gap-8 border-t border-stone-200 pt-8">
     {% if page.pagination.prev_page %}
-      <a href="{{ '/recipes/' | relative_url }}{% if page.pagination.prev_page > 1 %}page{{ page.pagination.prev_page }}/{% endif %}" class="uppercase tracking-widest text-[10px] font-bold text-stone-400">&larr; Newer</a>
+      <a href="{{ '/recipes/' | relative_url }}{% if page.pagination.prev_page > 1 %}{{ page.pagination.prev_page }}/{% endif %}" class="uppercase tracking-widest text-[10px] font-bold text-stone-400">&larr; Newer</a>
     {% endif %}
 
     <span class="text-stone-400 text-xs italic">Page {{ page.pagination.current_page }} of {{ page.pagination.total_pages }}</span>
@@ -43,4 +43,3 @@
 {% include footer.html %}  
 </body>
 </html>
-
