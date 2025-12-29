@@ -11,16 +11,15 @@
 <body>
   <h1>{{ page.name }}</h1>
 
-  <p><strong>Author:</strong> 
-    {% if page.author.size %}
-      {% assign authors = page.author %}
-      {% for a in authors %}
-        {{ a.name }}{% if forloop.last == false %}, {% endif %}
-      {% endfor %}
-    {% else %}
-      {{ page.author.name }}
-    {% endif %}
-  </p>
+<p><strong>Author:</strong> 
+  {% if page.author | kind_of: "Array" %}
+    {% for a in page.author %}
+      {{ a.name }}{% if forloop.last == false %}, {% endif %}
+    {% endfor %}
+  {% else %}
+    {{ page.author.name }}
+  {% endif %}
+</p>
 
   <p><strong>Description:</strong> {{ page.description }}</p>
   <p><strong>Category:</strong> {{ page.recipeCategory }}</p>
