@@ -1,0 +1,43 @@
+  <!-- Favicon for Branding -->
+  <link rel="icon" href="{{ '/assets/' | relative_url }}images/favicon.ico" type="image/x-icon">
+  
+  <!-- TailwindCSS for styling -->
+  <!-- <link href="{{ '/assets/css/tailwind.css' | relative_url }}" rel="stylesheet"> -->
+
+  <!-- Inlined and purged -->
+  <style>
+    {% file_read /assets/css/tailwind.css  %}
+  </style>
+
+
+  <!-- ✅ Font Awesome Icons (latest, non-blocking) -->
+<link
+  rel="stylesheet"
+  href="{{ '/assets/css/font-awesome.css' | relative_url }}"
+  media="print"
+  onload="this.media='all'"
+  integrity="..." crossorigin="anonymous"
+/>
+<noscript>
+  <link rel="stylesheet" href="{{ '/assets/css/font-awesome.css' | relative_url }}">
+</noscript>
+
+
+	
+<!-- Preload for font ---> 
+<link rel="preload" href="{{ '/assets/' | relative_url }}webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="{{ '/assets/' | relative_url }}webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+
+<!-- JFA PWA Toolkit -->
+{% include pwa.html base_url=relative_url %}
+
+ <!-- Nav Menu JS -->
+  <script>
+    {% file_read /assets/js/nav_menu.js  %}
+  </script>
+
+
+   <!-- Smooth Scroll -->
+  <script>
+    {% file_read /assets/js/smooth_scroll.js  %}
+  </script>
