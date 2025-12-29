@@ -1,0 +1,98 @@
+# This workflow builds and deploys a Jekyll site to GitHub Pages.
+name: Deploy Jekyll site to Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libvips
+          
+          # Install wkhtmltopdf from the PPA repository
+          sudo apt-get install -y software-properties-common
+          sudo add-apt-repository ppa:alessandro-strada/ppa -y
+          sudo apt-get update
+          sudo apt-get install -y wkhtmltopdf
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+          cache-version: 0
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      # Install Node as this is needed for PurgeCSS
+      - name: Setup Node
+        run: |
+          npm install --save @fortawesome/fontawesome-free
+          npm install --save copy-webpack-plugin
+          npm install -g purgecss
+          npm install tailwindcss@3.4.17 postcss autoprefixer
+          npx tailwindcss -i ./assets/css/_tailwind.css -o ./assets/css/tailwind.css --minify
+
+
+      - name: Set up Node.js environment
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+
+      - name: Build project using Webpack/Rollup
+        run: |
+          npm i
+          npm install liquid js-yaml front-matter lazysizes markmap-lib markmap-view tocbot leaflet.markercluster leaflet vanillajs-datepicker @knadh/autocomp --save
+          npm run build
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Compress Images in _site/assets
+        uses: MarketingPipeline/Image-Optimizer-Action@main
+        with:
+          filename: _site/assets/
+          recursion: true
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+        # Specify the target branch for GitHub Pages deployment
+            branch: gh-pages
+        # Specify the directory containing the built static files
+            folder: _site  # Or the folder where your Jekyll build output is stored
