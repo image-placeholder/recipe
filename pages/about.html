@@ -10,11 +10,11 @@ title: "About"
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Primary Meta Tags -->
-<meta name="description" content="Crediton Table preserves the culinary heritage of Crediton Church, Ontario. Explore digitized and modernized recipes, reflecting decades of community life, shared meals, and local traditions.">
-<meta name="keywords" content="Crediton Table, Crediton Church, South Huron recipes, church cookbooks, digitized recipes, community cookbooks, heritage recipes, traditional Ontario cooking, church heritage, historical recipes">
+<meta name="description" content="{{site.title}} preserves the culinary heritage of Crediton Church, Ontario. Explore digitized and modernized recipes, reflecting decades of community life, shared meals, and local traditions.">
+<meta name="keywords" content="{{site.title}}, Crediton Church, South Huron recipes, church cookbooks, digitized recipes, community cookbooks, heritage recipes, traditional Ontario cooking, church heritage, historical recipes">
 
 <!-- Open Graph / Social Media -->
-<meta property="og:title" content="Crediton Table | Digitized Church Cookbooks of South Huron">
+<meta property="og:title" content="{{site.title}} | Digitized Church Cookbooks of South Huron">
 <meta property="og:description" content="Preserving the culinary heritage of Crediton Church, Ontario through digitized and modernized recipes that capture decades of community life and shared meals.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://yourwebsite.com/about">
@@ -22,7 +22,7 @@ title: "About"
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Crediton Table | Digitized Church Cookbooks of South Huron">
+<meta name="twitter:title" content="{{site.title}} | Digitized Church Cookbooks of South Huron">
 <meta name="twitter:description" content="Preserving the culinary heritage of Crediton Church, Ontario through digitized and modernized recipes that capture decades of community life and shared meals.">
 <meta name="twitter:image" content="https://yourwebsite.com/path-to/preview-image.jpg">
 
@@ -86,7 +86,7 @@ title: "About"
     </span>
 
     <h2 class="text-5xl md:text-7xl mb-8 serif">
-      Crediton Table<br>
+      {{site.title}}<br>
       <span class="italic font-light">A Living Archive.</span>
     </h2>
 
@@ -222,7 +222,7 @@ title: "About"
       </div>
 
       <p class="text-stone-600 italic leading-relaxed text-lg max-w-3xl">
-        Crediton Table was created by Jared Van Valkengoed, who was raised in the
+        {{site.title}} was created by <a class="no-underline hover:underline text-stone-500 hover:text-stone-700" href="{{ '/founder/' | relative_url }}">Jared Van Valkengoed</a>, who was raised in the
         Crediton community. This project reflects a personal connection to the
         people, places, and shared meals that shaped local life.
       </p>
@@ -234,7 +234,6 @@ title: "About"
       </p>
     </article>
 
-  </div>
 
   <article class="bg-white border border-stone-200 p-8 md:p-16 shadow-sm">
     <div class="mb-12 border-b border-stone-100 pb-8">
@@ -260,6 +259,9 @@ title: "About"
       </p>
     </div>
   </article>
+    
+  </div>
+
 
   <div class="mt-24 text-center">
     <p class="text-xs uppercase tracking-[0.35em] text-stone-400 max-w-xl mx-auto">
