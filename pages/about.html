@@ -1,0 +1,278 @@
+---
+permalink: /about/
+title: "About"
+---
+{% assign base_url = site.baseurl | default: "" %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Primary Meta Tags -->
+<meta name="description" content="Crediton Table preserves the culinary heritage of Crediton Church, Ontario. Explore digitized and modernized recipes, reflecting decades of community life, shared meals, and local traditions.">
+<meta name="keywords" content="Crediton Table, Crediton Church, South Huron recipes, church cookbooks, digitized recipes, community cookbooks, heritage recipes, traditional Ontario cooking, church heritage, historical recipes">
+
+<!-- Open Graph / Social Media -->
+<meta property="og:title" content="Crediton Table | Digitized Church Cookbooks of South Huron">
+<meta property="og:description" content="Preserving the culinary heritage of Crediton Church, Ontario through digitized and modernized recipes that capture decades of community life and shared meals.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://yourwebsite.com/about">
+<meta property="og:image" content="https://yourwebsite.com/path-to/preview-image.jpg">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Crediton Table | Digitized Church Cookbooks of South Huron">
+<meta name="twitter:description" content="Preserving the culinary heritage of Crediton Church, Ontario through digitized and modernized recipes that capture decades of community life and shared meals.">
+<meta name="twitter:image" content="https://yourwebsite.com/path-to/preview-image.jpg">
+
+<!-- Canonical -->
+<link rel="canonical" href="https://yourwebsite.com/about">
+  
+  <title>{{page.title}} | {{site.title}}</title>
+ <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f7f2;
+    }
+
+    h1,
+    h2,
+    h3,
+    .serif {
+      font-family: 'Playfair Display', serif;
+    }
+
+    /* Premium Navigation Blur */
+    .glass-nav {
+      background-color: rgba(248, 247, 242, 0.8);
+      backdrop-filter: blur(8px);
+    }
+
+    /* Print optimization to hide URL and Page # */
+    @media print {
+      @page {
+        margin: 0;
+      }
+
+      body {
+        margin: 2cm;
+        background: white !important;
+        color: black !important;
+      }
+
+      nav,
+      footer,
+      button,
+      .no-print {
+        display: none !important;
+      }
+    }
+  </style>
+
+  
+
+ {% include head_content.html base_url=base_url %} 
+  
+</head>
+<body> 
+<!-- Navigation -->
+{% include navigation.html %}   
+<main class="max-w-4xl mx-auto px-6 py-16 md:py-24">
+  <header class="text-center mb-24 animate-fade-in">
+    <span class="text-xs uppercase tracking-widest text-stone-400 mb-4 block">
+      A Community Preservation Project
+    </span>
+
+    <h2 class="text-5xl md:text-7xl mb-8 serif">
+      Crediton Table<br>
+      <span class="italic font-light">A Living Archive.</span>
+    </h2>
+
+    <div class="w-16 h-px bg-stone-300 mx-auto mb-8"></div>
+
+    <p class="text-lg md:text-xl text-stone-500 italic font-light max-w-2xl mx-auto leading-relaxed">
+      Every recipe in this collection began as a page in the Crediton Church
+      community cookbooks. They have been carefully digitized and modernized so
+      the food traditions of South Huron can be cooked, shared, and remembered
+      for generations to come.
+    </p>
+  </header>
+
+  <div class="space-y-20">
+
+    <article class="bg-white border border-stone-200 p-8 md:p-16 shadow-sm">
+
+      <div class="flex flex-col md:flex-row justify-between items-start mb-12 border-b border-stone-100 pb-8">
+        <div>
+          <span class="text-xs uppercase tracking-widest text-stone-400 block mb-2">
+            Origins
+          </span>
+          <h3 class="serif text-3xl italic">
+            Crediton, Ontario
+          </h3>
+        </div>
+
+        <div class="mt-4 md:mt-0 md:text-right">
+          <span class="text-xs uppercase tracking-widest text-stone-400 block mb-2">
+            Source Material
+          </span>
+          <p class="text-sm font-bold uppercase tracking-widest">
+            Church Cookbooks · 1950s–1980s
+          </p>
+        </div>
+      </div>
+
+      <div class="mb-16">
+        <h4 class="text-4xl md:text-5xl serif mb-6">
+          From Fellowship Hall to the Modern Table
+        </h4>
+
+        <p class="text-stone-600 italic leading-relaxed text-lg max-w-3xl">
+          For decades, the Crediton Church cookbooks were more than just recipes — they were practical guides and records of community life. Compiled for fundraisers, shared at socials, and relied upon in everyday kitchens, these pages reflect how families cooked with what was available locally, passed knowledge through shared meals, and nurtured connections that continue to flavor South Huron today.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-3 gap-8 py-8 border-y border-stone-100 mb-16 text-center">
+        <div>
+          <p class="text-xs uppercase text-stone-400 mb-1">Community</p>
+          <p class="text-sm font-bold">South Huron</p>
+        </div>
+        <div>
+          <p class="text-xs uppercase text-stone-400 mb-1">Tradition</p>
+          <p class="text-sm font-bold">Home Cooking</p>
+        </div>
+        <div>
+          <p class="text-xs uppercase text-stone-400 mb-1">Continuity</p>
+          <p class="text-sm font-bold">Preserved</p>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-16">
+
+        <section>
+          <h5 class="text-xs uppercase tracking-[.3em] font-bold mb-8 text-stone-400">
+            The Purpose
+          </h5>
+
+          <ul class="space-y-4">
+            <li class="text-sm border-b border-stone-50 pb-2 italic serif">
+              Protect community recipes from being lost or forgotten
+            </li>
+            <li class="text-sm border-b border-stone-50 pb-2 italic serif">
+              Adapt historical instructions for modern home kitchens
+            </li>
+            <li class="text-sm border-b border-stone-50 pb-2 italic serif">
+              Keep the spirit and intent of the original recipes intact
+            </li>
+            <li class="text-sm border-b border-stone-50 pb-2 italic serif">
+              Ensure future generations can continue to cook and share them
+            </li>
+          </ul>
+        </section>
+
+        <section>
+          <h5 class="text-xs uppercase tracking-[.3em] font-bold mb-8 text-stone-400">
+            The Process
+          </h5>
+
+          <ol class="space-y-8">
+            <li class="flex gap-4">
+              <span class="serif italic text-stone-300 text-xl">1.</span>
+              <p class="text-sm text-stone-700 leading-relaxed">
+                Original church cookbooks were digitized to preserve their contents.
+              </p>
+            </li>
+
+            <li class="flex gap-4">
+              <span class="serif italic text-stone-300 text-xl">2.</span>
+              <p class="text-sm text-stone-700 leading-relaxed">
+                Recipes were modernized for clarity, consistency, and usability.
+              </p>
+            </li>
+
+            <li class="flex gap-4">
+              <span class="serif italic text-stone-300 text-xl">3.</span>
+              <p class="text-sm text-stone-700 leading-relaxed">
+                Measurements, timing, and structure were adjusted for contemporary kitchens.
+              </p>
+            </li>
+
+            <li class="flex gap-4">
+              <span class="serif italic text-stone-300 text-xl">4.</span>
+              <p class="text-sm text-stone-700 leading-relaxed">
+                Each recipe was preserved as a living document — meant to be cooked, not archived away.
+              </p>
+            </li>
+          </ol>
+        </section>
+
+      </div>
+    </article>
+
+    <article class="bg-white border border-stone-200 p-8 md:p-16 shadow-sm">
+      <div class="mb-12 border-b border-stone-100 pb-8">
+        <span class="text-xs uppercase tracking-widest text-stone-400 block mb-2">
+          Stewardship
+        </span>
+        <h3 class="serif text-3xl italic">
+          A Project Rooted in Place
+        </h3>
+      </div>
+
+      <p class="text-stone-600 italic leading-relaxed text-lg max-w-3xl">
+        Crediton Table was created by Jared Van Valkengoed, who was raised in the
+        Crediton community. This project reflects a personal connection to the
+        people, places, and shared meals that shaped local life.
+      </p>
+
+      <p class="text-sm text-stone-700 leading-relaxed mt-6 max-w-3xl">
+        Rather than treating these recipes as artifacts of the past, the goal
+        was to ensure they remain usable and relevant — allowing the traditions
+        they represent to continue naturally into the future.
+      </p>
+    </article>
+
+  </div>
+
+  <article class="bg-white border border-stone-200 p-8 md:p-16 shadow-sm">
+    <div class="mb-12 border-b border-stone-100 pb-8">
+      <span class="text-xs uppercase tracking-widest text-stone-400 block mb-2">
+        Cultural Context
+      </span>
+      <h3 class="serif text-3xl italic">
+        More Than Recipes
+      </h3>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-16">
+      <p class="text-sm text-stone-700 leading-relaxed">
+        Church cookbooks were often the only printed record of women’s work,
+        community fundraising, and regional foodways. Contributors were rarely
+        professional cooks — they were neighbors, volunteers, and parish members.
+      </p>
+
+      <p class="text-sm text-stone-700 leading-relaxed">
+        Measurements were approximate. Instructions assumed experience.
+        Ingredients reflected what was grown, preserved, or traded locally.
+        Together, these details form a practical history of everyday life.
+      </p>
+    </div>
+  </article>
+
+  <div class="mt-24 text-center">
+    <p class="text-xs uppercase tracking-[0.35em] text-stone-400 max-w-xl mx-auto">
+      This archive exists to preserve and carry forward the shared food traditions
+      of the Crediton Church community and the South Huron region.
+    </p>
+
+    <p class="text-[11px] uppercase tracking-widest text-stone-300 text-center mt-8">
+      Source material held in private collections · Community donated
+    </p>
+  </div>
+</main>
+<!-- Footer -->
+{% include footer.html %}    
+</body>
+</html>
