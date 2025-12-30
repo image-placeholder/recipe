@@ -163,6 +163,53 @@ module Jekyll
       end
     end
 
+
+    # -----------------------------
+    # 5. Paginated Cuisine Pages
+    # -----------------------------
+    cuisines.each do |name, pages|
+      slug = slugify(name)
+      total_pages = (pages.size.to_f / per_page).ceil
+    
+      (1..total_pages).each do |page_num|
+        offset = (page_num - 1) * per_page
+        slice  = pages.slice(offset, per_page)
+    
+        dir =
+          if page_num == 1
+            "recipes/cuisine/#{slug}"
+          else
+            "recipes/cuisine/#{slug}/#{page_num}"
+          end
+    
+        cuisine_page = Jekyll::PageWithoutAFile.new(
+          site,
+          site.source,
+          dir,
+          "index.html"
+        )
+    
+        cuisine_page.data = {
+          "layout"  => "recipe-archive",
+          "title"   => name,
+          "type"    => "cuisine",
+          "slug"    => slug,
+          "count"   => pages.size,
+          "recipes" => slice.map(&:data),
+          "pagination" => {
+            "current_page" => page_num,
+            "total_pages"  => total_pages,
+            "next_page"    => page_num < total_pages ? page_num + 1 : nil,
+            "prev_page"    => page_num > 1 ? page_num - 1 : nil,
+            "base_url"     => "/recipes/cuisine/#{slug}/"
+          }
+        }
+    
+        site.pages << cuisine_page
+      end
+    end
+
+    
     # -----------------------------
     # Utility: slugify
     # -----------------------------
