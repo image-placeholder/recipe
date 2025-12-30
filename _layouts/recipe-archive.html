@@ -16,7 +16,7 @@
 
 <main id="main-view" class="transition-opacity duration-500">
 <div class="max-w-4xl mx-auto py-20 px-6">
-  <h1 class="text-4xl serif mb-12 text-center">The Recipe Archive</h1>
+  <h1 class="text-4xl serif mb-12 text-center">The Recipe Archive - {{ page.count }} recipes - {{ page.type | capitalize }}</h1>
   
   <div class="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-8">
     {% for recipe in page.paginated_recipes %}
