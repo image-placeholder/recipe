@@ -161,7 +161,7 @@ module Jekyll
           site.pages << category_page
         end
       end
-
+    end
 
     # -----------------------------
     # Utility: slugify
