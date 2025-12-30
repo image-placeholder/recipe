@@ -148,7 +148,7 @@ module Jekyll
             "type"    => "category",
             "slug"    => slug,
             "count"   => pages.size,
-            "recipes" => slice.map(&:data),
+            "paginated_recipes" => slice.map(&:data),
             "pagination" => {
               "current_page" => page_num,
               "total_pages"  => total_pages,
