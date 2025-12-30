@@ -156,7 +156,7 @@ function renderResults(results) {
             <span class="text-[9px] uppercase tracking-widest text-stone-400 mb-4 block">${r.author}</span>
             <h3 class="text-3xl mb-4 serif group-hover:italic transition-all">${r.name}</h3>
             <p class="text-sm text-stone-500 leading-relaxed mb-6">${r?.name}</p>
-            <a href="{{base_url}}/${r.url}" class="block">
+            <a href="{{ '${r.url}' | relative_url }}" class="block">
             <div class="flex items-center gap-2">
               <span class="h-px w-8 bg-stone-900"></span>
               <span class="text-[10px] font-bold uppercase tracking-widest">View Recipe</span>
