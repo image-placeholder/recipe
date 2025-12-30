@@ -1,0 +1,132 @@
+---
+permalink: /support-us
+title: "Support Us"
+---
+{% assign base_url = site.baseurl | default: "" %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script> 
+  <title>{{{page.title}} | {{site.title}}</title>
+ <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f7f2;
+    }
+
+    h1,
+    h2,
+    h3,
+    .serif {
+      font-family: 'Playfair Display', serif;
+    }
+
+    a { text-decoration: none; }
+    /* Premium Navigation Blur */
+    .glass-nav {
+      background-color: rgba(248, 247, 242, 0.8);
+      backdrop-filter: blur(8px);
+    }
+
+    /* Print optimization to hide URL and Page # */
+    @media print {
+      @page {
+        margin: 0;
+      }
+
+      body {
+        margin: 2cm;
+        background: white !important;
+        color: black !important;
+      }
+
+      nav,
+      footer,
+      button,
+      .no-print {
+        display: none !important;
+      }
+    }
+  </style>
+
+  
+
+ {% include head_content.html base_url=base_url %} 
+  
+</head>
+<body> 
+<!-- Navigation -->
+{% include navigation.html %}   
+  <main class="max-w-4xl mx-auto px-6 py-16 md:py-24">
+    <header class="text-center mb-24 animate-fade-in">
+      <span class="text-xs uppercase tracking-widest text-stone-400 mb-4 block">
+        Keep the Heritage Alive
+      </span>
+      <h2 class="text-5xl md:text-7xl mb-8 serif">
+        Support Crediton Table<br>
+        <span class="italic font-light">Preserve, Share, Remember</span>
+      </h2>
+      <div class="w-16 h-px bg-stone-300 mx-auto mb-8"></div>
+      <p class="text-lg md:text-xl text-stone-500 italic font-light max-w-2xl mx-auto leading-relaxed">
+        Your support helps maintain this digital archive of Crediton Church community recipes. Every contribution keeps the site online, funds hosting costs, allows for improvements, and ensures that the flavors and stories of South Huron remain accessible for generations.
+      </p>
+    </header>
+
+    <!-- Donations Section -->
+    <section class="mb-24">
+      <h3 class="serif text-3xl mb-6">How to Donate</h3>
+      <p class="text-stone-700 mb-4">
+        Donations can be made directly to the site owner to support hosting, domain costs, and future improvements. Any surplus funds will, in good faith, be allocated either to the church or towards other heritage-related projects.
+      </p>
+      <p class="text-stone-700 mb-4 font-semibold">
+        Note: The site owner is <strong>not affiliated with Crediton Church</strong>. Donations made here are not eligible for tax receipts. If you prefer, donations can also be made directly to the church:
+      </p>
+      <ul class="list-disc list-inside text-stone-700 mb-4">
+        <li>Zion United Church Crediton — check <a href="https://creditonuc.org" target="_blank" class="text-stone-500 underline hover:text-stone-700">creditonuc.org</a> for e-transfer or direct giving instructions.</li>
+      </ul>
+      <p class="text-stone-500 italic text-sm mb-8">
+        This ensures your gift goes directly to the church while supporting community heritage.
+      </p>
+
+      <div class="flex flex-col md:flex-row gap-6">
+        <a href="#" class="inline-block bg-stone-800 text-white px-6 py-3 uppercase text-xs tracking-widest font-bold text-center hover:bg-stone-700 transition-colors">
+          Donate to Website
+        </a>
+        <a href="https://creditonuc.org" target="_blank" class="inline-block border border-stone-800 text-stone-800 px-6 py-3 uppercase text-xs tracking-widest font-bold text-center hover:bg-stone-50 transition-colors">
+          Donate to Church
+        </a>
+      </div>
+    </section>
+
+    <!-- Other Ways to Help -->
+    <section class="mb-24">
+      <h3 class="serif text-3xl mb-6">Other Ways to Contribute</h3>
+      <ul class="list-disc list-inside text-stone-700 space-y-4">
+        <li><strong>Share the archive:</strong> Spread the word with friends, family, or social media — every visitor keeps the story alive.</li>
+        <li><strong>Give feedback:</strong> Found a typo, outdated info, or have a story to share? Your input improves the archive for everyone.</li>
+        <li><strong>Contribute similar projects:</strong> If you maintain or know of other heritage projects, collaborating helps preserve community traditions.</li>
+        <li><strong>Open source contributions:</strong> The website’s source code is <a href="https://github.com/your-repo/crediton-table" target="_blank" class="text-stone-500 underline hover:text-stone-700">available on GitHub</a>. Developers can suggest improvements, fixes, or enhancements.</li>
+        <li><strong>International support:</strong> Even from outside Canada, you can help by donating to the church directly online, sharing the archive, or contributing digital skills.</li>
+      </ul>
+    </section>
+
+    <!-- Legal & Disclaimer -->
+    <section class="text-stone-500 text-sm italic">
+      <h3 class="serif text-2xl mb-4">Disclaimer</h3>
+      <p class="mb-2">
+        Crediton Table is a private initiative by the site owner and is not affiliated with the Crediton Church. Donations made to the website are not tax-deductible. Any funds contributed are used at the discretion of the site owner for website maintenance, improvements, or in good faith to support church or heritage projects. No guarantees are made regarding fund allocation.
+      </p>
+      <p class="mb-2">
+        By donating or interacting with this site, you agree that the site owner cannot be held liable for any decisions regarding use of funds or content on this site.
+      </p>
+    </section>
+  </main>
+
+<!-- Footer -->
+{% include footer.html %}    
+</body>
+</html>
