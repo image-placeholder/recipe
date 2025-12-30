@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!query) return;
 
     window.location.href =
-      `/cemetery_demo-/search-cemetery?q=${encodeURIComponent(query)}`;
+      `{{ '/recipes/' | relative_url }}?q=${encodeURIComponent(query)}`;
   };
 
   /* ------------------------
