@@ -1,0 +1,176 @@
+---
+permalink: /search-recipes/
+title: "Search Recipes"
+---
+{% assign base_url = site.baseurl | default: "" %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script> 
+  <title>{{page.title}} | {{site.title}}</title>
+ <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f7f2;
+    }
+
+    h1,
+    h2,
+    h3,
+    .serif {
+      font-family: 'Playfair Display', serif;
+    }
+
+    /* Premium Navigation Blur */
+    .glass-nav {
+      background-color: rgba(248, 247, 242, 0.8);
+      backdrop-filter: blur(8px);
+    }
+
+    /* Print optimization to hide URL and Page # */
+    @media print {
+      @page {
+        margin: 0;
+      }
+
+      body {
+        margin: 2cm;
+        background: white !important;
+        color: black !important;
+      }
+
+      nav,
+      footer,
+      button,
+      .no-print {
+        display: none !important;
+      }
+    }
+  </style>
+
+<style> body { font-family: 'Inter', sans-serif; } h1, h2, h3, .serif { font-family: 'Playfair Display', serif; } .bg-heritage { background-color: #fcfaf7; }
+    /* Smooth Fade In for Results */
+    .result-item {
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    .result-item.visible {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* Custom underline transition */
+    .search-input-focus {
+        transition: width 0.6s ease;
+        width: 0%;
+    }
+    input:focus + .search-input-focus {
+        width: 100%;
+    }
+</style>
+  
+  
+
+ {% include head_content.html base_url=base_url %} 
+  
+</head>
+<body> 
+<!-- Navigation -->
+{% include navigation.html %}   
+<main class="flex-grow max-w-5xl mx-auto w-full px-6 py-20">
+    <div class="text-center mb-16">
+        <span class="text-[10px] uppercase tracking-[0.4em] text-stone-400 mb-4 block underline underline-offset-8 decoration-stone-200">Digital Ledger Search</span>
+        <h2 class="text-4xl md:text-6xl font-bold mb-12 serif italic">What are you <br>looking for?</h2>
+
+        <div class="relative max-w-2xl mx-auto">
+            <input type="text" id="mainSearch" oninput="performSearch()" autofocus
+                placeholder="Search by ingredient, name, or contributor..." 
+                class="w-full bg-transparent text-2xl md:text-3xl text-center border-none focus:outline-none placeholder-stone-200 serif italic py-4">
+            <div class="h-[1px] bg-stone-200 w-full absolute bottom-0"></div>
+            <div class="h-[1px] bg-stone-900 absolute bottom-0 left-0 search-input-focus"></div>
+        </div>
+    </div>
+
+    <div id="resultsGrid" class="grid grid-cols-1 md:grid-cols-2 gap-8 min-h-[400px]">
+        <div id="searchPlaceholder" class="col-span-full text-center py-20">
+            <p class="text-stone-300 italic serif text-xl">Type to browse the community's digitized recipes...</p>
+        </div>
+    </div>
+</main>
+
+
+ <script>
+    // Expanded Recipe Dataset
+    const recipes = [
+        { id: 0, title: "Church Social Risotto", contributor: "Mrs. Evelyn Schmidt", tags: "mushrooms, rice, dinner", description: "A creamy local favorite from the 1964 social." },
+        { id: 1, title: "Huron County Scallops", contributor: "The Miller Family", tags: "seafood, lemon, appetizer", description: "Fresh from the lakeside harvests." },
+        { id: 2, title: "Rosemary Focaccia", contributor: "Peter & Diane", tags: "bread, herbs, baking", description: "The scent of this loaf filled Crediton Main St." },
+        { id: 3, title: "Summer Harvest Soup", contributor: "The Weber Farm", tags: "vegetables, vegetarian, spring", description: "Utilizing the very first crops of the season." },
+        { id: 4, title: "Grandma's Butter Tarts", contributor: "Alice Cooper (Crediton)", tags: "dessert, sweet, pastry", description: "The gold standard of the 1952 Fall Fair." }
+    ];
+
+    function performSearch() {
+        const query = document.getElementById('mainSearch').value.toLowerCase();
+        const grid = document.getElementById('resultsGrid');
+        const placeholder = document.getElementById('searchPlaceholder');
+
+        if (query.length === 0) {
+            grid.innerHTML = `
+                <div id="searchPlaceholder" class="col-span-full text-center py-20">
+                    <p class="text-stone-300 italic serif text-xl">Type to browse the community's digitized recipes...</p>
+                </div>
+            `;
+            return;
+        }
+
+        const filtered = recipes.filter(r => 
+            r.title.toLowerCase().includes(query) || 
+            r.contributor.toLowerCase().includes(query) ||
+            r.tags.toLowerCase().includes(query)
+        );
+
+        renderResults(filtered);
+    }
+
+    function renderResults(results) {
+        const grid = document.getElementById('resultsGrid');
+
+        if (results.length === 0) {
+            grid.innerHTML = `
+                <div class="col-span-full text-center py-20">
+                    <p class="text-stone-400 italic">No entries found matching that query in the Crediton Ledger.</p>
+                </div>
+            `;
+            return;
+        }
+
+        grid.innerHTML = results.map((r, index) => `
+            <div class="result-item group bg-white border border-stone-100 p-10 cursor-pointer hover:shadow-2xl hover:-translate-y-1 transition-all" 
+                 style="transition-delay: ${index * 50}ms"
+                 onclick="alert('Navigating to recipe: ' + '${r.title}')">
+                <span class="text-[9px] uppercase tracking-widest text-stone-400 mb-4 block">${r.contributor}</span>
+                <h3 class="text-3xl mb-4 serif group-hover:italic transition-all">${r.title}</h3>
+                <p class="text-sm text-stone-500 leading-relaxed mb-6">${r.description}</p>
+                <div class="flex items-center gap-2">
+                    <span class="h-px w-8 bg-stone-900"></span>
+                    <span class="text-[10px] font-bold uppercase tracking-widest">View Ledger Entry</span>
+                </div>
+            </div>
+        `).join('');
+
+        // Trigger animation
+        setTimeout(() => {
+            const items = document.querySelectorAll('.result-item');
+            items.forEach(el => el.classList.add('visible'));
+        }, 10);
+    }
+</script> 
+<!-- Footer -->
+{% include footer.html %}    
+</body>
+</html>
