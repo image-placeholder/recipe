@@ -101,7 +101,7 @@ module Jekyll
 
         index_page = Jekyll::PageWithoutAFile.new(site, site.source, dir, "index.html")
         index_page.data = {
-          "layout" => "recipe-index",
+          "layout" => "recipe-archive",
           "title"  => "Recipes — Page #{page_num}",
           "paginated_recipes" => slice.map(&:data),
           "pagination" => {
@@ -116,57 +116,52 @@ module Jekyll
       end
 
       # -----------------------------
-      # 4. Category Pages
+      # 4. Paginated Category Pages
       # -----------------------------
+      per_page = 12
+      
       categories.each do |name, pages|
         slug = slugify(name)
-
-        category_page = Jekyll::PageWithoutAFile.new(
-          site,
-          site.source,
-          "recipes/category/#{slug}",
-          "index.html"
-        )
-
-        category_page.data = {
-          "layout"   => "recipe-archive",
-          "title"    => name,
-          "type"     => "category",
-          "slug"     => slug,
-          "count"    => pages.size,
-          "recipes"  => pages.map(&:data),
-          "permalink"=> "/recipes/category/#{slug}/"
-        }
-
-        site.pages << category_page
+        total_pages = (pages.size.to_f / per_page).ceil
+      
+        (1..total_pages).each do |page_num|
+          offset = (page_num - 1) * per_page
+          slice  = pages.slice(offset, per_page)
+      
+          dir =
+            if page_num == 1
+              "recipes/category/#{slug}"
+            else
+              "recipes/category/#{slug}/#{page_num}"
+            end
+      
+          category_page = Jekyll::PageWithoutAFile.new(
+            site,
+            site.source,
+            dir,
+            "index.html"
+          )
+      
+          category_page.data = {
+            "layout"  => "recipe-archive",
+            "title"   => name,
+            "type"    => "category",
+            "slug"    => slug,
+            "count"   => pages.size,
+            "recipes" => slice.map(&:data),
+            "pagination" => {
+              "current_page" => page_num,
+              "total_pages"  => total_pages,
+              "next_page"    => page_num < total_pages ? page_num + 1 : nil,
+              "prev_page"    => page_num > 1 ? page_num - 1 : nil,
+              "base_url"     => "/recipes/category/#{slug}/"
+            }
+          }
+      
+          site.pages << category_page
+        end
       end
 
-      # -----------------------------
-      # 5. Cuisine Pages
-      # -----------------------------
-      cuisines.each do |name, pages|
-        slug = slugify(name)
-
-        cuisine_page = Jekyll::PageWithoutAFile.new(
-          site,
-          site.source,
-          "recipes/cuisine/#{slug}",
-          "index.html"
-        )
-
-        cuisine_page.data = {
-          "layout"   => "recipe-archive",
-          "title"    => name,
-          "type"     => "cuisine",
-          "slug"     => slug,
-          "count"    => pages.size,
-          "recipes"  => pages.map(&:data),
-          "permalink"=> "/recipes/cuisine/#{slug}/"
-        }
-
-        site.pages << cuisine_page
-      end
-    end
 
     # -----------------------------
     # Utility: slugify
