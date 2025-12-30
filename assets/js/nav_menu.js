@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!query) return;
 
     window.location.href =
-      `{{ '/recipes/' | relative_url }}?q=${encodeURIComponent(query)}`;
+      `{{ '/search-recipes/' | relative_url }}?q=${encodeURIComponent(query)}`;
   };
 
   /* ------------------------
