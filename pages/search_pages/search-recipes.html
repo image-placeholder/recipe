@@ -132,7 +132,7 @@ function performSearch(query) {
     const filtered = recipes.filter(r => 
         r.name.toLowerCase().includes(query) || 
         r.author.toLowerCase().includes(query) ||
-        r.keywords.toLowerCase().includes(query)
+        r.keyword.toLowerCase().includes(query)
     );
 
     renderResults(filtered);
