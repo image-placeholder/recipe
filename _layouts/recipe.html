@@ -11,6 +11,12 @@
 
  {% assign base_url = site.baseurl | default: "" %}
  {% include head_content.html base_url=base_url %} 
+
+     <!-- Social Share Requirements -->
+  <script>
+    {% file_read /assets/js/copyToClipboard.js  %}
+  </script>
+  
 </head>
 <body>
     <!-- Navigation -->
@@ -109,7 +115,7 @@
 
     </div>
 
-
+{% include social_share.html %} 
     
 <div role="navigation" aria-label="Recipe Navigation" class="mt-4 pt-12 border-t border-stone-200">
   <div class="flex flex-col md:flex-row items-stretch border-b border-stone-100 pb-16">
