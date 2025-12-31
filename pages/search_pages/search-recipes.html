@@ -367,16 +367,20 @@ title: "Search Recipes"
   /* ----------------------------------
      Init
   ---------------------------------- */
-  const init = () => {
-    DOM.input?.addEventListener('input', (e) =>
-      handleSearch(e.target.value);
-      // If URL has ?q=..., pre-fill and auto-search
-      const urlParams = new URLSearchParams(window.location.search);
-      const queryParam = urlParams.get('q');
-      if (queryParam) performSearch(queryParam.toLowerCase());
-      document.removeEventListener('DOMContentLoaded', init);
-    );
-  };
+ const init = () => {
+  // Add input listener
+  DOM.input?.addEventListener('input', (e) => {
+    handleSearch(e.target.value);
+  });
+
+  // If URL has ?q=..., pre-fill and auto-search
+  const urlParams = new URLSearchParams(window.location.search);
+  const queryParam = urlParams.get('q');
+  if (queryParam) performSearch(queryParam.toLowerCase());
+
+  // Remove DOMContentLoaded listener after init
+  document.removeEventListener('DOMContentLoaded', init);
+};
 
   document.addEventListener('DOMContentLoaded', init);
 })();
