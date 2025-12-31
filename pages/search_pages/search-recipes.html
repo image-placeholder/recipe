@@ -72,6 +72,48 @@ title: "Search Recipes"
     input:focus + .search-input-focus {
         width: 100%;
     }
+
+/* ----------------------------------
+   Skeleton fade out
+---------------------------------- */
+.skeleton {
+  opacity: 1;
+  transition: opacity 200ms ease;
+}
+
+.skeleton.fade-out {
+  opacity: 0;
+}
+
+    /* ----------------------------------
+       Card entrance animation
+    ---------------------------------- */
+    .result-item {
+      opacity: 0;
+      transform: translateY(8px);
+      transition:
+        opacity 260ms ease,
+        transform 260ms ease;
+    }
+    
+    .result-item.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    
+    /* ----------------------------------
+       Reduced motion support
+    ---------------------------------- */
+    @media (prefers-reduced-motion: reduce) {
+      .skeleton,
+      .result-item {
+        transition: none !important;
+        transform: none !important;
+        opacity: 1 !important;
+      }
+    }
+
+  
 </style>
   
   
@@ -118,7 +160,7 @@ title: "Search Recipes"
 </main>
 
 <template id="skeletonTemplate">
-  <div class="animate-pulse bg-stone-50 border border-stone-100 p-10">
+  <div class="skeleton animate-pulse bg-stone-50 border border-stone-100 p-10">
     <div class="h-2 w-24 bg-stone-200 mb-4"></div>
     <div class="h-6 w-3/4 bg-stone-200 mb-4"></div>
     <div class="h-3 w-full bg-stone-200 mb-6"></div>
@@ -175,6 +217,16 @@ title: "Search Recipes"
     if (DOM.status) DOM.status.textContent = msg;
   };
 
+  const fadeOutSkeletons = () => {
+    const skeletons = DOM.grid.querySelectorAll('.skeleton');
+    skeletons.forEach(el => el.classList.add('fade-out'));
+  
+    setTimeout(() => {
+      skeletons.forEach(el => el.remove());
+    }, 200);
+  };
+
+  
   /* ----------------------------------
      Search Logic
   ---------------------------------- */
@@ -213,7 +265,7 @@ title: "Search Recipes"
     <article
       role="listitem"
       tabindex="0"
-      class="result-item visible group bg-white border border-stone-100 p-10
+      class="result-item group bg-white border border-stone-100 p-10
              transition hover:shadow-2xl hover:-translate-y-1
              focus:outline-none focus:ring-2 focus:ring-stone-800"
     >
@@ -241,44 +293,40 @@ title: "Search Recipes"
   /* ----------------------------------
      Incremental Rendering
   ---------------------------------- */
-  const renderNextBatch = () => {
-    const next = filtered.slice(
-      renderedCount,
-      renderedCount + BATCH_SIZE
-    );
-
-    if (!next.length) {
+    const renderNextBatch = () => {
+      const next = filtered.slice(
+        renderedCount,
+        renderedCount + BATCH_SIZE
+      );
+    
+      if (!next.length) {
+        observer?.disconnect();
+        return;
+      }
+    
+      // Fade skeletons out before inserting cards
+      fadeOutSkeletons();
+    
+      DOM.grid.insertAdjacentHTML(
+        'beforeend',
+        next.map(createCardHTML).join('')
+      );
+    
+      const newItems = DOM.grid.querySelectorAll(
+        '.result-item:not(.visible)'
+      );
+    
+      // Ensure DOM paint before applying animation
+      requestAnimationFrame(() => {
+        newItems.forEach(el => el.classList.add('visible'));
+      });
+    
+      renderedCount += next.length;
+    
       observer?.disconnect();
-      return;
-    }
+      setupObserver();
+    };
 
-    DOM.grid.insertAdjacentHTML(
-      'beforeend',
-      next.map(createCardHTML).join('')
-    );
-
-    renderedCount += next.length;
-
-    // Observe new last item
-    observer?.disconnect();
-    setupObserver();
-  };
-
-  const setupObserver = () => {
-    observer?.disconnect();
-
-    observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting) {
-          renderNextBatch();
-        }
-      },
-      { rootMargin: '300px' }
-    );
-
-    const lastItem = DOM.grid.lastElementChild;
-    if (lastItem) observer.observe(lastItem);
-  };
 
   /* ----------------------------------
      Controller
