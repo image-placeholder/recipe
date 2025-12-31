@@ -117,6 +117,10 @@
 
     </div>
 
+{% for recipe in recipes %}
+            {{ recipe }}  {{ recipe.name }}   {{ recipe.description }}  {{ recipe._url }} 
+{% endfor %}
+    
 {% include social_share.html %} 
     
 <div role="navigation" aria-label="Recipe Navigation" class="mt-4 pt-12 border-t border-stone-200">
