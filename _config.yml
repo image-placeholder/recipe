@@ -72,7 +72,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-minifier
-  - jekyll-terser
   - jekyll-archives-v2
   - jekyll-collection-pages
   - jekyll-purge-css
@@ -82,8 +81,8 @@ plugins:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  compress_javascript: false # set to false since we are using terser as the js minifier
-  compress_css: false
+  compress_javascript: true # set to false since we are using terser as the js minifier
+  compress_css: true
   exclude: ["robots.txt", "search.json", "assets/js/pwa/manifest.json"]
 
 
@@ -110,17 +109,9 @@ PurgeCSS:
   css: ["_site/assets/css/font-awesome.css"] ## Only purge font awesome, Jekyll PurgeCSS will break with tailwind. 
   output: _site/assets/css/
       
-# -----------------------------------------------------------------------------
-# Terser
-# -----------------------------------------------------------------------------
-
-terser:
-  compress:
-    drop_console: true
-
   
 assets:
-  compress: true  # Enable CSS and JS compression
+  compress: false  # Enable CSS and JS compression
   minify: true    # Enable HTML minification
 
 gh_repo_name: cemetery_demo- # required for downloading images
