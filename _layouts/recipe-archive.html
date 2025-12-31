@@ -18,9 +18,13 @@
 <div class="max-w-4xl mx-auto py-20 px-6">
 <h1 class="text-4xl serif mb-12 text-center">
   {% if page.type == "recipes" %}
-    Browse Recipes
+    All Recipes
+  {% elsif page.type == "categories" %}
+    Browse Recipes by {{ page.type | capitalize }}
+  {% elsif page.type == "cuisine_categories" %}
+     {{ page.title | capitalize }} {{ page.type | capitalize }} Recipes
   {% elsif page.type == "category" %}
-    All Recipe Categories
+    {{ page.title | capitalize }} Recipes
   {% else %}
     {{ page.title | capitalize }} {{ page.type | capitalize }} Recipes
   {% endif %} - {{ page.type | capitalize }}
