@@ -1,6 +1,6 @@
 const fs = require('fs'); 
 const path = require('path');
-const{ isoDuration, en } = "@musement/iso-duration"
+const{ isoDuration, en } = require("@musement/iso-duration");
 const _fs = require('fs').promises;
  
 const humanizeDuration = require('humanize-duration');
