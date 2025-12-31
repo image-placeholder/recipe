@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Glazed Cottage Roll",
+  "author": {
+    "@type": "Person",
+    "name": "Rosemary Stewart"
+  },
+  "description": "A sweet and savory glazed cottage roll baked with a mustard and brown sugar crust.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT2H15M",
+  "totalTime": "PT2H35M",
+  "recipeYield": "1 glazed cottage roll",
+  "recipeIngredient": [
+    "1 sweet pickled cottage roll",
+    "1 clove garlic, crushed",
+    "1 bay leaf",
+    "3 Tsp prepared mustard",
+    "6 whole cloves",
+    "3 Tbsp brown sugar",
+    "1 onion, quartered"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Remove outer wrapper from cottage roll. Place in large saucepan and cover with water. Add bay leaf, cloves, garlic and onion."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to a boil, cover pan and reduce heat to simmer. Cook for 1½ to 2 hours or until meat thermometer registers 170°F (75°C)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lift meat from water and remove netting. Place in shallow pan or casserole dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blend mustard and brown sugar together. Spread over cottage roll."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in 425°F (220°C) oven for 15 minutes, basting occasionally, until glaze is set."
+    }
+  ],
+  "keywords": "glazed cottage roll, baked ham, sweet glaze"
+}

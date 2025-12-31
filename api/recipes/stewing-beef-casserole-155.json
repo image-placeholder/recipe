@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Stewing Beef Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "Kelly Haines"
+  },
+  "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT4H",
+  "totalTime": "PT4H20M",
+  "recipeYield": "1 casserole",
+  "recipeIngredient": [
+    "1 lb stewing beef",
+    "1 tsp salt",
+    "Dash pepper",
+    "1¼ cups diced potatoes",
+    "1¼ cups diced carrots",
+    "1 tsp sugar",
+    "2 Tbsp Minit Tapioca",
+    "½ cup diced onions",
+    "1 cup V8 juice",
+    "½ cup diced celery"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix all ingredients lightly in a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 250°F for 4 hours without uncovering."
+    }
+  ],
+  "keywords": "beef casserole, slow-cooked stew, comfort food"
+}

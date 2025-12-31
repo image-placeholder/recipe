@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Roasted Carrots and Parsnips",
+  "author": {
+    "@type": "Person",
+    "name": "Thelma Finkbeiner"
+  },
+  "description": "A simple roasted vegetable dish featuring carrots, parsnips, and onions with a maple syrup and mustard glaze.",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT50M",
+  "totalTime": "PT1H5M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1 lb parsnips, peeled and cut into 1-inch pieces",
+    "1 lb carrots, peeled and cut into 1-inch pieces",
+    "1 cup onions, cut into wedges",
+    "2 Tbsp vegetable oil",
+    "1 tsp dried thyme",
+    "2 Tbsp maple syrup",
+    "1 Tbsp Dijon mustard"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400°F (200°C)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place parsnips, carrots, onions, oil, and thyme in a prepared baking dish; toss until vegetables are well coated with oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roast in the oven for 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, combine maple syrup and mustard."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the maple syrup mixture over the vegetables and toss to coat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roast for another 20 to 25 minutes or until vegetables are tender and golden, stirring once."
+    }
+  ],
+  "keywords": "roasted carrots, roasted parsnips, maple syrup glaze"
+}

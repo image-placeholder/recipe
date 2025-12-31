@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Plain Pickled Eggs",
+  "author": {
+    "@type": "Person",
+    "name": "Antonia Hull"
+  },
+  "description": "A simple recipe for pickled eggs with a tangy cider vinegar brine and sliced onions.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "recipeYield": "12 pickled eggs",
+  "recipeIngredient": [
+    "1 tsp pickling spice",
+    "2 cups cider vinegar",
+    "1 large onion, sliced into rings",
+    "12 hard-boiled eggs, shelled",
+    "1 tsp salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all ingredients except eggs and onion rings in a stainless steel or enamel pot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to a boil and simmer for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large jar, alternate layers of eggs and onion rings."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the heated liquid over the eggs and onions, ensuring all are covered."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
+    }
+  ],
+  "keywords": "pickled eggs, cider vinegar, appetizer"
+}

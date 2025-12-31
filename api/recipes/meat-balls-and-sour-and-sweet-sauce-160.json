@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Meat Balls and Sour And Sweet Sauce",
+  "author": {
+    "@type": "Person",
+    "name": "Glenda Wuerth"
+  },
+  "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT35M",
+  "totalTime": "PT55M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "2 lb hamburger",
+    "1 slice dry bread (crumbs)",
+    "1 Tbsp cornstarch",
+    "¼ cup milk",
+    "1 tsp onion flakes or 1 tsp real onion",
+    "1 (19 oz) can pineapple, crushed",
+    "⅓ cup vinegar",
+    "1 tsp salt",
+    "1 Tbsp soya sauce",
+    "1 tsp Worcestershire sauce",
+    "1 egg"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix all ingredients together and form into 1½ inch balls."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from oven and drain grease."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place meatballs in a large casserole."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+    }
+  ],
+  "keywords": "meatballs, sweet and sour sauce, baked meatballs"
+}

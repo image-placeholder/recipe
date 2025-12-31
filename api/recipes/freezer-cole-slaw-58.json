@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Freezer Cole Slaw",
+  "author": {
+    "@type": "Person",
+    "name": "Bonnie McNutt"
+  },
+  "description": "A freezer coleslaw recipe with a sweet and tangy dressing, made with grated cabbage and optional vegetables.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT5M",
+  "totalTime": "PT20M",
+  "recipeYield": "Several servings",
+  "recipeIngredient": [
+    "1 large cabbage, grated or chopped",
+    "1 large carrot, grated (optional)",
+    "1 onion, grated (optional)",
+    "1 cup white sugar",
+    "1 cup white vinegar",
+    "1 Tbsp salt",
+    "1 Tbsp celery seed",
+    "1 tsp mustard (optional)",
+    "¼ cup water"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat together vinegar, sugar, salt, water, celery seed, and mustard to make the syrup."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grate or chop cabbage and other vegetables in a food processor."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the cabbage mixture with the syrup and refrigerate overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place in a container, seal, and freeze."
+    }
+  ],
+  "keywords": "freezer coleslaw, slaw, salad"
+}

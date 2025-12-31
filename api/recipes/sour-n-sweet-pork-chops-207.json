@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Sour 'N Sweet Pork Chops",
+  "author": {
+    "@type": "Person",
+    "name": "Nola Ratz"
+  },
+  "description": "A tangy and sweet pork chop dish simmered in a rich sauce made with brown sugar, vinegar, and Worcestershire sauce.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "4 pork chops",
+    "½ cup brown sugar",
+    "¼ cup vinegar",
+    "½ cup water",
+    "1 Tbsp Worcestershire sauce",
+    "¼ cup ketchup",
+    "2 Tbsp flour (for thickening)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Drain excess fat from pork chops and brown them in a large frying pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix together water, brown sugar, vinegar, Worcestershire sauce, and ketchup. Pour over the browned chops."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Simmer for 30 minutes or until done."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If desired, thicken the liquid with 2 Tbsp flour. Serve with rice."
+    }
+  ],
+  "keywords": "sour sweet pork chops, tangy pork, brown sugar sauce"
+}

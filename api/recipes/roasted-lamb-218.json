@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Roasted Lamb",
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Mullin"
+  },
+  "description": "A slow-roasted lamb recipe with a flavorful garlic and rosemary paste, perfect for a tender and aromatic main course.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Mediterranean",
+  "prepTime": "PT20M",
+  "cookTime": "PT6H30M",
+  "totalTime": "PT6H50M",
+  "recipeYield": "Serves 6-8",
+  "recipeIngredient": [
+    "6 pounds lamb roast",
+    "2 Tbsp olive oil",
+    "2 Tbsp butter",
+    "2 Tbsp flour",
+    "2 cloves garlic, minced",
+    "1 tsp fresh or dried rosemary"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Make a paste with olive oil, butter, garlic, and rosemary."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Make small holes in the lamb and insert garlic cloves or pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Smear the lamb with the prepared paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle with flour and place in a roasting pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add a scant amount of water to the pan and sprinkle rosemary on top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roast slowly at 250°F to 300°F for 6 to 7 hours or until done."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the lid near the end to brown the lamb."
+    }
+  ],
+  "keywords": "roasted lamb, garlic and rosemary, slow cooking"
+}

@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Veal Parmigiana",
+  "author": {
+    "@type": "Person",
+    "name": "Suzanne Finkbeiner"
+  },
+  "description": "Crispy breaded veal cutlets topped with a homemade quick tomato sauce and melted mozzarella cheese.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian-American",
+  "prepTime": "PT30M",
+  "cookTime": "PT30M",
+  "totalTime": "PT1H",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1½ lb veal cutlets, ¼ inch thick",
+    "1 cup flour for coating",
+    "1 egg, beaten slightly with 2 to 3 tsp milk",
+    "¾ cup sifted dry bread crumbs",
+    "¾ cup fresh grated Parmesan cheese",
+    "½ to ¾ cup butter for frying",
+    "1 large can (16 oz) Italian crushed tomatoes",
+    "3 oz can tomato paste",
+    "2 Tbsp finely grated onion",
+    "2 Tbsp sugar",
+    "½ tsp salt",
+    "1 cup shredded mozzarella cheese for topping"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare breading station: In one bowl, mix egg and milk. In another, combine bread crumbs and Parmesan cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pound veal cutlets until thin, then coat in flour, dip in egg mixture, and finally coat with bread crumb mixture. Let sit for 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Melt butter in a frying pan and sauté veal over low heat until cooked through, flipping carefully."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine crushed tomatoes, tomato paste, onion, sugar, and salt in a pot. Bring to a boil, then simmer gently for 15 to 20 minutes to make the quick tomato sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place cooked veal in a baking pan, pour tomato sauce over the top, and sprinkle with shredded mozzarella cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in a preheated 400°F oven until the cheese is melted and bubbly."
+    }
+  ],
+  "keywords": "veal parmesan, breaded veal, Italian-American, tomato sauce"
+}

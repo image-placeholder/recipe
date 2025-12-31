@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Tomato Macaroni Soup",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Linda Finkbeiner"
+    },
+    {
+      "@type": "Person",
+      "name": "Shirley Preszcator"
+    }
+  ],
+  "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1 Tbsp oil",
+    "1½ cups water",
+    "1 cooking onion, diced",
+    "1 cup dry macaroni",
+    "2 carrots, diced",
+    "½ tsp garlic salt",
+    "3 or 4 celery stalks, diced",
+    "½ tsp Worcestershire sauce",
+    "2 cups chicken stock",
+    "2 cups tomato juice",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Saute onion, celery, and carrot in oil until tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add stock, juice, and water. Bring to a boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add pasta and cook until tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add garlic salt and Worcestershire sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season to taste with salt and pepper."
+    }
+  ],
+  "keywords": "tomato macaroni soup, comfort food, pasta soup"
+}

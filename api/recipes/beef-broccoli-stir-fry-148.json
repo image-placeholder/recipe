@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Beef Broccoli Stir-Fry",
+  "author": {
+    "@type": "Person",
+    "name": "Suzanne Finkbeiner"
+  },
+  "description": "A quick and flavorful stir-fry of beef sirloin and broccoli in a savory soy and oyster sauce mixture.",
+  "recipeCategory": "Main Dish",
+  "recipeCuisine": "Asian-inspired",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "recipeYield": "3½ cups, serves 4",
+  "recipeIngredient": [
+    "1 Tbsp soy sauce",
+    "1 tsp cornstarch",
+    "3 cups broccoli florets, sliced",
+    "2 Tbsp oyster sauce",
+    "1 Tbsp cooking oil (first amount)",
+    "1 Tbsp cooking oil (second amount)",
+    "¾ lb sirloin steak, sliced into 1/8 inch thin strips",
+    "½ tsp salt",
+    "¼ tsp pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Stir soy sauce into cornstarch in a small cup. Add oyster sauce, salt, and pepper. Stir and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat wok to medium-high. Add the first amount of cooking oil. Add broccoli and stir-fry for 4 minutes until tender-crisp. Transfer to a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the second amount of cooking oil to the hot wok. Add beef strips and stir-fry until desired doneness."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add broccoli back into the wok. Stir the cornstarch mixture and pour into the beef mixture. Cook until boiling and thickened."
+    }
+  ],
+  "keywords": "beef stir-fry, broccoli, soy sauce, oyster sauce"
+}

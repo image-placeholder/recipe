@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Favourite Chicken",
+  "author": {
+    "@type": "Person",
+    "name": "Jo Anne Pickering"
+  },
+  "description": "A simple and satisfying chicken dish baked with cheddar cheese, mushroom soup, and garlic.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT1H",
+  "totalTime": "PT1H10M",
+  "recipeYield": "4 to 6 servings",
+  "recipeIngredient": [
+    "4 to 6 chicken breasts",
+    "1 cup old cheddar cheese, grated",
+    "1 can cheddar cheese soup (or other soup to taste)",
+    "1 can mushroom soup",
+    "1 Tbsp garlic powder",
+    "Salt and pepper to taste",
+    "6 to 8 fresh mushrooms, sliced"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash and pat dry chicken breasts."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine cheddar cheese soup, mushroom soup, and garlic powder. Mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place chicken in a 9x11 inch baking dish. Pour soup mixture over chicken."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with grated cheese and sliced mushrooms."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F for about 1 hour for 4 pieces or 1½ hours for 6 pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Check to ensure chicken is cooked through, as oven temperatures may vary."
+    }
+  ],
+  "keywords": "baked chicken, cheddar cheese, mushroom soup, comfort food"
+}

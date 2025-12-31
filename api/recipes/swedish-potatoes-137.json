@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Swedish Potatoes",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Ratz"
+  },
+  "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "10-12 servings",
+  "recipeIngredient": [
+    "12 large potatoes",
+    "2 slightly beaten eggs",
+    "1 cup sour cream",
+    "1 tsp salt",
+    "¾ cup bread crumbs",
+    "2 Tbsp butter",
+    "1¼ tsp butter",
+    "1 (8 oz) package cream cheese",
+    "2 tsp onion salt or chopped onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook and mash the potatoes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dot the top with butter and sprinkle with bread crumbs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake, covered, at 350°F for 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
+    }
+  ],
+  "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake"
+}

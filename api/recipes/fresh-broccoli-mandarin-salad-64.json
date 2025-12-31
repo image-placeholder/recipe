@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Fresh Broccoli Mandarin Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Sandra Vandeworp (Finkbeiner)"
+  },
+  "description": "A refreshing salad featuring fresh broccoli, mandarin oranges, mushrooms, and a rich, creamy dressing with a hint of mustard.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT30M",
+  "recipeYield": "10 to 12 servings",
+  "recipeIngredient": [
+    "1 egg plus 1 egg yolk, slightly beaten",
+    "½ cup sugar",
+    "1½ tsp cornstarch",
+    "1 tsp mustard",
+    "¼ cup vinegar",
+    "¼ cup water",
+    "3 Tbsp softened butter",
+    "½ cup mayonnaise",
+    "6 bacon strips, cooked and crumbled",
+    "2 cups sliced fresh mushrooms",
+    "½ cup slivered almonds, toasted",
+    "1 cup drained mandarin oranges",
+    "½ medium red onion, sliced into rings",
+    "4 cups fresh broccoli florets"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In the top of a double boiler, whisk together the egg, egg yolk, sugar, cornstarch, and mustard."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slowly whisk in the vinegar and water mixture, then cook over hot water, stirring constantly, until the dressing thickens."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from heat and stir in the softened butter and mayonnaise. Chill the dressing."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Just before serving, combine the crumbled bacon, mushrooms, almonds, mandarin oranges, red onion, and broccoli in a large salad bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chilled dressing and toss to coat the salad ingredients evenly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate any leftovers."
+    }
+  ],
+  "keywords": "broccoli mandarin salad, creamy dressing, fresh salad"
+}

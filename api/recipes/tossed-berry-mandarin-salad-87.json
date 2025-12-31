@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Tossed Berry-Mandarin Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Cotte"
+  },
+  "description": "A refreshing mixed greens salad with strawberries, mandarin oranges, sweet onion, and bacon, topped with a homemade honey-cider dressing.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "recipeYield": "8-10 servings",
+  "recipeIngredient": [
+    "8 cups torn mixed salad greens",
+    "2 cups fresh sliced strawberries",
+    "1 (10 oz) can mandarin oranges, drained",
+    "1 medium sweet onion, sliced and separated into rings",
+    "⅓ cup slivered almonds, toasted",
+    "4 strips cooked bacon, crumbled",
+    "¼ cup white sugar",
+    "2 Tbsp cider vinegar",
+    "2 Tbsp honey",
+    "1¼ tsp fresh lemon juice",
+    "½ tsp paprika",
+    "½ tsp ground mustard",
+    "½ tsp grated onion",
+    "¼ tsp celery seed",
+    "Dash salt",
+    "⅓ cup vegetable oil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a microwave-safe bowl, combine sugar, cider vinegar, honey, lemon juice, paprika, mustard, grated onion, celery seed, and salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Microwave uncovered on high for 1½ to 2 minutes, stirring until the sugar is dissolved."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk in vegetable oil until well combined. Refrigerate until chilled."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large serving bowl, combine the mixed greens, sliced strawberries, mandarin oranges, sweet onion rings, toasted almonds, and crumbled bacon."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle the chilled dressing over the salad and gently toss to coat."
+    }
+  ],
+  "keywords": "fruit salad, mixed greens, strawberry, mandarin orange, bacon"
+}

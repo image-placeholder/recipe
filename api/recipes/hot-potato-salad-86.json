@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Hot Potato Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Margaret Beaver"
+  },
+  "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "recipeYield": "Serves 4-6",
+  "recipeIngredient": [
+    "3 to 4 cups sliced potatoes",
+    "⅓ cup white vinegar",
+    "1 Tbsp flour",
+    "¾ cup water",
+    "1 Tbsp butter",
+    "Salt and pepper to taste",
+    "Pinch of sugar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a saucepan, combine the white vinegar, flour, and water. Heat, stirring constantly, until the mixture thickens."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the butter, salt, pepper, and sugar to the vinegar mixture. Bring to a boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the hot dressing over the sliced potatoes."
+    }
+  ],
+  "keywords": "hot potato salad, vinegar dressing, warm salad"
+}

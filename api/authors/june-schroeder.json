@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Punch",
+    "author": "June Schroeder",
+    "keyword": "fruit punch, party drink, refreshing beverage",
+    "description": "A refreshing fruit punch made with grape juice, orange juice, ginger ale, and lemon-lime soda.",
+    "category": "Beverage",
+    "cuisine": "American",
+    "url": "recipes/punch-53"
+  },
+  {
+    "name": "Baked Cauliflower",
+    "author": "June Schroeder, Marie Dinney",
+    "keyword": "baked cauliflower, cheesy casserole",
+    "description": "A creamy baked cauliflower casserole with cheese, mayonnaise, and curry powder.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/baked-cauliflower-143"
+  },
+  {
+    "name": "Pizza Casserole",
+    "author": "June Schroeder",
+    "keyword": "pizza casserole, spaghetti, hamburger, pepperoni",
+    "description": "A hearty pizza casserole made with spaghetti, hamburger, pepperoni, and mozzarella cheese.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/pizza-casserole-202"
+  },
+  {
+    "name": "Chicken and Cheese Casserole",
+    "author": "June Schroeder",
+    "keyword": "chicken casserole, cheesy rice bake, comfort food",
+    "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/chicken-and-cheese-casserole-244"
+  }
+]

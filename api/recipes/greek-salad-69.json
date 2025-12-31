@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Greek Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Robertson"
+  },
+  "description": "A refreshing Greek salad with marinated tomatoes, mixed greens, feta cheese, and a homemade dressing.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "Greek",
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT1H20M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "Marinated Tomatoes:",
+    "¼ cup olive oil",
+    "2 Tbsp red wine vinegar",
+    "1 tsp anchovy paste",
+    "Salt, pepper, pinch of cayenne",
+    "1 clove garlic, crushed",
+    "4 large ripe tomatoes",
+    "Salad:",
+    "6 cups greens",
+    "2 green onions, sliced",
+    "⅓ cup black olives",
+    "1 green pepper",
+    "1 cup feta cheese",
+    "Dressing:",
+    "1 clove garlic, minced",
+    "1 Tbsp red wine vinegar",
+    "¼ cup olive oil",
+    "½ tsp granulated sugar",
+    "1 tsp dried oregano"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "To Marinate Tomatoes: Cut tomatoes in halves or quarters. Squeeze out seeds and juice and cut into bite-size pieces. Whisk marinade together, stir in tomatoes, and let stand for at least 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To Make Dressing: Place garlic, vinegar, and seasonings in a blender and whirl to blend. While still whirling, gradually drizzle in the oil. Add anchovies. Can be used immediately or covered and refrigerated."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To Complete Salad: Mix greens, onions, olives, pepper, and cheese. Add marinated tomatoes. Toss and drizzle dressing over salad. Add croutons if desired."
+    }
+  ],
+  "keywords": "Greek salad, marinated tomatoes, feta cheese, homemade dressing"
+}

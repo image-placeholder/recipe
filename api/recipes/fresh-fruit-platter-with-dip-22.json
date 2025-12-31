@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Fresh Fruit Platter with Dip",
+  "author": {
+    "@type": "Person",
+    "name": "Donelda Lewis"
+  },
+  "description": "A colorful and refreshing fruit platter served with a creamy vanilla pudding dip, optionally flavored with Grand Marnier.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "recipeYield": "1 large platter",
+  "recipeIngredient": [
+    "1 small (113g) pkg vanilla instant pudding",
+    "1½ cups milk (or a combination of 1 cup milk and ½ cup sour cream)",
+    "1 tub (500 mL) Cool Whip",
+    "1 Tbsp Grand Marnier (or other favorite liquor/liqueur), optional",
+    "Assorted fresh fruit (e.g., strawberries, bananas, grapes, apple slices, orange slices, melon)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the vanilla pudding according to the package instructions using either 1½ cups of milk or the specified combination of milk and sour cream."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix equal parts of the prepared pudding and Cool Whip until well blended."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If using, add Grand Marnier or other liquor/liqueur and blend well into the pudding mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chill the dip in the refrigerator until ready to serve."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange a selection of fresh fruit on a platter, alternating between contrasting colors for visual appeal."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the chilled dip alongside the fresh fruit platter."
+    }
+  ],
+  "keywords": "fresh fruit platter, vanilla pudding dip, Cool Whip, Grand Marnier, healthy appetizer"
+}

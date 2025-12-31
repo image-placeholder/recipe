@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Ham & Potato Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "Shelley Kinsman"
+  },
+  "description": "A layered ham, potato, and cheese casserole cooked in a slow cooker.",
+  "recipeCategory": "Casserole",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT8H",
+  "totalTime": "PT8H20M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "8 slices ham",
+    "8 to 10 medium potatoes, sliced",
+    "2 onions, sliced thin",
+    "1 cup grated cheese",
+    "Salt and pepper to taste",
+    "Cream of mushroom or celery soup",
+    "Paprika"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Put half of the ham, potatoes, onions, cheese, salt, and pepper in a slow cooker."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the remaining half of the ingredients for the second layer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with soup and sprinkle with paprika."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
+    }
+  ],
+  "keywords": "ham, potato, casserole, slow cooker"
+}

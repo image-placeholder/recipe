@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Chicken Grape Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Valerie (Finkbeiner) Mullin"
+  },
+  "description": "A refreshing salad made with cooked chicken, green grapes, celery, and toasted almonds, mixed with a creamy dressing.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1½ cups cooked chicken, cubed",
+    "1½ cups green grapes, halved",
+    "½ cup celery, thinly sliced",
+    "Toasted almonds",
+    "¼ cup mayonnaise",
+    "1 Tbsp milk or cream",
+    "½ tsp salt",
+    "¼ tsp dry mustard",
+    "⅛ tsp pepper",
+    "½ tsp lemon juice",
+    "Lettuce for serving",
+    "Parsley for garnish"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine dressing ingredients in a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss chicken, grapes, celery, and almonds together."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the chicken mixture on lettuce and garnish with parsley."
+    }
+  ],
+  "keywords": "chicken salad, grape salad, creamy dressing"
+}

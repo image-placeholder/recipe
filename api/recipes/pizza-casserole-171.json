@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Pizza Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "Ruth Ann Haist"
+  },
+  "description": "A hearty pizza-inspired casserole with pasta, pepperoni, and mozzarella cheese.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian-American",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeIngredient": [
+    "2 tsp margarine",
+    "2 cups tiny shell pasta",
+    "1 medium onion, chopped",
+    "2 1/2 qt boiling water",
+    "1 Tbsp oil",
+    "2 tsp salt",
+    "2 (7 1/2 oz) cans tomato sauce",
+    "10 oz can mushrooms, drained",
+    "3 Tbsp Parmesan cheese",
+    "1 tsp oregano",
+    "1 tsp basil",
+    "1 1/2 cups pepperoni slices",
+    "3 cups mozzarella cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Melt margarine and sauté chopped onion until soft."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add tomato sauce, mushrooms, oregano, and basil. Stir and remove from heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook pasta in boiling water with oil and salt for 8 to 10 minutes until tender but firm. Drain."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine cooked pasta with Parmesan cheese and 1 cup mozzarella cheese in a 3-quart casserole."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Scatter pepperoni slices over the pasta mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover with the tomato-onion sauce and sprinkle with remaining mozzarella cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake, uncovered, in a 350°F oven for 30 minutes.",
+      "cookMethod": "Bake",
+      "tool": "Oven",
+      "temperature": {
+        "@type": "Temperature",
+        "name": "oven",
+        "value": 350,
+        "unitCode": "FAR"
+      },
+      "duration": "PT30M"
+    }
+  ],
+  "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese"
+}

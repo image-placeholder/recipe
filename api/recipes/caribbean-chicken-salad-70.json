@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Caribbean Chicken Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Chris Dinney"
+  },
+  "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "Caribbean-inspired",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "1½ cups Minute Rice",
+    "1½ cups chicken broth",
+    "2 cups cut up chicken breast",
+    "1 green pepper, diced",
+    "1 small red onion, chopped fine",
+    "1 mango, thinly sliced",
+    "1 small can pineapple, diced and drained",
+    "2 celery stalks, diced",
+    "⅓ cup Kraft Italian dressing"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook the Minute Rice in chicken broth according to package instructions."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the chicken breast meat in a little oil until fully cooked."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
+    }
+  ],
+  "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing"
+}

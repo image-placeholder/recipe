@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cabbage Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "Brenda Atkinson"
+  },
+  "description": "A creamy cabbage casserole with a crunchy bread crumb topping, baked until golden.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT25M",
+  "cookTime": "PT45M",
+  "totalTime": "PT1H10M",
+  "recipeIngredient": [
+    "Cabbage, cut into wedges",
+    "2 Tbsp butter",
+    "2 Tbsp flour",
+    "1 cup milk",
+    "Salt to taste",
+    "Grated cheese",
+    "8 oz Cheez Whiz",
+    "2 slices buttered bread"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook cabbage wedges until tender, then drain and cut into large pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Make a white sauce with butter, flour, and milk. Season with salt, grated cheese, and Cheez Whiz."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine cooked cabbage with the white sauce mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with crumbled buttered bread."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F for 45 minutes."
+    }
+  ],
+  "keywords": "cabbage casserole, creamy vegetable dish, comforting main course"
+}

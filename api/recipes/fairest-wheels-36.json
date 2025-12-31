@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Fairest Wheels",
+  "author": {
+    "@type": "Person",
+    "name": "Dianne Finkbeiner"
+  },
+  "description": "A chilled, rolled tortilla snack filled with a spicy chicken and cheese mixture.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT2H15M",
+  "recipeYield": "8 servings",
+  "recipeIngredient": [
+    "4 oz light cream cheese, softened",
+    "1 cup finely chopped cooked chicken",
+    "2 Tbsp low-fat sour cream",
+    "½ cup chopped lettuce",
+    "4 Tbsp red pepper jelly",
+    "2 cups reduced-fat shredded cheddar cheese",
+    "3 (9-inch) flour tortillas",
+    "⅔ cup chopped green bell pepper",
+    "⅓ cup minced green onions and red pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a medium bowl, combine chicken, lettuce, cheddar cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In another bowl, beat cream cheese and sour cream together until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cream cheese mixture to the chicken mixture and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread ⅓ cup of the chicken and cream cheese mixture onto one side of a tortilla, leaving a ½-inch border at the top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle with ⅓ cup shredded cheese and top with red pepper jelly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roll up the tortilla tightly and seal the edge."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Repeat with remaining tortillas and filling mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wrap each roll in plastic wrap and refrigerate for 2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Trim the ends off each roll and cut into 8 slices."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve cold."
+    }
+  ],
+  "keywords": "chicken roll-ups, cheese snack, cold appetizer"
+}

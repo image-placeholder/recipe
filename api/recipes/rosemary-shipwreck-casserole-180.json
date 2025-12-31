@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Rosemary Shipwreck Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "Stewart"
+  },
+  "description": "A hearty casserole featuring ground beef, potatoes, and a tomato-based sauce.",
+  "recipeCategory": "Casserole",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT1H",
+  "totalTime": "PT1H20M",
+  "recipeYield": "1 casserole",
+  "recipeIngredient": [
+    "1 lb lean ground beef",
+    "1 onion, peeled and chopped",
+    "¼ tsp salt",
+    "1 (8 oz) can pork and beans",
+    "1¼ tsp pepper",
+    "1 (10 oz) can tomato soup",
+    "4 potatoes, pared and sliced"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 375°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, combine beef, salt, and pepper. Mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place potatoes in the bottom of a greased 2-quart casserole dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top potatoes with chopped onion."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover onion layer with the beef mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spoon pork and beans over the beef layer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour tomato soup over the pork and beans."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the casserole and bake for 1 hour or until done."
+    }
+  ],
+  "keywords": "shipwreck casserole, ground beef, potato casserole"
+}

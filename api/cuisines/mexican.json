@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Guacamole",
+    "author": "Christopher Mullin",
+    "keyword": "guacamole, avocado dip, Mexican appetizer",
+    "description": "A fresh and simple guacamole recipe made with chilled avocado, lime juice, and minced Spanish onion.",
+    "category": "Appetizer",
+    "cuisine": "Mexican",
+    "url": "recipes/guacamole-15"
+  },
+  {
+    "name": "Tortilla Soup",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "tortilla soup, Mexican soup, chicken soup, spicy soup",
+    "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
+    "category": "Soup",
+    "cuisine": "Mexican",
+    "url": "recipes/tortilla-soup-124"
+  },
+  {
+    "name": "Chicken Fajitas",
+    "author": "Valorie (Finkbeiner) Mullin",
+    "keyword": "chicken fajitas, Mexican dish, stir-fry",
+    "description": "A flavorful Mexican-inspired dish featuring stir-fried chicken, peppers, and onions, served with tortillas and various toppings.",
+    "category": "Main Course",
+    "cuisine": "Mexican",
+    "url": "recipes/chicken-fajitas-226"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Caesar Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Valerie (Finkbeiner) Mullin"
+  },
+  "description": "A classic Caesar salad recipe with romaine lettuce, crumbled bacon, croutons, and a homemade dressing.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1 romaine lettuce",
+    "6 slices bacon, cooked and crumbled",
+    "1 tsp wine vinegar",
+    "½ tsp Worcestershire sauce",
+    "2 shakes Tabasco sauce",
+    "Croutons",
+    "1 egg",
+    "1 tsp capers (optional)",
+    "3 to 4 mashed anchovies",
+    "Dressing (keeps 2 days):",
+    "⅓ cup olive oil",
+    "1 clove garlic, minced",
+    "2 Tbsp lemon",
+    "½ tsp dry mustard",
+    "¼ tsp salt and pepper",
+    "2 Tbsp Parmesan cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rub salad bowl with garlic."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wash and tear lettuce. Dry in a tea towel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place lettuce in bowl with bacon and croutons."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blend dressing ingredients together."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour dressing over salad and toss until leaves are coated."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve with freshly grated Parmesan."
+    }
+  ],
+  "keywords": "Caesar salad, bacon, croutons, homemade dressing"
+}

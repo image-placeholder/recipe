@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Strawberry Tossed Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Donelda Lewis"
+  },
+  "description": "A fresh and fruity salad with mixed greens, strawberries, and a sweet vinaigrette.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "recipeYield": "4-6 servings",
+  "recipeIngredient": [
+    "4 cups torn Bibb or Boston lettuce",
+    "8 cups torn romaine lettuce",
+    "2½ cups sliced fresh strawberries",
+    "1 cup (4 oz) shredded Monterey Jack cheese",
+    "½ cup slivered almonds, toasted or coated with sugar",
+    "½ cup vegetable oil",
+    "⅓ cup white sugar",
+    "¼ cup cider or red wine vinegar",
+    "1 garlic clove, minced",
+    "¼ tsp salt",
+    "¼ tsp paprika",
+    "Pinch white pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine the first 7 ingredients (oil, sugar, vinegar, garlic, salt, paprika, and white pepper) in a jar with a tight-fitting lid and shake well to make the dressing."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Just before serving, toss salad greens, strawberries, cheese, and almonds in a large salad bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle with the prepared dressing and toss to coat."
+    }
+  ],
+  "keywords": "strawberry salad, fruit salad, sweet salad dressing"
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Pasta Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Lorie Van Valkengoed"
+  },
+  "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT30M",
+  "recipeIngredient": [
+    "½ bag penne or spiral pasta",
+    "1 green pepper, chopped",
+    "2 tomatoes, chopped",
+    "3 green onions, chopped",
+    "½ can black olives, sliced",
+    "1½ lb feta cheese, crumbled",
+    "1 bottle Classic Herb dressing"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook the pasta according to package instructions, then drain and cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crumble the feta cheese into the pasta mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+    }
+  ],
+  "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad"
+}

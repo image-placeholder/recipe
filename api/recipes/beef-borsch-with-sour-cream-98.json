@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Beef Borsch with Sour Cream",
+  "author": {
+    "@type": "Person",
+    "name": "Antonia Hull"
+  },
+  "description": "A hearty beet-based soup with shredded beef, vegetables, and a dollop of sour cream on top.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "Eastern European",
+  "prepTime": "PT30M",
+  "cookTime": "PT3H30M",
+  "totalTime": "PT4H",
+  "recipeYield": "3 quarts (8 servings)",
+  "recipeIngredient": [
+    "3 cups coarsely shredded beef",
+    "1 large beef marrow bone",
+    "4 cups beef broth (approximately 2 quarts)",
+    "1 (28 oz/1 lb) can tomatoes, undrained",
+    "1 medium onion, quartered",
+    "1 stalk celery, cut up",
+    "3 sprigs parsley",
+    "6 whole black peppers",
+    "1 bay leaf",
+    "2 cups shredded beets (4 medium)",
+    "1½ cups thickly sliced cabbage",
+    "1 medium onion, chopped",
+    "2 Tbsp snipped fresh dill or 2 tsp dried dill weed",
+    "¼ cup cider vinegar",
+    "2 Tbsp sugar",
+    "1 Tbsp salt (initial) + 1 tsp salt (later)",
+    "Sour cream for serving",
+    "Snipped dill for garnish"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Day before serving, place beef, marrow bone, 2 quarts water, and 1 Tbsp salt in a deep 8-quart kettle. Cover and bring to boiling, then reduce heat and simmer, covered, for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add tomatoes, quartered onion, celery, parsley, black pepper, and bay leaf. Simmer, covered, for 2 hours longer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from heat. Lift out beef and set aside. Remove marrow bone and discard. Strain soup and skim off fat (you should have 9 cups liquid)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return soup and beef to kettle. Add beets, cabbage, carrots, chopped onion, dill, vinegar, sugar, and 1 tsp salt. Bring to boiling, then reduce heat and simmer for 30 minutes or until beef and vegetables are tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cool for 20 minutes, then refrigerate overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "The next day, remove beef from soup and cut into cubes. Return to soup and heat gently to boiling."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour into soup tureen. Top each serving with a spoonful of sour cream and garnish with snipped dill."
+    }
+  ],
+  "keywords": "beef borsch, sour cream, beet soup, Eastern European soup"
+}

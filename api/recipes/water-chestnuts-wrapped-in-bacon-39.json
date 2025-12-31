@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Water Chestnuts Wrapped in Bacon",
+  "author": {
+    "@type": "Person",
+    "name": "Diane Dinney"
+  },
+  "description": "Bacon-wrapped water chestnuts marinated in a savory mixture of soya sauce and Worcestershire sauce, then baked until crispy.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT1H15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT1H35M",
+  "recipeYield": "1 batch",
+  "recipeIngredient": [
+    "2 cans water chestnuts",
+    "¼ cup soya sauce",
+    "½ lb bacon",
+    "1 tsp Worcestershire sauce",
+    "1 tsp garlic salt",
+    "2 tsp minced onions",
+    "Toothpicks"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Marinate bacon in soya sauce, Worcestershire sauce, garlic salt, and minced onions for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wrap bacon around chestnuts and secure with toothpicks."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook in a 350°F oven until bacon is done.",
+      "cookMethod": "Bake",
+      "tool": "Oven",
+      "temperature": {
+        "@type": "Temperature",
+        "name": "oven",
+        "value": 350,
+        "unitCode": "FAR"
+      }
+    }
+  ],
+  "keywords": "bacon-wrapped water chestnuts, appetizer, savory snack"
+}

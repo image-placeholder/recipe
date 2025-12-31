@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cabbage Rolls",
+  "author": {
+    "@type": "Person",
+    "name": "Heather Clarke"
+  },
+  "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "European",
+  "prepTime": "PT30M",
+  "cookTime": "PT3H",
+  "totalTime": "PT3H30M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "1 head cabbage",
+    "½ lb ground pork",
+    "1 lb ground beef",
+    "1 medium onion",
+    "2 Tbsp lard",
+    "¾ cup uncooked rice (Uncle Ben's)",
+    "1 tsp salt",
+    "½ tsp black pepper",
+    "1 (24 oz) can tomato juice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the onion and fry in lard for 10 minutes until softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
+    }
+  ],
+  "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food"
+}

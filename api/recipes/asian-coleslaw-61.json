@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Asian Coleslaw",
+  "author": {
+    "@type": "Person",
+    "name": "Dianne Finkbeiner"
+  },
+  "description": "A crunchy Asian-inspired coleslaw with toasted nuts and noodles.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "Asian-American",
+  "prepTime": "PT15M",
+  "cookTime": "PT5M",
+  "totalTime": "PT20M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "1 bag cabbage salad",
+    "1/2 to 6 green onions, chopped",
+    "1/4 cup slivered almonds",
+    "1/4 cup sesame seeds",
+    "1 tsp soya sauce",
+    "1 pkg Mr. Noodle (just noodles)",
+    "2 to 3 Tbsp butter",
+    "Salt and pepper",
+    "1/2 cup canola oil",
+    "1/2 cup red wine vinegar",
+    "1/2 cup sugar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown the first 6 ingredients in a frying pan. Let cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add dressing 1/2 hour before serving."
+    }
+  ],
+  "keywords": "Asian coleslaw, toasted nuts, noodles"
+}

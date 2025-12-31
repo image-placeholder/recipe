@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Barley and Corn Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Robertson"
+  },
+  "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT1H",
+  "totalTime": "PT1H20M",
+  "recipeYield": "6 servings",
+  "recipeIngredient": [
+    "1 Tbsp oil",
+    "3 cups vegetable stock",
+    "1 onion, chopped",
+    "2 cups kernel corn (fresh or canned)",
+    "3 cloves garlic, minced",
+    "2 carrots, finely chopped",
+    "Chopped fresh parsley",
+    "1 cup pearl or pot barley"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat oil in a heavy casserole. Cook onion, garlic, and carrots until the onion is softened, stirring frequently."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in barley and cook for 1-2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour in vegetable stock, cover, and bake at 350 °F for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Test that barley is tender. Stir in corn and parsley."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return to the oven to heat through. Season with pepper to taste."
+    }
+  ],
+  "keywords": "barley casserole, corn, carrots, comforting side dish"
+}

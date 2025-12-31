@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Bacon Broccoli Salad",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Meghan Brand"
+    },
+    {
+      "@type": "Person",
+      "name": "Mona Hamilton"
+    },
+    {
+      "@type": "Person",
+      "name": "Alwinna Galloway"
+    },
+    {
+      "@type": "Person",
+      "name": "Thelma Finkbeiner"
+    },
+    {
+      "@type": "Person",
+      "name": "Linda Nakamura"
+    }
+  ],
+  "description": "A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT2H15M",
+  "recipeYield": "6 servings",
+  "recipeIngredient": [
+    "3 cups broccoli florets",
+    "½ cup low-fat yogurt",
+    "½ cup chopped red onion",
+    "¼ cup light mayonnaise",
+    "¼ cup sunflower seeds",
+    "½ cup raisins",
+    "2 Tbsp sugar",
+    "1 Tbsp lemon juice",
+    "½ cup crumbled feta cheese",
+    "4 slices cooked bacon, crumbled"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine the broccoli, red onion, sunflower seeds, raisins, and crumbled bacon in a large salad bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a separate bowl, mix together the yogurt, mayonnaise, sugar, and lemon juice to make the dressing."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the dressing over the salad ingredients and toss to coat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate for 2 hours to allow the flavors to meld."
+    }
+  ],
+  "keywords": "broccoli salad, bacon salad, yogurt dressing"
+}

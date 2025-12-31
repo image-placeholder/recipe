@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Sauerkraut Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Lorna Finkbeiner"
+  },
+  "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT5M",
+  "totalTime": "PT25M",
+  "recipeYield": "Several servings",
+  "recipeIngredient": [
+    "1 (28 oz) jar or can sauerkraut, drained",
+    "1 cup chopped celery",
+    "1 cup chopped onion",
+    "1 cup chopped red pepper",
+    "¼ cup chopped green pepper",
+    "2 cups white sugar",
+    "1 cup white vinegar",
+    "1 tsp salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the dressing cool to room temperature."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the cooled dressing over the salad and toss to coat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+    }
+  ],
+  "keywords": "sauerkraut salad, tangy salad, make-ahead salad"
+}

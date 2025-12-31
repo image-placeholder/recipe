@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cheesy Meat Loaf",
+  "author": {
+    "@type": "Person",
+    "name": "Pam Allen"
+  },
+  "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT1H",
+  "totalTime": "PT1H15M",
+  "recipeYield": "1 loaf",
+  "recipeIngredient": [
+    "1 lb ground beef",
+    "¾ cup bread crumbs",
+    "1 beaten egg",
+    "½ cup chopped onions",
+    "¼ cup chopped green pepper",
+    "¼ cup ketchup",
+    "¾ tsp salt",
+    "1 cup cheese, cut into small cubes",
+    "⅛ tsp pepper",
+    "Chili sauce (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix all ingredients together until well combined."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F for 1 hour."
+    }
+  ],
+  "keywords": "meat loaf, cheesy, ground beef, baked"
+}

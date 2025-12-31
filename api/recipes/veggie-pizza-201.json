@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Veggie Pizza",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Kelly Haines"
+    },
+    {
+      "@type": "Person",
+      "name": "Kim MacDonald"
+    }
+  ],
+  "description": "A simple veggie pizza made with a crescent roll crust, cream cheese, ranch dressing, and various chopped vegetables.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "recipeYield": "1 pizza",
+  "recipeIngredient": [
+    "1 roll Pillsbury crescent rolls",
+    "1 (8 oz) pkg cream cheese",
+    "1/2 cup ranch dressing",
+    "1 cup finely chopped broccoli",
+    "1/2 cup finely chopped red onion",
+    "1/2 cup finely chopped green or red pepper",
+    "1 cup finely chopped cauliflower"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 375°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roll out crescent roll dough on a flat cookie sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake until golden brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix cream cheese with ranch dressing."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the cream cheese mixture onto the cooled crust."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with chopped vegetables."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Keep refrigerated before serving."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut with pizza cutter or knife."
+    }
+  ],
+  "keywords": "veggie pizza, crescent roll crust, cream cheese, ranch dressing"
+}

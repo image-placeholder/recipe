@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Spinach Lettuce Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Jo Anne Pickering"
+  },
+  "description": "A fresh and versatile green salad with a homemade balsamic dressing and a crunchy topping made from toasted almonds, sesame seeds, and noodle soup mix.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT5M",
+  "totalTime": "PT20M",
+  "recipeIngredient": [
+    "Dressing: ½ cup balsamic vinegar",
+    "½ cup olive oil",
+    "¼ cup white sugar",
+    "1½ cup soya sauce",
+    "Toppings: 1 Tbsp butter",
+    "1 pkg noodle soup mix (without seasoning packet)",
+    "1 pkg slivered almonds",
+    "1 pkg sesame seeds",
+    "Any type of green leafy vegetable (spinach, lettuce, broccoli, coleslaw)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix the dressing ingredients together and refrigerate until ready to use."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Melt butter in a pan and add almonds, noodle soup mix (without spice packet), and sesame seeds. Toast until lightly browned."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the salad greens and store in the refrigerator."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Just before serving, pour the dressing over the salad and top with the toasted almond mixture."
+    }
+  ],
+  "keywords": "spinach salad, lettuce salad, homemade dressing, crunchy topping"
+}

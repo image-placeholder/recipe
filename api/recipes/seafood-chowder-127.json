@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Seafood Chowder",
+  "author": {
+    "@type": "Person",
+    "name": "Valerie (Finkbeiner) Mullin"
+  },
+  "description": "A hearty seafood chowder featuring shrimp, clams, potatoes, and creamed corn in a flavorful broth.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "recipeIngredient": [
+    "1 can shrimp",
+    "1 can clams with juice",
+    "6 slices bacon, chopped",
+    "2 large potatoes, peeled and cubed",
+    "1 onion, chopped",
+    "2 cups skim milk (or 2%)",
+    "1 can creamed corn",
+    "2 cups chicken broth",
+    "1 tsp Worcestershire sauce",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Sauté chopped bacon in a saucepan until cooked, then drain off excess fat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sauté the chopped onion and cubed potatoes in the bacon fat until tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the remaining ingredients (shrimp, clams, milk, creamed corn, broth, Worcestershire sauce) to the saucepan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat through and simmer on low heat for 15 minutes."
+    }
+  ],
+  "keywords": "seafood chowder, shrimp and clam soup, creamy chowder"
+}

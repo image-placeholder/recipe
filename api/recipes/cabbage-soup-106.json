@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cabbage Soup",
+  "author": {
+    "@type": "Person",
+    "name": "Betty Glanville"
+  },
+  "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT1H30M",
+  "totalTime": "PT1H45M",
+  "recipeYield": "6 servings",
+  "recipeIngredient": [
+    "1 Tbsp liquid sweetener",
+    "½ head cabbage",
+    "1 can French-style beans (optional)",
+    "3 cups tomato juice",
+    "4 cups water",
+    "1 large can mushrooms",
+    "Salt, garlic pepper to taste",
+    "6 stalks celery, including leaves and tips",
+    "1 tsp lemon juice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add all ingredients to a large pot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook at low heat for 1½ hours."
+    }
+  ],
+  "keywords": "cabbage soup, vegetable soup, hearty soup"
+}

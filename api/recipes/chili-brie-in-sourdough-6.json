@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Chili Brie in Sourdough",
+  "author": {
+    "@type": "Person",
+    "name": "Sherri Haugh"
+  },
+  "description": "A sourdough loaf stuffed with molten Brie cheese and seasoned with a smoky chili spice blend.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "Fusion",
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "recipeYield": "1 loaf",
+  "recipeIngredient": [
+    "1 round (1 lb) sourdough bread loaf",
+    "1 wheel Brie cheese (8 oz)",
+    "1 Tbsp softened butter",
+    "1 tsp chili powder",
+    "½ tsp dry ground mustard",
+    "½ tsp garlic powder",
+    "½ tsp sugar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine chili powder, mustard, garlic powder, and sugar; set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut a circle in the top of the bread and remove the center to make room for the Brie."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread butter inside the bread cavity and sprinkle with 2 tsp of the spice mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the rind from the Brie and place it inside the bread."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the Brie with the remaining spice mixture and replace the bread top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake on a baking sheet for 20 to 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To serve, remove the top and break it into bite-sized pieces; dip bread pieces into the hot Brie."
+    }
+  ],
+  "keywords": "chili brie, sourdough brie, melted cheese appetizer"
+}

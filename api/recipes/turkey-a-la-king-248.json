@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Turkey A La King",
+  "author": {
+    "@type": "Person",
+    "name": "Jean E. Neil"
+  },
+  "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "⅓ cup butter",
+    "1 tsp salt",
+    "¼ lb mushrooms, sliced",
+    "1 cup chicken broth",
+    "¼ cup chopped onion",
+    "1 cup milk",
+    "2 cups cooked diced turkey",
+    "¼ cup chopped celery",
+    "¼ cup chopped green pepper",
+    "¼ cup flour"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove vegetables from skillet with a slotted spoon and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add reserved turkey and vegetables to the sauce. Heat through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve over hot toast, biscuits, or rice."
+    }
+  ],
+  "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper"
+}

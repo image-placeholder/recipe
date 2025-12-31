@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Ken Noodle Supper",
+  "author": {
+    "@type": "Person",
+    "name": "Mary Jefferies"
+  },
+  "description": "A hearty chicken and noodle supper with a creamy sauce, mixed vegetables, and a blend of herbs.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "recipeYield": "4 to 6 servings",
+  "recipeIngredient": [
+    "1 lb boneless, skinless chicken breasts",
+    "½ tsp salt",
+    "½ tsp pepper",
+    "3 Tbsp flour",
+    "1 Tbsp butter",
+    "3 cups milk",
+    "1 Tbsp vegetable oil",
+    "1 Tbsp Dijon mustard",
+    "1 large onion, chopped",
+    "3 cups uncooked egg noodles",
+    "1 cup sliced mushrooms",
+    "1 pkg (10 oz/300 g) frozen mixed vegetables",
+    "1 clove garlic",
+    "½ tsp dried basil",
+    "½ tsp dried oregano"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cut chicken into 1 inch cubes. Cook in butter in a large skillet over medium heat for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add onion, mushrooms, and garlic. Cook until onion is tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in flour, salt, pepper, and herbs. Cook until thickens."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gradually add milk, stirring constantly. Bring to a boil and simmer for 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add mustard and noodles. Return to a boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add frozen vegetables. Stir and cook for 10 minutes before serving."
+    }
+  ],
+  "keywords": "chicken noodle supper, creamy sauce, comfort food"
+}

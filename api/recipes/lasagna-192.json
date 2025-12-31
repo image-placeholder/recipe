@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Lasagna",
+  "author": {
+    "@type": "Person",
+    "name": "Mary Kenney"
+  },
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian-American",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "1 9x13 inch pan",
+  "recipeIngredient": [
+    "1 (15 oz) container cottage cheese",
+    "1 (16 oz) box lasagna noodles",
+    "1½ cups water",
+    "2 (15 oz) jars spaghetti sauce",
+    "8 oz mozzarella cheese, thinly sliced",
+    "½ cup grated Parmesan cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine cottage cheese and Parmesan cheese in a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread 1½ cups of spaghetti sauce in the bottom of a 13x9x2 inch pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange a layer of uncooked lasagna noodles on top of the sauce, overlapping slightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle half of the mozzarella cheese and half of the cottage cheese mixture over the noodles."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Repeat with another layer of sauce, noodles, and the remaining cheeses."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the top with sauce and cover tightly with heavy foil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Set on a jelly roll pan and bake."
+    }
+  ],
+  "keywords": "lasagna, Italian-American, pasta bake"
+}

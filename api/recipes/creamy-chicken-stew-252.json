@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Creamy Chicken Stew",
+  "author": {
+    "@type": "Person",
+    "name": "Anne Cottel"
+  },
+  "description": "A hearty and comforting chicken stew with vegetables in a creamy sauce.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT45M",
+  "totalTime": "PT1H5M",
+  "recipeYield": "8 to 10 servings",
+  "recipeIngredient": [
+    "3 lb boneless, skinless chicken breasts, cut into 1-inch cubes",
+    "2 Tbsp cooking oil",
+    "1 medium onion, diced",
+    "1 cup sliced celery",
+    "2 cups peeled and cubed potatoes",
+    "3 large carrots, cut into coins",
+    "1 tsp salt",
+    "1/2 tsp dried basil",
+    "1/2 tsp paprika",
+    "1/4 tsp celery salt",
+    "1 bay leaf",
+    "7 cups chicken broth, divided",
+    "1 can (14 oz) corn kernels, drained",
+    "1 can (14 oz) peas",
+    "1 can (14 oz) lima beans",
+    "1/2 cup butter or margarine",
+    "3/4 cup all-purpose flour"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat oil in a Dutch oven. Sprinkle chicken with salt, pepper, and paprika. Cook and stir until the chicken is browned. Drain."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add raw vegetables, basil, bay leaf, celery salt, and 5 cups broth; bring to a boil. Reduce heat. Cover and simmer for 30 minutes or until vegetables are tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove bay leaf. Add canned vegetables. Cook and stir for 2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a saucepan, mix flour and butter or margarine until smooth. Gradually whisk in remaining 2 cups broth. Bring to a boil. Cook and stir for 2 minutes or until thickened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the sauce into the Dutch oven. Stir and bring to a boil. Reduce heat. Simmer, uncovered, for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot with rolls or biscuits."
+    }
+  ],
+  "keywords": "chicken stew, creamy stew, comfort food"
+}
