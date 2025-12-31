@@ -68,7 +68,6 @@ defaults:
 plugins:
  # - octopress-minify-html
   - jekyll-sitemap
-  - jekyll-purgecss
   - jekyll-assets
   - jekyll-seo-tag
   - jekyll-paginate
@@ -76,8 +75,7 @@ plugins:
   - jekyll-terser
   - jekyll-archives-v2
   - jekyll-collection-pages
-
-  #- jekyll-purge-css (upgraded to new plugin)
+  - jekyll-purge-css (upgraded to new plugin)
   
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
