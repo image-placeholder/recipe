@@ -37,12 +37,17 @@ function flattenFeatures(recipe) {
     );
   }
   
-     // Lower weight: ingredients (weight 1)
+//  recipe name words (weight 2)
   if (recipe.name) {
-    recipe.name.split(" ").forEach(ing =>
-      words.push(...ing.toLowerCase().split(/\s+/).map(w => w + '_ing'))
-    );
+    const nameWords = recipe.name
+      .toLowerCase()
+      .replace(/[^a-z0-9\s]/g, '') // remove punctuation
+      .split(/\s+/)
+      .filter(Boolean);
+  
+    nameWords.forEach(w => words.push(w + '_name')); // suffix to distinguish from ingredients
   }
+
 
   // Remove generic stopwords
   const stopwords = new Set(['cup', 'tbsp', 'tsp', 'dash', 'small', 'medium', 'large', 'oz', 'in', 'a', 'quick', 'easy', 'fast', 'dip']);
@@ -56,6 +61,7 @@ export function getSimilarRecipes(targetRecipe, recipes, topN = 3) {
   return recipes
     .filter(r => r.name !== targetRecipe.name)
     .filter(r => !sameCategory || r.recipeCategory === targetRecipe.recipeCategory)
+    .filter(r => !sameCategory || r.recipeCuisine === targetRecipe.recipeCuisine)
     .map(r => {
       const score = cosineSimilarity(targetFeatures, flattenFeatures(r));
       return { recipe: r, score };
