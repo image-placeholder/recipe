@@ -16,8 +16,16 @@
 
 <main id="main-view" class="transition-opacity duration-500">
 <div class="max-w-4xl mx-auto py-20 px-6">
-  <h1 class="text-4xl serif mb-12 text-center">The Recipe Archive - {{ page.count }} recipes - {{ page.type | capitalize }}</h1>
-  
+<h1 class="text-4xl serif mb-12 text-center">
+  {% if page.type == "recipes" %}
+    Browse Recipes - {{ page.count }} recipes
+  {% elsif page.type == "category" %}
+    All Recipe Categories
+  {% else %}
+    {{ page.title | capitalize }} {{ page.type | capitalize }} Recipes
+  {% endif %} - {{ page.type | capitalize }}
+</h1>
+
   <div class="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-8">
     {% for recipe in page.paginated_recipes %}
       <a href="{{ recipe.permalink | relative_url }}" class="border-b border-stone-100 pb-4 group flex justify-between items-baseline">
