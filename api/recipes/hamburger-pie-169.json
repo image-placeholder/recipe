@@ -64,5 +64,10 @@
       "duration": "PT30M"
     }
   ],
-  "keywords": "hamburger pie, shepherd's pie, casserole"
+  "keywords": "hamburger pie, shepherd's pie, casserole",
+  "_naturalized_times": {
+    "prepTime": "25 minutes",
+    "cookTime": "30 minutes",
+    "totalTime": "55 minutes"
+  }
 }

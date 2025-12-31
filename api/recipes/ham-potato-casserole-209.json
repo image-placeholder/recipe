@@ -40,5 +40,10 @@
       "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
     }
   ],
-  "keywords": "ham, potato, casserole, slow cooker"
+  "keywords": "ham, potato, casserole, slow cooker",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "8 hours",
+    "totalTime": "8 hours 20 minutes"
+  }
 }

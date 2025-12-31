@@ -49,5 +49,10 @@
       "text": "Return to the oven for an additional 10 to 15 minutes."
     }
   ],
-  "keywords": "meatballs, baked, sweet and tangy sauce"
+  "keywords": "meatballs, baked, sweet and tangy sauce",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "30 minutes",
+    "totalTime": "45 minutes"
+  }
 }

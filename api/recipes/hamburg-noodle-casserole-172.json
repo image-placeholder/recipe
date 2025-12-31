@@ -42,5 +42,10 @@
       "text": "Bake until the cheese is melted."
     }
   ],
-  "keywords": "casserole, ground beef, noodle dish"
+  "keywords": "casserole, ground beef, noodle dish",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "totalTime": "50 minutes"
+  }
 }

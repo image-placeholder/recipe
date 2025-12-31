@@ -46,5 +46,10 @@
       "text": "Bake at 350°F for 45 minutes."
     }
   ],
-  "keywords": "ham casserole, potato casserole, comforting main dish"
+  "keywords": "ham casserole, potato casserole, comforting main dish",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "45 minutes",
+    "totalTime": "1 hour"
+  }
 }

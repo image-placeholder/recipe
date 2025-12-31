@@ -46,5 +46,10 @@
       "duration": "PT1H"
     }
   ],
-  "keywords": "potato casserole, hash browns, creamy, cheesy"
+  "keywords": "potato casserole, hash browns, creamy, cheesy",
+  "_naturalized_times": {
+    "prepTime": "10 minutes",
+    "cookTime": "1 hour",
+    "totalTime": "1 hour 10 minutes"
+  }
 }

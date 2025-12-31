@@ -63,5 +63,10 @@
       "duration": "PT30M"
     }
   ],
-  "keywords": "creamy chicken, curry chicken, asparagus, cheddar cheese"
+  "keywords": "creamy chicken, curry chicken, asparagus, cheddar cheese",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "35 minutes",
+    "totalTime": "55 minutes"
+  }
 }

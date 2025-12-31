@@ -59,5 +59,10 @@
       "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
     }
   ],
-  "keywords": "spaghetti casserole, ground beef, cheddar cheese"
+  "keywords": "spaghetti casserole, ground beef, cheddar cheese",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "totalTime": "50 minutes"
+  }
 }

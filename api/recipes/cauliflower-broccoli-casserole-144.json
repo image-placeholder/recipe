@@ -53,5 +53,10 @@
       "text": "Cook at 350°F for 40 minutes."
     }
   ],
-  "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake"
+  "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake",
+  "_naturalized_times": {
+    "prepTime": "10 minutes",
+    "cookTime": "40 minutes",
+    "totalTime": "50 minutes"
+  }
 }

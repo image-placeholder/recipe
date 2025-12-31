@@ -54,5 +54,10 @@
       "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
     }
   ],
-  "keywords": "Chinese casserole, hamburger casserole, rice casserole"
+  "keywords": "Chinese casserole, hamburger casserole, rice casserole",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "1 hour",
+    "totalTime": "1 hour 20 minutes"
+  }
 }

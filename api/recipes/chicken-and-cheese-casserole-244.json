@@ -60,5 +60,10 @@
       "duration": "PT30M"
     }
   ],
-  "keywords": "chicken casserole, cheesy rice bake, comfort food"
+  "keywords": "chicken casserole, cheesy rice bake, comfort food",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "totalTime": "50 minutes"
+  }
 }

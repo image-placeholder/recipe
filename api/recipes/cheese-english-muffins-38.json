@@ -39,5 +39,10 @@
       "text": "Bake at 400°F for 10 minutes."
     }
   ],
-  "keywords": "cheese English muffins, appetizer, snack"
+  "keywords": "cheese English muffins, appetizer, snack",
+  "_naturalized_times": {
+    "prepTime": "10 minutes",
+    "cookTime": "10 minutes",
+    "totalTime": "20 minutes"
+  }
 }

@@ -32,5 +32,10 @@
       "text": "Cook in the microwave for approximately 8 minutes."
     }
   ],
-  "keywords": "cooked salad dressing, creamy dressing"
+  "keywords": "cooked salad dressing, creamy dressing",
+  "_naturalized_times": {
+    "prepTime": "5 minutes",
+    "cookTime": "8 minutes",
+    "totalTime": "13 minutes"
+  }
 }

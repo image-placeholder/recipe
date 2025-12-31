@@ -61,5 +61,10 @@
       "text": "Bake in a preheated 350°F oven for 20 to 30 minutes."
     }
   ],
-  "keywords": "pizza casserole, spaghetti, hamburger, pepperoni"
+  "keywords": "pizza casserole, spaghetti, hamburger, pepperoni",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "totalTime": "50 minutes"
+  }
 }

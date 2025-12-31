@@ -66,5 +66,10 @@
       "duration": "PT30M"
     }
   ],
-  "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese"
+  "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "totalTime": "50 minutes"
+  }
 }
