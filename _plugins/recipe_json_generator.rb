@@ -41,6 +41,7 @@ module Jekyll
           'author' => authors.join(', '),
           'keyword' => recipe['keywords'] || '',
           'category' => recipe['recipeCategory'] || '',
+          'description' => recipe['description'] || '',
           'cuisine' => recipe['recipeCuisine'] || '',
           'url' => "recipes/#{file_name.gsub('.json','')}"
         }
