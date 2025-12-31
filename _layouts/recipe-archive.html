@@ -24,7 +24,7 @@
   {% elsif page.type == "cuisine_categories" %}
      {{ page.title | capitalize }} {{ page.type | capitalize }} Recipes
   {% elsif page.type == "category" %}
-    {{ page.title | capitalize }} Recipes
+    {{ page.title }} Recipes
   {% else %}
     {{ page.title | capitalize }} {{ page.type | capitalize }} Recipes
   {% endif %} - {{ page.type | capitalize }}
