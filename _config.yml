@@ -111,7 +111,7 @@ PurgeCSS:
       
   
 assets:
-  compress: false  # Enable CSS and JS compression
+  compress: true  # Enable CSS and JS compression
   minify: true    # Enable HTML minification
 
 gh_repo_name: cemetery_demo- # required for downloading images
