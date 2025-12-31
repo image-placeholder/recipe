@@ -374,8 +374,8 @@ title: "Search Recipes"
       const urlParams = new URLSearchParams(window.location.search);
       const queryParam = urlParams.get('q');
       if (queryParam) performSearch(queryParam.toLowerCase());
+      document.removeEventListener('DOMContentLoaded', init);
     );
-    document.removeEventListener('DOMContentLoaded', init);
   };
 
   document.addEventListener('DOMContentLoaded', init);
