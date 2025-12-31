@@ -376,7 +376,7 @@ title: "Search Recipes"
   // If URL has ?q=..., pre-fill and auto-search
   const urlParams = new URLSearchParams(window.location.search);
   const queryParam = urlParams.get('q');
-  if (queryParam) performSearch(queryParam.toLowerCase());
+  if (queryParam) handleSearch(queryParam.toLowerCase());
 
   // Remove DOMContentLoaded listener after init
   document.removeEventListener('DOMContentLoaded', init);
