@@ -62,6 +62,7 @@ const generateRecipes = () => {
         name: recipe.name,
         author: authors.join(', '),
         keyword: recipe.keywords || '',
+        description: recipe.description || '',
         category: recipe.recipeCategory || '',
         cuisine: recipe.recipeCuisine || '',
         url: `recipes/${fileName.replace('.json', '')}`
