@@ -63,12 +63,14 @@
         <p>{{ page._naturalized_times.totalTime }}</p>
       </div>
       <div>
+        {% assign category_slug = page.recipeCategory | downcase | slugify %}
         <p class="text-stone-400 mb-1">Category</p>
-        <a class="no-underline hover:underline text-stone-500 hover:text-stone-700" href="{{ '/recipes/category/' | append: page.recipeCategory | downcase | slugify | relative_url }}">{{ page.recipeCategory }}</a>
+        <a class="no-underline hover:underline text-stone-500 hover:text-stone-700" href="{{ '/recipes/category/' | append: category_slug | relative_url }}">{{ page.recipeCategory }}</a>
       </div>
       <div>
+        {% assign cuisine_slug = page.recipeCuisine | downcase | slugify %}
         <p class="text-stone-400 mb-1">Cuisine</p>
-        <a class="no-underline hover:underline text-stone-500 hover:text-stone-700" href="{{ '/recipes/cuisine/' | append: page.recipeCuisine | downcase | slugify | relative_url }}">{{ page.recipeCuisine }}</a>
+        <a class="no-underline hover:underline text-stone-500 hover:text-stone-700" href="{{ '/recipes/cuisine/' | append: cuisine_slug | relative_url }}">{{ page.recipeCuisine }}</a>
       </div>
     </div>
 
