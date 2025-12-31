@@ -128,10 +128,15 @@ const generateRecipes = async () => {
     const authorsMap = {};
     const authorSlugMap = {};
 
+       recipes.forEach((recipe, index) => {
+      recipe.id = recipe.id || (index + 1);
+      const slug = slugify(recipe.name || 'untitled-recipe');
+      recipe.fileName = `${recipe.slug}-${recipe.id}.json`;
+    });
+    
     recipes.forEach((recipe, index) => {
-      const id = recipe.id || (index + 1);
       const baseSlug = slugify(recipe.name || 'untitled-recipe');
-      const fileName = `${baseSlug}-${id}.json`;
+      const fileName = recipe.fileName;
       const filePath = path.join(OUTPUT_DIR, 'recipes');
       ensureDir(filePath);
 
@@ -140,6 +145,7 @@ const generateRecipes = async () => {
 
       _recipe._url = `/recipe/${fileName}`;
       delete _recipe.id;
+      delete recipe.fileName;
       // Write individual recipe file
       fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2));
 
