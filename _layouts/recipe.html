@@ -64,11 +64,11 @@
       </div>
       <div>
         <p class="text-stone-400 mb-1">Category</p>
-        <a class="no-underline hover:underline text-stone-500 hover:text-stone-700" href="{{ '/recipes/category/' | append: page.recipeCategory | downcase | relative_url }}">{{ page.recipeCategory }}</a>
+        <a class="no-underline hover:underline text-stone-500 hover:text-stone-700" href="{{ '/recipes/category/' | append: page.recipeCategory | downcase | slugify | relative_url }}">{{ page.recipeCategory }}</a>
       </div>
       <div>
         <p class="text-stone-400 mb-1">Cuisine</p>
-        <a class="no-underline hover:underline text-stone-500 hover:text-stone-700" href="{{ '/recipes/cuisine/' | append: page.recipeCuisine | downcase | relative_url }}">{{ page.recipeCuisine }}</a>
+        <a class="no-underline hover:underline text-stone-500 hover:text-stone-700" href="{{ '/recipes/cuisine/' | append: page.recipeCuisine | downcase | slugify | relative_url }}">{{ page.recipeCuisine }}</a>
       </div>
     </div>
 
