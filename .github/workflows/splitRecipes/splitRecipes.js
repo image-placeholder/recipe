@@ -128,13 +128,6 @@ const generateRecipes = async () => {
     const authorsMap = {};
     const authorSlugMap = {};
 
-      // --- Step 1: Assign IDs to all recipes first ---
-    recipes.forEach((recipe, index) => {
-      recipe.id = recipe.id || (index + 1);
-    });
-
-    // --- Step 2: Build indexes and save recipes with similarRecipes ---
-    
     recipes.forEach((recipe, index) => {
       const id = recipe.id || (index + 1);
       const baseSlug = slugify(recipe.name || 'untitled-recipe');
@@ -144,6 +137,8 @@ const generateRecipes = async () => {
 
       // Run Recommendation System
       const _recipe = similarRecipes(recipe, recipes, 5);
+
+      _recipe.url = `/recipes/${fileName}`;
       // Write individual recipe file
       fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2));
 
