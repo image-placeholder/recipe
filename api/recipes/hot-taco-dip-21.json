@@ -74,6 +74,7 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
+  "id": 21,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -133,7 +134,8 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "similarity": "0.47"
+      "id": 29,
+      "similarity": "0.46"
     },
     {
       "@context": "https://schema.org/",
@@ -187,63 +189,8 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
+      "id": 28,
       "similarity": "0.44"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheese Dip in a Bread Bowl",
-      "author": {
-        "@type": "Person",
-        "name": "Sherri Haugh"
-      },
-      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 bread bowl",
-      "recipeIngredient": [
-        "1 round bread loaf",
-        "1½ cups chopped ham",
-        "1 (8 oz) package cream cheese",
-        "1½ cups sour cream",
-        "½ cup chopped green pepper",
-        "½ cup chopped green onion",
-        "2 cups shredded cheddar cheese",
-        "1 shake Tabasco sauce",
-        "1 shake Worcestershire sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
-        }
-      ],
-      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "similarity": "0.39"
     },
     {
       "@context": "https://schema.org/",
@@ -299,70 +246,8 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "similarity": "0.34"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Artichoke Appetizer",
-      "author": {
-        "@type": "Person",
-        "name": "Loma Finkbeiner"
-      },
-      "description": "A warm, cheesy artichoke appetizer perfect for serving with bread or crackers.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT25M",
-      "totalTime": "PT35M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 (14 oz) can artichoke hearts",
-        "Dash garlic salt",
-        "1 cup grated Parmesan cheese",
-        "2 Tbsp chopped green onion",
-        "1 cup shredded mozzarella cheese",
-        "1 Tbsp chopped parsley",
-        "1 cup Hellmann's mayonnaise"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Drain artichoke hearts."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine artichoke hearts with cheese, mayonnaise, garlic salt, and green onion in a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle parsley over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 25 to 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT25M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with bread or crackers."
-        }
-      ],
-      "keywords": "artichoke appetizer, cheesy dip, party snack",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "35 minutes"
-      },
-      "similarity": "0.32"
+      "id": 12,
+      "similarity": "0.33"
     }
   ]
 }

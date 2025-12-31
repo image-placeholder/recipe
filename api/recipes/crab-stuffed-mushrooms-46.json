@@ -59,49 +59,8 @@
     "cookTime": "12 minutes",
     "totalTime": "32 minutes"
   },
+  "id": 46,
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Curry Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Finkbeiner"
-      },
-      "description": "A flavorful and spicy dip made with mayonnaise, curry powder, and chili sauce, perfect for serving with snacks.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "1 bowl",
-      "recipeIngredient": [
-        "1 cup mayonnaise",
-        "1/2 tsp Worcestershire sauce",
-        "1/4 cup chili sauce",
-        "1 tsp curry powder",
-        "1/4 tsp Tabasco",
-        "1/2 tsp chopped onion (optional)",
-        "1 tsp lemon juice"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together in a bowl until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand in the fridge for 1 to 2 hours before serving to allow flavors to meld."
-        }
-      ],
-      "keywords": "curry dip, spicy dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "similarity": "0.40"
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -158,7 +117,51 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "similarity": "0.40"
+      "id": 7,
+      "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Curry Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A flavorful and spicy dip made with mayonnaise, curry powder, and chili sauce, perfect for serving with snacks.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 cup mayonnaise",
+        "1/2 tsp Worcestershire sauce",
+        "1/4 cup chili sauce",
+        "1 tsp curry powder",
+        "1/4 tsp Tabasco",
+        "1/2 tsp chopped onion (optional)",
+        "1 tsp lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a bowl until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand in the fridge for 1 to 2 hours before serving to allow flavors to meld."
+        }
+      ],
+      "keywords": "curry dip, spicy dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "id": 14,
+      "similarity": "0.39"
     },
     {
       "@context": "https://schema.org/",
@@ -221,7 +224,8 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "similarity": "0.38"
+      "id": 1,
+      "similarity": "0.37"
     },
     {
       "@context": "https://schema.org/",
@@ -260,7 +264,8 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "similarity": "0.37"
+      "id": 20,
+      "similarity": "0.36"
     },
     {
       "@context": "https://schema.org/",
@@ -309,7 +314,8 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "similarity": "0.33"
+      "id": 2,
+      "similarity": "0.32"
     }
   ]
 }

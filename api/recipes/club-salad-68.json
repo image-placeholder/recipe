@@ -39,6 +39,7 @@
     "cookTime": "",
     "totalTime": "15 minutes"
   },
+  "id": 68,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -109,111 +110,8 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
+      "id": 63,
       "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mexican Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Sheila Jarvie"
-      },
-      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "8 to 9 servings",
-      "recipeIngredient": [
-        "¾ cup kidney beans",
-        "¾ cup lentils",
-        "½ cup diced tomato",
-        "1 cup shredded lettuce",
-        "½ green pepper, chopped",
-        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
-        "2 green onions, chopped",
-        "¼ cup Catalina dressing",
-        "¼ cup salsa",
-        "Taco chips for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss the salad with Catalina dressing until well coated."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the salad with salsa."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately with taco chips on the side."
-        }
-      ],
-      "keywords": "Mexican salad, bean salad, taco chips",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
-      },
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Grape Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A refreshing salad made with cooked chicken, green grapes, celery, and toasted almonds, mixed with a creamy dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1½ cups cooked chicken, cubed",
-        "1½ cups green grapes, halved",
-        "½ cup celery, thinly sliced",
-        "Toasted almonds",
-        "¼ cup mayonnaise",
-        "1 Tbsp milk or cream",
-        "½ tsp salt",
-        "¼ tsp dry mustard",
-        "⅛ tsp pepper",
-        "½ tsp lemon juice",
-        "Lettuce for serving",
-        "Parsley for garnish"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine dressing ingredients in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss chicken, grapes, celery, and almonds together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the chicken mixture on lettuce and garnish with parsley."
-        }
-      ],
-      "keywords": "chicken salad, grape salad, creamy dressing",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
-      },
-      "similarity": "0.33"
     },
     {
       "@context": "https://schema.org/",
@@ -280,59 +178,191 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
+      "id": 59,
       "similarity": "0.32"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cottage Cheese Jellied Salad",
+      "name": "Chicken Grape Salad",
       "author": {
         "@type": "Person",
-        "name": "Jean E. Neil"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+      "description": "A refreshing salad made with cooked chicken, green grapes, celery, and toasted almonds, mixed with a creamy dressing.",
       "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
+      "prepTime": "PT10M",
       "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
+      "totalTime": "PT10M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "3 oz package orange or lemon flavored gelatin",
-        "1 cup boiling water",
-        "1 cup drained crushed pineapple",
-        "½ cup chopped walnuts (optional)",
-        "½ cup mayonnaise",
-        "1 cup cottage cheese"
+        "1½ cups cooked chicken, cubed",
+        "1½ cups green grapes, halved",
+        "½ cup celery, thinly sliced",
+        "Toasted almonds",
+        "¼ cup mayonnaise",
+        "1 Tbsp milk or cream",
+        "½ tsp salt",
+        "¼ tsp dry mustard",
+        "⅛ tsp pepper",
+        "½ tsp lemon juice",
+        "Lettuce for serving",
+        "Parsley for garnish"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Dissolve gelatin in boiling water."
+          "text": "Combine dressing ingredients in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Add mayonnaise and whisk to blend."
+          "text": "Toss chicken, grapes, celery, and almonds together."
         },
         {
           "@type": "HowToStep",
-          "text": "Chill until the mixture starts to set."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
+          "text": "Serve the chicken mixture on lettuce and garnish with parsley."
         }
       ],
-      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
+      "keywords": "chicken salad, grape salad, creamy dressing",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
+        "prepTime": "10 minutes",
         "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
+        "totalTime": "10 minutes"
       },
+      "id": 65,
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Marinated Vegetable Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A colorful salad of marinated vegetables including cauliflower, broccoli, carrots, and radishes, dressed with Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT0M",
+      "totalTime": "PT30M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 medium cauliflower",
+        "1 bunch broccoli",
+        "3 celery stalks",
+        "1/2 English cucumber",
+        "1/2 bunch radishes",
+        "Baby carrots",
+        "Cherry tomatoes",
+        "1 bottle Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and clean all the vegetables, then drain well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Break cauliflower and broccoli into bite-sized pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Trim radishes and carrots; leave whole or cut into bite-sized pieces if large."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut celery into 3-inch pieces and slice cucumber into 1/2-inch slices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Leave cherry tomatoes whole and place all vegetables in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour Italian dressing over the vegetables and let set for a few hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve as finger food or as a salad."
+        }
+      ],
+      "keywords": "marinated vegetables, vegetable salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "",
+        "totalTime": "30 minutes"
+      },
+      "id": 94,
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Marinated Vegetable Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A colorful and versatile marinated vegetable salad perfect for serving as finger food or a side dish.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "Variable",
+      "recipeIngredient": [
+        "1 medium cauliflower",
+        "3 celery stalks",
+        "1/2 English cucumber",
+        "1 bunch broccoli",
+        "1/2 bunch radishes",
+        "Cherry tomatoes",
+        "1 small bag baby carrots",
+        "1 bottle Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and clean all the vegetables, then drain well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Break cauliflower and broccoli into bite-sized pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Trim radishes and carrots; leave whole unless large, then cut into bite-sized pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut celery into 3-inch pieces and slice cucumber into 1/2-inch slices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Leave cherry tomatoes whole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place all prepared vegetables in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour Italian dressing over the vegetables and let set for a few hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve as finger food or as a salad."
+        }
+      ],
+      "keywords": "marinated vegetables, vegetable salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "id": 91,
       "similarity": "0.30"
     }
   ]

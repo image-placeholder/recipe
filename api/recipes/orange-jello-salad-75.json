@@ -47,6 +47,7 @@
     "cookTime": "5 minutes",
     "totalTime": "20 minutes"
   },
+  "id": 75,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -99,7 +100,8 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "similarity": "0.41"
+      "id": 76,
+      "similarity": "0.42"
     },
     {
       "@context": "https://schema.org/",
@@ -155,60 +157,8 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "similarity": "0.41"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cottage Cheese Jellied Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Jean E. Neil"
-      },
-      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 oz package orange or lemon flavored gelatin",
-        "1 cup boiling water",
-        "1 cup drained crushed pineapple",
-        "½ cup chopped walnuts (optional)",
-        "½ cup mayonnaise",
-        "1 cup cottage cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Dissolve gelatin in boiling water."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mayonnaise and whisk to blend."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until the mixture starts to set."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
-        }
-      ],
-      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
-      },
-      "similarity": "0.34"
+      "id": 77,
+      "similarity": "0.39"
     },
     {
       "@context": "https://schema.org/",
@@ -261,7 +211,62 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "similarity": "0.33"
+      "id": 49,
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cottage Cheese Jellied Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 oz package orange or lemon flavored gelatin",
+        "1 cup boiling water",
+        "1 cup drained crushed pineapple",
+        "½ cup chopped walnuts (optional)",
+        "½ cup mayonnaise",
+        "1 cup cottage cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve gelatin in boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise and whisk to blend."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until the mixture starts to set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
+        }
+      ],
+      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "id": 66,
+      "similarity": "0.32"
     },
     {
       "@context": "https://schema.org/",
@@ -313,7 +318,8 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "similarity": "0.32"
+      "id": 84,
+      "similarity": "0.30"
     }
   ]
 }

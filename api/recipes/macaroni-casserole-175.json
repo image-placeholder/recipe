@@ -64,6 +64,7 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "id": 175,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -132,7 +133,8 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "similarity": "0.58"
+      "id": 164,
+      "similarity": "0.57"
     },
     {
       "@context": "https://schema.org/",
@@ -202,7 +204,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.53"
+      "id": 244,
+      "similarity": "0.51"
     },
     {
       "@context": "https://schema.org/",
@@ -271,80 +274,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.47"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Beef and Rice Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Kurtis Brand"
-      },
-      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 1½ quart casserole",
-      "recipeIngredient": [
-        "1⅓ cups cooked rice",
-        "1 tsp salt",
-        "1 Tbsp butter",
-        "Dash pepper",
-        "1½ cups diced celery",
-        "3 Tbsp minced onion",
-        "1 can condensed tomato soup",
-        "¼ cup water",
-        "1 lb ground beef"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Sauté celery and onion in butter until soft and tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place rice in a greased 1½ quart casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the rice with the celery mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange the cooked beef on top of the celery mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the tomato soup with water and pour over the meat layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated 325°F oven for ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 325,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "beef casserole, rice casserole, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "similarity": "0.44"
+      "id": 178,
+      "similarity": "0.46"
     },
     {
       "@context": "https://schema.org/",
@@ -418,7 +349,76 @@
         "cookTime": "30 minutes",
         "totalTime": "55 minutes"
       },
-      "similarity": "0.43"
+      "id": 169,
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Macaroni Ham Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Cheryl MacLeod"
+      },
+      "description": "A comforting macaroni and ham casserole topped with cheddar cheese and crushed sour cream and onion potato chips.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2½ cups (625 mL) milk",
+        "2 cups (500 mL) uncooked macaroni",
+        "Salt and pepper to taste",
+        "1 to 1¼ cups (250 to 375 mL) grated cheddar cheese",
+        "1 cup (250 mL) cubed ham",
+        "¼ cup (60 mL) melted margarine",
+        "¼ cup (60 mL) flour",
+        "Crushed sour cream and onion flavoured potato chips for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the macaroni in boiling water, then drain and mix in cubed ham."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine in a saucepan and mix in the flour. Add in the milk and stir constantly over medium heat until the mixture is thick and smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the sauce with the macaroni and ham, then pour into a greased casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add salt and pepper to taste, and stir in about ¾ of the grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the remaining cheddar cheese on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with crushed sour cream and onion flavoured potato chips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for approximately 20 minutes, or until the casserole is bubbling."
+        }
+      ],
+      "keywords": "macaroni casserole, ham and cheese, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 196,
+      "similarity": "0.41"
     }
   ]
 }

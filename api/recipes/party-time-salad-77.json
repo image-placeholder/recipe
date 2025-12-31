@@ -52,6 +52,7 @@
     "cookTime": "",
     "totalTime": "20 minutes"
   },
+  "id": 77,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -102,7 +103,8 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "similarity": "0.41"
+      "id": 75,
+      "similarity": "0.39"
     },
     {
       "@context": "https://schema.org/",
@@ -155,7 +157,8 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "similarity": "0.40"
+      "id": 66,
+      "similarity": "0.39"
     },
     {
       "@context": "https://schema.org/",
@@ -208,7 +211,8 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "similarity": "0.37"
+      "id": 76,
+      "similarity": "0.36"
     },
     {
       "@context": "https://schema.org/",
@@ -266,67 +270,63 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
+      "id": 89,
       "similarity": "0.31"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Macaroni Salad",
+      "name": "Sauerkraut Salad",
       "author": {
         "@type": "Person",
-        "name": "Theresa Finkbeiner"
+        "name": "Lorna Finkbeiner"
       },
-      "description": "A classic macaroni salad with tuna, ham, and cheddar cheese, mixed with Miracle Whip and spices.",
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
       "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT8M",
-      "totalTime": "PT23M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
       "recipeIngredient": [
-        "2 cups macaroni",
-        "1 can (drained) white solid tuna",
-        "1 cup cubed cheddar cheese",
-        "1 cup cubed ham",
-        "1/2 cup cubed celery",
-        "1/4 cup chopped onion",
-        "1 tsp parsley flakes",
-        "1/2 tsp paprika",
-        "Salt to taste",
-        "Miracle Whip (enough to moisten)"
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook macaroni according to package directions. Let cool."
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
         },
         {
           "@type": "HowToStep",
-          "text": "Cut up celery, cheese, tuna, and ham into small pieces."
+          "text": "Let the dressing cool to room temperature."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine cooled macaroni with the tuna mixture."
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Add enough Miracle Whip to moisten the salad."
+          "text": "Pour the cooled dressing over the salad and toss to coat."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle with parsley flakes and paprika."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix well and serve."
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
         }
       ],
-      "keywords": "macaroni salad, tuna salad, cheddar cheese",
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "8 minutes",
-        "totalTime": "23 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
       },
+      "id": 82,
       "similarity": "0.30"
     }
   ]

@@ -41,6 +41,7 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
+  "id": 101,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -82,6 +83,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
+      "id": 102,
       "similarity": "0.52"
     },
     {
@@ -128,6 +130,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
+      "id": 103,
       "similarity": "0.49"
     },
     {
@@ -178,6 +181,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
+      "id": 104,
       "similarity": "0.45"
     }
   ]

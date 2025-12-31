@@ -47,6 +47,7 @@
     "cookTime": "",
     "totalTime": "15 minutes"
   },
+  "id": 96,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -98,7 +99,8 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "similarity": "0.56"
+      "id": 84,
+      "similarity": "0.54"
     },
     {
       "@context": "https://schema.org/",
@@ -161,6 +163,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
+      "id": 87,
       "similarity": "0.52"
     },
     {
@@ -220,7 +223,8 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "similarity": "0.48"
+      "id": 88,
+      "similarity": "0.47"
     },
     {
       "@context": "https://schema.org/",
@@ -266,6 +270,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
+      "id": 86,
       "similarity": "0.40"
     },
     {
@@ -321,6 +326,7 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
+      "id": 82,
       "similarity": "0.40"
     }
   ]

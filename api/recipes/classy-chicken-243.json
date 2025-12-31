@@ -69,57 +69,8 @@
     "cookTime": "35 minutes",
     "totalTime": "55 minutes"
   },
+  "id": 243,
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken and Broccoli",
-      "author": {
-        "@type": "Person",
-        "name": "Marguerite Finkbeiner"
-      },
-      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 cup small shells pasta",
-        "1 can cream of mushroom soup",
-        "2 cups broccoli, cooked",
-        "1½ cups chicken, cooked and chopped",
-        "½ cup milk",
-        "½ cup Parmesan cheese",
-        "¼ tsp ground pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the small shells pasta according to package directions. Drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with a cranberry salad."
-        }
-      ],
-      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "similarity": "0.44"
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -176,119 +127,59 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "similarity": "0.41"
+      "id": 241,
+      "similarity": "0.42"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Curry Chicken",
+      "name": "Chicken and Broccoli",
       "author": {
         "@type": "Person",
-        "name": "Leslie Jenni"
+        "name": "Marguerite Finkbeiner"
       },
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "International",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4-6 servings",
-      "recipeIngredient": [
-        "6 to 8 boneless chicken breasts",
-        "¼ cup Dijon mustard",
-        "2 Tbsp prepared mustard",
-        "1 Tbsp lime juice",
-        "¼ cup butter",
-        "1 tsp curry powder",
-        "½ cup honey"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients except chicken breasts in a microwave-safe bowl until butter is melted."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange chicken breasts in a shallow baking dish sprayed with nonstick spray."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the curry mixture over the chicken breasts."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake uncovered for 1 hour, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over rice."
-        }
-      ],
-      "keywords": "curry chicken, baked chicken, honey mustard chicken",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "similarity": "0.40"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Easy Curried Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "International",
+      "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "Chicken pieces",
-        "2 cans cream of chicken soup",
-        "¾ cup mayonnaise",
-        "1 tsp curry powder (or to taste)",
-        "Broccoli and carrots, cut into bite-size pieces",
-        "Bread crumbs for topping"
+        "1 cup small shells pasta",
+        "1 can cream of mushroom soup",
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Grease the bottom of a pan and layer with vegetables."
+          "text": "Cook the small shells pasta according to package directions. Drain."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange chicken pieces on top of the vegetables."
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix cream of chicken soup, mayonnaise, and curry powder."
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the soup mixture over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle bread crumbs on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 375°F for 1 hour."
+          "text": "Serve hot with a cranberry salad."
         }
       ],
-      "keywords": "curried chicken, creamy chicken, baked chicken casserole",
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
       },
-      "similarity": "0.36"
+      "id": 234,
+      "similarity": "0.40"
     },
     {
       "@context": "https://schema.org/",
@@ -348,7 +239,138 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
+      "id": 242,
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lemon Chicken With Thyme",
+      "author": {
+        "@type": "Person",
+        "name": "Karen Schwartzentruber"
+      },
+      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp flour",
+        "1 Tbsp margarine",
+        "1 cup chicken broth",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "3 Tbsp lemon juice",
+        "1/2 tsp thyme",
+        "4 boneless skinless chicken breasts",
+        "2 Tbsp olive oil",
+        "1 medium onion (optional)",
+        "Lemon halves and chopped parsley for garnish (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
+        }
+      ],
+      "keywords": "lemon chicken, thyme, chicken breast",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 224,
       "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ken Noodle Supper",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Jefferies"
+      },
+      "description": "A hearty chicken and noodle supper with a creamy sauce, mixed vegetables, and a blend of herbs.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 lb boneless, skinless chicken breasts",
+        "½ tsp salt",
+        "½ tsp pepper",
+        "3 Tbsp flour",
+        "1 Tbsp butter",
+        "3 cups milk",
+        "1 Tbsp vegetable oil",
+        "1 Tbsp Dijon mustard",
+        "1 large onion, chopped",
+        "3 cups uncooked egg noodles",
+        "1 cup sliced mushrooms",
+        "1 pkg (10 oz/300 g) frozen mixed vegetables",
+        "1 clove garlic",
+        "½ tsp dried basil",
+        "½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut chicken into 1 inch cubes. Cook in butter in a large skillet over medium heat for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion, mushrooms, and garlic. Cook until onion is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, pepper, and herbs. Cook until thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add milk, stirring constantly. Bring to a boil and simmer for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mustard and noodles. Return to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add frozen vegetables. Stir and cook for 10 minutes before serving."
+        }
+      ],
+      "keywords": "chicken noodle supper, creamy sauce, comfort food",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "id": 240,
+      "similarity": "0.34"
     }
   ]
 }

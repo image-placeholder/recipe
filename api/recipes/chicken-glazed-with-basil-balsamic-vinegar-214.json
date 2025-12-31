@@ -55,58 +55,8 @@
     "cookTime": null,
     "totalTime": null
   },
+  "id": 214,
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Boneless Chicken Breasts",
-      "author": {
-        "@type": "Person",
-        "name": "Laura Nakamura"
-      },
-      "description": "A stuffed boneless chicken breast recipe with ham, cheese, and onions.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "4 boneless chicken breasts",
-        "1 cup fine bread crumbs",
-        "1 beaten egg",
-        "1 Tbsp milk",
-        "Ham, cut in strips",
-        "Cheese, shredded",
-        "Onions, finely chopped",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Pound chicken with a frying pan or mallet, skin side down."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Layer with ham, cheese, and onions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll up and dip in egg mixture, then coat with bread crumbs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put in a cake or casserole pan and bake at 350°F for 1/2 hour or until chicken is cooked."
-        }
-      ],
-      "keywords": "stuffed chicken breast, boneless chicken",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "similarity": "0.38"
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -167,64 +117,60 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
+      "id": 224,
       "similarity": "0.38"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Curry Chicken",
+      "name": "Boneless Chicken Breasts",
       "author": {
         "@type": "Person",
-        "name": "Leslie Jenni"
+        "name": "Laura Nakamura"
       },
+      "description": "A stuffed boneless chicken breast recipe with ham, cheese, and onions.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "International",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4-6 servings",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "6 to 8 boneless chicken breasts",
-        "¼ cup Dijon mustard",
-        "2 Tbsp prepared mustard",
-        "1 Tbsp lime juice",
-        "¼ cup butter",
-        "1 tsp curry powder",
-        "½ cup honey"
+        "4 boneless chicken breasts",
+        "1 cup fine bread crumbs",
+        "1 beaten egg",
+        "1 Tbsp milk",
+        "Ham, cut in strips",
+        "Cheese, shredded",
+        "Onions, finely chopped",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Preheat oven to 350°F."
+          "text": "Pound chicken with a frying pan or mallet, skin side down."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients except chicken breasts in a microwave-safe bowl until butter is melted."
+          "text": "Layer with ham, cheese, and onions."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange chicken breasts in a shallow baking dish sprayed with nonstick spray."
+          "text": "Roll up and dip in egg mixture, then coat with bread crumbs."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the curry mixture over the chicken breasts."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake uncovered for 1 hour, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over rice."
+          "text": "Put in a cake or casserole pan and bake at 350°F for 1/2 hour or until chicken is cooked."
         }
       ],
-      "keywords": "curry chicken, baked chicken, honey mustard chicken",
+      "keywords": "stuffed chicken breast, boneless chicken",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "similarity": "0.35"
+      "id": 213,
+      "similarity": "0.38"
     },
     {
       "@context": "https://schema.org/",
@@ -277,7 +223,8 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "similarity": "0.34"
+      "id": 212,
+      "similarity": "0.36"
     },
     {
       "@context": "https://schema.org/",
@@ -335,7 +282,60 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "similarity": "0.34"
+      "id": 241,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Pineapple Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
+        "½ cup vinegar",
+        "2 Tbsp light brown sugar",
+        "½ tsp salt",
+        "¼ to ½ cup ketchup",
+        "¼ cup water",
+        "4 chicken breasts",
+        "1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
+        }
+      ],
+      "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "id": 222,
+      "similarity": "0.32"
     }
   ]
 }

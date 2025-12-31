@@ -37,6 +37,7 @@
     "cookTime": null,
     "totalTime": null
   },
+  "id": 78,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -98,7 +99,8 @@
         "cookTime": "10 minutes",
         "totalTime": "8 hours 30 minutes"
       },
-      "similarity": "0.50"
+      "id": 79,
+      "similarity": "0.46"
     },
     {
       "@context": "https://schema.org/",
@@ -141,6 +143,7 @@
         "cookTime": null,
         "totalTime": null
       },
+      "id": 80,
       "similarity": "0.38"
     }
   ]

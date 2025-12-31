@@ -35,6 +35,7 @@
     "cookTime": null,
     "totalTime": "5 minutes"
   },
+  "id": 122,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -86,7 +87,8 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "similarity": "0.34"
+      "id": 136,
+      "similarity": "0.33"
     },
     {
       "@context": "https://schema.org/",
@@ -135,97 +137,8 @@
         "cookTime": "10 minutes",
         "totalTime": "15 minutes"
       },
-      "similarity": "0.30"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Teriyaki Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "description": "A savory and slightly sweet marinade sauce made with soy sauce, garlic, and ginger, ideal for chicken, beef, pork, or seafood.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "varies",
-      "recipeIngredient": [
-        "1/4 cup soy sauce",
-        "1 clove garlic, minced",
-        "2 Tbsp honey",
-        "1/4 tsp hot pepper (or to taste)",
-        "1 Tbsp rice vinegar",
-        "1 Tbsp minced ginger root"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Marinate meat for at least 1 hour or up to 24 hours in the refrigerator."
-        }
-      ],
-      "keywords": "teriyaki sauce, marinade, Asian-inspired, soy sauce",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "similarity": "0.21"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "similarity": "0.13"
+      "id": 134,
+      "similarity": "0.26"
     }
   ]
 }

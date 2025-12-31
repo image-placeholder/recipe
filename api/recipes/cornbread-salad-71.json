@@ -57,6 +57,7 @@
     "cookTime": "15 minutes",
     "totalTime": "1 hour 35 minutes"
   },
+  "id": 71,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -111,6 +112,7 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
+      "id": 82,
       "similarity": "0.37"
     },
     {
@@ -160,7 +162,8 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "similarity": "0.35"
+      "id": 85,
+      "similarity": "0.34"
     },
     {
       "@context": "https://schema.org/",
@@ -212,7 +215,8 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "similarity": "0.35"
+      "id": 84,
+      "similarity": "0.34"
     },
     {
       "@context": "https://schema.org/",
@@ -270,60 +274,60 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "similarity": "0.33"
+      "id": 89,
+      "similarity": "0.32"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Mexican Salad",
+      "name": "Chicken Grape Salad",
       "author": {
         "@type": "Person",
-        "name": "Sheila Jarvie"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "description": "A refreshing salad made with cooked chicken, green grapes, celery, and toasted almonds, mixed with a creamy dressing.",
       "recipeCategory": "Salad",
-      "recipeCuisine": "Mexican-American",
+      "recipeCuisine": "American",
       "prepTime": "PT10M",
       "cookTime": "PT0M",
       "totalTime": "PT10M",
-      "recipeYield": "8 to 9 servings",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "¾ cup kidney beans",
-        "¾ cup lentils",
-        "½ cup diced tomato",
-        "1 cup shredded lettuce",
-        "½ green pepper, chopped",
-        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
-        "2 green onions, chopped",
-        "¼ cup Catalina dressing",
-        "¼ cup salsa",
-        "Taco chips for serving"
+        "1½ cups cooked chicken, cubed",
+        "1½ cups green grapes, halved",
+        "½ cup celery, thinly sliced",
+        "Toasted almonds",
+        "¼ cup mayonnaise",
+        "1 Tbsp milk or cream",
+        "½ tsp salt",
+        "¼ tsp dry mustard",
+        "⅛ tsp pepper",
+        "½ tsp lemon juice",
+        "Lettuce for serving",
+        "Parsley for garnish"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+          "text": "Combine dressing ingredients in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Toss the salad with Catalina dressing until well coated."
+          "text": "Toss chicken, grapes, celery, and almonds together."
         },
         {
           "@type": "HowToStep",
-          "text": "Top the salad with salsa."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately with taco chips on the side."
+          "text": "Serve the chicken mixture on lettuce and garnish with parsley."
         }
       ],
-      "keywords": "Mexican salad, bean salad, taco chips",
+      "keywords": "chicken salad, grape salad, creamy dressing",
       "_naturalized_times": {
         "prepTime": "10 minutes",
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "similarity": "0.33"
+      "id": 65,
+      "similarity": "0.31"
     }
   ]
 }

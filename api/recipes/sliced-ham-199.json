@@ -39,6 +39,7 @@
     "cookTime": "25 minutes",
     "totalTime": "30 minutes"
   },
+  "id": 199,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -92,7 +93,8 @@
         "cookTime": "2 hours 15 minutes",
         "totalTime": "2 hours 35 minutes"
       },
-      "similarity": "0.45"
+      "id": 198,
+      "similarity": "0.44"
     },
     {
       "@context": "https://schema.org/",
@@ -136,7 +138,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "similarity": "0.35"
+      "id": 237,
+      "similarity": "0.34"
     },
     {
       "@context": "https://schema.org/",
@@ -192,6 +195,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
+      "id": 163,
       "similarity": "0.33"
     },
     {
@@ -243,63 +247,72 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
+      "id": 222,
       "similarity": "0.31"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Oven Barbecued Pork Chops",
-      "author": {
-        "@type": "Person",
-        "name": "Sue Dinney"
-      },
-      "description": "Pork chops marinated in a barbecue sauce and baked in the oven.",
+      "name": "Sticky Chicken",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Meghan Brand"
+        },
+        {
+          "@type": "Person",
+          "name": "Kurtis Brand"
+        }
+      ],
+      "description": "A sweet and savory chicken dish baked in a sticky sauce with pineapple and mushrooms.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H",
-      "recipeYield": "6 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "6 pork loin chops (about 2 lb)",
-        "2 Tbsp packed brown sugar",
-        "3/4 cup ketchup",
-        "1 Tbsp Worcestershire sauce",
-        "1/3 cup chopped onion",
-        "1 tsp chili powder",
-        "1 clove minced garlic",
-        "1/2 tsp dried mustard",
-        "1/4 cup vinegar",
-        "1/2 tsp dried oregano"
+        "3 lb chicken, cut up",
+        "1 cup liquid (water + pineapple juice)",
+        "½ cup flour",
+        "¾ cup brown sugar",
+        "¼ tsp paprika",
+        "1 tsp Worcestershire sauce",
+        "1 tsp ground ginger",
+        "¼ cup soya sauce",
+        "1 tsp garlic powder",
+        "1 can drained mushrooms",
+        "28 oz can pineapple tidbits"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Trim fat from pork chops and place in a single layer in a 13x9 inch baking dish."
+          "text": "Shake chicken pieces in a bag with flour, paprika, ginger, and garlic powder to coat."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine ketchup, onions, garlic, vinegar, sugar, Worcestershire sauce, chili powder, mustard, and oregano in a bowl."
+          "text": "Combine pineapple juice and water to make 1 cup. Add brown sugar, Worcestershire sauce, soya sauce, and drained mushrooms. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the sauce over the chops and marinate in the refrigerator for at least 1 hour or up to 8 hours."
+          "text": "Place the coated chicken in a pan, skin side down. Pour the sauce over the chicken."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover with foil and bake in a 350°F oven for 30 minutes."
+          "text": "Bake at 350°F, uncovered, for 1 hour. Baste often and turn the chicken at 30 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Uncover and bake, spooning sauce over chops occasionally, for 15 to 30 minutes or until tender."
+          "text": "During the last 5 minutes, add drained pineapple tidbits and an additional can of drained mushrooms."
         }
       ],
-      "keywords": "pork chops, barbecue, oven baked",
+      "keywords": "sticky chicken, baked chicken, pineapple chicken",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour"
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
+      "id": 233,
       "similarity": "0.30"
     }
   ]

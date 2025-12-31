@@ -45,6 +45,7 @@
     "cookTime": "4 hours",
     "totalTime": "4 hours 20 minutes"
   },
+  "id": 155,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -110,74 +111,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "similarity": "0.38"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cabbage Rolls",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "European",
-      "prepTime": "PT30M",
-      "cookTime": "PT3H",
-      "totalTime": "PT3H30M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 head cabbage",
-        "½ lb ground pork",
-        "1 lb ground beef",
-        "1 medium onion",
-        "2 Tbsp lard",
-        "¾ cup uncooked rice (Uncle Ben's)",
-        "1 tsp salt",
-        "½ tsp black pepper",
-        "1 (24 oz) can tomato juice"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chop the onion and fry in lard for 10 minutes until softened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
-        }
-      ],
-      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "3 hours",
-        "totalTime": "3 hours 30 minutes"
-      },
+      "id": 166,
       "similarity": "0.37"
     },
     {
@@ -247,7 +181,65 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "similarity": "0.35"
+      "id": 170,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 163,
+      "similarity": "0.33"
     },
     {
       "@context": "https://schema.org/",
@@ -308,75 +300,54 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "similarity": "0.34"
+      "id": 248,
+      "similarity": "0.32"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Turkey or Chicken Pies",
+      "name": "Cheesy Meat Loaf",
       "author": {
         "@type": "Person",
-        "name": "Shirley Preszcator"
+        "name": "Pam Allen"
       },
-      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
+      "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT45M",
-      "cookTime": "PT30M",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
       "totalTime": "PT1H15M",
-      "recipeYield": "Multiple individual pies or 1 large pie",
+      "recipeYield": "1 loaf",
       "recipeIngredient": [
-        "½ cup margarine",
-        "1 tsp salt",
-        "1 Tbsp onion, chopped",
-        "1 cup flour",
-        "¼ tsp salt",
-        "1½ tsp baking powder",
-        "3 cups chicken or turkey broth",
-        "3 Tbsp butter",
-        "3 cups diced turkey or chicken",
-        "1 cup frozen peas",
-        "1 cup diced carrots",
-        "½ cup celery, chopped",
-        "⅓ cup milk"
+        "1 lb ground beef",
+        "¾ cup bread crumbs",
+        "1 beaten egg",
+        "½ cup chopped onions",
+        "¼ cup chopped green pepper",
+        "¼ cup ketchup",
+        "¾ tsp salt",
+        "1 cup cheese, cut into small cubes",
+        "⅛ tsp pepper",
+        "Chili sauce (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
+          "text": "Mix all ingredients together until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Sauté chopped onion and celery until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil carrots until thoroughly cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cooked carrots with peas and the sauce made earlier."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until the crust is golden brown."
+          "text": "Bake at 350°F for 1 hour."
         }
       ],
-      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
+      "keywords": "meat loaf, cheesy, ground beef, baked",
       "_naturalized_times": {
-        "prepTime": "45 minutes",
-        "cookTime": "30 minutes",
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "similarity": "0.33"
+      "id": 153,
+      "similarity": "0.32"
     }
   ]
 }

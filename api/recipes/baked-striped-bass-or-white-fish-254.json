@@ -73,60 +73,8 @@
     "cookTime": "40 minutes",
     "totalTime": "1 hour"
   },
+  "id": 254,
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
-      },
-      "similarity": "0.36"
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -186,69 +134,8 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Lemon Chicken With Thyme",
-      "author": {
-        "@type": "Person",
-        "name": "Karen Schwartzentruber"
-      },
-      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 Tbsp flour",
-        "1 Tbsp margarine",
-        "1 cup chicken broth",
-        "1/2 tsp salt",
-        "1/4 tsp pepper",
-        "3 Tbsp lemon juice",
-        "1/2 tsp thyme",
-        "4 boneless skinless chicken breasts",
-        "2 Tbsp olive oil",
-        "1 medium onion (optional)",
-        "Lemon halves and chopped parsley for garnish (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
-        }
-      ],
-      "keywords": "lemon chicken, thyme, chicken breast",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "similarity": "0.34"
+      "id": 248,
+      "similarity": "0.33"
     },
     {
       "@context": "https://schema.org/",
@@ -323,7 +210,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.33"
+      "id": 247,
+      "similarity": "0.32"
     },
     {
       "@context": "https://schema.org/",
@@ -389,7 +277,133 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "similarity": "0.33"
+      "id": 240,
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lemon Chicken With Thyme",
+      "author": {
+        "@type": "Person",
+        "name": "Karen Schwartzentruber"
+      },
+      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp flour",
+        "1 Tbsp margarine",
+        "1 cup chicken broth",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "3 Tbsp lemon juice",
+        "1/2 tsp thyme",
+        "4 boneless skinless chicken breasts",
+        "2 Tbsp olive oil",
+        "1 medium onion (optional)",
+        "Lemon halves and chopped parsley for garnish (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
+        }
+      ],
+      "keywords": "lemon chicken, thyme, chicken breast",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 224,
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Con Carne",
+      "author": {
+        "@type": "Person",
+        "name": "Shannon Wuerth"
+      },
+      "description": "A hearty and versatile chili recipe featuring ground beef, kidney beans, and a variety of vegetables, ideal for customization.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 servings, 9 cups (2.25 L)",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "1 can (28 oz) tomatoes",
+        "1 cup chopped onion",
+        "1 can (7.5 oz) tomato sauce",
+        "1 clove garlic, crushed",
+        "1 can (19 oz) kidney beans, drained",
+        "3 cups finely shredded cabbage",
+        "1 Tbsp chili powder",
+        "2 cups thinly sliced celery",
+        "1 tsp dried oregano",
+        "1/2 cup chopped green pepper",
+        "1/2 tsp salt",
+        "1/4 tsp hot pepper sauce",
+        "Optional: additional vegetables like zucchini, carrots, mushrooms"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large nonstick skillet, cook ground beef over medium-high heat until browned and crumbly; drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion and garlic to the skillet and cook for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cabbage, celery, green pepper, tomatoes with juice, tomato sauce, kidney beans, chili powder, oregano, salt, and hot pepper sauce to the skillet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Optionally add other desired vegetables (e.g., zucchini, carrots, mushrooms) at this stage."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and simmer over medium heat for 45 minutes, or until vegetables are tender, stirring occasionally."
+        }
+      ],
+      "keywords": "chili con carne, ground beef chili, customizable chili",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "id": 165,
+      "similarity": "0.29"
     }
   ]
 }

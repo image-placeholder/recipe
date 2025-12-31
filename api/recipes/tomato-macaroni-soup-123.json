@@ -60,6 +60,7 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
+  "id": 123,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -113,7 +114,8 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "similarity": "0.51"
+      "id": 121,
+      "similarity": "0.50"
     },
     {
       "@context": "https://schema.org/",
@@ -157,7 +159,8 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "similarity": "0.49"
+      "id": 109,
+      "similarity": "0.47"
     },
     {
       "@context": "https://schema.org/",
@@ -218,7 +221,8 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "similarity": "0.46"
+      "id": 107,
+      "similarity": "0.45"
     },
     {
       "@context": "https://schema.org/",
@@ -279,7 +283,8 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "similarity": "0.46"
+      "id": 110,
+      "similarity": "0.45"
     },
     {
       "@context": "https://schema.org/",
@@ -323,7 +328,8 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "similarity": "0.46"
+      "id": 106,
+      "similarity": "0.44"
     }
   ]
 }

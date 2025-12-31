@@ -69,6 +69,7 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "id": 168,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -138,7 +139,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.58"
+      "id": 244,
+      "similarity": "0.54"
     },
     {
       "@context": "https://schema.org/",
@@ -207,7 +209,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.53"
+      "id": 178,
+      "similarity": "0.51"
     },
     {
       "@context": "https://schema.org/",
@@ -273,7 +276,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "similarity": "0.49"
+      "id": 180,
+      "similarity": "0.45"
     },
     {
       "@context": "https://schema.org/",
@@ -339,81 +343,97 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "2 hours"
       },
-      "similarity": "0.47"
+      "id": 211,
+      "similarity": "0.45"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hamburger Pie",
+      "name": "Creamy Beef and Potato Bake",
       "author": {
         "@type": "Person",
-        "name": "Marguerite Finkbeiner"
+        "name": "Mary Jefferies"
       },
-      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "description": "A layered casserole featuring ground beef, potatoes, zucchini, and a creamy cheddar sauce.",
       "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT30M",
-      "totalTime": "PT55M",
-      "recipeYield": "1 casserole",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "1 13x9 inch baking dish",
       "recipeIngredient": [
-        "1 medium onion, sliced",
-        "1 to 1½ cups cooked green beans",
-        "1 Tbsp oil",
-        "1 lb hamburger",
-        "¼ tsp salt",
-        "⅛ tsp pepper",
-        "1 can tomato soup",
-        "5 medium potatoes",
-        "½ cup warm milk",
-        "1 beaten egg"
+        "3 potatoes, peeled and thinly sliced",
+        "1 lb ground beef",
+        "¼ cup butter, divided",
+        "2 Tbsp vegetable oil",
+        "2 small zucchini, sliced",
+        "1 tsp Italian seasoning",
+        "½ cup prepared tomato pasta sauce",
+        "2 cups milk, divided",
+        "¼ cup flour",
+        "1½ cups grated cheddar cheese",
+        "1 onion, chopped",
+        "½ tsp salt",
+        "½ tsp pepper"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+          "text": "Preheat oven to 350°F to 375°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+          "text": "In a skillet, melt 2 tablespoons butter and oil over medium-low heat. Add potatoes and cook for 5 minutes, stirring frequently."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+          "text": "Add zucchini, salt, and pepper to the skillet. Cook until zucchini is tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish."
+          "text": "Spoon the vegetable mixture into a 13x9 inch baking dish. Set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+          "text": "In the same skillet, cook onion and Italian seasoning until onion is tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+          "text": "Add ground beef to the skillet and cook until it loses its pink color. Stir in tomato sauce and ½ cup milk."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Spoon the meat mixture over the vegetable layer in the baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt remaining butter in the skillet, stir in flour, and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually whisk in remaining milk. Cook and stir until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in cheddar cheese until melted. Pour the sauce over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 20 to 25 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 minutes before serving."
         }
       ],
-      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "keywords": "beef casserole, potato bake, creamy sauce",
       "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "55 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
       },
-      "similarity": "0.45"
+      "id": 158,
+      "similarity": "0.43"
     }
   ]
 }

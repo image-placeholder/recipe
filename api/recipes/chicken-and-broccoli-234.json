@@ -46,6 +46,7 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
+  "id": 234,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -102,7 +103,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.45"
+      "id": 128,
+      "similarity": "0.44"
     },
     {
       "@context": "https://schema.org/",
@@ -156,7 +158,69 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "similarity": "0.45"
+      "id": 129,
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stuffing and Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Beth Clarke"
+      },
+      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 boned and skinned chicken breast halves",
+        "1⅓ cups Stove Top stuffing",
+        "1 can cream of chicken soup",
+        "4 slices Swiss cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put a slice of Swiss cheese on top of each breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cream of chicken soup over the stuffing layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350 °F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
+        }
+      ],
+      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "id": 242,
+      "similarity": "0.41"
     },
     {
       "@context": "https://schema.org/",
@@ -229,146 +293,75 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "similarity": "0.44"
+      "id": 243,
+      "similarity": "0.40"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Stuffing and Chicken",
+      "name": "Noodles with Hamburg",
       "author": {
         "@type": "Person",
-        "name": "Beth Clarke"
+        "name": "Carolyn Gower"
       },
-      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "4 boned and skinned chicken breast halves",
-        "1⅓ cups Stove Top stuffing",
-        "1 can cream of chicken soup",
-        "4 slices Swiss cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put a slice of Swiss cheese on top of each breast."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the cream of chicken soup over the stuffing layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350 °F for 1 hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT1H"
-        }
-      ],
-      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
-      },
-      "similarity": "0.41"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Taco Twist Bake",
-      "author": {
-        "@type": "Person",
-        "name": "Cheryl MacLeod"
-      },
-      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
       "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
       "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 to 1½ lb lean ground beef",
-        "1 cooking onion, chopped",
-        "1 can (284 mL) mushrooms, chopped",
-        "1 envelope taco seasoning mix",
-        "¾ cup water",
-        "1 can (680 mL) spaghetti sauce",
-        "¼ cup salsa (optional)",
-        "1 green pepper, chopped (optional)",
-        "2 cups spiral pasta",
-        "1 cup sour cream",
-        "1½ cups shredded cheddar cheese",
-        "Salt and pepper to taste"
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
+        "1 tsp salt",
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and start water to cook for pasta."
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
         },
         {
           "@type": "HowToStep",
-          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook the spiral pasta, then rinse and drain."
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine pasta with sour cream."
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
+          "text": "Serve hot."
         }
       ],
-      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
+      "keywords": "hamburger casserole, noodle dish, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
       },
-      "similarity": "0.40"
+      "id": 166,
+      "similarity": "0.35"
     }
   ]
 }

@@ -52,6 +52,7 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
   },
+  "id": 5,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -107,7 +108,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "similarity": "0.47"
+      "id": 4,
+      "similarity": "0.48"
     },
     {
       "@context": "https://schema.org/",
@@ -146,7 +148,8 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "similarity": "0.37"
+      "id": 24,
+      "similarity": "0.36"
     },
     {
       "@context": "https://schema.org/",
@@ -202,72 +205,7 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "similarity": "0.37"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chili Brie in Sourdough",
-      "author": {
-        "@type": "Person",
-        "name": "Sherri Haugh"
-      },
-      "description": "A sourdough loaf stuffed with molten Brie cheese and seasoned with a smoky chili spice blend.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "Fusion",
-      "prepTime": "PT15M",
-      "cookTime": "PT25M",
-      "totalTime": "PT40M",
-      "recipeYield": "1 loaf",
-      "recipeIngredient": [
-        "1 round (1 lb) sourdough bread loaf",
-        "1 wheel Brie cheese (8 oz)",
-        "1 Tbsp softened butter",
-        "1 tsp chili powder",
-        "½ tsp dry ground mustard",
-        "½ tsp garlic powder",
-        "½ tsp sugar"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine chili powder, mustard, garlic powder, and sugar; set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cut a circle in the top of the bread and remove the center to make room for the Brie."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread butter inside the bread cavity and sprinkle with 2 tsp of the spice mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove the rind from the Brie and place it inside the bread."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle the Brie with the remaining spice mixture and replace the bread top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake on a baking sheet for 20 to 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To serve, remove the top and break it into bite-sized pieces; dip bread pieces into the hot Brie."
-        }
-      ],
-      "keywords": "chili brie, sourdough brie, melted cheese appetizer",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "40 minutes"
-      },
+      "id": 16,
       "similarity": "0.36"
     },
     {
@@ -329,7 +267,72 @@
         "cookTime": "12 minutes 30 seconds",
         "totalTime": "17 minutes 30 seconds"
       },
-      "similarity": "0.35"
+      "id": 33,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Artichoke Appetizer",
+      "author": {
+        "@type": "Person",
+        "name": "Loma Finkbeiner"
+      },
+      "description": "A warm, cheesy artichoke appetizer perfect for serving with bread or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT25M",
+      "totalTime": "PT35M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 (14 oz) can artichoke hearts",
+        "Dash garlic salt",
+        "1 cup grated Parmesan cheese",
+        "2 Tbsp chopped green onion",
+        "1 cup shredded mozzarella cheese",
+        "1 Tbsp chopped parsley",
+        "1 cup Hellmann's mayonnaise"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain artichoke hearts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine artichoke hearts with cheese, mayonnaise, garlic salt, and green onion in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle parsley over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 25 to 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT25M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with bread or crackers."
+        }
+      ],
+      "keywords": "artichoke appetizer, cheesy dip, party snack",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 1,
+      "similarity": "0.32"
     }
   ]
 }

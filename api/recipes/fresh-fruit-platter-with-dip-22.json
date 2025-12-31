@@ -52,6 +52,7 @@
     "cookTime": "",
     "totalTime": "10 minutes"
   },
+  "id": 22,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -95,7 +96,8 @@
         "cookTime": "",
         "totalTime": null
       },
-      "similarity": "0.36"
+      "id": 23,
+      "similarity": "0.33"
     },
     {
       "@context": "https://schema.org/",
@@ -147,7 +149,8 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "similarity": "0.24"
+      "id": 25,
+      "similarity": "0.26"
     },
     {
       "@context": "https://schema.org/",
@@ -203,7 +206,8 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "similarity": "0.23"
+      "id": 16,
+      "similarity": "0.22"
     },
     {
       "@context": "https://schema.org/",
@@ -242,62 +246,50 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
+      "id": 24,
       "similarity": "0.22"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheese Dip in a Bread Bowl",
+      "name": "Vegetable Dip",
       "author": {
         "@type": "Person",
-        "name": "Sherri Haugh"
+        "name": "Jacqui Wein"
       },
-      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
       "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 bread bowl",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
       "recipeIngredient": [
-        "1 round bread loaf",
-        "1½ cups chopped ham",
-        "1 (8 oz) package cream cheese",
-        "1½ cups sour cream",
-        "½ cup chopped green pepper",
-        "½ cup chopped green onion",
-        "2 cups shredded cheddar cheese",
-        "1 shake Tabasco sauce",
-        "1 shake Worcestershire sauce"
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+          "text": "In a bowl, mix all ingredients together until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+          "text": "Serve with fresh vegetables."
         }
       ],
-      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
       },
+      "id": 18,
       "similarity": "0.20"
     }
   ]

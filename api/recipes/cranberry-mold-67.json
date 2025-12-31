@@ -49,6 +49,7 @@
     "cookTime": "",
     "totalTime": "2 hours 15 minutes"
   },
+  "id": 67,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -101,7 +102,8 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "similarity": "0.36"
+      "id": 66,
+      "similarity": "0.34"
     },
     {
       "@context": "https://schema.org/",
@@ -156,7 +158,8 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "similarity": "0.33"
+      "id": 82,
+      "similarity": "0.32"
     },
     {
       "@context": "https://schema.org/",
@@ -205,61 +208,8 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "similarity": "0.29"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chinese Rice Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A flavorful salad made with Minute Rice, frozen peas, chopped celery, and a savory dressing, optionally garnished with chow mein noodles and shrimp.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Chinese-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeIngredient": [
-        "1⅓ cups cooked Minute Rice",
-        "1 (10 oz) package frozen peas",
-        "1½ cups chopped celery",
-        "¼ cup chopped onion",
-        "1 tsp salt",
-        "1 Tbsp soy sauce",
-        "3 tsp malt vinegar",
-        "2 tsp curry powder",
-        "½ tsp sugar",
-        "Dressing: ½ cup oil",
-        "Chow mein noodles for garnish (optional)",
-        "1 can drained shrimp (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine cooked rice, frozen peas, chopped celery, and onion in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a separate bowl, mix together the dressing ingredients (oil, soy sauce, malt vinegar, curry powder, salt, and sugar)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the dressing over the rice mixture and toss to combine."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Garnish with chow mein noodles and/or add drained shrimp if desired."
-        }
-      ],
-      "keywords": "Chinese rice salad, savory salad, Minute Rice",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
-      },
-      "similarity": "0.29"
+      "id": 85,
+      "similarity": "0.28"
     },
     {
       "@context": "https://schema.org/",
@@ -311,7 +261,65 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "similarity": "0.28"
+      "id": 58,
+      "similarity": "0.27"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Party-Time Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Phyllis Bender"
+      },
+      "description": "A creamy lime Jello salad with pineapple, cream cheese, and celery.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 1½ quart mould",
+      "recipeIngredient": [
+        "1 can crushed pineapple",
+        "1 (8 oz) package cream cheese",
+        "1 (3 oz) package lime flavoured Jello",
+        "1 cup celery, diced",
+        "1½ cups whipped cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat pineapple juice and hot water to measure 1 cup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve Jello powder in hot liquid and stir, then add ¾ cup cold water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let partially set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cream cheese and mix with beaters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add crushed pineapple, whipped cream, and celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour into a 1½ quart mould and chill until firm."
+        }
+      ],
+      "keywords": "party-time salad, lime Jello, cream cheese, pineapple",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "id": 77,
+      "similarity": "0.26"
     }
   ]
 }

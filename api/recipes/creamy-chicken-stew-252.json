@@ -64,6 +64,7 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 5 minutes"
   },
+  "id": 252,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -129,6 +130,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
+      "id": 240,
       "similarity": "0.40"
     },
     {
@@ -197,59 +199,70 @@
         "cookTime": "30 minutes",
         "totalTime": "1 hour 15 minutes"
       },
-      "similarity": "0.38"
+      "id": 251,
+      "similarity": "0.39"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
+      "name": "Lemon Chicken With Thyme",
       "author": {
         "@type": "Person",
-        "name": "Margaret Beaver"
+        "name": "Karen Schwartzentruber"
       },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
+        "3 Tbsp flour",
+        "1 Tbsp margarine",
+        "1 cup chicken broth",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "3 Tbsp lemon juice",
+        "1/2 tsp thyme",
+        "4 boneless skinless chicken breasts",
+        "2 Tbsp olive oil",
+        "1 medium onion (optional)",
+        "Lemon halves and chopped parsley for garnish (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
+          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
+          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
+          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
         }
       ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "keywords": "lemon chicken, thyme, chicken breast",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
       },
+      "id": 224,
       "similarity": "0.35"
     },
     {
@@ -321,68 +334,74 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "id": 202,
       "similarity": "0.34"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Lemon Chicken With Thyme",
+      "name": "Hearty Chicken Pot Pie",
       "author": {
         "@type": "Person",
-        "name": "Karen Schwartzentruber"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
+      "description": "A comforting chicken pot pie filled with vegetables and chicken in a creamy sauce, topped with a pie crust.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H30M",
+      "recipeYield": "Multiple pies",
       "recipeIngredient": [
-        "3 Tbsp flour",
-        "1 Tbsp margarine",
-        "1 cup chicken broth",
-        "1/2 tsp salt",
-        "1/4 tsp pepper",
-        "3 Tbsp lemon juice",
-        "1/2 tsp thyme",
-        "4 boneless skinless chicken breasts",
-        "2 Tbsp olive oil",
-        "1 medium onion (optional)",
-        "Lemon halves and chopped parsley for garnish (optional)"
+        "1 cup mixed vegetables (corn, carrots, leeks, mushrooms)",
+        "2 cups cooked, cubed chicken",
+        "1¼ tsp dried tarragon",
+        "1 cup chicken stock",
+        "¼ tsp grated lemon rind",
+        "½ cup butter",
+        "¼ tsp salt and pepper",
+        "⅓ cup flour",
+        "¾ cup milk",
+        "1 cup red wine or soya sauce",
+        "Pie crust (top and bottom)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
+          "text": "In a saucepan, simmer the mixed vegetables in chicken stock for 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
+          "text": "In another saucepan, melt butter over medium heat. Stir in flour and cook for 1 minute, stirring constantly."
         },
         {
           "@type": "HowToStep",
-          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
+          "text": "Whisk in milk and red wine (or soya sauce). Bring to a boil and thicken."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
+          "text": "Add cooked chicken, tarragon, lemon rind, salt, and pepper to the sauce. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
+          "text": "Pour the filling into unbaked pie shells."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
+          "text": "Cover with top crust and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot. Note that the filling freezes well for later use."
         }
       ],
-      "keywords": "lemon chicken, thyme, chicken breast",
+      "keywords": "chicken pot pie, comfort food, savory pie",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 30 minutes"
       },
+      "id": 250,
       "similarity": "0.34"
     }
   ]

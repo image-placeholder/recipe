@@ -66,6 +66,7 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "id": 244,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -138,7 +139,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.58"
+      "id": 168,
+      "similarity": "0.54"
     },
     {
       "@context": "https://schema.org/",
@@ -206,7 +208,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.53"
+      "id": 175,
+      "similarity": "0.51"
     },
     {
       "@context": "https://schema.org/",
@@ -275,7 +278,8 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "similarity": "0.50"
+      "id": 164,
+      "similarity": "0.48"
     },
     {
       "@context": "https://schema.org/",
@@ -344,74 +348,61 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.49"
+      "id": 178,
+      "similarity": "0.46"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Macaroni Ham Casserole",
+      "name": "Crunchy Top Ham and Potato Casserole",
       "author": {
         "@type": "Person",
-        "name": "Cheryl MacLeod"
+        "name": "Norma Fahner"
       },
-      "description": "A comforting macaroni and ham casserole topped with cheddar cheese and crushed sour cream and onion potato chips.",
+      "description": "A hearty ham and potato casserole with a crunchy corn flake topping.",
       "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
+      "prepTime": "PT25M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H25M",
+      "recipeYield": "10 servings",
       "recipeIngredient": [
-        "2½ cups (625 mL) milk",
-        "2 cups (500 mL) uncooked macaroni",
-        "Salt and pepper to taste",
-        "1 to 1¼ cups (250 to 375 mL) grated cheddar cheese",
-        "1 cup (250 mL) cubed ham",
-        "¼ cup (60 mL) melted margarine",
-        "¼ cup (60 mL) flour",
-        "Crushed sour cream and onion flavoured potato chips for topping"
+        "2 lb frozen hash brown potatoes, thawed",
+        "1½ cups shredded cheddar cheese",
+        "1 (10 oz) can cream of chicken soup, undiluted",
+        "½ tsp ground pepper",
+        "⅔ cup chopped green onion",
+        "2 cups cubed, cooked ham",
+        "2 cups sour cream",
+        "Topping: ½ cup butter, melted",
+        "2 cups crushed corn flakes"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Preheat oven to 350°F."
+          "text": "Combine all casserole ingredients and mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook the macaroni in boiling water, then drain and mix in cubed ham."
+          "text": "Place the mixture in a 13x9 inch baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Melt margarine in a saucepan and mix in the flour. Add in the milk and stir constantly over medium heat until the mixture is thick and smooth."
+          "text": "Combine topping ingredients (melted butter and crushed corn flakes) and sprinkle on top of the casserole."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the sauce with the macaroni and ham, then pour into a greased casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add salt and pepper to taste, and stir in about ¾ of the grated cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle the remaining cheddar cheese on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with crushed sour cream and onion flavoured potato chips."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for approximately 20 minutes, or until the casserole is bubbling."
+          "text": "Bake at 350°F for 1 hour."
         }
       ],
-      "keywords": "macaroni casserole, ham and cheese, comfort food",
+      "keywords": "ham and potato casserole, crunchy topping, comforting casserole",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
+        "prepTime": "25 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 25 minutes"
       },
-      "similarity": "0.48"
+      "id": 197,
+      "similarity": "0.46"
     }
   ]
 }

@@ -40,6 +40,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
+  "id": 237,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -90,7 +91,8 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "similarity": "0.46"
+      "id": 222,
+      "similarity": "0.49"
     },
     {
       "@context": "https://schema.org/",
@@ -131,143 +133,71 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 5 minutes"
       },
-      "similarity": "0.41"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken with a Chinese Accent",
-      "author": {
-        "@type": "Person",
-        "name": "Suzanne Finkbeiner"
-      },
-      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Chinese-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT35M",
-      "totalTime": "PT50M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "6 boneless, skinless chicken breasts",
-        "1 can cream of mushroom soup",
-        "15 mL oil",
-        "50 mL vinegar",
-        "50 mL soya sauce",
-        "125 mL brown sugar",
-        "1 finely chopped onion"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the chicken to a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for 35 minutes at 350°F.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT35M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the chicken with rice."
-        }
-      ],
-      "keywords": "Chinese chicken, sweet and savory, baked chicken",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "50 minutes"
-      },
+      "id": 223,
       "similarity": "0.40"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Thai Chicken",
+      "name": "Lemon Chicken With Thyme",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Karen Schwartzentruber"
       },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
       "cookTime": "PT15M",
-      "totalTime": "PT35M",
+      "totalTime": "PT25M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
+        "3 Tbsp flour",
+        "1 Tbsp margarine",
+        "1 cup chicken broth",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "3 Tbsp lemon juice",
+        "1/2 tsp thyme",
+        "4 boneless skinless chicken breasts",
+        "2 Tbsp olive oil",
+        "1 medium onion (optional)",
+        "Lemon halves and chopped parsley for garnish (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
+          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
         },
         {
           "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
         }
       ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "keywords": "lemon chicken, thyme, chicken breast",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
+        "prepTime": "10 minutes",
         "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
+        "totalTime": "25 minutes"
       },
-      "similarity": "0.38"
+      "id": 224,
+      "similarity": "0.35"
     },
     {
       "@context": "https://schema.org/",
@@ -317,7 +247,52 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "similarity": "0.37"
+      "id": 207,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sliced Ham",
+      "author": {
+        "@type": "Person",
+        "name": "Evelyn Pickering"
+      },
+      "description": "A simple baked ham recipe with a brown sugar, mustard, and allspice topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT25M",
+      "totalTime": "PT30M",
+      "recipeYield": "6 slices",
+      "recipeIngredient": [
+        "6 slices ham, about ½ inch thick",
+        "1 Tbsp dry mustard",
+        "¾ cup brown sugar",
+        "1 Tbsp allspice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place ham slices on a cookie sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix brown sugar, dry mustard, and allspice together. Sprinkle over ham slices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in 350°F oven for 20 to 30 minutes, turning once and sprinkling additional mixture on the other side."
+        }
+      ],
+      "keywords": "baked ham, glazed ham, sweet ham",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 199,
+      "similarity": "0.34"
     }
   ]
 }

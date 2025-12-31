@@ -59,6 +59,7 @@
     "cookTime": "25 minutes",
     "totalTime": "35 minutes"
   },
+  "id": 1,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -107,63 +108,8 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "similarity": "0.45"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheese Dip in a Bread Bowl",
-      "author": {
-        "@type": "Person",
-        "name": "Sherri Haugh"
-      },
-      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 bread bowl",
-      "recipeIngredient": [
-        "1 round bread loaf",
-        "1½ cups chopped ham",
-        "1 (8 oz) package cream cheese",
-        "1½ cups sour cream",
-        "½ cup chopped green pepper",
-        "½ cup chopped green onion",
-        "2 cups shredded cheddar cheese",
-        "1 shake Tabasco sauce",
-        "1 shake Worcestershire sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
-        }
-      ],
-      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "similarity": "0.40"
+      "id": 2,
+      "similarity": "0.44"
     },
     {
       "@context": "https://schema.org/",
@@ -224,7 +170,65 @@
         "cookTime": "12 minutes 30 seconds",
         "totalTime": "17 minutes 30 seconds"
       },
-      "similarity": "0.40"
+      "id": 33,
+      "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 4,
+      "similarity": "0.39"
     },
     {
       "@context": "https://schema.org/",
@@ -268,56 +272,72 @@
         "cookTime": null,
         "totalTime": null
       },
-      "similarity": "0.39"
+      "id": 10,
+      "similarity": "0.38"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheese English Muffins",
+      "name": "Crab-Stuffed Mushrooms",
       "author": {
         "@type": "Person",
-        "name": "Deb Hodge"
+        "name": "Antonia Hull"
       },
-      "description": "Toasted English muffin quarters topped with a rich cheese and bacon mixture.",
+      "description": "A savory appetizer featuring large mushrooms filled with a crab meat and cheese mixture, baked until golden.",
       "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT12M",
+      "totalTime": "PT32M",
+      "recipeYield": "12 appetizers",
       "recipeIngredient": [
-        "½ lb sharp yellow cheese, grated",
-        "½ cup mayonnaise",
-        "2 Tbsp Worcestershire sauce",
-        "Crumbled fried bacon",
-        "1 small onion, finely chopped",
-        "English muffins"
+        "12 extra large mushrooms",
+        "2 Tbsp butter, divided",
+        "1/4 cup chopped green onion",
+        "1 Tbsp mayonnaise",
+        "1 can (170 g) crab meat, drained",
+        "Salt and pepper to taste",
+        "1/2 lemon for juice",
+        "1/2 cup grated Emmenthal or Gruyère cheese, divided"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix grated cheese, mayonnaise, Worcestershire sauce, crumbled bacon, and chopped onion together."
+          "text": "Wipe mushrooms with lemon juice. Remove stems for stuffing and set caps aside."
         },
         {
           "@type": "HowToStep",
-          "text": "Slice English muffins into quarters."
+          "text": "Trim and chop stems. In a saucepan, melt butter. Add onion and chopped mushroom stems. Cook until mushroom stems are tender and moisture has evaporated."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the cheese mixture onto the English muffin quarters."
+          "text": "Stir in drained crab meat, 1/4 cup cheese, 1 tablespoon cracker crumbs, mayonnaise, salt, and pepper to taste. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 400°F for 10 minutes."
+          "text": "Spoon stuffing into mushroom caps and place on greased baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine remaining 1/4 cup cheese and 1 teaspoon cracker crumbs. Sprinkle evenly over stuffed mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate until ready to serve."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in 400°F oven for 10 to 12 minutes. Serve hot."
         }
       ],
-      "keywords": "cheese English muffins, appetizer, snack",
+      "keywords": "crab stuffed mushrooms, appetizer, seafood",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "12 minutes",
+        "totalTime": "32 minutes"
       },
-      "similarity": "0.39"
+      "id": 46,
+      "similarity": "0.37"
     }
   ]
 }

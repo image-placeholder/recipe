@@ -63,6 +63,7 @@
     "cookTime": "",
     "totalTime": "20 minutes"
   },
+  "id": 91,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -111,6 +112,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
+      "id": 85,
       "similarity": "0.35"
     },
     {
@@ -167,55 +169,7 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "similarity": "0.33"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Coleslaw Chalet Dressing",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 (medium size) head cabbage, shredded",
-        "2 carrots, finely chopped",
-        "1 Spanish onion, minced",
-        "3 stalks celery, finely chopped",
-        "¾ cup white sugar",
-        "¾ cup salad oil",
-        "1 cup white vinegar",
-        "2 tsp salt",
-        "1 tsp celery seed",
-        "1 Green pepper, finely chopped"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Bring all dressing ingredients to a boil and let cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
-        }
-      ],
-      "keywords": "coleslaw, chalet dressing, salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
-      },
+      "id": 74,
       "similarity": "0.32"
     },
     {
@@ -263,6 +217,7 @@
         "cookTime": "",
         "totalTime": "8 hours 20 minutes"
       },
+      "id": 62,
       "similarity": "0.30"
     },
     {
@@ -306,7 +261,67 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
+      "id": 68,
       "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "A hearty taco salad with seasoned ground beef, lettuce, cheese, and crushed taco chips, mixed with Catalina dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 lb ground beef (hamburg)",
+        "1 pkg taco seasoning mix",
+        "1 head lettuce, chopped",
+        "1 cup shredded cheddar cheese",
+        "1 (250 g) bag cheese taco chips, crushed",
+        "1 chopped tomato",
+        "Catalina dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate the cooked beef until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully add in the chopped tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
+        }
+      ],
+      "keywords": "taco salad, ground beef, taco chips, Catalina dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 92,
+      "similarity": "0.27"
     }
   ]
 }

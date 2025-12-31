@@ -48,6 +48,7 @@
     "cookTime": "5 minutes",
     "totalTime": "20 minutes"
   },
+  "id": 58,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -96,7 +97,64 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
+      "id": 57,
       "similarity": "0.47"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sauerkraut Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the dressing cool to room temperature."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the cooled dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+        }
+      ],
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 82,
+      "similarity": "0.46"
     },
     {
       "@context": "https://schema.org/",
@@ -152,62 +210,8 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "similarity": "0.46"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sauerkraut Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Lorna Finkbeiner"
-      },
-      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 (28 oz) jar or can sauerkraut, drained",
-        "1 cup chopped celery",
-        "1 cup chopped onion",
-        "1 cup chopped red pepper",
-        "¼ cup chopped green pepper",
-        "2 cups white sugar",
-        "1 cup white vinegar",
-        "1 tsp salt"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let the dressing cool to room temperature."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the cooled dressing over the salad and toss to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
-        }
-      ],
-      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
-      },
-      "similarity": "0.46"
+      "id": 74,
+      "similarity": "0.45"
     },
     {
       "@context": "https://schema.org/",
@@ -260,6 +264,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
+      "id": 49,
       "similarity": "0.37"
     },
     {
@@ -310,6 +315,7 @@
         "cookTime": "10 minutes",
         "totalTime": "3 hours 25 minutes"
       },
+      "id": 60,
       "similarity": "0.36"
     }
   ]

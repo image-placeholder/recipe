@@ -59,6 +59,7 @@
     "cookTime": "",
     "totalTime": "30 minutes"
   },
+  "id": 94,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -114,55 +115,7 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "similarity": "0.33"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Coleslaw Chalet Dressing",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 (medium size) head cabbage, shredded",
-        "2 carrots, finely chopped",
-        "1 Spanish onion, minced",
-        "3 stalks celery, finely chopped",
-        "¾ cup white sugar",
-        "¾ cup salad oil",
-        "1 cup white vinegar",
-        "2 tsp salt",
-        "1 tsp celery seed",
-        "1 Green pepper, finely chopped"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Bring all dressing ingredients to a boil and let cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
-        }
-      ],
-      "keywords": "coleslaw, chalet dressing, salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
-      },
+      "id": 74,
       "similarity": "0.33"
     },
     {
@@ -212,7 +165,8 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "similarity": "0.33"
+      "id": 85,
+      "similarity": "0.32"
     },
     {
       "@context": "https://schema.org/",
@@ -259,6 +213,7 @@
         "cookTime": "",
         "totalTime": "8 hours 20 minutes"
       },
+      "id": 62,
       "similarity": "0.31"
     },
     {
@@ -302,7 +257,58 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
+      "id": 68,
       "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Coleslaw Chalet Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (medium size) head cabbage, shredded",
+        "2 carrots, finely chopped",
+        "1 Spanish onion, minced",
+        "3 stalks celery, finely chopped",
+        "¾ cup white sugar",
+        "¾ cup salad oil",
+        "1 cup white vinegar",
+        "2 tsp salt",
+        "1 tsp celery seed",
+        "1 Green pepper, finely chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring all dressing ingredients to a boil and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
+        }
+      ],
+      "keywords": "coleslaw, chalet dressing, salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 57,
+      "similarity": "0.27"
     }
   ]
 }

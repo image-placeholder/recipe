@@ -65,191 +65,8 @@
     "cookTime": "20 minutes",
     "totalTime": "40 minutes"
   },
+  "id": 170,
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Taco Twist Bake",
-      "author": {
-        "@type": "Person",
-        "name": "Cheryl MacLeod"
-      },
-      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 to 1½ lb lean ground beef",
-        "1 cooking onion, chopped",
-        "1 can (284 mL) mushrooms, chopped",
-        "1 envelope taco seasoning mix",
-        "¾ cup water",
-        "1 can (680 mL) spaghetti sauce",
-        "¼ cup salsa (optional)",
-        "1 green pepper, chopped (optional)",
-        "2 cups spiral pasta",
-        "1 cup sour cream",
-        "1½ cups shredded cheddar cheese",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and start water to cook for pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the spiral pasta, then rinse and drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine pasta with sour cream."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
-        }
-      ],
-      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
-      },
-      "similarity": "0.36"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Stewing Beef Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Kelly Haines"
-      },
-      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 lb stewing beef",
-        "1 tsp salt",
-        "Dash pepper",
-        "1¼ cups diced potatoes",
-        "1¼ cups diced carrots",
-        "1 tsp sugar",
-        "2 Tbsp Minit Tapioca",
-        "½ cup diced onions",
-        "1 cup V8 juice",
-        "½ cup diced celery"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients lightly in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 250°F for 4 hours without uncovering."
-        }
-      ],
-      "keywords": "beef casserole, slow-cooked stew, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Beef Porcupines",
-      "author": {
-        "@type": "Person",
-        "name": "Bernice Martin"
-      },
-      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 lb ground beef",
-        "½ cup uncooked long-grain rice",
-        "¼ cup chopped onion",
-        "1 tsp prepared mustard",
-        "1 tsp chili powder",
-        "1 tsp salt",
-        "¼ tsp allspice",
-        "1 tsp brown sugar",
-        "1/8 tsp pepper",
-        "1 tsp Worcestershire sauce",
-        "1 tsp paprika",
-        "1 (10 oz) can tomato soup",
-        "1 soup can hot water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place meatballs in a baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and bake at 350°F for 1 hour."
-        }
-      ],
-      "keywords": "beef porcupines, baked meatballs, rice",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "similarity": "0.35"
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -309,6 +126,64 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "id": 165,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 163,
       "similarity": "0.35"
     },
     {
@@ -382,7 +257,125 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
+      "id": 185,
       "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stewing Beef Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kelly Haines"
+      },
+      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 lb stewing beef",
+        "1 tsp salt",
+        "Dash pepper",
+        "1¼ cups diced potatoes",
+        "1¼ cups diced carrots",
+        "1 tsp sugar",
+        "2 Tbsp Minit Tapioca",
+        "½ cup diced onions",
+        "1 cup V8 juice",
+        "½ cup diced celery"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients lightly in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 250°F for 4 hours without uncovering."
+        }
+      ],
+      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "id": 155,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Noodles with Hamburg",
+      "author": {
+        "@type": "Person",
+        "name": "Carolyn Gower"
+      },
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
+        "1 tsp salt",
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 166,
+      "similarity": "0.31"
     }
   ]
 }

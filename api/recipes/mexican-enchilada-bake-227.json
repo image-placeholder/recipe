@@ -69,6 +69,7 @@
     "cookTime": "40 minutes",
     "totalTime": "1 hour"
   },
+  "id": 227,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -147,7 +148,8 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "similarity": "0.42"
+      "id": 184,
+      "similarity": "0.41"
     },
     {
       "@context": "https://schema.org/",
@@ -184,178 +186,144 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "similarity": "0.41"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Noodles with Hamburg",
-      "author": {
-        "@type": "Person",
-        "name": "Carolyn Gower"
-      },
-      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "¼ tsp oregano",
-        "¼ tsp garlic powder",
-        "½ cup chopped onions (optional)",
-        "1 tsp salt",
-        "⅓ cup chopped celery",
-        "¾ cup shredded cheddar cheese (optional)",
-        "2 cups canned tomatoes",
-        "2 cups cooked macaroni",
-        "1 (14 oz) can corn kernels",
-        "1 (10 oz) can tomato soup"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
-        }
-      ],
-      "keywords": "hamburger casserole, noodle dish, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
-      },
+      "id": 228,
       "similarity": "0.40"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken Fajitas",
+      "name": "Beef Taco Bake",
       "author": {
         "@type": "Person",
-        "name": "Valorie (Finkbeiner) Mullin"
+        "name": "Gladys Lewis"
       },
-      "description": "A flavorful Mexican-inspired dish featuring stir-fried chicken, peppers, and onions, served with tortillas and various toppings.",
+      "description": "A hearty, cheesy taco-inspired casserole made with ground beef, tortillas, and a creamy tomato soup sauce, perfect for a family dinner.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 green pepper, cut into strips",
-        "2 Tbsp chopped parsley",
-        "1 onion, chopped",
-        "Flour tortillas (soft)",
-        "1 tsp ground cumin",
-        "1 cup shredded cheese",
-        "1 tsp chili powder",
-        "Guacamole (see appetizers)",
-        "½ cup Catalina dressing",
-        "Salsa",
-        "4 boneless, skinless chicken breasts, cut into strips",
-        "Sour cream"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry the vegetables and chicken over high heat until the chicken is cooked through with spices."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add Catalina dressing and heat through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in parsley."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve wrapped in flour tortillas with shredded cheese, salsa, sour cream, and guacamole as garnishes."
-        }
-      ],
-      "keywords": "chicken fajitas, Mexican dish, stir-fry",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "similarity": "0.40"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken and Broccoli",
-      "author": {
-        "@type": "Person",
-        "name": "Marguerite Finkbeiner"
-      },
-      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Mexican-American",
       "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 cup small shells pasta",
-        "1 can cream of mushroom soup",
-        "2 cups broccoli, cooked",
-        "1½ cups chicken, cooked and chopped",
-        "½ cup milk",
-        "½ cup Parmesan cheese",
-        "¼ tsp ground pepper"
+        "1 lb ground beef",
+        "6 (8-inch) flour tortillas or 8 (6-inch) corn tortillas, cut into 1-inch pieces",
+        "1 can (10¾ oz) Campbell's condensed tomato soup",
+        "1 cup Pace thick & chunky salsa or picante sauce",
+        "1 cup shredded cheddar cheese",
+        "½ cup milk"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the small shells pasta according to package directions. Drain."
+          "text": "In a medium skillet over medium-high heat, cook the ground beef until browned, stirring to separate the meat."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+          "text": "Drain excess fat from the skillet."
         },
         {
           "@type": "HowToStep",
-          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+          "text": "Add the tomato soup, salsa, milk, tortillas, and half of the cheddar cheese to the cooked beef. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot with a cranberry salad."
+          "text": "Spoon the mixture into a 2-quart shallow baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish and bake at 400°F for 30 minutes or until hot and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the remaining cheddar cheese on top before serving."
         }
       ],
-      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "keywords": "taco bake, ground beef, cheesy casserole, Mexican-American",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
       },
-      "similarity": "0.38"
+      "id": 186,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Ring",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Valkengoed"
+      },
+      "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT16M",
+      "totalTime": "PT36M",
+      "recipeYield": "1 ring",
+      "recipeIngredient": [
+        "1 lb lean ground hamburger",
+        "1 cup water",
+        "1 packet taco seasoning mix",
+        "2 cups shredded lettuce",
+        "1 cup grated mild cheddar cheese",
+        "1 cup salsa dip",
+        "2 packages Pillsbury crescent rolls",
+        "1 tomato, diced",
+        "1 green pepper (optional)",
+        "Sour cream for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Fry the hamburger and let it cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add shredded cheese on top of the hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let cool slightly before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
+        }
+      ],
+      "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "16 minutes",
+        "totalTime": "36 minutes"
+      },
+      "id": 183,
+      "similarity": "0.33"
     }
   ]
 }

@@ -64,6 +64,7 @@
     "cookTime": "30 minutes",
     "totalTime": "1 hour 15 minutes"
   },
+  "id": 251,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -124,6 +125,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
+      "id": 248,
       "similarity": "0.48"
     },
     {
@@ -190,6 +192,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 30 minutes"
       },
+      "id": 250,
       "similarity": "0.45"
     },
     {
@@ -256,7 +259,8 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "similarity": "0.42"
+      "id": 240,
+      "similarity": "0.41"
     },
     {
       "@context": "https://schema.org/",
@@ -324,63 +328,84 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "similarity": "0.38"
+      "id": 252,
+      "similarity": "0.39"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Ham Casserole",
+      "name": "Chili Turkey",
       "author": {
         "@type": "Person",
-        "name": "Bernice Martin"
+        "name": "Dianne Finkbeiner"
       },
-      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
+      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H",
-      "recipeYield": "6 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "4 cups hash brown potatoes, thawed",
-        "1½ cups chopped ham",
-        "1 cup grated Cracker Barrel cheddar cheese",
-        "1 small onion, chopped",
-        "½ cup Miracle Whip salad dressing",
-        "½ cup milk",
-        "¼ tsp pepper",
-        "½ cup fresh bread crumbs",
-        "1 Tbsp butter or margarine"
+        "1 tsp ground coriander",
+        "1½ tsp vegetable oil",
+        "¼ tsp salt",
+        "1 large chopped onion",
+        "½ tsp ground cumin",
+        "1 large chopped green pepper",
+        "¼ tsp cinnamon",
+        "2 chopped garlic cloves",
+        "2 to 3 Tbsp chili powder",
+        "1⅓ lb ground turkey",
+        "1 can red kidney beans",
+        "1¾ cups chicken broth",
+        "6 oz whole wheat spaghetti",
+        "3 tsp tomato paste",
+        "½ cup shredded cheese",
+        "1½ tsp dried oregano"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
+          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
+          "text": "Add garlic and cook for 1 minute."
         },
         {
           "@type": "HowToStep",
-          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
+          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with bread crumbs and dot with butter or margarine."
+          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 45 minutes."
+          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta as directed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
         }
       ],
-      "keywords": "ham casserole, potato casserole, comforting main dish",
+      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "similarity": "0.37"
+      "id": 247,
+      "similarity": "0.36"
     }
   ]
 }

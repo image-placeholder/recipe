@@ -84,6 +84,7 @@
     "cookTime": "25 minutes",
     "totalTime": "45 minutes"
   },
+  "id": 139,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -144,7 +145,72 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
+      "id": 143,
       "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cauliflower Broccoli Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A versatile casserole recipe that can use either cauliflower or broccoli, topped with croutons and Parmesan cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT40M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "Cauliflower or broccoli",
+        "1 can cream of celery soup",
+        "2 Tbsp mayonnaise",
+        "1/4 cup shredded Colby cheese",
+        "1/4 cup Parmesan cheese",
+        "1/2 cup croutons",
+        "Some cracker crumbs",
+        "A little butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chosen vegetable in the microwave for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cream of celery soup, mayonnaise, and cheese to the cooked vegetable. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add croutons to the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cracker crumbs on top of the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle Parmesan cheese over the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put butter pieces on top of the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at 350°F for 40 minutes."
+        }
+      ],
+      "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "40 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 144,
+      "similarity": "0.35"
     },
     {
       "@context": "https://schema.org/",
@@ -209,70 +275,8 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cauliflower Broccoli Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A versatile casserole recipe that can use either cauliflower or broccoli, topped with croutons and Parmesan cheese.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT40M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "Cauliflower or broccoli",
-        "1 can cream of celery soup",
-        "2 Tbsp mayonnaise",
-        "1/4 cup shredded Colby cheese",
-        "1/4 cup Parmesan cheese",
-        "1/2 cup croutons",
-        "Some cracker crumbs",
-        "A little butter"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the chosen vegetable in the microwave for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cream of celery soup, mayonnaise, and cheese to the cooked vegetable. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add croutons to the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread cracker crumbs on top of the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle Parmesan cheese over the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put butter pieces on top of the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook at 350°F for 40 minutes."
-        }
-      ],
-      "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "40 minutes",
-        "totalTime": "50 minutes"
-      },
-      "similarity": "0.34"
+      "id": 140,
+      "similarity": "0.33"
     },
     {
       "@context": "https://schema.org/",
@@ -328,57 +332,59 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
+      "id": 141,
       "similarity": "0.28"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Green Beans and Artichokes",
+      "name": "Broccoli Casserole",
       "author": {
         "@type": "Person",
-        "name": "Loma Finkbeiner"
+        "name": "Eleanor Beaver"
       },
-      "description": "A savory side dish featuring green beans and artichoke hearts mixed with garlic, onion, and Romano cheese.",
+      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
       "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 (14 oz) can artichokes, drained and quartered",
-        "1 finely chopped onion",
-        "1 clove garlic, minced",
-        "¼ cup olive oil",
-        "½ cup freshly grated Romano cheese",
-        "½ cup Italian bread crumbs",
-        "1 (10 oz) pkg frozen french-style green beans, cooked and drained"
+        "2 heads broccoli, precooked",
+        "1 cup celery, precooked",
+        "1 can mushroom soup",
+        "½ cup grated cheese",
+        "1 Tbsp melted margarine",
+        "½ cup sour cream",
+        "1 cup bread crumbs"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute the onion and garlic in olive oil until the onion is softened."
+          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in bread crumbs and cook until they absorb the oil."
+          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
         },
         {
           "@type": "HowToStep",
-          "text": "Add green beans, artichoke hearts, and cheese. Combine thoroughly."
+          "text": "Spread the topping over the casserole."
         },
         {
           "@type": "HowToStep",
-          "text": "Heat slowly to soften the cheese. Season with salt and pepper to taste."
+          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
         }
       ],
-      "keywords": "green beans, artichokes, Romano cheese, side dish",
+      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
       },
-      "similarity": "0.27"
+      "id": 133,
+      "similarity": "0.26"
     }
   ]
 }

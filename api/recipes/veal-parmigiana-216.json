@@ -59,6 +59,7 @@
     "cookTime": "30 minutes",
     "totalTime": "1 hour"
   },
+  "id": 216,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -120,168 +121,8 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "similarity": "0.42"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Jelly Roll Style Meat Loaf",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Ratz"
-      },
-      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H15M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "1 loaf",
-      "recipeIngredient": [
-        "½ lb ground beef",
-        "3 cups shredded mozzarella cheese",
-        "1 beaten egg",
-        "½ cup cracker crumbs or dry bread crumbs",
-        "½ tsp basil",
-        "1 clove garlic, minced",
-        "½ cup minced onion",
-        "1 tsp salt",
-        "⅛ tsp pepper",
-        "2 (8 oz) cans tomato sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add ground beef and mix thoroughly with hands until just combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain off fat and pour reserved tomato sauce on the roll."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for 10 to 15 minutes before slicing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Decorate with tomato slices and green parsley on a serving tray."
-        }
-      ],
-      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour 15 minutes",
-        "totalTime": "1 hour 35 minutes"
-      },
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheeseburger Meat Loaf",
-      "author": {
-        "@type": "Person",
-        "name": "Lori Allen"
-      },
-      "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT1H15M",
-      "totalTime": "PT1H40M",
-      "recipeYield": "1 meatloaf",
-      "recipeIngredient": [
-        "1½ lb lean ground hamburger",
-        "½ tsp garlic salt",
-        "½ cup fine bread crumbs",
-        "1 tsp onion powder",
-        "1 egg",
-        "1 can (8 oz) tomato sauce",
-        "¼ cup parsley flakes",
-        "½ cup finely chopped onion",
-        "1 tsp salt",
-        "1 cup shredded cheddar cheese",
-        "⅛ tsp pepper",
-        "½ tsp seasoning salt",
-        "½ cup sweet pickle relish"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a mixing bowl, combine ground beef, egg, bread crumbs, garlic salt, onion powder, salt, pepper, and seasoning salt. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix chopped onion and tomato sauce together in a separate bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add half of the tomato sauce and onion mixture to the beef mixture and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pack half of the beef mixture into a loaf pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese and sweet pickle relish evenly over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pack the remaining beef mixture on top and press firmly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated oven at 350°F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Carefully spoon off excess fat from the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the remaining tomato sauce and onion mixture over the meatloaf."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
-        }
-      ],
-      "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
-      "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "1 hour 15 minutes",
-        "totalTime": "1 hour 40 minutes"
-      },
-      "similarity": "0.33"
+      "id": 239,
+      "similarity": "0.40"
     },
     {
       "@context": "https://schema.org/",
@@ -341,73 +182,213 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.33"
+      "id": 192,
+      "similarity": "0.32"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Noodles with Hamburg",
+      "name": "Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "Carolyn Gower"
+        "name": "Margaret Beaver"
       },
-      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Italian-American",
       "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
       "recipeIngredient": [
         "1 lb ground hamburger",
-        "¼ tsp oregano",
-        "¼ tsp garlic powder",
-        "½ cup chopped onions (optional)",
-        "1 tsp salt",
-        "⅓ cup chopped celery",
-        "¾ cup shredded cheddar cheese (optional)",
-        "2 cups canned tomatoes",
-        "2 cups cooked macaroni",
-        "1 (14 oz) can corn kernels",
-        "1 (10 oz) can tomato soup"
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+          "text": "Saute the onion, celery, and garlic until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+          "text": "Add the ground hamburger and brown."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
+          "text": "Add the remaining ingredients and simmer for several hours."
         }
       ],
-      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
       },
-      "similarity": "0.32"
+      "id": 187,
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza",
+      "author": {
+        "@type": "Person",
+        "name": "Alan Dick"
+      },
+      "description": "A homemade pizza recipe with a yeast-based crust, topped with spaghetti sauce, various meats, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT1H",
+      "cookTime": "PT20M",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 pizza",
+      "recipeIngredient": [
+        "1 to 2 Tbsp yeast",
+        "1 tsp sugar",
+        "3½ cups flour",
+        "½ tsp salt",
+        "¾ cup vegetable oil",
+        "1¼ cups warm water",
+        "1¾ cups spaghetti sauce",
+        "Sliced pepperoni",
+        "Salami",
+        "Mushrooms",
+        "Bacon",
+        "Ground beef",
+        "Pineapple",
+        "Mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve yeast in warm water with sugar. Let stand in a warm place for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Measure flour and salt into a large bowl. Make a well and pour in the yeast mixture. Stir and add oil gradually, working the dough until thoroughly mixed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Knead the dough, form into a ball, and let stand in a warm place for approximately 45 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll out the dough on a floured pastry board to an even thickness. Transfer to a pizza pan or cookie sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with spaghetti sauce, meats, mushrooms, and other toppings. Finish with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for approximately 20 minutes or until the crust is golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 3 to 5 minutes before cutting and serving."
+        }
+      ],
+      "keywords": "homemade pizza, Italian-American, yeast crust",
+      "_naturalized_times": {
+        "prepTime": "1 hour",
+        "cookTime": "20 minutes",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 190,
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Baked Spaghetti and Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A hearty baked pasta dish featuring meatballs, spaghetti, and a rich tomato-based sauce topped with melted mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT30M",
+      "cookTime": "PT35M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, finely chopped",
+        "1 egg",
+        "3 splashes Worcestershire sauce",
+        "½ tsp black pepper",
+        "28 oz can diced tomatoes",
+        "10 oz can chopped mushrooms",
+        "½ cup chopped green pepper (optional)",
+        "½ tsp oregano",
+        "1 cup sour cream",
+        "Broken spaghetti (4 to 6 servings)",
+        "1½ cups grated mozzarella cheese",
+        "24 oz can spaghetti sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and start boiling water for cooking spaghetti."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, mix ground beef, chopped onion, egg, Worcestershire sauce, and black pepper. Form into meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fry the meatballs in a skillet until completely cooked, turning gently with tongs. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, green pepper, and oregano to the skillet. Simmer for approximately 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti until 'al dente', then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked spaghetti with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the spaghetti mixture into a greased 6-cup casserole dish. Sprinkle with half of the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the sauce and meatball mixture. Bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for an additional 5 to 10 minutes, or until the cheese is melted."
+        }
+      ],
+      "keywords": "baked spaghetti, meatballs, Italian-American casserole",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "id": 176,
+      "similarity": "0.29"
     }
   ]
 }

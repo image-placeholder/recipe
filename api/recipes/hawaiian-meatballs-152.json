@@ -64,65 +64,6 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Britt's Favourite Meatballs",
-      "author": {
-        "@type": "Person",
-        "name": "Leanne Robinson"
-      },
-      "description": "A classic meatball recipe with a sweet and tangy sauce, baked in the oven.",
-      "recipeCategory": "Meat",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT30M",
-      "totalTime": "PT45M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 lb lean ground beef",
-        "½ cup quick cook oats or bran",
-        "1 egg, lightly beaten",
-        "1 pkg onion soup mix",
-        "1 tsp salt",
-        "¼ tsp pepper",
-        "½ tsp garlic powder",
-        "1 cup brown sugar",
-        "1 cup ketchup",
-        "½ cup ketchup",
-        "1 tsp Worcestershire sauce",
-        "¼ tsp garlic powder"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine the first 8 ingredients in a large bowl and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shape the mixture into 1 inch balls and place in a 9x13 inch baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake, uncovered, at 350°F for 18 to 20 minutes or until the meat is no longer pink."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine sauce ingredients and pour over the meatballs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return to the oven for an additional 10 to 15 minutes."
-        }
-      ],
-      "keywords": "meatballs, baked, sweet and tangy sauce",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "45 minutes"
-      },
-      "similarity": "0.48"
-    }
-  ]
+  "id": 152,
+  "_similar": []
 }

@@ -48,6 +48,7 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "id": 172,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -116,71 +117,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.49"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chinese Hamburger Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Meredith Mary"
-      },
-      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "Chinese-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "6 to 8 servings",
-      "recipeIngredient": [
-        "1 lb hamburger",
-        "½ cup warm water",
-        "½ cup uncooked rice",
-        "2 medium onions, chopped",
-        "1 cup sliced celery",
-        "1 can cream of mushroom soup",
-        "1 can cream of chicken soup (optional)",
-        "1 can mushrooms, drained",
-        "¼ cup soya sauce",
-        "¼ tsp pepper",
-        "1 tsp salt",
-        "1 cup bean sprouts (optional)",
-        "1 handful chow mein noodles"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add bean sprouts if using for a more authentic taste."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
-        }
-      ],
-      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "similarity": "0.42"
+      "id": 178,
+      "similarity": "0.48"
     },
     {
       "@context": "https://schema.org/",
@@ -253,7 +191,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.42"
+      "id": 168,
+      "similarity": "0.41"
     },
     {
       "@context": "https://schema.org/",
@@ -303,7 +242,75 @@
         "cookTime": "8 hours",
         "totalTime": "8 hours 20 minutes"
       },
+      "id": 209,
       "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Rosemary Shipwreck Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Stewart"
+      },
+      "description": "A hearty casserole featuring ground beef, potatoes, and a tomato-based sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "1 onion, peeled and chopped",
+        "¼ tsp salt",
+        "1 (8 oz) can pork and beans",
+        "1¼ tsp pepper",
+        "1 (10 oz) can tomato soup",
+        "4 potatoes, pared and sliced"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine beef, salt, and pepper. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place potatoes in the bottom of a greased 2-quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top potatoes with chopped onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover onion layer with the beef mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon pork and beans over the beef layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour tomato soup over the pork and beans."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the casserole and bake for 1 hour or until done."
+        }
+      ],
+      "keywords": "shipwreck casserole, ground beef, potato casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 180,
+      "similarity": "0.37"
     },
     {
       "@context": "https://schema.org/",
@@ -355,6 +362,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 25 minutes"
       },
+      "id": 197,
       "similarity": "0.37"
     }
   ]

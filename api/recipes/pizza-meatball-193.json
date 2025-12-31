@@ -55,6 +55,7 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
+  "id": 193,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -101,7 +102,8 @@
         "cookTime": "1 minute",
         "totalTime": "6 minutes"
       },
-      "similarity": "0.31"
+      "id": 191,
+      "similarity": "0.34"
     },
     {
       "@context": "https://schema.org/",
@@ -174,83 +176,8 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 20 minutes"
       },
+      "id": 190,
       "similarity": "0.31"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Baked Spaghetti and Meatballs",
-      "author": {
-        "@type": "Person",
-        "name": "Dave MacLeod"
-      },
-      "description": "A hearty baked pasta dish featuring meatballs, spaghetti, and a rich tomato-based sauce topped with melted mozzarella cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT30M",
-      "cookTime": "PT35M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "4 to 6 servings",
-      "recipeIngredient": [
-        "1 to 1½ lb lean ground beef",
-        "1 cooking onion, finely chopped",
-        "1 egg",
-        "3 splashes Worcestershire sauce",
-        "½ tsp black pepper",
-        "28 oz can diced tomatoes",
-        "10 oz can chopped mushrooms",
-        "½ cup chopped green pepper (optional)",
-        "½ tsp oregano",
-        "1 cup sour cream",
-        "Broken spaghetti (4 to 6 servings)",
-        "1½ cups grated mozzarella cheese",
-        "24 oz can spaghetti sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and start boiling water for cooking spaghetti."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large bowl, mix ground beef, chopped onion, egg, Worcestershire sauce, and black pepper. Form into meatballs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fry the meatballs in a skillet until completely cooked, turning gently with tongs. Drain off excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, green pepper, and oregano to the skillet. Simmer for approximately 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook spaghetti until 'al dente', then rinse and drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine cooked spaghetti with sour cream."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the spaghetti mixture into a greased 6-cup casserole dish. Sprinkle with half of the shredded mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the sauce and meatball mixture. Bake, uncovered, at 350°F for approximately 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with remaining cheese and bake for an additional 5 to 10 minutes, or until the cheese is melted."
-        }
-      ],
-      "keywords": "baked spaghetti, meatballs, Italian-American casserole",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "similarity": "0.29"
     },
     {
       "@context": "https://schema.org/",
@@ -310,7 +237,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.28"
+      "id": 192,
+      "similarity": "0.27"
     },
     {
       "@context": "https://schema.org/",
@@ -375,7 +303,71 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.27"
+      "id": 194,
+      "similarity": "0.26"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Parmesan Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Lorraine Bowers"
+      },
+      "description": "A crispy Parmesan-crusted chicken dish baked with spaghetti sauce and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeIngredient": [
+        "Boneless chicken breasts",
+        "1/3 cup Parmesan cheese",
+        "1 1/3 cups dry bread crumbs",
+        "3 beaten eggs",
+        "1 tsp salt",
+        "1/4 tsp pepper",
+        "Spaghetti sauce",
+        "Grated mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix Parmesan cheese with bread crumbs and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix eggs, salt, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip boneless chicken breasts in egg mixture, then coat with bread crumb mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange coated chicken breasts in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with tinfoil and bake at 350°F for 45 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour spaghetti sauce over the chicken and continue baking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Before serving, sprinkle grated mozzarella cheese on top and bake for an additional 10 minutes until browned."
+        }
+      ],
+      "keywords": "Parmesan chicken, breaded chicken, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "id": 239,
+      "similarity": "0.25"
     }
   ]
 }

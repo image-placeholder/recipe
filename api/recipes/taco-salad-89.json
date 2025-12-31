@@ -54,60 +54,8 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
+  "id": 89,
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mexican Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Sheila Jarvie"
-      },
-      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "8 to 9 servings",
-      "recipeIngredient": [
-        "¾ cup kidney beans",
-        "¾ cup lentils",
-        "½ cup diced tomato",
-        "1 cup shredded lettuce",
-        "½ green pepper, chopped",
-        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
-        "2 green onions, chopped",
-        "¼ cup Catalina dressing",
-        "¼ cup salsa",
-        "Taco chips for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss the salad with Catalina dressing until well coated."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the salad with salsa."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately with taco chips on the side."
-        }
-      ],
-      "keywords": "Mexican salad, bean salad, taco chips",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
-      },
-      "similarity": "0.44"
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -170,7 +118,8 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "similarity": "0.40"
+      "id": 73,
+      "similarity": "0.39"
     },
     {
       "@context": "https://schema.org/",
@@ -223,7 +172,8 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "similarity": "0.34"
+      "id": 66,
+      "similarity": "0.33"
     },
     {
       "@context": "https://schema.org/",
@@ -284,7 +234,8 @@
         "cookTime": "15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "similarity": "0.33"
+      "id": 71,
+      "similarity": "0.32"
     },
     {
       "@context": "https://schema.org/",
@@ -340,7 +291,70 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
+      "id": 77,
       "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Macaroni Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Theresa Finkbeiner"
+      },
+      "description": "A classic macaroni salad with tuna, ham, and cheddar cheese, mixed with Miracle Whip and spices.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT8M",
+      "totalTime": "PT23M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups macaroni",
+        "1 can (drained) white solid tuna",
+        "1 cup cubed cheddar cheese",
+        "1 cup cubed ham",
+        "1/2 cup cubed celery",
+        "1/4 cup chopped onion",
+        "1 tsp parsley flakes",
+        "1/2 tsp paprika",
+        "Salt to taste",
+        "Miracle Whip (enough to moisten)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package directions. Let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut up celery, cheese, tuna, and ham into small pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooled macaroni with the tuna mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add enough Miracle Whip to moisten the salad."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with parsley flakes and paprika."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix well and serve."
+        }
+      ],
+      "keywords": "macaroni salad, tuna salad, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "8 minutes",
+        "totalTime": "23 minutes"
+      },
+      "id": 72,
+      "similarity": "0.30"
     }
   ]
 }

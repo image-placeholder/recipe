@@ -77,6 +77,7 @@
     "cookTime": "1 hour 15 minutes",
     "totalTime": "1 hour 35 minutes"
   },
+  "id": 246,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -146,6 +147,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "id": 244,
       "similarity": "0.45"
     },
     {
@@ -215,7 +217,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.39"
+      "id": 178,
+      "similarity": "0.37"
     },
     {
       "@context": "https://schema.org/",
@@ -267,7 +270,61 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 25 minutes"
       },
-      "similarity": "0.36"
+      "id": 197,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburg Noodle Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Grace Yearley"
+      },
+      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "1 can cream of mushroom soup",
+        "1 medium onion",
+        "2 cans sliced mushrooms, drained",
+        "1 jar Ragu (700 mL)",
+        "1 pkg cooked elbow macaroni",
+        "1 can cream of celery soup",
+        "1 can cream of chicken soup",
+        "1 cup shredded mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef and onion, then add the mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the cheese is melted."
+        }
+      ],
+      "keywords": "casserole, ground beef, noodle dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 172,
+      "similarity": "0.32"
     },
     {
       "@context": "https://schema.org/",
@@ -317,73 +374,8 @@
         "cookTime": "8 hours",
         "totalTime": "8 hours 20 minutes"
       },
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Rosemary Shipwreck Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Stewart"
-      },
-      "description": "A hearty casserole featuring ground beef, potatoes, and a tomato-based sauce.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 lb lean ground beef",
-        "1 onion, peeled and chopped",
-        "¼ tsp salt",
-        "1 (8 oz) can pork and beans",
-        "1¼ tsp pepper",
-        "1 (10 oz) can tomato soup",
-        "4 potatoes, pared and sliced"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 375°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large bowl, combine beef, salt, and pepper. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place potatoes in the bottom of a greased 2-quart casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top potatoes with chopped onion."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover onion layer with the beef mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon pork and beans over the beef layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour tomato soup over the pork and beans."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the casserole and bake for 1 hour or until done."
-        }
-      ],
-      "keywords": "shipwreck casserole, ground beef, potato casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "similarity": "0.35"
+      "id": 209,
+      "similarity": "0.31"
     }
   ]
 }

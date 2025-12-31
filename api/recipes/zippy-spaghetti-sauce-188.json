@@ -53,6 +53,7 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "id": 188,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -105,86 +106,8 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "similarity": "0.46"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Taco Twist Bake",
-      "author": {
-        "@type": "Person",
-        "name": "Cheryl MacLeod"
-      },
-      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 to 1½ lb lean ground beef",
-        "1 cooking onion, chopped",
-        "1 can (284 mL) mushrooms, chopped",
-        "1 envelope taco seasoning mix",
-        "¾ cup water",
-        "1 can (680 mL) spaghetti sauce",
-        "¼ cup salsa (optional)",
-        "1 green pepper, chopped (optional)",
-        "2 cups spiral pasta",
-        "1 cup sour cream",
-        "1½ cups shredded cheddar cheese",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and start water to cook for pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the spiral pasta, then rinse and drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine pasta with sour cream."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
-        }
-      ],
-      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
-      },
-      "similarity": "0.41"
+      "id": 187,
+      "similarity": "0.45"
     },
     {
       "@context": "https://schema.org/",
@@ -260,152 +183,223 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "similarity": "0.34"
+      "id": 171,
+      "similarity": "0.33"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chili Con Carne",
+      "name": "Baked Spaghetti and Meatballs",
       "author": {
         "@type": "Person",
-        "name": "Shannon Wuerth"
+        "name": "Dave MacLeod"
       },
-      "description": "A hearty and versatile chili recipe featuring ground beef, kidney beans, and a variety of vegetables, ideal for customization.",
+      "description": "A hearty baked pasta dish featuring meatballs, spaghetti, and a rich tomato-based sauce topped with melted mozzarella cheese.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT45M",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT30M",
+      "cookTime": "PT35M",
       "totalTime": "PT1H5M",
-      "recipeYield": "8 servings, 9 cups (2.25 L)",
+      "recipeYield": "4 to 6 servings",
       "recipeIngredient": [
-        "1 lb lean ground beef",
-        "1 can (28 oz) tomatoes",
-        "1 cup chopped onion",
-        "1 can (7.5 oz) tomato sauce",
-        "1 clove garlic, crushed",
-        "1 can (19 oz) kidney beans, drained",
-        "3 cups finely shredded cabbage",
-        "1 Tbsp chili powder",
-        "2 cups thinly sliced celery",
-        "1 tsp dried oregano",
-        "1/2 cup chopped green pepper",
-        "1/2 tsp salt",
-        "1/4 tsp hot pepper sauce",
-        "Optional: additional vegetables like zucchini, carrots, mushrooms"
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, finely chopped",
+        "1 egg",
+        "3 splashes Worcestershire sauce",
+        "½ tsp black pepper",
+        "28 oz can diced tomatoes",
+        "10 oz can chopped mushrooms",
+        "½ cup chopped green pepper (optional)",
+        "½ tsp oregano",
+        "1 cup sour cream",
+        "Broken spaghetti (4 to 6 servings)",
+        "1½ cups grated mozzarella cheese",
+        "24 oz can spaghetti sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a large nonstick skillet, cook ground beef over medium-high heat until browned and crumbly; drain off excess fat."
+          "text": "Preheat oven to 350°F and start boiling water for cooking spaghetti."
         },
         {
           "@type": "HowToStep",
-          "text": "Add onion and garlic to the skillet and cook for 5 minutes."
+          "text": "In a large bowl, mix ground beef, chopped onion, egg, Worcestershire sauce, and black pepper. Form into meatballs."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cabbage, celery, green pepper, tomatoes with juice, tomato sauce, kidney beans, chili powder, oregano, salt, and hot pepper sauce to the skillet."
+          "text": "Fry the meatballs in a skillet until completely cooked, turning gently with tongs. Drain off excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Optionally add other desired vegetables (e.g., zucchini, carrots, mushrooms) at this stage."
+          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, green pepper, and oregano to the skillet. Simmer for approximately 15 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover and simmer over medium heat for 45 minutes, or until vegetables are tender, stirring occasionally."
+          "text": "Cook spaghetti until 'al dente', then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked spaghetti with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the spaghetti mixture into a greased 6-cup casserole dish. Sprinkle with half of the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the sauce and meatball mixture. Bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for an additional 5 to 10 minutes, or until the cheese is melted."
         }
       ],
-      "keywords": "chili con carne, ground beef chili, customizable chili",
+      "keywords": "baked spaghetti, meatballs, Italian-American casserole",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "id": 176,
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Supreme",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4-8 servings",
+      "recipeIngredient": [
+        "8 boneless, skinless chicken breast pieces",
+        "1 (28 oz) can stewed tomatoes",
+        "1 chopped green pepper",
+        "1 chopped onion",
+        "2 generous slices of fresh Basil",
+        "2 Spanish Oregano slices",
+        "1 dozen chopped fresh Garlic",
+        "Salt and Seasoning salt",
+        "Onion powder",
+        "Grated mozzarella and cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil the chicken breasts in a separate container until pink is gone (about 1/4 of the way cooked)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a baking or roasting pan, mix together the tomato ingredients (stewed tomatoes, green pepper, onion, basil, oregano, garlic)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the partially cooked chicken breasts in the bottom of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle spices over the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the remaining tomato mixture on top of the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for approximately ½ hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese on top, cover, and bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over rice or pasta."
+        }
+      ],
+      "keywords": "chicken supreme, baked chicken, Italian-style chicken",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "similarity": "0.33"
+      "id": 238,
+      "similarity": "0.29"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheeseburger Meat Loaf",
+      "name": "Garfield's Lasagna",
       "author": {
         "@type": "Person",
-        "name": "Lori Allen"
+        "name": "Dave MacLeod"
       },
-      "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
+      "description": "A hearty layered lasagna with ground beef, cottage cheese, and mozzarella, perfect for a crowd.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Italian-American",
       "prepTime": "PT25M",
-      "cookTime": "PT1H15M",
-      "totalTime": "PT1H40M",
-      "recipeYield": "1 meatloaf",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "8 to 10 servings",
       "recipeIngredient": [
-        "1½ lb lean ground hamburger",
-        "½ tsp garlic salt",
-        "½ cup fine bread crumbs",
-        "1 tsp onion powder",
-        "1 egg",
-        "1 can (8 oz) tomato sauce",
-        "¼ cup parsley flakes",
-        "½ cup finely chopped onion",
-        "1 tsp salt",
-        "1 cup shredded cheddar cheese",
-        "⅛ tsp pepper",
-        "½ tsp seasoning salt",
-        "½ cup sweet pickle relish"
+        "1 lb ground beef (lean)",
+        "1/2 tsp oregano",
+        "3/4 cup chopped onions",
+        "1/2 tsp salt",
+        "1 clove garlic, finely chopped",
+        "12 to 15 lasagna noodles",
+        "24 oz can spaghetti sauce",
+        "28 oz can diced tomatoes",
+        "10 oz can mushroom pieces and stems",
+        "1 1/2 cups cottage cheese",
+        "3 cups mozzarella cheese",
+        "1/4 cup Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a mixing bowl, combine ground beef, egg, bread crumbs, garlic salt, onion powder, salt, pepper, and seasoning salt. Mix well."
+          "text": "Thoroughly brown the ground beef in a frying pan. Add onions and garlic; cook until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix chopped onion and tomato sauce together in a separate bowl."
+          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, oregano, and salt. Simmer for 20 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add half of the tomato sauce and onion mixture to the beef mixture and mix well."
+          "text": "Cook lasagna noodles as directed on the package. Rinse noodles in cold water using a colander."
         },
         {
           "@type": "HowToStep",
-          "text": "Pack half of the beef mixture into a loaf pan."
+          "text": "Blend cottage cheese with approximately 2 cups of the mozzarella cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese and sweet pickle relish evenly over the top."
+          "text": "Spread a thin layer of sauce in a greased 9x13 inch pan. Alternately layer 1/3 each of the noodles, sauce, and cheese mixture. Repeat 2 times until you have 3 layers."
         },
         {
           "@type": "HowToStep",
-          "text": "Pack the remaining beef mixture on top and press firmly."
+          "text": "Sprinkle remaining mozzarella cheese on top. Bake at 350°F for 45 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in a preheated oven at 350°F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Carefully spoon off excess fat from the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the remaining tomato sauce and onion mixture over the meatloaf."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
+          "text": "Let stand for 10 minutes before serving."
         }
       ],
-      "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
+      "keywords": "lasagna, ground beef, cottage cheese, mozzarella, layered pasta",
       "_naturalized_times": {
         "prepTime": "25 minutes",
-        "cookTime": "1 hour 15 minutes",
-        "totalTime": "1 hour 40 minutes"
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 10 minutes"
       },
-      "similarity": "0.33"
+      "id": 195,
+      "similarity": "0.29"
     }
   ]
 }

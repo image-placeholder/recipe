@@ -66,6 +66,7 @@
     "cookTime": "15 minutes",
     "totalTime": "35 minutes"
   },
+  "id": 34,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -117,6 +118,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
+      "id": 30,
       "similarity": "0.33"
     },
     {
@@ -159,7 +161,8 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "similarity": "0.29"
+      "id": 14,
+      "similarity": "0.28"
     },
     {
       "@context": "https://schema.org/",
@@ -201,63 +204,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "similarity": "0.25"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Fancy Pickled Eggs",
-      "author": {
-        "@type": "Person",
-        "name": "Antonia Hull"
-      },
-      "description": "A variation of pickled eggs with beets, giving them a distinctive purple color and sweet flavor.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT5M",
-      "totalTime": "PT20M",
-      "recipeYield": "12 pickled eggs",
-      "recipeIngredient": [
-        "1 (16 oz) can sliced beets",
-        "½ tsp ground cloves",
-        "2 bay leaves",
-        "2 Tbsp sugar",
-        "½ tsp celery seed",
-        "1 large onion, sliced into rings",
-        "1 tsp salt",
-        "2 cups cider vinegar",
-        "12 large boiled eggs (shells removed)",
-        "1 cinnamon stick"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In an enamel or stainless steel saucepan, combine all ingredients except eggs and onion rings."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring to a boil and simmer for 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large glass jar, alternate layers of eggs, beets, and onion rings."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the heated liquid into the jar, ensuring all layers are covered."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
-        }
-      ],
-      "keywords": "pickled eggs, beets, appetizer, purple eggs",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "20 minutes"
-      },
+      "id": 18,
       "similarity": "0.25"
     },
     {
@@ -302,7 +249,65 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
+      "id": 32,
       "similarity": "0.24"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spinach Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Ruth Slaght"
+        },
+        {
+          "@type": "Person",
+          "name": "Jo Anne Pickering"
+        }
+      ],
+      "description": "A creamy spinach dip made with sour cream, mayonnaise, and Knorr vegetable soup mix, served in a hollowed-out pumpernickel bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "about 4 cups of dip",
+      "recipeIngredient": [
+        "1 pkg (300 g) frozen chopped spinach, thawed and drained",
+        "1 can (10 oz) water chestnuts, drained and chopped",
+        "2 cups (500 mL) sour cream",
+        "1 cup mayonnaise",
+        "1 pkg Knorr vegetable soup mix",
+        "3 green onions, chopped",
+        "1 large round pumpernickel bread loaf (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Squeeze excess moisture from the thawed spinach."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, combine the spinach, sour cream, mayonnaise, Knorr soup mix, water chestnuts, and green onions. Stir until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate for at least 2 hours to allow flavors to blend."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using a bread loaf, scoop out a large hollow through the top and fill with the dip mixture. Serve with bread cubes cut from the centre and/or assorted fresh vegetables."
+        }
+      ],
+      "keywords": "spinach dip, party appetizer, pumpernickel bread",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "id": 16,
+      "similarity": "0.23"
     }
   ]
 }

@@ -54,6 +54,7 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
+  "id": 92,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -117,60 +118,8 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "similarity": "0.43"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mexican Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Sheila Jarvie"
-      },
-      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "8 to 9 servings",
-      "recipeIngredient": [
-        "¾ cup kidney beans",
-        "¾ cup lentils",
-        "½ cup diced tomato",
-        "1 cup shredded lettuce",
-        "½ green pepper, chopped",
-        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
-        "2 green onions, chopped",
-        "¼ cup Catalina dressing",
-        "¼ cup salsa",
-        "Taco chips for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss the salad with Catalina dressing until well coated."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the salad with salsa."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately with taco chips on the side."
-        }
-      ],
-      "keywords": "Mexican salad, bean salad, taco chips",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
-      },
-      "similarity": "0.41"
+      "id": 73,
+      "similarity": "0.42"
     },
     {
       "@context": "https://schema.org/",
@@ -217,55 +166,7 @@
         "cookTime": "",
         "totalTime": "8 hours 20 minutes"
       },
-      "similarity": "0.32"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Coleslaw Chalet Dressing",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 (medium size) head cabbage, shredded",
-        "2 carrots, finely chopped",
-        "1 Spanish onion, minced",
-        "3 stalks celery, finely chopped",
-        "¾ cup white sugar",
-        "¾ cup salad oil",
-        "1 cup white vinegar",
-        "2 tsp salt",
-        "1 tsp celery seed",
-        "1 Green pepper, finely chopped"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Bring all dressing ingredients to a boil and let cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
-        }
-      ],
-      "keywords": "coleslaw, chalet dressing, salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
-      },
+      "id": 62,
       "similarity": "0.31"
     },
     {
@@ -327,7 +228,102 @@
         "cookTime": "15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "similarity": "0.31"
+      "id": 71,
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Van Valkengoed"
+      },
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta according to package instructions, then drain and cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the feta cheese into the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+        }
+      ],
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 85,
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Club Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "1 large bowl",
+      "recipeIngredient": [
+        "7 cups romaine lettuce",
+        "1 cup crisp cooked bacon, chopped",
+        "1 cup chopped hard-boiled eggs",
+        "¾ cup ranch or dip dressing",
+        "¾ cup grated cheese (marble, cheddar, etc.)",
+        "1 cup cooked chicken breast, diced",
+        "½ cup grated carrots",
+        "1 cup diced tomatoes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients in a large bowl, layering each ingredient to look festive."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with dressing."
+        }
+      ],
+      "keywords": "layered salad, club salad, ranch dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "id": 68,
+      "similarity": "0.28"
     }
   ]
 }

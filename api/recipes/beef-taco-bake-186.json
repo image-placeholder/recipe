@@ -53,6 +53,7 @@
     "cookTime": "30 minutes",
     "totalTime": "45 minutes"
   },
+  "id": 186,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -131,7 +132,8 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "similarity": "0.41"
+      "id": 184,
+      "similarity": "0.40"
     },
     {
       "@context": "https://schema.org/",
@@ -204,66 +206,7 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour"
       },
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Stir-Fry Beef",
-      "author": {
-        "@type": "Person",
-        "name": "Donise Baker (Dundas)"
-      },
-      "description": "A quick and flavorful beef stir-fry with vegetables and a savory sauce, served over cooked rice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 can tomato soup",
-        "2 Tbsp vegetable oil",
-        "½ cup orange juice",
-        "2 lb boneless beef sirloin, cut into pieces",
-        "4 Tbsp soya sauce",
-        "1 large green pepper, cut into strips",
-        "2 Tbsp vinegar",
-        "8 cups cooked rice",
-        "1 large onion, sliced"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat vegetable oil in a frying pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add beef and stir-fry until cooked through. Set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add peppers and onion to the pan and stir-fry until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in the mixture of tomato soup, soya sauce, orange juice, and vinegar. Cook until heated through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return beef to the pan and heat through, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the beef mixture over cooked rice."
-        }
-      ],
-      "keywords": "beef stir-fry, Asian-inspired, quick dinner",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
+      "id": 227,
       "similarity": "0.35"
     },
     {
@@ -336,73 +279,124 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "id": 229,
       "similarity": "0.34"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Noodles with Hamburg",
+      "name": "Chicken Fajitas",
       "author": {
         "@type": "Person",
-        "name": "Carolyn Gower"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "description": "A classic Tex-Mex dish featuring chicken, sautéed peppers and onions, served with tortillas, cheese, and various toppings.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
       "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "¼ tsp oregano",
-        "¼ tsp garlic powder",
-        "½ cup chopped onions (optional)",
-        "1 tsp salt",
-        "⅓ cup chopped celery",
-        "¾ cup shredded cheddar cheese (optional)",
-        "2 cups canned tomatoes",
-        "2 cups cooked macaroni",
-        "1 (14 oz) can corn kernels",
-        "1 (10 oz) can tomato soup"
+        "1 green pepper, cut in strips",
+        "2 Tbsp parsley, chopped",
+        "1 onion, chopped",
+        "Flour tortillas (soft)",
+        "1 tsp ground cumin",
+        "1 cup shredded cheese",
+        "1 tsp chili powder",
+        "Guacamole (see appetizers)",
+        "Salsa",
+        "4 boneless chicken breasts",
+        "Sour cream"
+      ],
+      "recipeInstructions": [],
+      "keywords": "chicken fajitas, Tex-Mex, Mexican-American",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 228,
+      "similarity": "0.28"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Ring",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Valkengoed"
+      },
+      "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT16M",
+      "totalTime": "PT36M",
+      "recipeYield": "1 ring",
+      "recipeIngredient": [
+        "1 lb lean ground hamburger",
+        "1 cup water",
+        "1 packet taco seasoning mix",
+        "2 cups shredded lettuce",
+        "1 cup grated mild cheddar cheese",
+        "1 cup salsa dip",
+        "2 packages Pillsbury crescent rolls",
+        "1 tomato, diced",
+        "1 green pepper (optional)",
+        "Sour cream for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+          "text": "Fry the hamburger and let it cool."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+          "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+          "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+          "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+          "text": "Add shredded cheese on top of the hamburger mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+          "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot."
+          "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let cool slightly before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
         }
       ],
-      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
+        "cookTime": "16 minutes",
+        "totalTime": "36 minutes"
       },
-      "similarity": "0.32"
+      "id": 183,
+      "similarity": "0.28"
     }
   ]
 }

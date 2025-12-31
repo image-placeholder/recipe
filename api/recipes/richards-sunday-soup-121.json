@@ -50,6 +50,7 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
+  "id": 121,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -98,7 +99,8 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "similarity": "0.52"
+      "id": 112,
+      "similarity": "0.51"
     },
     {
       "@context": "https://schema.org/",
@@ -162,7 +164,8 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "similarity": "0.51"
+      "id": 123,
+      "similarity": "0.50"
     },
     {
       "@context": "https://schema.org/",
@@ -230,6 +233,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
+      "id": 108,
       "similarity": "0.49"
     },
     {
@@ -290,61 +294,56 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "similarity": "0.48"
+      "id": 105,
+      "similarity": "0.47"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Potato Soup",
+      "name": "Cream of Potato Soup",
       "author": {
         "@type": "Person",
-        "name": "Barbara Ratz"
+        "name": "Lori Allen"
       },
-      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+      "description": "A rich and creamy potato soup enhanced with Campbell's soup base, leeks, and mushrooms, topped with shredded cheddar cheese.",
       "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
+      "prepTime": "PT15M",
+      "cookTime": "PT2H30M",
+      "totalTime": "PT2H45M",
       "recipeYield": "8-10 servings",
       "recipeIngredient": [
-        "6 diced and peeled potatoes",
-        "2 diced and peeled carrots",
-        "1 chopped onion",
-        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
-        "6 Tbsp butter",
-        "6 Tbsp flour",
-        "Sour cream (optional)"
+        "4 to 6 cups cooked potatoes, cubed",
+        "1 square Campbell's potato soup base",
+        "Salt and pepper to taste",
+        "Garlic salt to taste",
+        "1 to 2 cups finely chopped mushrooms",
+        "2 to 3 leeks, chopped fine",
+        "Shredded cheddar cheese (amount desired)",
+        "Water or milk (as needed for consistency)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
+          "text": "In a large pot, combine all ingredients except cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Microwave onions and butter until soft, about 2 minutes."
+          "text": "Bring to a boil, stirring often, then simmer for 2 to 3 hours, adding more liquid if necessary."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
+          "text": "Add shredded cheddar cheese during the last 30 minutes of simmering."
         }
       ],
-      "keywords": "potato soup, creamy soup, comfort food",
+      "keywords": "cream of potato soup, cheesy soup, slow-cooked soup",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "2 hours 30 minutes",
+        "totalTime": "2 hours 45 minutes"
       },
-      "similarity": "0.45"
+      "id": 126,
+      "similarity": "0.43"
     }
   ]
 }

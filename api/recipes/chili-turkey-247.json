@@ -71,60 +71,8 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "id": 247,
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
-      },
-      "similarity": "0.44"
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -184,6 +132,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "id": 165,
       "similarity": "0.43"
     },
     {
@@ -245,7 +194,8 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "similarity": "0.39"
+      "id": 248,
+      "similarity": "0.40"
     },
     {
       "@context": "https://schema.org/",
@@ -311,7 +261,8 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "similarity": "0.39"
+      "id": 166,
+      "similarity": "0.38"
     },
     {
       "@context": "https://schema.org/",
@@ -395,7 +346,77 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 40 minutes"
       },
-      "similarity": "0.38"
+      "id": 157,
+      "similarity": "0.37"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey or Chicken Pies",
+      "author": {
+        "@type": "Person",
+        "name": "Shirley Preszcator"
+      },
+      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT45M",
+      "cookTime": "PT30M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "Multiple individual pies or 1 large pie",
+      "recipeIngredient": [
+        "½ cup margarine",
+        "1 tsp salt",
+        "1 Tbsp onion, chopped",
+        "1 cup flour",
+        "¼ tsp salt",
+        "1½ tsp baking powder",
+        "3 cups chicken or turkey broth",
+        "3 Tbsp butter",
+        "3 cups diced turkey or chicken",
+        "1 cup frozen peas",
+        "1 cup diced carrots",
+        "½ cup celery, chopped",
+        "⅓ cup milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté chopped onion and celery until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil carrots until thoroughly cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cooked carrots with peas and the sauce made earlier."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the crust is golden brown."
+        }
+      ],
+      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
+      "_naturalized_times": {
+        "prepTime": "45 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "id": 251,
+      "similarity": "0.36"
     }
   ]
 }

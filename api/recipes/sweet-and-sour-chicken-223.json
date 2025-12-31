@@ -37,6 +37,7 @@
     "cookTime": "2 hours",
     "totalTime": "2 hours 5 minutes"
   },
+  "id": 223,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -80,7 +81,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "similarity": "0.41"
+      "id": 237,
+      "similarity": "0.40"
     },
     {
       "@context": "https://schema.org/",
@@ -131,6 +133,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
+      "id": 222,
       "similarity": "0.40"
     },
     {
@@ -193,6 +196,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
+      "id": 160,
       "similarity": "0.34"
     },
     {
@@ -243,56 +247,68 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
+      "id": 234,
       "similarity": "0.34"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sour 'N Sweet Pork Chops",
+      "name": "Sweet & Sour Meatballs",
       "author": {
         "@type": "Person",
-        "name": "Nola Ratz"
+        "name": "Sharon Allen"
       },
-      "description": "A tangy and sweet pork chop dish simmered in a rich sauce made with brown sugar, vinegar, and Worcestershire sauce.",
+      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT30M",
-      "totalTime": "PT40M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H30M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "4 pork chops",
-        "½ cup brown sugar",
-        "¼ cup vinegar",
-        "½ cup water",
-        "1 Tbsp Worcestershire sauce",
-        "¼ cup ketchup",
-        "2 Tbsp flour (for thickening)"
+        "1 lb lean ground beef",
+        "2 Tbsp chopped onion",
+        "½ cup cracker crumbs",
+        "1 Tbsp crushed garlic",
+        "¼ tsp pepper",
+        "1 egg",
+        "1½ tsp soya sauce",
+        "⅔ cup milk",
+        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Drain excess fat from pork chops and brown them in a large frying pan."
+          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix together water, brown sugar, vinegar, Worcestershire sauce, and ketchup. Pour over the browned chops."
+          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer for 30 minutes or until done."
+          "text": "Broil to brown on all sides, watching carefully."
         },
         {
           "@type": "HowToStep",
-          "text": "If desired, thicken the liquid with 2 Tbsp flour. Serve with rice."
+          "text": "Place meatballs in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
         }
       ],
-      "keywords": "sour sweet pork chops, tangy pork, brown sugar sauce",
+      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "40 minutes"
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 30 minutes"
       },
+      "id": 161,
       "similarity": "0.32"
     }
   ]

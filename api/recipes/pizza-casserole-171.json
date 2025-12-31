@@ -72,6 +72,7 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "id": 171,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -138,7 +139,8 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "similarity": "0.41"
+      "id": 195,
+      "similarity": "0.40"
     },
     {
       "@context": "https://schema.org/",
@@ -191,7 +193,8 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "similarity": "0.40"
+      "id": 187,
+      "similarity": "0.37"
     },
     {
       "@context": "https://schema.org/",
@@ -251,6 +254,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "id": 192,
       "similarity": "0.37"
     },
     {
@@ -324,84 +328,66 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 20 minutes"
       },
+      "id": 190,
       "similarity": "0.37"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Jelly Roll Style Meat Loaf",
+      "name": "Zippy Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "Barbara Ratz"
+        "name": "Kate Cunningham"
       },
-      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+      "description": "A flavorful and spicy spaghetti sauce with sausage, hamburger, and taco seasoning.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Italian-American",
       "prepTime": "PT20M",
-      "cookTime": "PT1H15M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "1 loaf",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Several servings",
       "recipeIngredient": [
-        "½ lb ground beef",
-        "3 cups shredded mozzarella cheese",
-        "1 beaten egg",
-        "½ cup cracker crumbs or dry bread crumbs",
-        "½ tsp basil",
-        "1 clove garlic, minced",
-        "½ cup minced onion",
+        "1 lb lean ground hamburger",
+        "2 jumbo summer sausage slices",
+        "1/2 onion, chopped",
+        "1 tsp garlic",
+        "1 tsp oregano flakes",
         "1 tsp salt",
-        "⅛ tsp pepper",
-        "2 (8 oz) cans tomato sauce"
+        "1/4 tsp pepper",
+        "1 envelope regular taco seasoning (El Paso)",
+        "1 jar Ragu spaghetti sauce (700 mL)",
+        "1 can sliced mushrooms, drained"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
+          "text": "Brown the hamburger and chopped onion."
         },
         {
           "@type": "HowToStep",
-          "text": "Add ground beef and mix thoroughly with hands until just combined."
+          "text": "Add garlic, oregano, salt, pepper, and taco seasoning."
         },
         {
           "@type": "HowToStep",
-          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
+          "text": "Chop the summer sausage into 1/4 inch pieces and add to the mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
+          "text": "Add the Ragu spaghetti sauce and drained mushrooms."
         },
         {
           "@type": "HowToStep",
-          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain off fat and pour reserved tomato sauce on the roll."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for 10 to 15 minutes before slicing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Decorate with tomato slices and green parsley on a serving tray."
+          "text": "Simmer for 10 minutes."
         }
       ],
-      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
+      "keywords": "spaghetti sauce, zippy sauce, sausage, taco seasoning",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "1 hour 15 minutes",
-        "totalTime": "1 hour 35 minutes"
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "similarity": "0.36"
+      "id": 188,
+      "similarity": "0.33"
     }
   ]
 }
