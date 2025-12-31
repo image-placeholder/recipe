@@ -53,8 +53,6 @@ jobs:
           npm install --save copy-webpack-plugin
           npm install -g purgecss
           npm install tailwindcss@3.4.17 postcss autoprefixer
-          npx tailwindcss -i ./assets/css/_tailwind.css -o ./assets/css/tailwind.css --minify
-
 
       - name: Set up Node.js environment
         uses: actions/setup-node@v2
@@ -71,6 +69,10 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
+      - name: Build Tailwind CSS
+        run: |
+          npx tailwindcss -i ./assets/css/_tailwind.css -o ./assets/css/tailwind.css --minify
 
       - name: Compress Images in _site/assets
         uses: MarketingPipeline/Image-Optimizer-Action@main
