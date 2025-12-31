@@ -49,11 +49,12 @@ module Jekyll
             schema.delete("_naturalized_times")
 
           if schema.key?("_url")
-            data.delete("_url")
+            schema.delete("_url")
 
           if schema.key?("_similar")
-            data.delete("_similar")             
+            schema.delete("_similar")             
 
+          end      
           
           page.data = data.merge(
             "layout"    => "recipe",
