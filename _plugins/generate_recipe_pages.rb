@@ -60,6 +60,18 @@ module Jekyll
             cuisines[data["recipeCuisine"]] << page
           end
 
+             # 🔥 Remove persisted build-time field
+          if data.key?("_naturalized_times")
+            data.delete("_naturalized_times")
+      
+            # ✍️ Write cleaned data back to file
+            File.write(
+              file_path,
+              JSON.pretty_generate(data),
+              mode: "w"
+            )
+          end       
+
         rescue StandardError => e
           Jekyll.logger.error "Recipe parse error:", "#{file_path} — #{e.message}"
         end
