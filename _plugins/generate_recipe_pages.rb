@@ -44,17 +44,10 @@ module Jekyll
 
           schema = data
 
-          # 🔥 Remove persisted build-time field
-          if schema.key?("_naturalized_times")
-            schema.delete("_naturalized_times")
-
-          if schema.key?("_url")
-            schema.delete("_url")
-
-          if schema.key?("_similar")
-            schema.delete("_similar")             
-
-          end      
+          # 🔥 Remove persisted build-time fields to be removed from recipe schemas.
+          ["_naturalized_times", "_url", "_similar"].each do |field|
+            schema.delete(field) if schema.key?(field)
+          end
           
           page.data = data.merge(
             "layout"    => "recipe",
