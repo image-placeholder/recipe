@@ -85,15 +85,29 @@ title: "Search Recipes"
 <main class="flex-grow max-w-5xl mx-auto w-full px-6 py-20">
     <div class="text-center mb-16">
         <span class="text-[10px] uppercase tracking-[0.4em] text-stone-400 mb-4 block underline underline-offset-8 decoration-stone-200">Digital Ledger Search</span>
-        <h2 class="text-4xl md:text-6xl font-bold mb-12 serif italic">What are you <br>looking for?</h2>
+        <h2 class="text-4xl md:text-6xl font-bold mb-12 serif italic">What are you <br>craving for?</h2>
 
         <div class="relative max-w-2xl mx-auto">
-            <input type="text" id="mainSearch" oninput="performSearch()" autofocus
-                placeholder="Search by ingredient, name, or contributor..." 
-                class="w-full bg-transparent text-2xl md:text-3xl text-center border-none focus:outline-none placeholder-stone-200 serif italic py-4">
+        <input
+          type="text"
+          id="mainSearch"
+          placeholder="Search by name, or contributor..."
+          class="w-full bg-transparent text-2xl md:text-3xl text-center border-none focus:outline-none placeholder-stone-200 serif italic py-4"
+          autocomplete="off"
+          role="searchbox"
+          aria-label="Search recipes"
+          aria-describedby="searchHelp"
+          aria-controls="resultsGrid"
+          aria-autocomplete="list"
+        />
+        
+        <p id="searchHelp" class="sr-only">
+          Type to search recipes by name, or contributor.
+        </p>
             <div class="h-[1px] bg-stone-200 w-full absolute bottom-0"></div>
             <div class="h-[1px] bg-stone-900 absolute bottom-0 left-0 search-input-focus"></div>
         </div>
+      <p id="resultsStatus" class="sr-only" role="status" aria-live="polite"></p>
     </div>
 
     <div id="resultsGrid" class="grid grid-cols-1 md:grid-cols-2 gap-8 min-h-[400px]">
@@ -103,90 +117,213 @@ title: "Search Recipes"
     </div>
 </main>
 
+<template id="skeletonTemplate">
+  <div class="animate-pulse bg-stone-50 border border-stone-100 p-10">
+    <div class="h-2 w-24 bg-stone-200 mb-4"></div>
+    <div class="h-6 w-3/4 bg-stone-200 mb-4"></div>
+    <div class="h-3 w-full bg-stone-200 mb-6"></div>
+    <div class="h-2 w-16 bg-stone-300"></div>
+  </div>
+</template>
 
- <script>
-// Expanded Recipe Dataset
-// Expanded Recipe Dataset
-const recipes = {% file_read /api/search.json  %};
+<script>
+(() => {
+  'use strict';
 
-function performSearch(query) {
-    const grid = document.getElementById('resultsGrid');
-    const searchInput = document.getElementById('mainSearch');
+  /* ----------------------------------
+     Constants
+  ---------------------------------- */
+  const recipes = {% file_read /api/search.json %};
+  const ITEM_HEIGHT = 260;
+  const BUFFER = 4;
 
-    if (!query) query = searchInput.value.toLowerCase();
-    else searchInput.value = query;
+  /* ----------------------------------
+     State
+  ---------------------------------- */
+  let filtered = [];
+  let startIndex = 0;
+  let activeIndex = -1;
 
-    // Update URL dynamically without reloading
-    const newUrl = `${window.location.pathname}?q=${encodeURIComponent(query)}`;
-    history.replaceState(null, '', newUrl);
+  /* ----------------------------------
+     DOM
+  ---------------------------------- */
+  const DOM = {
+    input: document.getElementById('mainSearch'),
+    grid: document.getElementById('resultsGrid'),
+    status: document.getElementById('resultsStatus'),
+    skeleton: document.getElementById('skeletonTemplate'),
+  };
 
-    if (query.length === 0) {
-        grid.innerHTML = `
-            <div id="searchPlaceholder" class="col-span-full text-center py-20">
-                <p class="text-stone-300 italic serif text-xl">Type to browse the community's digitized recipes...</p>
-            </div>
-        `;
-        return;
-    }
+  /* ----------------------------------
+     Utilities
+  ---------------------------------- */
+  const normalize = (v = '') => v.trim().toLowerCase();
 
-    const filtered = recipes.filter(r => 
-        r.name.toLowerCase().includes(query) || 
-        r.author.toLowerCase().includes(query) ||
-        r.keyword.toLowerCase().includes(query)
+  const debounce = (fn, delay = 250) => {
+    let t;
+    return (...args) => {
+      clearTimeout(t);
+      t = setTimeout(() => fn(...args), delay);
+    };
+  };
+
+  const announce = (msg) => (DOM.status.textContent = msg);
+
+  /* ----------------------------------
+     Search
+  ---------------------------------- */
+  const filterRecipes = (query) =>
+    recipes.filter(({ name, author, keyword }) =>
+      [name, author, keyword].some(v =>
+        normalize(v).includes(query)
+      )
     );
 
-    renderResults(filtered);
-}
+  /* ----------------------------------
+     Rendering (Virtual Window)
+  ---------------------------------- */
+  const renderSkeletons = (count = 6) => {
+    DOM.grid.innerHTML = '';
+    for (let i = 0; i < count; i++) {
+      DOM.grid.append(DOM.skeleton.content.cloneNode(true));
+    }
+  };
 
-function renderResults(results) {
-    const grid = document.getElementById('resultsGrid');
+  const renderWindow = () => {
+    const viewportHeight = window.innerHeight;
+    const itemsPerView = Math.ceil(viewportHeight / ITEM_HEIGHT);
 
-    if (results.length === 0) {
-        grid.innerHTML = `
-            <div class="col-span-full text-center py-20">
-                <p class="text-stone-400 italic">No entries found matching that query in the Crediton Ledger.</p>
-            </div>
+    const endIndex = Math.min(
+      startIndex + itemsPerView + BUFFER,
+      filtered.length
+    );
+
+    DOM.grid.innerHTML = filtered
+      .slice(startIndex, endIndex)
+      .map((r, i) => {
+        const index = startIndex + i;
+        return `
+          <article
+            role="listitem"
+            tabindex="${index === activeIndex ? '0' : '-1'}"
+            data-index="${index}"
+            class="result-item p-10 border bg-white transition
+              ${index === activeIndex ? 'ring-2 ring-stone-800' : ''}"
+            style="height:${ITEM_HEIGHT}px"
+          >
+            <span class="text-[9px] uppercase tracking-widest text-stone-400 mb-4 block">
+              ${r.author}
+            </span>
+            <h3 class="text-3xl mb-4 serif">${r.name}</h3>
+            <a href="{{base_url}}/${r.url}" class="inline-flex gap-2">
+              <span class="h-px w-8 bg-stone-900"></span>
+              <span class="text-[10px] uppercase font-bold">View Recipe</span>
+            </a>
+          </article>
         `;
-        return;
+      })
+      .join('');
+  };
+
+  /* ----------------------------------
+     Scroll Handling
+  ---------------------------------- */
+  const onScroll = () => {
+    const scrollTop = window.scrollY;
+    startIndex = Math.max(
+      0,
+      Math.floor(scrollTop / ITEM_HEIGHT) - BUFFER
+    );
+    renderWindow();
+  };
+
+  /* ----------------------------------
+     Keyboard Navigation
+  ---------------------------------- */
+  const onKeyDown = (e) => {
+    if (!filtered.length) return;
+
+    if (e.key === 'ArrowDown') {
+      activeIndex = Math.min(activeIndex + 1, filtered.length - 1);
+    } else if (e.key === 'ArrowUp') {
+      activeIndex = Math.max(activeIndex - 1, 0);
+    } else if (e.key === 'Enter' && activeIndex >= 0) {
+      const item = filtered[activeIndex];
+      window.location.href = `{{base_url}}/${item.url}`;
+      return;
+    } else {
+      return;
     }
 
-    grid.innerHTML = results.map((r, index) => `
-        <div class="result-item group bg-white border border-stone-100 p-10 cursor-pointer hover:shadow-2xl hover:-translate-y-1 transition-all" 
-             style="transition-delay: ${index * 50}ms">
-            <span class="text-[9px] uppercase tracking-widest text-stone-400 mb-4 block">${r.author}</span>
-            <h3 class="text-3xl mb-4 serif group-hover:italic transition-all">${r.name}</h3>
-            <p class="text-sm text-stone-500 leading-relaxed mb-6">${r?.name}</p>
-            <a href="{{base_url}}/${r.url}" class="block">
-            <div class="flex items-center gap-2">
-              <span class="h-px w-8 bg-stone-900"></span>
-              <span class="text-[10px] font-bold uppercase tracking-widest">View Recipe</span>
-            </div>
-          </a>
+    e.preventDefault();
+    renderWindow();
+
+    const activeEl = DOM.grid.querySelector(`[data-index="${activeIndex}"]`);
+    activeEl?.focus({ preventScroll: true });
+  };
+
+  /* ----------------------------------
+     Controller
+  ---------------------------------- */
+
+    const renderEmpty = (message) => {
+      DOM.grid.innerHTML = `
+        <div
+          role="status"
+          class="col-span-full text-center py-20"
+        > 
+          <p class="text-stone-400 italic">
+            ${message}
+          </p>
         </div>
-    `).join('');
+      `;
+    };
 
-    // Trigger animation
-    setTimeout(() => {
-        const items = document.querySelectorAll('.result-item');
-        items.forEach(el => el.classList.add('visible'));
-    }, 10);
-}
-
-// Initialize search on DOM load
-document.addEventListener('DOMContentLoaded', () => {
-    const searchInput = document.getElementById('mainSearch');
-
-    // If URL has ?q=..., pre-fill and auto-search
-    const urlParams = new URLSearchParams(window.location.search);
-    const queryParam = urlParams.get('q');
-    if (queryParam) performSearch(queryParam.toLowerCase());
-
-    // Search on Enter key
-    searchInput.addEventListener('keypress', (e) => {
-        if (e.key === 'Enter') performSearch();
+  
+    const handleSearch = debounce((value) => {
+      const query = normalize(value);
+    
+      activeIndex = -1;
+      startIndex = 0;
+      filtered = [];
+    
+      if (!query) {
+        DOM.grid.innerHTML = '';
+        announce('Search cleared.');
+        return;
+      }
+    
+      renderSkeletons();
+    
+      filtered = filterRecipes(query);
+    
+      if (!filtered.length) {
+        renderEmpty(
+          'No entries found matching that query in the Crediton Ledger.'
+        );
+        announce('No results found.');
+        return;
+      }
+    
+      announce(`${filtered.length} results found.`);
+      renderWindow();
     });
-});
-</script> 
+
+  /* ----------------------------------
+     Init
+  ---------------------------------- */
+  const init = () => {
+    DOM.input.addEventListener('input', e =>
+      handleSearch(e.target.value)
+    );
+
+    document.addEventListener('keydown', onKeyDown);
+    window.addEventListener('scroll', onScroll, { passive: true });
+  };
+
+  document.addEventListener('DOMContentLoaded', init);
+})();
+</script>
 <!-- Footer -->
 {% include footer.html %}    
 </body>
