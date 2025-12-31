@@ -1,5 +1,69 @@
 const fs = require('fs'); 
 const path = require('path');
+const{ isoDuration, en } = "@musement/iso-duration"
+const _fs = require('fs').promises;
+ 
+const humanizeDuration = require('humanize-duration');
+
+
+// ----------------------------------
+// Helpers
+// ----------------------------------
+const humanizeISODuration = (iso) => {
+  if (!iso) return null;
+
+  try {
+    const duration = isoDuration(iso);
+
+    return duration.humanize('en');
+  } catch {
+    return null;
+  }
+};
+
+
+// Setup locales
+//   key - string you want to use in `humanize` function
+//   value - IsoDuration i18n object.
+isoDuration.setLocales(
+  {
+    en,
+  //  pl,
+   // it,
+  },
+  {
+    fallbackLocale: 'en',
+  }
+)
+
+
+// ----------------------------------
+// Main
+// ----------------------------------
+async function naturalizeRecipeTimes(recipes) {
+  try {
+    const updatedRecipes = recipes.map(recipe => ({
+      ...recipe,
+      _naturalized_times: {
+        prepTime: humanizeISODuration(recipe.prepTime),
+        cookTime: humanizeISODuration(recipe.cookTime),
+        totalTime: humanizeISODuration(recipe.totalTime),
+      },
+    }));
+
+    await _fs.writeFile(
+      DATA_FILE,
+      JSON.stringify(updatedRecipes, null, 2),
+      'utf8'
+    );
+
+    console.log(`✓ Naturalized times added to ${updatedRecipes.length} recipes`);
+  } catch (err) {
+    console.error('✗ Failed to naturalize recipe times:', err);
+    process.exitCode = 1;
+  }
+}
+
 
 // 1. Configuration
 const DATA_FILE = path.join(process.cwd(), '_data', 'recipes.json');
@@ -23,12 +87,12 @@ const ensureDir = (dir) => {
   }
 };
 
-const generateRecipes = () => {
+const generateRecipes = async () => {
   try {
     ensureDir(OUTPUT_DIR);
     const rawData = fs.readFileSync(DATA_FILE, 'utf8');
     const recipes = JSON.parse(rawData);
-
+    await naturalizeRecipeTimes(recipes);
     console.log(`Processing ${recipes.length} recipes...`);
 
     const searchIndex = [];
