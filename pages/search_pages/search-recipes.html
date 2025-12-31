@@ -332,7 +332,7 @@ title: "Search Recipes"
   ---------------------------------- */
   const handleSearch = debounce((value) => {
     // Update URL dynamically without reloading
-    const newUrl = `${window.location.pathname}?q=${encodeURIComponent(query)}`;
+    const newUrl = `${window.location.pathname}?q=${encodeURIComponent(value)}`;
     history.replaceState(null, '', newUrl);
     const query = normalize(value);
 
