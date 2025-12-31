@@ -48,7 +48,6 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
-  "id": 127,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -97,7 +96,6 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "id": 112,
       "similarity": "0.47"
     },
     {
@@ -159,7 +157,6 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 107,
       "similarity": "0.47"
     },
     {
@@ -221,7 +218,6 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 110,
       "similarity": "0.47"
     },
     {
@@ -290,7 +286,6 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 108,
       "similarity": "0.42"
     },
     {
@@ -351,8 +346,8 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 105,
       "similarity": "0.41"
     }
-  ]
+  ],
+  "_url": "/recipe/seafood-chowder-127.json"
 }

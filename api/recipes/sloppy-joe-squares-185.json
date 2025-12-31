@@ -69,7 +69,6 @@
     "cookTime": "25 minutes",
     "totalTime": "45 minutes"
   },
-  "id": 185,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -125,7 +124,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 163,
       "similarity": "0.36"
     },
     {
@@ -183,7 +181,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "id": 210,
       "similarity": "0.36"
     },
     {
@@ -229,7 +226,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 153,
       "similarity": "0.35"
     },
     {
@@ -291,7 +287,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 165,
       "similarity": "0.34"
     },
     {
@@ -369,8 +364,8 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 154,
       "similarity": "0.34"
     }
-  ]
+  ],
+  "_url": "/recipe/sloppy-joe-squares-185.json"
 }

@@ -52,7 +52,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
   },
-  "id": 163,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -97,7 +96,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 153,
       "similarity": "0.41"
     },
     {
@@ -162,7 +160,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 233,
       "similarity": "0.40"
     },
     {
@@ -231,7 +228,6 @@
         "cookTime": "3 hours",
         "totalTime": "3 hours 30 minutes"
       },
-      "id": 167,
       "similarity": "0.39"
     },
     {
@@ -316,7 +312,6 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 40 minutes"
       },
-      "id": 157,
       "similarity": "0.39"
     },
     {
@@ -378,8 +373,8 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 165,
       "similarity": "0.39"
     }
-  ]
+  ],
+  "_url": "/recipe/beef-porcupines-163.json"
 }

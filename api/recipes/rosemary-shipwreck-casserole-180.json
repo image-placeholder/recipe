@@ -62,7 +62,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
   },
-  "id": 180,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -131,7 +130,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 178,
       "similarity": "0.50"
     },
     {
@@ -220,7 +218,6 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 158,
       "similarity": "0.48"
     },
     {
@@ -294,7 +291,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 168,
       "similarity": "0.45"
     },
     {
@@ -362,7 +358,6 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 173,
       "similarity": "0.45"
     },
     {
@@ -418,8 +413,8 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 159,
       "similarity": "0.44"
     }
-  ]
+  ],
+  "_url": "/recipe/rosemary-shipwreck-casserole-180.json"
 }

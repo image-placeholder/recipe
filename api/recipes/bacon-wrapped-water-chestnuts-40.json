@@ -56,7 +56,6 @@
     "cookTime": "30 minutes",
     "totalTime": "8 hours 45 minutes"
   },
-  "id": 40,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -110,7 +109,6 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 39,
       "similarity": "0.74"
     },
     {
@@ -178,7 +176,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 41,
       "similarity": "0.71"
     },
     {
@@ -238,7 +235,6 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 26,
       "similarity": "0.46"
     },
     {
@@ -286,7 +282,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 37,
       "similarity": "0.36"
     },
     {
@@ -336,8 +331,8 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "id": 38,
       "similarity": "0.32"
     }
-  ]
+  ],
+  "_url": "/recipe/bacon-wrapped-water-chestnuts-40.json"
 }

@@ -72,7 +72,6 @@
     "cookTime": "",
     "totalTime": "2 hours 15 minutes"
   },
-  "id": 36,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -128,7 +127,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 4,
       "similarity": "0.41"
     },
     {
@@ -173,7 +171,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 10,
       "similarity": "0.38"
     },
     {
@@ -237,7 +234,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 11,
       "similarity": "0.36"
     },
     {
@@ -287,7 +283,6 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "id": 38,
       "similarity": "0.33"
     },
     {
@@ -338,8 +333,8 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
-      "id": 8,
       "similarity": "0.32"
     }
-  ]
+  ],
+  "_url": "/recipe/fairest-wheels-36.json"
 }

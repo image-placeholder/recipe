@@ -37,7 +37,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "id": 135,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -89,7 +88,6 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "id": 136,
       "similarity": "0.37"
     },
     {
@@ -139,7 +137,6 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
-      "id": 177,
       "similarity": "0.29"
     },
     {
@@ -189,7 +186,6 @@
         "cookTime": "10 minutes",
         "totalTime": "15 minutes"
       },
-      "id": 134,
       "similarity": "0.27"
     },
     {
@@ -229,8 +225,8 @@
         "cookTime": null,
         "totalTime": "5 minutes"
       },
-      "id": 122,
       "similarity": "0.20"
     }
-  ]
+  ],
+  "_url": "/recipe/teriyaki-sauce-135.json"
 }

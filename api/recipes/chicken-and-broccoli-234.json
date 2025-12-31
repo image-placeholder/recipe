@@ -46,7 +46,6 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "id": 234,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,7 +102,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 128,
       "similarity": "0.44"
     },
     {
@@ -158,7 +156,6 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 129,
       "similarity": "0.42"
     },
     {
@@ -219,7 +216,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 242,
       "similarity": "0.41"
     },
     {
@@ -293,7 +289,6 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 243,
       "similarity": "0.40"
     },
     {
@@ -373,8 +368,8 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 184,
       "similarity": "0.39"
     }
-  ]
+  ],
+  "_url": "/recipe/chicken-and-broccoli-234.json"
 }

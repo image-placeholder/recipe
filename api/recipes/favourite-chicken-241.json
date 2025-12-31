@@ -54,7 +54,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
-  "id": 241,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -107,7 +106,6 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 212,
       "similarity": "0.48"
     },
     {
@@ -177,7 +175,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 238,
       "similarity": "0.43"
     },
     {
@@ -251,7 +248,6 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 243,
       "similarity": "0.42"
     },
     {
@@ -312,7 +308,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 242,
       "similarity": "0.41"
     },
     {
@@ -370,8 +365,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 128,
       "similarity": "0.41"
     }
-  ]
+  ],
+  "_url": "/recipe/favourite-chicken-241.json"
 }

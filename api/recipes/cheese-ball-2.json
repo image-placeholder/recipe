@@ -45,7 +45,6 @@
     "cookTime": "",
     "totalTime": "15 minutes"
   },
-  "id": 2,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -101,7 +100,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 4,
       "similarity": "0.45"
     },
     {
@@ -165,7 +163,6 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 1,
       "similarity": "0.44"
     },
     {
@@ -222,7 +219,6 @@
         "cookTime": "",
         "totalTime": null
       },
-      "id": 3,
       "similarity": "0.41"
     },
     {
@@ -272,7 +268,6 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "id": 38,
       "similarity": "0.41"
     },
     {
@@ -323,8 +318,8 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
-      "id": 8,
       "similarity": "0.40"
     }
-  ]
+  ],
+  "_url": "/recipe/cheese-ball-2.json"
 }

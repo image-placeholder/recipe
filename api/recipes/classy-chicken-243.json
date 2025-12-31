@@ -69,7 +69,6 @@
     "cookTime": "35 minutes",
     "totalTime": "55 minutes"
   },
-  "id": 243,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -127,7 +126,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 241,
       "similarity": "0.42"
     },
     {
@@ -185,7 +183,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 230,
       "similarity": "0.41"
     },
     {
@@ -236,7 +233,6 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 234,
       "similarity": "0.40"
     },
     {
@@ -292,7 +288,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 231,
       "similarity": "0.37"
     },
     {
@@ -353,8 +348,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 242,
       "similarity": "0.36"
     }
-  ]
+  ],
+  "_url": "/recipe/classy-chicken-243.json"
 }

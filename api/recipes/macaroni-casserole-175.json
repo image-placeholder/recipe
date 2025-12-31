@@ -64,7 +64,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "id": 175,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -133,7 +132,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 164,
       "similarity": "0.57"
     },
     {
@@ -204,7 +202,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 244,
       "similarity": "0.51"
     },
     {
@@ -274,7 +271,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 178,
       "similarity": "0.46"
     },
     {
@@ -349,7 +345,6 @@
         "cookTime": "30 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 169,
       "similarity": "0.42"
     },
     {
@@ -417,8 +412,8 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 196,
       "similarity": "0.41"
     }
-  ]
+  ],
+  "_url": "/recipe/macaroni-casserole-175.json"
 }

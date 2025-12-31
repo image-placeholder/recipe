@@ -62,7 +62,6 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "2 hours"
   },
-  "id": 211,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -135,7 +134,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 168,
       "similarity": "0.45"
     },
     {
@@ -191,7 +189,6 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 159,
       "similarity": "0.41"
     },
     {
@@ -262,7 +259,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 244,
       "similarity": "0.39"
     },
     {
@@ -329,7 +325,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 180,
       "similarity": "0.37"
     },
     {
@@ -399,8 +394,8 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 164,
       "similarity": "0.37"
     }
-  ]
+  ],
+  "_url": "/recipe/pork-chop-rice-casserole-211.json"
 }

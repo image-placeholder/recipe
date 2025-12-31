@@ -52,7 +52,6 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour"
   },
-  "id": 200,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -106,7 +105,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 130,
       "similarity": "0.38"
     },
     {
@@ -166,7 +164,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "id": 156,
       "similarity": "0.37"
     },
     {
@@ -221,7 +218,6 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 129,
       "similarity": "0.36"
     },
     {
@@ -290,7 +286,6 @@
         "cookTime": "30 minutes",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 251,
       "similarity": "0.35"
     },
     {
@@ -356,8 +351,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 194,
       "similarity": "0.33"
     }
-  ]
+  ],
+  "_url": "/recipe/ham-casserole-200.json"
 }

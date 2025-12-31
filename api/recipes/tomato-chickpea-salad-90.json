@@ -46,7 +46,6 @@
     "cookTime": "",
     "totalTime": "20 minutes"
   },
-  "id": 90,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +103,6 @@
         "cookTime": "",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 69,
       "similarity": "0.39"
     },
     {
@@ -154,7 +152,6 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 85,
       "similarity": "0.35"
     },
     {
@@ -210,7 +207,6 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 82,
       "similarity": "0.33"
     },
     {
@@ -272,7 +268,6 @@
         "cookTime": "15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 71,
       "similarity": "0.29"
     },
     {
@@ -334,8 +329,8 @@
         "cookTime": "8 minutes",
         "totalTime": "23 minutes"
       },
-      "id": 72,
       "similarity": "0.29"
     }
-  ]
+  ],
+  "_url": "/recipe/tomato-chickpea-salad-90.json"
 }

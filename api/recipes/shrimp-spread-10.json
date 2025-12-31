@@ -40,7 +40,6 @@
     "cookTime": null,
     "totalTime": null
   },
-  "id": 10,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,7 +102,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 11,
       "similarity": "0.52"
     },
     {
@@ -160,7 +158,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 4,
       "similarity": "0.49"
     },
     {
@@ -200,7 +197,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 20,
       "similarity": "0.43"
     },
     {
@@ -249,7 +245,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 9,
       "similarity": "0.41"
     },
     {
@@ -292,8 +287,8 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 18,
       "similarity": "0.38"
     }
-  ]
+  ],
+  "_url": "/recipe/shrimp-spread-10.json"
 }

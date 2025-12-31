@@ -45,7 +45,6 @@
     "cookTime": "4 hours",
     "totalTime": "4 hours 20 minutes"
   },
-  "id": 155,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -111,7 +110,6 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 166,
       "similarity": "0.37"
     },
     {
@@ -180,7 +178,6 @@
         "cookTime": "3 hours",
         "totalTime": "3 hours 30 minutes"
       },
-      "id": 167,
       "similarity": "0.35"
     },
     {
@@ -250,7 +247,6 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 170,
       "similarity": "0.34"
     },
     {
@@ -307,7 +303,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 163,
       "similarity": "0.33"
     },
     {
@@ -369,8 +364,8 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 248,
       "similarity": "0.32"
     }
-  ]
+  ],
+  "_url": "/recipe/stewing-beef-casserole-155.json"
 }

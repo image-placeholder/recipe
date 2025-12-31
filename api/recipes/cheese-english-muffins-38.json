@@ -45,7 +45,6 @@
     "cookTime": "10 minutes",
     "totalTime": "20 minutes"
   },
-  "id": 38,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -94,7 +93,6 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "id": 2,
       "similarity": "0.41"
     },
     {
@@ -149,7 +147,6 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 39,
       "similarity": "0.40"
     },
     {
@@ -206,7 +203,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 4,
       "similarity": "0.36"
     },
     {
@@ -261,7 +257,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 43,
       "similarity": "0.34"
     },
     {
@@ -304,8 +299,8 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 14,
       "similarity": "0.34"
     }
-  ]
+  ],
+  "_url": "/recipe/cheese-english-muffins-38.json"
 }

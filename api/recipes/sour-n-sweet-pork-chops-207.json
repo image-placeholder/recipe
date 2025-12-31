@@ -46,7 +46,6 @@
     "cookTime": "30 minutes",
     "totalTime": "40 minutes"
   },
-  "id": 207,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -97,7 +96,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "id": 222,
       "similarity": "0.49"
     },
     {
@@ -155,7 +153,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "id": 210,
       "similarity": "0.46"
     },
     {
@@ -211,7 +208,6 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 206,
       "similarity": "0.45"
     },
     {
@@ -274,7 +270,6 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 160,
       "similarity": "0.38"
     },
     {
@@ -335,8 +330,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 30 minutes"
       },
-      "id": 161,
       "similarity": "0.36"
     }
-  ]
+  ],
+  "_url": "/recipe/sour-n-sweet-pork-chops-207.json"
 }

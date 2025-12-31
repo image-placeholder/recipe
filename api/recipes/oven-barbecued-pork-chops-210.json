@@ -53,7 +53,6 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour"
   },
-  "id": 210,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,7 +102,6 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 207,
       "similarity": "0.46"
     },
     {
@@ -177,7 +175,6 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 185,
       "similarity": "0.36"
     },
     {
@@ -227,7 +224,6 @@
         "cookTime": "2 hours 15 minutes",
         "totalTime": "2 hours 35 minutes"
       },
-      "id": 203,
       "similarity": "0.35"
     },
     {
@@ -272,7 +268,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 237,
       "similarity": "0.34"
     },
     {
@@ -329,8 +324,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 163,
       "similarity": "0.34"
     }
-  ]
+  ],
+  "_url": "/recipe/oven-barbecued-pork-chops-210.json"
 }

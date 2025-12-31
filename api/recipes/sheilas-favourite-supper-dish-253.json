@@ -47,7 +47,6 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
   },
-  "id": 253,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -105,7 +104,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 241,
       "similarity": "0.38"
     },
     {
@@ -166,7 +164,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 242,
       "similarity": "0.36"
     },
     {
@@ -220,7 +217,6 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 212,
       "similarity": "0.32"
     },
     {
@@ -294,7 +290,6 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 243,
       "similarity": "0.30"
     },
     {
@@ -345,8 +340,8 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 234,
       "similarity": "0.29"
     }
-  ]
+  ],
+  "_url": "/recipe/sheilas-favourite-supper-dish-253.json"
 }

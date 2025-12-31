@@ -52,7 +52,6 @@
     "cookTime": "30 minutes",
     "totalTime": "40 minutes"
   },
-  "id": 12,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -106,7 +105,6 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 28,
       "similarity": "0.42"
     },
     {
@@ -167,7 +165,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 29,
       "similarity": "0.35"
     },
     {
@@ -231,7 +228,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 11,
       "similarity": "0.33"
     },
     {
@@ -310,7 +306,6 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 21,
       "similarity": "0.33"
     },
     {
@@ -367,8 +362,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 4,
       "similarity": "0.32"
     }
-  ]
+  ],
+  "_url": "/recipe/mexican-fudge-12.json"
 }

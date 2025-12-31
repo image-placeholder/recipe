@@ -54,7 +54,6 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "id": 92,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +117,6 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 73,
       "similarity": "0.42"
     },
     {
@@ -172,7 +170,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 50,
       "similarity": "0.41"
     },
     {
@@ -220,7 +217,6 @@
         "cookTime": "",
         "totalTime": "8 hours 20 minutes"
       },
-      "id": 62,
       "similarity": "0.31"
     },
     {
@@ -282,7 +278,6 @@
         "cookTime": "15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 71,
       "similarity": "0.30"
     },
     {
@@ -332,8 +327,8 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 85,
       "similarity": "0.30"
     }
-  ]
+  ],
+  "_url": "/recipe/taco-salad-92.json"
 }

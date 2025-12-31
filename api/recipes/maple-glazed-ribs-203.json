@@ -45,7 +45,6 @@
     "cookTime": "2 hours 15 minutes",
     "totalTime": "2 hours 35 minutes"
   },
-  "id": 203,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -99,7 +98,6 @@
         "cookTime": "1 hour",
         "totalTime": "24 hours 20 minutes"
       },
-      "id": 208,
       "similarity": "0.39"
     },
     {
@@ -157,7 +155,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "id": 210,
       "similarity": "0.35"
     },
     {
@@ -201,7 +198,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "id": 204,
       "similarity": "0.33"
     },
     {
@@ -246,7 +242,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 237,
       "similarity": "0.32"
     },
     {
@@ -297,8 +292,8 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 207,
       "similarity": "0.31"
     }
-  ]
+  ],
+  "_url": "/recipe/maple-glazed-ribs-203.json"
 }

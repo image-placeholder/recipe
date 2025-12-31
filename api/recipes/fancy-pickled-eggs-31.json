@@ -53,7 +53,6 @@
     "cookTime": "5 minutes",
     "totalTime": "20 minutes"
   },
-  "id": 31,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -105,7 +104,6 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "id": 30,
       "similarity": "0.58"
     },
     {
@@ -173,7 +171,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 41,
       "similarity": "0.29"
     },
     {
@@ -216,7 +213,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 18,
       "similarity": "0.26"
     },
     {
@@ -264,7 +260,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 37,
       "similarity": "0.26"
     },
     {
@@ -328,8 +323,8 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 1,
       "similarity": "0.26"
     }
-  ]
+  ],
+  "_url": "/recipe/fancy-pickled-eggs-31.json"
 }

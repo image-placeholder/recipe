@@ -46,7 +46,6 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "id": 131,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -96,7 +95,6 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 133,
       "similarity": "0.30"
     },
     {
@@ -152,7 +150,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 132,
       "similarity": "0.29"
     },
     {
@@ -241,7 +238,6 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 139,
       "similarity": "0.26"
     },
     {
@@ -306,7 +302,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 137,
       "similarity": "0.25"
     },
     {
@@ -368,8 +363,8 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 143,
       "similarity": "0.25"
     }
-  ]
+  ],
+  "_url": "/recipe/green-beans-and-artichokes-131.json"
 }

@@ -68,7 +68,6 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
-  "id": 201,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -124,7 +123,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 4,
       "similarity": "0.35"
     },
     {
@@ -175,7 +173,6 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
-      "id": 8,
       "similarity": "0.33"
     },
     {
@@ -252,7 +249,6 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "id": 36,
       "similarity": "0.30"
     },
     {
@@ -297,7 +293,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 10,
       "similarity": "0.29"
     },
     {
@@ -347,8 +342,8 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "id": 2,
       "similarity": "0.29"
     }
-  ]
+  ],
+  "_url": "/recipe/veggie-pizza-201.json"
 }

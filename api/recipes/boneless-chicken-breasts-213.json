@@ -47,7 +47,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "id": 213,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -100,7 +99,6 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 212,
       "similarity": "0.60"
     },
     {
@@ -163,7 +161,6 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 224,
       "similarity": "0.41"
     },
     {
@@ -222,7 +219,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 241,
       "similarity": "0.41"
     },
     {
@@ -285,7 +281,6 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 239,
       "similarity": "0.40"
     },
     {
@@ -345,8 +340,8 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 214,
       "similarity": "0.38"
     }
-  ]
+  ],
+  "_url": "/recipe/boneless-chicken-breasts-213.json"
 }

@@ -51,7 +51,6 @@
     "cookTime": "50 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "id": 159,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -139,7 +138,6 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 158,
       "similarity": "0.44"
     },
     {
@@ -206,7 +204,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 180,
       "similarity": "0.44"
     },
     {
@@ -259,7 +256,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 25 minutes"
       },
-      "id": 197,
       "similarity": "0.42"
     },
     {
@@ -310,7 +306,6 @@
         "cookTime": "8 hours",
         "totalTime": "8 hours 20 minutes"
       },
-      "id": 209,
       "similarity": "0.42"
     },
     {
@@ -377,8 +372,8 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "2 hours"
       },
-      "id": 211,
       "similarity": "0.41"
     }
-  ]
+  ],
+  "_url": "/recipe/meat-and-potato-casserole-159.json"
 }

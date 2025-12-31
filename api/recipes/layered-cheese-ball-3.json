@@ -52,7 +52,6 @@
     "cookTime": "",
     "totalTime": null
   },
-  "id": 3,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -101,7 +100,6 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "id": 2,
       "similarity": "0.41"
     },
     {
@@ -160,7 +158,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 7,
       "similarity": "0.37"
     },
     {
@@ -203,7 +200,6 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 14,
       "similarity": "0.35"
     },
     {
@@ -254,7 +250,6 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
-      "id": 8,
       "similarity": "0.31"
     },
     {
@@ -318,8 +313,8 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 1,
       "similarity": "0.31"
     }
-  ]
+  ],
+  "_url": "/recipe/layered-cheese-ball-3.json"
 }

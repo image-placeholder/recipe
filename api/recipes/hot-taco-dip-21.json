@@ -74,7 +74,6 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
-  "id": 21,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -134,7 +133,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 29,
       "similarity": "0.46"
     },
     {
@@ -189,7 +187,6 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 28,
       "similarity": "0.44"
     },
     {
@@ -246,7 +243,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 4,
       "similarity": "0.38"
     },
     {
@@ -303,7 +299,6 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 12,
       "similarity": "0.33"
     },
     {
@@ -367,8 +362,8 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 1,
       "similarity": "0.31"
     }
-  ]
+  ],
+  "_url": "/recipe/hot-taco-dip-21.json"
 }

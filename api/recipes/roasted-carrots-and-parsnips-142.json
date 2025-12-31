@@ -54,7 +54,6 @@
     "cookTime": "50 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "id": 142,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -109,7 +108,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 132,
       "similarity": "0.28"
     },
     {
@@ -175,7 +173,6 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 140,
       "similarity": "0.18"
     },
     {
@@ -226,7 +223,6 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 131,
       "similarity": "0.18"
     },
     {
@@ -277,7 +273,6 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 133,
       "similarity": "0.16"
     },
     {
@@ -333,8 +328,8 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 220,
       "similarity": "0.16"
     }
-  ]
+  ],
+  "_url": "/recipe/roasted-carrots-and-parsnips-142.json"
 }

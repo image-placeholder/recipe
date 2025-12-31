@@ -43,7 +43,6 @@
     "cookTime": "",
     "totalTime": "1 hour 10 minutes"
   },
-  "id": 19,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -94,7 +93,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 17,
       "similarity": "0.61"
     },
     {
@@ -137,7 +135,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 18,
       "similarity": "0.41"
     },
     {
@@ -196,7 +193,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 7,
       "similarity": "0.33"
     },
     {
@@ -246,7 +242,6 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "id": 2,
       "similarity": "0.31"
     },
     {
@@ -310,8 +305,8 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 11,
       "similarity": "0.31"
     }
-  ]
+  ],
+  "_url": "/recipe/yogurt-dip-19.json"
 }

@@ -59,7 +59,6 @@
     "cookTime": null,
     "totalTime": null
   },
-  "id": 11,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,7 +102,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 10,
       "similarity": "0.52"
     },
     {
@@ -143,7 +141,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 20,
       "similarity": "0.42"
     },
     {
@@ -195,7 +192,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 17,
       "similarity": "0.40"
     },
     {
@@ -252,7 +248,6 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "id": 16,
       "similarity": "0.39"
     },
     {
@@ -307,8 +302,8 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 28,
       "similarity": "0.38"
     }
-  ]
+  ],
+  "_url": "/recipe/surprise-spread-11.json"
 }

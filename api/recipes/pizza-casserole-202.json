@@ -67,7 +67,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "id": 202,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -120,7 +119,6 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "id": 187,
       "similarity": "0.37"
     },
     {
@@ -186,7 +184,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 194,
       "similarity": "0.35"
     },
     {
@@ -241,7 +238,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 130,
       "similarity": "0.34"
     },
     {
@@ -302,7 +298,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 192,
       "similarity": "0.34"
     },
     {
@@ -360,8 +355,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 128,
       "similarity": "0.34"
     }
-  ]
+  ],
+  "_url": "/recipe/pizza-casserole-202.json"
 }

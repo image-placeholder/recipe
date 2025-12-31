@@ -48,7 +48,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "id": 25,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -87,7 +86,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 24,
       "similarity": "0.40"
     },
     {
@@ -132,7 +130,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 10,
       "similarity": "0.34"
     },
     {
@@ -181,7 +178,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 9,
       "similarity": "0.33"
     },
     {
@@ -245,7 +241,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 11,
       "similarity": "0.31"
     },
     {
@@ -296,8 +291,8 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
-      "id": 8,
       "similarity": "0.29"
     }
-  ]
+  ],
+  "_url": "/recipe/fluffy-fruit-dip-25.json"
 }

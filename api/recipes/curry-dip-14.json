@@ -38,7 +38,6 @@
     "cookTime": "",
     "totalTime": "1 hour 10 minutes"
   },
-  "id": 14,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -96,7 +95,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 7,
       "similarity": "0.41"
     },
     {
@@ -160,7 +158,6 @@
         "cookTime": "12 minutes",
         "totalTime": "32 minutes"
       },
-      "id": 46,
       "similarity": "0.39"
     },
     {
@@ -217,7 +214,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 4,
       "similarity": "0.37"
     },
     {
@@ -267,7 +263,6 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "id": 2,
       "similarity": "0.36"
     },
     {
@@ -324,8 +319,8 @@
         "cookTime": "",
         "totalTime": null
       },
-      "id": 3,
       "similarity": "0.35"
     }
-  ]
+  ],
+  "_url": "/recipe/curry-dip-14.json"
 }

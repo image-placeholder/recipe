@@ -40,7 +40,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
-  "id": 237,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -91,7 +90,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "id": 222,
       "similarity": "0.49"
     },
     {
@@ -155,7 +153,6 @@
         "cookTime": "35 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 245,
       "similarity": "0.42"
     },
     {
@@ -197,7 +194,6 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 5 minutes"
       },
-      "id": 223,
       "similarity": "0.40"
     },
     {
@@ -271,7 +267,6 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 235,
       "similarity": "0.40"
     },
     {
@@ -355,8 +350,8 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 219,
       "similarity": "0.37"
     }
-  ]
+  ],
+  "_url": "/recipe/chicken-celebrity-237.json"
 }

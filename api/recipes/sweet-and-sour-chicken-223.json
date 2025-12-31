@@ -37,7 +37,6 @@
     "cookTime": "2 hours",
     "totalTime": "2 hours 5 minutes"
   },
-  "id": 223,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -81,7 +80,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 237,
       "similarity": "0.40"
     },
     {
@@ -133,7 +131,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "id": 222,
       "similarity": "0.40"
     },
     {
@@ -196,7 +193,6 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 160,
       "similarity": "0.34"
     },
     {
@@ -247,7 +243,6 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 234,
       "similarity": "0.34"
     },
     {
@@ -308,8 +303,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 30 minutes"
       },
-      "id": 161,
       "similarity": "0.32"
     }
-  ]
+  ],
+  "_url": "/recipe/sweet-and-sour-chicken-223.json"
 }

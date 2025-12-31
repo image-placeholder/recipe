@@ -38,7 +38,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "id": 18,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -85,7 +84,6 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 19,
       "similarity": "0.41"
     },
     {
@@ -130,7 +128,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 10,
       "similarity": "0.38"
     },
     {
@@ -185,7 +182,6 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 39,
       "similarity": "0.37"
     },
     {
@@ -238,7 +234,6 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "id": 30,
       "similarity": "0.36"
     },
     {
@@ -280,8 +275,8 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 15,
       "similarity": "0.35"
     }
-  ]
+  ],
+  "_url": "/recipe/vegetable-dip-18.json"
 }

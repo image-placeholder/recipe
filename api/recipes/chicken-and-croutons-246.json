@@ -77,7 +77,6 @@
     "cookTime": "1 hour 15 minutes",
     "totalTime": "1 hour 35 minutes"
   },
-  "id": 246,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -147,7 +146,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 244,
       "similarity": "0.45"
     },
     {
@@ -217,7 +215,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 178,
       "similarity": "0.37"
     },
     {
@@ -270,7 +267,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 25 minutes"
       },
-      "id": 197,
       "similarity": "0.35"
     },
     {
@@ -323,7 +319,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 172,
       "similarity": "0.32"
     },
     {
@@ -374,8 +369,8 @@
         "cookTime": "8 hours",
         "totalTime": "8 hours 20 minutes"
       },
-      "id": 209,
       "similarity": "0.31"
     }
-  ]
+  ],
+  "_url": "/recipe/chicken-and-croutons-246.json"
 }

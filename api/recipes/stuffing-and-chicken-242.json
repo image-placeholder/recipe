@@ -56,7 +56,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 15 minutes"
   },
-  "id": 242,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -114,7 +113,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 241,
       "similarity": "0.41"
     },
     {
@@ -165,7 +163,6 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 234,
       "similarity": "0.41"
     },
     {
@@ -217,7 +214,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "id": 253,
       "similarity": "0.36"
     },
     {
@@ -291,7 +287,6 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 243,
       "similarity": "0.36"
     },
     {
@@ -347,8 +342,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 231,
       "similarity": "0.32"
     }
-  ]
+  ],
+  "_url": "/recipe/stuffing-and-chicken-242.json"
 }

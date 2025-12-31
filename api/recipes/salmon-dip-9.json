@@ -44,7 +44,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "id": 9,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -88,7 +87,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 10,
       "similarity": "0.41"
     },
     {
@@ -139,7 +137,6 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
-      "id": 8,
       "similarity": "0.40"
     },
     {
@@ -198,7 +195,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 7,
       "similarity": "0.33"
     },
     {
@@ -251,7 +247,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 25,
       "similarity": "0.33"
     },
     {
@@ -315,8 +310,8 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 1,
       "similarity": "0.31"
     }
-  ]
+  ],
+  "_url": "/recipe/salmon-dip-9.json"
 }

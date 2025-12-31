@@ -62,7 +62,6 @@
     "cookTime": "30 minutes",
     "totalTime": "45 minutes"
   },
-  "id": 240,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -130,7 +129,6 @@
         "cookTime": "30 minutes",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 251,
       "similarity": "0.41"
     },
     {
@@ -199,7 +197,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 252,
       "similarity": "0.40"
     },
     {
@@ -266,7 +263,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 30 minutes"
       },
-      "id": 250,
       "similarity": "0.36"
     },
     {
@@ -328,7 +324,6 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 248,
       "similarity": "0.35"
     },
     {
@@ -402,8 +397,8 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 243,
       "similarity": "0.34"
     }
-  ]
+  ],
+  "_url": "/recipe/ken-noodle-supper-240.json"
 }

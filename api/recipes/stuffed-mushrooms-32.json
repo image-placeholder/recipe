@@ -40,7 +40,6 @@
     "cookTime": "30 minutes",
     "totalTime": "45 minutes"
   },
-  "id": 32,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -102,7 +101,6 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "id": 27,
       "similarity": "0.32"
     },
     {
@@ -157,7 +155,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 43,
       "similarity": "0.31"
     },
     {
@@ -208,7 +205,6 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
-      "id": 8,
       "similarity": "0.30"
     },
     {
@@ -258,7 +254,6 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "id": 38,
       "similarity": "0.30"
     },
     {
@@ -335,8 +330,8 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "id": 36,
       "similarity": "0.29"
     }
-  ]
+  ],
+  "_url": "/recipe/stuffed-mushrooms-32.json"
 }

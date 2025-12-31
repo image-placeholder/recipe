@@ -66,7 +66,6 @@
     "cookTime": "15 minutes",
     "totalTime": "35 minutes"
   },
-  "id": 34,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +117,6 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "id": 30,
       "similarity": "0.33"
     },
     {
@@ -161,7 +159,6 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 14,
       "similarity": "0.28"
     },
     {
@@ -204,7 +201,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 18,
       "similarity": "0.25"
     },
     {
@@ -249,7 +245,6 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 32,
       "similarity": "0.24"
     },
     {
@@ -306,8 +301,8 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "id": 16,
       "similarity": "0.23"
     }
-  ]
+  ],
+  "_url": "/recipe/hard-boiled-eggsdevilled-eggs-34.json"
 }

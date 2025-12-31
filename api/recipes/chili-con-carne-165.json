@@ -57,7 +57,6 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "id": 165,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -110,7 +109,6 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "id": 187,
       "similarity": "0.44"
     },
     {
@@ -186,7 +184,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 247,
       "similarity": "0.43"
     },
     {
@@ -243,7 +240,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 163,
       "similarity": "0.39"
     },
     {
@@ -311,7 +307,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 195,
       "similarity": "0.38"
     },
     {
@@ -389,8 +384,8 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 154,
       "similarity": "0.36"
     }
-  ]
+  ],
+  "_url": "/recipe/chili-con-carne-165.json"
 }

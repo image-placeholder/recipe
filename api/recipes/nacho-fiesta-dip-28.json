@@ -50,7 +50,6 @@
     "cookTime": "",
     "totalTime": "1 hour 15 minutes"
   },
-  "id": 28,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -110,7 +109,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 29,
       "similarity": "0.49"
     },
     {
@@ -189,7 +187,6 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 21,
       "similarity": "0.44"
     },
     {
@@ -252,7 +249,6 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "id": 27,
       "similarity": "0.43"
     },
     {
@@ -309,7 +305,6 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 12,
       "similarity": "0.42"
     },
     {
@@ -373,8 +368,8 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 11,
       "similarity": "0.38"
     }
-  ]
+  ],
+  "_url": "/recipe/nacho-fiesta-dip-28.json"
 }

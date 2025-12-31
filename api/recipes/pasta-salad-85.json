@@ -45,7 +45,6 @@
     "cookTime": "10 minutes",
     "totalTime": "30 minutes"
   },
-  "id": 85,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -95,7 +94,6 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "id": 90,
       "similarity": "0.35"
     },
     {
@@ -163,7 +161,6 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "id": 91,
       "similarity": "0.35"
     },
     {
@@ -225,7 +222,6 @@
         "cookTime": "15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 71,
       "similarity": "0.34"
     },
     {
@@ -284,7 +280,6 @@
         "cookTime": "",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 69,
       "similarity": "0.34"
     },
     {
@@ -337,8 +332,8 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 70,
       "similarity": "0.33"
     }
-  ]
+  ],
+  "_url": "/recipe/pasta-salad-85.json"
 }

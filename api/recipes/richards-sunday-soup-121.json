@@ -50,7 +50,6 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
-  "id": 121,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -99,7 +98,6 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "id": 112,
       "similarity": "0.51"
     },
     {
@@ -164,7 +162,6 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 123,
       "similarity": "0.50"
     },
     {
@@ -233,7 +230,6 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 108,
       "similarity": "0.49"
     },
     {
@@ -294,7 +290,6 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 105,
       "similarity": "0.47"
     },
     {
@@ -342,8 +337,8 @@
         "cookTime": "2 hours 30 minutes",
         "totalTime": "2 hours 45 minutes"
       },
-      "id": 126,
       "similarity": "0.43"
     }
-  ]
+  ],
+  "_url": "/recipe/richards-sunday-soup-121.json"
 }

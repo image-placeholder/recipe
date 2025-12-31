@@ -59,7 +59,6 @@
     "cookTime": "28 minutes",
     "totalTime": "43 minutes"
   },
-  "id": 111,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +117,6 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 117,
       "similarity": "0.43"
     },
     {
@@ -183,7 +181,6 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 123,
       "similarity": "0.42"
     },
     {
@@ -235,7 +232,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 120,
       "similarity": "0.35"
     },
     {
@@ -304,7 +300,6 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 108,
       "similarity": "0.33"
     },
     {
@@ -349,8 +344,8 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "id": 109,
       "similarity": "0.33"
     }
-  ]
+  ],
+  "_url": "/recipe/pasta-bean-soup-111.json"
 }

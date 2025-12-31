@@ -58,7 +58,6 @@
     "cookTime": "10 minutes",
     "totalTime": "20 minutes"
   },
-  "id": 27,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -112,7 +111,6 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 28,
       "similarity": "0.43"
     },
     {
@@ -173,7 +171,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 29,
       "similarity": "0.37"
     },
     {
@@ -218,7 +215,6 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 32,
       "similarity": "0.32"
     },
     {
@@ -275,7 +271,6 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 12,
       "similarity": "0.29"
     },
     {
@@ -332,8 +327,8 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "id": 5,
       "similarity": "0.28"
     }
-  ]
+  ],
+  "_url": "/recipe/chili-con-queso-nacho-cheese-dip-27.json"
 }

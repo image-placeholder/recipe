@@ -39,7 +39,6 @@
     "cookTime": null,
     "totalTime": null
   },
-  "id": 80,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -80,7 +79,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 78,
       "similarity": "0.38"
     },
     {
@@ -143,8 +141,8 @@
         "cookTime": "10 minutes",
         "totalTime": "8 hours 30 minutes"
       },
-      "id": 79,
       "similarity": "0.29"
     }
-  ]
+  ],
+  "_url": "/recipe/lemon-salad-80.json"
 }

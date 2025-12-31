@@ -62,7 +62,6 @@
     "cookTime": "20 minutes",
     "totalTime": "40 minutes"
   },
-  "id": 166,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -146,7 +145,6 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 40 minutes"
       },
-      "id": 157,
       "similarity": "0.41"
     },
     {
@@ -220,7 +218,6 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour"
       },
-      "id": 227,
       "similarity": "0.40"
     },
     {
@@ -274,7 +271,6 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "id": 187,
       "similarity": "0.39"
     },
     {
@@ -347,7 +343,6 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 229,
       "similarity": "0.39"
     },
     {
@@ -423,8 +418,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 247,
       "similarity": "0.38"
     }
-  ]
+  ],
+  "_url": "/recipe/noodles-with-hamburg-166.json"
 }

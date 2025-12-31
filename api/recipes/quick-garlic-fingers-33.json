@@ -57,7 +57,6 @@
     "cookTime": "12 minutes 30 seconds",
     "totalTime": "17 minutes 30 seconds"
   },
-  "id": 33,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -120,7 +119,6 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 1,
       "similarity": "0.39"
     },
     {
@@ -177,7 +175,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "id": 5,
       "similarity": "0.34"
     },
     {
@@ -225,7 +222,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 37,
       "similarity": "0.32"
     },
     {
@@ -280,7 +276,6 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 39,
       "similarity": "0.32"
     },
     {
@@ -337,8 +332,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 4,
       "similarity": "0.31"
     }
-  ]
+  ],
+  "_url": "/recipe/quick-garlic-fingers-33.json"
 }

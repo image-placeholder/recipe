@@ -61,7 +61,6 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 50 minutes"
   },
-  "id": 215,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -116,7 +115,6 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 206,
       "similarity": "0.30"
     },
     {
@@ -170,7 +168,6 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "id": 187,
       "similarity": "0.29"
     },
     {
@@ -246,7 +243,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 247,
       "similarity": "0.28"
     },
     {
@@ -307,7 +303,6 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 145,
       "similarity": "0.27"
     },
     {
@@ -365,8 +360,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 230,
       "similarity": "0.26"
     }
-  ]
+  ],
+  "_url": "/recipe/south-african-lamb-215.json"
 }

@@ -48,7 +48,6 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "id": 70,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,7 +102,6 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 82,
       "similarity": "0.35"
     },
     {
@@ -153,7 +151,6 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 85,
       "similarity": "0.33"
     },
     {
@@ -208,7 +205,6 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "id": 81,
       "similarity": "0.32"
     },
     {
@@ -260,7 +256,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 65,
       "similarity": "0.30"
     },
     {
@@ -317,8 +312,8 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "id": 74,
       "similarity": "0.29"
     }
-  ]
+  ],
+  "_url": "/recipe/caribbean-chicken-salad-70.json"
 }

@@ -71,7 +71,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "id": 247,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -132,7 +131,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 165,
       "similarity": "0.43"
     },
     {
@@ -186,7 +184,6 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "id": 187,
       "similarity": "0.41"
     },
     {
@@ -248,7 +245,6 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 248,
       "similarity": "0.40"
     },
     {
@@ -315,7 +311,6 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 166,
       "similarity": "0.38"
     },
     {
@@ -400,8 +395,8 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 40 minutes"
       },
-      "id": 157,
       "similarity": "0.37"
     }
-  ]
+  ],
+  "_url": "/recipe/chili-turkey-247.json"
 }

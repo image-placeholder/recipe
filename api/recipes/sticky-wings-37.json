@@ -43,7 +43,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
-  "id": 37,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -97,7 +96,6 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 39,
       "similarity": "0.38"
     },
     {
@@ -158,7 +156,6 @@
         "cookTime": "30 minutes",
         "totalTime": "8 hours 45 minutes"
       },
-      "id": 40,
       "similarity": "0.36"
     },
     {
@@ -201,7 +198,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 18,
       "similarity": "0.35"
     },
     {
@@ -253,7 +249,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 17,
       "similarity": "0.35"
     },
     {
@@ -321,8 +316,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 41,
       "similarity": "0.33"
     }
-  ]
+  ],
+  "_url": "/recipe/sticky-wings-37.json"
 }

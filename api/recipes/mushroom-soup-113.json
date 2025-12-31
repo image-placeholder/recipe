@@ -52,7 +52,6 @@
     "cookTime": "15 minutes",
     "totalTime": "25 minutes"
   },
-  "id": 113,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -112,7 +111,6 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 105,
       "similarity": "0.44"
     },
     {
@@ -177,7 +175,6 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 123,
       "similarity": "0.44"
     },
     {
@@ -234,7 +231,6 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 114,
       "similarity": "0.43"
     },
     {
@@ -303,7 +299,6 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 108,
       "similarity": "0.42"
     },
     {
@@ -358,8 +353,8 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 125,
       "similarity": "0.42"
     }
-  ]
+  ],
+  "_url": "/recipe/mushroom-soup-113.json"
 }

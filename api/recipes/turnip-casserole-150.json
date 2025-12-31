@@ -60,7 +60,6 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 10 minutes"
   },
-  "id": 150,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -128,7 +127,6 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour"
       },
-      "id": 149,
       "similarity": "0.39"
     },
     {
@@ -202,7 +200,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 168,
       "similarity": "0.35"
     },
     {
@@ -273,7 +270,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 244,
       "similarity": "0.34"
     },
     {
@@ -348,7 +344,6 @@
         "cookTime": "30 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 169,
       "similarity": "0.32"
     },
     {
@@ -404,8 +399,8 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 159,
       "similarity": "0.32"
     }
-  ]
+  ],
+  "_url": "/recipe/turnip-casserole-150.json"
 }

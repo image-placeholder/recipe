@@ -51,7 +51,6 @@
     "cookTime": "10 minutes",
     "totalTime": "20 minutes"
   },
-  "id": 52,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -90,7 +89,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 51,
       "similarity": "0.31"
     },
     {
@@ -134,7 +132,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 54,
       "similarity": "0.24"
     },
     {
@@ -182,7 +179,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 53,
       "similarity": "0.24"
     },
     {
@@ -228,7 +224,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 56,
       "similarity": "0.23"
     },
     {
@@ -273,8 +268,8 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 42,
       "similarity": "0.16"
     }
-  ]
+  ],
+  "_url": "/recipe/wassail-52.json"
 }

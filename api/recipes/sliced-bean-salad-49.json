@@ -49,7 +49,6 @@
     "cookTime": "10 minutes",
     "totalTime": "30 minutes"
   },
-  "id": 49,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +103,6 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 82,
       "similarity": "0.52"
     },
     {
@@ -161,7 +159,6 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "id": 74,
       "similarity": "0.51"
     },
     {
@@ -212,7 +209,6 @@
         "cookTime": "10 minutes",
         "totalTime": "3 hours 25 minutes"
       },
-      "id": 60,
       "similarity": "0.41"
     },
     {
@@ -259,7 +255,6 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "id": 86,
       "similarity": "0.40"
     },
     {
@@ -311,8 +306,8 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 65,
       "similarity": "0.38"
     }
-  ]
+  ],
+  "_url": "/recipe/sliced-bean-salad-49.json"
 }

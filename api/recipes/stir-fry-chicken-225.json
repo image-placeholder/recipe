@@ -57,7 +57,6 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
-  "id": 225,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -130,7 +129,6 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 235,
       "similarity": "0.36"
     },
     {
@@ -184,7 +182,6 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 212,
       "similarity": "0.34"
     },
     {
@@ -245,7 +242,6 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 145,
       "similarity": "0.33"
     },
     {
@@ -304,7 +300,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 241,
       "similarity": "0.33"
     },
     {
@@ -388,8 +383,8 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 219,
       "similarity": "0.31"
     }
-  ]
+  ],
+  "_url": "/recipe/stir-fry-chicken-225.json"
 }

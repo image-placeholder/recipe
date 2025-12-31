@@ -69,7 +69,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "id": 168,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -139,7 +138,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 244,
       "similarity": "0.54"
     },
     {
@@ -209,7 +207,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 178,
       "similarity": "0.51"
     },
     {
@@ -276,7 +273,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 180,
       "similarity": "0.45"
     },
     {
@@ -343,7 +339,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "2 hours"
       },
-      "id": 211,
       "similarity": "0.45"
     },
     {
@@ -432,8 +427,8 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 158,
       "similarity": "0.43"
     }
-  ]
+  ],
+  "_url": "/recipe/beef-and-rice-casserole-168.json"
 }

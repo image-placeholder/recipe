@@ -62,7 +62,6 @@
     "cookTime": "25 minutes",
     "totalTime": "40 minutes"
   },
-  "id": 6,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +117,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "id": 5,
       "similarity": "0.34"
     },
     {
@@ -175,7 +173,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 4,
       "similarity": "0.33"
     },
     {
@@ -224,7 +221,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 9,
       "similarity": "0.29"
     },
     {
@@ -269,7 +265,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 10,
       "similarity": "0.27"
     },
     {
@@ -331,8 +326,8 @@
         "cookTime": "12 minutes 30 seconds",
         "totalTime": "17 minutes 30 seconds"
       },
-      "id": 33,
       "similarity": "0.26"
     }
-  ]
+  ],
+  "_url": "/recipe/chili-brie-in-sourdough-6.json"
 }

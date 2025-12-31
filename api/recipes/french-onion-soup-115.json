@@ -56,7 +56,6 @@
     "cookTime": "2 hours 30 minutes",
     "totalTime": "2 hours 50 minutes"
   },
-  "id": 115,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -124,7 +123,6 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 108,
       "similarity": "0.34"
     },
     {
@@ -185,7 +183,6 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 105,
       "similarity": "0.33"
     },
     {
@@ -250,7 +247,6 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour"
       },
-      "id": 99,
       "similarity": "0.31"
     },
     {
@@ -305,7 +301,6 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 125,
       "similarity": "0.31"
     },
     {
@@ -353,8 +348,8 @@
         "cookTime": "2 hours 30 minutes",
         "totalTime": "2 hours 45 minutes"
       },
-      "id": 126,
       "similarity": "0.30"
     }
-  ]
+  ],
+  "_url": "/recipe/french-onion-soup-115.json"
 }

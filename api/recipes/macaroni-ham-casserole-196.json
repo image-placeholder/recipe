@@ -63,7 +63,6 @@
     "cookTime": "20 minutes",
     "totalTime": "40 minutes"
   },
-  "id": 196,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -133,7 +132,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 244,
       "similarity": "0.46"
     },
     {
@@ -184,7 +182,6 @@
         "cookTime": "8 hours",
         "totalTime": "8 hours 20 minutes"
       },
-      "id": 209,
       "similarity": "0.43"
     },
     {
@@ -253,7 +250,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 175,
       "similarity": "0.41"
     },
     {
@@ -306,7 +302,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 25 minutes"
       },
-      "id": 197,
       "similarity": "0.38"
     },
     {
@@ -376,8 +371,8 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 164,
       "similarity": "0.38"
     }
-  ]
+  ],
+  "_url": "/recipe/macaroni-ham-casserole-196.json"
 }

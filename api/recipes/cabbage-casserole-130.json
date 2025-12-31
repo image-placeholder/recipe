@@ -50,7 +50,6 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 10 minutes"
   },
-  "id": 130,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +103,6 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 129,
       "similarity": "0.43"
     },
     {
@@ -162,7 +160,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 128,
       "similarity": "0.42"
     },
     {
@@ -219,7 +216,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "id": 200,
       "similarity": "0.38"
     },
     {
@@ -291,7 +287,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 202,
       "similarity": "0.34"
     },
     {
@@ -345,8 +340,8 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 212,
       "similarity": "0.32"
     }
-  ]
+  ],
+  "_url": "/recipe/cabbage-casserole-130.json"
 }

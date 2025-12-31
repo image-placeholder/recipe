@@ -35,7 +35,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "id": 24,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -87,7 +86,6 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 25,
       "similarity": "0.40"
     },
     {
@@ -144,7 +142,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "id": 5,
       "similarity": "0.36"
     },
     {
@@ -201,7 +198,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 4,
       "similarity": "0.33"
     },
     {
@@ -241,7 +237,6 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 20,
       "similarity": "0.32"
     },
     {
@@ -296,8 +291,8 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "id": 43,
       "similarity": "0.32"
     }
-  ]
+  ],
+  "_url": "/recipe/fruit-dip-24.json"
 }

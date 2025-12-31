@@ -51,7 +51,6 @@
     "cookTime": "25 minutes",
     "totalTime": "40 minutes"
   },
-  "id": 206,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -101,7 +100,6 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 207,
       "similarity": "0.45"
     },
     {
@@ -156,7 +154,6 @@
         "cookTime": "1 hour",
         "totalTime": "24 hours 20 minutes"
       },
-      "id": 208,
       "similarity": "0.37"
     },
     {
@@ -214,7 +211,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "id": 210,
       "similarity": "0.31"
     },
     {
@@ -280,7 +276,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "id": 215,
       "similarity": "0.30"
     },
     {
@@ -364,8 +359,8 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 219,
       "similarity": "0.29"
     }
-  ]
+  ],
+  "_url": "/recipe/pork-chops-with-dried-fruit-206.json"
 }

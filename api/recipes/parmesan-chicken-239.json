@@ -58,7 +58,6 @@
     "cookTime": "55 minutes",
     "totalTime": "1 hour 10 minutes"
   },
-  "id": 239,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -121,7 +120,6 @@
         "cookTime": "30 minutes",
         "totalTime": "1 hour"
       },
-      "id": 216,
       "similarity": "0.40"
     },
     {
@@ -175,7 +173,6 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 212,
       "similarity": "0.40"
     },
     {
@@ -227,7 +224,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 213,
       "similarity": "0.40"
     },
     {
@@ -288,7 +284,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 192,
       "similarity": "0.38"
     },
     {
@@ -366,8 +361,8 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 154,
       "similarity": "0.37"
     }
-  ]
+  ],
+  "_url": "/recipe/parmesan-chicken-239.json"
 }

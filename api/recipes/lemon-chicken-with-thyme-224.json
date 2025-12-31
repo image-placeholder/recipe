@@ -58,7 +58,6 @@
     "cookTime": "15 minutes",
     "totalTime": "25 minutes"
   },
-  "id": 224,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -109,7 +108,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 213,
       "similarity": "0.41"
     },
     {
@@ -163,7 +161,6 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 212,
       "similarity": "0.39"
     },
     {
@@ -223,7 +220,6 @@
         "cookTime": null,
         "totalTime": null
       },
-      "id": 214,
       "similarity": "0.38"
     },
     {
@@ -297,7 +293,6 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 235,
       "similarity": "0.37"
     },
     {
@@ -371,8 +366,8 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 243,
       "similarity": "0.35"
     }
-  ]
+  ],
+  "_url": "/recipe/lemon-chicken-with-thyme-224.json"
 }

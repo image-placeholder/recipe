@@ -49,7 +49,6 @@
     "cookTime": "2 hours",
     "totalTime": "2 hours 20 minutes"
   },
-  "id": 187,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -106,7 +105,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 188,
       "similarity": "0.45"
     },
     {
@@ -168,7 +166,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 165,
       "similarity": "0.44"
     },
     {
@@ -244,7 +241,6 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 247,
       "similarity": "0.41"
     },
     {
@@ -311,7 +307,6 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 166,
       "similarity": "0.39"
     },
     {
@@ -379,8 +374,8 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 195,
       "similarity": "0.39"
     }
-  ]
+  ],
+  "_url": "/recipe/spaghetti-sauce-187.json"
 }

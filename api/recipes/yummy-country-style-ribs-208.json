@@ -50,7 +50,6 @@
     "cookTime": "1 hour",
     "totalTime": "24 hours 20 minutes"
   },
-  "id": 208,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -99,7 +98,6 @@
         "cookTime": "2 hours 15 minutes",
         "totalTime": "2 hours 35 minutes"
       },
-      "id": 203,
       "similarity": "0.39"
     },
     {
@@ -155,7 +153,6 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 206,
       "similarity": "0.37"
     },
     {
@@ -233,7 +230,6 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 154,
       "similarity": "0.36"
     },
     {
@@ -293,7 +289,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "id": 156,
       "similarity": "0.34"
     },
     {
@@ -350,8 +345,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 163,
       "similarity": "0.33"
     }
-  ]
+  ],
+  "_url": "/recipe/yummy-country-style-ribs-208.json"
 }

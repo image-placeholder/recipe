@@ -80,7 +80,6 @@
     "cookTime": "1 hour 15 minutes",
     "totalTime": "1 hour 40 minutes"
   },
-  "id": 157,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -157,7 +156,6 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 154,
       "similarity": "0.47"
     },
     {
@@ -217,7 +215,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "id": 156,
       "similarity": "0.43"
     },
     {
@@ -263,7 +260,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 153,
       "similarity": "0.43"
     },
     {
@@ -330,7 +326,6 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 166,
       "similarity": "0.41"
     },
     {
@@ -387,8 +382,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 163,
       "similarity": "0.39"
     }
-  ]
+  ],
+  "_url": "/recipe/cheeseburger-meat-loaf-157.json"
 }

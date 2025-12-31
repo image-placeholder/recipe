@@ -41,7 +41,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 15 minutes"
   },
-  "id": 153,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +117,6 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "id": 154,
       "similarity": "0.51"
     },
     {
@@ -203,7 +201,6 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 40 minutes"
       },
-      "id": 157,
       "similarity": "0.43"
     },
     {
@@ -260,7 +257,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 163,
       "similarity": "0.41"
     },
     {
@@ -340,7 +336,6 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "id": 184,
       "similarity": "0.38"
     },
     {
@@ -400,8 +395,8 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "id": 156,
       "similarity": "0.37"
     }
-  ]
+  ],
+  "_url": "/recipe/cheesy-meat-loaf-153.json"
 }

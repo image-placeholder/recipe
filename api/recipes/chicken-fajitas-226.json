@@ -51,7 +51,6 @@
     "cookTime": "15 minutes",
     "totalTime": "25 minutes"
   },
-  "id": 226,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -124,7 +123,6 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour"
       },
-      "id": 227,
       "similarity": "0.39"
     },
     {
@@ -197,7 +195,6 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 229,
       "similarity": "0.38"
     },
     {
@@ -258,7 +255,6 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 145,
       "similarity": "0.32"
     },
     {
@@ -328,7 +324,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "id": 238,
       "similarity": "0.30"
     },
     {
@@ -390,8 +385,8 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 225,
       "similarity": "0.29"
     }
-  ]
+  ],
+  "_url": "/recipe/chicken-fajitas-226.json"
 }

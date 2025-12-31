@@ -63,7 +63,6 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "id": 59,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -115,7 +114,6 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "id": 84,
       "similarity": "0.44"
     },
     {
@@ -187,7 +185,6 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "id": 63,
       "similarity": "0.41"
     },
     {
@@ -246,7 +243,6 @@
         "cookTime": "",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 69,
       "similarity": "0.40"
     },
     {
@@ -303,7 +299,6 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "id": 93,
       "similarity": "0.38"
     },
     {
@@ -354,8 +349,8 @@
         "cookTime": "10 minutes",
         "totalTime": "3 hours 25 minutes"
       },
-      "id": 60,
       "similarity": "0.38"
     }
-  ]
+  ],
+  "_url": "/recipe/caesar-salad-59.json"
 }

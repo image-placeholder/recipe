@@ -51,7 +51,6 @@
     "cookTime": "30 minutes",
     "totalTime": "40 minutes"
   },
-  "id": 205,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -107,7 +106,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "id": 163,
       "similarity": "0.33"
     },
     {
@@ -165,7 +163,6 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "id": 210,
       "similarity": "0.33"
     },
     {
@@ -209,7 +206,6 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "id": 204,
       "similarity": "0.33"
     },
     {
@@ -255,7 +251,6 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "id": 153,
       "similarity": "0.32"
     },
     {
@@ -309,8 +304,8 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 212,
       "similarity": "0.31"
     }
-  ]
+  ],
+  "_url": "/recipe/saucy-sausages-205.json"
 }

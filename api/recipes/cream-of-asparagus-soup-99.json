@@ -60,7 +60,6 @@
     "cookTime": "40 minutes",
     "totalTime": "1 hour"
   },
-  "id": 99,
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -114,7 +113,6 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 125,
       "similarity": "0.45"
     },
     {
@@ -178,7 +176,6 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 118,
       "similarity": "0.45"
     },
     {
@@ -239,7 +236,6 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 105,
       "similarity": "0.44"
     },
     {
@@ -308,7 +304,6 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 108,
       "similarity": "0.43"
     },
     {
@@ -358,8 +353,8 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "id": 112,
       "similarity": "0.42"
     }
-  ]
+  ],
+  "_url": "/recipe/cream-of-asparagus-soup-99.json"
 }
