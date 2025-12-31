@@ -45,7 +45,8 @@ module Jekyll
             "layout"    => "recipe",
             "title"     => data["name"],
             "permalink" => "/recipes/#{unique_slug}/",
-            "slug"      => unique_slug
+            "slug"      => unique_slug,
+            "recipe_schema"      => data
           )
 
           page.content = ""
@@ -98,6 +99,7 @@ module Jekyll
         page.data = {
           "layout" => "recipe-archive",
           "title"  => "Recipes — Page #{page_num}",
+          "type"   => "recipes",
           "paginated_recipes" => slice.map(&:data),
           "pagination" => {
             "current_page" => page_num,
