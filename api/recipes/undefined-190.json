@@ -1,0 +1,419 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Pizza",
+  "author": {
+    "@type": "Person",
+    "name": "Alan Dick"
+  },
+  "description": "A homemade pizza recipe with a yeast-based crust, topped with spaghetti sauce, various meats, and mozzarella cheese.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian-American",
+  "prepTime": "PT1H",
+  "cookTime": "PT20M",
+  "totalTime": "PT1H20M",
+  "recipeYield": "1 pizza",
+  "recipeIngredient": [
+    "1 to 2 Tbsp yeast",
+    "1 tsp sugar",
+    "3½ cups flour",
+    "½ tsp salt",
+    "¾ cup vegetable oil",
+    "1¼ cups warm water",
+    "1¾ cups spaghetti sauce",
+    "Sliced pepperoni",
+    "Salami",
+    "Mushrooms",
+    "Bacon",
+    "Ground beef",
+    "Pineapple",
+    "Mozzarella cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dissolve yeast in warm water with sugar. Let stand in a warm place for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Measure flour and salt into a large bowl. Make a well and pour in the yeast mixture. Stir and add oil gradually, working the dough until thoroughly mixed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Knead the dough, form into a ball, and let stand in a warm place for approximately 45 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roll out the dough on a floured pastry board to an even thickness. Transfer to a pizza pan or cookie sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover with spaghetti sauce, meats, mushrooms, and other toppings. Finish with mozzarella cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for approximately 20 minutes or until the crust is golden brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let stand for 3 to 5 minutes before cutting and serving."
+    }
+  ],
+  "keywords": "homemade pizza, Italian-American, yeast crust",
+  "_naturalized_times": {
+    "prepTime": "1 hour",
+    "cookTime": "20 minutes",
+    "totalTime": "1 hour 20 minutes"
+  },
+  "fileName": "undefined-190.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lasagna",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x13 inch pan",
+      "recipeIngredient": [
+        "1 (15 oz) container cottage cheese",
+        "1 (16 oz) box lasagna noodles",
+        "1½ cups water",
+        "2 (15 oz) jars spaghetti sauce",
+        "8 oz mozzarella cheese, thinly sliced",
+        "½ cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cottage cheese and Parmesan cheese in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread 1½ cups of spaghetti sauce in the bottom of a 13x9x2 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange a layer of uncooked lasagna noodles on top of the sauce, overlapping slightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle half of the mozzarella cheese and half of the cottage cheese mixture over the noodles."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Repeat with another layer of sauce, noodles, and the remaining cheeses."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the top with sauce and cover tightly with heavy foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Set on a jelly roll pan and bake."
+        }
+      ],
+      "keywords": "lasagna, Italian-American, pasta bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 192,
+      "fileName": "undefined-192.json",
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Ann Haist"
+      },
+      "description": "A hearty pizza-inspired casserole with pasta, pepperoni, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeIngredient": [
+        "2 tsp margarine",
+        "2 cups tiny shell pasta",
+        "1 medium onion, chopped",
+        "2 1/2 qt boiling water",
+        "1 Tbsp oil",
+        "2 tsp salt",
+        "2 (7 1/2 oz) cans tomato sauce",
+        "10 oz can mushrooms, drained",
+        "3 Tbsp Parmesan cheese",
+        "1 tsp oregano",
+        "1 tsp basil",
+        "1 1/2 cups pepperoni slices",
+        "3 cups mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine and sauté chopped onion until soft."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomato sauce, mushrooms, oregano, and basil. Stir and remove from heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta in boiling water with oil and salt for 8 to 10 minutes until tender but firm. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked pasta with Parmesan cheese and 1 cup mozzarella cheese in a 3-quart casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scatter pepperoni slices over the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the tomato-onion sauce and sprinkle with remaining mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, in a 350°F oven for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 171,
+      "similarity": "0.37"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A hearty pizza casserole made with spaghetti, hamburger, pepperoni, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x13 inch pan",
+      "recipeIngredient": [
+        "8 or 7 oz spaghetti",
+        "1 lb hamburger",
+        "1/2 cup chopped onion",
+        "2 Tbsp margarine or butter",
+        "2 eggs, beaten",
+        "1/3 cup grated Parmesan cheese",
+        "1 (32 oz) jar spaghetti sauce",
+        "1 pkg (3 oz) pepperoni, sliced",
+        "4 cups diced mozzarella cheese",
+        "1 tsp dried oregano leaves",
+        "1 tsp cooking oil or olive oil",
+        "Salt to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti as per package instructions and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, combine cooked spaghetti, margarine or butter, eggs, and Parmesan cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the spaghetti mixture in a greased 9x13 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown hamburger and onion in a skillet and spoon over the spaghetti mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread spaghetti sauce over the hamburger mixture and cover with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with oregano and drizzle with oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange pepperoni slices on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 350°F oven for 20 to 30 minutes."
+        }
+      ],
+      "keywords": "pizza casserole, spaghetti, hamburger, pepperoni",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 202,
+      "fileName": "undefined-202.json",
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Baked Spaghetti and Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A hearty baked pasta dish featuring meatballs, spaghetti, and a rich tomato-based sauce topped with melted mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT30M",
+      "cookTime": "PT35M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, finely chopped",
+        "1 egg",
+        "3 splashes Worcestershire sauce",
+        "½ tsp black pepper",
+        "28 oz can diced tomatoes",
+        "10 oz can chopped mushrooms",
+        "½ cup chopped green pepper (optional)",
+        "½ tsp oregano",
+        "1 cup sour cream",
+        "Broken spaghetti (4 to 6 servings)",
+        "1½ cups grated mozzarella cheese",
+        "24 oz can spaghetti sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and start boiling water for cooking spaghetti."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, mix ground beef, chopped onion, egg, Worcestershire sauce, and black pepper. Form into meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fry the meatballs in a skillet until completely cooked, turning gently with tongs. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, green pepper, and oregano to the skillet. Simmer for approximately 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti until 'al dente', then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked spaghetti with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the spaghetti mixture into a greased 6-cup casserole dish. Sprinkle with half of the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the sauce and meatball mixture. Bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for an additional 5 to 10 minutes, or until the cheese is melted."
+        }
+      ],
+      "keywords": "baked spaghetti, meatballs, Italian-American casserole",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "id": 176,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "id": 187,
+      "similarity": "0.33"
+    }
+  ],
+  "_url": "/recipe/undefined-190.json"
+}

@@ -1,0 +1,377 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Hot Taco Dip",
+  "author": {
+    "@type": "Person",
+    "name": "Brenda Martene"
+  },
+  "description": "A warm, layered taco dip featuring seasoned ground beef, sour cream, and melted cheddar cheese, served with tortilla chips.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "Mexican-American",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "recipeYield": "1 large serving dish",
+  "recipeIngredient": [
+    "1 lb lean ground beef",
+    "1 package Old El Paso taco seasoning mix",
+    "2 cups grated cheddar cheese",
+    "1 chopped green onion",
+    "1 chopped green pepper",
+    "2 cups sour cream",
+    "1 (optional) 8 oz package Philadelphia cream cheese",
+    "1 jar mild El Paso salsa",
+    "1 bag tortilla chips"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown the ground beef with chopped onion in a frying pan; drain excess fat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add taco seasoning mix to the browned hamburger and prepare according to package directions."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a 13x9x2 inch baking dish, spread the prepared hamburger mixture evenly across the bottom."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the chopped green peppers on top of the hamburger layer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix together the sour cream and cream cheese (if using) until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the sour cream mixture over the top of the green peppers."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread a layer of mild salsa over the sour cream layer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with a layer of grated cheddar cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in a preheated oven at 350°F until heated through.",
+      "temperature": "350°F",
+      "cookMethod": "Bake"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot with tortilla chips."
+    }
+  ],
+  "keywords": "hot taco dip, taco dip, Mexican appetizer, cheesy dip",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "20 minutes",
+    "totalTime": "35 minutes"
+  },
+  "fileName": "undefined-21.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Meghan Brand"
+      },
+      "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 large glass pan",
+      "recipeIngredient": [
+        "8 oz pkg cream cheese",
+        "500 g tub sour cream",
+        "¼ pkg taco seasoning mix",
+        "1 cup shredded cheddar cheese",
+        "1 small container salsa sauce",
+        "1 chopped red pepper",
+        "1 chopped green pepper",
+        "1 chopped tomato",
+        "Baked nacho chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the mixture in a large glass pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread salsa sauce over the cream cheese layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the salsa layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped red pepper, green pepper, and tomato on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with baked nacho chips."
+        }
+      ],
+      "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "id": 29,
+      "fileName": "undefined-29.json",
+      "similarity": "0.46"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Fiesta Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A layered dip featuring cottage cheese, cream cheese, and taco seasoning, topped with lettuce, tomatoes, and cheddar cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "1 large bowl",
+      "recipeIngredient": [
+        "2 cups cottage cheese",
+        "1 pkg taco seasoning",
+        "2 cups cream cheese",
+        "1½ to 2 cups grated cheddar cheese",
+        "½ small head lettuce, shredded",
+        "3 medium tomatoes, diced",
+        "Large bag tortilla chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix cottage cheese, cream cheese, and taco seasoning together in a blender until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the mixture in a large bowl lined with Saran Wrap and refrigerate covered for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the dip from the bowl by tipping it onto a platter or large plate and peeling off the Saran Wrap."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dip with shredded lettuce, then diced tomatoes, and finally grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Surround with tortilla chips and serve."
+        }
+      ],
+      "keywords": "layered dip, nacho fiesta, taco seasoning, cheesy dip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "id": 28,
+      "fileName": "undefined-28.json",
+      "similarity": "0.44"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 4,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Fudge",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A warm, cheesy baked appetizer served on Triscuits.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "1 9×11 in pan",
+      "recipeIngredient": [
+        "2 cups shredded cheddar cheese",
+        "3 eggs, lightly beaten",
+        "½ cup taco or salsa sauce",
+        "2 cups shredded mozzarella cheese",
+        "Triscuits for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease a 9×11 in pan and spread the cheddar cheese evenly on the bottom."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lightly beat the eggs and mix with taco or salsa sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the egg mixture over the cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut into squares while warm and serve on Triscuits."
+        }
+      ],
+      "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 12,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Artichoke Appetizer",
+      "author": {
+        "@type": "Person",
+        "name": "Loma Finkbeiner"
+      },
+      "description": "A warm, cheesy artichoke appetizer perfect for serving with bread or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT25M",
+      "totalTime": "PT35M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 (14 oz) can artichoke hearts",
+        "Dash garlic salt",
+        "1 cup grated Parmesan cheese",
+        "2 Tbsp chopped green onion",
+        "1 cup shredded mozzarella cheese",
+        "1 Tbsp chopped parsley",
+        "1 cup Hellmann's mayonnaise"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain artichoke hearts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine artichoke hearts with cheese, mayonnaise, garlic salt, and green onion in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle parsley over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 25 to 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT25M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with bread or crackers."
+        }
+      ],
+      "keywords": "artichoke appetizer, cheesy dip, party snack",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 1,
+      "similarity": "0.31"
+    }
+  ],
+  "_url": "/recipe/undefined-21.json"
+}

@@ -1,0 +1,409 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Chicken and Cheese Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "June Schroeder"
+  },
+  "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
+  "recipeCategory": "Casserole",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "1 casserole",
+  "recipeIngredient": [
+    "1½ lb diced cooked chicken",
+    "1 medium onion, finely chopped",
+    "2 cups cooked rice",
+    "¼ lb grated cheddar cheese",
+    "½ cup milk",
+    "1 can Campbell's cream of celery soup",
+    "4 Tbsp butter or margarine",
+    "¾ cup crushed corn flakes",
+    "1½ cups chopped celery",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the mixture into a buttered casserole dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook until the celery is hot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the corn flake and celery mixture over the chicken mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in a 375°F oven for about ½ hour.",
+      "cookMethod": "Bake",
+      "tool": "Oven",
+      "temperature": {
+        "@type": "Temperature",
+        "name": "oven",
+        "value": 375,
+        "unitCode": "FAR"
+      },
+      "duration": "PT30M"
+    }
+  ],
+  "keywords": "chicken casserole, cheesy rice bake, comfort food",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "totalTime": "50 minutes"
+  },
+  "fileName": "undefined-244.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef and Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kurtis Brand"
+      },
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
+      "recipeIngredient": [
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Sauté celery and onion in butter until soft and tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place rice in a greased 1½ quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the rice with the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "beef casserole, rice casserole, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 168,
+      "similarity": "0.54"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Macaroni Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A comforting macaroni and meat casserole topped with cheese and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeIngredient": [
+        "2 cups macaroni",
+        "1½ lb hamburger",
+        "1 medium onion, chopped",
+        "½ green pepper, chopped",
+        "1 can stewed tomatoes",
+        "1 can mushrooms",
+        "1 can mushroom soup",
+        "½ cup ketchup",
+        "1 tsp oregano",
+        "1 tsp basil",
+        "½ tsp onion powder",
+        "½ tsp garlic powder",
+        "Dash salt and pepper",
+        "1 to 2 cups grated cheese (e.g., cheddar, mozzarella, Monterey Jack)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the macaroni, drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown hamburger, adding onions, green pepper and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the spices, ketchup and tomatoes. Reduce heat and simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the macaroni and meat mixture in a large casserole dish and mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mushroom soup across the top, covering the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the cheese on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake in 350°F oven for ½ hour."
+        }
+      ],
+      "keywords": "macaroni casserole, cheesy pasta bake, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 175,
+      "similarity": "0.51"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mock Cabbage Rolls",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Betty Macisaac"
+        }
+      ],
+      "description": "A casserole-style dish mimicking cabbage rolls, featuring a savory ground beef and rice mixture layered over shredded cabbage and topped with cheddar cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 large casserole",
+      "recipeIngredient": [
+        "1 lb hamburger",
+        "1 tsp garlic salt",
+        "1 onion, chopped",
+        "1 cup uncooked rice",
+        "Salt and pepper to taste",
+        "1 can tomato soup",
+        "1 can mushrooms, drained",
+        "1 can stewed tomatoes",
+        "1 tsp seasoning salt",
+        "1 cabbage, shredded",
+        "1 tsp onion powder",
+        "2 cups grated cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown hamburger with chopped onion, salt, pepper, mushrooms, seasoning salt, onion powder, and garlic salt in a skillet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add rice, tomatoes, and soup to the browned hamburger mixture; mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shred cabbage and place in the bottom of a large casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the hamburger mixture on top of the cabbage layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake in a preheated 350°F oven for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from oven, sprinkle cheddar cheese on top, cover, and return to oven for an additional 15 to 30 minutes, or until cabbage is cooked and cheese is melted."
+        }
+      ],
+      "keywords": "mock cabbage rolls, casserole, cheesy cabbage",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "id": 164,
+      "similarity": "0.48"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 quart casserole",
+      "recipeIngredient": [
+        "½ lb spaghetti",
+        "½ lb ground beef",
+        "1 can (19 oz) diced tomatoes",
+        "½ cup chopped onion",
+        "1 can (10 oz) condensed cream of mushroom soup",
+        "1½ tsp salt",
+        "¼ tsp pepper",
+        "1 cup grated medium cheddar cheese",
+        "½ tsp garlic",
+        "1 can (10 oz) mushroom pieces, drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef and onion in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti according to package directions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour canned tomatoes over the spaghetti layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the browned meat mixture over the tomatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with cream of mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
+        }
+      ],
+      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 178,
+      "similarity": "0.46"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crunchy Top Ham and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Norma Fahner"
+      },
+      "description": "A hearty ham and potato casserole with a crunchy corn flake topping.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H25M",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "2 lb frozen hash brown potatoes, thawed",
+        "1½ cups shredded cheddar cheese",
+        "1 (10 oz) can cream of chicken soup, undiluted",
+        "½ tsp ground pepper",
+        "⅔ cup chopped green onion",
+        "2 cups cubed, cooked ham",
+        "2 cups sour cream",
+        "Topping: ½ cup butter, melted",
+        "2 cups crushed corn flakes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all casserole ingredients and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the mixture in a 13x9 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine topping ingredients (melted butter and crushed corn flakes) and sprinkle on top of the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "ham and potato casserole, crunchy topping, comforting casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 25 minutes"
+      },
+      "id": 197,
+      "similarity": "0.46"
+    }
+  ],
+  "_url": "/recipe/undefined-244.json"
+}

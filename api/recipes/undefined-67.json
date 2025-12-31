@@ -1,0 +1,327 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cranberry Mold",
+  "author": {
+    "@type": "Person",
+    "name": "Mary Kenney"
+  },
+  "description": "A festive cranberry salad molded with cherry-flavored gelatin, celery, and nuts, perfect as a side dish for turkey.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT2H15M",
+  "recipeYield": "1 1½ quart mold",
+  "recipeIngredient": [
+    "2 (3 oz) packages cherry flavored gelatin",
+    "1 cup boiling water",
+    "1 cup cold water",
+    "1 lb can whole cranberry sauce",
+    "1 cup chopped celery",
+    "½ cup chopped nuts"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dissolve gelatin in boiling water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add cold water and chill until the mixture thickens but is not set."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in cranberry sauce, celery, and nuts."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the mixture into a 1½ quart mold and chill until firm."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Unmold before serving."
+    }
+  ],
+  "keywords": "cranberry mold, gelatin salad, holiday side dish",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "",
+    "totalTime": "2 hours 15 minutes"
+  },
+  "fileName": "undefined-67.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cottage Cheese Jellied Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 oz package orange or lemon flavored gelatin",
+        "1 cup boiling water",
+        "1 cup drained crushed pineapple",
+        "½ cup chopped walnuts (optional)",
+        "½ cup mayonnaise",
+        "1 cup cottage cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve gelatin in boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise and whisk to blend."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until the mixture starts to set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
+        }
+      ],
+      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "id": 66,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sauerkraut Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the dressing cool to room temperature."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the cooled dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+        }
+      ],
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 82,
+      "fileName": "undefined-82.json",
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Van Valkengoed"
+      },
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta according to package instructions, then drain and cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the feta cheese into the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+        }
+      ],
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 85,
+      "fileName": "undefined-85.json",
+      "similarity": "0.28"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chinese Rice Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A flavorful salad made with Minute Rice, frozen peas, chopped celery, and a savory dressing, optionally garnished with chow mein noodles and shrimp.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeIngredient": [
+        "1⅓ cups cooked Minute Rice",
+        "1 (10 oz) package frozen peas",
+        "1½ cups chopped celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "1 Tbsp soy sauce",
+        "3 tsp malt vinegar",
+        "2 tsp curry powder",
+        "½ tsp sugar",
+        "Dressing: ½ cup oil",
+        "Chow mein noodles for garnish (optional)",
+        "1 can drained shrimp (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked rice, frozen peas, chopped celery, and onion in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the dressing ingredients (oil, soy sauce, malt vinegar, curry powder, salt, and sugar)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the rice mixture and toss to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with chow mein noodles and/or add drained shrimp if desired."
+        }
+      ],
+      "keywords": "Chinese rice salad, savory salad, Minute Rice",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "id": 81,
+      "fileName": "undefined-81.json",
+      "similarity": "0.28"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Freezer Cole Slaw",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A freezer coleslaw recipe with a sweet and tangy dressing, made with grated cabbage and optional vegetables.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 large cabbage, grated or chopped",
+        "1 large carrot, grated (optional)",
+        "1 onion, grated (optional)",
+        "1 cup white sugar",
+        "1 cup white vinegar",
+        "1 Tbsp salt",
+        "1 Tbsp celery seed",
+        "1 tsp mustard (optional)",
+        "¼ cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat together vinegar, sugar, salt, water, celery seed, and mustard to make the syrup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Grate or chop cabbage and other vegetables in a food processor."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the cabbage mixture with the syrup and refrigerate overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place in a container, seal, and freeze."
+        }
+      ],
+      "keywords": "freezer coleslaw, slaw, salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 58,
+      "similarity": "0.27"
+    }
+  ],
+  "_url": "/recipe/undefined-67.json"
+}

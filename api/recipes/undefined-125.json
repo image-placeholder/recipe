@@ -1,0 +1,352 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Potato Soup",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Ratz"
+  },
+  "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT20M",
+  "totalTime": "PT40M",
+  "recipeYield": "8-10 servings",
+  "recipeIngredient": [
+    "6 diced and peeled potatoes",
+    "2 diced and peeled carrots",
+    "1 chopped onion",
+    "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
+    "6 Tbsp butter",
+    "6 Tbsp flour",
+    "Sour cream (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Microwave onions and butter until soft, about 2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cooked onion and butter mixture to the vegetables and stir."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add more water (up to 1 more cup) to achieve desired consistency."
+    }
+  ],
+  "keywords": "potato soup, creamy soup, comfort food",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "20 minutes",
+    "totalTime": "40 minutes"
+  },
+  "fileName": "undefined-125.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Microwave Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Martene"
+      },
+      "description": "A creamy corn chowder made in the microwave with potatoes, carrots, celery, and cheddar cheese.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "2 cups water",
+        "¼ cup butter or margarine",
+        "2 cups diced peeled potatoes",
+        "¼ cup all-purpose flour",
+        "2 cups milk",
+        "½ cup sliced carrots",
+        "½ cup sliced celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "3 cups (12 oz) shredded cheddar cheese",
+        "2 cans (14¾ oz each) cream style corn"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place water in a 2-quart microwave-safe dish; cover and heat until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add potatoes, carrots, celery, onion, salt, and pepper. Cook, uncovered, on high for 8 to 10 minutes or until vegetables are crisp-tender; set aside (do not drain)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a 3-quart dish, microwave butter on high for 50 to 60 seconds or until melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour until smooth. Gradually stir in milk. Cook, uncovered, on high for 6 to 7 minutes or until thickened, stirring every 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cheese. Heat for 1 to 1½ minutes or until the cheese is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in corn and reserved vegetables. Cook on high for 2 to 3 minutes or until heated through."
+        }
+      ],
+      "keywords": "microwave corn chowder, creamy soup, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 118,
+      "similarity": "0.48"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
+        }
+      ],
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 112,
+      "similarity": "0.46"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cream of Asparagus Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A creamy and smooth asparagus soup made with canned asparagus, perfect for serving year-round with optional fresh garnishes.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT40M",
+      "totalTime": "PT1H",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 medium onions, chopped",
+        "6 chicken bouillon cubes",
+        "2 (12 oz) cans asparagus tips or cuttings",
+        "4 celery sticks, chopped",
+        "¼ cup (125 mL) butter",
+        "6 Tbsp (90 mL) flour",
+        "1 cup (250 mL) whipping cream",
+        "6 cups (1½ L) water",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Chop onions and celery medium fine and sauté in butter until limp but not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add chicken stock (dissolve bouillon cubes in water) and stir until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, then add canned asparagus including liquid and simmer for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the soup in a blender and press through a sieve for a smooth texture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, bring soup to a boil, remove from heat, and stir in whipping cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season to taste and keep warm over low heat without boiling."
+        }
+      ],
+      "keywords": "asparagus soup, creamy soup, canned asparagus",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "40 minutes",
+        "totalTime": "1 hour"
+      },
+      "id": 99,
+      "similarity": "0.45"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheesy Ham Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A creamy, cheesy ham chowder with potatoes, carrots, and corn, finished with crispy bacon.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT40M",
+      "totalTime": "PT1H",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "10 strips bacon, diced",
+        "1 large onion, chopped",
+        "2 tsp chicken bouillon granules",
+        "1 cup diced carrots",
+        "3 Tbsp all-purpose flour",
+        "3 cups (12 oz) shredded cheddar cheese",
+        "3 cups milk",
+        "1½ cups water",
+        "2 cups fully cooked, cubed ham",
+        "2½ cups cubed potatoes",
+        "1 can (15 oz) corn, drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large soup kettle or Dutch oven, cook the bacon over medium heat until crisp. Remove to paper towels to drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the bacon drippings, sauté the chopped onion until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the flour until blended. Gradually add the milk and water, bringing to a boil. Cook and stir for 2 minutes or until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the potatoes, corn, bouillon granules, and pepper. Reduce heat and simmer, uncovered, for 20 minutes or until potatoes are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the shredded cheese and cubed ham; heat until cheese is melted. Stir in the cooked bacon."
+        }
+      ],
+      "keywords": "ham chowder, cheesy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "40 minutes",
+        "totalTime": "1 hour"
+      },
+      "id": 116,
+      "similarity": "0.43"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mushroom Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp butter",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 cups sliced mushrooms",
+        "1/4 cup flour",
+        "2 cups stock (chicken or vegetable)",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "3 cups milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute butter, onion, garlic and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, sauces and milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until heated through (approximately 15 minutes)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "mushroom soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 113,
+      "similarity": "0.42"
+    }
+  ],
+  "_url": "/recipe/undefined-125.json"
+}

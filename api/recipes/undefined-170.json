@@ -1,0 +1,397 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Shepherd's Pie",
+  "author": {
+    "@type": "Person",
+    "name": "Dave MacLeod"
+  },
+  "description": "A classic shepherd's pie made with ground beef, mixed vegetables, and topped with mashed potatoes.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT20M",
+  "totalTime": "PT40M",
+  "recipeYield": "6 servings",
+  "recipeIngredient": [
+    "1 can (10 oz/284 mL) beef broth",
+    "1 lb (454 g) lean ground beef",
+    "1 beef cube (Oxo)",
+    "1/2 tsp salt",
+    "3/4 tsp black pepper",
+    "1 pouch onion soup mix",
+    "1 cup (250 mL) frozen mixed vegetables",
+    "2 cups (500 mL) mashed potatoes",
+    "Paprika (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown the ground beef in an electric skillet. Drain excess fat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add onion soup mix, frozen vegetables, beef cube, salt, and pepper. Simmer for approximately 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the mixture into a 6-cup (1.5 L) casserole dish or square baking dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with mashed potatoes and sprinkle with paprika if desired."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 400°F for 15 to 20 minutes, until the potatoes are firm and golden brown.",
+      "cookMethod": "Bake",
+      "tool": "Oven",
+      "temperature": {
+        "@type": "Temperature",
+        "name": "oven",
+        "value": 400,
+        "unitCode": "FAR"
+      },
+      "duration": "PT15M"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let stand for 5 minutes before serving."
+    }
+  ],
+  "keywords": "shepherd's pie, ground beef, mashed potatoes, casserole",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "20 minutes",
+    "totalTime": "40 minutes"
+  },
+  "fileName": "undefined-170.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Twist Bake",
+      "author": {
+        "@type": "Person",
+        "name": "Cheryl MacLeod"
+      },
+      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, chopped",
+        "1 can (284 mL) mushrooms, chopped",
+        "1 envelope taco seasoning mix",
+        "¾ cup water",
+        "1 can (680 mL) spaghetti sauce",
+        "¼ cup salsa (optional)",
+        "1 green pepper, chopped (optional)",
+        "2 cups spiral pasta",
+        "1 cup sour cream",
+        "1½ cups shredded cheddar cheese",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and start water to cook for pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the spiral pasta, then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine pasta with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
+        }
+      ],
+      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 184,
+      "fileName": "undefined-184.json",
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Con Carne",
+      "author": {
+        "@type": "Person",
+        "name": "Shannon Wuerth"
+      },
+      "description": "A hearty and versatile chili recipe featuring ground beef, kidney beans, and a variety of vegetables, ideal for customization.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 servings, 9 cups (2.25 L)",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "1 can (28 oz) tomatoes",
+        "1 cup chopped onion",
+        "1 can (7.5 oz) tomato sauce",
+        "1 clove garlic, crushed",
+        "1 can (19 oz) kidney beans, drained",
+        "3 cups finely shredded cabbage",
+        "1 Tbsp chili powder",
+        "2 cups thinly sliced celery",
+        "1 tsp dried oregano",
+        "1/2 cup chopped green pepper",
+        "1/2 tsp salt",
+        "1/4 tsp hot pepper sauce",
+        "Optional: additional vegetables like zucchini, carrots, mushrooms"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large nonstick skillet, cook ground beef over medium-high heat until browned and crumbly; drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion and garlic to the skillet and cook for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cabbage, celery, green pepper, tomatoes with juice, tomato sauce, kidney beans, chili powder, oregano, salt, and hot pepper sauce to the skillet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Optionally add other desired vegetables (e.g., zucchini, carrots, mushrooms) at this stage."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and simmer over medium heat for 45 minutes, or until vegetables are tender, stirring occasionally."
+        }
+      ],
+      "keywords": "chili con carne, ground beef chili, customizable chili",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "id": 165,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 163,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sloppy Joe Squares",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "1 small onion, minced",
+        "1/2 tsp Worcestershire sauce",
+        "3/4 cup ketchup",
+        "1 tsp salt",
+        "1/2 tsp pepper",
+        "1/4 tsp chili powder",
+        "2 Tbsp flour",
+        "2 packages Pillsbury crescent dinner rolls",
+        "Mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend in flour to thicken the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the beef mixture evenly over the layer of rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the beef mixture with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F until the crescent rolls are browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with a salad."
+        }
+      ],
+      "keywords": "sloppy joe, casserole, crescent rolls, beef",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "id": 185,
+      "fileName": "undefined-185.json",
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stewing Beef Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kelly Haines"
+      },
+      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 lb stewing beef",
+        "1 tsp salt",
+        "Dash pepper",
+        "1¼ cups diced potatoes",
+        "1¼ cups diced carrots",
+        "1 tsp sugar",
+        "2 Tbsp Minit Tapioca",
+        "½ cup diced onions",
+        "1 cup V8 juice",
+        "½ cup diced celery"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients lightly in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 250°F for 4 hours without uncovering."
+        }
+      ],
+      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "id": 155,
+      "similarity": "0.34"
+    }
+  ],
+  "_url": "/recipe/undefined-170.json"
+}

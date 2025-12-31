@@ -1,0 +1,283 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Punch",
+  "author": {
+    "@type": "Person",
+    "name": "June Schroeder"
+  },
+  "description": "A refreshing fruit punch made with grape juice, orange juice, ginger ale, and lemon-lime soda.",
+  "recipeCategory": "Beverage",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "1 cup frozen grape juice concentrate",
+    "2 (6 oz) cans frozen orange juice concentrate",
+    "1 qt ginger ale",
+    "1 (12 oz) can frozen pink lemonade concentrate",
+    "1 cup sugar",
+    "12 cups water",
+    "Soda water",
+    "Ice cubes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix the first 5 ingredients in a large bowl or punch bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the remaining ingredients just before serving."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir well and serve chilled."
+    }
+  ],
+  "keywords": "fruit punch, party drink, refreshing beverage",
+  "_naturalized_times": {
+    "prepTime": "10 minutes",
+    "cookTime": "",
+    "totalTime": "10 minutes"
+  },
+  "fileName": "undefined-53.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Perfect Punch",
+      "author": {
+        "@type": "Person",
+        "name": "Julie-Ann Bibby"
+      },
+      "description": "A fruity and bubbly punch made with orange juice, lemonade, and raspberry sherbet.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "Serves 14 people",
+      "recipeIngredient": [
+        "3 L lemon-lime carbonated beverage",
+        "1 can frozen orange juice concentrate",
+        "1 can frozen lemonade concentrate",
+        "1 qt raspberry sherbet"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the liquid drinks in a punch bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the raspberry sherbet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve chilled and enjoy."
+        }
+      ],
+      "keywords": "party punch, fruity drink, sherbet punch",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 54,
+      "fileName": "undefined-54.json",
+      "similarity": "0.51"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange Julius Drink",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A creamy and refreshing orange drink made with frozen orange juice concentrate, milk, and vanilla.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "About 5 cups",
+      "recipeIngredient": [
+        "3/4 cup frozen concentrated orange juice",
+        "2 Tbsp white sugar",
+        "2 tsp vanilla",
+        "1 cup milk",
+        "1 cup water",
+        "12 ice cubes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend the orange juice concentrate, sugar, vanilla, milk, and water in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ice cubes just before serving and blend until the ice is fully incorporated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately and enjoy."
+        }
+      ],
+      "keywords": "orange drink, creamy beverage, frozen orange juice",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 56,
+      "fileName": "undefined-56.json",
+      "similarity": "0.50"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Jo-Ann's Homemade Iced Tea",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A refreshing homemade iced tea recipe sweetened with sugar and mixed with frozen lemonade for a tangy twist.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 large container",
+      "recipeIngredient": [
+        "1 brewed pot of tea (made with 4 tea bags)",
+        "1 cup sugar",
+        "1 container frozen lemonade",
+        "Water",
+        "Ice cubes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine brewed tea, sugar, and frozen lemonade in a large container."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cold water to taste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with ice cubes."
+        }
+      ],
+      "keywords": "homemade iced tea, sweet tea, lemonade-infused tea, refreshing drink",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 42,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Breakfast Orange Smoothie",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A refreshing and healthy orange smoothie made with milk, banana, and a touch of silken tofu for creaminess.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "¼ cup (or more) orange juice",
+        "1½ cups (more or less) milk or soy milk",
+        "1 banana, frozen",
+        "2 Tbsp silken tofu (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour into a tall glass and serve immediately."
+        }
+      ],
+      "keywords": "orange smoothie, breakfast drink, healthy beverage",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 51,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Wassail",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A warm and spicy apple cider drink perfect for the holiday season, flavored with lemon, cinnamon, and pineapple juice.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 cups apple cider or juice",
+        "1 tsp grated lemon peel",
+        "1 cinnamon stick",
+        "¼ tsp nutmeg",
+        "2¼ cups unsweetened pineapple juice",
+        "3 Tbsp lemon juice",
+        "¼ cup honey",
+        "Cinnamon sticks for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, heat the apple cider and cinnamon stick to boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat, cover, and simmer for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in nutmeg, honey, lemon juice, lemon peel, and pineapple juice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer, uncovered, for an additional 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot in mugs and garnish with cinnamon sticks."
+        }
+      ],
+      "keywords": "wassail, apple cider drink, holiday beverage, spiced drink",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 52,
+      "similarity": "0.24"
+    }
+  ],
+  "_url": "/recipe/undefined-53.json"
+}

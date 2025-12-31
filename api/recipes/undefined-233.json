@@ -1,0 +1,339 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Sticky Chicken",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Meghan Brand"
+    },
+    {
+      "@type": "Person",
+      "name": "Kurtis Brand"
+    }
+  ],
+  "description": "A sweet and savory chicken dish baked in a sticky sauce with pineapple and mushrooms.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT1H",
+  "totalTime": "PT1H20M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "3 lb chicken, cut up",
+    "1 cup liquid (water + pineapple juice)",
+    "½ cup flour",
+    "¾ cup brown sugar",
+    "¼ tsp paprika",
+    "1 tsp Worcestershire sauce",
+    "1 tsp ground ginger",
+    "¼ cup soya sauce",
+    "1 tsp garlic powder",
+    "1 can drained mushrooms",
+    "28 oz can pineapple tidbits"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Shake chicken pieces in a bag with flour, paprika, ginger, and garlic powder to coat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine pineapple juice and water to make 1 cup. Add brown sugar, Worcestershire sauce, soya sauce, and drained mushrooms. Mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the coated chicken in a pan, skin side down. Pour the sauce over the chicken."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F, uncovered, for 1 hour. Baste often and turn the chicken at 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "During the last 5 minutes, add drained pineapple tidbits and an additional can of drained mushrooms."
+    }
+  ],
+  "keywords": "sticky chicken, baked chicken, pineapple chicken",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "1 hour",
+    "totalTime": "1 hour 20 minutes"
+  },
+  "fileName": "undefined-233.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 163,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "2 Tbsp chopped onion",
+        "½ cup cracker crumbs",
+        "1 Tbsp crushed garlic",
+        "¼ tsp pepper",
+        "1 egg",
+        "1½ tsp soya sauce",
+        "⅔ cup milk",
+        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Broil to brown on all sides, watching carefully."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 30 minutes"
+      },
+      "id": 161,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Pineapple Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
+        "½ cup vinegar",
+        "2 Tbsp light brown sugar",
+        "½ tsp salt",
+        "¼ to ½ cup ketchup",
+        "¼ cup water",
+        "4 chicken breasts",
+        "1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
+        }
+      ],
+      "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "id": 222,
+      "similarity": "0.37"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spareribs to Go",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A versatile spareribs recipe that can be broiled or heated in a glaze sauce, perfect for make-ahead meals.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeIngredient": [
+        "3 to 4 lb spareribs",
+        "1 cup ketchup",
+        "¼ cup soya sauce",
+        "Glaze: 4 crushed garlic cloves",
+        "½ cup honey"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil spareribs, cut into serving pieces, in salted water for 1½ hours. Drain and place in a shallow dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the glaze mixture (garlic and honey) over the ribs. May be frozen for later use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To finish, remove ribs from the glaze and broil 6 inches from heat in the oven or barbecue until crisp. Alternatively, baste ribs and heat in the sauce."
+        }
+      ],
+      "keywords": "spareribs, garlic honey glaze, make-ahead ribs",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "id": 204,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Hawaiian",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Hawaiian",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1 can (10 oz/284 mL) chicken broth",
+        "1 Bake 'N Shake pouch",
+        "4 to 5 boneless chicken breasts",
+        "1 can (14 oz/398 mL) pineapple tidbits with juice",
+        "1 tsp ground ginger",
+        "1 garlic clove"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine rice, chicken broth, and contents of Bake 'N Shake pouch as directed on the package."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken breasts in a single layer in a 9x13 inch (2.5 L) casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Coat chicken with a mixture of ground ginger and garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top chicken with pineapple tidbits and juice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the prepared rice mixture over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake uncovered at 375°F (180°C) for 30 minutes."
+        }
+      ],
+      "keywords": "Hawaiian chicken, pineapple chicken, baked chicken and rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 232,
+      "similarity": "0.33"
+    }
+  ],
+  "_url": "/recipe/undefined-233.json"
+}

@@ -1,0 +1,406 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Chicken-Pineapple Stir-Fry",
+  "author": {
+    "@type": "Person",
+    "name": "Louise Wein"
+  },
+  "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Asian-inspired",
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "12 oz deboned chicken breast",
+    "2 tsp cornstarch",
+    "1 onion, chopped",
+    "¼ tsp cinnamon",
+    "1 cup diced celery",
+    "1½ tsp soya sauce",
+    "1 cup green pepper strips",
+    "2 tsp margarine",
+    "2 cups pineapple chunks (with juice reserved)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Reduce heat and cook until the sauce is clear and thickened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the stir-fry over hot rice."
+    }
+  ],
+  "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
+  "_naturalized_times": {
+    "prepTime": "10 minutes",
+    "cookTime": "5 minutes",
+    "totalTime": "15 minutes"
+  },
+  "fileName": "undefined-221.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stir-Fry Beef",
+      "author": {
+        "@type": "Person",
+        "name": "Donise Baker (Dundas)"
+      },
+      "description": "A quick and flavorful beef stir-fry with vegetables and a savory sauce, served over cooked rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 can tomato soup",
+        "2 Tbsp vegetable oil",
+        "½ cup orange juice",
+        "2 lb boneless beef sirloin, cut into pieces",
+        "4 Tbsp soya sauce",
+        "1 large green pepper, cut into strips",
+        "2 Tbsp vinegar",
+        "8 cups cooked rice",
+        "1 large onion, sliced"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat vegetable oil in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add beef and stir-fry until cooked through. Set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add peppers and onion to the pan and stir-fry until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the mixture of tomato soup, soya sauce, orange juice, and vinegar. Cook until heated through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return beef to the pan and heat through, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the beef mixture over cooked rice."
+        }
+      ],
+      "keywords": "beef stir-fry, Asian-inspired, quick dinner",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 145,
+      "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey A La King",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅓ cup butter",
+        "1 tsp salt",
+        "¼ lb mushrooms, sliced",
+        "1 cup chicken broth",
+        "¼ cup chopped onion",
+        "1 cup milk",
+        "2 cups cooked diced turkey",
+        "¼ cup chopped celery",
+        "¼ cup chopped green pepper",
+        "¼ cup flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over hot toast, biscuits, or rice."
+        }
+      ],
+      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 248,
+      "fileName": "undefined-248.json",
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey or Chicken Pies",
+      "author": {
+        "@type": "Person",
+        "name": "Shirley Preszcator"
+      },
+      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT45M",
+      "cookTime": "PT30M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "Multiple individual pies or 1 large pie",
+      "recipeIngredient": [
+        "½ cup margarine",
+        "1 tsp salt",
+        "1 Tbsp onion, chopped",
+        "1 cup flour",
+        "¼ tsp salt",
+        "1½ tsp baking powder",
+        "3 cups chicken or turkey broth",
+        "3 Tbsp butter",
+        "3 cups diced turkey or chicken",
+        "1 cup frozen peas",
+        "1 cup diced carrots",
+        "½ cup celery, chopped",
+        "⅓ cup milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté chopped onion and celery until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil carrots until thoroughly cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cooked carrots with peas and the sauce made earlier."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the crust is golden brown."
+        }
+      ],
+      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
+      "_naturalized_times": {
+        "prepTime": "45 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "id": 251,
+      "fileName": "undefined-251.json",
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "2 Tbsp chopped onion",
+        "½ cup cracker crumbs",
+        "1 Tbsp crushed garlic",
+        "¼ tsp pepper",
+        "1 egg",
+        "1½ tsp soya sauce",
+        "⅔ cup milk",
+        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Broil to brown on all sides, watching carefully."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 30 minutes"
+      },
+      "id": 161,
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet and Sour Pineapple with Chicken and Ginger",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A classic sweet and sour dish featuring parboiled chicken legs in a tangy pineapple and ginger sauce, served over fried rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-Canadian",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "4 to 6 chicken legs",
+        "1 to 2 tsp ginger",
+        "1 Tbsp vegetable oil",
+        "1/2 cup chopped onions",
+        "1 tsp salt",
+        "1/4 cup sugar (white or brown)",
+        "1 cup celery slices",
+        "1/4 cup vinegar",
+        "1 can (10 oz) mushrooms, drained",
+        "1 chicken Oxo cube or pouch",
+        "1 1/2 cups hot water",
+        "1 can (19 oz) pineapple",
+        "1/4 cup cold water",
+        "4 tsp cornstarch",
+        "1/4 cup soya sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Rinse and separate chicken legs at the joint. Parboil for 15 to 20 minutes to remove excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Saute onions and celery in vegetable oil until tender. Add drained mushrooms and cook briefly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve chicken Oxo cube in hot water. Add soya sauce, ginger, salt, sugar, and vinegar. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cornstarch with cold water until smooth. Pour into boiling sauce and stir frequently until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add drained pineapple to the sauce. Adjust seasoning with pineapple juice if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lay parboiled chicken pieces in a greased casserole dish. Pour sauce over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 20 to 25 minutes until bubbling.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT20M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over Chicken Vegetable Fried Rice."
+        }
+      ],
+      "keywords": "sweet and sour chicken, pineapple chicken, ginger sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "id": 219,
+      "similarity": "0.32"
+    }
+  ],
+  "_url": "/recipe/undefined-221.json"
+}

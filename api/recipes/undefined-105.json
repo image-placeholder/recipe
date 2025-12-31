@@ -1,0 +1,361 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cheese & Broccoli Soup",
+  "author": {
+    "@type": "Person",
+    "name": "Jeff Slaght"
+  },
+  "description": "A creamy broccoli and cheese soup with a smooth texture.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "½ tsp pepper",
+    "2 Tbsp butter",
+    "Salt to taste",
+    "1 chopped onion",
+    "1½ cups milk",
+    "2 Tbsp all-purpose flour",
+    "½ cup grated cheese",
+    "½ cup chicken broth",
+    "3 cups cooked broccoli (fresh or partially aged)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add flour mixture and cook for 3 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Puree the mixture until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat with milk, cheese, and seasonings."
+    }
+  ],
+  "keywords": "broccoli soup, cheese soup, creamy soup",
+  "_naturalized_times": {
+    "prepTime": "10 minutes",
+    "cookTime": "20 minutes",
+    "totalTime": "30 minutes"
+  },
+  "fileName": "undefined-105.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
+        }
+      ],
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 112,
+      "fileName": "undefined-112.json",
+      "similarity": "0.54"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Microwave Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Martene"
+      },
+      "description": "A creamy corn chowder made in the microwave with potatoes, carrots, celery, and cheddar cheese.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "2 cups water",
+        "¼ cup butter or margarine",
+        "2 cups diced peeled potatoes",
+        "¼ cup all-purpose flour",
+        "2 cups milk",
+        "½ cup sliced carrots",
+        "½ cup sliced celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "3 cups (12 oz) shredded cheddar cheese",
+        "2 cans (14¾ oz each) cream style corn"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place water in a 2-quart microwave-safe dish; cover and heat until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add potatoes, carrots, celery, onion, salt, and pepper. Cook, uncovered, on high for 8 to 10 minutes or until vegetables are crisp-tender; set aside (do not drain)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a 3-quart dish, microwave butter on high for 50 to 60 seconds or until melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour until smooth. Gradually stir in milk. Cook, uncovered, on high for 6 to 7 minutes or until thickened, stirring every 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cheese. Heat for 1 to 1½ minutes or until the cheese is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in corn and reserved vegetables. Cook on high for 2 to 3 minutes or until heated through."
+        }
+      ],
+      "keywords": "microwave corn chowder, creamy soup, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 118,
+      "fileName": "undefined-118.json",
+      "similarity": "0.51"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Nola Ratz"
+      },
+      "description": "A creamy corn chowder with bacon, potatoes, and a touch of milk.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 cups hot chicken stock",
+        "6 slices lean bacon",
+        "½ cup sliced onions",
+        "3 cups finely diced potatoes",
+        "½ cup chopped celery",
+        "1½ cups frozen or fresh corn kernels",
+        "1 Tbsp flour",
+        "¾ tsp salt",
+        "2½ cups milk",
+        "Pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Chop bacon and sauté in a large heavy pot with onions for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add celery and cook until onions are transparent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, and pepper. Cook for 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually blend in hot stock, then add potatoes. Cover and simmer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add corn and simmer for another 10 minutes, or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scald milk and add to soup for desired consistency."
+        }
+      ],
+      "keywords": "corn chowder, creamy soup, bacon soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 107,
+      "fileName": "undefined-107.json",
+      "similarity": "0.51"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Nola Ratz"
+      },
+      "description": "A creamy corn chowder with bacon, potatoes, and celery.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 cups hot chicken stock",
+        "6 slices lean bacon",
+        "1 cup sliced onions",
+        "3 cups finely diced potatoes",
+        "½ cup chopped celery",
+        "1½ cups frozen or fresh corn kernels",
+        "1 Tbsp flour",
+        "¾ tsp salt",
+        "2½ cups milk",
+        "Pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Chop bacon and sauté for 5 minutes in a large heavy pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onions and celery; cook until transparent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, and pepper; cook for 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually blend in hot stock, then add potatoes; cover and simmer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add corn and simmer for 10 minutes, or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scald milk and add to soup for desired consistency."
+        }
+      ],
+      "keywords": "corn chowder, creamy soup, bacon soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 110,
+      "fileName": "undefined-110.json",
+      "similarity": "0.51"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Richard's Sunday Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Richard MacGregor"
+      },
+      "description": "A rich and comforting soup featuring carrots, potatoes, and chicken stock.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 tsp sugar",
+        "5 large carrots",
+        "1 large potato",
+        "1 medium onion",
+        "1 Tbsp oil",
+        "2 to 3 cups chicken stock",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Peel and dice the carrots and potato. Combine diced onion and oil in a saucepan and cook over medium heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the diced carrots and potato to the onion and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and sugar. Cook for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to simmer and cook for 10 to 15 minutes or until the vegetables are cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from heat and puree. Serve immediately with fresh bread."
+        }
+      ],
+      "keywords": "carrot soup, potato soup, chicken stock",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 121,
+      "fileName": "undefined-121.json",
+      "similarity": "0.47"
+    }
+  ],
+  "_url": "/recipe/undefined-105.json"
+}

@@ -1,0 +1,444 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Beef and Rice Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "Kurtis Brand"
+  },
+  "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+  "recipeCategory": "Casserole",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "1 1½ quart casserole",
+  "recipeIngredient": [
+    "1⅓ cups cooked rice",
+    "1 tsp salt",
+    "1 Tbsp butter",
+    "Dash pepper",
+    "1½ cups diced celery",
+    "3 Tbsp minced onion",
+    "1 can condensed tomato soup",
+    "¼ cup water",
+    "1 lb ground beef"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Sauté celery and onion in butter until soft and tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place rice in a greased 1½ quart casserole dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top the rice with the celery mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange the cooked beef on top of the celery mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the tomato soup with water and pour over the meat layer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in a preheated 325°F oven for ½ hour.",
+      "cookMethod": "Bake",
+      "tool": "Oven",
+      "temperature": {
+        "@type": "Temperature",
+        "name": "oven",
+        "value": 325,
+        "unitCode": "FAR"
+      },
+      "duration": "PT30M"
+    }
+  ],
+  "keywords": "beef casserole, rice casserole, comfort food",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "totalTime": "50 minutes"
+  },
+  "fileName": "undefined-168.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Cheese Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1½ lb diced cooked chicken",
+        "1 medium onion, finely chopped",
+        "2 cups cooked rice",
+        "¼ lb grated cheddar cheese",
+        "½ cup milk",
+        "1 can Campbell's cream of celery soup",
+        "4 Tbsp butter or margarine",
+        "¾ cup crushed corn flakes",
+        "1½ cups chopped celery",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mixture into a buttered casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook until the celery is hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the corn flake and celery mixture over the chicken mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 375°F oven for about ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "chicken casserole, cheesy rice bake, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 244,
+      "fileName": "undefined-244.json",
+      "similarity": "0.54"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 quart casserole",
+      "recipeIngredient": [
+        "½ lb spaghetti",
+        "½ lb ground beef",
+        "1 can (19 oz) diced tomatoes",
+        "½ cup chopped onion",
+        "1 can (10 oz) condensed cream of mushroom soup",
+        "1½ tsp salt",
+        "¼ tsp pepper",
+        "1 cup grated medium cheddar cheese",
+        "½ tsp garlic",
+        "1 can (10 oz) mushroom pieces, drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef and onion in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti according to package directions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour canned tomatoes over the spaghetti layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the browned meat mixture over the tomatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with cream of mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
+        }
+      ],
+      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 178,
+      "fileName": "undefined-178.json",
+      "similarity": "0.51"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Rosemary Shipwreck Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Stewart"
+      },
+      "description": "A hearty casserole featuring ground beef, potatoes, and a tomato-based sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "1 onion, peeled and chopped",
+        "¼ tsp salt",
+        "1 (8 oz) can pork and beans",
+        "1¼ tsp pepper",
+        "1 (10 oz) can tomato soup",
+        "4 potatoes, pared and sliced"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine beef, salt, and pepper. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place potatoes in the bottom of a greased 2-quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top potatoes with chopped onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover onion layer with the beef mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon pork and beans over the beef layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour tomato soup over the pork and beans."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the casserole and bake for 1 hour or until done."
+        }
+      ],
+      "keywords": "shipwreck casserole, ground beef, potato casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 180,
+      "fileName": "undefined-180.json",
+      "similarity": "0.45"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pork Chop & Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT2H",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "6 center cut pork chops",
+        "1 sliced tomato",
+        "1 cup brown rice",
+        "1 sliced onion",
+        "4 sliced green onions",
+        "1 green pepper, sliced in rings",
+        "1/2 lb sliced fresh mushrooms",
+        "1 1/2 cups beef broth or stock",
+        "Salt and pepper to taste",
+        "1 Tbsp minced garlic",
+        "4 oz margarine or butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put raw rice in the casserole pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour beef broth over the casserole and cover with foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
+        }
+      ],
+      "keywords": "pork chop, rice, casserole, baked",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "2 hours"
+      },
+      "id": 211,
+      "fileName": "undefined-211.json",
+      "similarity": "0.45"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Beef and Potato Bake",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Jefferies"
+      },
+      "description": "A layered casserole featuring ground beef, potatoes, zucchini, and a creamy cheddar sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "1 13x9 inch baking dish",
+      "recipeIngredient": [
+        "3 potatoes, peeled and thinly sliced",
+        "1 lb ground beef",
+        "¼ cup butter, divided",
+        "2 Tbsp vegetable oil",
+        "2 small zucchini, sliced",
+        "1 tsp Italian seasoning",
+        "½ cup prepared tomato pasta sauce",
+        "2 cups milk, divided",
+        "¼ cup flour",
+        "1½ cups grated cheddar cheese",
+        "1 onion, chopped",
+        "½ tsp salt",
+        "½ tsp pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt 2 tablespoons butter and oil over medium-low heat. Add potatoes and cook for 5 minutes, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add zucchini, salt, and pepper to the skillet. Cook until zucchini is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the vegetable mixture into a 13x9 inch baking dish. Set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the same skillet, cook onion and Italian seasoning until onion is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ground beef to the skillet and cook until it loses its pink color. Stir in tomato sauce and ½ cup milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the meat mixture over the vegetable layer in the baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt remaining butter in the skillet, stir in flour, and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually whisk in remaining milk. Cook and stir until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in cheddar cheese until melted. Pour the sauce over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 20 to 25 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 minutes before serving."
+        }
+      ],
+      "keywords": "beef casserole, potato bake, creamy sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "id": 158,
+      "similarity": "0.43"
+    }
+  ],
+  "_url": "/recipe/undefined-168.json"
+}

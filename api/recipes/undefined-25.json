@@ -1,0 +1,304 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Fluffy Fruit Dip",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Tanya Allen"
+    },
+    {
+      "@type": "Person",
+      "name": "Lorie Van Volkengoed"
+    },
+    {
+      "@type": "Person",
+      "name": "Kim MacDonald"
+    }
+  ],
+  "description": "A light and airy fruit dip made with softened cream cheese, marshmallow creme, and vanilla extract.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "recipeIngredient": [
+    "3 oz cream cheese, softened",
+    "1 tsp vanilla extract",
+    "1 (7 oz) jar marshmallow creme",
+    "Fresh fruit for serving"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, combine the softened cream cheese, marshmallow creme, and vanilla extract."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix until smooth and well blended."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately with your choice of fresh fruit."
+    }
+  ],
+  "keywords": "fluffy fruit dip, marshmallow dip, sweet appetizer",
+  "_naturalized_times": {
+    "prepTime": "5 minutes",
+    "cookTime": "",
+    "totalTime": "5 minutes"
+  },
+  "fileName": "undefined-25.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fruit Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 cup",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 tsp frozen orange juice concentrate",
+        "½ cup marshmallow creme",
+        "1 tsp grated orange rind"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a dish and beat until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with fresh cut-up fruit."
+        }
+      ],
+      "keywords": "fruit dip, orange cream cheese, marshmallow dip",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 24,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Shrimp Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 can shrimp cocktail",
+        "3 green onions, finely chopped",
+        "1 tsp garlic powder",
+        "1 (8 oz) package cream cheese, softened",
+        "1 tsp Worcestershire sauce",
+        "1½ cups shredded cheddar cheese",
+        "Miracle Whip (as needed for consistency)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a medium bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mash the shrimp with a fork until well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate before serving with crackers."
+        }
+      ],
+      "keywords": "shrimp spread, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "id": 10,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salmon Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 (8 oz) package cream cheese, softened",
+        "1 can red salmon",
+        "1 tsp garlic powder or 1 fresh garlic clove, minced",
+        "2 tsp lemon juice",
+        "2 Tbsp onion, minced",
+        "1 Tbsp fresh or dry parsley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain the salmon and remove any bones."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Use a fork to flake the salmon before adding other ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the softened cream cheese with the salmon and all remaining ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix well and serve with crackers or as a spread."
+        }
+      ],
+      "keywords": "salmon dip, salmon spread, red salmon",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 9,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Surprise Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A layered seafood dip with shrimp, cocktail sauce, and cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "recipeYield": "1 large platter",
+      "recipeIngredient": [
+        "8 oz cream cheese, softened",
+        "½ cup sour cream",
+        "¼ cup mayonnaise",
+        "3 (4 oz) cans small shrimp, rinsed and drained",
+        "2 cups seafood cocktail sauce",
+        "2 cups shredded mozzarella cheese",
+        "1 green pepper, chopped",
+        "3 green onions, chopped",
+        "1 tomato, diced (optional)",
+        "Tortilla chips or assorted crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream cheese, sour cream, and mayonnaise together until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread this mixture in the bottom of a deep pie plate, pizza pan, or shallow baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scatter the shrimp over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the seafood cocktail sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add layers of mozzarella cheese, green pepper, and green onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with diced tomatoes if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve with tortilla chips or crackers."
+        }
+      ],
+      "keywords": "layered shrimp dip, seafood spread, party dip",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "id": 11,
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Party Salmon Ball",
+      "author": {
+        "@type": "Person",
+        "name": "Tanya Allen"
+      },
+      "description": "A classic chilled salmon and cream cheese ball coated in crunchy nuts and parsley.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H15M",
+      "recipeYield": "1 cheese ball",
+      "recipeIngredient": [
+        "1 (8 oz) pkg cream cheese, softened",
+        "1 (16 oz) can salmon, drained and flaked",
+        "¼ tsp Liquid Smoke",
+        "¼ tsp salt",
+        "1 Tbsp finely chopped onion",
+        "⅓ cup nuts",
+        "¼ cup parsley flakes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together except for the nuts and parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into a ball."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate for at least 8 hours (but no longer than 4 days)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll the ball in a mixture of nuts and parsley to coat evenly before serving."
+        }
+      ],
+      "keywords": "salmon ball, cheese ball, party dip, holiday appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 15 minutes"
+      },
+      "id": 8,
+      "similarity": "0.29"
+    }
+  ],
+  "_url": "/recipe/undefined-25.json"
+}

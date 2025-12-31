@@ -1,0 +1,334 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Orange-Pineapple Jello",
+  "author": {
+    "@type": "Person",
+    "name": "Shelley Kinsman"
+  },
+  "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT5M",
+  "totalTime": "PT25M",
+  "recipeYield": "1 serving",
+  "recipeIngredient": [
+    "1 package orange Jello",
+    "1 cup mini marshmallows",
+    "1 small can crushed pineapple",
+    "½ cup frozen orange juice concentrate",
+    "1 package Dream Whip",
+    "½ cup pecans"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Drain pineapple and reserve syrup. Add water to make ¾ cup."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the liquid to boiling."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place Jello in a bowl and add hot liquid, pineapple, and orange juice concentrate."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chill until thickish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fold in Dream Whip along with marshmallows and pecans."
+    }
+  ],
+  "keywords": "orange-pineapple Jello, fruity dessert, nuts",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "5 minutes",
+    "totalTime": "25 minutes"
+  },
+  "fileName": "undefined-76.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange Jello Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Macisaac"
+      },
+      "description": "A simple orange Jello salad with mandarin oranges and Dream Whip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1½ cups hot water",
+        "1 small package orange Jello",
+        "1 small package Dream Whip (not pudding or instant vanilla)",
+        "1 can mandarin oranges"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put the first 3 ingredients into a saucepan and cook until clear."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cool the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix Dream Whip according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain oranges and add Dream Whip and oranges to the cooled mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Allow to cool completely before serving."
+        }
+      ],
+      "keywords": "orange Jello salad, mandarin oranges, Dream Whip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 75,
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Party-Time Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Phyllis Bender"
+      },
+      "description": "A creamy lime Jello salad with pineapple, cream cheese, and celery.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 1½ quart mould",
+      "recipeIngredient": [
+        "1 can crushed pineapple",
+        "1 (8 oz) package cream cheese",
+        "1 (3 oz) package lime flavoured Jello",
+        "1 cup celery, diced",
+        "1½ cups whipped cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat pineapple juice and hot water to measure 1 cup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve Jello powder in hot liquid and stir, then add ¾ cup cold water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let partially set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cream cheese and mix with beaters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add crushed pineapple, whipped cream, and celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour into a 1½ quart mould and chill until firm."
+        }
+      ],
+      "keywords": "party-time salad, lime Jello, cream cheese, pineapple",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "id": 77,
+      "fileName": "undefined-77.json",
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cottage Cheese Jellied Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 oz package orange or lemon flavored gelatin",
+        "1 cup boiling water",
+        "1 cup drained crushed pineapple",
+        "½ cup chopped walnuts (optional)",
+        "½ cup mayonnaise",
+        "1 cup cottage cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve gelatin in boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise and whisk to blend."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until the mixture starts to set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
+        }
+      ],
+      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "id": 66,
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cranberry Mold",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "description": "A festive cranberry salad molded with cherry-flavored gelatin, celery, and nuts, perfect as a side dish for turkey.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "1 1½ quart mold",
+      "recipeIngredient": [
+        "2 (3 oz) packages cherry flavored gelatin",
+        "1 cup boiling water",
+        "1 cup cold water",
+        "1 lb can whole cranberry sauce",
+        "1 cup chopped celery",
+        "½ cup chopped nuts"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve gelatin in boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cold water and chill until the mixture thickens but is not set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in cranberry sauce, celery, and nuts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a 1½ quart mold and chill until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Unmold before serving."
+        }
+      ],
+      "keywords": "cranberry mold, gelatin salad, holiday side dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "id": 67,
+      "similarity": "0.21"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "A hearty taco salad with seasoned ground beef, crunchy taco chips, and cheddar cheese, all tossed in Catalina dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 lb ground beef (hamburg)",
+        "1 package taco seasoning mix",
+        "1 (250 g) bag crushed taco chips",
+        "1 cup shredded cheddar cheese",
+        "1 head lettuce, chopped",
+        "1 chopped tomato",
+        "Catalina dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate the cooked beef until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully add in chopped tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
+        }
+      ],
+      "keywords": "taco salad, ground beef, taco chips, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 89,
+      "fileName": "undefined-89.json",
+      "similarity": "0.20"
+    }
+  ],
+  "_url": "/recipe/undefined-76.json"
+}

@@ -1,0 +1,151 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Lemon Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Mona Hamilton"
+  },
+  "description": "A light and fluffy lemon Jello dessert mixed with whipped Dream Whip.",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "recipeYield": "1 serving",
+  "recipeIngredient": [
+    "1 package lemon Jello (85g)",
+    "1 small can frozen lemonade",
+    "1 cup hot water",
+    "¼ cup water",
+    "¼ cup sugar",
+    "1 package Dream Whip Mix"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dissolve the lemon Jello in hot water with sugar."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add frozen lemonade and ¼ cup water to the Jello mixture and let set."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whip the Dream Whip Mix and combine with the set Jello."
+    }
+  ],
+  "keywords": "lemon Jello, whipped dessert, Dream Whip",
+  "_naturalized_times": {
+    "prepTime": "10 minutes",
+    "cookTime": null,
+    "totalTime": null
+  },
+  "fileName": "undefined-80.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cranberry Mold",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Macisaac"
+      },
+      "description": "A simple cranberry mold dessert made with raspberry Jello, sugar, and whole orange.",
+      "recipeCategory": "Dessert",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "recipeYield": "1 mold",
+      "recipeIngredient": [
+        "1 cup white sugar",
+        "2 cups cranberries",
+        "1 package raspberry Jello powder",
+        "1 whole orange"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put the cranberries and whole orange through a food chopper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the chopped cranberries and orange with sugar and raspberry Jello powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mixture in a mold and set."
+        }
+      ],
+      "keywords": "cranberry mold, raspberry Jello, dessert",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "id": 78,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fruit Mold Ring-Around",
+      "author": {
+        "@type": "Person",
+        "name": "Norma Fahner"
+      },
+      "description": "A layered fruit mold dessert featuring red and lemon Jello with canned fruit and ginger ale.",
+      "recipeCategory": "Dessert",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT8H30M",
+      "recipeYield": "10 or more servings",
+      "recipeIngredient": [
+        "1 (3 oz) package red Jello powder",
+        "2 (3 oz) packages lemon Jello powder",
+        "1¼ cups cranberry juice cocktail",
+        "2 Tbsp lemon juice",
+        "1½ cups syrup from canned fruit",
+        "2 cups ginger ale",
+        "3 cups canned fruit, drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat cranberry juice to a boil and stir in red Jello powder until dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the red Jello mixture into an oiled ice cube tray and chill until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the fruit juice syrup to a boil and stir in lemon Jello powder until dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add lemon juice and ginger ale to the lemon Jello mixture and chill until as thick as honey."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut the red Jello into ½ inch cubes and fold into the thickened lemon Jello along with the canned fruit."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a 1½ quart ring mold rinsed in cold water and chill overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, unmold and fill the center with raw fruit."
+        }
+      ],
+      "keywords": "fruit mold, layered Jello, dessert",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "8 hours 30 minutes"
+      },
+      "id": 79,
+      "similarity": "0.29"
+    }
+  ],
+  "_url": "/recipe/undefined-80.json"
+}

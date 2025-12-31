@@ -1,0 +1,387 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Minestrone Soup with Shells",
+  "author": {
+    "@type": "Person",
+    "name": "Fred Bowers"
+  },
+  "description": "A hearty minestrone soup with small shell macaroni, kidney beans, and vegetables, topped with Parmesan cheese.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "Italian-American",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "recipeYield": "10 servings",
+  "recipeIngredient": [
+    "3 slices bacon, chopped",
+    "1 onion, chopped",
+    "1 carrot, chopped",
+    "1 stalk celery, chopped",
+    "¾ cup (175 mL) small shell macaroni",
+    "1 can (14 oz/398 mL) red or white kidney beans, drained",
+    "3 cloves garlic, minced",
+    "4 cups (1 L) water",
+    "3 cans (10 oz/284 mL each) chicken broth",
+    "1 can (19 oz/540 mL) tomatoes, coarsely chopped with liquid",
+    "Chopped fresh parsley",
+    "Grated Parmesan cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large saucepan, cook the chopped bacon until crisp. Add the onion, carrot, celery, and cabbage; cook, stirring occasionally, for about 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the water, chicken broth, and tomatoes with their liquid. Bring to a boil, then reduce heat and simmer, covered, for 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the small shell macaroni and cook, uncovered, for 15 minutes longer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the kidney beans, garlic, and parsley to the soup; heat through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve topped with grated Parmesan cheese."
+    }
+  ],
+  "keywords": "minestrone soup, pasta soup, Italian-American cuisine",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "30 minutes",
+    "totalTime": "45 minutes"
+  },
+  "fileName": "undefined-117.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta & Bean Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Fydenchuk"
+      },
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT15M",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
+        }
+      ],
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
+      },
+      "id": 111,
+      "similarity": "0.43"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mushroom Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp butter",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 cups sliced mushrooms",
+        "1/4 cup flour",
+        "2 cups stock (chicken or vegetable)",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "3 cups milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute butter, onion, garlic and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, sauces and milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until heated through (approximately 15 minutes)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "mushroom soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 113,
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a rich, velvety texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "1½ cups grated cheese",
+        "1½ cups chicken broth",
+        "3 cups fresh broccoli, partially cooked"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onions until tender; do not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and broccoli; bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in flour and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat; cook and stir until mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and simmer for 15 minutes; do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat through with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 108,
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Borsch with Sour Cream",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A hearty beet-based soup with shredded beef, vegetables, and a dollop of sour cream on top.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Eastern European",
+      "prepTime": "PT30M",
+      "cookTime": "PT3H30M",
+      "totalTime": "PT4H",
+      "recipeYield": "3 quarts (8 servings)",
+      "recipeIngredient": [
+        "3 cups coarsely shredded beef",
+        "1 large beef marrow bone",
+        "4 cups beef broth (approximately 2 quarts)",
+        "1 (28 oz/1 lb) can tomatoes, undrained",
+        "1 medium onion, quartered",
+        "1 stalk celery, cut up",
+        "3 sprigs parsley",
+        "6 whole black peppers",
+        "1 bay leaf",
+        "2 cups shredded beets (4 medium)",
+        "1½ cups thickly sliced cabbage",
+        "1 medium onion, chopped",
+        "2 Tbsp snipped fresh dill or 2 tsp dried dill weed",
+        "¼ cup cider vinegar",
+        "2 Tbsp sugar",
+        "1 Tbsp salt (initial) + 1 tsp salt (later)",
+        "Sour cream for serving",
+        "Snipped dill for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Day before serving, place beef, marrow bone, 2 quarts water, and 1 Tbsp salt in a deep 8-quart kettle. Cover and bring to boiling, then reduce heat and simmer, covered, for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomatoes, quartered onion, celery, parsley, black pepper, and bay leaf. Simmer, covered, for 2 hours longer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from heat. Lift out beef and set aside. Remove marrow bone and discard. Strain soup and skim off fat (you should have 9 cups liquid)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return soup and beef to kettle. Add beets, cabbage, carrots, chopped onion, dill, vinegar, sugar, and 1 tsp salt. Bring to boiling, then reduce heat and simmer for 30 minutes or until beef and vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cool for 20 minutes, then refrigerate overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "The next day, remove beef from soup and cut into cubes. Return to soup and heat gently to boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour into soup tureen. Top each serving with a spoonful of sour cream and garnish with snipped dill."
+        }
+      ],
+      "keywords": "beef borsch, sour cream, beet soup, Eastern European soup",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "3 hours 30 minutes",
+        "totalTime": "4 hours"
+      },
+      "id": 98,
+      "similarity": "0.28"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour mixture and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree the mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 105,
+      "similarity": "0.28"
+    }
+  ],
+  "_url": "/recipe/undefined-117.json"
+}

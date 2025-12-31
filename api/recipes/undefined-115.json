@@ -1,0 +1,363 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "French Onion Soup",
+  "author": {
+    "@type": "Person",
+    "name": "Katherine Ratz"
+  },
+  "description": "A classic French onion soup made with caramelized onions, consomme, and topped with melted mozzarella cheese and croutons.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "French",
+  "prepTime": "PT20M",
+  "cookTime": "PT2H30M",
+  "totalTime": "PT2H50M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1/4 cup butter",
+    "2 large Spanish onions",
+    "1 can consomme",
+    "1 can water",
+    "4 Oxo cubes dissolved in 2 cups hot water",
+    "Salt to flavour",
+    "4 slices French bread",
+    "1 cup shredded mozzarella cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Melt butter. Saute onions until transparent."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add to Oxo, consomme and water. Simmer about 2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put in onion soup bowls, add a slice of French bread on top of each one and add shredded mozzarella cheese sprinkled over each."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put in oven at 350°F for 30 minutes.",
+      "cookMethod": "Bake",
+      "tool": "Oven",
+      "temperature": {
+        "@type": "Temperature",
+        "name": "oven",
+        "value": 350,
+        "unitCode": "FAR"
+      },
+      "duration": "PT30M"
+    }
+  ],
+  "keywords": "French onion soup, caramelized onions, melted cheese",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "2 hours 30 minutes",
+    "totalTime": "2 hours 50 minutes"
+  },
+  "fileName": "undefined-115.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a rich, velvety texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "1½ cups grated cheese",
+        "1½ cups chicken broth",
+        "3 cups fresh broccoli, partially cooked"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onions until tender; do not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and broccoli; bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in flour and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat; cook and stir until mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and simmer for 15 minutes; do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat through with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 108,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour mixture and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree the mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 105,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cream of Asparagus Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A creamy and smooth asparagus soup made with canned asparagus, perfect for serving year-round with optional fresh garnishes.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT40M",
+      "totalTime": "PT1H",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 medium onions, chopped",
+        "6 chicken bouillon cubes",
+        "2 (12 oz) cans asparagus tips or cuttings",
+        "4 celery sticks, chopped",
+        "¼ cup (125 mL) butter",
+        "6 Tbsp (90 mL) flour",
+        "1 cup (250 mL) whipping cream",
+        "6 cups (1½ L) water",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Chop onions and celery medium fine and sauté in butter until limp but not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add chicken stock (dissolve bouillon cubes in water) and stir until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, then add canned asparagus including liquid and simmer for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the soup in a blender and press through a sieve for a smooth texture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, bring soup to a boil, remove from heat, and stir in whipping cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season to taste and keep warm over low heat without boiling."
+        }
+      ],
+      "keywords": "asparagus soup, creamy soup, canned asparagus",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "40 minutes",
+        "totalTime": "1 hour"
+      },
+      "id": 99,
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Potato Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "6 diced and peeled potatoes",
+        "2 diced and peeled carrots",
+        "1 chopped onion",
+        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
+        "6 Tbsp butter",
+        "6 Tbsp flour",
+        "Sour cream (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Microwave onions and butter until soft, about 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
+        }
+      ],
+      "keywords": "potato soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 125,
+      "fileName": "undefined-125.json",
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cream of Potato Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A rich and creamy potato soup enhanced with Campbell's soup base, leeks, and mushrooms, topped with shredded cheddar cheese.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT2H30M",
+      "totalTime": "PT2H45M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "4 to 6 cups cooked potatoes, cubed",
+        "1 square Campbell's potato soup base",
+        "Salt and pepper to taste",
+        "Garlic salt to taste",
+        "1 to 2 cups finely chopped mushrooms",
+        "2 to 3 leeks, chopped fine",
+        "Shredded cheddar cheese (amount desired)",
+        "Water or milk (as needed for consistency)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, combine all ingredients except cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, stirring often, then simmer for 2 to 3 hours, adding more liquid if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add shredded cheddar cheese during the last 30 minutes of simmering."
+        }
+      ],
+      "keywords": "cream of potato soup, cheesy soup, slow-cooked soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "2 hours 30 minutes",
+        "totalTime": "2 hours 45 minutes"
+      },
+      "id": 126,
+      "fileName": "undefined-126.json",
+      "similarity": "0.30"
+    }
+  ],
+  "_url": "/recipe/undefined-115.json"
+}

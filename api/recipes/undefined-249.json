@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Crispy Chicken Coating Mix",
+  "author": {
+    "@type": "Person",
+    "name": "Linda Finkbeiner"
+  },
+  "description": "A dry mix for coating chicken, made with bread crumbs, spices, and herbs.",
+  "recipeCategory": "Ingredient",
+  "recipeCuisine": "American",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "recipeYield": "1 container of mix",
+  "recipeIngredient": [
+    "500 mL fine dry bread crumbs",
+    "2 mL celery salt",
+    "1 mL garlic powder",
+    "30 mL vegetable oil (not used in mix, possibly for instructions not given)",
+    "Dash pepper",
+    "4 mL ground sage",
+    "2 mL paprika",
+    "3 mL ground thyme"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all dry ingredients (bread crumbs, celery salt, garlic powder, pepper, sage, paprika, thyme) in a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rub the mixture together well to ensure even distribution of ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Store the mix in a tightly sealed container."
+    }
+  ],
+  "keywords": "chicken coating, crispy chicken, breading mix",
+  "_naturalized_times": {
+    "prepTime": "5 minutes",
+    "cookTime": "",
+    "totalTime": "5 minutes"
+  },
+  "fileName": "undefined-249.json",
+  "_similar": [],
+  "_url": "/recipe/undefined-249.json"
+}

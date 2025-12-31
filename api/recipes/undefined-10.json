@@ -1,0 +1,303 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Shrimp Spread",
+  "author": {
+    "@type": "Person",
+    "name": "Janet Dearing"
+  },
+  "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "recipeYield": "1 bowl",
+  "recipeIngredient": [
+    "1 can shrimp cocktail",
+    "3 green onions, finely chopped",
+    "1 tsp garlic powder",
+    "1 (8 oz) package cream cheese, softened",
+    "1 tsp Worcestershire sauce",
+    "1½ cups shredded cheddar cheese",
+    "Miracle Whip (as needed for consistency)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix all ingredients together in a medium bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mash the shrimp with a fork until well blended."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate before serving with crackers."
+    }
+  ],
+  "keywords": "shrimp spread, seafood dip, party appetizer",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": null,
+    "totalTime": null
+  },
+  "fileName": "undefined-10.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Surprise Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A layered seafood dip with shrimp, cocktail sauce, and cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "recipeYield": "1 large platter",
+      "recipeIngredient": [
+        "8 oz cream cheese, softened",
+        "½ cup sour cream",
+        "¼ cup mayonnaise",
+        "3 (4 oz) cans small shrimp, rinsed and drained",
+        "2 cups seafood cocktail sauce",
+        "2 cups shredded mozzarella cheese",
+        "1 green pepper, chopped",
+        "3 green onions, chopped",
+        "1 tomato, diced (optional)",
+        "Tortilla chips or assorted crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream cheese, sour cream, and mayonnaise together until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread this mixture in the bottom of a deep pie plate, pizza pan, or shallow baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scatter the shrimp over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the seafood cocktail sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add layers of mozzarella cheese, green pepper, and green onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with diced tomatoes if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve with tortilla chips or crackers."
+        }
+      ],
+      "keywords": "layered shrimp dip, seafood spread, party dip",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "id": 11,
+      "fileName": "undefined-11.json",
+      "similarity": "0.52"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 4,
+      "similarity": "0.49"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers."
+        }
+      ],
+      "keywords": "crab dip, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "id": 20,
+      "fileName": "undefined-20.json",
+      "similarity": "0.43"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salmon Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 (8 oz) package cream cheese, softened",
+        "1 can red salmon",
+        "1 tsp garlic powder or 1 fresh garlic clove, minced",
+        "2 tsp lemon juice",
+        "2 Tbsp onion, minced",
+        "1 Tbsp fresh or dry parsley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain the salmon and remove any bones."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Use a fork to flake the salmon before adding other ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the softened cream cheese with the salmon and all remaining ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix well and serve with crackers or as a spread."
+        }
+      ],
+      "keywords": "salmon dip, salmon spread, red salmon",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 9,
+      "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 18,
+      "fileName": "undefined-18.json",
+      "similarity": "0.38"
+    }
+  ],
+  "_url": "/recipe/undefined-10.json"
+}
