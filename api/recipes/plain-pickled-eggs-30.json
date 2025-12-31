@@ -47,5 +47,277 @@
     "prepTime": "10 minutes",
     "cookTime": "5 minutes",
     "totalTime": "15 minutes"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fancy Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A variation of pickled eggs with beets, giving them a distinctive purple color and sweet flavor.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "1 (16 oz) can sliced beets",
+        "½ tsp ground cloves",
+        "2 bay leaves",
+        "2 Tbsp sugar",
+        "½ tsp celery seed",
+        "1 large onion, sliced into rings",
+        "1 tsp salt",
+        "2 cups cider vinegar",
+        "12 large boiled eggs (shells removed)",
+        "1 cinnamon stick"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In an enamel or stainless steel saucepan, combine all ingredients except eggs and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil and simmer for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large glass jar, alternate layers of eggs, beets, and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the heated liquid into the jar, ensuring all layers are covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
+        }
+      ],
+      "keywords": "pickled eggs, beets, appetizer, purple eggs",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "similarity": "0.59"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hard Boiled Eggs/Devilled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Missy MacLeod"
+      },
+      "description": "A classic deviled egg recipe with a creamy yolk filling, garnished with paprika and optional olive slices.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "24 deviled eggs",
+      "recipeIngredient": [
+        "1 dozen (12) eggs, hard-boiled and peeled",
+        "Mayonnaise",
+        "Mustard (optional)",
+        "Chives (optional)",
+        "Pickle relish (optional)",
+        "Paprika",
+        "Olive slices (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place the eggs in a covered saucepan with enough cold water to cover them. Bring to a rapid boil, then turn off the heat and let stand for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cool the eggs by filling the pot with cold water and changing it frequently until the eggs are cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the shells and rinse the eggs to remove any bits of shell."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice the eggs in half lengthwise and carefully scoop out the yolks into a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mash the yolks with a fork or pastry blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise and mix until the yolks reach a creamy consistency. Optionally add mustard, chives, and pickle relish to taste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scoop the yolk mixture back into the egg white halves."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with paprika and/or olive slices as desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill the deviled eggs until ready to serve."
+        }
+      ],
+      "keywords": "deviled eggs, hard-boiled eggs, appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sticky Wings",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "Baked chicken wings glazed with a sweet and savory brown sugar and soy sauce mixture.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "2-3 lbs chicken wings",
+      "recipeIngredient": [
+        "2-3 lbs chicken wings",
+        "1 cup brown sugar",
+        "¼ cup soy sauce",
+        "2 tsp garlic salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 300°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Break chicken wings apart at the joints and discard tips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place wings in a roasting pan and cover with the sauce mixture (brown sugar, soy sauce, garlic salt)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the sauce evaporates and wings are sticky."
+        }
+      ],
+      "keywords": "sticky chicken wings, baked wings, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Water Chestnuts Wrapped in Bacon",
+      "author": {
+        "@type": "Person",
+        "name": "Diane Dinney"
+      },
+      "description": "Bacon-wrapped water chestnuts marinated in a savory mixture of soya sauce and Worcestershire sauce, then baked until crispy.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT1H15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "2 cans water chestnuts",
+        "¼ cup soya sauce",
+        "½ lb bacon",
+        "1 tsp Worcestershire sauce",
+        "1 tsp garlic salt",
+        "2 tsp minced onions",
+        "Toothpicks"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate bacon in soya sauce, Worcestershire sauce, garlic salt, and minced onions for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap bacon around chestnuts and secure with toothpicks."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook in a 350°F oven until bacon is done.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          }
+        }
+      ],
+      "keywords": "bacon-wrapped water chestnuts, appetizer, savory snack",
+      "_naturalized_times": {
+        "prepTime": "1 hour 15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "similarity": "0.26"
+    }
+  ]
 }

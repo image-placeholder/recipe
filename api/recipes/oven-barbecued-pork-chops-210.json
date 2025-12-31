@@ -52,5 +52,279 @@
     "prepTime": "15 minutes",
     "cookTime": "45 minutes",
     "totalTime": "1 hour"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sour 'N Sweet Pork Chops",
+      "author": {
+        "@type": "Person",
+        "name": "Nola Ratz"
+      },
+      "description": "A tangy and sweet pork chop dish simmered in a rich sauce made with brown sugar, vinegar, and Worcestershire sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 pork chops",
+        "½ cup brown sugar",
+        "¼ cup vinegar",
+        "½ cup water",
+        "1 Tbsp Worcestershire sauce",
+        "¼ cup ketchup",
+        "2 Tbsp flour (for thickening)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain excess fat from pork chops and brown them in a large frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together water, brown sugar, vinegar, Worcestershire sauce, and ketchup. Pour over the browned chops."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 30 minutes or until done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, thicken the liquid with 2 Tbsp flour. Serve with rice."
+        }
+      ],
+      "keywords": "sour sweet pork chops, tangy pork, brown sugar sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "similarity": "0.43"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sloppy Joe Squares",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "1 small onion, minced",
+        "1/2 tsp Worcestershire sauce",
+        "3/4 cup ketchup",
+        "1 tsp salt",
+        "1/2 tsp pepper",
+        "1/4 tsp chili powder",
+        "2 Tbsp flour",
+        "2 packages Pillsbury crescent dinner rolls",
+        "Mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend in flour to thicken the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the beef mixture evenly over the layer of rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the beef mixture with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F until the crescent rolls are browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with a salad."
+        }
+      ],
+      "keywords": "sloppy joe, casserole, crescent rolls, beef",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "similarity": "0.37"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Maple Glazed Ribs",
+      "author": {
+        "@type": "Person",
+        "name": "Evelyn Pickering"
+      },
+      "description": "A sweet and savory pork spare ribs recipe glazed with a maple syrup-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H15M",
+      "totalTime": "PT2H35M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "3 lb pork spare ribs",
+        "1 Tbsp Dijon mustard",
+        "1 cup maple syrup",
+        "1 Tbsp Worcestershire sauce",
+        "3 Tbsp orange juice",
+        "1 tsp curry powder concentrate",
+        "1 garlic clove, minced",
+        "3 Tbsp ketchup",
+        "2 green onions",
+        "2 Tbsp soya sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut ribs into serving-size pieces and place in a roasting pan. Cover and bake for 1½ hours or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, combine the Dijon mustard, maple syrup, Worcestershire sauce, orange juice, curry powder, garlic, ketchup, green onions, and soya sauce in a saucepan. Bring to a boil, then reduce heat and simmer for 15 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the ribs and pour the sauce over them. Bake uncovered for an additional ½ hour, stirring occasionally."
+        }
+      ],
+      "keywords": "maple glazed ribs, pork spare ribs, sweet and savory",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours 15 minutes",
+        "totalTime": "2 hours 35 minutes"
+      },
+      "similarity": "0.37"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Celebrity",
+      "author": {
+        "@type": "Person",
+        "name": "Rosemary Stewart"
+      },
+      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 to 3 lb chicken parts",
+        "1/4 cup brown sugar",
+        "1 package dry onion soup mix",
+        "1/2 cup ketchup",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken parts in a small roaster or casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 350°F oven for 1 hour or until tender."
+        }
+      ],
+      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "similarity": "0.35"
+    }
+  ]
 }

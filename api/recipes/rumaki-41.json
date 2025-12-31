@@ -62,5 +62,276 @@
     "prepTime": "10 minutes",
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Bacon Wrapped Water Chestnuts",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "Sweet and savory bacon-wrapped water chestnuts marinated overnight in a mixture of soya sauce and brown sugar.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT8H45M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 can whole water chestnuts",
+        "¼ cup soya sauce",
+        "¼ cup brown sugar",
+        "½ lb bacon"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown bacon and cut in half."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll water chestnuts in white sugar, wrap with bacon, and secure with toothpicks."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix brown sugar and soya sauce together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour mixture over bacon-wrapped water chestnuts and marinate overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "bacon-wrapped water chestnuts, sweet and savory, appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "8 hours 45 minutes"
+      },
+      "similarity": "0.75"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Water Chestnuts Wrapped in Bacon",
+      "author": {
+        "@type": "Person",
+        "name": "Diane Dinney"
+      },
+      "description": "Bacon-wrapped water chestnuts marinated in a savory mixture of soya sauce and Worcestershire sauce, then baked until crispy.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT1H15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "2 cans water chestnuts",
+        "¼ cup soya sauce",
+        "½ lb bacon",
+        "1 tsp Worcestershire sauce",
+        "1 tsp garlic salt",
+        "2 tsp minced onions",
+        "Toothpicks"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate bacon in soya sauce, Worcestershire sauce, garlic salt, and minced onions for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap bacon around chestnuts and secure with toothpicks."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook in a 350°F oven until bacon is done.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          }
+        }
+      ],
+      "keywords": "bacon-wrapped water chestnuts, appetizer, savory snack",
+      "_naturalized_times": {
+        "prepTime": "1 hour 15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "similarity": "0.57"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Roasted Chestnuts",
+      "author": {
+        "@type": "Person",
+        "name": "Julie-Ann Bibby"
+      },
+      "description": "Tender and flavorful roasted chestnuts seasoned with butter, salt, and cinnamon.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "1 lb roasted chestnuts",
+      "recipeIngredient": [
+        "1 lb chestnuts",
+        "¼ cup butter",
+        "Salt to taste",
+        "1 pinch cinnamon"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut a ½-inch crisscross on the flat side of each chestnut, ensuring the cut goes through the nut to prevent explosion during baking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the scored chestnuts in a shallow baking pan and bake for 25 to 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Allow the chestnuts to cool, then peel off the shells."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt the butter over high heat and sauté the peeled chestnuts until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the skillet to the oven and roast until the chestnuts are golden on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with salt and cinnamon to taste before serving."
+        }
+      ],
+      "keywords": "roasted chestnuts, savory snack, holiday appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese English Muffins",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "Toasted English muffin quarters topped with a rich cheese and bacon mixture.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "½ lb sharp yellow cheese, grated",
+        "½ cup mayonnaise",
+        "2 Tbsp Worcestershire sauce",
+        "Crumbled fried bacon",
+        "1 small onion, finely chopped",
+        "English muffins"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix grated cheese, mayonnaise, Worcestershire sauce, crumbled bacon, and chopped onion together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice English muffins into quarters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cheese mixture onto the English muffin quarters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 400°F for 10 minutes."
+        }
+      ],
+      "keywords": "cheese English muffins, appetizer, snack",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sticky Wings",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "Baked chicken wings glazed with a sweet and savory brown sugar and soy sauce mixture.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "2-3 lbs chicken wings",
+      "recipeIngredient": [
+        "2-3 lbs chicken wings",
+        "1 cup brown sugar",
+        "¼ cup soy sauce",
+        "2 tsp garlic salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 300°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Break chicken wings apart at the joints and discard tips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place wings in a roasting pan and cover with the sauce mixture (brown sugar, soy sauce, garlic salt)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the sauce evaporates and wings are sticky."
+        }
+      ],
+      "keywords": "sticky chicken wings, baked wings, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "similarity": "0.34"
+    }
+  ]
 }

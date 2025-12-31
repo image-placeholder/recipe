@@ -38,5 +38,299 @@
     "prepTime": "15 minutes",
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Maple Glazed Ribs",
+      "author": {
+        "@type": "Person",
+        "name": "Evelyn Pickering"
+      },
+      "description": "A sweet and savory pork spare ribs recipe glazed with a maple syrup-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H15M",
+      "totalTime": "PT2H35M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "3 lb pork spare ribs",
+        "1 Tbsp Dijon mustard",
+        "1 cup maple syrup",
+        "1 Tbsp Worcestershire sauce",
+        "3 Tbsp orange juice",
+        "1 tsp curry powder concentrate",
+        "1 garlic clove, minced",
+        "3 Tbsp ketchup",
+        "2 green onions",
+        "2 Tbsp soya sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut ribs into serving-size pieces and place in a roasting pan. Cover and bake for 1½ hours or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, combine the Dijon mustard, maple syrup, Worcestershire sauce, orange juice, curry powder, garlic, ketchup, green onions, and soya sauce in a saucepan. Bring to a boil, then reduce heat and simmer for 15 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the ribs and pour the sauce over them. Bake uncovered for an additional ½ hour, stirring occasionally."
+        }
+      ],
+      "keywords": "maple glazed ribs, pork spare ribs, sweet and savory",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours 15 minutes",
+        "totalTime": "2 hours 35 minutes"
+      },
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Saucy Sausages",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A flavorful Oktoberfest sausage dish baked in a rich sauce made with chili sauce, salsa, and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeIngredient": [
+        "Approximately 9 Oktoberfest sausages",
+        "1 Tbsp garlic barbecue sauce",
+        "4 Tbsp HP sauce",
+        "1 cup chili sauce",
+        "1 tsp garlic salt",
+        "1 cup salsa sauce",
+        "1 tsp seasoning salt",
+        "¼ cup ketchup",
+        "1 tsp onion powder"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "First, boil sausages until almost done or brown them in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, combine the barbecue sauce, HP sauce, chili sauce, garlic salt, salsa sauce, seasoning salt, ketchup, and onion powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the sausages in the bottom of a roasting pan or baking dish. Sprinkle with the three spices (garlic salt, seasoning salt, onion powder). Cover with the sauce mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake in a 350 °F oven for approximately ½ hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Can be served with rice."
+        }
+      ],
+      "keywords": "Oktoberfest sausages, saucy sausages, baked sausages",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sticky Chicken",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Meghan Brand"
+        },
+        {
+          "@type": "Person",
+          "name": "Kurtis Brand"
+        }
+      ],
+      "description": "A sweet and savory chicken dish baked in a sticky sauce with pineapple and mushrooms.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 lb chicken, cut up",
+        "1 cup liquid (water + pineapple juice)",
+        "½ cup flour",
+        "¾ cup brown sugar",
+        "¼ tsp paprika",
+        "1 tsp Worcestershire sauce",
+        "1 tsp ground ginger",
+        "¼ cup soya sauce",
+        "1 tsp garlic powder",
+        "1 can drained mushrooms",
+        "28 oz can pineapple tidbits"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Shake chicken pieces in a bag with flour, paprika, ginger, and garlic powder to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine pineapple juice and water to make 1 cup. Add brown sugar, Worcestershire sauce, soya sauce, and drained mushrooms. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the coated chicken in a pan, skin side down. Pour the sauce over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F, uncovered, for 1 hour. Baste often and turn the chicken at 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "During the last 5 minutes, add drained pineapple tidbits and an additional can of drained mushrooms."
+        }
+      ],
+      "keywords": "sticky chicken, baked chicken, pineapple chicken",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Pineapple Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
+        "½ cup vinegar",
+        "2 Tbsp light brown sugar",
+        "½ tsp salt",
+        "¼ to ½ cup ketchup",
+        "¼ cup water",
+        "4 chicken breasts",
+        "1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
+        }
+      ],
+      "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "similarity": "0.33"
+    }
+  ]
 }

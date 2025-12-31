@@ -39,5 +39,278 @@
     "prepTime": "15 minutes",
     "cookTime": "30 minutes",
     "totalTime": "45 minutes"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese English Muffins",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "Toasted English muffin quarters topped with a rich cheese and bacon mixture.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "½ lb sharp yellow cheese, grated",
+        "½ cup mayonnaise",
+        "2 Tbsp Worcestershire sauce",
+        "Crumbled fried bacon",
+        "1 small onion, finely chopped",
+        "English muffins"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix grated cheese, mayonnaise, Worcestershire sauce, crumbled bacon, and chopped onion together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice English muffins into quarters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cheese mixture onto the English muffin quarters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 400°F for 10 minutes."
+        }
+      ],
+      "keywords": "cheese English muffins, appetizer, snack",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stuffed Pita Pockets",
+      "author": {
+        "@type": "Person",
+        "name": "Jordan Slaght"
+      },
+      "description": "A refreshing appetizer featuring mini pita pockets filled with a creamy ranch and feta cheese mixture, topped with cucumbers and tomatoes.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 bags mini pita pockets",
+        "8 oz cream cheese, softened",
+        "½ cup mayonnaise",
+        "1 pkg powdered ranch dressing mix",
+        "Feta cheese, crumbled",
+        "Cucumbers, diced",
+        "Tomatoes, diced"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the softened cream cheese, mayonnaise, and powdered ranch dressing mix until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble feta cheese into the cream cheese mixture and stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut the mini pita pockets in half and fill with the cheese mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with diced cucumbers and tomatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve and enjoy."
+        }
+      ],
+      "keywords": "pita pockets, ranch dip, feta cheese, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Con Queso (Nacho Cheese Dip)",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Marti Mockler"
+        },
+        {
+          "@type": "Person",
+          "name": "Irene Haugh"
+        }
+      ],
+      "description": "A warm, cheesy dip made with cream cheese, cheddar cheese soup, and processed cheese, perfect for tortilla chips.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 saucepan",
+      "recipeIngredient": [
+        "1 pkg (227 g) cream cheese",
+        "4 slices processed cheese",
+        "10 oz can (284 mL) cheddar cheese soup",
+        "¼ to ½ cup salsa",
+        "Tortilla chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Let the cream cheese stand at room temperature to warm up."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, melt the cream cheese over heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cheddar cheese soup, stirring constantly until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the processed cheese into smaller pieces and melt it into the cheese mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add salsa to taste, adjusting the amount based on the type of salsa used."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the Chili Con Queso hot with tortilla chips as a dip, or cold with tacos or chili."
+        }
+      ],
+      "keywords": "nacho cheese dip, chili con queso, cheesy dip, tortilla chip dip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Party Salmon Ball",
+      "author": {
+        "@type": "Person",
+        "name": "Tanya Allen"
+      },
+      "description": "A classic chilled salmon and cream cheese ball coated in crunchy nuts and parsley.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H15M",
+      "recipeYield": "1 cheese ball",
+      "recipeIngredient": [
+        "1 (8 oz) pkg cream cheese, softened",
+        "1 (16 oz) can salmon, drained and flaked",
+        "¼ tsp Liquid Smoke",
+        "¼ tsp salt",
+        "1 Tbsp finely chopped onion",
+        "⅓ cup nuts",
+        "¼ cup parsley flakes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together except for the nuts and parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into a ball."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate for at least 8 hours (but no longer than 4 days)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll the ball in a mixture of nuts and parsley to coat evenly before serving."
+        }
+      ],
+      "keywords": "salmon ball, cheese ball, party dip, holiday appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 15 minutes"
+      },
+      "similarity": "0.30"
+    }
+  ]
 }

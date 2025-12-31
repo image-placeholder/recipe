@@ -38,5 +38,269 @@
     "prepTime": "5 minutes",
     "cookTime": "25 minutes",
     "totalTime": "30 minutes"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Glazed Cottage Roll",
+      "author": {
+        "@type": "Person",
+        "name": "Rosemary Stewart"
+      },
+      "description": "A sweet and savory glazed cottage roll baked with a mustard and brown sugar crust.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H15M",
+      "totalTime": "PT2H35M",
+      "recipeYield": "1 glazed cottage roll",
+      "recipeIngredient": [
+        "1 sweet pickled cottage roll",
+        "1 clove garlic, crushed",
+        "1 bay leaf",
+        "3 Tsp prepared mustard",
+        "6 whole cloves",
+        "3 Tbsp brown sugar",
+        "1 onion, quartered"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Remove outer wrapper from cottage roll. Place in large saucepan and cover with water. Add bay leaf, cloves, garlic and onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, cover pan and reduce heat to simmer. Cook for 1½ to 2 hours or until meat thermometer registers 170°F (75°C)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lift meat from water and remove netting. Place in shallow pan or casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend mustard and brown sugar together. Spread over cottage roll."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in 425°F (220°C) oven for 15 minutes, basting occasionally, until glaze is set."
+        }
+      ],
+      "keywords": "glazed cottage roll, baked ham, sweet glaze",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours 15 minutes",
+        "totalTime": "2 hours 35 minutes"
+      },
+      "similarity": "0.45"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Celebrity",
+      "author": {
+        "@type": "Person",
+        "name": "Rosemary Stewart"
+      },
+      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 to 3 lb chicken parts",
+        "1/4 cup brown sugar",
+        "1 package dry onion soup mix",
+        "1/2 cup ketchup",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken parts in a small roaster or casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 350°F oven for 1 hour or until tender."
+        }
+      ],
+      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Pineapple Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
+        "½ cup vinegar",
+        "2 Tbsp light brown sugar",
+        "½ tsp salt",
+        "¼ to ½ cup ketchup",
+        "¼ cup water",
+        "4 chicken breasts",
+        "1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
+        }
+      ],
+      "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Oven Barbecued Pork Chops",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Dinney"
+      },
+      "description": "Pork chops marinated in a barbecue sauce and baked in the oven.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 pork loin chops (about 2 lb)",
+        "2 Tbsp packed brown sugar",
+        "3/4 cup ketchup",
+        "1 Tbsp Worcestershire sauce",
+        "1/3 cup chopped onion",
+        "1 tsp chili powder",
+        "1 clove minced garlic",
+        "1/2 tsp dried mustard",
+        "1/4 cup vinegar",
+        "1/2 tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Trim fat from pork chops and place in a single layer in a 13x9 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine ketchup, onions, garlic, vinegar, sugar, Worcestershire sauce, chili powder, mustard, and oregano in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the chops and marinate in the refrigerator for at least 1 hour or up to 8 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with foil and bake in a 350°F oven for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and bake, spooning sauce over chops occasionally, for 15 to 30 minutes or until tender."
+        }
+      ],
+      "keywords": "pork chops, barbecue, oven baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour"
+      },
+      "similarity": "0.30"
+    }
+  ]
 }

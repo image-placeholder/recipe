@@ -50,5 +50,284 @@
     "prepTime": "20 minutes",
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Green Beans and Artichokes",
+      "author": {
+        "@type": "Person",
+        "name": "Loma Finkbeiner"
+      },
+      "description": "A savory side dish featuring green beans and artichoke hearts mixed with garlic, onion, and Romano cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 (14 oz) can artichokes, drained and quartered",
+        "1 finely chopped onion",
+        "1 clove garlic, minced",
+        "¼ cup olive oil",
+        "½ cup freshly grated Romano cheese",
+        "½ cup Italian bread crumbs",
+        "1 (10 oz) pkg frozen french-style green beans, cooked and drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion and garlic in olive oil until the onion is softened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in bread crumbs and cook until they absorb the oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add green beans, artichoke hearts, and cheese. Combine thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat slowly to soften the cheese. Season with salt and pepper to taste."
+        }
+      ],
+      "keywords": "green beans, artichokes, Romano cheese, side dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Roasted Carrots and Parsnips",
+      "author": {
+        "@type": "Person",
+        "name": "Thelma Finkbeiner"
+      },
+      "description": "A simple roasted vegetable dish featuring carrots, parsnips, and onions with a maple syrup and mustard glaze.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 lb parsnips, peeled and cut into 1-inch pieces",
+        "1 lb carrots, peeled and cut into 1-inch pieces",
+        "1 cup onions, cut into wedges",
+        "2 Tbsp vegetable oil",
+        "1 tsp dried thyme",
+        "2 Tbsp maple syrup",
+        "1 Tbsp Dijon mustard"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 400°F (200°C)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place parsnips, carrots, onions, oil, and thyme in a prepared baking dish; toss until vegetables are well coated with oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roast in the oven for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine maple syrup and mustard."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the maple syrup mixture over the vegetables and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roast for another 20 to 25 minutes or until vegetables are tender and golden, stirring once."
+        }
+      ],
+      "keywords": "roasted carrots, roasted parsnips, maple syrup glaze",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 heads broccoli, precooked",
+        "1 cup celery, precooked",
+        "1 can mushroom soup",
+        "½ cup grated cheese",
+        "1 Tbsp melted margarine",
+        "½ cup sour cream",
+        "1 cup bread crumbs"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the topping over the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "similarity": "0.28"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Vegetable Fried Rice",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A simple and flavorful fried rice dish made with cooked rice, beaten egg, soya sauce, and mixed vegetables.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "Chinese-Canadian",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "3 Tbsp vegetable oil",
+        "575 mL cold water",
+        "1 chicken Oxo cube or pouch",
+        "1 egg, beaten",
+        "1 Tbsp soya sauce",
+        "250 mL cooked rice",
+        "125 mL cooked vegetables",
+        "Salt and pepper to taste",
+        "15 mL butter or margarine"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring water to a boil. Dissolve chicken Oxo cube in water. Add rice, salt, and butter. Cover and simmer for 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain rice in a strainer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a wok or frying pan. Add beaten egg and soya sauce. Cook until just setting."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked rice and vegetables to the egg mixture. Stir continuously until combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Adjust seasoning with salt, pepper, and additional soya sauce if needed."
+        }
+      ],
+      "keywords": "chicken fried rice, vegetable fried rice, Chinese-Canadian side dish",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "similarity": "0.26"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Swedish Potatoes",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "10-12 servings",
+      "recipeIngredient": [
+        "12 large potatoes",
+        "2 slightly beaten eggs",
+        "1 cup sour cream",
+        "1 tsp salt",
+        "¾ cup bread crumbs",
+        "2 Tbsp butter",
+        "1¼ tsp butter",
+        "1 (8 oz) package cream cheese",
+        "2 tsp onion salt or chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook and mash the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dot the top with butter and sprinkle with bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, covered, at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
+        }
+      ],
+      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "similarity": "0.23"
+    }
+  ]
 }

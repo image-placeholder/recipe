@@ -42,5 +42,281 @@
     "prepTime": "10 minutes",
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Water Chestnuts Wrapped in Bacon",
+      "author": {
+        "@type": "Person",
+        "name": "Diane Dinney"
+      },
+      "description": "Bacon-wrapped water chestnuts marinated in a savory mixture of soya sauce and Worcestershire sauce, then baked until crispy.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT1H15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "2 cans water chestnuts",
+        "¼ cup soya sauce",
+        "½ lb bacon",
+        "1 tsp Worcestershire sauce",
+        "1 tsp garlic salt",
+        "2 tsp minced onions",
+        "Toothpicks"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate bacon in soya sauce, Worcestershire sauce, garlic salt, and minced onions for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap bacon around chestnuts and secure with toothpicks."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook in a 350°F oven until bacon is done.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          }
+        }
+      ],
+      "keywords": "bacon-wrapped water chestnuts, appetizer, savory snack",
+      "_naturalized_times": {
+        "prepTime": "1 hour 15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Bacon Wrapped Water Chestnuts",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "Sweet and savory bacon-wrapped water chestnuts marinated overnight in a mixture of soya sauce and brown sugar.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT8H45M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 can whole water chestnuts",
+        "¼ cup soya sauce",
+        "¼ cup brown sugar",
+        "½ lb bacon"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown bacon and cut in half."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll water chestnuts in white sugar, wrap with bacon, and secure with toothpicks."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix brown sugar and soya sauce together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour mixture over bacon-wrapped water chestnuts and marinate overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "bacon-wrapped water chestnuts, sweet and savory, appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "8 hours 45 minutes"
+      },
+      "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Louise Wein"
+        }
+      ],
+      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 serving dish",
+      "recipeIngredient": [
+        "1 tsp Accent",
+        "1 cup sour cream",
+        "¼ tsp salt",
+        "1 cup mayonnaise",
+        "¼ tsp celery salt",
+        "1 tsp parsley flakes",
+        "2 drops Tabasco sauce (can be omitted)",
+        "½ tsp dill weed",
+        "1 tsp garlic salt",
+        "Assorted vegetables or crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill before serving with chips, crackers, or vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, sour cream dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Rumaki",
+      "author": {
+        "@type": "Person",
+        "name": "Leanne Robinson"
+      },
+      "description": "Classic rumaki appetizer featuring bacon-wrapped water chestnuts baked in a ketchup and brown sugar glaze.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 lb bacon",
+        "1 can water chestnuts",
+        "½ cup ketchup",
+        "½ cup brown sugar"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the pound of bacon in half."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap bacon around chestnuts and secure with toothpicks."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix ketchup and brown sugar."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour mixture over chestnuts and bake for another ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "rumaki, bacon-wrapped water chestnuts, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "similarity": "0.34"
+    }
+  ]
 }

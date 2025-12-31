@@ -40,5 +40,354 @@
     "prepTime": "15 minutes",
     "cookTime": "1 hour",
     "totalTime": "1 hour 15 minutes"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Jelly Roll Style Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 loaf",
+      "recipeIngredient": [
+        "½ lb ground beef",
+        "3 cups shredded mozzarella cheese",
+        "1 beaten egg",
+        "½ cup cracker crumbs or dry bread crumbs",
+        "½ tsp basil",
+        "1 clove garlic, minced",
+        "½ cup minced onion",
+        "1 tsp salt",
+        "⅛ tsp pepper",
+        "2 (8 oz) cans tomato sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ground beef and mix thoroughly with hands until just combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain off fat and pour reserved tomato sauce on the roll."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 to 15 minutes before slicing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Decorate with tomato slices and green parsley on a serving tray."
+        }
+      ],
+      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "similarity": "0.51"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheeseburger Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H40M",
+      "recipeYield": "1 meatloaf",
+      "recipeIngredient": [
+        "1½ lb lean ground hamburger",
+        "½ tsp garlic salt",
+        "½ cup fine bread crumbs",
+        "1 tsp onion powder",
+        "1 egg",
+        "1 can (8 oz) tomato sauce",
+        "¼ cup parsley flakes",
+        "½ cup finely chopped onion",
+        "1 tsp salt",
+        "1 cup shredded cheddar cheese",
+        "⅛ tsp pepper",
+        "½ tsp seasoning salt",
+        "½ cup sweet pickle relish"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a mixing bowl, combine ground beef, egg, bread crumbs, garlic salt, onion powder, salt, pepper, and seasoning salt. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix chopped onion and tomato sauce together in a separate bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add half of the tomato sauce and onion mixture to the beef mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack half of the beef mixture into a loaf pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese and sweet pickle relish evenly over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack the remaining beef mixture on top and press firmly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated oven at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully spoon off excess fat from the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the remaining tomato sauce and onion mixture over the meatloaf."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
+        }
+      ],
+      "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 40 minutes"
+      },
+      "similarity": "0.43"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Boneless Chicken Breasts",
+      "author": {
+        "@type": "Person",
+        "name": "Laura Nakamura"
+      },
+      "description": "A stuffed boneless chicken breast recipe with ham, cheese, and onions.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 boneless chicken breasts",
+        "1 cup fine bread crumbs",
+        "1 beaten egg",
+        "1 Tbsp milk",
+        "Ham, cut in strips",
+        "Cheese, shredded",
+        "Onions, finely chopped",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Pound chicken with a frying pan or mallet, skin side down."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer with ham, cheese, and onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll up and dip in egg mixture, then coat with bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put in a cake or casserole pan and bake at 350°F for 1/2 hour or until chicken is cooked."
+        }
+      ],
+      "keywords": "stuffed chicken breast, boneless chicken",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Twist Bake",
+      "author": {
+        "@type": "Person",
+        "name": "Cheryl MacLeod"
+      },
+      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, chopped",
+        "1 can (284 mL) mushrooms, chopped",
+        "1 envelope taco seasoning mix",
+        "¾ cup water",
+        "1 can (680 mL) spaghetti sauce",
+        "¼ cup salsa (optional)",
+        "1 green pepper, chopped (optional)",
+        "2 cups spiral pasta",
+        "1 cup sour cream",
+        "1½ cups shredded cheddar cheese",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and start water to cook for pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the spiral pasta, then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine pasta with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
+        }
+      ],
+      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "similarity": "0.38"
+    }
+  ]
 }

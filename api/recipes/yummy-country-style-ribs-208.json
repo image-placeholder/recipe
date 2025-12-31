@@ -49,5 +49,303 @@
     "prepTime": "20 minutes",
     "cookTime": "1 hour",
     "totalTime": "24 hours 20 minutes"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pork Chops with Dried Fruit",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A savory and sweet dish featuring pork chops cooked with assorted dried fruits in a flavorful orange juice sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 pork chops",
+        "1½ cups assorted dried fruit (apples, peaches, pears, apricots, raisins)",
+        "1 Tbsp vegetable oil",
+        "2 cups orange juice, divided",
+        "1½ tsp cornstarch",
+        "¼ tsp allspice",
+        "½ tsp Worcestershire sauce",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat a large skillet over medium-high heat. Add oil and cook pork chops until golden brown on each side, about 6 to 8 minutes per side. Remove chops to a plate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat, add 1 cup orange juice to the skillet, and scrape any browned bits from the pan. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining orange juice, dried fruit, Worcestershire sauce, and allspice. Simmer for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cornstarch with a small amount of water or juice. Stir into the skillet and cook until the sauce thickens, about 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return pork chops to the skillet and cook until heated through. Serve with rice or couscous."
+        }
+      ],
+      "keywords": "pork chops, dried fruit, orange juice sauce, savory sweet dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Maple Glazed Ribs",
+      "author": {
+        "@type": "Person",
+        "name": "Evelyn Pickering"
+      },
+      "description": "A sweet and savory pork spare ribs recipe glazed with a maple syrup-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H15M",
+      "totalTime": "PT2H35M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "3 lb pork spare ribs",
+        "1 Tbsp Dijon mustard",
+        "1 cup maple syrup",
+        "1 Tbsp Worcestershire sauce",
+        "3 Tbsp orange juice",
+        "1 tsp curry powder concentrate",
+        "1 garlic clove, minced",
+        "3 Tbsp ketchup",
+        "2 green onions",
+        "2 Tbsp soya sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut ribs into serving-size pieces and place in a roasting pan. Cover and bake for 1½ hours or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, combine the Dijon mustard, maple syrup, Worcestershire sauce, orange juice, curry powder, garlic, ketchup, green onions, and soya sauce in a saucepan. Bring to a boil, then reduce heat and simmer for 15 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the ribs and pour the sauce over them. Bake uncovered for an additional ½ hour, stirring occasionally."
+        }
+      ],
+      "keywords": "maple glazed ribs, pork spare ribs, sweet and savory",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours 15 minutes",
+        "totalTime": "2 hours 35 minutes"
+      },
+      "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Jelly Roll Style Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 loaf",
+      "recipeIngredient": [
+        "½ lb ground beef",
+        "3 cups shredded mozzarella cheese",
+        "1 beaten egg",
+        "½ cup cracker crumbs or dry bread crumbs",
+        "½ tsp basil",
+        "1 clove garlic, minced",
+        "½ cup minced onion",
+        "1 tsp salt",
+        "⅛ tsp pepper",
+        "2 (8 oz) cans tomato sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ground beef and mix thoroughly with hands until just combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain off fat and pour reserved tomato sauce on the roll."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 to 15 minutes before slicing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Decorate with tomato slices and green parsley on a serving tray."
+        }
+      ],
+      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "similarity": "0.37"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Delicious Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A classic meatloaf with a cheddar cheese and carrot mixture, topped with a sweet ketchup-mustard glaze.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H50M",
+      "recipeYield": "1 meatloaf",
+      "recipeIngredient": [
+        "1½ lb lean ground beef",
+        "2 eggs",
+        "⅔ cup milk",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "1 cup shredded cheddar cheese",
+        "¼ cup brown sugar",
+        "3 slices fresh bread, crumbled",
+        "¼ cup ketchup",
+        "1 onion, chopped",
+        "4 Tbsp prepared mustard",
+        "½ cup shredded raw carrot"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat eggs in a bowl with a fork, then add milk, salt, pepper, and crumbled bread. Beat until the bread disintegrates."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped onion, shredded carrot, cheddar cheese, and ground beef to the bowl. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack the mixture into a loaf pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine brown sugar, ketchup, and prepared mustard in a small bowl. Spread this glaze over the meatloaf."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for approximately 1½ hours."
+        }
+      ],
+      "keywords": "meatloaf, cheddar cheese, ketchup glaze, classic American",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 50 minutes"
+      },
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "similarity": "0.35"
+    }
+  ]
 }

@@ -53,5 +53,251 @@
     "prepTime": "10 minutes",
     "cookTime": "",
     "totalTime": "10 minutes"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers."
+        }
+      ],
+      "keywords": "crab dip, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "similarity": "0.47"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Curry Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A flavorful and spicy dip made with mayonnaise, curry powder, and chili sauce, perfect for serving with snacks.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 cup mayonnaise",
+        "1/2 tsp Worcestershire sauce",
+        "1/4 cup chili sauce",
+        "1 tsp curry powder",
+        "1/4 tsp Tabasco",
+        "1/2 tsp chopped onion (optional)",
+        "1 tsp lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a bowl until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand in the fridge for 1 to 2 hours before serving to allow flavors to meld."
+        }
+      ],
+      "keywords": "curry dip, spicy dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "similarity": "0.43"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab-Stuffed Mushrooms",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A savory appetizer featuring large mushrooms filled with a crab meat and cheese mixture, baked until golden.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT12M",
+      "totalTime": "PT32M",
+      "recipeYield": "12 appetizers",
+      "recipeIngredient": [
+        "12 extra large mushrooms",
+        "2 Tbsp butter, divided",
+        "1/4 cup chopped green onion",
+        "1 Tbsp mayonnaise",
+        "1 can (170 g) crab meat, drained",
+        "Salt and pepper to taste",
+        "1/2 lemon for juice",
+        "1/2 cup grated Emmenthal or Gruyère cheese, divided"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wipe mushrooms with lemon juice. Remove stems for stuffing and set caps aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Trim and chop stems. In a saucepan, melt butter. Add onion and chopped mushroom stems. Cook until mushroom stems are tender and moisture has evaporated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in drained crab meat, 1/4 cup cheese, 1 tablespoon cracker crumbs, mayonnaise, salt, and pepper to taste. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon stuffing into mushroom caps and place on greased baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine remaining 1/4 cup cheese and 1 teaspoon cracker crumbs. Sprinkle evenly over stuffed mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate until ready to serve."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in 400°F oven for 10 to 12 minutes. Serve hot."
+        }
+      ],
+      "keywords": "crab stuffed mushrooms, appetizer, seafood",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "12 minutes",
+        "totalTime": "32 minutes"
+      },
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Shrimp Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 can shrimp cocktail",
+        "3 green onions, finely chopped",
+        "1 tsp garlic powder",
+        "1 (8 oz) package cream cheese, softened",
+        "1 tsp Worcestershire sauce",
+        "1½ cups shredded cheddar cheese",
+        "Miracle Whip (as needed for consistency)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a medium bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mash the shrimp with a fork until well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate before serving with crackers."
+        }
+      ],
+      "keywords": "shrimp spread, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "similarity": "0.37"
+    }
+  ]
 }

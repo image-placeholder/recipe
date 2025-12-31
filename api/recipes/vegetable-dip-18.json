@@ -37,5 +37,246 @@
     "prepTime": "5 minutes",
     "cookTime": "",
     "totalTime": "5 minutes"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Yogurt Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A refreshing yogurt-based dip flavored with mayonnaise, herbs, and seasonings, perfect for vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H10M",
+      "recipeIngredient": [
+        "½ cup sour cream or plain yogurt",
+        "2/3 cup mayonnaise",
+        "1 Tbsp dry onion flakes",
+        "1 tsp Accent",
+        "1 tsp seasoning salt",
+        "½ tsp dill weed",
+        "½ tsp Worcestershire sauce",
+        "1 Tbsp parsley",
+        "Vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let sit in the fridge for 1 hour to allow flavors to meld."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with vegetables."
+        }
+      ],
+      "keywords": "yogurt dip, healthy dip, vegetable dip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Water Chestnuts Wrapped in Bacon",
+      "author": {
+        "@type": "Person",
+        "name": "Diane Dinney"
+      },
+      "description": "Bacon-wrapped water chestnuts marinated in a savory mixture of soya sauce and Worcestershire sauce, then baked until crispy.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT1H15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "2 cans water chestnuts",
+        "¼ cup soya sauce",
+        "½ lb bacon",
+        "1 tsp Worcestershire sauce",
+        "1 tsp garlic salt",
+        "2 tsp minced onions",
+        "Toothpicks"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate bacon in soya sauce, Worcestershire sauce, garlic salt, and minced onions for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap bacon around chestnuts and secure with toothpicks."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook in a 350°F oven until bacon is done.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          }
+        }
+      ],
+      "keywords": "bacon-wrapped water chestnuts, appetizer, savory snack",
+      "_naturalized_times": {
+        "prepTime": "1 hour 15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Shrimp Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 can shrimp cocktail",
+        "3 green onions, finely chopped",
+        "1 tsp garlic powder",
+        "1 (8 oz) package cream cheese, softened",
+        "1 tsp Worcestershire sauce",
+        "1½ cups shredded cheddar cheese",
+        "Miracle Whip (as needed for consistency)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a medium bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mash the shrimp with a fork until well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate before serving with crackers."
+        }
+      ],
+      "keywords": "shrimp spread, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Plain Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A simple recipe for pickled eggs with a tangy cider vinegar brine and sliced onions.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "1 tsp pickling spice",
+        "2 cups cider vinegar",
+        "1 large onion, sliced into rings",
+        "12 hard-boiled eggs, shelled",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except eggs and onion rings in a stainless steel or enamel pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil and simmer for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large jar, alternate layers of eggs and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the heated liquid over the eggs and onions, ensuring all are covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
+        }
+      ],
+      "keywords": "pickled eggs, cider vinegar, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Curry Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A flavorful and spicy dip made with mayonnaise, curry powder, and chili sauce, perfect for serving with snacks.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 cup mayonnaise",
+        "1/2 tsp Worcestershire sauce",
+        "1/4 cup chili sauce",
+        "1 tsp curry powder",
+        "1/4 tsp Tabasco",
+        "1/2 tsp chopped onion (optional)",
+        "1 tsp lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a bowl until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand in the fridge for 1 to 2 hours before serving to allow flavors to meld."
+        }
+      ],
+      "keywords": "curry dip, spicy dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "similarity": "0.36"
+    }
+  ]
 }

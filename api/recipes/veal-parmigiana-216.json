@@ -58,5 +58,356 @@
     "prepTime": "30 minutes",
     "cookTime": "30 minutes",
     "totalTime": "1 hour"
-  }
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Parmesan Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Lorraine Bowers"
+      },
+      "description": "A crispy Parmesan-crusted chicken dish baked with spaghetti sauce and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeIngredient": [
+        "Boneless chicken breasts",
+        "1/3 cup Parmesan cheese",
+        "1 1/3 cups dry bread crumbs",
+        "3 beaten eggs",
+        "1 tsp salt",
+        "1/4 tsp pepper",
+        "Spaghetti sauce",
+        "Grated mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix Parmesan cheese with bread crumbs and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix eggs, salt, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip boneless chicken breasts in egg mixture, then coat with bread crumb mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange coated chicken breasts in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with tinfoil and bake at 350°F for 45 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour spaghetti sauce over the chicken and continue baking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Before serving, sprinkle grated mozzarella cheese on top and bake for an additional 10 minutes until browned."
+        }
+      ],
+      "keywords": "Parmesan chicken, breaded chicken, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Jelly Roll Style Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 loaf",
+      "recipeIngredient": [
+        "½ lb ground beef",
+        "3 cups shredded mozzarella cheese",
+        "1 beaten egg",
+        "½ cup cracker crumbs or dry bread crumbs",
+        "½ tsp basil",
+        "1 clove garlic, minced",
+        "½ cup minced onion",
+        "1 tsp salt",
+        "⅛ tsp pepper",
+        "2 (8 oz) cans tomato sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ground beef and mix thoroughly with hands until just combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain off fat and pour reserved tomato sauce on the roll."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 to 15 minutes before slicing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Decorate with tomato slices and green parsley on a serving tray."
+        }
+      ],
+      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheeseburger Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H40M",
+      "recipeYield": "1 meatloaf",
+      "recipeIngredient": [
+        "1½ lb lean ground hamburger",
+        "½ tsp garlic salt",
+        "½ cup fine bread crumbs",
+        "1 tsp onion powder",
+        "1 egg",
+        "1 can (8 oz) tomato sauce",
+        "¼ cup parsley flakes",
+        "½ cup finely chopped onion",
+        "1 tsp salt",
+        "1 cup shredded cheddar cheese",
+        "⅛ tsp pepper",
+        "½ tsp seasoning salt",
+        "½ cup sweet pickle relish"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a mixing bowl, combine ground beef, egg, bread crumbs, garlic salt, onion powder, salt, pepper, and seasoning salt. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix chopped onion and tomato sauce together in a separate bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add half of the tomato sauce and onion mixture to the beef mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack half of the beef mixture into a loaf pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese and sweet pickle relish evenly over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack the remaining beef mixture on top and press firmly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated oven at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully spoon off excess fat from the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the remaining tomato sauce and onion mixture over the meatloaf."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
+        }
+      ],
+      "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 40 minutes"
+      },
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lasagna",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x13 inch pan",
+      "recipeIngredient": [
+        "1 (15 oz) container cottage cheese",
+        "1 (16 oz) box lasagna noodles",
+        "1½ cups water",
+        "2 (15 oz) jars spaghetti sauce",
+        "8 oz mozzarella cheese, thinly sliced",
+        "½ cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cottage cheese and Parmesan cheese in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread 1½ cups of spaghetti sauce in the bottom of a 13x9x2 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange a layer of uncooked lasagna noodles on top of the sauce, overlapping slightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle half of the mozzarella cheese and half of the cottage cheese mixture over the noodles."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Repeat with another layer of sauce, noodles, and the remaining cheeses."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the top with sauce and cover tightly with heavy foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Set on a jelly roll pan and bake."
+        }
+      ],
+      "keywords": "lasagna, Italian-American, pasta bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Noodles with Hamburg",
+      "author": {
+        "@type": "Person",
+        "name": "Carolyn Gower"
+      },
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
+        "1 tsp salt",
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "similarity": "0.32"
+    }
+  ]
 }
