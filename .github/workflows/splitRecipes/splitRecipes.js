@@ -65,6 +65,20 @@ async function naturalizeRecipeTimes(recipes) {
 }
 
 
+function naturalizeRecipeTimes(recipe) {
+  if (!recipe || typeof recipe !== 'object') return recipe;
+
+  return {
+    ...recipe,
+    _naturalized_times: {
+      prepTime: humanizeISODuration(recipe.prepTime),
+      cookTime: humanizeISODuration(recipe.cookTime),
+      totalTime: humanizeISODuration(recipe.totalTime),
+    },
+  };
+}
+
+
 // 1. Configuration
 const DATA_FILE = path.join(process.cwd(), '_data', 'recipes.json');
 const OUTPUT_DIR = path.join(process.cwd(), 'api');
@@ -92,7 +106,7 @@ const generateRecipes = async () => {
     ensureDir(OUTPUT_DIR);
     const rawData = fs.readFileSync(DATA_FILE, 'utf8');
     const recipes = JSON.parse(rawData);
-    await naturalizeRecipeTimes(recipes);
+    //await naturalizeRecipeTimes(recipes);
     console.log(`Processing ${recipes.length} recipes...`);
 
     const searchIndex = [];
@@ -111,7 +125,7 @@ const generateRecipes = async () => {
       ensureDir(filePath);
 
       // Write individual recipe file
-      fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(recipe, null, 2));
+      fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(recipe), null, 2));
 
       // Handle authors (array or single object)
       let authors = [];
