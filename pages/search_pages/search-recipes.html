@@ -325,6 +325,7 @@ title: "Search Recipes"
       setupObserver();
     };
 
+    const setupObserver = () => { observer?.disconnect(); observer = new IntersectionObserver( ([entry]) => { if (entry.isIntersecting) { renderNextBatch(); } }, { rootMargin: '300px' } ); const lastItem = DOM.grid.lastElementChild; if (lastItem) observer.observe(lastItem); };
 
   /* ----------------------------------
      Controller
