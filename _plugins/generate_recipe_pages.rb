@@ -236,7 +236,7 @@ module Jekyll
         page.data = {
           "layout" => "recipe-archive",
           "title"  => "Cuisines",
-          "type"   => "categories",
+          "type"   => "cuisines-categories",
           "paginated_recipes" => slice,
           "pagination" => {
             "current_page" => page_num,
