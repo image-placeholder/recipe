@@ -134,7 +134,11 @@ const generateRecipes = async () => {
 
       _recipe.url = `/recipes/${fileName}`;
       // Write individual recipe file
-      fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2));
+      await _fs.writeFile(
+        path.join(filePath, fileName),
+        JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2),
+        "utf8"
+      );
 
 
       const id = recipe.id || (index + 1);
