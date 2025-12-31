@@ -101,6 +101,17 @@ jekyll-archives:
     layout:  tag
     permalinks:
       year: "/blog/:year/"
+
+
+# -----------------------------------------------------------------------------
+# Jekyll PurgeCSS
+# -----------------------------------------------------------------------------
+
+PurgeCSS:
+  content: ["_site/**/*.html", "_site/**/*.js"]
+  css: ["_site/assets/css/font-awesome.css"] ## Only purge font awesome, Jekyll PurgeCSS will break with tailwind. 
+  output: _site/assets/css/
+      
 # -----------------------------------------------------------------------------
 # Terser
 # -----------------------------------------------------------------------------
