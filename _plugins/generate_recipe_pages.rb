@@ -98,7 +98,7 @@ module Jekyll
         page = Jekyll::PageWithoutAFile.new(site, site.source, dir, "index.html")
         page.data = {
           "layout" => "recipe-archive",
-          "title"  => "Recipes — Page #{page_num}",
+          "title"  => "Recipes",
           "type"   => "recipes",
           "paginated_recipes" => slice.map(&:data),
           "pagination" => {
@@ -200,7 +200,7 @@ module Jekyll
           "layout" => "recipe-archive",
           "title"  => "Categories",
           "type"   => "category",
-          "recipes" => slice,
+          "paginated_recipes" => slice.map(&:data),
           "pagination" => {
             "current_page" => page_num,
             "total_pages"  => total_pages,
@@ -237,7 +237,7 @@ module Jekyll
           "layout" => "recipe-archive",
           "title"  => "Cuisines",
           "type"   => "cuisine",
-          "recipes" => slice,
+          "paginated_recipes" => slice.map(&:data),
           "pagination" => {
             "current_page" => page_num,
             "total_pages"  => total_pages,
