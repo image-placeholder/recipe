@@ -8,37 +8,48 @@ module Jekyll
     end
 
     def render(context)
+      # Check cache first
       return @@cache[@file_path] if @@cache.key?(@file_path)
 
-      site = context.registers[:site]
-      file_path = File.join(site.source, @file_path)
+      # Build the full file path relative to the Jekyll site's root directory
+      file_path = File.join(Dir.pwd, @file_path)
 
-      return "Error: File not found." unless File.exist?(file_path)
+      if File.exist?(file_path)
+        # Read the content of the file
+        content = File.read(file_path)
 
-      content = File.read(file_path)
+        # If the file contains YAML front matter (i.e., starts with '---'), parse it
+        if content.start_with?('---')
+          front_matter_end_index = content.index('---', 3) # Get end of YAML front matter
+          if front_matter_end_index
+            front_matter = content[3..front_matter_end_index-1] # Extract YAML
+            body_content = content[(front_matter_end_index + 3)..] # Extract content after YAML front matter
 
-      if content.start_with?('---')
-        fm_end = content.index('---', 3)
-        front_matter = content[3...fm_end]
-        body_content = content[(fm_end + 3)..]
+            # Parse the YAML front matter into a hash
+            front_matter_hash = YAML.load(front_matter)
 
-        context['front_matter'] = YAML.safe_load(front_matter) if front_matter
+            # Merge the front matter hash into the context (so we can access it in Liquid)
+            context['front_matter'] = front_matter_hash
+          end
+        else
+          body_content = content
+        end
+
+        # Manually parse and render the content with the Liquid context
+        template = Liquid::Template.parse(body_content)
+        expanded_content = template.render(context)
+
+        # Cache the result
+        @@cache[@file_path] = expanded_content
+
+        # Return the expanded content
+        expanded_content
       else
-        body_content = content
+        "Error: File not found."
       end
-
-      template = Liquid::Template.parse(body_content)
-
-      # 🔑 THIS IS THE IMPORTANT PART
-      expanded_content = template.render!(
-        site.site_payload,
-        registers: context.registers
-      )
-
-      @@cache[@file_path] = expanded_content
-      expanded_content
     end
   end
 end
 
+# Register the tag with Jekyll
 Liquid::Template.register_tag('file_read', Jekyll::FileReadTag)
