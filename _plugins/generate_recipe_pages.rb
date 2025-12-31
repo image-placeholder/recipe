@@ -42,6 +42,7 @@ module Jekyll
           )
 
 
+
           schema = data
 
           # 🔥 Remove persisted build-time fields to be removed from recipe schemas.
@@ -54,7 +55,7 @@ module Jekyll
             "title"     => data["name"],
             "permalink" => "/recipes/#{unique_slug}/",
             "slug"      => unique_slug,
-            "recipe_schema"      => data
+            "recipe_schema"      => schema
           )
 
           page.content = ""
@@ -72,12 +73,14 @@ module Jekyll
           if data.key?("_naturalized_times")
             data.delete("_naturalized_times")
 
+             # 🔥 Remove persisted build-time field
           if data.key?("_url")
             data.delete("_url")
 
+             # 🔥 Remove persisted build-time field
           if data.key?("_similar")
             data.delete("_similar")            
-            
+      
             # ✍️ Write cleaned data back to file
             File.write(
               file_path,
