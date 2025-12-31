@@ -57,11 +57,12 @@ function flattenFeatures(recipe) {
 // Get top N similar recipes to a target
 export function getSimilarRecipes(targetRecipe, recipes, topN = 3) {
   const targetFeatures = flattenFeatures(targetRecipe);
-  const sameCategory = false;
+  const sameCategory = true;
+  const sameCuisine = false;
   return recipes
     .filter(r => r.name !== targetRecipe.name)
     .filter(r => !sameCategory || r.recipeCategory === targetRecipe.recipeCategory)
-    .filter(r => !sameCategory || r.recipeCuisine === targetRecipe.recipeCuisine)
+    .filter(r => !sameCuisine || r.recipeCuisine === targetRecipe.recipeCuisine)
     .map(r => {
       const score = cosineSimilarity(targetFeatures, flattenFeatures(r));
       return { recipe: r, score };
