@@ -136,7 +136,7 @@ const generateRecipes = async () => {
       ensureDir(filePath);
 
       // Run Recommendation System
-      const _recipe - getSimilarRecipes(recipe, recipes);
+      const _recipe = getSimilarRecipes(recipe, recipes, 5);
       // Write individual recipe file
       fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2));
 
