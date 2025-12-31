@@ -129,24 +129,20 @@ const generateRecipes = async () => {
     const authorSlugMap = {};
 
     recipes.forEach((recipe, index) => {
-      // Run Recommendation System
-      const _recipe = similarRecipes(recipe, recipes, 5);
-
-      _recipe.url = `/recipes/${fileName}`;
-      // Write individual recipe file
-      await _fs.writeFile(
-        path.join(filePath, fileName),
-        JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2),
-        "utf8"
-      );
-
-
       const id = recipe.id || (index + 1);
       const baseSlug = slugify(recipe.name || 'untitled-recipe');
       const fileName = `${baseSlug}-${id}.json`;
       const filePath = path.join(OUTPUT_DIR, 'recipes');
       ensureDir(filePath);
-     
+
+      // Run Recommendation System
+      const _recipe = similarRecipes(recipe, recipes, 5);
+
+      _recipe._url = `/recipe/${fileName}`;
+      delete _recipe.id;
+      // Write individual recipe file
+      fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2));
+
       // Handle authors (array or single object)
       let authors = [];
       if (Array.isArray(recipe.author)) {
