@@ -261,34 +261,33 @@ title: "Search Recipes"
     `;
   };
 
-  const createCardHTML = (r) => `
-    <article
-      role="listitem"
-      tabindex="0"
-      class="result-item group bg-white border border-stone-100 p-10
-             transition hover:shadow-2xl hover:-translate-y-1
-             focus:outline-none focus:ring-2 focus:ring-stone-800"
-    >
-      <span class="text-[9px] uppercase tracking-widest text-stone-400 mb-4 block">
-        ${r.author}
-      </span>
+ const createCardHTML = (r) => `
+  <a
+    href="{{base_url}}/${r.url}?from=search"
+    role="listitem"
+    tabindex="0"
+    class="result-item group block border border-stone-200 p-8 bg-white
+           hover:shadow-lg transition-all duration-500
+           focus:outline-none focus:ring-2 focus:ring-stone-800"
+    aria-label="View recipe ${r.name}"
+  >
+    <span class="text-xs uppercase tracking-widest text-stone-400 mb-4 block">
+      ${r.author}
+    </span>
 
-      <h3 class="text-3xl mb-4 serif group-hover:italic transition-all">
-        ${r.name}
-      </h3>
+    <h3 class="text-2xl mb-4 serif group-hover:text-amber-900 transition-colors">
+      ${r.name}
+    </h3>
 
-      <a
-        href="{{base_url}}/${r.url}"
-        class="inline-flex items-center gap-2"
-        aria-label="View recipe ${r.name}"
-      >
-        <span class="h-px w-8 bg-stone-900"></span>
-        <span class="text-[10px] font-bold uppercase tracking-widest">
-          View Recipe
-        </span>
-      </a>
-    </article>
-  `;
+    <p class="text-sm text-stone-500 leading-relaxed mb-6">
+      ${r.description ?? 'View the full recipe from the {{site.title}}.'}
+    </p>
+
+    <span class="text-xs uppercase tracking-widest font-bold border-b border-stone-900">
+      View Recipe
+    </span>
+  </a>
+`;
 
   /* ----------------------------------
      Incremental Rendering
