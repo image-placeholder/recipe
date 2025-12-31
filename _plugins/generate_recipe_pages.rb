@@ -41,6 +41,20 @@ module Jekyll
             "index.html"
           )
 
+
+          schema = data
+
+          # 🔥 Remove persisted build-time field
+          if schema.key?("_naturalized_times")
+            schema.delete("_naturalized_times")
+
+          if schema.key?("_url")
+            data.delete("_url")
+
+          if schema.key?("_similar")
+            data.delete("_similar")             
+
+          
           page.data = data.merge(
             "layout"    => "recipe",
             "title"     => data["name"],
@@ -63,7 +77,13 @@ module Jekyll
              # 🔥 Remove persisted build-time field
           if data.key?("_naturalized_times")
             data.delete("_naturalized_times")
-      
+
+          if data.key?("_url")
+            data.delete("_url")
+
+          if data.key?("_similar")
+            data.delete("_similar")            
+            
             # ✍️ Write cleaned data back to file
             File.write(
               file_path,
