@@ -331,6 +331,9 @@ title: "Search Recipes"
      Controller
   ---------------------------------- */
   const handleSearch = debounce((value) => {
+    // Update URL dynamically without reloading
+    const newUrl = `${window.location.pathname}?q=${encodeURIComponent(query)}`;
+    history.replaceState(null, '', newUrl);
     const query = normalize(value);
 
     observer?.disconnect();
@@ -366,8 +369,13 @@ title: "Search Recipes"
   ---------------------------------- */
   const init = () => {
     DOM.input?.addEventListener('input', (e) =>
-      handleSearch(e.target.value)
+      handleSearch(e.target.value);
+      // If URL has ?q=..., pre-fill and auto-search
+      const urlParams = new URLSearchParams(window.location.search);
+      const queryParam = urlParams.get('q');
+      if (queryParam) performSearch(queryParam.toLowerCase());
     );
+    document.removeEventListener('DOMContentLoaded', init);
   };
 
   document.addEventListener('DOMContentLoaded', init);
