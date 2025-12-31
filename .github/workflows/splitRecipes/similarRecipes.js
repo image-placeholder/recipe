@@ -57,7 +57,7 @@ function flattenFeatures(recipe) {
 // Get top N similar recipes to a target
 export function getSimilarRecipes(targetRecipe, recipes, topN = 3) {
   const targetFeatures = flattenFeatures(targetRecipe);
-  const sameCategory = true;
+  const sameCategory = false;
   return recipes
     .filter(r => r.name !== targetRecipe.name)
     .filter(r => !sameCategory || r.recipeCategory === targetRecipe.recipeCategory)
