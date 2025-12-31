@@ -237,7 +237,7 @@ module Jekyll
           "layout" => "recipe-archive",
           "title"  => "Cuisines",
           "type"   => "cuisine",
-          "paginated_recipes" => slice
+          "paginated_recipes" => slice,
           "pagination" => {
             "current_page" => page_num,
             "total_pages"  => total_pages,
