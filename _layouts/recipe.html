@@ -117,7 +117,7 @@
 
     </div>
 
-{% for recipe in recipes %}
+{% for recipe in page._similar %}
             {{ recipe }}  {{ recipe.name }}   {{ recipe.description }}  {{ recipe._url }} 
 {% endfor %}
     
