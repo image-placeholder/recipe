@@ -4,8 +4,8 @@
 # All of these settings are required
 
 
-title: "Crediton Cemetery Heritage Portal"
-description: "A platform for exploring and preserving the history of Crediton Cemetery."
+title: "Crediton Table"
+description: "A platform for exploring and preserving the recipes & memories of Crediton, Ontario community."
 
 # Set this to true to disable plugins
 # safe:               false
@@ -68,10 +68,11 @@ defaults:
 plugins:
  # - octopress-minify-html
   - jekyll-sitemap
+  - jekyll-purgecss
   - jekyll-assets
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-purge-css
+  #- jekyll-purge-css (upgraded to new plugin)
   - jekyll-minifier
   - jekyll-terser
   - jekyll-archives-v2
