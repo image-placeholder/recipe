@@ -65,61 +65,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chinese Rice Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A flavorful salad made with Minute Rice, frozen peas, chopped celery, and a savory dressing, optionally garnished with chow mein noodles and shrimp.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Chinese-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeIngredient": [
-        "1⅓ cups cooked Minute Rice",
-        "1 (10 oz) package frozen peas",
-        "1½ cups chopped celery",
-        "¼ cup chopped onion",
-        "1 tsp salt",
-        "1 Tbsp soy sauce",
-        "3 tsp malt vinegar",
-        "2 tsp curry powder",
-        "½ tsp sugar",
-        "Dressing: ½ cup oil",
-        "Chow mein noodles for garnish (optional)",
-        "1 can drained shrimp (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine cooked rice, frozen peas, chopped celery, and onion in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a separate bowl, mix together the dressing ingredients (oil, soy sauce, malt vinegar, curry powder, salt, and sugar)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the dressing over the rice mixture and toss to combine."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Garnish with chow mein noodles and/or add drained shrimp if desired."
-        }
-      ],
-      "keywords": "Chinese rice salad, savory salad, Minute Rice",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
-      },
-      "id": 81,
-      "similarity": "0.44"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Chicken and Cheese Casserole",
       "author": {
         "@type": "Person",
@@ -385,6 +330,80 @@
       },
       "id": 178,
       "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef and Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kurtis Brand"
+      },
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
+      "recipeIngredient": [
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Sauté celery and onion in butter until soft and tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place rice in a greased 1½ quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the rice with the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "beef casserole, rice casserole, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 168,
+      "similarity": "0.39"
     }
   ]
 }

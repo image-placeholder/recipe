@@ -74,158 +74,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken and Croutons",
-      "author": {
-        "@type": "Person",
-        "name": "Tanya Allen"
-      },
-      "description": "A creamy chicken casserole topped with Swiss cheese and crunchy croutons.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H15M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "8 servings",
-      "recipeIngredient": [
-        "8 chicken breast fillets",
-        "1 (8 oz) can mushrooms",
-        "8 slices Swiss cheese",
-        "1 (10 oz) can cream of chicken soup",
-        "½ cup milk",
-        "1 (6 oz) pkg croutons",
-        "¼ cup melted butter"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          }
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Rinse the chicken and pat dry, then arrange in a 9×13 inch baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top each chicken fillet with a slice of Swiss cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the cream of chicken soup, mushrooms, and milk in a bowl; mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the soup mixture over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss the croutons with melted butter in a small bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle the buttered croutons over the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake, covered with foil, for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake, uncovered, for an additional 15 minutes until the top is browned.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "duration": "PT15M"
-        }
-      ],
-      "keywords": "chicken casserole, croutons, creamy chicken bake",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour 15 minutes",
-        "totalTime": "1 hour 35 minutes"
-      },
-      "id": 246,
-      "similarity": "0.45"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Janet Dearing"
-      },
-      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 quart casserole",
-      "recipeIngredient": [
-        "½ lb spaghetti",
-        "½ lb ground beef",
-        "1 can (19 oz) diced tomatoes",
-        "½ cup chopped onion",
-        "1 can (10 oz) condensed cream of mushroom soup",
-        "1½ tsp salt",
-        "¼ tsp pepper",
-        "1 cup grated medium cheddar cheese",
-        "½ tsp garlic",
-        "1 can (10 oz) mushroom pieces, drained"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef and onion in a frying pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook spaghetti according to package directions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour canned tomatoes over the spaghetti layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the browned meat mixture over the tomatoes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with cream of mushroom soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with grated cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
-        }
-      ],
-      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 178,
-      "similarity": "0.42"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Favourite Chicken",
       "author": {
         "@type": "Person",
@@ -285,72 +133,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheddar Baked Potato Slices",
-      "author": {
-        "@type": "Person",
-        "name": "Ina Browning"
-      },
-      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "4 medium baking potatoes, cut into ¼ inch slices",
-        "1 can cream of mushroom soup",
-        "½ tsp paprika",
-        "½ tsp pepper",
-        "1 cup shredded cheddar cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese over the potatoes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the soup mixture evenly over the cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 400,
-            "unitCode": "FAR"
-          },
-          "duration": "PT45M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
-        }
-      ],
-      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "id": 140,
-      "similarity": "0.41"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Curry Chicken",
       "author": {
         "@type": "Person",
@@ -405,6 +187,174 @@
       },
       "id": 230,
       "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Broccoli",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 cup small shells pasta",
+        "1 can cream of mushroom soup",
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the small shells pasta according to package directions. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with a cranberry salad."
+        }
+      ],
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 234,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Easy Curried Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "International",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeIngredient": [
+        "Chicken pieces",
+        "2 cans cream of chicken soup",
+        "¾ cup mayonnaise",
+        "1 tsp curry powder (or to taste)",
+        "Broccoli and carrots, cut into bite-size pieces",
+        "Bread crumbs for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease the bottom of a pan and layer with vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken pieces on top of the vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cream of chicken soup, mayonnaise, and curry powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the soup mixture over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle bread crumbs on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 375°F for 1 hour."
+        }
+      ],
+      "keywords": "curried chicken, creamy chicken, baked chicken casserole",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "id": 231,
+      "similarity": "0.37"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stuffing and Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Beth Clarke"
+      },
+      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 boned and skinned chicken breast halves",
+        "1⅓ cups Stove Top stuffing",
+        "1 can cream of chicken soup",
+        "4 slices Swiss cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put a slice of Swiss cheese on top of each breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cream of chicken soup over the stuffing layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350 °F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
+        }
+      ],
+      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "id": 242,
+      "similarity": "0.36"
     }
   ]
 }

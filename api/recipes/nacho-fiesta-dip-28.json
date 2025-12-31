@@ -315,80 +315,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Taco Ring",
+      "name": "Surprise Spread",
       "author": {
         "@type": "Person",
-        "name": "Lorie Valkengoed"
+        "name": "Lori Allen"
       },
-      "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
+      "description": "A layered seafood dip with shrimp, cocktail sauce, and cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT16M",
-      "totalTime": "PT36M",
-      "recipeYield": "1 ring",
+      "recipeYield": "1 large platter",
       "recipeIngredient": [
-        "1 lb lean ground hamburger",
-        "1 cup water",
-        "1 packet taco seasoning mix",
-        "2 cups shredded lettuce",
-        "1 cup grated mild cheddar cheese",
-        "1 cup salsa dip",
-        "2 packages Pillsbury crescent rolls",
-        "1 tomato, diced",
-        "1 green pepper (optional)",
-        "Sour cream for serving"
+        "8 oz cream cheese, softened",
+        "½ cup sour cream",
+        "¼ cup mayonnaise",
+        "3 (4 oz) cans small shrimp, rinsed and drained",
+        "2 cups seafood cocktail sauce",
+        "2 cups shredded mozzarella cheese",
+        "1 green pepper, chopped",
+        "3 green onions, chopped",
+        "1 tomato, diced (optional)",
+        "Tortilla chips or assorted crackers for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Fry the hamburger and let it cool."
+          "text": "Mix the cream cheese, sour cream, and mayonnaise together until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
+          "text": "Spread this mixture in the bottom of a deep pie plate, pizza pan, or shallow baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
+          "text": "Scatter the shrimp over the top."
         },
         {
           "@type": "HowToStep",
-          "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
+          "text": "Cover with the seafood cocktail sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Add shredded cheese on top of the hamburger mixture."
+          "text": "Add layers of mozzarella cheese, green pepper, and green onions."
         },
         {
           "@type": "HowToStep",
-          "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
+          "text": "Top with diced tomatoes if desired."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let cool slightly before serving."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
+          "text": "Chill until ready to serve with tortilla chips or crackers."
         }
       ],
-      "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
+      "keywords": "layered shrimp dip, seafood spread, party dip",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "16 minutes",
-        "totalTime": "36 minutes"
+        "cookTime": null,
+        "totalTime": null
       },
-      "id": 183,
-      "similarity": "0.40"
+      "id": 11,
+      "similarity": "0.38"
     }
   ]
 }

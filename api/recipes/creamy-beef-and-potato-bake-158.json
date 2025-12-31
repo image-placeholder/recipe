@@ -156,86 +156,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Taco Twist Bake",
-      "author": {
-        "@type": "Person",
-        "name": "Cheryl MacLeod"
-      },
-      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 to 1½ lb lean ground beef",
-        "1 cooking onion, chopped",
-        "1 can (284 mL) mushrooms, chopped",
-        "1 envelope taco seasoning mix",
-        "¾ cup water",
-        "1 can (680 mL) spaghetti sauce",
-        "¼ cup salsa (optional)",
-        "1 green pepper, chopped (optional)",
-        "2 cups spiral pasta",
-        "1 cup sour cream",
-        "1½ cups shredded cheddar cheese",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and start water to cook for pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the spiral pasta, then rinse and drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine pasta with sour cream."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
-        }
-      ],
-      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
-      },
-      "id": 184,
-      "similarity": "0.44"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Meat and Potato Casserole",
       "author": {
         "@type": "Person",
@@ -430,6 +350,77 @@
       },
       "id": 173,
       "similarity": "0.43"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Cheese Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1½ lb diced cooked chicken",
+        "1 medium onion, finely chopped",
+        "2 cups cooked rice",
+        "¼ lb grated cheddar cheese",
+        "½ cup milk",
+        "1 can Campbell's cream of celery soup",
+        "4 Tbsp butter or margarine",
+        "¾ cup crushed corn flakes",
+        "1½ cups chopped celery",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mixture into a buttered casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook until the celery is hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the corn flake and celery mixture over the chicken mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 375°F oven for about ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "chicken casserole, cheesy rice bake, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 244,
+      "similarity": "0.42"
     }
   ]
 }

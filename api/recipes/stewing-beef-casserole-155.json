@@ -50,151 +50,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Beef and Rice Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Kurtis Brand"
-      },
-      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 1½ quart casserole",
-      "recipeIngredient": [
-        "1⅓ cups cooked rice",
-        "1 tsp salt",
-        "1 Tbsp butter",
-        "Dash pepper",
-        "1½ cups diced celery",
-        "3 Tbsp minced onion",
-        "1 can condensed tomato soup",
-        "¼ cup water",
-        "1 lb ground beef"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Sauté celery and onion in butter until soft and tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place rice in a greased 1½ quart casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the rice with the celery mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange the cooked beef on top of the celery mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the tomato soup with water and pour over the meat layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated 325°F oven for ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 325,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "beef casserole, rice casserole, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 168,
-      "similarity": "0.48"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken and Cheese Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "June Schroeder"
-      },
-      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1½ lb diced cooked chicken",
-        "1 medium onion, finely chopped",
-        "2 cups cooked rice",
-        "¼ lb grated cheddar cheese",
-        "½ cup milk",
-        "1 can Campbell's cream of celery soup",
-        "4 Tbsp butter or margarine",
-        "¾ cup crushed corn flakes",
-        "1½ cups chopped celery",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put the mixture into a buttered casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook until the celery is hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the corn flake and celery mixture over the chicken mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 375°F oven for about ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 375,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "chicken casserole, cheesy rice bake, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 244,
-      "similarity": "0.37"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Noodles with Hamburg",
       "author": {
         "@type": "Person",
@@ -262,126 +117,260 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Beef & Barley Soup",
+      "name": "Cabbage Rolls",
       "author": {
         "@type": "Person",
-        "name": "Marjorie Johns"
+        "name": "Heather Clarke"
       },
-      "description": "A hearty beef and barley soup with vegetables and tomato, ideal for freezing and reheating.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
+      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "European",
       "prepTime": "PT30M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H30M",
-      "recipeYield": "22 cups",
+      "cookTime": "PT3H",
+      "totalTime": "PT3H30M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "6 cups water",
-        "6 beef bouillon cubes",
-        "1 Tbsp parsley flakes",
-        "28 oz canned tomato",
-        "1 tsp sugar",
-        "10 oz condensed tomato soup",
+        "1 head cabbage",
+        "½ lb ground pork",
+        "1 lb ground beef",
+        "1 medium onion",
+        "2 Tbsp lard",
+        "¾ cup uncooked rice (Uncle Ben's)",
         "1 tsp salt",
-        "2 cups shredded carrots",
-        "¼ tsp pepper",
-        "2 cups shredded potatoes",
-        "¾ tsp thyme",
-        "1½ cups chopped onion",
-        "3 cups cooked roast beef (or 2-3 cups chopped hamburg meat)",
-        "1 cup chopped celery",
-        "½ cup pearl or pot barley"
+        "½ tsp black pepper",
+        "1 (24 oz) can tomato juice"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat water and bouillon cubes in a large pot, stirring until dissolved."
+          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
         },
         {
           "@type": "HowToStep",
-          "text": "Add remaining ingredients except beef and bring to a boil."
+          "text": "Chop the onion and fry in lard for 10 minutes until softened."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer for 1½ hours."
+          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Add beef and simmer for an additional ½ hour."
+          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
         }
       ],
-      "keywords": "beef barley soup, hearty soup, freezer-friendly",
+      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
       "_naturalized_times": {
         "prepTime": "30 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 30 minutes"
+        "cookTime": "3 hours",
+        "totalTime": "3 hours 30 minutes"
       },
-      "id": 100,
-      "similarity": "0.37"
+      "id": 167,
+      "similarity": "0.35"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Tomato Macaroni Soup",
-      "author": [
+      "name": "Shepherd's Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A classic shepherd's pie made with ground beef, mixed vegetables, and topped with mashed potatoes.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 can (10 oz/284 mL) beef broth",
+        "1 lb (454 g) lean ground beef",
+        "1 beef cube (Oxo)",
+        "1/2 tsp salt",
+        "3/4 tsp black pepper",
+        "1 pouch onion soup mix",
+        "1 cup (250 mL) frozen mixed vegetables",
+        "2 cups (500 mL) mashed potatoes",
+        "Paprika (optional)"
+      ],
+      "recipeInstructions": [
         {
-          "@type": "Person",
-          "name": "Linda Finkbeiner"
+          "@type": "HowToStep",
+          "text": "Brown the ground beef in an electric skillet. Drain excess fat."
         },
         {
-          "@type": "Person",
-          "name": "Shirley Preszcator"
+          "@type": "HowToStep",
+          "text": "Add onion soup mix, frozen vegetables, beef cube, salt, and pepper. Simmer for approximately 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a 6-cup (1.5 L) casserole dish or square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with mashed potatoes and sprinkle with paprika if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 400°F for 15 to 20 minutes, until the potatoes are firm and golden brown.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 400,
+            "unitCode": "FAR"
+          },
+          "duration": "PT15M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 5 minutes before serving."
         }
       ],
-      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
-      "recipeCategory": "Soup",
+      "keywords": "shepherd's pie, ground beef, mashed potatoes, casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 170,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 163,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey A La King",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
       "cookTime": "PT20M",
       "totalTime": "PT35M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 Tbsp oil",
-        "1½ cups water",
-        "1 cooking onion, diced",
-        "1 cup dry macaroni",
-        "2 carrots, diced",
-        "½ tsp garlic salt",
-        "3 or 4 celery stalks, diced",
-        "½ tsp Worcestershire sauce",
-        "2 cups chicken stock",
-        "2 cups tomato juice",
-        "Salt and pepper to taste"
+        "⅓ cup butter",
+        "1 tsp salt",
+        "¼ lb mushrooms, sliced",
+        "1 cup chicken broth",
+        "¼ cup chopped onion",
+        "1 cup milk",
+        "2 cups cooked diced turkey",
+        "¼ cup chopped celery",
+        "¼ cup chopped green pepper",
+        "¼ cup flour"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute onion, celery, and carrot in oil until tender."
+          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Add stock, juice, and water. Bring to a boil."
+          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "Add pasta and cook until tender."
+          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic salt and Worcestershire sauce."
+          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
         },
         {
           "@type": "HowToStep",
-          "text": "Season to taste with salt and pepper."
+          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over hot toast, biscuits, or rice."
         }
       ],
-      "keywords": "tomato macaroni soup, comfort food, pasta soup",
+      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
       "_naturalized_times": {
         "prepTime": "15 minutes",
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 123,
-      "similarity": "0.35"
+      "id": 248,
+      "similarity": "0.32"
     }
   ]
 }

@@ -101,69 +101,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Dad's Spaghetti",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Nakamura"
-      },
-      "description": "A comforting spaghetti dish with bacon, mushrooms, and a creamy mushroom soup sauce.",
-      "recipeCategory": "Pasta",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 can mushroom soup",
-        "1½ cups sliced mushrooms",
-        "½ to 1 lb bacon, chopped",
-        "1 small onion, chopped",
-        "1 to 2 tsp garlic salt or 1 to 2 minced garlic cloves",
-        "3 to 4 Tbsp mozzarella cheese",
-        "1 lb spaghetti"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook spaghetti, drain, and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Brown bacon in a frying pan with garlic salt or minced garlic."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove bacon and most of the grease from the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook onion and mushrooms in the same pan until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return bacon to the pan and add mushroom soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir and heat the sauce through, adding cheese and enough water to achieve the desired consistency."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the sauce with cooked spaghetti and serve."
-        }
-      ],
-      "keywords": "spaghetti, bacon, mushroom sauce, creamy pasta",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "id": 181,
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Marinated Vegetable Salad",
       "author": {
         "@type": "Person",
@@ -349,6 +286,59 @@
       },
       "id": 69,
       "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caribbean Chicken Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Caribbean-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1½ cups chicken broth",
+        "2 cups cut up chicken breast",
+        "1 green pepper, diced",
+        "1 small red onion, chopped fine",
+        "1 mango, thinly sliced",
+        "1 small can pineapple, diced and drained",
+        "2 celery stalks, diced",
+        "⅓ cup Kraft Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the Minute Rice in chicken broth according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chicken breast meat in a little oil until fully cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
+        }
+      ],
+      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 70,
+      "similarity": "0.33"
     }
   ]
 }

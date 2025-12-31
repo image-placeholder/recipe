@@ -115,64 +115,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Supreme Broccoli Soup Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Flora Hodge"
-      },
-      "description": "A creamy broccoli casserole with a crunchy crouton topping, baked until golden.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 9x9 inch pan",
-      "recipeIngredient": [
-        "1 can mushroom soup",
-        "1 head broccoli, cooked",
-        "1/2 cup grated carrot",
-        "1 Tbsp flour",
-        "Salt and pepper to taste",
-        "1/2 cup sour cream",
-        "4 Tbsp melted butter",
-        "1 Tbsp chopped onion",
-        "1/2 cup croutons",
-        "1 cup sour cream"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place cooked broccoli in a 9x9 inch pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix together mushroom soup, flour, sour cream, and seasonings. Pour over broccoli."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle grated carrot, chopped onion, and croutons over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drizzle with melted butter."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 325°F for 1/2 hour."
-        }
-      ],
-      "keywords": "broccoli casserole, creamy soup casserole, baked vegetable dish",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 128,
-      "similarity": "0.48"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Potato Casserole",
       "author": [
         {
@@ -292,53 +234,133 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken and Broccoli",
+      "name": "Swedish Potatoes",
       "author": {
         "@type": "Person",
-        "name": "Marguerite Finkbeiner"
+        "name": "Barbara Ratz"
       },
-      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
-      "recipeCategory": "Main Course",
+      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "10-12 servings",
       "recipeIngredient": [
-        "1 cup small shells pasta",
-        "1 can cream of mushroom soup",
-        "2 cups broccoli, cooked",
-        "1½ cups chicken, cooked and chopped",
-        "½ cup milk",
-        "½ cup Parmesan cheese",
-        "¼ tsp ground pepper"
+        "12 large potatoes",
+        "2 slightly beaten eggs",
+        "1 cup sour cream",
+        "1 tsp salt",
+        "¾ cup bread crumbs",
+        "2 Tbsp butter",
+        "1¼ tsp butter",
+        "1 (8 oz) package cream cheese",
+        "2 tsp onion salt or chopped onion"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the small shells pasta according to package directions. Drain."
+          "text": "Cook and mash the potatoes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot with a cranberry salad."
+          "text": "Dot the top with butter and sprinkle with bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, covered, at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
         }
       ],
-      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 137,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheddar Baked Potato Slices",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 medium baking potatoes, cut into ¼ inch slices",
+        "1 can cream of mushroom soup",
+        "½ tsp paprika",
+        "½ tsp pepper",
+        "1 cup shredded cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the soup mixture evenly over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 400,
+            "unitCode": "FAR"
+          },
+          "duration": "PT45M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+        }
+      ],
+      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
       },
-      "id": 234,
-      "similarity": "0.41"
+      "id": 140,
+      "similarity": "0.32"
     }
   ]
 }

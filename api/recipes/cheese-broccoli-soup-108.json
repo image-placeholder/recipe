@@ -69,64 +69,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Supreme Broccoli Soup Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Flora Hodge"
-      },
-      "description": "A creamy broccoli casserole with a crunchy crouton topping, baked until golden.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 9x9 inch pan",
-      "recipeIngredient": [
-        "1 can mushroom soup",
-        "1 head broccoli, cooked",
-        "1/2 cup grated carrot",
-        "1 Tbsp flour",
-        "Salt and pepper to taste",
-        "1/2 cup sour cream",
-        "4 Tbsp melted butter",
-        "1 Tbsp chopped onion",
-        "1/2 cup croutons",
-        "1 cup sour cream"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place cooked broccoli in a 9x9 inch pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix together mushroom soup, flour, sour cream, and seasonings. Pour over broccoli."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle grated carrot, chopped onion, and croutons over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drizzle with melted butter."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 325°F for 1/2 hour."
-        }
-      ],
-      "keywords": "broccoli casserole, creamy soup casserole, baked vegetable dish",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 128,
-      "similarity": "0.53"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Creamy Broccoli Soup",
       "author": {
         "@type": "Person",
@@ -361,6 +303,61 @@
       },
       "id": 118,
       "similarity": "0.50"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Richard's Sunday Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Richard MacGregor"
+      },
+      "description": "A rich and comforting soup featuring carrots, potatoes, and chicken stock.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 tsp sugar",
+        "5 large carrots",
+        "1 large potato",
+        "1 medium onion",
+        "1 Tbsp oil",
+        "2 to 3 cups chicken stock",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Peel and dice the carrots and potato. Combine diced onion and oil in a saucepan and cook over medium heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the diced carrots and potato to the onion and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and sugar. Cook for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to simmer and cook for 10 to 15 minutes or until the vegetables are cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from heat and puree. Serve immediately with fresh bread."
+        }
+      ],
+      "keywords": "carrot soup, potato soup, chicken stock",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 121,
+      "similarity": "0.49"
     }
   ]
 }

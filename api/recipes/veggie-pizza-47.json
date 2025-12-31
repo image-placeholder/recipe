@@ -64,84 +64,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Taco Ring",
-      "author": {
-        "@type": "Person",
-        "name": "Lorie Valkengoed"
-      },
-      "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT16M",
-      "totalTime": "PT36M",
-      "recipeYield": "1 ring",
-      "recipeIngredient": [
-        "1 lb lean ground hamburger",
-        "1 cup water",
-        "1 packet taco seasoning mix",
-        "2 cups shredded lettuce",
-        "1 cup grated mild cheddar cheese",
-        "1 cup salsa dip",
-        "2 packages Pillsbury crescent rolls",
-        "1 tomato, diced",
-        "1 green pepper (optional)",
-        "Sour cream for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Fry the hamburger and let it cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add shredded cheese on top of the hamburger mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let cool slightly before serving."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
-        }
-      ],
-      "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "16 minutes",
-        "totalTime": "36 minutes"
-      },
-      "id": 183,
-      "similarity": "0.32"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Stuffed Pita Pockets",
       "author": {
         "@type": "Person",
@@ -261,80 +183,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sloppy Joe Squares",
-      "author": {
-        "@type": "Person",
-        "name": "Deb (Finkbeiner) Lord"
-      },
-      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "8 servings",
-      "recipeIngredient": [
-        "1 lb ground beef",
-        "1 small onion, minced",
-        "1/2 tsp Worcestershire sauce",
-        "3/4 cup ketchup",
-        "1 tsp salt",
-        "1/2 tsp pepper",
-        "1/4 tsp chili powder",
-        "2 Tbsp flour",
-        "2 packages Pillsbury crescent dinner rolls",
-        "Mozzarella cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Blend in flour to thicken the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the beef mixture evenly over the layer of rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the beef mixture with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F until the crescent rolls are browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with a salad."
-        }
-      ],
-      "keywords": "sloppy joe, casserole, crescent rolls, beef",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
-      },
-      "id": 185,
-      "similarity": "0.30"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Fairest Wheels",
       "author": {
         "@type": "Person",
@@ -407,6 +255,120 @@
         "totalTime": "2 hours 15 minutes"
       },
       "id": 36,
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 4,
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hot Cheese Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A creamy bacon and cheddar dip baked inside a pumpernickel bread shell.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round pumpernickel bread loaf",
+        "1 (8 oz) package cream cheese",
+        "1 cup Hellmann's mayonnaise",
+        "½ cup grated cheddar cheese",
+        "½ cup bacon bits"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the pumpernickel loaf and hollow it out, leaving a thick shell."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream cheese, mayonnaise, cheddar cheese, and bacon bits until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mixture into the hollowed-out bread."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil, leaving the hole with the cheese mixture uncovered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325°F for 1½ hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the bread pieces."
+        }
+      ],
+      "keywords": "pumpernickel dip, hot bacon dip, cheddar dip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "id": 5,
       "similarity": "0.29"
     }
   ]

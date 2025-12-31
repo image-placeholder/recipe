@@ -113,67 +113,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Nacho Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Meghan Brand"
-      },
-      "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "1 large glass pan",
-      "recipeIngredient": [
-        "8 oz pkg cream cheese",
-        "500 g tub sour cream",
-        "¼ pkg taco seasoning mix",
-        "1 cup shredded cheddar cheese",
-        "1 small container salsa sauce",
-        "1 chopped red pepper",
-        "1 chopped green pepper",
-        "1 chopped tomato",
-        "Baked nacho chips for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the mixture in a large glass pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread salsa sauce over the cream cheese layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese over the salsa layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chopped red pepper, green pepper, and tomato on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with baked nacho chips."
-        }
-      ],
-      "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
-      },
-      "id": 29,
-      "similarity": "0.42"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Taco Salad",
       "author": {
         "@type": "Person",
@@ -289,59 +228,104 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Mexican Fudge",
+      "name": "Black Bean Salad",
       "author": {
         "@type": "Person",
-        "name": "Linda Finkbeiner"
+        "name": "Julie-Ann Bibby"
       },
-      "description": "A warm, cheesy baked appetizer served on Triscuits.",
-      "recipeCategory": "Appetizer",
+      "description": "A fresh and vibrant salad featuring black beans, salsa, and corn kernels on a bed of romaine lettuce.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
-      "cookTime": "PT30M",
-      "totalTime": "PT40M",
-      "recipeYield": "1 9×11 in pan",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 cups shredded cheddar cheese",
-        "3 eggs, lightly beaten",
-        "½ cup taco or salsa sauce",
-        "2 cups shredded mozzarella cheese",
-        "Triscuits for serving"
+        "1 ripened tomato, chopped",
+        "2 cups shredded romaine lettuce",
+        "1/2 cup of your favorite salsa",
+        "1 cup fresh corn kernels",
+        "2 sliced scallions",
+        "1 can black beans (15 oz)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Grease a 9×11 in pan and spread the cheddar cheese evenly on the bottom."
+          "text": "Combine chopped tomato, salsa, and scallions in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Lightly beat the eggs and mix with taco or salsa sauce."
+          "text": "Stir in the black beans."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the egg mixture over the cheddar cheese."
+          "text": "Spread shredded romaine lettuce in a serving dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with the shredded mozzarella cheese."
+          "text": "Top the lettuce with the bean and salsa mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes."
+          "text": "Microwave the corn kernels on high for 30 seconds."
         },
         {
           "@type": "HowToStep",
-          "text": "Cut into squares while warm and serve on Triscuits."
+          "text": "Distribute the warmed corn over the salad and serve."
         }
       ],
-      "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
+      "keywords": "black bean salad, Mexican salad, fresh corn",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "40 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
       },
-      "id": 12,
-      "similarity": "0.40"
+      "id": 48,
+      "similarity": "0.37"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Club Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "1 large bowl",
+      "recipeIngredient": [
+        "7 cups romaine lettuce",
+        "1 cup crisp cooked bacon, chopped",
+        "1 cup chopped hard-boiled eggs",
+        "¾ cup ranch or dip dressing",
+        "¾ cup grated cheese (marble, cheddar, etc.)",
+        "1 cup cooked chicken breast, diced",
+        "½ cup grated carrots",
+        "1 cup diced tomatoes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients in a large bowl, layering each ingredient to look festive."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with dressing."
+        }
+      ],
+      "keywords": "layered salad, club salad, ranch dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "id": 68,
+      "similarity": "0.35"
     }
   ]
 }

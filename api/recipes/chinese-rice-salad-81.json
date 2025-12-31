@@ -111,145 +111,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chinese Hamburger Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Meredith Mary"
-      },
-      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "Chinese-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "6 to 8 servings",
-      "recipeIngredient": [
-        "1 lb hamburger",
-        "½ cup warm water",
-        "½ cup uncooked rice",
-        "2 medium onions, chopped",
-        "1 cup sliced celery",
-        "1 can cream of mushroom soup",
-        "1 can cream of chicken soup (optional)",
-        "1 can mushrooms, drained",
-        "¼ cup soya sauce",
-        "¼ tsp pepper",
-        "1 tsp salt",
-        "1 cup bean sprouts (optional)",
-        "1 handful chow mein noodles"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add bean sprouts if using for a more authentic taste."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
-        }
-      ],
-      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "id": 174,
-      "similarity": "0.44"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Beef and Rice Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Kurtis Brand"
-      },
-      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 1½ quart casserole",
-      "recipeIngredient": [
-        "1⅓ cups cooked rice",
-        "1 tsp salt",
-        "1 Tbsp butter",
-        "Dash pepper",
-        "1½ cups diced celery",
-        "3 Tbsp minced onion",
-        "1 can condensed tomato soup",
-        "¼ cup water",
-        "1 lb ground beef"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Sauté celery and onion in butter until soft and tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place rice in a greased 1½ quart casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the rice with the celery mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange the cooked beef on top of the celery mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the tomato soup with water and pour over the meat layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated 325°F oven for ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 325,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "beef casserole, rice casserole, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 168,
-      "similarity": "0.36"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Tossed Berry-Mandarin Salad",
       "author": {
         "@type": "Person",
@@ -370,6 +231,113 @@
       },
       "id": 88,
       "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sliced Bean Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Phyllis Lightfoot"
+      },
+      "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeYield": "2 to 3 quarts",
+      "recipeIngredient": [
+        "Yellow or green beans",
+        "2 cups white vinegar",
+        "2 cups white sugar",
+        "1 tsp salt",
+        "1½ cups water",
+        "Onion and cream for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Slice the beans and cook until tender enough to pierce with a fork."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the cooked beans and pack them into jars."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, bring the sugar, water, vinegar, and salt to a boil to make the syrup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot syrup over the beans in the jars."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, pour off the liquid and add chopped onion and cream."
+        }
+      ],
+      "keywords": "pickled bean salad, sweet and tangy, preserved beans",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 49,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Romaine Salad with Orange",
+      "author": {
+        "@type": "Person",
+        "name": "Donelda Lewis"
+      },
+      "description": "A refreshing salad featuring romaine lettuce, oranges, and red onion with a light vinaigrette dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "8 cups torn romaine lettuce",
+        "1 can (11 oz) mandarin oranges, drained",
+        "¼ cup red wine vinegar or cider vinegar",
+        "3 Tbsp vegetable or olive oil",
+        "1 Tbsp fresh minced parsley",
+        "1 clove garlic, minced",
+        "Salt and pepper to taste",
+        "1 cup thinly sliced red onion",
+        "½ cup slivered almonds"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the torn romaine lettuce, drained mandarin oranges, and thinly sliced red onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, combine the red wine vinegar, oil, minced parsley, garlic, salt, and pepper to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
+        }
+      ],
+      "keywords": "romaine salad, orange salad, vinaigrette dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "id": 84,
+      "similarity": "0.32"
     }
   ]
 }

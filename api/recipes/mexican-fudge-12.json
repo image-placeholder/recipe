@@ -112,60 +112,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Mexican Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Sheila Jarvie"
-      },
-      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "8 to 9 servings",
-      "recipeIngredient": [
-        "¾ cup kidney beans",
-        "¾ cup lentils",
-        "½ cup diced tomato",
-        "1 cup shredded lettuce",
-        "½ green pepper, chopped",
-        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
-        "2 green onions, chopped",
-        "¼ cup Catalina dressing",
-        "¼ cup salsa",
-        "Taco chips for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss the salad with Catalina dressing until well coated."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the salad with salsa."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately with taco chips on the side."
-        }
-      ],
-      "keywords": "Mexican salad, bean salad, taco chips",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
-      },
-      "id": 50,
-      "similarity": "0.40"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Nacho Dip",
       "author": {
         "@type": "Person",
@@ -223,84 +169,6 @@
       },
       "id": 29,
       "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Jelly Roll Style Meat Loaf",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Ratz"
-      },
-      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H15M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "1 loaf",
-      "recipeIngredient": [
-        "½ lb ground beef",
-        "3 cups shredded mozzarella cheese",
-        "1 beaten egg",
-        "½ cup cracker crumbs or dry bread crumbs",
-        "½ tsp basil",
-        "1 clove garlic, minced",
-        "½ cup minced onion",
-        "1 tsp salt",
-        "⅛ tsp pepper",
-        "2 (8 oz) cans tomato sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add ground beef and mix thoroughly with hands until just combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain off fat and pour reserved tomato sauce on the roll."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for 10 to 15 minutes before slicing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Decorate with tomato slices and green parsley on a serving tray."
-        }
-      ],
-      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour 15 minutes",
-        "totalTime": "1 hour 35 minutes"
-      },
-      "id": 154,
-      "similarity": "0.34"
     },
     {
       "@context": "https://schema.org/",
@@ -365,6 +233,142 @@
       },
       "id": 11,
       "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hot Taco Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Martene"
+      },
+      "description": "A warm, layered taco dip featuring seasoned ground beef, sour cream, and melted cheddar cheese, served with tortilla chips.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "1 large serving dish",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "1 package Old El Paso taco seasoning mix",
+        "2 cups grated cheddar cheese",
+        "1 chopped green onion",
+        "1 chopped green pepper",
+        "2 cups sour cream",
+        "1 (optional) 8 oz package Philadelphia cream cheese",
+        "1 jar mild El Paso salsa",
+        "1 bag tortilla chips"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with chopped onion in a frying pan; drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add taco seasoning mix to the browned hamburger and prepare according to package directions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a 13x9x2 inch baking dish, spread the prepared hamburger mixture evenly across the bottom."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the chopped green peppers on top of the hamburger layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the sour cream and cream cheese (if using) until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the sour cream mixture over the top of the green peppers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread a layer of mild salsa over the sour cream layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with a layer of grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated oven at 350°F until heated through.",
+          "temperature": "350°F",
+          "cookMethod": "Bake"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with tortilla chips."
+        }
+      ],
+      "keywords": "hot taco dip, taco dip, Mexican appetizer, cheesy dip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 21,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 4,
+      "similarity": "0.32"
     }
   ]
 }

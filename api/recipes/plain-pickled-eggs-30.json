@@ -111,58 +111,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pickled Eggs",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "Tangy pickled eggs made with vinegar, mustard, and spices, perfect for snacking or as a side dish.",
-      "recipeCategory": "Snack",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT5M",
-      "totalTime": "5 days",
-      "recipeYield": "12 pickled eggs",
-      "recipeIngredient": [
-        "12 hard-boiled eggs",
-        "2 cups white vinegar",
-        "1 cup water",
-        "1 tsp dry mustard",
-        "1 tsp salt",
-        "½ tsp pepper",
-        "1 onion, cut into pieces",
-        "Pinch of sugar (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine the vinegar, water, mustard, salt, pepper, and onion pieces in a saucepan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring the mixture to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the hot pickling liquid over the hard-boiled eggs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let the eggs stand in the pickling liquid for 5 days before serving."
-        }
-      ],
-      "keywords": "pickled eggs, tangy snack, preserved eggs",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": null
-      },
-      "id": 35,
-      "similarity": "0.51"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Vegetable Dip",
       "author": {
         "@type": "Person",
@@ -277,66 +225,110 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Tossed Berry-Mandarin Salad",
+      "name": "Sticky Wings",
       "author": {
         "@type": "Person",
-        "name": "Anne Cotte"
+        "name": "Louise Wein"
       },
-      "description": "A refreshing mixed greens salad with strawberries, mandarin oranges, sweet onion, and bacon, topped with a homemade honey-cider dressing.",
-      "recipeCategory": "Salad",
+      "description": "Baked chicken wings glazed with a sweet and savory brown sugar and soy sauce mixture.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeYield": "8-10 servings",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "2-3 lbs chicken wings",
       "recipeIngredient": [
-        "8 cups torn mixed salad greens",
-        "2 cups fresh sliced strawberries",
-        "1 (10 oz) can mandarin oranges, drained",
-        "1 medium sweet onion, sliced and separated into rings",
-        "⅓ cup slivered almonds, toasted",
-        "4 strips cooked bacon, crumbled",
-        "¼ cup white sugar",
-        "2 Tbsp cider vinegar",
-        "2 Tbsp honey",
-        "1¼ tsp fresh lemon juice",
-        "½ tsp paprika",
-        "½ tsp ground mustard",
-        "½ tsp grated onion",
-        "¼ tsp celery seed",
-        "Dash salt",
-        "⅓ cup vegetable oil"
+        "2-3 lbs chicken wings",
+        "1 cup brown sugar",
+        "¼ cup soy sauce",
+        "2 tsp garlic salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a microwave-safe bowl, combine sugar, cider vinegar, honey, lemon juice, paprika, mustard, grated onion, celery seed, and salt."
+          "text": "Preheat oven to 300°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Microwave uncovered on high for 1½ to 2 minutes, stirring until the sugar is dissolved."
+          "text": "Break chicken wings apart at the joints and discard tips."
         },
         {
           "@type": "HowToStep",
-          "text": "Whisk in vegetable oil until well combined. Refrigerate until chilled."
+          "text": "Place wings in a roasting pan and cover with the sauce mixture (brown sugar, soy sauce, garlic salt)."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large serving bowl, combine the mixed greens, sliced strawberries, mandarin oranges, sweet onion rings, toasted almonds, and crumbled bacon."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drizzle the chilled dressing over the salad and gently toss to coat."
+          "text": "Bake until the sauce evaporates and wings are sticky."
         }
       ],
-      "keywords": "fruit salad, mixed greens, strawberry, mandarin orange, bacon",
+      "keywords": "sticky chicken wings, baked wings, appetizer",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
       },
-      "id": 87,
+      "id": 37,
       "similarity": "0.28"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Roasted Chestnuts",
+      "author": {
+        "@type": "Person",
+        "name": "Julie-Ann Bibby"
+      },
+      "description": "Tender and flavorful roasted chestnuts seasoned with butter, salt, and cinnamon.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "1 lb roasted chestnuts",
+      "recipeIngredient": [
+        "1 lb chestnuts",
+        "¼ cup butter",
+        "Salt to taste",
+        "1 pinch cinnamon"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut a ½-inch crisscross on the flat side of each chestnut, ensuring the cut goes through the nut to prevent explosion during baking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the scored chestnuts in a shallow baking pan and bake for 25 to 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Allow the chestnuts to cool, then peel off the shells."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt the butter over high heat and sauté the peeled chestnuts until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the skillet to the oven and roast until the chestnuts are golden on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with salt and cinnamon to taste before serving."
+        }
+      ],
+      "keywords": "roasted chestnuts, savory snack, holiday appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 26,
+      "similarity": "0.25"
     }
   ]
 }

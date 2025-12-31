@@ -72,140 +72,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Dad's Spaghetti",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Nakamura"
-      },
-      "description": "A comforting spaghetti dish with bacon, mushrooms, and a creamy mushroom soup sauce.",
-      "recipeCategory": "Pasta",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 can mushroom soup",
-        "1½ cups sliced mushrooms",
-        "½ to 1 lb bacon, chopped",
-        "1 small onion, chopped",
-        "1 to 2 tsp garlic salt or 1 to 2 minced garlic cloves",
-        "3 to 4 Tbsp mozzarella cheese",
-        "1 lb spaghetti"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook spaghetti, drain, and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Brown bacon in a frying pan with garlic salt or minced garlic."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove bacon and most of the grease from the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook onion and mushrooms in the same pan until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return bacon to the pan and add mushroom soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir and heat the sauce through, adding cheese and enough water to achieve the desired consistency."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the sauce with cooked spaghetti and serve."
-        }
-      ],
-      "keywords": "spaghetti, bacon, mushroom sauce, creamy pasta",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "id": 181,
-      "similarity": "0.38"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken and Cheese Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "June Schroeder"
-      },
-      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1½ lb diced cooked chicken",
-        "1 medium onion, finely chopped",
-        "2 cups cooked rice",
-        "¼ lb grated cheddar cheese",
-        "½ cup milk",
-        "1 can Campbell's cream of celery soup",
-        "4 Tbsp butter or margarine",
-        "¾ cup crushed corn flakes",
-        "1½ cups chopped celery",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put the mixture into a buttered casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook until the celery is hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the corn flake and celery mixture over the chicken mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 375°F oven for about ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 375,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "chicken casserole, cheesy rice bake, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 244,
-      "similarity": "0.38"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Spaghetti Sauce",
       "author": {
         "@type": "Person",
@@ -260,132 +126,242 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pork Chop & Rice Casserole",
+      "name": "Florentine Lasagna Rolls",
       "author": {
         "@type": "Person",
-        "name": "Bonnie McNutt"
+        "name": "Antonia Hull"
       },
-      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT2H",
-      "recipeYield": "Multiple servings",
+      "description": "Lasagna noodles rolled with a spinach and ricotta cheese mixture, baked in a creamy Alfredo sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 to 12 servings",
       "recipeIngredient": [
-        "6 center cut pork chops",
-        "1 sliced tomato",
-        "1 cup brown rice",
-        "1 sliced onion",
-        "4 sliced green onions",
-        "1 green pepper, sliced in rings",
-        "1/2 lb sliced fresh mushrooms",
-        "1 1/2 cups beef broth or stock",
-        "Salt and pepper to taste",
-        "1 Tbsp minced garlic",
-        "4 oz margarine or butter"
+        "12 lasagna noodles",
+        "2 packages frozen chopped spinach, thawed",
+        "2 packages Alfredo sauce mix",
+        "4 cups milk",
+        "1 cup ricotta cheese",
+        "2 Tbsp butter or margarine",
+        "1 cup grated mozzarella cheese",
+        "1/2 cup diced red pepper",
+        "2 eggs",
+        "1/2 tsp ground nutmeg"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
+          "text": "Cook lasagna noodles according to package directions. Drain and plunge into cold water."
         },
         {
           "@type": "HowToStep",
-          "text": "Put raw rice in the casserole pan."
+          "text": "In a medium saucepan, combine Alfredo sauce mix, milk, and butter. Bring to a boil over medium heat, stirring constantly with a whisk."
         },
         {
           "@type": "HowToStep",
-          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
+          "text": "Reduce heat to medium-low. Add red peppers and simmer for 3 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
+          "text": "Pour half of the sauce into a greased large square baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
+          "text": "Drain spinach, pressing out extra moisture. Combine with ricotta cheese, mozzarella cheese, eggs, and nutmeg."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour beef broth over the casserole and cover with foil."
+          "text": "Drain noodles and pat dry. Spread spinach mixture evenly over noodles. Roll up and place seam-down in the baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
+          "text": "Top with remaining sauce. Cover and bake in a 350°F oven for 30 to 40 minutes or until the sauce is bubbling."
         }
       ],
-      "keywords": "pork chop, rice, casserole, baked",
+      "keywords": "lasagna rolls, Florentine, spinach, ricotta, Alfredo sauce",
       "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "2 hours"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "id": 211,
+      "id": 194,
       "similarity": "0.35"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Mozzarella Spaghetti Skillet",
+      "name": "Cabbage Casserole",
       "author": {
         "@type": "Person",
-        "name": "Yvonne Lotz"
+        "name": "Brenda Atkinson"
       },
-      "description": "A one-pot spaghetti dish cooked with hamburger, tomatoes, and mozzarella cheese.",
-      "recipeCategory": "Pasta",
+      "description": "A creamy cabbage casserole with a crunchy bread crumb topping, baked until golden.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT20M",
-      "totalTime": "PT30M",
-      "recipeYield": "4 to 6 servings",
+      "prepTime": "PT25M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H10M",
       "recipeIngredient": [
-        "1 lb hamburger",
-        "½ cup chopped onion",
-        "½ cup chopped green pepper",
-        "3 splashes Worcestershire sauce",
-        "1 tsp salt",
-        "½ tsp oregano",
-        "½ tsp black pepper",
-        "½ can water",
-        "1 (796 mL) can tomatoes",
-        "1½ cups shredded mozzarella cheese",
-        "Broken spaghetti to feed your family"
+        "Cabbage, cut into wedges",
+        "2 Tbsp butter",
+        "2 Tbsp flour",
+        "1 cup milk",
+        "Salt to taste",
+        "Grated cheese",
+        "8 oz Cheez Whiz",
+        "2 slices buttered bread"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In an electric skillet, brown the hamburger, onion, and green peppers."
+          "text": "Cook cabbage wedges until tender, then drain and cut into large pieces."
         },
         {
           "@type": "HowToStep",
-          "text": "Season with Worcestershire sauce, salt, black pepper, and oregano."
+          "text": "Make a white sauce with butter, flour, and milk. Season with salt, grated cheese, and Cheez Whiz."
         },
         {
           "@type": "HowToStep",
-          "text": "Add tomatoes, water, and broken spaghetti to the skillet."
+          "text": "Combine cooked cabbage with the white sauce mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover and bring to a boil, stirring frequently to prevent the spaghetti from sticking."
+          "text": "Top with crumbled buttered bread."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer until the pasta is cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shortly before serving, add shredded mozzarella cheese and continue heating until melted."
+          "text": "Bake at 350°F for 45 minutes."
         }
       ],
-      "keywords": "spaghetti skillet, one-pot pasta, mozzarella cheese",
+      "keywords": "cabbage casserole, creamy vegetable dish, comforting main course",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "30 minutes"
+        "prepTime": "25 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 10 minutes"
       },
-      "id": 182,
-      "similarity": "0.35"
+      "id": 130,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lasagna",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x13 inch pan",
+      "recipeIngredient": [
+        "1 (15 oz) container cottage cheese",
+        "1 (16 oz) box lasagna noodles",
+        "1½ cups water",
+        "2 (15 oz) jars spaghetti sauce",
+        "8 oz mozzarella cheese, thinly sliced",
+        "½ cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cottage cheese and Parmesan cheese in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread 1½ cups of spaghetti sauce in the bottom of a 13x9x2 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange a layer of uncooked lasagna noodles on top of the sauce, overlapping slightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle half of the mozzarella cheese and half of the cottage cheese mixture over the noodles."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Repeat with another layer of sauce, noodles, and the remaining cheeses."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the top with sauce and cover tightly with heavy foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Set on a jelly roll pan and bake."
+        }
+      ],
+      "keywords": "lasagna, Italian-American, pasta bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 192,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Supreme Broccoli Soup Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Flora Hodge"
+      },
+      "description": "A creamy broccoli casserole with a crunchy crouton topping, baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x9 inch pan",
+      "recipeIngredient": [
+        "1 can mushroom soup",
+        "1 head broccoli, cooked",
+        "1/2 cup grated carrot",
+        "1 Tbsp flour",
+        "Salt and pepper to taste",
+        "1/2 cup sour cream",
+        "4 Tbsp melted butter",
+        "1 Tbsp chopped onion",
+        "1/2 cup croutons",
+        "1 cup sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place cooked broccoli in a 9x9 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together mushroom soup, flour, sour cream, and seasonings. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated carrot, chopped onion, and croutons over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle with melted butter."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325°F for 1/2 hour."
+        }
+      ],
+      "keywords": "broccoli casserole, creamy soup casserole, baked vegetable dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 128,
+      "similarity": "0.34"
     }
   ]
 }

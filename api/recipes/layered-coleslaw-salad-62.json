@@ -48,79 +48,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Veggie Pizza",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Kelly Haines"
-        },
-        {
-          "@type": "Person",
-          "name": "Kim MacDonald"
-        }
-      ],
-      "description": "A simple veggie pizza made with a crescent roll crust, cream cheese, ranch dressing, and various chopped vegetables.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "1 pizza",
-      "recipeIngredient": [
-        "1 roll Pillsbury crescent rolls",
-        "1 (8 oz) pkg cream cheese",
-        "1/2 cup ranch dressing",
-        "1 cup finely chopped broccoli",
-        "1/2 cup finely chopped red onion",
-        "1/2 cup finely chopped green or red pepper",
-        "1 cup finely chopped cauliflower"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 375°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll out crescent roll dough on a flat cookie sheet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until golden brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cream cheese with ranch dressing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the cream cheese mixture onto the cooled crust."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with chopped vegetables."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Keep refrigerated before serving."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cut with pizza cutter or knife."
-        }
-      ],
-      "keywords": "veggie pizza, crescent roll crust, cream cheese, ranch dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes"
-      },
-      "id": 201,
-      "similarity": "0.33"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Coleslaw Chalet Dressing",
       "author": {
         "@type": "Person",
@@ -341,6 +268,70 @@
         "totalTime": "25 minutes"
       },
       "id": 82,
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Marinated Vegetable Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A colorful salad of marinated vegetables including cauliflower, broccoli, carrots, and radishes, dressed with Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT0M",
+      "totalTime": "PT30M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 medium cauliflower",
+        "1 bunch broccoli",
+        "3 celery stalks",
+        "1/2 English cucumber",
+        "1/2 bunch radishes",
+        "Baby carrots",
+        "Cherry tomatoes",
+        "1 bottle Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and clean all the vegetables, then drain well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Break cauliflower and broccoli into bite-sized pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Trim radishes and carrots; leave whole or cut into bite-sized pieces if large."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut celery into 3-inch pieces and slice cucumber into 1/2-inch slices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Leave cherry tomatoes whole and place all vegetables in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour Italian dressing over the vegetables and let set for a few hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve as finger food or as a salad."
+        }
+      ],
+      "keywords": "marinated vegetables, vegetable salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "",
+        "totalTime": "30 minutes"
+      },
+      "id": 94,
       "similarity": "0.31"
     }
   ]

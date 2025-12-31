@@ -257,52 +257,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Caesar Dressin' Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Towton"
-      },
-      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
-      "recipeCategory": "Salad Dressing",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 batch",
-      "recipeIngredient": [
-        "½ tsp Worcestershire sauce",
-        "3 garlic cloves",
-        "½ tsp dry mustard",
-        "2 beaten egg yolks",
-        "½ tsp salt",
-        "½ cup lemon juice",
-        "Dash pepper",
-        "1 cup oil",
-        "¼ cup white sugar",
-        "1 cup Parmesan cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Can be kept in the fridge for up to 2 weeks."
-        }
-      ],
-      "keywords": "Caesar dressing, homemade salad dressing",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "id": 101,
-      "similarity": "0.39"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Sauerkraut Salad",
       "author": {
         "@type": "Person",
@@ -355,6 +309,70 @@
       },
       "id": 82,
       "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tossed Berry-Mandarin Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Anne Cotte"
+      },
+      "description": "A refreshing mixed greens salad with strawberries, mandarin oranges, sweet onion, and bacon, topped with a homemade honey-cider dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "8 cups torn mixed salad greens",
+        "2 cups fresh sliced strawberries",
+        "1 (10 oz) can mandarin oranges, drained",
+        "1 medium sweet onion, sliced and separated into rings",
+        "⅓ cup slivered almonds, toasted",
+        "4 strips cooked bacon, crumbled",
+        "¼ cup white sugar",
+        "2 Tbsp cider vinegar",
+        "2 Tbsp honey",
+        "1¼ tsp fresh lemon juice",
+        "½ tsp paprika",
+        "½ tsp ground mustard",
+        "½ tsp grated onion",
+        "¼ tsp celery seed",
+        "Dash salt",
+        "⅓ cup vegetable oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a microwave-safe bowl, combine sugar, cider vinegar, honey, lemon juice, paprika, mustard, grated onion, celery seed, and salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Microwave uncovered on high for 1½ to 2 minutes, stirring until the sugar is dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in vegetable oil until well combined. Refrigerate until chilled."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large serving bowl, combine the mixed greens, sliced strawberries, mandarin oranges, sweet onion rings, toasted almonds, and crumbled bacon."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle the chilled dressing over the salad and gently toss to coat."
+        }
+      ],
+      "keywords": "fruit salad, mixed greens, strawberry, mandarin orange, bacon",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "id": 87,
+      "similarity": "0.37"
     }
   ]
 }

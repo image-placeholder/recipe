@@ -187,63 +187,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Ham Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Bernice Martin"
-      },
-      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "4 cups hash brown potatoes, thawed",
-        "1½ cups chopped ham",
-        "1 cup grated Cracker Barrel cheddar cheese",
-        "1 small onion, chopped",
-        "½ cup Miracle Whip salad dressing",
-        "½ cup milk",
-        "¼ tsp pepper",
-        "½ cup fresh bread crumbs",
-        "1 Tbsp butter or margarine"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with bread crumbs and dot with butter or margarine."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 45 minutes."
-        }
-      ],
-      "keywords": "ham casserole, potato casserole, comforting main dish",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour"
-      },
-      "id": 200,
-      "similarity": "0.33"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Chicken and Cheese Casserole",
       "author": {
         "@type": "Person",
@@ -315,49 +258,159 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hot Potato Salad",
+      "name": "Hamburger Pie",
       "author": {
         "@type": "Person",
-        "name": "Margaret Beaver"
+        "name": "Marguerite Finkbeiner"
       },
-      "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
-      "recipeCategory": "Salad",
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT5M",
-      "totalTime": "PT15M",
-      "recipeYield": "Serves 4-6",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
       "recipeIngredient": [
-        "3 to 4 cups sliced potatoes",
-        "⅓ cup white vinegar",
-        "1 Tbsp flour",
-        "¾ cup water",
-        "1 Tbsp butter",
-        "Salt and pepper to taste",
-        "Pinch of sugar"
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a saucepan, combine the white vinegar, flour, and water. Heat, stirring constantly, until the mixture thickens."
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the butter, salt, pepper, and sugar to the vinegar mixture. Bring to a boil."
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the hot dressing over the sliced potatoes."
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
         }
       ],
-      "keywords": "hot potato salad, vinegar dressing, warm salad",
+      "keywords": "hamburger pie, shepherd's pie, casserole",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "15 minutes"
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
       },
-      "id": 86,
-      "similarity": "0.31"
+      "id": 169,
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Croutons",
+      "author": {
+        "@type": "Person",
+        "name": "Tanya Allen"
+      },
+      "description": "A creamy chicken casserole topped with Swiss cheese and crunchy croutons.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "8 chicken breast fillets",
+        "1 (8 oz) can mushrooms",
+        "8 slices Swiss cheese",
+        "1 (10 oz) can cream of chicken soup",
+        "½ cup milk",
+        "1 (6 oz) pkg croutons",
+        "¼ cup melted butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          }
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Rinse the chicken and pat dry, then arrange in a 9×13 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top each chicken fillet with a slice of Swiss cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cream of chicken soup, mushrooms, and milk in a bowl; mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the soup mixture over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the croutons with melted butter in a small bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the buttered croutons over the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, covered with foil, for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, for an additional 15 minutes until the top is browned.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "duration": "PT15M"
+        }
+      ],
+      "keywords": "chicken casserole, croutons, creamy chicken bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "id": 246,
+      "similarity": "0.30"
     }
   ]
 }

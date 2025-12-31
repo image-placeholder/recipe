@@ -53,266 +53,184 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Oven Barbecued Pork Chops",
+      "name": "Teriyaki Sauce",
       "author": {
         "@type": "Person",
-        "name": "Sue Dinney"
+        "name": "Barbara Robertson"
       },
-      "description": "Pork chops marinated in a barbecue sauce and baked in the oven.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "6 pork loin chops (about 2 lb)",
-        "2 Tbsp packed brown sugar",
-        "3/4 cup ketchup",
-        "1 Tbsp Worcestershire sauce",
-        "1/3 cup chopped onion",
-        "1 tsp chili powder",
-        "1 clove minced garlic",
-        "1/2 tsp dried mustard",
-        "1/4 cup vinegar",
-        "1/2 tsp dried oregano"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Trim fat from pork chops and place in a single layer in a 13x9 inch baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine ketchup, onions, garlic, vinegar, sugar, Worcestershire sauce, chili powder, mustard, and oregano in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the sauce over the chops and marinate in the refrigerator for at least 1 hour or up to 8 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with foil and bake in a 350°F oven for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover and bake, spooning sauce over chops occasionally, for 15 to 30 minutes or until tender."
-        }
-      ],
-      "keywords": "pork chops, barbecue, oven baked",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour"
-      },
-      "id": 210,
-      "similarity": "0.41"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Caesar Dressin' Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Towton"
-      },
-      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
-      "recipeCategory": "Salad Dressing",
-      "recipeCuisine": "American",
+      "description": "A savory and slightly sweet marinade sauce made with soy sauce, garlic, and ginger, ideal for chicken, beef, pork, or seafood.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Asian-inspired",
       "prepTime": "PT5M",
       "cookTime": "PT0M",
       "totalTime": "PT5M",
-      "recipeYield": "1 batch",
+      "recipeYield": "varies",
       "recipeIngredient": [
-        "½ tsp Worcestershire sauce",
-        "3 garlic cloves",
-        "½ tsp dry mustard",
-        "2 beaten egg yolks",
-        "½ tsp salt",
-        "½ cup lemon juice",
-        "Dash pepper",
-        "1 cup oil",
-        "¼ cup white sugar",
-        "1 cup Parmesan cheese"
+        "1/4 cup soy sauce",
+        "1 clove garlic, minced",
+        "2 Tbsp honey",
+        "1/4 tsp hot pepper (or to taste)",
+        "1 Tbsp rice vinegar",
+        "1 Tbsp minced ginger root"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+          "text": "Mix all ingredients together."
         },
         {
           "@type": "HowToStep",
-          "text": "Can be kept in the fridge for up to 2 weeks."
+          "text": "Marinate meat for at least 1 hour or up to 24 hours in the refrigerator."
         }
       ],
-      "keywords": "Caesar dressing, homemade salad dressing",
+      "keywords": "teriyaki sauce, marinade, Asian-inspired, soy sauce",
       "_naturalized_times": {
         "prepTime": "5 minutes",
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 101,
-      "similarity": "0.40"
+      "id": 135,
+      "similarity": "0.37"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sloppy Joe Squares",
+      "name": "Plum Pudding Sauce",
       "author": {
         "@type": "Person",
-        "name": "Deb (Finkbeiner) Lord"
+        "name": "Donna Greb"
       },
-      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "8 servings",
-      "recipeIngredient": [
-        "1 lb ground beef",
-        "1 small onion, minced",
-        "1/2 tsp Worcestershire sauce",
-        "3/4 cup ketchup",
-        "1 tsp salt",
-        "1/2 tsp pepper",
-        "1/4 tsp chili powder",
-        "2 Tbsp flour",
-        "2 packages Pillsbury crescent dinner rolls",
-        "Mozzarella cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Blend in flour to thicken the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the beef mixture evenly over the layer of rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the beef mixture with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F until the crescent rolls are browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with a salad."
-        }
-      ],
-      "keywords": "sloppy joe, casserole, crescent rolls, beef",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
-      },
-      "id": 185,
-      "similarity": "0.38"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Salad Dressing",
-      "author": {
-        "@type": "Person",
-        "name": "Marie Dinney"
-      },
-      "description": "A cooked salad dressing made with eggs, sugar, mustard, and vinegar, thickened with cornstarch.",
-      "recipeCategory": "Salad Dressing",
+      "description": "A sweet sauce made with brown sugar and vanilla, perfect for plum pudding.",
+      "recipeCategory": "Sauce",
       "recipeCuisine": "American",
       "prepTime": "PT5M",
-      "cookTime": "PT8M",
-      "totalTime": "PT13M",
-      "recipeYield": "1 batch",
+      "cookTime": "PT10M",
+      "totalTime": "PT15M",
+      "recipeYield": "2 cups",
       "recipeIngredient": [
-        "1 tsp salt",
-        "2 eggs",
-        "1 cup white sugar",
-        "2 tsp dry mustard",
-        "1 cup vinegar",
-        "3 Tbsp cornstarch",
-        "1 cup 2% milk"
+        "2 cups brown sugar",
+        "2 cups boiling water",
+        "2 Tbsp cornstarch",
+        "2 tsp butter",
+        "1/4 cup cold water",
+        "1 tsp vanilla"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients thoroughly."
+          "text": "Mix brown sugar and cornstarch in a saucepan."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook in the microwave for approximately 8 minutes."
+          "text": "Add cold water and mix until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add boiling water and cook until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add butter and vanilla."
         }
       ],
-      "keywords": "cooked salad dressing, creamy dressing",
+      "keywords": "plum pudding sauce, dessert sauce, brown sugar sauce",
       "_naturalized_times": {
         "prepTime": "5 minutes",
-        "cookTime": "8 minutes",
-        "totalTime": "13 minutes"
+        "cookTime": "10 minutes",
+        "totalTime": "15 minutes"
       },
-      "id": 102,
-      "similarity": "0.38"
+      "id": 134,
+      "similarity": "0.36"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Curry Dip",
+      "name": "Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "Linda Finkbeiner"
+        "name": "Heather Clarke"
       },
-      "description": "A flavorful and spicy dip made with mayonnaise, curry powder, and chili sauce, perfect for serving with snacks.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "1 bowl",
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 cup mayonnaise",
-        "1/2 tsp Worcestershire sauce",
-        "1/4 cup chili sauce",
-        "1 tsp curry powder",
-        "1/4 tsp Tabasco",
-        "1/2 tsp chopped onion (optional)",
-        "1 tsp lemon juice"
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together in a bowl until well combined."
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
         },
         {
           "@type": "HowToStep",
-          "text": "Let stand in the fridge for 1 to 2 hours before serving to allow flavors to meld."
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Continue cooking gently for another 2 hours."
         }
       ],
-      "keywords": "curry dip, spicy dip, party appetizer",
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "1 hour 10 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
       },
-      "id": 14,
-      "similarity": "0.37"
+      "id": 177,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cold Meat Mustard",
+      "author": {
+        "@type": "Person",
+        "name": "Alwinna Galloway"
+      },
+      "description": "A tangy mustard sauce for cold meats.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "totalTime": "PT5M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 tsp vinegar",
+        "3 heaping tsp mustard",
+        "4 heaping tsp Miracle Whip",
+        "8 tsp white sugar",
+        "2 tsp flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put in fridge."
+        }
+      ],
+      "keywords": "mustard sauce, cold meat, condiment",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": null,
+        "totalTime": "5 minutes"
+      },
+      "id": 122,
+      "similarity": "0.33"
     }
   ]
 }

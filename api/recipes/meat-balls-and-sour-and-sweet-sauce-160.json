@@ -124,75 +124,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hawaiian Meatballs",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
-      "recipeCategory": "Meat",
-      "recipeCuisine": "Hawaiian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb ground beef",
-        "2 eggs",
-        "½ cup chopped onion",
-        "¾ cup bread crumbs",
-        "¼ tsp salt",
-        "¼ tsp garlic salt",
-        "½ tsp salt",
-        "¼ tsp ginger",
-        "¼ tsp dry mustard",
-        "2 Tbsp soya sauce",
-        "¼ cup vinegar",
-        "6 Tbsp brown sugar",
-        "6 Tbsp ketchup",
-        "2 Tbsp shortening",
-        "1 (10 oz) can crushed pineapple",
-        "1 cup water",
-        "2 Tbsp cornstarch"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix the meat mixture together and shape into balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove the meatballs from the pan and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
-        }
-      ],
-      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "id": 152,
-      "similarity": "0.48"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Sweet & Sour Pineapple Chicken",
       "author": {
         "@type": "Person",
@@ -409,6 +340,57 @@
         "totalTime": "1 hour 40 minutes"
       },
       "id": 157,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sour 'N Sweet Pork Chops",
+      "author": {
+        "@type": "Person",
+        "name": "Nola Ratz"
+      },
+      "description": "A tangy and sweet pork chop dish simmered in a rich sauce made with brown sugar, vinegar, and Worcestershire sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 pork chops",
+        "½ cup brown sugar",
+        "¼ cup vinegar",
+        "½ cup water",
+        "1 Tbsp Worcestershire sauce",
+        "¼ cup ketchup",
+        "2 Tbsp flour (for thickening)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain excess fat from pork chops and brown them in a large frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together water, brown sugar, vinegar, Worcestershire sauce, and ketchup. Pour over the browned chops."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 30 minutes or until done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, thicken the liquid with 2 Tbsp flour. Serve with rice."
+        }
+      ],
+      "keywords": "sour sweet pork chops, tangy pork, brown sugar sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 207,
       "similarity": "0.38"
     }
   ]

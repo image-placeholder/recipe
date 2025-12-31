@@ -124,120 +124,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Ham Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Bernice Martin"
-      },
-      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "4 cups hash brown potatoes, thawed",
-        "1½ cups chopped ham",
-        "1 cup grated Cracker Barrel cheddar cheese",
-        "1 small onion, chopped",
-        "½ cup Miracle Whip salad dressing",
-        "½ cup milk",
-        "¼ tsp pepper",
-        "½ cup fresh bread crumbs",
-        "1 Tbsp butter or margarine"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with bread crumbs and dot with butter or margarine."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 45 minutes."
-        }
-      ],
-      "keywords": "ham casserole, potato casserole, comforting main dish",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour"
-      },
-      "id": 200,
-      "similarity": "0.45"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheese Dip in a Bread Bowl",
-      "author": {
-        "@type": "Person",
-        "name": "Sherri Haugh"
-      },
-      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 bread bowl",
-      "recipeIngredient": [
-        "1 round bread loaf",
-        "1½ cups chopped ham",
-        "1 (8 oz) package cream cheese",
-        "1½ cups sour cream",
-        "½ cup chopped green pepper",
-        "½ cup chopped green onion",
-        "2 cups shredded cheddar cheese",
-        "1 shake Tabasco sauce",
-        "1 shake Worcestershire sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
-        }
-      ],
-      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "id": 4,
-      "similarity": "0.44"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Spaghetti Casserole",
       "author": {
         "@type": "Person",
@@ -360,6 +246,146 @@
       },
       "id": 159,
       "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ham & Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Shelley Kinsman"
+      },
+      "description": "A layered ham, potato, and cheese casserole cooked in a slow cooker.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT8H",
+      "totalTime": "PT8H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "8 slices ham",
+        "8 to 10 medium potatoes, sliced",
+        "2 onions, sliced thin",
+        "1 cup grated cheese",
+        "Salt and pepper to taste",
+        "Cream of mushroom or celery soup",
+        "Paprika"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put half of the ham, potatoes, onions, cheese, salt, and pepper in a slow cooker."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining half of the ingredients for the second layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with soup and sprinkle with paprika."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
+        }
+      ],
+      "keywords": "ham, potato, casserole, slow cooker",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "8 hours",
+        "totalTime": "8 hours 20 minutes"
+      },
+      "id": 209,
+      "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Beef and Potato Bake",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Jefferies"
+      },
+      "description": "A layered casserole featuring ground beef, potatoes, zucchini, and a creamy cheddar sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "1 13x9 inch baking dish",
+      "recipeIngredient": [
+        "3 potatoes, peeled and thinly sliced",
+        "1 lb ground beef",
+        "¼ cup butter, divided",
+        "2 Tbsp vegetable oil",
+        "2 small zucchini, sliced",
+        "1 tsp Italian seasoning",
+        "½ cup prepared tomato pasta sauce",
+        "2 cups milk, divided",
+        "¼ cup flour",
+        "1½ cups grated cheddar cheese",
+        "1 onion, chopped",
+        "½ tsp salt",
+        "½ tsp pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt 2 tablespoons butter and oil over medium-low heat. Add potatoes and cook for 5 minutes, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add zucchini, salt, and pepper to the skillet. Cook until zucchini is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the vegetable mixture into a 13x9 inch baking dish. Set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the same skillet, cook onion and Italian seasoning until onion is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ground beef to the skillet and cook until it loses its pink color. Stir in tomato sauce and ½ cup milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the meat mixture over the vegetable layer in the baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt remaining butter in the skillet, stir in flour, and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually whisk in remaining milk. Cook and stir until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in cheddar cheese until melted. Pour the sauce over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 20 to 25 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 minutes before serving."
+        }
+      ],
+      "keywords": "beef casserole, potato bake, creamy sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "id": 158,
+      "similarity": "0.39"
     }
   ]
 }

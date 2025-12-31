@@ -73,222 +73,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Tortilla Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Mexican",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "Chicken (breasts or thighs)",
-        "1 onion, chopped",
-        "2 cloves garlic, minced",
-        "1 can diced tomatoes",
-        "1 cup corn",
-        "1 can black beans, optional",
-        "1 bay leaf",
-        "¼ cup chopped cilantro",
-        "½ tsp chili powder",
-        "½ tsp cumin",
-        "½ tsp oregano",
-        "Salt and pepper to taste",
-        "Tortilla chips",
-        "Sour cream",
-        "Cheddar cheese, grated",
-        "1 jar salsa"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute chicken pieces with onion, garlic, and spices until chicken is cooked through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add 4 cups water and boil to make stock."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove chicken and chop, discarding any bones and skin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine remaining ingredients (except tortilla chips, sour cream, and cheese) and heat through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To serve, place tortilla chips in soup bowls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour soup over chips and top with sour cream, jalapenos (optional), and shredded cheddar cheese."
-        }
-      ],
-      "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 124,
-      "similarity": "0.42"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Fairest Wheels",
-      "author": {
-        "@type": "Person",
-        "name": "Dianne Finkbeiner"
-      },
-      "description": "A chilled, rolled tortilla snack filled with a spicy chicken and cheese mixture.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "8 servings",
-      "recipeIngredient": [
-        "4 oz light cream cheese, softened",
-        "1 cup finely chopped cooked chicken",
-        "2 Tbsp low-fat sour cream",
-        "½ cup chopped lettuce",
-        "4 Tbsp red pepper jelly",
-        "2 cups reduced-fat shredded cheddar cheese",
-        "3 (9-inch) flour tortillas",
-        "⅔ cup chopped green bell pepper",
-        "⅓ cup minced green onions and red pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a medium bowl, combine chicken, lettuce, cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In another bowl, beat cream cheese and sour cream together until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cream cheese mixture to the chicken mixture and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread ⅓ cup of the chicken and cream cheese mixture onto one side of a tortilla, leaving a ½-inch border at the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with ⅓ cup shredded cheese and top with red pepper jelly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll up the tortilla tightly and seal the edge."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Repeat with remaining tortillas and filling mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap each roll in plastic wrap and refrigerate for 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Trim the ends off each roll and cut into 8 slices."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve cold."
-        }
-      ],
-      "keywords": "chicken roll-ups, cheese snack, cold appetizer",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
-      },
-      "id": 36,
-      "similarity": "0.41"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken and Cheese Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "June Schroeder"
-      },
-      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1½ lb diced cooked chicken",
-        "1 medium onion, finely chopped",
-        "2 cups cooked rice",
-        "¼ lb grated cheddar cheese",
-        "½ cup milk",
-        "1 can Campbell's cream of celery soup",
-        "4 Tbsp butter or margarine",
-        "¾ cup crushed corn flakes",
-        "1½ cups chopped celery",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put the mixture into a buttered casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook until the celery is hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the corn flake and celery mixture over the chicken mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 375°F oven for about ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 375,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "chicken casserole, cheesy rice bake, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 244,
-      "similarity": "0.40"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Noodles with Hamburg",
       "author": {
         "@type": "Person",
@@ -390,6 +174,193 @@
       },
       "id": 228,
       "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Twist Bake",
+      "author": {
+        "@type": "Person",
+        "name": "Cheryl MacLeod"
+      },
+      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, chopped",
+        "1 can (284 mL) mushrooms, chopped",
+        "1 envelope taco seasoning mix",
+        "¾ cup water",
+        "1 can (680 mL) spaghetti sauce",
+        "¼ cup salsa (optional)",
+        "1 green pepper, chopped (optional)",
+        "2 cups spiral pasta",
+        "1 cup sour cream",
+        "1½ cups shredded cheddar cheese",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and start water to cook for pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the spiral pasta, then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine pasta with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
+        }
+      ],
+      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 184,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Fajitas",
+      "author": {
+        "@type": "Person",
+        "name": "Valorie (Finkbeiner) Mullin"
+      },
+      "description": "A flavorful Mexican-inspired dish featuring stir-fried chicken, peppers, and onions, served with tortillas and various toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 green pepper, cut into strips",
+        "2 Tbsp chopped parsley",
+        "1 onion, chopped",
+        "Flour tortillas (soft)",
+        "1 tsp ground cumin",
+        "1 cup shredded cheese",
+        "1 tsp chili powder",
+        "Guacamole (see appetizers)",
+        "½ cup Catalina dressing",
+        "Salsa",
+        "4 boneless, skinless chicken breasts, cut into strips",
+        "Sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry the vegetables and chicken over high heat until the chicken is cooked through with spices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add Catalina dressing and heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve wrapped in flour tortillas with shredded cheese, salsa, sour cream, and guacamole as garnishes."
+        }
+      ],
+      "keywords": "chicken fajitas, Mexican dish, stir-fry",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 226,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Broccoli",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 cup small shells pasta",
+        "1 can cream of mushroom soup",
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the small shells pasta according to package directions. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with a cranberry salad."
+        }
+      ],
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 234,
+      "similarity": "0.36"
     }
   ]
 }

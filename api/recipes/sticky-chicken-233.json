@@ -65,54 +65,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sticky Wings",
-      "author": {
-        "@type": "Person",
-        "name": "Louise Wein"
-      },
-      "description": "Baked chicken wings glazed with a sweet and savory brown sugar and soy sauce mixture.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "2-3 lbs chicken wings",
-      "recipeIngredient": [
-        "2-3 lbs chicken wings",
-        "1 cup brown sugar",
-        "¼ cup soy sauce",
-        "2 tsp garlic salt"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 300°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Break chicken wings apart at the joints and discard tips."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place wings in a roasting pan and cover with the sauce mixture (brown sugar, soy sauce, garlic salt)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until the sauce evaporates and wings are sticky."
-        }
-      ],
-      "keywords": "sticky chicken wings, baked wings, appetizer",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "id": 37,
-      "similarity": "0.40"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Beef Porcupines",
       "author": {
         "@type": "Person",
@@ -283,62 +235,104 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Britt's Favourite Meatballs",
+      "name": "Spareribs to Go",
       "author": {
         "@type": "Person",
-        "name": "Leanne Robinson"
+        "name": "Betty Glanville"
       },
-      "description": "A classic meatball recipe with a sweet and tangy sauce, baked in the oven.",
-      "recipeCategory": "Meat",
+      "description": "A versatile spareribs recipe that can be broiled or heated in a glaze sauce, perfect for make-ahead meals.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT30M",
-      "totalTime": "PT45M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
       "recipeIngredient": [
-        "1 lb lean ground beef",
-        "½ cup quick cook oats or bran",
-        "1 egg, lightly beaten",
-        "1 pkg onion soup mix",
-        "1 tsp salt",
-        "¼ tsp pepper",
-        "½ tsp garlic powder",
-        "1 cup brown sugar",
-        "1 cup ketchup",
-        "½ cup ketchup",
-        "1 tsp Worcestershire sauce",
-        "¼ tsp garlic powder"
+        "3 to 4 lb spareribs",
+        "1 cup ketchup",
+        "¼ cup soya sauce",
+        "Glaze: 4 crushed garlic cloves",
+        "½ cup honey"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine the first 8 ingredients in a large bowl and mix well."
+          "text": "Boil spareribs, cut into serving pieces, in salted water for 1½ hours. Drain and place in a shallow dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Shape the mixture into 1 inch balls and place in a 9x13 inch baking dish."
+          "text": "Pour the glaze mixture (garlic and honey) over the ribs. May be frozen for later use."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake, uncovered, at 350°F for 18 to 20 minutes or until the meat is no longer pink."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine sauce ingredients and pour over the meatballs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return to the oven for an additional 10 to 15 minutes."
+          "text": "To finish, remove ribs from the glaze and broil 6 inches from heat in the oven or barbecue until crisp. Alternatively, baste ribs and heat in the sauce."
         }
       ],
-      "keywords": "meatballs, baked, sweet and tangy sauce",
+      "keywords": "spareribs, garlic honey glaze, make-ahead ribs",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "45 minutes"
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
       },
-      "id": 151,
-      "similarity": "0.36"
+      "id": 204,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Hawaiian",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Hawaiian",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1 can (10 oz/284 mL) chicken broth",
+        "1 Bake 'N Shake pouch",
+        "4 to 5 boneless chicken breasts",
+        "1 can (14 oz/398 mL) pineapple tidbits with juice",
+        "1 tsp ground ginger",
+        "1 garlic clove"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine rice, chicken broth, and contents of Bake 'N Shake pouch as directed on the package."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken breasts in a single layer in a 9x13 inch (2.5 L) casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Coat chicken with a mixture of ground ginger and garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top chicken with pineapple tidbits and juice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the prepared rice mixture over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake uncovered at 375°F (180°C) for 30 minutes."
+        }
+      ],
+      "keywords": "Hawaiian chicken, pineapple chicken, baked chicken and rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 232,
+      "similarity": "0.33"
     }
   ]
 }

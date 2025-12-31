@@ -179,72 +179,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheddar Baked Potato Slices",
-      "author": {
-        "@type": "Person",
-        "name": "Ina Browning"
-      },
-      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "4 medium baking potatoes, cut into ¼ inch slices",
-        "1 can cream of mushroom soup",
-        "½ tsp paprika",
-        "½ tsp pepper",
-        "1 cup shredded cheddar cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese over the potatoes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the soup mixture evenly over the cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 400,
-            "unitCode": "FAR"
-          },
-          "duration": "PT45M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
-        }
-      ],
-      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "id": 140,
-      "similarity": "0.36"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Stuffed Mushrooms",
       "author": {
         "@type": "Person",
@@ -290,73 +224,116 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken and Cheese Casserole",
+      "name": "Mexican Fudge",
       "author": {
         "@type": "Person",
-        "name": "June Schroeder"
+        "name": "Linda Finkbeiner"
       },
-      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
+      "description": "A warm, cheesy baked appetizer served on Triscuits.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
       "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 casserole",
+      "totalTime": "PT40M",
+      "recipeYield": "1 9×11 in pan",
       "recipeIngredient": [
-        "1½ lb diced cooked chicken",
-        "1 medium onion, finely chopped",
-        "2 cups cooked rice",
-        "¼ lb grated cheddar cheese",
-        "½ cup milk",
-        "1 can Campbell's cream of celery soup",
-        "4 Tbsp butter or margarine",
-        "¾ cup crushed corn flakes",
-        "1½ cups chopped celery",
-        "Salt and pepper to taste"
+        "2 cups shredded cheddar cheese",
+        "3 eggs, lightly beaten",
+        "½ cup taco or salsa sauce",
+        "2 cups shredded mozzarella cheese",
+        "Triscuits for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
+          "text": "Grease a 9×11 in pan and spread the cheddar cheese evenly on the bottom."
         },
         {
           "@type": "HowToStep",
-          "text": "Put the mixture into a buttered casserole dish."
+          "text": "Lightly beat the eggs and mix with taco or salsa sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
+          "text": "Pour the egg mixture over the cheddar cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook until the celery is hot."
+          "text": "Top with the shredded mozzarella cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the corn flake and celery mixture over the chicken mixture."
+          "text": "Bake at 350°F for 30 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in a 375°F oven for about ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 375,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Cut into squares while warm and serve on Triscuits."
         }
       ],
-      "keywords": "chicken casserole, cheesy rice bake, comfort food",
+      "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
+        "prepTime": "10 minutes",
         "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "totalTime": "40 minutes"
       },
-      "id": 244,
-      "similarity": "0.31"
+      "id": 12,
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hot Cheese Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A creamy bacon and cheddar dip baked inside a pumpernickel bread shell.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round pumpernickel bread loaf",
+        "1 (8 oz) package cream cheese",
+        "1 cup Hellmann's mayonnaise",
+        "½ cup grated cheddar cheese",
+        "½ cup bacon bits"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the pumpernickel loaf and hollow it out, leaving a thick shell."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream cheese, mayonnaise, cheddar cheese, and bacon bits until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mixture into the hollowed-out bread."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil, leaving the hole with the cheese mixture uncovered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325°F for 1½ hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the bread pieces."
+        }
+      ],
+      "keywords": "pumpernickel dip, hot bacon dip, cheddar dip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "id": 5,
+      "similarity": "0.28"
     }
   ]
 }

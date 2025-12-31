@@ -294,47 +294,50 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken Celebrity",
+      "name": "Sticky Wings",
       "author": {
         "@type": "Person",
-        "name": "Rosemary Stewart"
+        "name": "Louise Wein"
       },
-      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
-      "recipeCategory": "Main Course",
+      "description": "Baked chicken wings glazed with a sweet and savory brown sugar and soy sauce mixture.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
       "prepTime": "PT10M",
       "cookTime": "PT1H",
       "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
+      "recipeYield": "2-3 lbs chicken wings",
       "recipeIngredient": [
-        "2 to 3 lb chicken parts",
-        "1/4 cup brown sugar",
-        "1 package dry onion soup mix",
-        "1/2 cup ketchup",
-        "1/4 cup water"
+        "2-3 lbs chicken wings",
+        "1 cup brown sugar",
+        "¼ cup soy sauce",
+        "2 tsp garlic salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Arrange chicken parts in a small roaster or casserole."
+          "text": "Preheat oven to 300°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
+          "text": "Break chicken wings apart at the joints and discard tips."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in a 350°F oven for 1 hour or until tender."
+          "text": "Place wings in a roasting pan and cover with the sauce mixture (brown sugar, soy sauce, garlic salt)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the sauce evaporates and wings are sticky."
         }
       ],
-      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
+      "keywords": "sticky chicken wings, baked wings, appetizer",
       "_naturalized_times": {
         "prepTime": "10 minutes",
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 237,
-      "similarity": "0.34"
+      "id": 37,
+      "similarity": "0.33"
     }
   ]
 }

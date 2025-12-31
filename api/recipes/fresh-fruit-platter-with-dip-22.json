@@ -155,114 +155,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pork Chops with Dried Fruit",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "description": "A savory and sweet dish featuring pork chops cooked with assorted dried fruits in a flavorful orange juice sauce.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT25M",
-      "totalTime": "PT40M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "4 pork chops",
-        "1½ cups assorted dried fruit (apples, peaches, pears, apricots, raisins)",
-        "1 Tbsp vegetable oil",
-        "2 cups orange juice, divided",
-        "1½ tsp cornstarch",
-        "¼ tsp allspice",
-        "½ tsp Worcestershire sauce",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat a large skillet over medium-high heat. Add oil and cook pork chops until golden brown on each side, about 6 to 8 minutes per side. Remove chops to a plate."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat, add 1 cup orange juice to the skillet, and scrape any browned bits from the pan. Bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining orange juice, dried fruit, Worcestershire sauce, and allspice. Simmer for 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cornstarch with a small amount of water or juice. Stir into the skillet and cook until the sauce thickens, about 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return pork chops to the skillet and cook until heated through. Serve with rice or couscous."
-        }
-      ],
-      "keywords": "pork chops, dried fruit, orange juice sauce, savory sweet dish",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "40 minutes"
-      },
-      "id": 206,
-      "similarity": "0.25"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Orange Jello Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Betty Macisaac"
-      },
-      "description": "A simple orange Jello salad with mandarin oranges and Dream Whip.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT5M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 serving",
-      "recipeIngredient": [
-        "1½ cups hot water",
-        "1 small package orange Jello",
-        "1 small package Dream Whip (not pudding or instant vanilla)",
-        "1 can mandarin oranges"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Put the first 3 ingredients into a saucepan and cook until clear."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cool the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix Dream Whip according to package instructions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain oranges and add Dream Whip and oranges to the cooled mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Allow to cool completely before serving."
-        }
-      ],
-      "keywords": "orange Jello salad, mandarin oranges, Dream Whip",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "20 minutes"
-      },
-      "id": 75,
-      "similarity": "0.24"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Spinach Dip",
       "author": [
         {
@@ -316,6 +208,89 @@
       },
       "id": 16,
       "similarity": "0.22"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fruit Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 cup",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 tsp frozen orange juice concentrate",
+        "½ cup marshmallow creme",
+        "1 tsp grated orange rind"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a dish and beat until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with fresh cut-up fruit."
+        }
+      ],
+      "keywords": "fruit dip, orange cream cheese, marshmallow dip",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 24,
+      "similarity": "0.22"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 18,
+      "similarity": "0.20"
     }
   ]
 }

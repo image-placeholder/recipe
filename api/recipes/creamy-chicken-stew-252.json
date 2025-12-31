@@ -205,202 +205,191 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken and Cheese Casserole",
+      "name": "Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "June Schroeder"
+        "name": "Margaret Beaver"
       },
-      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
       "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 casserole",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
       "recipeIngredient": [
-        "1½ lb diced cooked chicken",
-        "1 medium onion, finely chopped",
-        "2 cups cooked rice",
-        "¼ lb grated cheddar cheese",
-        "½ cup milk",
-        "1 can Campbell's cream of celery soup",
-        "4 Tbsp butter or margarine",
-        "¾ cup crushed corn flakes",
-        "1½ cups chopped celery",
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
         "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
+          "text": "Saute the onion, celery, and garlic until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Put the mixture into a buttered casserole dish."
+          "text": "Add the ground hamburger and brown."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook until the celery is hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the corn flake and celery mixture over the chicken mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 375°F oven for about ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 375,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Add the remaining ingredients and simmer for several hours."
         }
       ],
-      "keywords": "chicken casserole, cheesy rice bake, comfort food",
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
       },
-      "id": 244,
-      "similarity": "0.37"
+      "id": 187,
+      "similarity": "0.35"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Microwave Corn Chowder",
+      "name": "Lemon Chicken With Thyme",
       "author": {
         "@type": "Person",
-        "name": "Brenda Martene"
+        "name": "Karen Schwartzentruber"
       },
-      "description": "A creamy corn chowder made in the microwave with potatoes, carrots, celery, and cheddar cheese.",
-      "recipeCategory": "Soup",
+      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT10M",
       "cookTime": "PT15M",
       "totalTime": "PT25M",
-      "recipeYield": "10 servings",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 cups water",
-        "¼ cup butter or margarine",
-        "2 cups diced peeled potatoes",
-        "¼ cup all-purpose flour",
-        "2 cups milk",
-        "½ cup sliced carrots",
-        "½ cup sliced celery",
-        "¼ cup chopped onion",
-        "1 tsp salt",
-        "¼ tsp pepper",
-        "3 cups (12 oz) shredded cheddar cheese",
-        "2 cans (14¾ oz each) cream style corn"
+        "3 Tbsp flour",
+        "1 Tbsp margarine",
+        "1 cup chicken broth",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "3 Tbsp lemon juice",
+        "1/2 tsp thyme",
+        "4 boneless skinless chicken breasts",
+        "2 Tbsp olive oil",
+        "1 medium onion (optional)",
+        "Lemon halves and chopped parsley for garnish (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Place water in a 2-quart microwave-safe dish; cover and heat until boiling."
+          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
         },
         {
           "@type": "HowToStep",
-          "text": "Add potatoes, carrots, celery, onion, salt, and pepper. Cook, uncovered, on high for 8 to 10 minutes or until vegetables are crisp-tender; set aside (do not drain)."
+          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
         },
         {
           "@type": "HowToStep",
-          "text": "In a 3-quart dish, microwave butter on high for 50 to 60 seconds or until melted."
+          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in flour until smooth. Gradually stir in milk. Cook, uncovered, on high for 6 to 7 minutes or until thickened, stirring every 2 minutes."
+          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the cheese. Heat for 1 to 1½ minutes or until the cheese is melted."
+          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in corn and reserved vegetables. Cook on high for 2 to 3 minutes or until heated through."
+          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
         }
       ],
-      "keywords": "microwave corn chowder, creamy soup, cheddar cheese",
+      "keywords": "lemon chicken, thyme, chicken breast",
       "_naturalized_times": {
         "prepTime": "10 minutes",
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 118,
-      "similarity": "0.37"
+      "id": 224,
+      "similarity": "0.35"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Tomato Macaroni Soup",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Linda Finkbeiner"
-        },
-        {
-          "@type": "Person",
-          "name": "Shirley Preszcator"
-        }
-      ],
-      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
-      "recipeCategory": "Soup",
+      "name": "Pizza Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A hearty pizza casserole made with spaghetti, hamburger, pepperoni, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x13 inch pan",
       "recipeIngredient": [
-        "1 Tbsp oil",
-        "1½ cups water",
-        "1 cooking onion, diced",
-        "1 cup dry macaroni",
-        "2 carrots, diced",
-        "½ tsp garlic salt",
-        "3 or 4 celery stalks, diced",
-        "½ tsp Worcestershire sauce",
-        "2 cups chicken stock",
-        "2 cups tomato juice",
-        "Salt and pepper to taste"
+        "8 or 7 oz spaghetti",
+        "1 lb hamburger",
+        "1/2 cup chopped onion",
+        "2 Tbsp margarine or butter",
+        "2 eggs, beaten",
+        "1/3 cup grated Parmesan cheese",
+        "1 (32 oz) jar spaghetti sauce",
+        "1 pkg (3 oz) pepperoni, sliced",
+        "4 cups diced mozzarella cheese",
+        "1 tsp dried oregano leaves",
+        "1 tsp cooking oil or olive oil",
+        "Salt to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute onion, celery, and carrot in oil until tender."
+          "text": "Cook spaghetti as per package instructions and drain."
         },
         {
           "@type": "HowToStep",
-          "text": "Add stock, juice, and water. Bring to a boil."
+          "text": "In a bowl, combine cooked spaghetti, margarine or butter, eggs, and Parmesan cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Add pasta and cook until tender."
+          "text": "Spread the spaghetti mixture in a greased 9x13 inch pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic salt and Worcestershire sauce."
+          "text": "Brown hamburger and onion in a skillet and spoon over the spaghetti mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Season to taste with salt and pepper."
+          "text": "Spread spaghetti sauce over the hamburger mixture and cover with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with oregano and drizzle with oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange pepperoni slices on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 350°F oven for 20 to 30 minutes."
         }
       ],
-      "keywords": "tomato macaroni soup, comfort food, pasta soup",
+      "keywords": "pizza casserole, spaghetti, hamburger, pepperoni",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "id": 123,
-      "similarity": "0.35"
+      "id": 202,
+      "similarity": "0.34"
     }
   ]
 }

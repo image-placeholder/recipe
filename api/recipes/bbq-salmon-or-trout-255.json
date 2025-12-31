@@ -66,55 +66,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Salmon Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Jo Anne Pickering"
-      },
-      "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeIngredient": [
-        "1 (8 oz) package cream cheese, softened",
-        "1 can red salmon",
-        "1 tsp garlic powder or 1 fresh garlic clove, minced",
-        "2 tsp lemon juice",
-        "2 Tbsp onion, minced",
-        "1 Tbsp fresh or dry parsley"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Drain the salmon and remove any bones."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Use a fork to flake the salmon before adding other ingredients."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the softened cream cheese with the salmon and all remaining ingredients."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix well and serve with crackers or as a spread."
-        }
-      ],
-      "keywords": "salmon dip, salmon spread, red salmon",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "id": 9,
-      "similarity": "0.31"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Broccoli Casserole",
       "author": [
         {
@@ -353,6 +304,48 @@
         "totalTime": "25 minutes"
       },
       "id": 224,
+      "similarity": "0.24"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet and Sour Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "description": "A simple and flavorful sweet and sour chicken recipe using onion soup mix and apricot jam.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H5M",
+      "recipeIngredient": [
+        "1 pkg onion soup mix",
+        "½ cup apricot jam",
+        "1 small bottle Russian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together onion soup mix, apricot jam, and Russian dressing in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture over the chicken in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 2 hours."
+        }
+      ],
+      "keywords": "sweet and sour chicken, easy chicken recipe, apricot jam chicken",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 5 minutes"
+      },
+      "id": 223,
       "similarity": "0.24"
     }
   ]

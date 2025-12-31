@@ -196,148 +196,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "English Shepherd's Pie",
-      "author": {
-        "@type": "Person",
-        "name": "Sue Dinney"
-      },
-      "description": "A traditional shepherd's pie with ground beef, vegetables, and mashed potatoes.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "British",
-      "prepTime": "PT30M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 lb ground beef",
-        "1 large onion, finely chopped",
-        "1 bay leaf",
-        "3 Tbsp flour",
-        "1¼ cups water",
-        "1 beef stock cube",
-        "1 Tbsp Worcestershire sauce",
-        "½ tsp salt",
-        "Pepper to taste",
-        "¼ tsp thyme",
-        "1 can peas, undrained",
-        "10 potatoes, peeled and mashed"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef briskly over high heat. Drain off excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the chopped onion and reduce heat. Stir-fry for 3 to 4 minutes until the meat is well browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle the flour over the meat mixture and stir to coat evenly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gradually add water, stock cube, Worcestershire sauce, salt, pepper, bay leaf, and thyme. Bring to a boil, then reduce heat and simmer for 40 minutes until the gravy thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the can of peas to the meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the meat mixture to a casserole dish and cover with mashed potatoes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 400°F oven until the top is golden brown."
-        }
-      ],
-      "keywords": "shepherd's pie, ground beef, mashed potatoes",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "id": 173,
-      "similarity": "0.33"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Beef and Rice Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Kurtis Brand"
-      },
-      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 1½ quart casserole",
-      "recipeIngredient": [
-        "1⅓ cups cooked rice",
-        "1 tsp salt",
-        "1 Tbsp butter",
-        "Dash pepper",
-        "1½ cups diced celery",
-        "3 Tbsp minced onion",
-        "1 can condensed tomato soup",
-        "¼ cup water",
-        "1 lb ground beef"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Sauté celery and onion in butter until soft and tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place rice in a greased 1½ quart casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the rice with the celery mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange the cooked beef on top of the celery mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the tomato soup with water and pour over the meat layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated 325°F oven for ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 325,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "beef casserole, rice casserole, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 168,
-      "similarity": "0.32"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Sweet & Sour Meatballs",
       "author": {
         "@type": "Person",
@@ -394,6 +252,143 @@
         "totalTime": "1 hour 30 minutes"
       },
       "id": 161,
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Twist Bake",
+      "author": {
+        "@type": "Person",
+        "name": "Cheryl MacLeod"
+      },
+      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, chopped",
+        "1 can (284 mL) mushrooms, chopped",
+        "1 envelope taco seasoning mix",
+        "¾ cup water",
+        "1 can (680 mL) spaghetti sauce",
+        "¼ cup salsa (optional)",
+        "1 green pepper, chopped (optional)",
+        "2 cups spiral pasta",
+        "1 cup sour cream",
+        "1½ cups shredded cheddar cheese",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and start water to cook for pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the spiral pasta, then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine pasta with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
+        }
+      ],
+      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 184,
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 163,
       "similarity": "0.30"
     }
   ]

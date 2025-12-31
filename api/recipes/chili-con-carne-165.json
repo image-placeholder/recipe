@@ -317,67 +317,80 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Nacho Salad",
+      "name": "Jelly Roll Style Meat Loaf",
       "author": {
         "@type": "Person",
-        "name": "Martine Bercier"
+        "name": "Barbara Ratz"
       },
-      "description": "A spicy nacho salad with ground beef, lettuce, tomatoes, and nacho chips, topped with a creamy dressing.",
-      "recipeCategory": "Salad",
+      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 loaf",
       "recipeIngredient": [
-        "1/2 romaine lettuce, shredded",
-        "1/4 lb lean ground beef",
-        "1/2 onion, chopped",
-        "1 clove garlic, crushed",
-        "1/2 cup Monterey Jack cheese (or mozzarella), shredded",
-        "1/2 cup nacho chips, lightly crushed",
-        "2 tomatoes, coarsely diced",
-        "1/2 tsp cayenne pepper",
-        "1/4 cup mayonnaise",
-        "1 tsp relish",
-        "1 Tbsp ketchup",
-        "2 drops hot pepper sauce (Tabasco)",
-        "1/4 cup water"
+        "½ lb ground beef",
+        "3 cups shredded mozzarella cheese",
+        "1 beaten egg",
+        "½ cup cracker crumbs or dry bread crumbs",
+        "½ tsp basil",
+        "1 clove garlic, minced",
+        "½ cup minced onion",
+        "1 tsp salt",
+        "⅛ tsp pepper",
+        "2 (8 oz) cans tomato sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Drain excess fat."
+          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Add spices and water to the beef mixture. Bring to a boil, then simmer for 15 minutes. Let cool for 10 minutes."
+          "text": "Add ground beef and mix thoroughly with hands until just combined."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large salad bowl, mix together the shredded lettuce, diced tomatoes, shredded cheese, and crushed nacho chips."
+          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
         },
         {
           "@type": "HowToStep",
-          "text": "In a separate bowl, mix the mayonnaise, relish, ketchup, and hot pepper sauce."
+          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the dressing over the salad and add the cooled meat mixture."
+          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
         },
         {
           "@type": "HowToStep",
-          "text": "Toss the salad to combine all ingredients and serve."
+          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain off fat and pour reserved tomato sauce on the roll."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 to 15 minutes before slicing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Decorate with tomato slices and green parsley on a serving tray."
         }
       ],
-      "keywords": "nacho salad, spicy salad, ground beef salad",
+      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 35 minutes"
       },
-      "id": 73,
-      "similarity": "0.38"
+      "id": 154,
+      "similarity": "0.36"
     }
   ]
 }

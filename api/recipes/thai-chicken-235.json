@@ -119,61 +119,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Richard's Sunday Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Richard MacGregor"
-      },
-      "description": "A rich and comforting soup featuring carrots, potatoes, and chicken stock.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 tsp sugar",
-        "5 large carrots",
-        "1 large potato",
-        "1 medium onion",
-        "1 Tbsp oil",
-        "2 to 3 cups chicken stock",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Peel and dice the carrots and potato. Combine diced onion and oil in a saucepan and cook over medium heat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the diced carrots and potato to the onion and cook for 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chicken stock and sugar. Cook for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat to simmer and cook for 10 to 15 minutes or until the vegetables are cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from heat and puree. Serve immediately with fresh bread."
-        }
-      ],
-      "keywords": "carrot soup, potato soup, chicken stock",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes"
-      },
-      "id": 121,
-      "similarity": "0.39"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Lemon Chicken With Thyme",
       "author": {
         "@type": "Person",
@@ -370,6 +315,68 @@
         "totalTime": "2 hours 20 minutes"
       },
       "id": 187,
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stir-Fry Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Atkinson"
+      },
+      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "6 to 8 servings",
+      "recipeIngredient": [
+        "1/4 cup olive oil",
+        "2 tsp curry powder",
+        "1 crushed garlic clove",
+        "1/4 cup soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 tsp Louisiana hot sauce",
+        "1/2 tsp Tabasco",
+        "6 to 8 buns, cut in half",
+        "Mozzarella cheese and bacon bits for buns",
+        "Chicken breasts, cut in cubes",
+        "Mushrooms, sliced",
+        "Celery, chopped",
+        "1 bag Oriental Classic frozen vegetables",
+        "1 onion, chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
+        }
+      ],
+      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 225,
       "similarity": "0.36"
     }
   ]

@@ -105,56 +105,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pasta Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Lorie Van Valkengoed"
-      },
-      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeIngredient": [
-        "½ bag penne or spiral pasta",
-        "1 green pepper, chopped",
-        "2 tomatoes, chopped",
-        "3 green onions, chopped",
-        "½ can black olives, sliced",
-        "1½ lb feta cheese, crumbled",
-        "1 bottle Classic Herb dressing"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the pasta according to package instructions, then drain and cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Crumble the feta cheese into the pasta mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
-        }
-      ],
-      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
-      },
-      "id": 85,
-      "similarity": "0.33"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Fruit Dip",
       "author": {
         "@type": "Person",
@@ -300,6 +250,70 @@
       },
       "id": 32,
       "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Surprise Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A layered seafood dip with shrimp, cocktail sauce, and cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "recipeYield": "1 large platter",
+      "recipeIngredient": [
+        "8 oz cream cheese, softened",
+        "½ cup sour cream",
+        "¼ cup mayonnaise",
+        "3 (4 oz) cans small shrimp, rinsed and drained",
+        "2 cups seafood cocktail sauce",
+        "2 cups shredded mozzarella cheese",
+        "1 green pepper, chopped",
+        "3 green onions, chopped",
+        "1 tomato, diced (optional)",
+        "Tortilla chips or assorted crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream cheese, sour cream, and mayonnaise together until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread this mixture in the bottom of a deep pie plate, pizza pan, or shallow baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scatter the shrimp over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the seafood cocktail sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add layers of mozzarella cheese, green pepper, and green onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with diced tomatoes if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve with tortilla chips or crackers."
+        }
+      ],
+      "keywords": "layered shrimp dip, seafood spread, party dip",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "id": 11,
+      "similarity": "0.29"
     }
   ]
 }

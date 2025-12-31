@@ -40,147 +40,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Salad Dressing",
-      "author": {
-        "@type": "Person",
-        "name": "Marie Dinney"
-      },
-      "description": "A cooked salad dressing made with eggs, sugar, mustard, and vinegar, thickened with cornstarch.",
-      "recipeCategory": "Salad Dressing",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT8M",
-      "totalTime": "PT13M",
-      "recipeYield": "1 batch",
-      "recipeIngredient": [
-        "1 tsp salt",
-        "2 eggs",
-        "1 cup white sugar",
-        "2 tsp dry mustard",
-        "1 cup vinegar",
-        "3 Tbsp cornstarch",
-        "1 cup 2% milk"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients thoroughly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook in the microwave for approximately 8 minutes."
-        }
-      ],
-      "keywords": "cooked salad dressing, creamy dressing",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "8 minutes",
-        "totalTime": "13 minutes"
-      },
-      "id": 102,
-      "similarity": "0.36"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Salad Dressing",
-      "author": {
-        "@type": "Person",
-        "name": "Evelyn Pickering"
-      },
-      "description": "A thickened salad dressing made by boiling a mixture of eggs, sugar, flour, mustard, water, and vinegar, finished with butter.",
-      "recipeCategory": "Salad Dressing",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 batch",
-      "recipeIngredient": [
-        "3 Tbsp flour",
-        "3 eggs",
-        "1 cup white sugar",
-        "1½ cups water",
-        "1 Tbsp dry mustard",
-        "1 cup vinegar",
-        "1 Tbsp butter"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Beat eggs and add sugar and dry ingredients."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil water and vinegar together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour egg mixture into vinegar-water mixture and boil until it thickens, stirring continually."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Take off heat and stir in 1 Tbsp butter."
-        }
-      ],
-      "keywords": "thickened salad dressing, boiled dressing",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
-      },
-      "id": 104,
-      "similarity": "0.36"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Salad Dressing",
-      "author": {
-        "@type": "Person",
-        "name": "Doris Ohmayer"
-      },
-      "description": "A creamy salad dressing cooked over boiling water, made with eggs, sugar, mustard, and vinegar.",
-      "recipeCategory": "Salad Dressing",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 batch",
-      "recipeIngredient": [
-        "2 well-beaten eggs",
-        "2 tsp flour",
-        "½ cup white sugar",
-        "¾ cup white vinegar",
-        "1 heaping tsp dry mustard",
-        "¼ cup boiling water",
-        "Pinch of salt"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix eggs, sugar, mustard, and salt together with flour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add vinegar and boiling water to the egg mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook over boiling water until creamy."
-        }
-      ],
-      "keywords": "creamy salad dressing, cooked dressing",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
-      },
-      "id": 103,
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Zesty BBQ Sauce",
       "author": {
         "@type": "Person",
@@ -234,49 +93,144 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hot Potato Salad",
+      "name": "Plum Pudding Sauce",
       "author": {
         "@type": "Person",
-        "name": "Margaret Beaver"
+        "name": "Donna Greb"
       },
-      "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
-      "recipeCategory": "Salad",
+      "description": "A sweet sauce made with brown sugar and vanilla, perfect for plum pudding.",
+      "recipeCategory": "Sauce",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT5M",
+      "prepTime": "PT5M",
+      "cookTime": "PT10M",
       "totalTime": "PT15M",
-      "recipeYield": "Serves 4-6",
+      "recipeYield": "2 cups",
       "recipeIngredient": [
-        "3 to 4 cups sliced potatoes",
-        "⅓ cup white vinegar",
-        "1 Tbsp flour",
-        "¾ cup water",
-        "1 Tbsp butter",
-        "Salt and pepper to taste",
-        "Pinch of sugar"
+        "2 cups brown sugar",
+        "2 cups boiling water",
+        "2 Tbsp cornstarch",
+        "2 tsp butter",
+        "1/4 cup cold water",
+        "1 tsp vanilla"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a saucepan, combine the white vinegar, flour, and water. Heat, stirring constantly, until the mixture thickens."
+          "text": "Mix brown sugar and cornstarch in a saucepan."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the butter, salt, pepper, and sugar to the vinegar mixture. Bring to a boil."
+          "text": "Add cold water and mix until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the hot dressing over the sliced potatoes."
+          "text": "Add boiling water and cook until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add butter and vanilla."
         }
       ],
-      "keywords": "hot potato salad, vinegar dressing, warm salad",
+      "keywords": "plum pudding sauce, dessert sauce, brown sugar sauce",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "5 minutes",
+        "prepTime": "5 minutes",
+        "cookTime": "10 minutes",
         "totalTime": "15 minutes"
       },
-      "id": 86,
-      "similarity": "0.29"
+      "id": 134,
+      "similarity": "0.26"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Teriyaki Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A savory and slightly sweet marinade sauce made with soy sauce, garlic, and ginger, ideal for chicken, beef, pork, or seafood.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "varies",
+      "recipeIngredient": [
+        "1/4 cup soy sauce",
+        "1 clove garlic, minced",
+        "2 Tbsp honey",
+        "1/4 tsp hot pepper (or to taste)",
+        "1 Tbsp rice vinegar",
+        "1 Tbsp minced ginger root"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Marinate meat for at least 1 hour or up to 24 hours in the refrigerator."
+        }
+      ],
+      "keywords": "teriyaki sauce, marinade, Asian-inspired, soy sauce",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 135,
+      "similarity": "0.20"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Continue cooking gently for another 2 hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "id": 177,
+      "similarity": "0.13"
     }
   ]
 }

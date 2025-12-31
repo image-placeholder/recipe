@@ -79,164 +79,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Taco Ring",
-      "author": {
-        "@type": "Person",
-        "name": "Lorie Valkengoed"
-      },
-      "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT16M",
-      "totalTime": "PT36M",
-      "recipeYield": "1 ring",
-      "recipeIngredient": [
-        "1 lb lean ground hamburger",
-        "1 cup water",
-        "1 packet taco seasoning mix",
-        "2 cups shredded lettuce",
-        "1 cup grated mild cheddar cheese",
-        "1 cup salsa dip",
-        "2 packages Pillsbury crescent rolls",
-        "1 tomato, diced",
-        "1 green pepper (optional)",
-        "Sour cream for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Fry the hamburger and let it cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add shredded cheese on top of the hamburger mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let cool slightly before serving."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
-        }
-      ],
-      "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "16 minutes",
-        "totalTime": "36 minutes"
-      },
-      "id": 183,
-      "similarity": "0.54"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Taco Twist Bake",
-      "author": {
-        "@type": "Person",
-        "name": "Cheryl MacLeod"
-      },
-      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 to 1½ lb lean ground beef",
-        "1 cooking onion, chopped",
-        "1 can (284 mL) mushrooms, chopped",
-        "1 envelope taco seasoning mix",
-        "¾ cup water",
-        "1 can (680 mL) spaghetti sauce",
-        "¼ cup salsa (optional)",
-        "1 green pepper, chopped (optional)",
-        "2 cups spiral pasta",
-        "1 cup sour cream",
-        "1½ cups shredded cheddar cheese",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and start water to cook for pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the spiral pasta, then rinse and drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine pasta with sour cream."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
-        }
-      ],
-      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
-      },
-      "id": 184,
-      "similarity": "0.50"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Nacho Dip",
       "author": {
         "@type": "Person",
@@ -353,61 +195,180 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Taco Salad",
+      "name": "Cheese Dip in a Bread Bowl",
       "author": {
         "@type": "Person",
-        "name": "Deb Hodge"
+        "name": "Sherri Haugh"
       },
-      "description": "A hearty taco salad with seasoned ground beef, crunchy taco chips, and cheddar cheese, all tossed in Catalina dressing.",
-      "recipeCategory": "Salad",
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
       "recipeIngredient": [
-        "1 lb ground beef (hamburg)",
-        "1 package taco seasoning mix",
-        "1 (250 g) bag crushed taco chips",
-        "1 cup shredded cheddar cheese",
-        "1 head lettuce, chopped",
-        "1 chopped tomato",
-        "Catalina dressing"
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
         },
         {
           "@type": "HowToStep",
-          "text": "Refrigerate the cooked beef until ready to use."
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix in Catalina dressing until well coated."
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Carefully add in chopped tomato."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately."
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
         }
       ],
-      "keywords": "taco salad, ground beef, taco chips, cheddar cheese",
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
-      "id": 89,
-      "similarity": "0.42"
+      "id": 4,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Fudge",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A warm, cheesy baked appetizer served on Triscuits.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "1 9×11 in pan",
+      "recipeIngredient": [
+        "2 cups shredded cheddar cheese",
+        "3 eggs, lightly beaten",
+        "½ cup taco or salsa sauce",
+        "2 cups shredded mozzarella cheese",
+        "Triscuits for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease a 9×11 in pan and spread the cheddar cheese evenly on the bottom."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lightly beat the eggs and mix with taco or salsa sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the egg mixture over the cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut into squares while warm and serve on Triscuits."
+        }
+      ],
+      "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 12,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Artichoke Appetizer",
+      "author": {
+        "@type": "Person",
+        "name": "Loma Finkbeiner"
+      },
+      "description": "A warm, cheesy artichoke appetizer perfect for serving with bread or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT25M",
+      "totalTime": "PT35M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 (14 oz) can artichoke hearts",
+        "Dash garlic salt",
+        "1 cup grated Parmesan cheese",
+        "2 Tbsp chopped green onion",
+        "1 cup shredded mozzarella cheese",
+        "1 Tbsp chopped parsley",
+        "1 cup Hellmann's mayonnaise"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain artichoke hearts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine artichoke hearts with cheese, mayonnaise, garlic salt, and green onion in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle parsley over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 25 to 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT25M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with bread or crackers."
+        }
+      ],
+      "keywords": "artichoke appetizer, cheesy dip, party snack",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 1,
+      "similarity": "0.31"
     }
   ]
 }

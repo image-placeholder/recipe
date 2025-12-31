@@ -346,61 +346,61 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Britt's Favourite Meatballs",
+      "name": "Delicious Meat Loaf",
       "author": {
         "@type": "Person",
-        "name": "Leanne Robinson"
+        "name": "Suzanne Finkbeiner"
       },
-      "description": "A classic meatball recipe with a sweet and tangy sauce, baked in the oven.",
-      "recipeCategory": "Meat",
+      "description": "A classic meatloaf with a cheddar cheese and carrot mixture, topped with a sweet ketchup-mustard glaze.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT30M",
-      "totalTime": "PT45M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H50M",
+      "recipeYield": "1 meatloaf",
       "recipeIngredient": [
-        "1 lb lean ground beef",
-        "½ cup quick cook oats or bran",
-        "1 egg, lightly beaten",
-        "1 pkg onion soup mix",
+        "1½ lb lean ground beef",
+        "2 eggs",
+        "⅔ cup milk",
         "1 tsp salt",
         "¼ tsp pepper",
-        "½ tsp garlic powder",
-        "1 cup brown sugar",
-        "1 cup ketchup",
-        "½ cup ketchup",
-        "1 tsp Worcestershire sauce",
-        "¼ tsp garlic powder"
+        "1 cup shredded cheddar cheese",
+        "¼ cup brown sugar",
+        "3 slices fresh bread, crumbled",
+        "¼ cup ketchup",
+        "1 onion, chopped",
+        "4 Tbsp prepared mustard",
+        "½ cup shredded raw carrot"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine the first 8 ingredients in a large bowl and mix well."
+          "text": "Beat eggs in a bowl with a fork, then add milk, salt, pepper, and crumbled bread. Beat until the bread disintegrates."
         },
         {
           "@type": "HowToStep",
-          "text": "Shape the mixture into 1 inch balls and place in a 9x13 inch baking dish."
+          "text": "Add chopped onion, shredded carrot, cheddar cheese, and ground beef to the bowl. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake, uncovered, at 350°F for 18 to 20 minutes or until the meat is no longer pink."
+          "text": "Pack the mixture into a loaf pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine sauce ingredients and pour over the meatballs."
+          "text": "Combine brown sugar, ketchup, and prepared mustard in a small bowl. Spread this glaze over the meatloaf."
         },
         {
           "@type": "HowToStep",
-          "text": "Return to the oven for an additional 10 to 15 minutes."
+          "text": "Bake at 350°F for approximately 1½ hours."
         }
       ],
-      "keywords": "meatballs, baked, sweet and tangy sauce",
+      "keywords": "meatloaf, cheddar cheese, ketchup glaze, classic American",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "45 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 50 minutes"
       },
-      "id": 151,
+      "id": 156,
       "similarity": "0.37"
     }
   ]

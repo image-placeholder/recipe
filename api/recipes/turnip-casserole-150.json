@@ -134,128 +134,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Swedish Potatoes",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Ratz"
-      },
-      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "10-12 servings",
-      "recipeIngredient": [
-        "12 large potatoes",
-        "2 slightly beaten eggs",
-        "1 cup sour cream",
-        "1 tsp salt",
-        "¾ cup bread crumbs",
-        "2 Tbsp butter",
-        "1¼ tsp butter",
-        "1 (8 oz) package cream cheese",
-        "2 tsp onion salt or chopped onion"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook and mash the potatoes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Dot the top with butter and sprinkle with bread crumbs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake, covered, at 350°F for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
-        }
-      ],
-      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 137,
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Ham Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Bernice Martin"
-      },
-      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "4 cups hash brown potatoes, thawed",
-        "1½ cups chopped ham",
-        "1 cup grated Cracker Barrel cheddar cheese",
-        "1 small onion, chopped",
-        "½ cup Miracle Whip salad dressing",
-        "½ cup milk",
-        "¼ tsp pepper",
-        "½ cup fresh bread crumbs",
-        "1 Tbsp butter or margarine"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with bread crumbs and dot with butter or margarine."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 45 minutes."
-        }
-      ],
-      "keywords": "ham casserole, potato casserole, comforting main dish",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour"
-      },
-      "id": 200,
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Beef and Rice Casserole",
       "author": {
         "@type": "Person",
@@ -397,6 +275,137 @@
       },
       "id": 244,
       "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburger Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 169,
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "id": 159,
+      "similarity": "0.32"
     }
   ]
 }

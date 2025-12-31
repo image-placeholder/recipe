@@ -77,70 +77,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pasta & Bean Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Marie Fydenchuk"
-      },
-      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT15M",
-      "cookTime": "PT28M",
-      "totalTime": "PT43M",
-      "recipeYield": "4-6 servings",
-      "recipeIngredient": [
-        "1 Tbsp olive oil",
-        "1 onion, finely chopped",
-        "2 carrots, finely chopped",
-        "2 celery sticks, finely chopped",
-        "3 crushed garlic cloves",
-        "1/4 tsp oregano",
-        "1/2 tsp salt",
-        "1/4 tsp pepper",
-        "19 oz can white kidney or romano beans, drained",
-        "10 oz can chicken broth, diluted with 1 cup water",
-        "28 oz can tomatoes with juice",
-        "3 cups small shell pasta or macaroni",
-        "1 1/2 tsp dried basil",
-        "1/4 tsp dried rosemary",
-        "1/2 cup chopped fresh basil",
-        "1/2 cup grated Parmesan cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
-        }
-      ],
-      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "28 minutes",
-        "totalTime": "43 minutes"
-      },
-      "id": 111,
-      "similarity": "0.41"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Garfield's Lasagna",
       "author": {
         "@type": "Person",
@@ -394,6 +330,84 @@
       },
       "id": 190,
       "similarity": "0.37"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Jelly Roll Style Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 loaf",
+      "recipeIngredient": [
+        "½ lb ground beef",
+        "3 cups shredded mozzarella cheese",
+        "1 beaten egg",
+        "½ cup cracker crumbs or dry bread crumbs",
+        "½ tsp basil",
+        "1 clove garlic, minced",
+        "½ cup minced onion",
+        "1 tsp salt",
+        "⅛ tsp pepper",
+        "2 (8 oz) cans tomato sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ground beef and mix thoroughly with hands until just combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain off fat and pour reserved tomato sauce on the roll."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 to 15 minutes before slicing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Decorate with tomato slices and green parsley on a serving tray."
+        }
+      ],
+      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "id": 154,
+      "similarity": "0.36"
     }
   ]
 }

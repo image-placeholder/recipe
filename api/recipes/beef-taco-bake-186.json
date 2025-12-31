@@ -273,76 +273,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Janet Dearing"
-      },
-      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 quart casserole",
-      "recipeIngredient": [
-        "½ lb spaghetti",
-        "½ lb ground beef",
-        "1 can (19 oz) diced tomatoes",
-        "½ cup chopped onion",
-        "1 can (10 oz) condensed cream of mushroom soup",
-        "1½ tsp salt",
-        "¼ tsp pepper",
-        "1 cup grated medium cheddar cheese",
-        "½ tsp garlic",
-        "1 can (10 oz) mushroom pieces, drained"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef and onion in a frying pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook spaghetti according to package directions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour canned tomatoes over the spaghetti layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the browned meat mixture over the tomatoes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with cream of mushroom soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with grated cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
-        }
-      ],
-      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 178,
-      "similarity": "0.34"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Mexican Enchilada Bake",
       "author": {
         "@type": "Person",
@@ -412,6 +342,73 @@
       },
       "id": 229,
       "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Noodles with Hamburg",
+      "author": {
+        "@type": "Person",
+        "name": "Carolyn Gower"
+      },
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
+        "1 tsp salt",
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 166,
+      "similarity": "0.32"
     }
   ]
 }

@@ -203,201 +203,195 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Tortilla Soup",
+      "name": "Stir-Fry Beef",
       "author": {
         "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
+        "name": "Donise Baker (Dundas)"
       },
-      "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Mexican",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
+      "description": "A quick and flavorful beef stir-fry with vegetables and a savory sauce, served over cooked rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "Chicken (breasts or thighs)",
-        "1 onion, chopped",
-        "2 cloves garlic, minced",
-        "1 can diced tomatoes",
-        "1 cup corn",
-        "1 can black beans, optional",
-        "1 bay leaf",
-        "¼ cup chopped cilantro",
-        "½ tsp chili powder",
-        "½ tsp cumin",
-        "½ tsp oregano",
-        "Salt and pepper to taste",
-        "Tortilla chips",
-        "Sour cream",
-        "Cheddar cheese, grated",
-        "1 jar salsa"
+        "1 can tomato soup",
+        "2 Tbsp vegetable oil",
+        "½ cup orange juice",
+        "2 lb boneless beef sirloin, cut into pieces",
+        "4 Tbsp soya sauce",
+        "1 large green pepper, cut into strips",
+        "2 Tbsp vinegar",
+        "8 cups cooked rice",
+        "1 large onion, sliced"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute chicken pieces with onion, garlic, and spices until chicken is cooked through."
+          "text": "Heat vegetable oil in a frying pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Add 4 cups water and boil to make stock."
+          "text": "Add beef and stir-fry until cooked through. Set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove chicken and chop, discarding any bones and skin."
+          "text": "Add peppers and onion to the pan and stir-fry until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine remaining ingredients (except tortilla chips, sour cream, and cheese) and heat through."
+          "text": "Stir in the mixture of tomato soup, soya sauce, orange juice, and vinegar. Cook until heated through."
         },
         {
           "@type": "HowToStep",
-          "text": "To serve, place tortilla chips in soup bowls."
+          "text": "Return beef to the pan and heat through, stirring occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour soup over chips and top with sour cream, jalapenos (optional), and shredded cheddar cheese."
+          "text": "Serve the beef mixture over cooked rice."
         }
       ],
-      "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 124,
-      "similarity": "0.34"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Fairest Wheels",
-      "author": {
-        "@type": "Person",
-        "name": "Dianne Finkbeiner"
-      },
-      "description": "A chilled, rolled tortilla snack filled with a spicy chicken and cheese mixture.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "8 servings",
-      "recipeIngredient": [
-        "4 oz light cream cheese, softened",
-        "1 cup finely chopped cooked chicken",
-        "2 Tbsp low-fat sour cream",
-        "½ cup chopped lettuce",
-        "4 Tbsp red pepper jelly",
-        "2 cups reduced-fat shredded cheddar cheese",
-        "3 (9-inch) flour tortillas",
-        "⅔ cup chopped green bell pepper",
-        "⅓ cup minced green onions and red pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a medium bowl, combine chicken, lettuce, cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In another bowl, beat cream cheese and sour cream together until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cream cheese mixture to the chicken mixture and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread ⅓ cup of the chicken and cream cheese mixture onto one side of a tortilla, leaving a ½-inch border at the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with ⅓ cup shredded cheese and top with red pepper jelly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll up the tortilla tightly and seal the edge."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Repeat with remaining tortillas and filling mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap each roll in plastic wrap and refrigerate for 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Trim the ends off each roll and cut into 8 slices."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve cold."
-        }
-      ],
-      "keywords": "chicken roll-ups, cheese snack, cold appetizer",
+      "keywords": "beef stir-fry, Asian-inspired, quick dinner",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
       },
-      "id": 36,
-      "similarity": "0.34"
+      "id": 145,
+      "similarity": "0.32"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Mexican Salad",
+      "name": "Chicken Supreme",
       "author": {
         "@type": "Person",
-        "name": "Sheila Jarvie"
+        "name": "Lori Allen"
       },
-      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "8 to 9 servings",
+      "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4-8 servings",
       "recipeIngredient": [
-        "¾ cup kidney beans",
-        "¾ cup lentils",
-        "½ cup diced tomato",
-        "1 cup shredded lettuce",
-        "½ green pepper, chopped",
-        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
-        "2 green onions, chopped",
-        "¼ cup Catalina dressing",
-        "¼ cup salsa",
-        "Taco chips for serving"
+        "8 boneless, skinless chicken breast pieces",
+        "1 (28 oz) can stewed tomatoes",
+        "1 chopped green pepper",
+        "1 chopped onion",
+        "2 generous slices of fresh Basil",
+        "2 Spanish Oregano slices",
+        "1 dozen chopped fresh Garlic",
+        "Salt and Seasoning salt",
+        "Onion powder",
+        "Grated mozzarella and cheddar cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+          "text": "Boil the chicken breasts in a separate container until pink is gone (about 1/4 of the way cooked)."
         },
         {
           "@type": "HowToStep",
-          "text": "Toss the salad with Catalina dressing until well coated."
+          "text": "In a baking or roasting pan, mix together the tomato ingredients (stewed tomatoes, green pepper, onion, basil, oregano, garlic)."
         },
         {
           "@type": "HowToStep",
-          "text": "Top the salad with salsa."
+          "text": "Place the partially cooked chicken breasts in the bottom of the pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve immediately with taco chips on the side."
+          "text": "Sprinkle spices over the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the remaining tomato mixture on top of the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for approximately ½ hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese on top, cover, and bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over rice or pasta."
         }
       ],
-      "keywords": "Mexican salad, bean salad, taco chips",
+      "keywords": "chicken supreme, baked chicken, Italian-style chicken",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "id": 50,
-      "similarity": "0.32"
+      "id": 238,
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stir-Fry Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Atkinson"
+      },
+      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "6 to 8 servings",
+      "recipeIngredient": [
+        "1/4 cup olive oil",
+        "2 tsp curry powder",
+        "1 crushed garlic clove",
+        "1/4 cup soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 tsp Louisiana hot sauce",
+        "1/2 tsp Tabasco",
+        "6 to 8 buns, cut in half",
+        "Mozzarella cheese and bacon bits for buns",
+        "Chicken breasts, cut in cubes",
+        "Mushrooms, sliced",
+        "Celery, chopped",
+        "1 bag Oriental Classic frozen vegetables",
+        "1 onion, chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
+        }
+      ],
+      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 225,
+      "similarity": "0.29"
     }
   ]
 }

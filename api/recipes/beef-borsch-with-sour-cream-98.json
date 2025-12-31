@@ -133,58 +133,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Vegetable Dip",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Lori Allen"
-        },
-        {
-          "@type": "Person",
-          "name": "Louise Wein"
-        }
-      ],
-      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "1 serving dish",
-      "recipeIngredient": [
-        "1 tsp Accent",
-        "1 cup sour cream",
-        "¼ tsp salt",
-        "1 cup mayonnaise",
-        "¼ tsp celery salt",
-        "1 tsp parsley flakes",
-        "2 drops Tabasco sauce (can be omitted)",
-        "½ tsp dill weed",
-        "1 tsp garlic salt",
-        "Assorted vegetables or crackers for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together in a dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill before serving with chips, crackers, or vegetables."
-        }
-      ],
-      "keywords": "vegetable dip, sour cream dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
-      },
-      "id": 17,
-      "similarity": "0.29"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Minestrone Soup with Shells",
       "author": {
         "@type": "Person",
@@ -340,6 +288,74 @@
         "totalTime": "2 hours 45 minutes"
       },
       "id": 126,
+      "similarity": "0.26"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tortilla Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Mexican",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "Chicken (breasts or thighs)",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 can diced tomatoes",
+        "1 cup corn",
+        "1 can black beans, optional",
+        "1 bay leaf",
+        "¼ cup chopped cilantro",
+        "½ tsp chili powder",
+        "½ tsp cumin",
+        "½ tsp oregano",
+        "Salt and pepper to taste",
+        "Tortilla chips",
+        "Sour cream",
+        "Cheddar cheese, grated",
+        "1 jar salsa"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute chicken pieces with onion, garlic, and spices until chicken is cooked through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 4 cups water and boil to make stock."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove chicken and chop, discarding any bones and skin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine remaining ingredients (except tortilla chips, sour cream, and cheese) and heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, place tortilla chips in soup bowls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour soup over chips and top with sour cream, jalapenos (optional), and shredded cheddar cheese."
+        }
+      ],
+      "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 124,
       "similarity": "0.26"
     }
   ]

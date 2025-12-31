@@ -62,183 +62,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Mushroom Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 Tbsp butter",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 cups sliced mushrooms",
-        "1/4 cup flour",
-        "2 cups stock (chicken or vegetable)",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "3 cups milk"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute butter, onion, garlic and mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add flour and stir together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, sauces and milk."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer until heated through (approximately 15 minutes)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
-        }
-      ],
-      "keywords": "mushroom soup, creamy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "id": 113,
-      "similarity": "0.30"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Barley and Corn Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 Tbsp oil",
-        "3 cups vegetable stock",
-        "1 onion, chopped",
-        "2 cups kernel corn (fresh or canned)",
-        "3 cloves garlic, minced",
-        "2 carrots, finely chopped",
-        "Chopped fresh parsley",
-        "1 cup pearl or pot barley"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat oil in a heavy casserole. Cook onion, garlic, and carrots until the onion is softened, stirring frequently."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in barley and cook for 1-2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour in vegetable stock, cover, and bake at 350 °F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Test that barley is tender. Stir in corn and parsley."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return to the oven to heat through. Season with pepper to taste."
-        }
-      ],
-      "keywords": "barley casserole, corn, carrots, comforting side dish",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "id": 132,
-      "similarity": "0.27"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Pasta & Bean Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Marie Fydenchuk"
-      },
-      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT15M",
-      "cookTime": "PT28M",
-      "totalTime": "PT43M",
-      "recipeYield": "4-6 servings",
-      "recipeIngredient": [
-        "1 Tbsp olive oil",
-        "1 onion, finely chopped",
-        "2 carrots, finely chopped",
-        "2 celery sticks, finely chopped",
-        "3 crushed garlic cloves",
-        "1/4 tsp oregano",
-        "1/2 tsp salt",
-        "1/4 tsp pepper",
-        "19 oz can white kidney or romano beans, drained",
-        "10 oz can chicken broth, diluted with 1 cup water",
-        "28 oz can tomatoes with juice",
-        "3 cups small shell pasta or macaroni",
-        "1 1/2 tsp dried basil",
-        "1/4 tsp dried rosemary",
-        "1/2 cup chopped fresh basil",
-        "1/2 cup grated Parmesan cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
-        }
-      ],
-      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "28 minutes",
-        "totalTime": "43 minutes"
-      },
-      "id": 111,
-      "similarity": "0.24"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Pizza Casserole",
       "author": {
         "@type": "Person",
@@ -367,6 +190,196 @@
       },
       "id": 214,
       "similarity": "0.23"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeIngredient": [
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 129,
+      "similarity": "0.21"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Chicken Stew",
+      "author": {
+        "@type": "Person",
+        "name": "Anne Cottel"
+      },
+      "description": "A hearty and comforting chicken stew with vegetables in a creamy sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 to 10 servings",
+      "recipeIngredient": [
+        "3 lb boneless, skinless chicken breasts, cut into 1-inch cubes",
+        "2 Tbsp cooking oil",
+        "1 medium onion, diced",
+        "1 cup sliced celery",
+        "2 cups peeled and cubed potatoes",
+        "3 large carrots, cut into coins",
+        "1 tsp salt",
+        "1/2 tsp dried basil",
+        "1/2 tsp paprika",
+        "1/4 tsp celery salt",
+        "1 bay leaf",
+        "7 cups chicken broth, divided",
+        "1 can (14 oz) corn kernels, drained",
+        "1 can (14 oz) peas",
+        "1 can (14 oz) lima beans",
+        "1/2 cup butter or margarine",
+        "3/4 cup all-purpose flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a Dutch oven. Sprinkle chicken with salt, pepper, and paprika. Cook and stir until the chicken is browned. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add raw vegetables, basil, bay leaf, celery salt, and 5 cups broth; bring to a boil. Reduce heat. Cover and simmer for 30 minutes or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bay leaf. Add canned vegetables. Cook and stir for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, mix flour and butter or margarine until smooth. Gradually whisk in remaining 2 cups broth. Bring to a boil. Cook and stir for 2 minutes or until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce into the Dutch oven. Stir and bring to a boil. Reduce heat. Simmer, uncovered, for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with rolls or biscuits."
+        }
+      ],
+      "keywords": "chicken stew, creamy stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "id": 252,
+      "similarity": "0.21"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "South African Lamb",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A flavorful lamb stew with dried fruits, curry powder, and orange juice, simmered to tender perfection.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "South African",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2½ cups chopped dried fruit (apples, apricots, raisins, etc.)",
+        "1 cup hot water",
+        "1 medium onion, chopped",
+        "1 Tbsp curry powder",
+        "½ cup orange juice",
+        "2 Tbsp red wine vinegar",
+        "1 Tbsp sugar",
+        "1 tsp tomato paste or ketchup",
+        "1 to 1½ lb lamb, cubed",
+        "Rice, bulgar, or couscous for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine dried fruit, orange juice, and hot water. Let stand for 1 to 2 hours to soak."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown the lamb cubes and drain on paper towels."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté the chopped onion until soft, then reduce heat to low and stir in curry powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the soaked fruit and 1 cup of soaking liquid to the pan. Stir in vinegar, sugar, and tomato paste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return the browned lamb to the pan, cover, and simmer for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and allow the liquid to reduce to desired consistency."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with rice, bulgar, or couscous."
+        }
+      ],
+      "keywords": "South African lamb, lamb stew, curry lamb, dried fruit",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 50 minutes"
+      },
+      "id": 215,
+      "similarity": "0.21"
     }
   ]
 }

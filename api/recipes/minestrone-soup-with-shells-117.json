@@ -124,146 +124,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pizza Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Ann Haist"
-      },
-      "description": "A hearty pizza-inspired casserole with pasta, pepperoni, and mozzarella cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeIngredient": [
-        "2 tsp margarine",
-        "2 cups tiny shell pasta",
-        "1 medium onion, chopped",
-        "2 1/2 qt boiling water",
-        "1 Tbsp oil",
-        "2 tsp salt",
-        "2 (7 1/2 oz) cans tomato sauce",
-        "10 oz can mushrooms, drained",
-        "3 Tbsp Parmesan cheese",
-        "1 tsp oregano",
-        "1 tsp basil",
-        "1 1/2 cups pepperoni slices",
-        "3 cups mozzarella cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Melt margarine and sauté chopped onion until soft."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add tomato sauce, mushrooms, oregano, and basil. Stir and remove from heat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook pasta in boiling water with oil and salt for 8 to 10 minutes until tender but firm. Drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine cooked pasta with Parmesan cheese and 1 cup mozzarella cheese in a 3-quart casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Scatter pepperoni slices over the pasta mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the tomato-onion sauce and sprinkle with remaining mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake, uncovered, in a 350°F oven for 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 171,
-      "similarity": "0.31"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Dad's Spaghetti",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Nakamura"
-      },
-      "description": "A comforting spaghetti dish with bacon, mushrooms, and a creamy mushroom soup sauce.",
-      "recipeCategory": "Pasta",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 can mushroom soup",
-        "1½ cups sliced mushrooms",
-        "½ to 1 lb bacon, chopped",
-        "1 small onion, chopped",
-        "1 to 2 tsp garlic salt or 1 to 2 minced garlic cloves",
-        "3 to 4 Tbsp mozzarella cheese",
-        "1 lb spaghetti"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook spaghetti, drain, and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Brown bacon in a frying pan with garlic salt or minced garlic."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove bacon and most of the grease from the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook onion and mushrooms in the same pan until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return bacon to the pan and add mushroom soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir and heat the sauce through, adding cheese and enough water to achieve the desired consistency."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the sauce with cooked spaghetti and serve."
-        }
-      ],
-      "keywords": "spaghetti, bacon, mushroom sauce, creamy pasta",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "id": 181,
-      "similarity": "0.30"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Mushroom Soup",
       "author": {
         "@type": "Person",
@@ -386,6 +246,141 @@
       },
       "id": 108,
       "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Borsch with Sour Cream",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A hearty beet-based soup with shredded beef, vegetables, and a dollop of sour cream on top.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Eastern European",
+      "prepTime": "PT30M",
+      "cookTime": "PT3H30M",
+      "totalTime": "PT4H",
+      "recipeYield": "3 quarts (8 servings)",
+      "recipeIngredient": [
+        "3 cups coarsely shredded beef",
+        "1 large beef marrow bone",
+        "4 cups beef broth (approximately 2 quarts)",
+        "1 (28 oz/1 lb) can tomatoes, undrained",
+        "1 medium onion, quartered",
+        "1 stalk celery, cut up",
+        "3 sprigs parsley",
+        "6 whole black peppers",
+        "1 bay leaf",
+        "2 cups shredded beets (4 medium)",
+        "1½ cups thickly sliced cabbage",
+        "1 medium onion, chopped",
+        "2 Tbsp snipped fresh dill or 2 tsp dried dill weed",
+        "¼ cup cider vinegar",
+        "2 Tbsp sugar",
+        "1 Tbsp salt (initial) + 1 tsp salt (later)",
+        "Sour cream for serving",
+        "Snipped dill for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Day before serving, place beef, marrow bone, 2 quarts water, and 1 Tbsp salt in a deep 8-quart kettle. Cover and bring to boiling, then reduce heat and simmer, covered, for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomatoes, quartered onion, celery, parsley, black pepper, and bay leaf. Simmer, covered, for 2 hours longer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from heat. Lift out beef and set aside. Remove marrow bone and discard. Strain soup and skim off fat (you should have 9 cups liquid)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return soup and beef to kettle. Add beets, cabbage, carrots, chopped onion, dill, vinegar, sugar, and 1 tsp salt. Bring to boiling, then reduce heat and simmer for 30 minutes or until beef and vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cool for 20 minutes, then refrigerate overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "The next day, remove beef from soup and cut into cubes. Return to soup and heat gently to boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour into soup tureen. Top each serving with a spoonful of sour cream and garnish with snipped dill."
+        }
+      ],
+      "keywords": "beef borsch, sour cream, beet soup, Eastern European soup",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "3 hours 30 minutes",
+        "totalTime": "4 hours"
+      },
+      "id": 98,
+      "similarity": "0.28"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour mixture and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree the mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 105,
+      "similarity": "0.28"
     }
   ]
 }

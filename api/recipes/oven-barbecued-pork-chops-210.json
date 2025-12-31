@@ -109,59 +109,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Zesty BBQ Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Sharon Allen"
-      },
-      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 batch",
-      "recipeIngredient": [
-        "1 cup ketchup",
-        "1 tsp dry mustard",
-        "1/4 cup white vinegar",
-        "1/4 tsp salt",
-        "1/2 cup brown sugar",
-        "1/4 tsp cayenne pepper",
-        "1 Tbsp chili powder",
-        "2 cloves garlic, crushed",
-        "1 Tbsp Worcestershire sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients in a saucepan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer for 10 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate or freeze for later use."
-        }
-      ],
-      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
-      },
-      "id": 136,
-      "similarity": "0.41"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Sloppy Joe Squares",
       "author": {
         "@type": "Person",
@@ -236,49 +183,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Curry Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Finkbeiner"
-      },
-      "description": "A flavorful and spicy dip made with mayonnaise, curry powder, and chili sauce, perfect for serving with snacks.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "1 bowl",
-      "recipeIngredient": [
-        "1 cup mayonnaise",
-        "1/2 tsp Worcestershire sauce",
-        "1/4 cup chili sauce",
-        "1 tsp curry powder",
-        "1/4 tsp Tabasco",
-        "1/2 tsp chopped onion (optional)",
-        "1 tsp lemon juice"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together in a bowl until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand in the fridge for 1 to 2 hours before serving to allow flavors to meld."
-        }
-      ],
-      "keywords": "curry dip, spicy dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "id": 14,
-      "similarity": "0.36"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Maple Glazed Ribs",
       "author": {
         "@type": "Person",
@@ -325,6 +229,108 @@
       },
       "id": 203,
       "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Celebrity",
+      "author": {
+        "@type": "Person",
+        "name": "Rosemary Stewart"
+      },
+      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 to 3 lb chicken parts",
+        "1/4 cup brown sugar",
+        "1 package dry onion soup mix",
+        "1/2 cup ketchup",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken parts in a small roaster or casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 350°F oven for 1 hour or until tender."
+        }
+      ],
+      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "id": 237,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 163,
+      "similarity": "0.34"
     }
   ]
 }

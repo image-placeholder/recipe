@@ -54,50 +54,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Lemon Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Mona Hamilton"
-      },
-      "description": "A light and fluffy lemon Jello dessert mixed with whipped Dream Whip.",
-      "recipeCategory": "Dessert",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "recipeYield": "1 serving",
-      "recipeIngredient": [
-        "1 package lemon Jello (85g)",
-        "1 small can frozen lemonade",
-        "1 cup hot water",
-        "¼ cup water",
-        "¼ cup sugar",
-        "1 package Dream Whip Mix"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Dissolve the lemon Jello in hot water with sugar."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add frozen lemonade and ¼ cup water to the Jello mixture and let set."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Whip the Dream Whip Mix and combine with the set Jello."
-        }
-      ],
-      "keywords": "lemon Jello, whipped dessert, Dream Whip",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": null,
-        "totalTime": null
-      },
-      "id": 80,
-      "similarity": "0.42"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Orange Jello Salad",
       "author": {
         "@type": "Person",
@@ -146,46 +102,6 @@
       },
       "id": 75,
       "similarity": "0.42"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Fruit Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Suzanne Finkbeiner"
-      },
-      "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 cup",
-      "recipeIngredient": [
-        "8 oz package cream cheese",
-        "2 tsp frozen orange juice concentrate",
-        "½ cup marshmallow creme",
-        "1 tsp grated orange rind"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients in a dish and beat until smooth and well blended."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately with fresh cut-up fruit."
-        }
-      ],
-      "keywords": "fruit dip, orange cream cheese, marshmallow dip",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "id": 24,
-      "similarity": "0.36"
     },
     {
       "@context": "https://schema.org/",
@@ -247,46 +163,169 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Perfect Punch",
+      "name": "Cottage Cheese Jellied Salad",
       "author": {
         "@type": "Person",
-        "name": "Julie-Ann Bibby"
+        "name": "Jean E. Neil"
       },
-      "description": "A fruity and bubbly punch made with orange juice, lemonade, and raspberry sherbet.",
-      "recipeCategory": "Beverage",
+      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
+      "prepTime": "PT15M",
       "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "Serves 14 people",
+      "totalTime": "PT2H15M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "3 L lemon-lime carbonated beverage",
-        "1 can frozen orange juice concentrate",
-        "1 can frozen lemonade concentrate",
-        "1 qt raspberry sherbet"
+        "3 oz package orange or lemon flavored gelatin",
+        "1 cup boiling water",
+        "1 cup drained crushed pineapple",
+        "½ cup chopped walnuts (optional)",
+        "½ cup mayonnaise",
+        "1 cup cottage cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine the liquid drinks in a punch bowl."
+          "text": "Dissolve gelatin in boiling water."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in the raspberry sherbet."
+          "text": "Add mayonnaise and whisk to blend."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve chilled and enjoy."
+          "text": "Chill until the mixture starts to set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
         }
       ],
-      "keywords": "party punch, fruity drink, sherbet punch",
+      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
+        "prepTime": "15 minutes",
         "cookTime": "",
-        "totalTime": "5 minutes"
+        "totalTime": "2 hours 15 minutes"
       },
-      "id": 54,
-      "similarity": "0.35"
+      "id": 66,
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cranberry Mold",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "description": "A festive cranberry salad molded with cherry-flavored gelatin, celery, and nuts, perfect as a side dish for turkey.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "1 1½ quart mold",
+      "recipeIngredient": [
+        "2 (3 oz) packages cherry flavored gelatin",
+        "1 cup boiling water",
+        "1 cup cold water",
+        "1 lb can whole cranberry sauce",
+        "1 cup chopped celery",
+        "½ cup chopped nuts"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve gelatin in boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cold water and chill until the mixture thickens but is not set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in cranberry sauce, celery, and nuts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a 1½ quart mold and chill until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Unmold before serving."
+        }
+      ],
+      "keywords": "cranberry mold, gelatin salad, holiday side dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "id": 67,
+      "similarity": "0.21"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "A hearty taco salad with seasoned ground beef, crunchy taco chips, and cheddar cheese, all tossed in Catalina dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 lb ground beef (hamburg)",
+        "1 package taco seasoning mix",
+        "1 (250 g) bag crushed taco chips",
+        "1 cup shredded cheddar cheese",
+        "1 head lettuce, chopped",
+        "1 chopped tomato",
+        "Catalina dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate the cooked beef until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully add in chopped tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
+        }
+      ],
+      "keywords": "taco salad, ground beef, taco chips, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 89,
+      "similarity": "0.20"
     }
   ]
 }

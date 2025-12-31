@@ -205,224 +205,202 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meatball Pasta Stew",
+      "name": "Cheeseburger Meat Loaf",
       "author": {
         "@type": "Person",
-        "name": "Grace Morlock"
+        "name": "Lori Allen"
       },
-      "description": "A savory stew with homemade meatballs, pasta, and a rich tomato-based sauce.",
-      "recipeCategory": "Stew",
+      "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H25M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT25M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H40M",
+      "recipeYield": "1 meatloaf",
       "recipeIngredient": [
-        "2 Tbsp tomato paste",
-        "1 lb hamburger",
-        "1 can (14 oz) diced tomatoes, undrained",
-        "2 eggs",
-        "¼ to ⅛ cup dry bread crumbs",
-        "1 cup chopped green onion",
-        "¾ tsp thyme",
-        "½ tsp salt",
-        "1½ cups sliced carrots",
-        "1½ cups chopped zucchini",
-        "½ tsp ground mustard",
-        "¼ tsp pepper",
-        "1 cup chopped green pepper",
-        "1 cup chopped red pepper",
-        "1 cup chopped onion",
-        "2 cloves garlic, minced",
-        "2 Tbsp all-purpose flour",
-        "1½ cups canned beef broth",
-        "2 cups cooked spiral pasta",
-        "1 Tbsp parsley"
+        "1½ lb lean ground hamburger",
+        "½ tsp garlic salt",
+        "½ cup fine bread crumbs",
+        "1 tsp onion powder",
+        "1 egg",
+        "1 can (8 oz) tomato sauce",
+        "¼ cup parsley flakes",
+        "½ cup finely chopped onion",
+        "1 tsp salt",
+        "1 cup shredded cheddar cheese",
+        "⅛ tsp pepper",
+        "½ tsp seasoning salt",
+        "½ cup sweet pickle relish"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine hamburger, egg, bread crumbs, onion, salt, mustard, and pepper to make meatballs. Shape into 1-inch balls."
+          "text": "In a mixing bowl, combine ground beef, egg, bread crumbs, garlic salt, onion powder, salt, pepper, and seasoning salt. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs on a greased baking sheet and bake at 350°F for 10 to 15 minutes, or until browned."
+          "text": "Mix chopped onion and tomato sauce together in a separate bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large pot, cook onion and garlic until tender."
+          "text": "Add half of the tomato sauce and onion mixture to the beef mixture and mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Add flour and stir constantly for 1 minute."
+          "text": "Pack half of the beef mixture into a loaf pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Gradually add beef broth, stirring constantly until boiling."
+          "text": "Sprinkle shredded cheddar cheese and sweet pickle relish evenly over the top."
         },
         {
           "@type": "HowToStep",
-          "text": "Add tomato paste, undrained tomatoes, bay leaf, and thyme. Mix well."
+          "text": "Pack the remaining beef mixture on top and press firmly."
         },
         {
           "@type": "HowToStep",
-          "text": "Add meatballs, carrots, zucchini, peppers, and parsley. Simmer for 40 minutes."
+          "text": "Bake in a preheated oven at 350°F for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cooked pasta and heat until hot."
+          "text": "Carefully spoon off excess fat from the top."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove bay leaf before serving."
+          "text": "Pour the remaining tomato sauce and onion mixture over the meatloaf."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
         }
       ],
-      "keywords": "meatball stew, pasta stew, tomato-based sauce",
+      "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
       "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 25 minutes"
+        "prepTime": "25 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 40 minutes"
       },
-      "id": 179,
-      "similarity": "0.35"
+      "id": 157,
+      "similarity": "0.33"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheese & Broccoli Soup",
+      "name": "Lasagna",
       "author": {
         "@type": "Person",
-        "name": "Jeff Slaght"
+        "name": "Mary Kenney"
       },
-      "description": "A creamy broccoli and cheese soup with a rich, velvety texture.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT20M",
-      "totalTime": "PT30M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "½ tsp pepper",
-        "2 Tbsp butter",
-        "Salt to taste",
-        "1 chopped onion",
-        "1½ cups milk",
-        "2 Tbsp all-purpose flour",
-        "1½ cups grated cheese",
-        "1½ cups chicken broth",
-        "3 cups fresh broccoli, partially cooked"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Melt butter in a large saucepan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook onions until tender; do not brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chicken stock and broccoli; bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Whisk in flour and cook for 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return to heat; cook and stir until mixture thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat and simmer for 15 minutes; do not boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Puree mixture until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat through with milk, cheese, and seasonings."
-        }
-      ],
-      "keywords": "broccoli soup, cheese soup, creamy soup",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "30 minutes"
-      },
-      "id": 108,
-      "similarity": "0.34"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Hawaiian Meatballs",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
-      "recipeCategory": "Meat",
-      "recipeCuisine": "Hawaiian-American",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
       "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x13 inch pan",
       "recipeIngredient": [
-        "2 lb ground beef",
-        "2 eggs",
-        "½ cup chopped onion",
-        "¾ cup bread crumbs",
-        "¼ tsp salt",
-        "¼ tsp garlic salt",
-        "½ tsp salt",
-        "¼ tsp ginger",
-        "¼ tsp dry mustard",
-        "2 Tbsp soya sauce",
-        "¼ cup vinegar",
-        "6 Tbsp brown sugar",
-        "6 Tbsp ketchup",
-        "2 Tbsp shortening",
-        "1 (10 oz) can crushed pineapple",
-        "1 cup water",
-        "2 Tbsp cornstarch"
+        "1 (15 oz) container cottage cheese",
+        "1 (16 oz) box lasagna noodles",
+        "1½ cups water",
+        "2 (15 oz) jars spaghetti sauce",
+        "8 oz mozzarella cheese, thinly sliced",
+        "½ cup grated Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix the meat mixture together and shape into balls."
+          "text": "Combine cottage cheese and Parmesan cheese in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
+          "text": "Spread 1½ cups of spaghetti sauce in the bottom of a 13x9x2 inch pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove the meatballs from the pan and set aside."
+          "text": "Arrange a layer of uncooked lasagna noodles on top of the sauce, overlapping slightly."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
+          "text": "Sprinkle half of the mozzarella cheese and half of the cottage cheese mixture over the noodles."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
+          "text": "Repeat with another layer of sauce, noodles, and the remaining cheeses."
         },
         {
           "@type": "HowToStep",
-          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
+          "text": "Cover the top with sauce and cover tightly with heavy foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Set on a jelly roll pan and bake."
         }
       ],
-      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
+      "keywords": "lasagna, Italian-American, pasta bake",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "id": 152,
-      "similarity": "0.34"
+      "id": 192,
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "id": 187,
+      "similarity": "0.31"
     }
   ]
 }

@@ -56,351 +56,284 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sweet and Sour Pineapple with Chicken and Ginger",
+      "name": "Barley and Corn Casserole",
       "author": {
         "@type": "Person",
-        "name": "Dave MacLeod"
+        "name": "Barbara Robertson"
       },
-      "description": "A classic sweet and sour dish featuring parboiled chicken legs in a tangy pineapple and ginger sauce, served over fried rice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Chinese-Canadian",
+      "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "4-6 servings",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "4 to 6 chicken legs",
-        "1 to 2 tsp ginger",
-        "1 Tbsp vegetable oil",
-        "1/2 cup chopped onions",
-        "1 tsp salt",
-        "1/4 cup sugar (white or brown)",
-        "1 cup celery slices",
-        "1/4 cup vinegar",
-        "1 can (10 oz) mushrooms, drained",
-        "1 chicken Oxo cube or pouch",
-        "1 1/2 cups hot water",
-        "1 can (19 oz) pineapple",
-        "1/4 cup cold water",
-        "4 tsp cornstarch",
-        "1/4 cup soya sauce"
+        "1 Tbsp oil",
+        "3 cups vegetable stock",
+        "1 onion, chopped",
+        "2 cups kernel corn (fresh or canned)",
+        "3 cloves garlic, minced",
+        "2 carrots, finely chopped",
+        "Chopped fresh parsley",
+        "1 cup pearl or pot barley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Rinse and separate chicken legs at the joint. Parboil for 15 to 20 minutes to remove excess fat."
+          "text": "Heat oil in a heavy casserole. Cook onion, garlic, and carrots until the onion is softened, stirring frequently."
         },
         {
           "@type": "HowToStep",
-          "text": "Saute onions and celery in vegetable oil until tender. Add drained mushrooms and cook briefly."
+          "text": "Stir in barley and cook for 1-2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Dissolve chicken Oxo cube in hot water. Add soya sauce, ginger, salt, sugar, and vinegar. Bring to a boil."
+          "text": "Pour in vegetable stock, cover, and bake at 350 °F for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix cornstarch with cold water until smooth. Pour into boiling sauce and stir frequently until thickened."
+          "text": "Test that barley is tender. Stir in corn and parsley."
         },
         {
           "@type": "HowToStep",
-          "text": "Add drained pineapple to the sauce. Adjust seasoning with pineapple juice if desired."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Lay parboiled chicken pieces in a greased casserole dish. Pour sauce over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 20 to 25 minutes until bubbling.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT20M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over Chicken Vegetable Fried Rice."
+          "text": "Return to the oven to heat through. Season with pepper to taste."
         }
       ],
-      "keywords": "sweet and sour chicken, pineapple chicken, ginger sauce",
+      "keywords": "barley casserole, corn, carrots, comforting side dish",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
-      "id": 219,
-      "similarity": "0.36"
+      "id": 132,
+      "similarity": "0.22"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken and Cheese Casserole",
+      "name": "Swedish Potatoes",
       "author": {
         "@type": "Person",
-        "name": "June Schroeder"
+        "name": "Barbara Ratz"
       },
-      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
-      "recipeCategory": "Casserole",
+      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT30M",
       "totalTime": "PT50M",
-      "recipeYield": "1 casserole",
+      "recipeYield": "10-12 servings",
       "recipeIngredient": [
-        "1½ lb diced cooked chicken",
-        "1 medium onion, finely chopped",
-        "2 cups cooked rice",
-        "¼ lb grated cheddar cheese",
-        "½ cup milk",
-        "1 can Campbell's cream of celery soup",
-        "4 Tbsp butter or margarine",
-        "¾ cup crushed corn flakes",
-        "1½ cups chopped celery",
-        "Salt and pepper to taste"
+        "12 large potatoes",
+        "2 slightly beaten eggs",
+        "1 cup sour cream",
+        "1 tsp salt",
+        "¾ cup bread crumbs",
+        "2 Tbsp butter",
+        "1¼ tsp butter",
+        "1 (8 oz) package cream cheese",
+        "2 tsp onion salt or chopped onion"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
+          "text": "Cook and mash the potatoes."
         },
         {
           "@type": "HowToStep",
-          "text": "Put the mixture into a buttered casserole dish."
+          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
+          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook until the celery is hot."
+          "text": "Dot the top with butter and sprinkle with bread crumbs."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the corn flake and celery mixture over the chicken mixture."
+          "text": "Bake, covered, at 350°F for 30 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in a 375°F oven for about ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 375,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
         }
       ],
-      "keywords": "chicken casserole, cheesy rice bake, comfort food",
+      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 244,
-      "similarity": "0.34"
+      "id": 137,
+      "similarity": "0.18"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Thai Chicken",
+      "name": "Green Beans and Artichokes",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Loma Finkbeiner"
       },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
+      "description": "A savory side dish featuring green beans and artichoke hearts mixed with garlic, onion, and Romano cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
+        "1 (14 oz) can artichokes, drained and quartered",
+        "1 finely chopped onion",
+        "1 clove garlic, minced",
+        "¼ cup olive oil",
+        "½ cup freshly grated Romano cheese",
+        "½ cup Italian bread crumbs",
+        "1 (10 oz) pkg frozen french-style green beans, cooked and drained"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+          "text": "Saute the onion and garlic in olive oil until the onion is softened."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
+          "text": "Stir in bread crumbs and cook until they absorb the oil."
         },
         {
           "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+          "text": "Add green beans, artichoke hearts, and cheese. Combine thoroughly."
         },
         {
           "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+          "text": "Heat slowly to soften the cheese. Season with salt and pepper to taste."
         }
       ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "keywords": "green beans, artichokes, Romano cheese, side dish",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
       },
-      "id": 235,
-      "similarity": "0.33"
+      "id": 131,
+      "similarity": "0.18"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Richard's Sunday Soup",
+      "name": "Broccoli Casserole",
       "author": {
         "@type": "Person",
-        "name": "Richard MacGregor"
+        "name": "Eleanor Beaver"
       },
-      "description": "A rich and comforting soup featuring carrots, potatoes, and chicken stock.",
-      "recipeCategory": "Soup",
+      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 tsp sugar",
-        "5 large carrots",
-        "1 large potato",
-        "1 medium onion",
-        "1 Tbsp oil",
-        "2 to 3 cups chicken stock",
-        "Salt and pepper to taste"
+        "2 heads broccoli, precooked",
+        "1 cup celery, precooked",
+        "1 can mushroom soup",
+        "½ cup grated cheese",
+        "1 Tbsp melted margarine",
+        "½ cup sour cream",
+        "1 cup bread crumbs"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Peel and dice the carrots and potato. Combine diced onion and oil in a saucepan and cook over medium heat."
+          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the diced carrots and potato to the onion and cook for 3 minutes."
+          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
         },
         {
           "@type": "HowToStep",
-          "text": "Add chicken stock and sugar. Cook for 2 minutes."
+          "text": "Spread the topping over the casserole."
         },
         {
           "@type": "HowToStep",
-          "text": "Reduce heat to simmer and cook for 10 to 15 minutes or until the vegetables are cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from heat and puree. Serve immediately with fresh bread."
+          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
         }
       ],
-      "keywords": "carrot soup, potato soup, chicken stock",
+      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes"
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
       },
-      "id": 121,
-      "similarity": "0.31"
+      "id": 133,
+      "similarity": "0.17"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Tomato Macaroni Soup",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Linda Finkbeiner"
-        },
-        {
-          "@type": "Person",
-          "name": "Shirley Preszcator"
-        }
-      ],
-      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
-      "recipeCategory": "Soup",
+      "name": "Roasted Carrots and Parsnips",
+      "author": {
+        "@type": "Person",
+        "name": "Thelma Finkbeiner"
+      },
+      "description": "A simple roasted vegetable dish featuring carrots, parsnips, and onions with a maple syrup and mustard glaze.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 Tbsp oil",
-        "1½ cups water",
-        "1 cooking onion, diced",
-        "1 cup dry macaroni",
-        "2 carrots, diced",
-        "½ tsp garlic salt",
-        "3 or 4 celery stalks, diced",
-        "½ tsp Worcestershire sauce",
-        "2 cups chicken stock",
-        "2 cups tomato juice",
-        "Salt and pepper to taste"
+        "1 lb parsnips, peeled and cut into 1-inch pieces",
+        "1 lb carrots, peeled and cut into 1-inch pieces",
+        "1 cup onions, cut into wedges",
+        "2 Tbsp vegetable oil",
+        "1 tsp dried thyme",
+        "2 Tbsp maple syrup",
+        "1 Tbsp Dijon mustard"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute onion, celery, and carrot in oil until tender."
+          "text": "Preheat oven to 400°F (200°C)."
         },
         {
           "@type": "HowToStep",
-          "text": "Add stock, juice, and water. Bring to a boil."
+          "text": "Place parsnips, carrots, onions, oil, and thyme in a prepared baking dish; toss until vegetables are well coated with oil."
         },
         {
           "@type": "HowToStep",
-          "text": "Add pasta and cook until tender."
+          "text": "Roast in the oven for 30 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic salt and Worcestershire sauce."
+          "text": "In a small bowl, combine maple syrup and mustard."
         },
         {
           "@type": "HowToStep",
-          "text": "Season to taste with salt and pepper."
+          "text": "Pour the maple syrup mixture over the vegetables and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roast for another 20 to 25 minutes or until vegetables are tender and golden, stirring once."
         }
       ],
-      "keywords": "tomato macaroni soup, comfort food, pasta soup",
+      "keywords": "roasted carrots, roasted parsnips, maple syrup glaze",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "id": 123,
-      "similarity": "0.30"
+      "id": 142,
+      "similarity": "0.16"
     }
   ]
 }

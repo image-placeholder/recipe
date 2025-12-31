@@ -183,191 +183,164 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chili Con Carne",
+      "name": "Tomato Chickpea Salad",
       "author": {
         "@type": "Person",
-        "name": "Shannon Wuerth"
+        "name": "Jennifer Morlock"
       },
-      "description": "A hearty and versatile chili recipe featuring ground beef, kidney beans, and a variety of vegetables, ideal for customization.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "description": "A refreshing salad featuring chickpeas, diced tomatoes, cucumber, and feta cheese, dressed with a tangy vinaigrette.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mediterranean",
       "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "8 servings, 9 cups (2.25 L)",
-      "recipeIngredient": [
-        "1 lb lean ground beef",
-        "1 can (28 oz) tomatoes",
-        "1 cup chopped onion",
-        "1 can (7.5 oz) tomato sauce",
-        "1 clove garlic, crushed",
-        "1 can (19 oz) kidney beans, drained",
-        "3 cups finely shredded cabbage",
-        "1 Tbsp chili powder",
-        "2 cups thinly sliced celery",
-        "1 tsp dried oregano",
-        "1/2 cup chopped green pepper",
-        "1/2 tsp salt",
-        "1/4 tsp hot pepper sauce",
-        "Optional: additional vegetables like zucchini, carrots, mushrooms"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large nonstick skillet, cook ground beef over medium-high heat until browned and crumbly; drain off excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add onion and garlic to the skillet and cook for 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cabbage, celery, green pepper, tomatoes with juice, tomato sauce, kidney beans, chili powder, oregano, salt, and hot pepper sauce to the skillet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Optionally add other desired vegetables (e.g., zucchini, carrots, mushrooms) at this stage."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and simmer over medium heat for 45 minutes, or until vegetables are tender, stirring occasionally."
-        }
-      ],
-      "keywords": "chili con carne, ground beef chili, customizable chili",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "id": 165,
-      "similarity": "0.38"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sloppy Joe Squares",
-      "author": {
-        "@type": "Person",
-        "name": "Deb (Finkbeiner) Lord"
-      },
-      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "8 servings",
-      "recipeIngredient": [
-        "1 lb ground beef",
-        "1 small onion, minced",
-        "1/2 tsp Worcestershire sauce",
-        "3/4 cup ketchup",
-        "1 tsp salt",
-        "1/2 tsp pepper",
-        "1/4 tsp chili powder",
-        "2 Tbsp flour",
-        "2 packages Pillsbury crescent dinner rolls",
-        "Mozzarella cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Blend in flour to thicken the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the beef mixture evenly over the layer of rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the beef mixture with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F until the crescent rolls are browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with a salad."
-        }
-      ],
-      "keywords": "sloppy joe, casserole, crescent rolls, beef",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
-      },
-      "id": 185,
-      "similarity": "0.36"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Zesty BBQ Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Sharon Allen"
-      },
-      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
+      "cookTime": "PT0M",
       "totalTime": "PT20M",
-      "recipeYield": "1 batch",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 cup ketchup",
-        "1 tsp dry mustard",
-        "1/4 cup white vinegar",
-        "1/4 tsp salt",
-        "1/2 cup brown sugar",
-        "1/4 tsp cayenne pepper",
-        "1 Tbsp chili powder",
-        "2 cloves garlic, crushed",
-        "1 Tbsp Worcestershire sauce"
+        "1 (28 oz) can chickpeas, rinsed and drained",
+        "3 large tomatoes, diced",
+        "1 large cucumber, diced",
+        "6 green onions, chopped",
+        "1 cup crumbled feta cheese",
+        "1/3 cup olive oil",
+        "3 Tbsp white wine vinegar",
+        "1 clove garlic, crushed",
+        "1 tsp dried tarragon",
+        "1 Tbsp parsley",
+        "1/2 tsp dry mustard",
+        "1/4 tsp pepper",
+        "Pinch cayenne pepper"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine all ingredients in a saucepan."
+          "text": "In a large bowl, combine chickpeas, diced tomatoes, cucumber, green onions, and feta cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
+          "text": "In a small bowl, whisk together olive oil, vinegar, garlic, tarragon, parsley, mustard, pepper, and cayenne pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer for 10 minutes, stirring occasionally."
+          "text": "Toss the dressing with the salad ingredients until well coated."
         },
         {
           "@type": "HowToStep",
-          "text": "Refrigerate or freeze for later use."
+          "text": "Cover and refrigerate for several hours before serving."
         }
       ],
-      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
+      "keywords": "chickpea salad, tomato salad, Mediterranean salad, vinaigrette dressing",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
+        "prepTime": "20 minutes",
+        "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "id": 136,
-      "similarity": "0.34"
+      "id": 93,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cottage Cheese Jellied Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 oz package orange or lemon flavored gelatin",
+        "1 cup boiling water",
+        "1 cup drained crushed pineapple",
+        "½ cup chopped walnuts (optional)",
+        "½ cup mayonnaise",
+        "1 cup cottage cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve gelatin in boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise and whisk to blend."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until the mixture starts to set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
+        }
+      ],
+      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "id": 66,
+      "similarity": "0.28"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tomato Chickpea Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jennifer Morlock"
+      },
+      "description": "A refreshing salad featuring chickpeas, diced tomatoes, cucumber, and crumbled feta, all tossed in a tangy herb-infused dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mediterranean",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 (28 oz) can chickpeas, rinsed and drained",
+        "3 large tomatoes, diced",
+        "1 large cucumber, diced",
+        "6 green onions, chopped",
+        "1 Tbsp parsley",
+        "1 cup crumbled feta cheese",
+        "Dressing: 1/3 cup olive oil, 3 Tbsp white wine vinegar, 1 crushed garlic clove, 1 tsp dried tarragon leaves, 1/2 tsp dry mustard, 1/4 tsp pepper, pinch cayenne pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine chickpeas, diced tomatoes, cucumber, green onions, and parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, whisk together the dressing ingredients: olive oil, vinegar, garlic, tarragon, mustard, pepper, and cayenne."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the dressing with the salad ingredients until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate for several hours before serving."
+        }
+      ],
+      "keywords": "chickpea salad, tomato salad, Mediterranean salad, feta cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "id": 90,
+      "similarity": "0.28"
     }
   ]
 }

@@ -151,68 +151,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Turkey A La King",
-      "author": {
-        "@type": "Person",
-        "name": "Jean E. Neil"
-      },
-      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "⅓ cup butter",
-        "1 tsp salt",
-        "¼ lb mushrooms, sliced",
-        "1 cup chicken broth",
-        "¼ cup chopped onion",
-        "1 cup milk",
-        "2 cups cooked diced turkey",
-        "¼ cup chopped celery",
-        "¼ cup chopped green pepper",
-        "¼ cup flour"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over hot toast, biscuits, or rice."
-        }
-      ],
-      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "id": 248,
-      "similarity": "0.38"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Cauliflower Broccoli Casserole",
       "author": {
         "@type": "Person",
@@ -343,66 +281,110 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Microwave Corn Chowder",
-      "author": {
-        "@type": "Person",
-        "name": "Brenda Martene"
-      },
-      "description": "A creamy corn chowder made in the microwave with potatoes, carrots, celery, and cheddar cheese.",
-      "recipeCategory": "Soup",
+      "name": "Potato Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Heather Clarke"
+        },
+        {
+          "@type": "Person",
+          "name": "M. Leanne Kenney"
+        }
+      ],
+      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
       "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "10 servings",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 casserole",
       "recipeIngredient": [
-        "2 cups water",
-        "¼ cup butter or margarine",
-        "2 cups diced peeled potatoes",
-        "¼ cup all-purpose flour",
-        "2 cups milk",
-        "½ cup sliced carrots",
-        "½ cup sliced celery",
-        "¼ cup chopped onion",
-        "1 tsp salt",
-        "¼ tsp pepper",
-        "3 cups (12 oz) shredded cheddar cheese",
-        "2 cans (14¾ oz each) cream style corn"
+        "1 (2 lb) bag frozen hash browns",
+        "1 can cream of celery soup",
+        "1 can cream of mushroom soup",
+        "500 mL sour cream",
+        "1 cup grated cheese",
+        "¼ cup diced onions"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Place water in a 2-quart microwave-safe dish; cover and heat until boiling."
+          "text": "Mix all ingredients together in a shallow pan until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Add potatoes, carrots, celery, onion, salt, and pepper. Cook, uncovered, on high for 8 to 10 minutes or until vegetables are crisp-tender; set aside (do not drain)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a 3-quart dish, microwave butter on high for 50 to 60 seconds or until melted."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in flour until smooth. Gradually stir in milk. Cook, uncovered, on high for 6 to 7 minutes or until thickened, stirring every 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cheese. Heat for 1 to 1½ minutes or until the cheese is melted."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in corn and reserved vegetables. Cook on high for 2 to 3 minutes or until heated through."
+          "text": "Bake at 350°F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
         }
       ],
-      "keywords": "microwave corn chowder, creamy soup, cheddar cheese",
+      "keywords": "potato casserole, hash browns, creamy, cheesy",
       "_naturalized_times": {
         "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
       },
-      "id": 118,
-      "similarity": "0.33"
+      "id": 141,
+      "similarity": "0.28"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 heads broccoli, precooked",
+        "1 cup celery, precooked",
+        "1 can mushroom soup",
+        "½ cup grated cheese",
+        "1 Tbsp melted margarine",
+        "½ cup sour cream",
+        "1 cup bread crumbs"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the topping over the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 133,
+      "similarity": "0.26"
     }
   ]
 }

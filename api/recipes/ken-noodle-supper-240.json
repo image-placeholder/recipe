@@ -205,63 +205,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Mushroom Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 Tbsp butter",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 cups sliced mushrooms",
-        "1/4 cup flour",
-        "2 cups stock (chicken or vegetable)",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "3 cups milk"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute butter, onion, garlic and mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add flour and stir together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, sauces and milk."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer until heated through (approximately 15 minutes)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
-        }
-      ],
-      "keywords": "mushroom soup, creamy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "id": 113,
-      "similarity": "0.37"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Hearty Chicken Pot Pie",
       "author": {
         "@type": "Person",
@@ -329,65 +272,138 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Dad's Spaghetti",
+      "name": "Turkey A La King",
       "author": {
         "@type": "Person",
-        "name": "Linda Nakamura"
+        "name": "Jean E. Neil"
       },
-      "description": "A comforting spaghetti dish with bacon, mushrooms, and a creamy mushroom soup sauce.",
-      "recipeCategory": "Pasta",
+      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
       "cookTime": "PT20M",
       "totalTime": "PT35M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 can mushroom soup",
-        "1½ cups sliced mushrooms",
-        "½ to 1 lb bacon, chopped",
-        "1 small onion, chopped",
-        "1 to 2 tsp garlic salt or 1 to 2 minced garlic cloves",
-        "3 to 4 Tbsp mozzarella cheese",
-        "1 lb spaghetti"
+        "⅓ cup butter",
+        "1 tsp salt",
+        "¼ lb mushrooms, sliced",
+        "1 cup chicken broth",
+        "¼ cup chopped onion",
+        "1 cup milk",
+        "2 cups cooked diced turkey",
+        "¼ cup chopped celery",
+        "¼ cup chopped green pepper",
+        "¼ cup flour"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook spaghetti, drain, and set aside."
+          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Brown bacon in a frying pan with garlic salt or minced garlic."
+          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove bacon and most of the grease from the pan."
+          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook onion and mushrooms in the same pan until tender."
+          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
         },
         {
           "@type": "HowToStep",
-          "text": "Return bacon to the pan and add mushroom soup."
+          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir and heat the sauce through, adding cheese and enough water to achieve the desired consistency."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the sauce with cooked spaghetti and serve."
+          "text": "Serve over hot toast, biscuits, or rice."
         }
       ],
-      "keywords": "spaghetti, bacon, mushroom sauce, creamy pasta",
+      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
       "_naturalized_times": {
         "prepTime": "15 minutes",
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 181,
+      "id": 248,
       "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Classy Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "A creamy, curry-flavored chicken dish with asparagus or broccoli and a cheddar cheese topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "3 skinless, boneless chicken breasts",
+        "1 can cream of chicken soup",
+        "½ cup mayonnaise",
+        "¼ tsp pepper",
+        "1 tsp curry powder",
+        "3 Tbsp oil",
+        "1 tsp lemon juice",
+        "1 (10 oz) pkg frozen asparagus or broccoli",
+        "1 cup grated cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the chicken into 2×4 inch pieces and sprinkle with pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Saute the chicken slowly in oil over medium heat until white and clear, about 6 minutes. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook asparagus or broccoli until tender crisp, drain, and arrange in the bottom of a buttered 7-inch diameter casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken on top of the asparagus or broccoli layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream of chicken soup, mayonnaise, curry powder, and lemon juice together and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the grated cheddar cheese over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, at 375 °F for 30 to 35 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "creamy chicken, curry chicken, asparagus, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 243,
+      "similarity": "0.34"
     }
   ]
 }

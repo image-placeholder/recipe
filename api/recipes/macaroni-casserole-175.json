@@ -210,69 +210,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Dad's Spaghetti",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Nakamura"
-      },
-      "description": "A comforting spaghetti dish with bacon, mushrooms, and a creamy mushroom soup sauce.",
-      "recipeCategory": "Pasta",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 can mushroom soup",
-        "1½ cups sliced mushrooms",
-        "½ to 1 lb bacon, chopped",
-        "1 small onion, chopped",
-        "1 to 2 tsp garlic salt or 1 to 2 minced garlic cloves",
-        "3 to 4 Tbsp mozzarella cheese",
-        "1 lb spaghetti"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook spaghetti, drain, and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Brown bacon in a frying pan with garlic salt or minced garlic."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove bacon and most of the grease from the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook onion and mushrooms in the same pan until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return bacon to the pan and add mushroom soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir and heat the sauce through, adding cheese and enough water to achieve the desired consistency."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the sauce with cooked spaghetti and serve."
-        }
-      ],
-      "keywords": "spaghetti, bacon, mushroom sauce, creamy pasta",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "id": 181,
-      "similarity": "0.46"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Spaghetti Casserole",
       "author": {
         "@type": "Person",
@@ -343,69 +280,145 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Noodles with Hamburg",
+      "name": "Hamburger Pie",
       "author": {
         "@type": "Person",
-        "name": "Carolyn Gower"
+        "name": "Marguerite Finkbeiner"
       },
-      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
-      "recipeCategory": "Main Course",
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 169,
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Macaroni Ham Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Cheryl MacLeod"
+      },
+      "description": "A comforting macaroni and ham casserole topped with cheddar cheese and crushed sour cream and onion potato chips.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT20M",
       "totalTime": "PT40M",
       "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "¼ tsp oregano",
-        "¼ tsp garlic powder",
-        "½ cup chopped onions (optional)",
-        "1 tsp salt",
-        "⅓ cup chopped celery",
-        "¾ cup shredded cheddar cheese (optional)",
-        "2 cups canned tomatoes",
-        "2 cups cooked macaroni",
-        "1 (14 oz) can corn kernels",
-        "1 (10 oz) can tomato soup"
+        "2½ cups (625 mL) milk",
+        "2 cups (500 mL) uncooked macaroni",
+        "Salt and pepper to taste",
+        "1 to 1¼ cups (250 to 375 mL) grated cheddar cheese",
+        "1 cup (250 mL) cubed ham",
+        "¼ cup (60 mL) melted margarine",
+        "¼ cup (60 mL) flour",
+        "Crushed sour cream and onion flavoured potato chips for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+          "text": "Preheat oven to 350°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+          "text": "Cook the macaroni in boiling water, then drain and mix in cubed ham."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+          "text": "Melt margarine in a saucepan and mix in the flour. Add in the milk and stir constantly over medium heat until the mixture is thick and smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+          "text": "Mix the sauce with the macaroni and ham, then pour into a greased casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+          "text": "Add salt and pepper to taste, and stir in about ¾ of the grated cheddar cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+          "text": "Sprinkle the remaining cheddar cheese on top."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot."
+          "text": "Top with crushed sour cream and onion flavoured potato chips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for approximately 20 minutes, or until the casserole is bubbling."
         }
       ],
-      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "keywords": "macaroni casserole, ham and cheese, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 166,
-      "similarity": "0.46"
+      "id": 196,
+      "similarity": "0.41"
     }
   ]
 }

@@ -217,104 +217,117 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheese Dip in a Bread Bowl",
+      "name": "Taco Salad",
       "author": {
         "@type": "Person",
-        "name": "Sherri Haugh"
+        "name": "Deb Hodge"
       },
-      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
-      "recipeCategory": "Appetizer",
+      "description": "A hearty taco salad with seasoned ground beef, crunchy taco chips, and cheddar cheese, all tossed in Catalina dressing.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 bread bowl",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 round bread loaf",
-        "1½ cups chopped ham",
-        "1 (8 oz) package cream cheese",
-        "1½ cups sour cream",
-        "½ cup chopped green pepper",
-        "½ cup chopped green onion",
-        "2 cups shredded cheddar cheese",
-        "1 shake Tabasco sauce",
-        "1 shake Worcestershire sauce"
+        "1 lb ground beef (hamburg)",
+        "1 package taco seasoning mix",
+        "1 (250 g) bag crushed taco chips",
+        "1 cup shredded cheddar cheese",
+        "1 head lettuce, chopped",
+        "1 chopped tomato",
+        "Catalina dressing"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+          "text": "Refrigerate the cooked beef until ready to use."
         },
         {
           "@type": "HowToStep",
-          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+          "text": "Mix in Catalina dressing until well coated."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+          "text": "Carefully add in chopped tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
         }
       ],
-      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "keywords": "taco salad, ground beef, taco chips, cheddar cheese",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
       },
-      "id": 4,
-      "similarity": "0.33"
+      "id": 89,
+      "similarity": "0.31"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Shrimp Spread",
+      "name": "Sauerkraut Salad",
       "author": {
         "@type": "Person",
-        "name": "Janet Dearing"
+        "name": "Lorna Finkbeiner"
       },
-      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
-      "recipeCategory": "Appetizer",
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "recipeYield": "1 bowl",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
       "recipeIngredient": [
-        "1 can shrimp cocktail",
-        "3 green onions, finely chopped",
-        "1 tsp garlic powder",
-        "1 (8 oz) package cream cheese, softened",
-        "1 tsp Worcestershire sauce",
-        "1½ cups shredded cheddar cheese",
-        "Miracle Whip (as needed for consistency)"
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together in a medium bowl."
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
         },
         {
           "@type": "HowToStep",
-          "text": "Mash the shrimp with a fork until well blended."
+          "text": "Let the dressing cool to room temperature."
         },
         {
           "@type": "HowToStep",
-          "text": "Refrigerate before serving with crackers."
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the cooled dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
         }
       ],
-      "keywords": "shrimp spread, seafood dip, party appetizer",
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": null,
-        "totalTime": null
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
       },
-      "id": 10,
-      "similarity": "0.32"
+      "id": 82,
+      "similarity": "0.30"
     }
   ]
 }

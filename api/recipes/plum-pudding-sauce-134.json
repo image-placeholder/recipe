@@ -103,191 +103,134 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sour 'N Sweet Pork Chops",
+      "name": "Teriyaki Sauce",
       "author": {
         "@type": "Person",
-        "name": "Nola Ratz"
+        "name": "Barbara Robertson"
       },
-      "description": "A tangy and sweet pork chop dish simmered in a rich sauce made with brown sugar, vinegar, and Worcestershire sauce.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT30M",
-      "totalTime": "PT40M",
-      "recipeYield": "4 servings",
+      "description": "A savory and slightly sweet marinade sauce made with soy sauce, garlic, and ginger, ideal for chicken, beef, pork, or seafood.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "varies",
       "recipeIngredient": [
-        "4 pork chops",
-        "½ cup brown sugar",
-        "¼ cup vinegar",
-        "½ cup water",
-        "1 Tbsp Worcestershire sauce",
-        "¼ cup ketchup",
-        "2 Tbsp flour (for thickening)"
+        "1/4 cup soy sauce",
+        "1 clove garlic, minced",
+        "2 Tbsp honey",
+        "1/4 tsp hot pepper (or to taste)",
+        "1 Tbsp rice vinegar",
+        "1 Tbsp minced ginger root"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Drain excess fat from pork chops and brown them in a large frying pan."
+          "text": "Mix all ingredients together."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix together water, brown sugar, vinegar, Worcestershire sauce, and ketchup. Pour over the browned chops."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer for 30 minutes or until done."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If desired, thicken the liquid with 2 Tbsp flour. Serve with rice."
+          "text": "Marinate meat for at least 1 hour or up to 24 hours in the refrigerator."
         }
       ],
-      "keywords": "sour sweet pork chops, tangy pork, brown sugar sauce",
+      "keywords": "teriyaki sauce, marinade, Asian-inspired, soy sauce",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "40 minutes"
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
       },
-      "id": 207,
-      "similarity": "0.36"
+      "id": 135,
+      "similarity": "0.27"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken Celebrity",
+      "name": "Cold Meat Mustard",
       "author": {
         "@type": "Person",
-        "name": "Rosemary Stewart"
+        "name": "Alwinna Galloway"
       },
-      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
-      "recipeCategory": "Main Course",
+      "description": "A tangy mustard sauce for cold meats.",
+      "recipeCategory": "Sauce",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT5M",
+      "totalTime": "PT5M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "2 to 3 lb chicken parts",
-        "1/4 cup brown sugar",
-        "1 package dry onion soup mix",
-        "1/2 cup ketchup",
-        "1/4 cup water"
+        "2 tsp vinegar",
+        "3 heaping tsp mustard",
+        "4 heaping tsp Miracle Whip",
+        "8 tsp white sugar",
+        "2 tsp flour"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Arrange chicken parts in a small roaster or casserole."
+          "text": "Mix all ingredients together."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 350°F oven for 1 hour or until tender."
+          "text": "Put in fridge."
         }
       ],
-      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
+      "keywords": "mustard sauce, cold meat, condiment",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "id": 237,
-      "similarity": "0.34"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cranberry Mold",
-      "author": {
-        "@type": "Person",
-        "name": "Betty Macisaac"
-      },
-      "description": "A simple cranberry mold dessert made with raspberry Jello, sugar, and whole orange.",
-      "recipeCategory": "Dessert",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "recipeYield": "1 mold",
-      "recipeIngredient": [
-        "1 cup white sugar",
-        "2 cups cranberries",
-        "1 package raspberry Jello powder",
-        "1 whole orange"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Put the cranberries and whole orange through a food chopper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the chopped cranberries and orange with sugar and raspberry Jello powder."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put the mixture in a mold and set."
-        }
-      ],
-      "keywords": "cranberry mold, raspberry Jello, dessert",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
+        "prepTime": "5 minutes",
         "cookTime": null,
-        "totalTime": null
+        "totalTime": "5 minutes"
       },
-      "id": 78,
-      "similarity": "0.30"
+      "id": 122,
+      "similarity": "0.26"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Salad Dressing",
+      "name": "Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "Evelyn Pickering"
+        "name": "Heather Clarke"
       },
-      "description": "A thickened salad dressing made by boiling a mixture of eggs, sugar, flour, mustard, water, and vinegar, finished with butter.",
-      "recipeCategory": "Salad Dressing",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 batch",
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "3 Tbsp flour",
-        "3 eggs",
-        "1 cup white sugar",
-        "1½ cups water",
-        "1 Tbsp dry mustard",
-        "1 cup vinegar",
-        "1 Tbsp butter"
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Beat eggs and add sugar and dry ingredients."
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
         },
         {
           "@type": "HowToStep",
-          "text": "Boil water and vinegar together."
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour egg mixture into vinegar-water mixture and boil until it thickens, stirring continually."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Take off heat and stir in 1 Tbsp butter."
+          "text": "Continue cooking gently for another 2 hours."
         }
       ],
-      "keywords": "thickened salad dressing, boiled dressing",
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
       },
-      "id": 104,
-      "similarity": "0.30"
+      "id": 177,
+      "similarity": "0.19"
     }
   ]
 }
