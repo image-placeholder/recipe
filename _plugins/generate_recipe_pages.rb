@@ -130,7 +130,7 @@ module Jekyll
             "type"   => "category",
             "slug"   => slug,
             "count"  => pages.size,
-            "paginated_recipes" => slice.map(&:data),
+            "paginated_recipes" => slice,
             "pagination" => {
               "current_page" => page_num,
               "total_pages"  => total_pages,
@@ -162,7 +162,7 @@ module Jekyll
             "type"   => "cuisine",
             "slug"   => slug,
             "count"  => pages.size,
-            "paginated_recipes" => slice.map(&:data),
+            "paginated_recipes" => slice,
             "pagination" => {
               "current_page" => page_num,
               "total_pages"  => total_pages,
@@ -200,7 +200,7 @@ module Jekyll
           "layout" => "recipe-archive",
           "title"  => "Categories",
           "type"   => "category",
-          "paginated_recipes" => slice.map(&:data),
+          "paginated_recipes" => slice,
           "pagination" => {
             "current_page" => page_num,
             "total_pages"  => total_pages,
@@ -237,7 +237,7 @@ module Jekyll
           "layout" => "recipe-archive",
           "title"  => "Cuisines",
           "type"   => "cuisine",
-          "paginated_recipes" => slice.map(&:data),
+          "paginated_recipes" => slice
           "pagination" => {
             "current_page" => page_num,
             "total_pages"  => total_pages,
