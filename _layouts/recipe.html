@@ -6,7 +6,7 @@
   <meta name="description" content="{{ page.description }}">
   <script src="https://cdn.tailwindcss.com"></script> 
   <script type="application/ld+json">
-    {{ page | jsonify }}
+    {{ page.schema | jsonify }}
   </script>
 
  {% assign base_url = site.baseurl | default: "" %}
