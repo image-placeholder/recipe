@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { isoDuration, en } = require("@musement/iso-duration");
 const _fs = require('fs').promises;
-const {similarRecipes} = require("similarRecipes");
+const {similarRecipes} = require("./similarRecipes.js");
 const humanizeDuration = require('humanize-duration');
 
 
