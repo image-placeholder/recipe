@@ -1,4 +1,22 @@
-  <script src="https://cdn.tailwindcss.com"></script>
+<script>
+  function copyCitation(button) {
+    // Find the text within the same section
+    const section = button.closest('section');
+    const text = section.querySelector('.citation-text').innerText;
+
+    navigator.clipboard.writeText(text).then(() => {
+      // Visual feedback
+      const originalText = button.innerText;
+      button.innerText = "Copied";
+      button.classList.add('text-stone-800');
+      
+      setTimeout(() => {
+        button.innerText = originalText;
+        button.classList.remove('text-stone-800');
+      }, 2000);
+    });
+  }
+</script>
 <article class="max-w-4xl mx-auto bg-white border border-stone-200 shadow-sm mt-24 overflow-hidden">
   <header class="pt-16 pb-12 px-8 text-center bg-stone-50/50 border-b border-stone-100">
     <span class="text-[10px] uppercase tracking-[0.4em] text-stone-400 block mb-4">
