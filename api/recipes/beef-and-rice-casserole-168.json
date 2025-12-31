@@ -215,6 +215,113 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Stewing Beef Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kelly Haines"
+      },
+      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 lb stewing beef",
+        "1 tsp salt",
+        "Dash pepper",
+        "1¼ cups diced potatoes",
+        "1¼ cups diced carrots",
+        "1 tsp sugar",
+        "2 Tbsp Minit Tapioca",
+        "½ cup diced onions",
+        "1 cup V8 juice",
+        "½ cup diced celery"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients lightly in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 250°F for 4 hours without uncovering."
+        }
+      ],
+      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "id": 155,
+      "similarity": "0.48"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Porcupines",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "beef porcupines, baked meatballs, rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 163,
+      "similarity": "0.48"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Rosemary Shipwreck Casserole",
       "author": {
         "@type": "Person",
@@ -278,162 +385,6 @@
       },
       "id": 180,
       "similarity": "0.45"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Pork Chop & Rice Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Bonnie McNutt"
-      },
-      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT2H",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "6 center cut pork chops",
-        "1 sliced tomato",
-        "1 cup brown rice",
-        "1 sliced onion",
-        "4 sliced green onions",
-        "1 green pepper, sliced in rings",
-        "1/2 lb sliced fresh mushrooms",
-        "1 1/2 cups beef broth or stock",
-        "Salt and pepper to taste",
-        "1 Tbsp minced garlic",
-        "4 oz margarine or butter"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put raw rice in the casserole pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour beef broth over the casserole and cover with foil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
-        }
-      ],
-      "keywords": "pork chop, rice, casserole, baked",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "2 hours"
-      },
-      "id": 211,
-      "similarity": "0.45"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Creamy Beef and Potato Bake",
-      "author": {
-        "@type": "Person",
-        "name": "Mary Jefferies"
-      },
-      "description": "A layered casserole featuring ground beef, potatoes, zucchini, and a creamy cheddar sauce.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "1 13x9 inch baking dish",
-      "recipeIngredient": [
-        "3 potatoes, peeled and thinly sliced",
-        "1 lb ground beef",
-        "¼ cup butter, divided",
-        "2 Tbsp vegetable oil",
-        "2 small zucchini, sliced",
-        "1 tsp Italian seasoning",
-        "½ cup prepared tomato pasta sauce",
-        "2 cups milk, divided",
-        "¼ cup flour",
-        "1½ cups grated cheddar cheese",
-        "1 onion, chopped",
-        "½ tsp salt",
-        "½ tsp pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F to 375°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a skillet, melt 2 tablespoons butter and oil over medium-low heat. Add potatoes and cook for 5 minutes, stirring frequently."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add zucchini, salt, and pepper to the skillet. Cook until zucchini is tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the vegetable mixture into a 13x9 inch baking dish. Set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In the same skillet, cook onion and Italian seasoning until onion is tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add ground beef to the skillet and cook until it loses its pink color. Stir in tomato sauce and ½ cup milk."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the meat mixture over the vegetable layer in the baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Melt remaining butter in the skillet, stir in flour, and cook for 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gradually whisk in remaining milk. Cook and stir until the sauce thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in cheddar cheese until melted. Pour the sauce over the meat layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 20 to 25 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for 10 minutes before serving."
-        }
-      ],
-      "keywords": "beef casserole, potato bake, creamy sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
-      },
-      "id": 158,
-      "similarity": "0.43"
     }
   ]
 }

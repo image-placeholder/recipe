@@ -145,6 +145,57 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Chicken and Broccoli",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 cup small shells pasta",
+        "1 can cream of mushroom soup",
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the small shells pasta according to package directions. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with a cranberry salad."
+        }
+      ],
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 234,
+      "similarity": "0.52"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Macaroni Casserole",
       "author": {
         "@type": "Person",
@@ -284,125 +335,63 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Casserole",
+      "name": "Cheese & Broccoli Soup",
       "author": {
         "@type": "Person",
-        "name": "Janet Dearing"
+        "name": "Jeff Slaght"
       },
-      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
-      "recipeCategory": "Casserole",
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 quart casserole",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "½ lb spaghetti",
-        "½ lb ground beef",
-        "1 can (19 oz) diced tomatoes",
-        "½ cup chopped onion",
-        "1 can (10 oz) condensed cream of mushroom soup",
-        "1½ tsp salt",
-        "¼ tsp pepper",
-        "1 cup grated medium cheddar cheese",
-        "½ tsp garlic",
-        "1 can (10 oz) mushroom pieces, drained"
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef and onion in a frying pan."
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook spaghetti according to package directions."
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
+          "text": "Add flour mixture and cook for 3 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour canned tomatoes over the spaghetti layer."
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Spoon the browned meat mixture over the tomatoes."
+          "text": "Puree the mixture until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover with cream of mushroom soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with grated cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
+          "text": "Heat with milk, cheese, and seasonings."
         }
       ],
-      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
+      "keywords": "broccoli soup, cheese soup, creamy soup",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
       },
-      "id": 178,
-      "similarity": "0.46"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Crunchy Top Ham and Potato Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Norma Fahner"
-      },
-      "description": "A hearty ham and potato casserole with a crunchy corn flake topping.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H25M",
-      "recipeYield": "10 servings",
-      "recipeIngredient": [
-        "2 lb frozen hash brown potatoes, thawed",
-        "1½ cups shredded cheddar cheese",
-        "1 (10 oz) can cream of chicken soup, undiluted",
-        "½ tsp ground pepper",
-        "⅔ cup chopped green onion",
-        "2 cups cubed, cooked ham",
-        "2 cups sour cream",
-        "Topping: ½ cup butter, melted",
-        "2 cups crushed corn flakes"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all casserole ingredients and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the mixture in a 13x9 inch baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine topping ingredients (melted butter and crushed corn flakes) and sprinkle on top of the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour."
-        }
-      ],
-      "keywords": "ham and potato casserole, crunchy topping, comforting casserole",
-      "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 25 minutes"
-      },
-      "id": 197,
-      "similarity": "0.46"
+      "id": 105,
+      "similarity": "0.47"
     }
   ]
 }

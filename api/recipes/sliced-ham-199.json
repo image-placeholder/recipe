@@ -201,6 +201,53 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Doris Ohmayer"
+      },
+      "description": "A creamy salad dressing cooked over boiling water, made with eggs, sugar, mustard, and vinegar.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "2 well-beaten eggs",
+        "2 tsp flour",
+        "½ cup white sugar",
+        "¾ cup white vinegar",
+        "1 heaping tsp dry mustard",
+        "¼ cup boiling water",
+        "Pinch of salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix eggs, sugar, mustard, and salt together with flour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add vinegar and boiling water to the egg mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook over boiling water until creamy."
+        }
+      ],
+      "keywords": "creamy salad dressing, cooked dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 103,
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Sweet & Sour Pineapple Chicken",
       "author": {
         "@type": "Person",
@@ -249,71 +296,6 @@
       },
       "id": 222,
       "similarity": "0.31"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sticky Chicken",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Meghan Brand"
-        },
-        {
-          "@type": "Person",
-          "name": "Kurtis Brand"
-        }
-      ],
-      "description": "A sweet and savory chicken dish baked in a sticky sauce with pineapple and mushrooms.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 lb chicken, cut up",
-        "1 cup liquid (water + pineapple juice)",
-        "½ cup flour",
-        "¾ cup brown sugar",
-        "¼ tsp paprika",
-        "1 tsp Worcestershire sauce",
-        "1 tsp ground ginger",
-        "¼ cup soya sauce",
-        "1 tsp garlic powder",
-        "1 can drained mushrooms",
-        "28 oz can pineapple tidbits"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Shake chicken pieces in a bag with flour, paprika, ginger, and garlic powder to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine pineapple juice and water to make 1 cup. Add brown sugar, Worcestershire sauce, soya sauce, and drained mushrooms. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the coated chicken in a pan, skin side down. Pour the sauce over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F, uncovered, for 1 hour. Baste often and turn the chicken at 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "During the last 5 minutes, add drained pineapple tidbits and an additional can of drained mushrooms."
-        }
-      ],
-      "keywords": "sticky chicken, baked chicken, pineapple chicken",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "id": 233,
-      "similarity": "0.30"
     }
   ]
 }

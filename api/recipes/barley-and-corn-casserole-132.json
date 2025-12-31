@@ -56,292 +56,301 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Green Beans and Artichokes",
+      "name": "Mushroom Soup",
       "author": {
         "@type": "Person",
-        "name": "Loma Finkbeiner"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A savory side dish featuring green beans and artichoke hearts mixed with garlic, onion, and Romano cheese.",
-      "recipeCategory": "Side Dish",
+      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
       "totalTime": "PT25M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 (14 oz) can artichokes, drained and quartered",
-        "1 finely chopped onion",
-        "1 clove garlic, minced",
-        "¼ cup olive oil",
-        "½ cup freshly grated Romano cheese",
-        "½ cup Italian bread crumbs",
-        "1 (10 oz) pkg frozen french-style green beans, cooked and drained"
+        "3 Tbsp butter",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 cups sliced mushrooms",
+        "1/4 cup flour",
+        "2 cups stock (chicken or vegetable)",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "3 cups milk"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute the onion and garlic in olive oil until the onion is softened."
+          "text": "Saute butter, onion, garlic and mushrooms."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in bread crumbs and cook until they absorb the oil."
+          "text": "Add flour and stir together."
         },
         {
           "@type": "HowToStep",
-          "text": "Add green beans, artichoke hearts, and cheese. Combine thoroughly."
+          "text": "Add stock, sauces and milk."
         },
         {
           "@type": "HowToStep",
-          "text": "Heat slowly to soften the cheese. Season with salt and pepper to taste."
+          "text": "Simmer until heated through (approximately 15 minutes)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
         }
       ],
-      "keywords": "green beans, artichokes, Romano cheese, side dish",
+      "keywords": "mushroom soup, creamy soup, comfort food",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "id": 131,
-      "similarity": "0.29"
+      "id": 113,
+      "similarity": "0.37"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Roasted Carrots and Parsnips",
+      "name": "Corn Chowder",
       "author": {
         "@type": "Person",
-        "name": "Thelma Finkbeiner"
+        "name": "Nola Ratz"
       },
-      "description": "A simple roasted vegetable dish featuring carrots, parsnips, and onions with a maple syrup and mustard glaze.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 lb parsnips, peeled and cut into 1-inch pieces",
-        "1 lb carrots, peeled and cut into 1-inch pieces",
-        "1 cup onions, cut into wedges",
-        "2 Tbsp vegetable oil",
-        "1 tsp dried thyme",
-        "2 Tbsp maple syrup",
-        "1 Tbsp Dijon mustard"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 400°F (200°C)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place parsnips, carrots, onions, oil, and thyme in a prepared baking dish; toss until vegetables are well coated with oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roast in the oven for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a small bowl, combine maple syrup and mustard."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the maple syrup mixture over the vegetables and toss to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roast for another 20 to 25 minutes or until vegetables are tender and golden, stirring once."
-        }
-      ],
-      "keywords": "roasted carrots, roasted parsnips, maple syrup glaze",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "id": 142,
-      "similarity": "0.28"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Broccoli Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Eleanor Beaver"
-      },
-      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
-      "recipeCategory": "Side Dish",
+      "description": "A creamy corn chowder with bacon, potatoes, and a touch of milk.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
       "cookTime": "PT25M",
       "totalTime": "PT40M",
       "recipeYield": "6 servings",
       "recipeIngredient": [
-        "2 heads broccoli, precooked",
-        "1 cup celery, precooked",
-        "1 can mushroom soup",
-        "½ cup grated cheese",
-        "1 Tbsp melted margarine",
-        "½ cup sour cream",
-        "1 cup bread crumbs"
+        "2 cups hot chicken stock",
+        "6 slices lean bacon",
+        "½ cup sliced onions",
+        "3 cups finely diced potatoes",
+        "½ cup chopped celery",
+        "1½ cups frozen or fresh corn kernels",
+        "1 Tbsp flour",
+        "¾ tsp salt",
+        "2½ cups milk",
+        "Pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
+          "text": "Chop bacon and sauté in a large heavy pot with onions for 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
+          "text": "Add celery and cook until onions are transparent."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the topping over the casserole."
+          "text": "Stir in flour, salt, and pepper. Cook for 4 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
+          "text": "Gradually blend in hot stock, then add potatoes. Cover and simmer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add corn and simmer for another 10 minutes, or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scald milk and add to soup for desired consistency."
         }
       ],
-      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
+      "keywords": "corn chowder, creamy soup, bacon soup",
       "_naturalized_times": {
         "prepTime": "15 minutes",
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "id": 133,
-      "similarity": "0.27"
+      "id": 107,
+      "similarity": "0.35"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Swedish Potatoes",
+      "name": "Corn Chowder",
       "author": {
         "@type": "Person",
-        "name": "Barbara Ratz"
+        "name": "Nola Ratz"
       },
-      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
-      "recipeCategory": "Side Dish",
+      "description": "A creamy corn chowder with bacon, potatoes, and celery.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 cups hot chicken stock",
+        "6 slices lean bacon",
+        "1 cup sliced onions",
+        "3 cups finely diced potatoes",
+        "½ cup chopped celery",
+        "1½ cups frozen or fresh corn kernels",
+        "1 Tbsp flour",
+        "¾ tsp salt",
+        "2½ cups milk",
+        "Pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Chop bacon and sauté for 5 minutes in a large heavy pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onions and celery; cook until transparent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, and pepper; cook for 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually blend in hot stock, then add potatoes; cover and simmer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add corn and simmer for 10 minutes, or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scald milk and add to soup for desired consistency."
+        }
+      ],
+      "keywords": "corn chowder, creamy soup, bacon soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 110,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef & Barley Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Marjorie Johns"
+      },
+      "description": "A hearty beef and barley soup with vegetables and tomato, ideal for freezing and reheating.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H30M",
+      "recipeYield": "22 cups",
+      "recipeIngredient": [
+        "6 cups water",
+        "6 beef bouillon cubes",
+        "1 Tbsp parsley flakes",
+        "28 oz canned tomato",
+        "1 tsp sugar",
+        "10 oz condensed tomato soup",
+        "1 tsp salt",
+        "2 cups shredded carrots",
+        "¼ tsp pepper",
+        "2 cups shredded potatoes",
+        "¾ tsp thyme",
+        "1½ cups chopped onion",
+        "3 cups cooked roast beef (or 2-3 cups chopped hamburg meat)",
+        "1 cup chopped celery",
+        "½ cup pearl or pot barley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat water and bouillon cubes in a large pot, stirring until dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add remaining ingredients except beef and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 1½ hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add beef and simmer for an additional ½ hour."
+        }
+      ],
+      "keywords": "beef barley soup, hearty soup, freezer-friendly",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 30 minutes"
+      },
+      "id": 100,
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Birds in Wine",
+      "author": {
+        "@type": "Person",
+        "name": "Liz Dingeldein"
+      },
+      "description": "A hearty dish of beef cutlets rolled with a mixture of onions, mushrooms, and parsley, simmered in a rich wine and beef stock sauce.",
+      "recipeCategory": "Main Dish",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "10-12 servings",
-      "recipeIngredient": [
-        "12 large potatoes",
-        "2 slightly beaten eggs",
-        "1 cup sour cream",
-        "1 tsp salt",
-        "¾ cup bread crumbs",
-        "2 Tbsp butter",
-        "1¼ tsp butter",
-        "1 (8 oz) package cream cheese",
-        "2 tsp onion salt or chopped onion"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook and mash the potatoes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Dot the top with butter and sprinkle with bread crumbs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake, covered, at 350°F for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
-        }
-      ],
-      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "id": 137,
-      "similarity": "0.22"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cauliflower Broccoli Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A versatile casserole recipe that can use either cauliflower or broccoli, topped with croutons and Parmesan cheese.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT40M",
-      "totalTime": "PT50M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "Cauliflower or broccoli",
-        "1 can cream of celery soup",
-        "2 Tbsp mayonnaise",
-        "1/4 cup shredded Colby cheese",
-        "1/4 cup Parmesan cheese",
-        "1/2 cup croutons",
-        "Some cracker crumbs",
-        "A little butter"
+        "2 Tbsp all-purpose flour",
+        "4 large thin beef cutlets",
+        "1 medium onion, finely chopped",
+        "1/3 cup red wine",
+        "1/3 cup water or beef stock",
+        "1 garlic clove, minced",
+        "1/2 cup cooked mushrooms (canned or fresh)",
+        "1 Tbsp chopped parsley",
+        "Salt and pepper to taste",
+        "Pinch thyme",
+        "2 Tbsp olive oil"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the chosen vegetable in the microwave for 2 minutes."
+          "text": "Mix onions, mushrooms, garlic, and parsley together."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cream of celery soup, mayonnaise, and cheese to the cooked vegetable. Mix well."
+          "text": "Roll ¼ of the mixture up in each beef cutlet and secure with toothpicks."
         },
         {
           "@type": "HowToStep",
-          "text": "Add croutons to the mixture."
+          "text": "Brown the rolls on all sides in olive oil. Remove rolls and keep warm."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread cracker crumbs on top of the casserole."
+          "text": "Stir flour into pan drippings. Gradually add liquid and seasonings. Cook over low heat, stirring constantly."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle Parmesan cheese over the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put butter pieces on top of the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook at 350°F for 40 minutes."
+          "text": "Add meat rolls and simmer, covered, for 45 minutes. Add more liquid if needed."
         }
       ],
-      "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake",
+      "keywords": "beef birds, wine sauce, main dish",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "40 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "id": 144,
-      "similarity": "0.22"
+      "id": 147,
+      "similarity": "0.31"
     }
   ]
 }

@@ -59,6 +59,75 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Creamy Chicken Stew",
+      "author": {
+        "@type": "Person",
+        "name": "Anne Cottel"
+      },
+      "description": "A hearty and comforting chicken stew with vegetables in a creamy sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 to 10 servings",
+      "recipeIngredient": [
+        "3 lb boneless, skinless chicken breasts, cut into 1-inch cubes",
+        "2 Tbsp cooking oil",
+        "1 medium onion, diced",
+        "1 cup sliced celery",
+        "2 cups peeled and cubed potatoes",
+        "3 large carrots, cut into coins",
+        "1 tsp salt",
+        "1/2 tsp dried basil",
+        "1/2 tsp paprika",
+        "1/4 tsp celery salt",
+        "1 bay leaf",
+        "7 cups chicken broth, divided",
+        "1 can (14 oz) corn kernels, drained",
+        "1 can (14 oz) peas",
+        "1 can (14 oz) lima beans",
+        "1/2 cup butter or margarine",
+        "3/4 cup all-purpose flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a Dutch oven. Sprinkle chicken with salt, pepper, and paprika. Cook and stir until the chicken is browned. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add raw vegetables, basil, bay leaf, celery salt, and 5 cups broth; bring to a boil. Reduce heat. Cover and simmer for 30 minutes or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bay leaf. Add canned vegetables. Cook and stir for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, mix flour and butter or margarine until smooth. Gradually whisk in remaining 2 cups broth. Bring to a boil. Cook and stir for 2 minutes or until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce into the Dutch oven. Stir and bring to a boil. Reduce heat. Simmer, uncovered, for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with rolls or biscuits."
+        }
+      ],
+      "keywords": "chicken stew, creamy stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "id": 252,
+      "similarity": "0.28"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Barley and Corn Casserole",
       "author": {
         "@type": "Person",
@@ -115,259 +184,202 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheddar Baked Potato Slices",
+      "name": "Maple Glazed Ribs",
       "author": {
         "@type": "Person",
-        "name": "Ina Browning"
+        "name": "Evelyn Pickering"
       },
-      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
-      "recipeCategory": "Side Dish",
+      "description": "A sweet and savory pork spare ribs recipe glazed with a maple syrup-based sauce.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "4 medium baking potatoes, cut into ¼ inch slices",
-        "1 can cream of mushroom soup",
-        "½ tsp paprika",
-        "½ tsp pepper",
-        "1 cup shredded cheddar cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese over the potatoes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the soup mixture evenly over the cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 400,
-            "unitCode": "FAR"
-          },
-          "duration": "PT45M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
-        }
-      ],
-      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "id": 140,
-      "similarity": "0.18"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Green Beans and Artichokes",
-      "author": {
-        "@type": "Person",
-        "name": "Loma Finkbeiner"
-      },
-      "description": "A savory side dish featuring green beans and artichoke hearts mixed with garlic, onion, and Romano cheese.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 (14 oz) can artichokes, drained and quartered",
-        "1 finely chopped onion",
-        "1 clove garlic, minced",
-        "¼ cup olive oil",
-        "½ cup freshly grated Romano cheese",
-        "½ cup Italian bread crumbs",
-        "1 (10 oz) pkg frozen french-style green beans, cooked and drained"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the onion and garlic in olive oil until the onion is softened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in bread crumbs and cook until they absorb the oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add green beans, artichoke hearts, and cheese. Combine thoroughly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat slowly to soften the cheese. Season with salt and pepper to taste."
-        }
-      ],
-      "keywords": "green beans, artichokes, Romano cheese, side dish",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "id": 131,
-      "similarity": "0.18"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Broccoli Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Eleanor Beaver"
-      },
-      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT25M",
-      "totalTime": "PT40M",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H15M",
+      "totalTime": "PT2H35M",
       "recipeYield": "6 servings",
       "recipeIngredient": [
-        "2 heads broccoli, precooked",
-        "1 cup celery, precooked",
-        "1 can mushroom soup",
-        "½ cup grated cheese",
-        "1 Tbsp melted margarine",
-        "½ cup sour cream",
-        "1 cup bread crumbs"
+        "3 lb pork spare ribs",
+        "1 Tbsp Dijon mustard",
+        "1 cup maple syrup",
+        "1 Tbsp Worcestershire sauce",
+        "3 Tbsp orange juice",
+        "1 tsp curry powder concentrate",
+        "1 garlic clove, minced",
+        "3 Tbsp ketchup",
+        "2 green onions",
+        "2 Tbsp soya sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
+          "text": "Cut ribs into serving-size pieces and place in a roasting pan. Cover and bake for 1½ hours or until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
+          "text": "Meanwhile, combine the Dijon mustard, maple syrup, Worcestershire sauce, orange juice, curry powder, garlic, ketchup, green onions, and soya sauce in a saucepan. Bring to a boil, then reduce heat and simmer for 15 minutes, stirring occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the topping over the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
+          "text": "Drain the ribs and pour the sauce over them. Bake uncovered for an additional ½ hour, stirring occasionally."
         }
       ],
-      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
+      "keywords": "maple glazed ribs, pork spare ribs, sweet and savory",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "40 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours 15 minutes",
+        "totalTime": "2 hours 35 minutes"
       },
-      "id": 133,
-      "similarity": "0.16"
+      "id": 203,
+      "similarity": "0.27"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cauliflower Christmas",
+      "name": "Stir-Fry Beef",
       "author": {
         "@type": "Person",
-        "name": "Kim MacDonald"
+        "name": "Donise Baker (Dundas)"
       },
-      "description": "A layered cauliflower dish with Swiss cheese, green peppers, and mushrooms, baked until golden.",
-      "recipeCategory": "Side Dish",
+      "description": "A quick and flavorful beef stir-fry with vegetables and a savory sauce, served over cooked rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 can tomato soup",
+        "2 Tbsp vegetable oil",
+        "½ cup orange juice",
+        "2 lb boneless beef sirloin, cut into pieces",
+        "4 Tbsp soya sauce",
+        "1 large green pepper, cut into strips",
+        "2 Tbsp vinegar",
+        "8 cups cooked rice",
+        "1 large onion, sliced"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat vegetable oil in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add beef and stir-fry until cooked through. Set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add peppers and onion to the pan and stir-fry until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the mixture of tomato soup, soya sauce, orange juice, and vinegar. Cook until heated through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return beef to the pan and heat through, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the beef mixture over cooked rice."
+        }
+      ],
+      "keywords": "beef stir-fry, Asian-inspired, quick dinner",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 145,
+      "similarity": "0.25"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Beef and Potato Bake",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Jefferies"
+      },
+      "description": "A layered casserole featuring ground beef, potatoes, zucchini, and a creamy cheddar sauce.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT25M",
       "totalTime": "PT45M",
-      "recipeYield": "1 baking dish",
+      "recipeYield": "1 13x9 inch baking dish",
       "recipeIngredient": [
-        "2 cups milk",
-        "1 large cauliflower",
-        "1 cup shredded Swiss cheese",
-        "1 cup diced green peppers",
-        "2 Tbsp pimiento, drained",
-        "1 can mushrooms, drained",
-        "1 tsp salt",
-        "¼ cup butter/margarine",
-        "⅓ cup flour",
-        "Paprika for sprinkling"
+        "3 potatoes, peeled and thinly sliced",
+        "1 lb ground beef",
+        "¼ cup butter, divided",
+        "2 Tbsp vegetable oil",
+        "2 small zucchini, sliced",
+        "1 tsp Italian seasoning",
+        "½ cup prepared tomato pasta sauce",
+        "2 cups milk, divided",
+        "¼ cup flour",
+        "1½ cups grated cheddar cheese",
+        "1 onion, chopped",
+        "½ tsp salt",
+        "½ tsp pepper"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute the green peppers and mushrooms in butter until tender."
+          "text": "Preheat oven to 350°F to 375°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Add flour to the sautéed mixture and stir to combine."
+          "text": "In a skillet, melt 2 tablespoons butter and oil over medium-low heat. Add potatoes and cook for 5 minutes, stirring frequently."
         },
         {
           "@type": "HowToStep",
-          "text": "Gradually stir in milk, bringing the mixture to a boil."
+          "text": "Add zucchini, salt, and pepper to the skillet. Cook until zucchini is tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove from heat and add shredded cheese, stirring until melted."
+          "text": "Spoon the vegetable mixture into a 13x9 inch baking dish. Set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "In a greased baking dish, layer half of the cauliflower."
+          "text": "In the same skillet, cook onion and Italian seasoning until onion is tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with half of the cheese sauce and half of the pimiento."
+          "text": "Add ground beef to the skillet and cook until it loses its pink color. Stir in tomato sauce and ½ cup milk."
         },
         {
           "@type": "HowToStep",
-          "text": "Repeat the layers, finishing with the remaining cauliflower and sauce."
+          "text": "Spoon the meat mixture over the vegetable layer in the baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle with paprika.",
-          "tool": [
-            {
-              "@type": "HowToTool",
-              "name": "Paprika shaker"
-            }
-          ]
+          "text": "Melt remaining butter in the skillet, stir in flour, and cook for 1 minute."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake uncovered at 325°F for 25 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 325,
-            "unitCode": "FAR"
-          },
-          "duration": "PT25M"
+          "text": "Gradually whisk in remaining milk. Cook and stir until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in cheddar cheese until melted. Pour the sauce over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 20 to 25 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 minutes before serving."
         }
       ],
-      "keywords": "cauliflower, Swiss cheese, baked casserole",
+      "keywords": "beef casserole, potato bake, creamy sauce",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
-      "id": 139,
-      "similarity": "0.15"
+      "id": 158,
+      "similarity": "0.24"
     }
   ]
 }

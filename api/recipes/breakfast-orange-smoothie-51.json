@@ -190,91 +190,94 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Perfect Punch",
+      "name": "Fruit Dip",
       "author": {
         "@type": "Person",
-        "name": "Julie-Ann Bibby"
+        "name": "Suzanne Finkbeiner"
       },
-      "description": "A fruity and bubbly punch made with orange juice, lemonade, and raspberry sherbet.",
-      "recipeCategory": "Beverage",
+      "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
       "prepTime": "PT5M",
       "cookTime": "PT0M",
       "totalTime": "PT5M",
-      "recipeYield": "Serves 14 people",
+      "recipeYield": "1 cup",
       "recipeIngredient": [
-        "3 L lemon-lime carbonated beverage",
-        "1 can frozen orange juice concentrate",
-        "1 can frozen lemonade concentrate",
-        "1 qt raspberry sherbet"
+        "8 oz package cream cheese",
+        "2 tsp frozen orange juice concentrate",
+        "½ cup marshmallow creme",
+        "1 tsp grated orange rind"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine the liquid drinks in a punch bowl."
+          "text": "Combine all ingredients in a dish and beat until smooth and well blended."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in the raspberry sherbet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve chilled and enjoy."
+          "text": "Serve immediately with fresh cut-up fruit."
         }
       ],
-      "keywords": "party punch, fruity drink, sherbet punch",
+      "keywords": "fruit dip, orange cream cheese, marshmallow dip",
       "_naturalized_times": {
         "prepTime": "5 minutes",
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "id": 54,
+      "id": 24,
       "similarity": "0.29"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Jo-Ann's Homemade Iced Tea",
+      "name": "Orange Jello Salad",
       "author": {
         "@type": "Person",
-        "name": "Suzanne Finkbeiner"
+        "name": "Betty Macisaac"
       },
-      "description": "A refreshing homemade iced tea recipe sweetened with sugar and mixed with frozen lemonade for a tangy twist.",
-      "recipeCategory": "Beverage",
+      "description": "A simple orange Jello salad with mandarin oranges and Dream Whip.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 large container",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 serving",
       "recipeIngredient": [
-        "1 brewed pot of tea (made with 4 tea bags)",
-        "1 cup sugar",
-        "1 container frozen lemonade",
-        "Water",
-        "Ice cubes"
+        "1½ cups hot water",
+        "1 small package orange Jello",
+        "1 small package Dream Whip (not pudding or instant vanilla)",
+        "1 can mandarin oranges"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine brewed tea, sugar, and frozen lemonade in a large container."
+          "text": "Put the first 3 ingredients into a saucepan and cook until clear."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cold water to taste."
+          "text": "Cool the mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve with ice cubes."
+          "text": "Mix Dream Whip according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain oranges and add Dream Whip and oranges to the cooled mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Allow to cool completely before serving."
         }
       ],
-      "keywords": "homemade iced tea, sweet tea, lemonade-infused tea, refreshing drink",
+      "keywords": "orange Jello salad, mandarin oranges, Dream Whip",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
       },
-      "id": 42,
-      "similarity": "0.20"
+      "id": 75,
+      "similarity": "0.29"
     }
   ]
 }

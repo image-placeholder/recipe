@@ -52,6 +52,80 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Beef and Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kurtis Brand"
+      },
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
+      "recipeIngredient": [
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Sauté celery and onion in butter until soft and tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place rice in a greased 1½ quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the rice with the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "beef casserole, rice casserole, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 168,
+      "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Richard's Sunday Soup",
       "author": {
         "@type": "Person",
@@ -235,128 +309,64 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheese & Broccoli Soup",
+      "name": "Chili Con Carne",
       "author": {
         "@type": "Person",
-        "name": "Jeff Slaght"
+        "name": "Shannon Wuerth"
       },
-      "description": "A creamy broccoli and cheese soup with a smooth texture.",
-      "recipeCategory": "Soup",
+      "description": "A hearty and versatile chili recipe featuring ground beef, kidney beans, and a variety of vegetables, ideal for customization.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT20M",
-      "totalTime": "PT30M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 servings, 9 cups (2.25 L)",
       "recipeIngredient": [
-        "½ tsp pepper",
-        "2 Tbsp butter",
-        "Salt to taste",
-        "1 chopped onion",
-        "1½ cups milk",
-        "2 Tbsp all-purpose flour",
-        "½ cup grated cheese",
-        "½ cup chicken broth",
-        "3 cups cooked broccoli (fresh or partially aged)"
+        "1 lb lean ground beef",
+        "1 can (28 oz) tomatoes",
+        "1 cup chopped onion",
+        "1 can (7.5 oz) tomato sauce",
+        "1 clove garlic, crushed",
+        "1 can (19 oz) kidney beans, drained",
+        "3 cups finely shredded cabbage",
+        "1 Tbsp chili powder",
+        "2 cups thinly sliced celery",
+        "1 tsp dried oregano",
+        "1/2 cup chopped green pepper",
+        "1/2 tsp salt",
+        "1/4 tsp hot pepper sauce",
+        "Optional: additional vegetables like zucchini, carrots, mushrooms"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
+          "text": "In a large nonstick skillet, cook ground beef over medium-high heat until browned and crumbly; drain off excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+          "text": "Add onion and garlic to the skillet and cook for 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add flour mixture and cook for 3 minutes."
+          "text": "Add cabbage, celery, green pepper, tomatoes with juice, tomato sauce, kidney beans, chili powder, oregano, salt, and hot pepper sauce to the skillet."
         },
         {
           "@type": "HowToStep",
-          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+          "text": "Optionally add other desired vegetables (e.g., zucchini, carrots, mushrooms) at this stage."
         },
         {
           "@type": "HowToStep",
-          "text": "Puree the mixture until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat with milk, cheese, and seasonings."
+          "text": "Cover and simmer over medium heat for 45 minutes, or until vegetables are tender, stirring occasionally."
         }
       ],
-      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "keywords": "chili con carne, ground beef chili, customizable chili",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "30 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "id": 105,
-      "similarity": "0.36"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Tomato Macaroni Soup",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Linda Finkbeiner"
-        },
-        {
-          "@type": "Person",
-          "name": "Shirley Preszcator"
-        }
-      ],
-      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 Tbsp oil",
-        "1½ cups water",
-        "1 cooking onion, diced",
-        "1 cup dry macaroni",
-        "2 carrots, diced",
-        "½ tsp garlic salt",
-        "3 or 4 celery stalks, diced",
-        "½ tsp Worcestershire sauce",
-        "2 cups chicken stock",
-        "2 cups tomato juice",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute onion, celery, and carrot in oil until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, juice, and water. Bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add pasta and cook until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic salt and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season to taste with salt and pepper."
-        }
-      ],
-      "keywords": "tomato macaroni soup, comfort food, pasta soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "id": 123,
-      "similarity": "0.36"
+      "id": 165,
+      "similarity": "0.37"
     }
   ]
 }

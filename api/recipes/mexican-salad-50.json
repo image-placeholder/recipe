@@ -57,6 +57,126 @@
       "name": "Taco Salad",
       "author": {
         "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "A hearty taco salad with seasoned ground beef, crunchy taco chips, and cheddar cheese, all tossed in Catalina dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 lb ground beef (hamburg)",
+        "1 package taco seasoning mix",
+        "1 (250 g) bag crushed taco chips",
+        "1 cup shredded cheddar cheese",
+        "1 head lettuce, chopped",
+        "1 chopped tomato",
+        "Catalina dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate the cooked beef until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully add in chopped tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
+        }
+      ],
+      "keywords": "taco salad, ground beef, taco chips, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 89,
+      "similarity": "0.43"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Meghan Brand"
+      },
+      "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 large glass pan",
+      "recipeIngredient": [
+        "8 oz pkg cream cheese",
+        "500 g tub sour cream",
+        "¼ pkg taco seasoning mix",
+        "1 cup shredded cheddar cheese",
+        "1 small container salsa sauce",
+        "1 chopped red pepper",
+        "1 chopped green pepper",
+        "1 chopped tomato",
+        "Baked nacho chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the mixture in a large glass pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread salsa sauce over the cream cheese layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the salsa layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped red pepper, green pepper, and tomato on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with baked nacho chips."
+        }
+      ],
+      "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "id": 29,
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Salad",
+      "author": {
+        "@type": "Person",
         "name": "Lori Allen"
       },
       "description": "A hearty taco salad with seasoned ground beef, mixed greens, and crunchy corn chips.",
@@ -110,60 +230,118 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Black Bean Salad",
+      "name": "Taco Salad",
       "author": {
         "@type": "Person",
-        "name": "Julie-Ann Bibby"
+        "name": "Deb Hodge"
       },
-      "description": "A fresh and vibrant salad featuring black beans, salsa, and corn kernels on a bed of romaine lettuce.",
+      "description": "A hearty taco salad with seasoned ground beef, lettuce, cheese, and crushed taco chips, mixed with Catalina dressing.",
       "recipeCategory": "Salad",
-      "recipeCuisine": "Mexican-American",
+      "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 ripened tomato, chopped",
-        "2 cups shredded romaine lettuce",
-        "1/2 cup of your favorite salsa",
-        "1 cup fresh corn kernels",
-        "2 sliced scallions",
-        "1 can black beans (15 oz)"
+        "1 lb ground beef (hamburg)",
+        "1 pkg taco seasoning mix",
+        "1 head lettuce, chopped",
+        "1 cup shredded cheddar cheese",
+        "1 (250 g) bag cheese taco chips, crushed",
+        "1 chopped tomato",
+        "Catalina dressing"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine chopped tomato, salsa, and scallions in a bowl."
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in the black beans."
+          "text": "Refrigerate the cooked beef until ready to use."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread shredded romaine lettuce in a serving dish."
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Top the lettuce with the bean and salsa mixture."
+          "text": "Mix in Catalina dressing until well coated."
         },
         {
           "@type": "HowToStep",
-          "text": "Microwave the corn kernels on high for 30 seconds."
+          "text": "Carefully add in the chopped tomato."
         },
         {
           "@type": "HowToStep",
-          "text": "Distribute the warmed corn over the salad and serve."
+          "text": "Serve immediately."
         }
       ],
-      "keywords": "black bean salad, Mexican salad, fresh corn",
+      "keywords": "taco salad, ground beef, taco chips, Catalina dressing",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
       },
-      "id": 48,
-      "similarity": "0.37"
+      "id": 92,
+      "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Fudge",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A warm, cheesy baked appetizer served on Triscuits.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "1 9×11 in pan",
+      "recipeIngredient": [
+        "2 cups shredded cheddar cheese",
+        "3 eggs, lightly beaten",
+        "½ cup taco or salsa sauce",
+        "2 cups shredded mozzarella cheese",
+        "Triscuits for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease a 9×11 in pan and spread the cheddar cheese evenly on the bottom."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lightly beat the eggs and mix with taco or salsa sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the egg mixture over the cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut into squares while warm and serve on Triscuits."
+        }
+      ],
+      "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 12,
+      "similarity": "0.40"
     }
   ]
 }

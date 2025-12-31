@@ -47,6 +47,105 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "Tangy pickled eggs made with vinegar, mustard, and spices, perfect for snacking or as a side dish.",
+      "recipeCategory": "Snack",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT5M",
+      "totalTime": "5 days",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "12 hard-boiled eggs",
+        "2 cups white vinegar",
+        "1 cup water",
+        "1 tsp dry mustard",
+        "1 tsp salt",
+        "½ tsp pepper",
+        "1 onion, cut into pieces",
+        "Pinch of sugar (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the vinegar, water, mustard, salt, pepper, and onion pieces in a saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the mixture to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot pickling liquid over the hard-boiled eggs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the eggs stand in the pickling liquid for 5 days before serving."
+        }
+      ],
+      "keywords": "pickled eggs, tangy snack, preserved eggs",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": null
+      },
+      "id": 35,
+      "similarity": "0.50"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hot Potato Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "Serves 4-6",
+      "recipeIngredient": [
+        "3 to 4 cups sliced potatoes",
+        "⅓ cup white vinegar",
+        "1 Tbsp flour",
+        "¾ cup water",
+        "1 Tbsp butter",
+        "Salt and pepper to taste",
+        "Pinch of sugar"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, combine the white vinegar, flour, and water. Heat, stirring constantly, until the mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the butter, salt, pepper, and sugar to the vinegar mixture. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot dressing over the sliced potatoes."
+        }
+      ],
+      "keywords": "hot potato salad, vinegar dressing, warm salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "id": 86,
+      "similarity": "0.49"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Caesar Dressin' Salad",
       "author": {
         "@type": "Person",
@@ -89,6 +188,115 @@
       },
       "id": 101,
       "similarity": "0.49"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Freezer Cole Slaw",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A freezer coleslaw recipe with a sweet and tangy dressing, made with grated cabbage and optional vegetables.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 large cabbage, grated or chopped",
+        "1 large carrot, grated (optional)",
+        "1 onion, grated (optional)",
+        "1 cup white sugar",
+        "1 cup white vinegar",
+        "1 Tbsp salt",
+        "1 Tbsp celery seed",
+        "1 tsp mustard (optional)",
+        "¼ cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat together vinegar, sugar, salt, water, celery seed, and mustard to make the syrup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Grate or chop cabbage and other vegetables in a food processor."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the cabbage mixture with the syrup and refrigerate overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place in a container, seal, and freeze."
+        }
+      ],
+      "keywords": "freezer coleslaw, slaw, salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 58,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sauerkraut Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the dressing cool to room temperature."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the cooled dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+        }
+      ],
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 82,
+      "similarity": "0.38"
     }
   ]
 }

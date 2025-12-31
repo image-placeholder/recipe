@@ -257,65 +257,67 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Artichoke Appetizer",
+      "name": "BBQ Salmon OR Trout",
       "author": {
         "@type": "Person",
-        "name": "Loma Finkbeiner"
+        "name": "Bruce Hodge"
       },
-      "description": "A warm, cheesy artichoke appetizer perfect for serving with bread or crackers.",
-      "recipeCategory": "Appetizer",
+      "description": "Salmon or trout fillets marinated in onion soup mix and Clamato juice, grilled to perfection in foil.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT10M",
       "cookTime": "PT25M",
       "totalTime": "PT35M",
-      "recipeYield": "1 casserole",
       "recipeIngredient": [
-        "1 (14 oz) can artichoke hearts",
-        "Dash garlic salt",
-        "1 cup grated Parmesan cheese",
-        "2 Tbsp chopped green onion",
-        "1 cup shredded mozzarella cheese",
-        "1 Tbsp chopped parsley",
-        "1 cup Hellmann's mayonnaise"
+        "2 large fillets of salmon or trout",
+        "1 envelope onion soup mix",
+        "2 tsp butter",
+        "1 fresh lemon",
+        "Citrus and pepper seasoning (e.g., Club House brand)",
+        "½ cup Mott's Clamato juice",
+        "Aluminum foil"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Drain artichoke hearts."
+          "text": "Rinse and clean the fillets. Place skin side down on aluminum foil."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine artichoke hearts with cheese, mayonnaise, garlic salt, and green onion in a casserole dish."
+          "text": "Sprinkle the contents of the onion soup mix evenly over the fillets."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle parsley over the top."
+          "text": "Add butter on top of the fillets."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 25 to 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT25M"
+          "text": "Squeeze the juice of ½ lemon over the fillets and slice the remaining ½ for garnish."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve with bread or crackers."
+          "text": "Add citrus and pepper seasoning to taste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour Clamato juice over the fillets."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the foil over the fillets, sealing the seams tightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook on a barbecue on medium-high heat on the bottom rack for 25 to 30 minutes or until the fish flakes easily with a fork."
         }
       ],
-      "keywords": "artichoke appetizer, cheesy dip, party snack",
+      "keywords": "BBQ salmon, BBQ trout, grilled fish, Clamato juice marinade",
       "_naturalized_times": {
         "prepTime": "10 minutes",
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "id": 1,
+      "id": 255,
       "similarity": "0.31"
     }
   ]

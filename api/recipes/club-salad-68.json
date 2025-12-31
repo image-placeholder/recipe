@@ -44,6 +44,60 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "id": 50,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Bacon Broccoli Salad",
       "author": [
         {
@@ -184,6 +238,67 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour mixture and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree the mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 105,
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Chicken Grape Salad",
       "author": {
         "@type": "Person",
@@ -231,138 +346,6 @@
         "totalTime": "10 minutes"
       },
       "id": 65,
-      "similarity": "0.30"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Marinated Vegetable Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A colorful salad of marinated vegetables including cauliflower, broccoli, carrots, and radishes, dressed with Italian dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT0M",
-      "totalTime": "PT30M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 medium cauliflower",
-        "1 bunch broccoli",
-        "3 celery stalks",
-        "1/2 English cucumber",
-        "1/2 bunch radishes",
-        "Baby carrots",
-        "Cherry tomatoes",
-        "1 bottle Italian dressing"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Wash and clean all the vegetables, then drain well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Break cauliflower and broccoli into bite-sized pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Trim radishes and carrots; leave whole or cut into bite-sized pieces if large."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cut celery into 3-inch pieces and slice cucumber into 1/2-inch slices."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Leave cherry tomatoes whole and place all vegetables in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour Italian dressing over the vegetables and let set for a few hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve as finger food or as a salad."
-        }
-      ],
-      "keywords": "marinated vegetables, vegetable salad, Italian dressing",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "",
-        "totalTime": "30 minutes"
-      },
-      "id": 94,
-      "similarity": "0.30"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Marinated Vegetable Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A colorful and versatile marinated vegetable salad perfect for serving as finger food or a side dish.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT0M",
-      "totalTime": "PT20M",
-      "recipeYield": "Variable",
-      "recipeIngredient": [
-        "1 medium cauliflower",
-        "3 celery stalks",
-        "1/2 English cucumber",
-        "1 bunch broccoli",
-        "1/2 bunch radishes",
-        "Cherry tomatoes",
-        "1 small bag baby carrots",
-        "1 bottle Italian dressing"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Wash and clean all the vegetables, then drain well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Break cauliflower and broccoli into bite-sized pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Trim radishes and carrots; leave whole unless large, then cut into bite-sized pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cut celery into 3-inch pieces and slice cucumber into 1/2-inch slices."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Leave cherry tomatoes whole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place all prepared vegetables in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour Italian dressing over the vegetables and let set for a few hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve as finger food or as a salad."
-        }
-      ],
-      "keywords": "marinated vegetables, vegetable salad, Italian dressing",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "",
-        "totalTime": "20 minutes"
-      },
-      "id": 91,
       "similarity": "0.30"
     }
   ]

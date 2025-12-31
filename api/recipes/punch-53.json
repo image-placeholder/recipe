@@ -223,58 +223,47 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Wassail",
+      "name": "Wilmar Wein Punch",
       "author": {
         "@type": "Person",
-        "name": "Bonnie McNutt"
+        "name": "Wilmar Wein"
       },
-      "description": "A warm and spicy apple cider drink perfect for the holiday season, flavored with lemon, cinnamon, and pineapple juice.",
-      "recipeCategory": "Beverage",
-      "recipeCuisine": "American",
+      "description": "A sophisticated punch made with gin, grenadine, cherry brandy, and sweetened orange and grapefruit juice.",
+      "recipeCategory": "Cocktail",
+      "recipeCuisine": "Adult Beverage",
       "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "6 servings",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
       "recipeIngredient": [
-        "6 cups apple cider or juice",
-        "1 tsp grated lemon peel",
-        "1 cinnamon stick",
-        "¼ tsp nutmeg",
-        "2¼ cups unsweetened pineapple juice",
-        "3 Tbsp lemon juice",
-        "¼ cup honey",
-        "Cinnamon sticks for garnish"
+        "1 (26 oz) orange and grapefruit juice",
+        "4 oz grenadine",
+        "4 oz cherry brandy",
+        "Gin (optional)",
+        "Slices of lemon and orange",
+        "Plenty of ice cubes"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a large saucepan, heat the apple cider and cinnamon stick to boiling."
+          "text": "Combine the juice, grenadine, and cherry brandy in a large pitcher."
         },
         {
           "@type": "HowToStep",
-          "text": "Reduce heat, cover, and simmer for 5 minutes."
+          "text": "Add gin if desired for an adult version."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in nutmeg, honey, lemon juice, lemon peel, and pineapple juice."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer, uncovered, for an additional 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot in mugs and garnish with cinnamon sticks."
+          "text": "Serve chilled with slices of lemon and orange, and plenty of ice."
         }
       ],
-      "keywords": "wassail, apple cider drink, holiday beverage, spiced drink",
+      "keywords": "adult punch, cocktail party, sophisticated drink",
       "_naturalized_times": {
         "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
+        "cookTime": "",
+        "totalTime": "10 minutes"
       },
-      "id": 52,
-      "similarity": "0.24"
+      "id": 55,
+      "similarity": "0.34"
     }
   ]
 }

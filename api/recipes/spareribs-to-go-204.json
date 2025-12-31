@@ -159,6 +159,80 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 235,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Saucy Sausages",
       "author": {
         "@type": "Person",
@@ -215,113 +289,64 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sweet & Sour Pineapple Chicken",
+      "name": "Dad's Spaghetti",
       "author": {
         "@type": "Person",
-        "name": "Heather Clarke"
+        "name": "Linda Nakamura"
       },
-      "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
-      "recipeCategory": "Main Course",
+      "description": "A comforting spaghetti dish with bacon, mushrooms, and a creamy mushroom soup sauce.",
+      "recipeCategory": "Pasta",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
-        "½ cup vinegar",
-        "2 Tbsp light brown sugar",
-        "½ tsp salt",
-        "¼ to ½ cup ketchup",
-        "¼ cup water",
-        "4 chicken breasts",
-        "1 Tbsp cornstarch"
+        "1 can mushroom soup",
+        "1½ cups sliced mushrooms",
+        "½ to 1 lb bacon, chopped",
+        "1 small onion, chopped",
+        "1 to 2 tsp garlic salt or 1 to 2 minced garlic cloves",
+        "3 to 4 Tbsp mozzarella cheese",
+        "1 lb spaghetti"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
+          "text": "Cook spaghetti, drain, and set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
+          "text": "Brown bacon in a frying pan with garlic salt or minced garlic."
         },
         {
           "@type": "HowToStep",
-          "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
+          "text": "Remove bacon and most of the grease from the pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
+          "text": "Cook onion and mushrooms in the same pan until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return bacon to the pan and add mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir and heat the sauce through, adding cheese and enough water to achieve the desired consistency."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the sauce with cooked spaghetti and serve."
         }
       ],
-      "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
+      "keywords": "spaghetti, bacon, mushroom sauce, creamy pasta",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
       },
-      "id": 222,
-      "similarity": "0.31"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Delicious Meat Loaf",
-      "author": {
-        "@type": "Person",
-        "name": "Suzanne Finkbeiner"
-      },
-      "description": "A classic meatloaf with a cheddar cheese and carrot mixture, topped with a sweet ketchup-mustard glaze.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H50M",
-      "recipeYield": "1 meatloaf",
-      "recipeIngredient": [
-        "1½ lb lean ground beef",
-        "2 eggs",
-        "⅔ cup milk",
-        "1 tsp salt",
-        "¼ tsp pepper",
-        "1 cup shredded cheddar cheese",
-        "¼ cup brown sugar",
-        "3 slices fresh bread, crumbled",
-        "¼ cup ketchup",
-        "1 onion, chopped",
-        "4 Tbsp prepared mustard",
-        "½ cup shredded raw carrot"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Beat eggs in a bowl with a fork, then add milk, salt, pepper, and crumbled bread. Beat until the bread disintegrates."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chopped onion, shredded carrot, cheddar cheese, and ground beef to the bowl. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pack the mixture into a loaf pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine brown sugar, ketchup, and prepared mustard in a small bowl. Spread this glaze over the meatloaf."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for approximately 1½ hours."
-        }
-      ],
-      "keywords": "meatloaf, cheddar cheese, ketchup glaze, classic American",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 50 minutes"
-      },
-      "id": 156,
+      "id": 181,
       "similarity": "0.31"
     }
   ]

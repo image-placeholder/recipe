@@ -56,52 +56,304 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pepper Chicken Fettucini",
+      "name": "Pasta & Bean Soup",
       "author": {
         "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
+        "name": "Marie Fydenchuk"
       },
-      "description": "A colorful and flavorful chicken fettucini dish with sweet peppers, mushrooms, and Parmesan cheese.",
-      "recipeCategory": "Main Course",
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "Italian",
       "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
       "recipeIngredient": [
-        "1/4 cup olive oil",
-        "1 medium onion, cut into chunks",
-        "3 breasts chicken, cut in strips",
-        "2 sweet red peppers, cut in strips",
-        "1 yellow pepper, cut in strips",
-        "1 green pepper, cut in strips",
-        "2 cups sliced mushrooms",
-        "Fettucini noodles",
-        "1 tsp Italian herb seasoning",
-        "2 Tbsp grated Parmesan"
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat oil in a pan. Add chicken, peppers, onion, mushrooms, and seasoning. Stir-fry over medium heat until chicken is cooked through."
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add hot cooked fettucini noodles and toss."
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle with Parmesan and toss. Serve hot."
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
         }
       ],
-      "keywords": "chicken fettucini, pepper chicken, Italian-inspired",
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
+      },
+      "id": 111,
+      "similarity": "0.26"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Van Valkengoed"
+      },
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta according to package instructions, then drain and cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the feta cheese into the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+        }
+      ],
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "id": 236,
-      "similarity": "0.16"
+      "id": 85,
+      "similarity": "0.24"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Ann Haist"
+      },
+      "description": "A hearty pizza-inspired casserole with pasta, pepperoni, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeIngredient": [
+        "2 tsp margarine",
+        "2 cups tiny shell pasta",
+        "1 medium onion, chopped",
+        "2 1/2 qt boiling water",
+        "1 Tbsp oil",
+        "2 tsp salt",
+        "2 (7 1/2 oz) cans tomato sauce",
+        "10 oz can mushrooms, drained",
+        "3 Tbsp Parmesan cheese",
+        "1 tsp oregano",
+        "1 tsp basil",
+        "1 1/2 cups pepperoni slices",
+        "3 cups mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine and sauté chopped onion until soft."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomato sauce, mushrooms, oregano, and basil. Stir and remove from heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta in boiling water with oil and salt for 8 to 10 minutes until tender but firm. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked pasta with Parmesan cheese and 1 cup mozzarella cheese in a 3-quart casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scatter pepperoni slices over the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the tomato-onion sauce and sprinkle with remaining mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, in a 350°F oven for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 171,
+      "similarity": "0.23"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese English Muffins",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "Toasted English muffin quarters topped with a rich cheese and bacon mixture.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "½ lb sharp yellow cheese, grated",
+        "½ cup mayonnaise",
+        "2 Tbsp Worcestershire sauce",
+        "Crumbled fried bacon",
+        "1 small onion, finely chopped",
+        "English muffins"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix grated cheese, mayonnaise, Worcestershire sauce, crumbled bacon, and chopped onion together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice English muffins into quarters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cheese mixture onto the English muffin quarters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 400°F for 10 minutes."
+        }
+      ],
+      "keywords": "cheese English muffins, appetizer, snack",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 38,
+      "similarity": "0.22"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lasagna",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x13 inch pan",
+      "recipeIngredient": [
+        "1 (15 oz) container cottage cheese",
+        "1 (16 oz) box lasagna noodles",
+        "1½ cups water",
+        "2 (15 oz) jars spaghetti sauce",
+        "8 oz mozzarella cheese, thinly sliced",
+        "½ cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cottage cheese and Parmesan cheese in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread 1½ cups of spaghetti sauce in the bottom of a 13x9x2 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange a layer of uncooked lasagna noodles on top of the sauce, overlapping slightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle half of the mozzarella cheese and half of the cottage cheese mixture over the noodles."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Repeat with another layer of sauce, noodles, and the remaining cheeses."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the top with sauce and cover tightly with heavy foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Set on a jelly roll pan and bake."
+        }
+      ],
+      "keywords": "lasagna, Italian-American, pasta bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 192,
+      "similarity": "0.21"
     }
   ]
 }

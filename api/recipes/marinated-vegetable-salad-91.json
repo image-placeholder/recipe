@@ -267,61 +267,54 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Taco Salad",
+      "name": "Veggie Basic Soup",
       "author": {
         "@type": "Person",
-        "name": "Deb Hodge"
+        "name": "Julie-Ann Bibby"
       },
-      "description": "A hearty taco salad with seasoned ground beef, lettuce, cheese, and crushed taco chips, mixed with Catalina dressing.",
-      "recipeCategory": "Salad",
+      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 lb ground beef (hamburg)",
-        "1 pkg taco seasoning mix",
-        "1 head lettuce, chopped",
-        "1 cup shredded cheddar cheese",
-        "1 (250 g) bag cheese taco chips, crushed",
-        "1 chopped tomato",
-        "Catalina dressing"
+        "1/2 tsp ground pepper",
+        "3 Tbsp butter",
+        "1 Tbsp dried parsley",
+        "1 diced onion",
+        "3 Tbsp soya sauce",
+        "2 large diced carrots",
+        "1 Tbsp Worcestershire sauce",
+        "3 stalks diced celery",
+        "1 tsp paprika",
+        "1 can whole diced tomatoes",
+        "2 qt beef broth",
+        "1 Tbsp salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
         },
         {
           "@type": "HowToStep",
-          "text": "Refrigerate the cooked beef until ready to use."
+          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix in Catalina dressing until well coated."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Carefully add in the chopped tomato."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately."
+          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
         }
       ],
-      "keywords": "taco salad, ground beef, taco chips, Catalina dressing",
+      "keywords": "vegetable soup, beef broth, savory soup",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "id": 92,
-      "similarity": "0.27"
+      "id": 120,
+      "similarity": "0.30"
     }
   ]
 }

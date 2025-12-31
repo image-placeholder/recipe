@@ -77,6 +77,69 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Mozzarella Spaghetti Skillet",
+      "author": {
+        "@type": "Person",
+        "name": "Yvonne Lotz"
+      },
+      "description": "A one-pot spaghetti dish cooked with hamburger, tomatoes, and mozzarella cheese.",
+      "recipeCategory": "Pasta",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 lb hamburger",
+        "½ cup chopped onion",
+        "½ cup chopped green pepper",
+        "3 splashes Worcestershire sauce",
+        "1 tsp salt",
+        "½ tsp oregano",
+        "½ tsp black pepper",
+        "½ can water",
+        "1 (796 mL) can tomatoes",
+        "1½ cups shredded mozzarella cheese",
+        "Broken spaghetti to feed your family"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In an electric skillet, brown the hamburger, onion, and green peppers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season with Worcestershire sauce, salt, black pepper, and oregano."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomatoes, water, and broken spaghetti to the skillet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bring to a boil, stirring frequently to prevent the spaghetti from sticking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until the pasta is cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shortly before serving, add shredded mozzarella cheese and continue heating until melted."
+        }
+      ],
+      "keywords": "spaghetti skillet, one-pot pasta, mozzarella cheese",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 182,
+      "similarity": "0.51"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Garfield's Lasagna",
       "author": {
         "@type": "Person",
@@ -145,251 +208,215 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
+      "name": "Taco Twist Bake",
       "author": {
         "@type": "Person",
-        "name": "Margaret Beaver"
+        "name": "Cheryl MacLeod"
       },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
+      "recipeCuisine": "Mexican-American",
       "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, chopped",
+        "1 can (284 mL) mushrooms, chopped",
+        "1 envelope taco seasoning mix",
+        "¾ cup water",
+        "1 can (680 mL) spaghetti sauce",
+        "¼ cup salsa (optional)",
+        "1 green pepper, chopped (optional)",
+        "2 cups spiral pasta",
+        "1 cup sour cream",
+        "1½ cups shredded cheddar cheese",
         "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
+          "text": "Preheat oven to 350°F and start water to cook for pasta."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
+          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
+          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the spiral pasta, then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine pasta with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
         }
       ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
       },
-      "id": 187,
-      "similarity": "0.38"
+      "id": 184,
+      "similarity": "0.43"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pizza",
+      "name": "Spaghetti Casserole",
       "author": {
         "@type": "Person",
-        "name": "Alan Dick"
+        "name": "Janet Dearing"
       },
-      "description": "A homemade pizza recipe with a yeast-based crust, topped with spaghetti sauce, various meats, and mozzarella cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT1H",
-      "cookTime": "PT20M",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 pizza",
-      "recipeIngredient": [
-        "1 to 2 Tbsp yeast",
-        "1 tsp sugar",
-        "3½ cups flour",
-        "½ tsp salt",
-        "¾ cup vegetable oil",
-        "1¼ cups warm water",
-        "1¾ cups spaghetti sauce",
-        "Sliced pepperoni",
-        "Salami",
-        "Mushrooms",
-        "Bacon",
-        "Ground beef",
-        "Pineapple",
-        "Mozzarella cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Dissolve yeast in warm water with sugar. Let stand in a warm place for 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Measure flour and salt into a large bowl. Make a well and pour in the yeast mixture. Stir and add oil gradually, working the dough until thoroughly mixed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Knead the dough, form into a ball, and let stand in a warm place for approximately 45 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 400°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll out the dough on a floured pastry board to an even thickness. Transfer to a pizza pan or cookie sheet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with spaghetti sauce, meats, mushrooms, and other toppings. Finish with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for approximately 20 minutes or until the crust is golden brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for 3 to 5 minutes before cutting and serving."
-        }
-      ],
-      "keywords": "homemade pizza, Italian-American, yeast crust",
-      "_naturalized_times": {
-        "prepTime": "1 hour",
-        "cookTime": "20 minutes",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "id": 190,
-      "similarity": "0.34"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Parmesan Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Lorraine Bowers"
-      },
-      "description": "A crispy Parmesan-crusted chicken dish baked with spaghetti sauce and mozzarella cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H10M",
-      "recipeIngredient": [
-        "Boneless chicken breasts",
-        "1/3 cup Parmesan cheese",
-        "1 1/3 cups dry bread crumbs",
-        "3 beaten eggs",
-        "1 tsp salt",
-        "1/4 tsp pepper",
-        "Spaghetti sauce",
-        "Grated mozzarella cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix Parmesan cheese with bread crumbs and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix eggs, salt, and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Dip boneless chicken breasts in egg mixture, then coat with bread crumb mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange coated chicken breasts in a baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with tinfoil and bake at 350°F for 45 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour spaghetti sauce over the chicken and continue baking."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Before serving, sprinkle grated mozzarella cheese on top and bake for an additional 10 minutes until browned."
-        }
-      ],
-      "keywords": "Parmesan chicken, breaded chicken, Italian-American cuisine",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "id": 239,
-      "similarity": "0.32"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Zippy Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Kate Cunningham"
-      },
-      "description": "A flavorful and spicy spaghetti sauce with sausage, hamburger, and taco seasoning.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
+      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT30M",
       "totalTime": "PT50M",
-      "recipeYield": "Several servings",
+      "recipeYield": "1 quart casserole",
       "recipeIngredient": [
-        "1 lb lean ground hamburger",
-        "2 jumbo summer sausage slices",
-        "1/2 onion, chopped",
-        "1 tsp garlic",
-        "1 tsp oregano flakes",
-        "1 tsp salt",
-        "1/4 tsp pepper",
-        "1 envelope regular taco seasoning (El Paso)",
-        "1 jar Ragu spaghetti sauce (700 mL)",
-        "1 can sliced mushrooms, drained"
+        "½ lb spaghetti",
+        "½ lb ground beef",
+        "1 can (19 oz) diced tomatoes",
+        "½ cup chopped onion",
+        "1 can (10 oz) condensed cream of mushroom soup",
+        "1½ tsp salt",
+        "¼ tsp pepper",
+        "1 cup grated medium cheddar cheese",
+        "½ tsp garlic",
+        "1 can (10 oz) mushroom pieces, drained"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the hamburger and chopped onion."
+          "text": "Brown the ground beef and onion in a frying pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic, oregano, salt, pepper, and taco seasoning."
+          "text": "Cook spaghetti according to package directions."
         },
         {
           "@type": "HowToStep",
-          "text": "Chop the summer sausage into 1/4 inch pieces and add to the mixture."
+          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the Ragu spaghetti sauce and drained mushrooms."
+          "text": "Pour canned tomatoes over the spaghetti layer."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer for 10 minutes."
+          "text": "Spoon the browned meat mixture over the tomatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with cream of mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
         }
       ],
-      "keywords": "spaghetti sauce, zippy sauce, sausage, taco seasoning",
+      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 188,
-      "similarity": "0.32"
+      "id": 178,
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Dad's Spaghetti",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Nakamura"
+      },
+      "description": "A comforting spaghetti dish with bacon, mushrooms, and a creamy mushroom soup sauce.",
+      "recipeCategory": "Pasta",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 can mushroom soup",
+        "1½ cups sliced mushrooms",
+        "½ to 1 lb bacon, chopped",
+        "1 small onion, chopped",
+        "1 to 2 tsp garlic salt or 1 to 2 minced garlic cloves",
+        "3 to 4 Tbsp mozzarella cheese",
+        "1 lb spaghetti"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti, drain, and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown bacon in a frying pan with garlic salt or minced garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bacon and most of the grease from the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onion and mushrooms in the same pan until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return bacon to the pan and add mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir and heat the sauce through, adding cheese and enough water to achieve the desired consistency."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the sauce with cooked spaghetti and serve."
+        }
+      ],
+      "keywords": "spaghetti, bacon, mushroom sauce, creamy pasta",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 181,
+      "similarity": "0.39"
     }
   ]
 }

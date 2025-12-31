@@ -68,6 +68,52 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Caesar Dressin' Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Towton"
+      },
+      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "½ tsp Worcestershire sauce",
+        "3 garlic cloves",
+        "½ tsp dry mustard",
+        "2 beaten egg yolks",
+        "½ tsp salt",
+        "½ cup lemon juice",
+        "Dash pepper",
+        "1 cup oil",
+        "¼ cup white sugar",
+        "1 cup Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Can be kept in the fridge for up to 2 weeks."
+        }
+      ],
+      "keywords": "Caesar dressing, homemade salad dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "id": 101,
+      "similarity": "0.57"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Romaine Salad with Orange",
       "author": {
         "@type": "Person",
@@ -193,165 +239,106 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Broccoli Supreme",
+      "name": "Greek Salad",
       "author": {
         "@type": "Person",
-        "name": "Louise Wein"
+        "name": "Barbara Robertson"
       },
-      "description": "A chilled broccoli salad with raisins, bacon, and a creamy cheese dressing.",
+      "description": "A refreshing Greek salad with marinated tomatoes, mixed greens, feta cheese, and a homemade dressing.",
       "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT3H25M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "6 cups fresh broccoli",
-        "2 Tbsp vinegar",
-        "2 Tbsp vegetable oil",
-        "1/3 cup raisins",
-        "2 tsp white sugar",
-        "2 Tbsp chopped onion",
-        "1 Tbsp prepared mustard",
-        "6 or 8 slices bacon, cooled and crumbled",
-        "1/4 tsp salt",
-        "1/8 tsp garlic powder",
-        "1 small pkg cream cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Beat dressing ingredients until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add dressing to broccoli, raisins, and onion. Cover and chill at least 3 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with bacon and serve."
-        }
-      ],
-      "keywords": "broccoli salad, bacon, creamy dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "3 hours 25 minutes"
-      },
-      "id": 60,
-      "similarity": "0.38"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Strawberry Tossed Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Donelda Lewis"
-      },
-      "description": "A fresh and fruity salad with mixed greens, strawberries, and a sweet vinaigrette.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeYield": "4-6 servings",
-      "recipeIngredient": [
-        "4 cups torn Bibb or Boston lettuce",
-        "8 cups torn romaine lettuce",
-        "2½ cups sliced fresh strawberries",
-        "1 cup (4 oz) shredded Monterey Jack cheese",
-        "½ cup slivered almonds, toasted or coated with sugar",
-        "½ cup vegetable oil",
-        "⅓ cup white sugar",
-        "¼ cup cider or red wine vinegar",
-        "1 garlic clove, minced",
-        "¼ tsp salt",
-        "¼ tsp paprika",
-        "Pinch white pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine the first 7 ingredients (oil, sugar, vinegar, garlic, salt, paprika, and white pepper) in a jar with a tight-fitting lid and shake well to make the dressing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Just before serving, toss salad greens, strawberries, cheese, and almonds in a large salad bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drizzle with the prepared dressing and toss to coat."
-        }
-      ],
-      "keywords": "strawberry salad, fruit salad, sweet salad dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
-      },
-      "id": 96,
-      "similarity": "0.37"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mandarin Orange Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A classic spinach and lettuce salad with mandarin oranges and toasted almonds, dressed with a sweet and tangy homemade vinaigrette.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Greek",
       "prepTime": "PT20M",
       "cookTime": "PT0M",
-      "totalTime": "PT20M",
-      "recipeYield": "4-6 servings",
+      "totalTime": "PT1H20M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 bunch romaine lettuce",
-        "1 leaf red tip lettuce",
-        "1 pkg fresh spinach",
-        "4 (10 oz) cans mandarin oranges, drained",
-        "1 cup slivered almonds, toasted",
-        "½ small red onion, chopped",
+        "Marinated Tomatoes:",
+        "¼ cup olive oil",
+        "2 Tbsp red wine vinegar",
+        "1 tsp anchovy paste",
+        "Salt, pepper, pinch of cayenne",
+        "1 clove garlic, crushed",
+        "4 large ripe tomatoes",
+        "Salad:",
+        "6 cups greens",
+        "2 green onions, sliced",
+        "⅓ cup black olives",
+        "1 green pepper",
+        "1 cup feta cheese",
         "Dressing:",
-        "½ cup sugar",
-        "¼ cup vinegar",
-        "1 tsp dry mustard",
-        "1 tsp salt",
-        "1 cup vegetable oil"
+        "1 clove garlic, minced",
+        "1 Tbsp red wine vinegar",
+        "¼ cup olive oil",
+        "½ tsp granulated sugar",
+        "1 tsp dried oregano"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Wash and clean the romaine lettuce, red tip lettuce, and spinach. Dry thoroughly and rip into bite-sized pieces."
+          "text": "To Marinate Tomatoes: Cut tomatoes in halves or quarters. Squeeze out seeds and juice and cut into bite-size pieces. Whisk marinade together, stir in tomatoes, and let stand for at least 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "In a saucepan, combine sugar, vinegar, mustard, and salt. Bring to a boil, then allow to cool."
+          "text": "To Make Dressing: Place garlic, vinegar, and seasonings in a blender and whirl to blend. While still whirling, gradually drizzle in the oil. Add anchovies. Can be used immediately or covered and refrigerated."
         },
         {
           "@type": "HowToStep",
-          "text": "Once cooled, blend the dressing mixture in a blender until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the dressing over the prepared lettuce mixture about 10 minutes before serving."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Just before serving, add the drained mandarin oranges and toasted slivered almonds."
+          "text": "To Complete Salad: Mix greens, onions, olives, pepper, and cheese. Add marinated tomatoes. Toss and drizzle dressing over salad. Add croutons if desired."
         }
       ],
-      "keywords": "mandarin orange salad, spinach salad, homemade dressing",
+      "keywords": "Greek salad, marinated tomatoes, feta cheese, homemade dressing",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "",
-        "totalTime": "20 minutes"
+        "totalTime": "1 hour 20 minutes"
       },
-      "id": 88,
-      "similarity": "0.37"
+      "id": 69,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stuffed Mushrooms",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A savory appetizer of mushroom caps filled with a creamy mixture of bacon, cream cheese, and Parmesan.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "15 to 20 stuffed mushrooms",
+      "recipeIngredient": [
+        "15 to 20 large mushrooms, stems removed",
+        "3 slices bacon, cooked and crumbled",
+        "¼ pkg cream cheese",
+        "¼ cup Parmesan cheese",
+        "1 tsp Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the crumbled bacon, cream cheese, Parmesan cheese, and Worcestershire sauce together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stuff the mixture into the mushroom caps."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes."
+        }
+      ],
+      "keywords": "stuffed mushrooms, appetizer, bacon, cream cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "id": 32,
+      "similarity": "0.39"
     }
   ]
 }

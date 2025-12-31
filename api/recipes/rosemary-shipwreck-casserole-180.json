@@ -300,6 +300,74 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "English Shepherd's Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Dinney"
+      },
+      "description": "A traditional shepherd's pie with ground beef, vegetables, and mashed potatoes.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "British",
+      "prepTime": "PT30M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "1 large onion, finely chopped",
+        "1 bay leaf",
+        "3 Tbsp flour",
+        "1¼ cups water",
+        "1 beef stock cube",
+        "1 Tbsp Worcestershire sauce",
+        "½ tsp salt",
+        "Pepper to taste",
+        "¼ tsp thyme",
+        "1 can peas, undrained",
+        "10 potatoes, peeled and mashed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef briskly over high heat. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the chopped onion and reduce heat. Stir-fry for 3 to 4 minutes until the meat is well browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the flour over the meat mixture and stir to coat evenly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add water, stock cube, Worcestershire sauce, salt, pepper, bay leaf, and thyme. Bring to a boil, then reduce heat and simmer for 40 minutes until the gravy thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the can of peas to the meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the meat mixture to a casserole dish and cover with mashed potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 400°F oven until the top is golden brown."
+        }
+      ],
+      "keywords": "shepherd's pie, ground beef, mashed potatoes",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 173,
+      "similarity": "0.45"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Meat and Potato Casserole",
       "author": {
         "@type": "Person",
@@ -352,81 +420,6 @@
       },
       "id": 159,
       "similarity": "0.44"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Hamburger Pie",
-      "author": {
-        "@type": "Person",
-        "name": "Marguerite Finkbeiner"
-      },
-      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT30M",
-      "totalTime": "PT55M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 medium onion, sliced",
-        "1 to 1½ cups cooked green beans",
-        "1 Tbsp oil",
-        "1 lb hamburger",
-        "¼ tsp salt",
-        "⅛ tsp pepper",
-        "1 can tomato soup",
-        "5 medium potatoes",
-        "½ cup warm milk",
-        "1 beaten egg"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "hamburger pie, shepherd's pie, casserole",
-      "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "55 minutes"
-      },
-      "id": 169,
-      "similarity": "0.42"
     }
   ]
 }

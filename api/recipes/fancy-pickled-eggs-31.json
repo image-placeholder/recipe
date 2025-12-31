@@ -111,6 +111,178 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "Tangy pickled eggs made with vinegar, mustard, and spices, perfect for snacking or as a side dish.",
+      "recipeCategory": "Snack",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT5M",
+      "totalTime": "5 days",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "12 hard-boiled eggs",
+        "2 cups white vinegar",
+        "1 cup water",
+        "1 tsp dry mustard",
+        "1 tsp salt",
+        "½ tsp pepper",
+        "1 onion, cut into pieces",
+        "Pinch of sugar (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the vinegar, water, mustard, salt, pepper, and onion pieces in a saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the mixture to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot pickling liquid over the hard-boiled eggs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the eggs stand in the pickling liquid for 5 days before serving."
+        }
+      ],
+      "keywords": "pickled eggs, tangy snack, preserved eggs",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": null
+      },
+      "id": 35,
+      "similarity": "0.48"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tossed Berry-Mandarin Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Anne Cotte"
+      },
+      "description": "A refreshing mixed greens salad with strawberries, mandarin oranges, sweet onion, and bacon, topped with a homemade honey-cider dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "8 cups torn mixed salad greens",
+        "2 cups fresh sliced strawberries",
+        "1 (10 oz) can mandarin oranges, drained",
+        "1 medium sweet onion, sliced and separated into rings",
+        "⅓ cup slivered almonds, toasted",
+        "4 strips cooked bacon, crumbled",
+        "¼ cup white sugar",
+        "2 Tbsp cider vinegar",
+        "2 Tbsp honey",
+        "1¼ tsp fresh lemon juice",
+        "½ tsp paprika",
+        "½ tsp ground mustard",
+        "½ tsp grated onion",
+        "¼ tsp celery seed",
+        "Dash salt",
+        "⅓ cup vegetable oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a microwave-safe bowl, combine sugar, cider vinegar, honey, lemon juice, paprika, mustard, grated onion, celery seed, and salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Microwave uncovered on high for 1½ to 2 minutes, stirring until the sugar is dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in vegetable oil until well combined. Refrigerate until chilled."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large serving bowl, combine the mixed greens, sliced strawberries, mandarin oranges, sweet onion rings, toasted almonds, and crumbled bacon."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle the chilled dressing over the salad and gently toss to coat."
+        }
+      ],
+      "keywords": "fruit salad, mixed greens, strawberry, mandarin orange, bacon",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "id": 87,
+      "similarity": "0.37"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sauerkraut Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the dressing cool to room temperature."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the cooled dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+        }
+      ],
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 82,
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Rumaki",
       "author": {
         "@type": "Person",
@@ -175,161 +347,6 @@
       },
       "id": 41,
       "similarity": "0.29"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Vegetable Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Jacqui Wein"
-      },
-      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeIngredient": [
-        "1 cup Miracle Whip",
-        "1/8 tsp garlic salt",
-        "1 tsp Worcestershire sauce",
-        "2 tsp minced onion",
-        "2 tsp chopped celery",
-        "2 hard-boiled eggs, finely chopped",
-        "2 tsp vinegar",
-        "Fresh vegetables for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a bowl, mix all ingredients together until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with fresh vegetables."
-        }
-      ],
-      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "id": 18,
-      "similarity": "0.26"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sticky Wings",
-      "author": {
-        "@type": "Person",
-        "name": "Louise Wein"
-      },
-      "description": "Baked chicken wings glazed with a sweet and savory brown sugar and soy sauce mixture.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "2-3 lbs chicken wings",
-      "recipeIngredient": [
-        "2-3 lbs chicken wings",
-        "1 cup brown sugar",
-        "¼ cup soy sauce",
-        "2 tsp garlic salt"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 300°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Break chicken wings apart at the joints and discard tips."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place wings in a roasting pan and cover with the sauce mixture (brown sugar, soy sauce, garlic salt)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until the sauce evaporates and wings are sticky."
-        }
-      ],
-      "keywords": "sticky chicken wings, baked wings, appetizer",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "id": 37,
-      "similarity": "0.26"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Artichoke Appetizer",
-      "author": {
-        "@type": "Person",
-        "name": "Loma Finkbeiner"
-      },
-      "description": "A warm, cheesy artichoke appetizer perfect for serving with bread or crackers.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT25M",
-      "totalTime": "PT35M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 (14 oz) can artichoke hearts",
-        "Dash garlic salt",
-        "1 cup grated Parmesan cheese",
-        "2 Tbsp chopped green onion",
-        "1 cup shredded mozzarella cheese",
-        "1 Tbsp chopped parsley",
-        "1 cup Hellmann's mayonnaise"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Drain artichoke hearts."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine artichoke hearts with cheese, mayonnaise, garlic salt, and green onion in a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle parsley over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 25 to 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT25M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with bread or crackers."
-        }
-      ],
-      "keywords": "artichoke appetizer, cheesy dip, party snack",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "35 minutes"
-      },
-      "id": 1,
-      "similarity": "0.26"
     }
   ]
 }

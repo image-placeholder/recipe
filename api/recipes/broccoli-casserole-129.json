@@ -113,6 +113,70 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Cauliflower Broccoli Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A versatile casserole recipe that can use either cauliflower or broccoli, topped with croutons and Parmesan cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT40M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "Cauliflower or broccoli",
+        "1 can cream of celery soup",
+        "2 Tbsp mayonnaise",
+        "1/4 cup shredded Colby cheese",
+        "1/4 cup Parmesan cheese",
+        "1/2 cup croutons",
+        "Some cracker crumbs",
+        "A little butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chosen vegetable in the microwave for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cream of celery soup, mayonnaise, and cheese to the cooked vegetable. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add croutons to the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cracker crumbs on top of the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle Parmesan cheese over the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put butter pieces on top of the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at 350°F for 40 minutes."
+        }
+      ],
+      "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "40 minutes",
+        "totalTime": "50 minutes"
+      },
+      "id": 144,
+      "similarity": "0.44"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Cabbage Casserole",
       "author": {
         "@type": "Person",
@@ -219,120 +283,73 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Ham Casserole",
+      "name": "Chicken and Cheese Casserole",
       "author": {
         "@type": "Person",
-        "name": "Bernice Martin"
+        "name": "June Schroeder"
       },
-      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
-      "recipeCategory": "Main Course",
+      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H",
-      "recipeYield": "6 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 casserole",
       "recipeIngredient": [
-        "4 cups hash brown potatoes, thawed",
-        "1½ cups chopped ham",
-        "1 cup grated Cracker Barrel cheddar cheese",
-        "1 small onion, chopped",
-        "½ cup Miracle Whip salad dressing",
+        "1½ lb diced cooked chicken",
+        "1 medium onion, finely chopped",
+        "2 cups cooked rice",
+        "¼ lb grated cheddar cheese",
         "½ cup milk",
-        "¼ tsp pepper",
-        "½ cup fresh bread crumbs",
-        "1 Tbsp butter or margarine"
+        "1 can Campbell's cream of celery soup",
+        "4 Tbsp butter or margarine",
+        "¾ cup crushed corn flakes",
+        "1½ cups chopped celery",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
+          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
+          "text": "Put the mixture into a buttered casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
+          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with bread crumbs and dot with butter or margarine."
+          "text": "Cook until the celery is hot."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 45 minutes."
-        }
-      ],
-      "keywords": "ham casserole, potato casserole, comforting main dish",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour"
-      },
-      "id": 200,
-      "similarity": "0.36"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Stuffing and Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Beth Clarke"
-      },
-      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "4 boned and skinned chicken breast halves",
-        "1⅓ cups Stove Top stuffing",
-        "1 can cream of chicken soup",
-        "4 slices Swiss cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
+          "text": "Spread the corn flake and celery mixture over the chicken mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Put a slice of Swiss cheese on top of each breast."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the cream of chicken soup over the stuffing layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350 °F for 1 hour.",
+          "text": "Bake in a 375°F oven for about ½ hour.",
           "cookMethod": "Bake",
           "tool": "Oven",
           "temperature": {
             "@type": "Temperature",
             "name": "oven",
-            "value": 350,
+            "value": 375,
             "unitCode": "FAR"
           },
-          "duration": "PT1H"
+          "duration": "PT30M"
         }
       ],
-      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
+      "keywords": "chicken casserole, cheesy rice bake, comfort food",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "id": 242,
-      "similarity": "0.31"
+      "id": 244,
+      "similarity": "0.41"
     }
   ]
 }

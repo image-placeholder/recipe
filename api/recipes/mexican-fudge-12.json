@@ -112,6 +112,60 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "id": 50,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Nacho Dip",
       "author": {
         "@type": "Person",
@@ -173,80 +227,143 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hot Taco Dip",
+      "name": "Jelly Roll Style Meat Loaf",
       "author": {
         "@type": "Person",
-        "name": "Brenda Martene"
+        "name": "Barbara Ratz"
       },
-      "description": "A warm, layered taco dip featuring seasoned ground beef, sour cream, and melted cheddar cheese, served with tortilla chips.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "1 large serving dish",
+      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 loaf",
       "recipeIngredient": [
-        "1 lb lean ground beef",
-        "1 package Old El Paso taco seasoning mix",
-        "2 cups grated cheddar cheese",
-        "1 chopped green onion",
-        "1 chopped green pepper",
-        "2 cups sour cream",
-        "1 (optional) 8 oz package Philadelphia cream cheese",
-        "1 jar mild El Paso salsa",
-        "1 bag tortilla chips"
+        "½ lb ground beef",
+        "3 cups shredded mozzarella cheese",
+        "1 beaten egg",
+        "½ cup cracker crumbs or dry bread crumbs",
+        "½ tsp basil",
+        "1 clove garlic, minced",
+        "½ cup minced onion",
+        "1 tsp salt",
+        "⅛ tsp pepper",
+        "2 (8 oz) cans tomato sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef with chopped onion in a frying pan; drain excess fat."
+          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Add taco seasoning mix to the browned hamburger and prepare according to package directions."
+          "text": "Add ground beef and mix thoroughly with hands until just combined."
         },
         {
           "@type": "HowToStep",
-          "text": "In a 13x9x2 inch baking dish, spread the prepared hamburger mixture evenly across the bottom."
+          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle the chopped green peppers on top of the hamburger layer."
+          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix together the sour cream and cream cheese (if using) until smooth."
+          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the sour cream mixture over the top of the green peppers."
+          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread a layer of mild salsa over the sour cream layer."
+          "text": "Drain off fat and pour reserved tomato sauce on the roll."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with a layer of grated cheddar cheese."
+          "text": "Bake for an additional 15 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in a preheated oven at 350°F until heated through.",
-          "temperature": "350°F",
-          "cookMethod": "Bake"
+          "text": "Let stand for 10 to 15 minutes before slicing."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot with tortilla chips."
+          "text": "Decorate with tomato slices and green parsley on a serving tray."
         }
       ],
-      "keywords": "hot taco dip, taco dip, Mexican appetizer, cheesy dip",
+      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 35 minutes"
       },
-      "id": 21,
+      "id": 154,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Surprise Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A layered seafood dip with shrimp, cocktail sauce, and cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "recipeYield": "1 large platter",
+      "recipeIngredient": [
+        "8 oz cream cheese, softened",
+        "½ cup sour cream",
+        "¼ cup mayonnaise",
+        "3 (4 oz) cans small shrimp, rinsed and drained",
+        "2 cups seafood cocktail sauce",
+        "2 cups shredded mozzarella cheese",
+        "1 green pepper, chopped",
+        "3 green onions, chopped",
+        "1 tomato, diced (optional)",
+        "Tortilla chips or assorted crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream cheese, sour cream, and mayonnaise together until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread this mixture in the bottom of a deep pie plate, pizza pan, or shallow baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scatter the shrimp over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the seafood cocktail sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add layers of mozzarella cheese, green pepper, and green onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with diced tomatoes if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve with tortilla chips or crackers."
+        }
+      ],
+      "keywords": "layered shrimp dip, seafood spread, party dip",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "id": 11,
       "similarity": "0.33"
     }
   ]

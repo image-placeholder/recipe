@@ -123,6 +123,71 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Chinese Hamburger Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Meredith Mary"
+      },
+      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 to 8 servings",
+      "recipeIngredient": [
+        "1 lb hamburger",
+        "½ cup warm water",
+        "½ cup uncooked rice",
+        "2 medium onions, chopped",
+        "1 cup sliced celery",
+        "1 can cream of mushroom soup",
+        "1 can cream of chicken soup (optional)",
+        "1 can mushrooms, drained",
+        "¼ cup soya sauce",
+        "¼ tsp pepper",
+        "1 tsp salt",
+        "1 cup bean sprouts (optional)",
+        "1 handful chow mein noodles"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add bean sprouts if using for a more authentic taste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
+        }
+      ],
+      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "id": 174,
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Beef and Rice Casserole",
       "author": {
         "@type": "Person",
@@ -197,173 +262,124 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Ham & Potato Casserole",
+      "name": "Noodles with Hamburg",
       "author": {
         "@type": "Person",
-        "name": "Shelley Kinsman"
+        "name": "Carolyn Gower"
       },
-      "description": "A layered ham, potato, and cheese casserole cooked in a slow cooker.",
-      "recipeCategory": "Casserole",
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT8H",
-      "totalTime": "PT8H20M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "8 slices ham",
-        "8 to 10 medium potatoes, sliced",
-        "2 onions, sliced thin",
-        "1 cup grated cheese",
-        "Salt and pepper to taste",
-        "Cream of mushroom or celery soup",
-        "Paprika"
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
+        "1 tsp salt",
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Put half of the ham, potatoes, onions, cheese, salt, and pepper in a slow cooker."
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the remaining half of the ingredients for the second layer."
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with soup and sprinkle with paprika."
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
         }
       ],
-      "keywords": "ham, potato, casserole, slow cooker",
+      "keywords": "hamburger casserole, noodle dish, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "8 hours",
-        "totalTime": "8 hours 20 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
       },
-      "id": 209,
-      "similarity": "0.38"
+      "id": 166,
+      "similarity": "0.41"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Rosemary Shipwreck Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Stewart"
-      },
-      "description": "A hearty casserole featuring ground beef, potatoes, and a tomato-based sauce.",
-      "recipeCategory": "Casserole",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 casserole",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
       "recipeIngredient": [
-        "1 lb lean ground beef",
-        "1 onion, peeled and chopped",
-        "¼ tsp salt",
-        "1 (8 oz) can pork and beans",
-        "1¼ tsp pepper",
-        "1 (10 oz) can tomato soup",
-        "4 potatoes, pared and sliced"
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Preheat oven to 375°F."
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large bowl, combine beef, salt, and pepper. Mix well."
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
         },
         {
           "@type": "HowToStep",
-          "text": "Place potatoes in the bottom of a greased 2-quart casserole dish."
+          "text": "Bake at 350°F for 30 to 40 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Top potatoes with chopped onion."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover onion layer with the beef mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon pork and beans over the beef layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour tomato soup over the pork and beans."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the casserole and bake for 1 hour or until done."
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
         }
       ],
-      "keywords": "shipwreck casserole, ground beef, potato casserole",
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
       },
-      "id": 180,
-      "similarity": "0.37"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Crunchy Top Ham and Potato Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Norma Fahner"
-      },
-      "description": "A hearty ham and potato casserole with a crunchy corn flake topping.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H25M",
-      "recipeYield": "10 servings",
-      "recipeIngredient": [
-        "2 lb frozen hash brown potatoes, thawed",
-        "1½ cups shredded cheddar cheese",
-        "1 (10 oz) can cream of chicken soup, undiluted",
-        "½ tsp ground pepper",
-        "⅔ cup chopped green onion",
-        "2 cups cubed, cooked ham",
-        "2 cups sour cream",
-        "Topping: ½ cup butter, melted",
-        "2 cups crushed corn flakes"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all casserole ingredients and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the mixture in a 13x9 inch baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine topping ingredients (melted butter and crushed corn flakes) and sprinkle on top of the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour."
-        }
-      ],
-      "keywords": "ham and potato casserole, crunchy topping, comforting casserole",
-      "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 25 minutes"
-      },
-      "id": 197,
-      "similarity": "0.37"
+      "id": 129,
+      "similarity": "0.39"
     }
   ]
 }

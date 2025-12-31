@@ -131,6 +131,200 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a rich, velvety texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "1½ cups grated cheese",
+        "1½ cups chicken broth",
+        "3 cups fresh broccoli, partially cooked"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onions until tender; do not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and broccoli; bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in flour and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat; cook and stir until mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and simmer for 15 minutes; do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat through with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 108,
+      "similarity": "0.46"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour mixture and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree the mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 105,
+      "similarity": "0.44"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Microwave Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Martene"
+      },
+      "description": "A creamy corn chowder made in the microwave with potatoes, carrots, celery, and cheddar cheese.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "2 cups water",
+        "¼ cup butter or margarine",
+        "2 cups diced peeled potatoes",
+        "¼ cup all-purpose flour",
+        "2 cups milk",
+        "½ cup sliced carrots",
+        "½ cup sliced celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "3 cups (12 oz) shredded cheddar cheese",
+        "2 cans (14¾ oz each) cream style corn"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place water in a 2-quart microwave-safe dish; cover and heat until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add potatoes, carrots, celery, onion, salt, and pepper. Cook, uncovered, on high for 8 to 10 minutes or until vegetables are crisp-tender; set aside (do not drain)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a 3-quart dish, microwave butter on high for 50 to 60 seconds or until melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour until smooth. Gradually stir in milk. Cook, uncovered, on high for 6 to 7 minutes or until thickened, stirring every 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cheese. Heat for 1 to 1½ minutes or until the cheese is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in corn and reserved vegetables. Cook on high for 2 to 3 minutes or until heated through."
+        }
+      ],
+      "keywords": "microwave corn chowder, creamy soup, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 118,
+      "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Chili Turkey",
       "author": {
         "@type": "Person",
@@ -203,202 +397,6 @@
       },
       "id": 247,
       "similarity": "0.40"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Ken Noodle Supper",
-      "author": {
-        "@type": "Person",
-        "name": "Mary Jefferies"
-      },
-      "description": "A hearty chicken and noodle supper with a creamy sauce, mixed vegetables, and a blend of herbs.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT30M",
-      "totalTime": "PT45M",
-      "recipeYield": "4 to 6 servings",
-      "recipeIngredient": [
-        "1 lb boneless, skinless chicken breasts",
-        "½ tsp salt",
-        "½ tsp pepper",
-        "3 Tbsp flour",
-        "1 Tbsp butter",
-        "3 cups milk",
-        "1 Tbsp vegetable oil",
-        "1 Tbsp Dijon mustard",
-        "1 large onion, chopped",
-        "3 cups uncooked egg noodles",
-        "1 cup sliced mushrooms",
-        "1 pkg (10 oz/300 g) frozen mixed vegetables",
-        "1 clove garlic",
-        "½ tsp dried basil",
-        "½ tsp dried oregano"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cut chicken into 1 inch cubes. Cook in butter in a large skillet over medium heat for 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add onion, mushrooms, and garlic. Cook until onion is tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in flour, salt, pepper, and herbs. Cook until thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gradually add milk, stirring constantly. Bring to a boil and simmer for 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mustard and noodles. Return to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add frozen vegetables. Stir and cook for 10 minutes before serving."
-        }
-      ],
-      "keywords": "chicken noodle supper, creamy sauce, comfort food",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "45 minutes"
-      },
-      "id": 240,
-      "similarity": "0.35"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken and Broccoli",
-      "author": {
-        "@type": "Person",
-        "name": "Marguerite Finkbeiner"
-      },
-      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 cup small shells pasta",
-        "1 can cream of mushroom soup",
-        "2 cups broccoli, cooked",
-        "1½ cups chicken, cooked and chopped",
-        "½ cup milk",
-        "½ cup Parmesan cheese",
-        "¼ tsp ground pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the small shells pasta according to package directions. Drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with a cranberry salad."
-        }
-      ],
-      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "id": 234,
-      "similarity": "0.34"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Baked Striped Bass (Or White Fish)",
-      "author": {
-        "@type": "Person",
-        "name": "Antonia Hull"
-      },
-      "description": "A whole striped bass or white fish baked with garlic, mushrooms, and herbs, served with a rich butter sauce.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT40M",
-      "totalTime": "PT1H",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "3 to 4 lb whole striped bass, dressed and boned",
-        "2 cloves garlic",
-        "1 cup sliced mushrooms",
-        "½ cup parsley sprigs",
-        "½ tsp salt",
-        "⅛ tsp pepper",
-        "2 celery stalks, with leaves",
-        "3 cups dry white wine",
-        "1 green onion (or shallot), sliced",
-        "1 cup thinly sliced onion",
-        "2 bay leaves",
-        "1 tsp dried thyme",
-        "½ cup butter",
-        "1 tsp flour"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 400°F and lightly butter a large, shallow baking pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wash and pat dry the fish with paper towels. Sprinkle inside and outside with salt and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the fish in the baking pan and add the remaining ingredients except for the sauce ingredients."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake, basting frequently with the liquid in the pan, for 40 minutes or until the fish flakes easily with a fork."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Carefully remove the fish to a heated serving platter, cover, and keep warm."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, cook the pan liquid over medium heat until it reduces to 1 cup, about 15 to 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Blend 1 teaspoon of butter with flour and stir into the hot liquid. Bring to a boil and cook for 2 minutes, stirring constantly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat and add the remaining butter, shaking the pan until melted. Remove from heat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the sauce with the fish."
-        }
-      ],
-      "keywords": "baked fish, striped bass, white fish, herb butter sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "40 minutes",
-        "totalTime": "1 hour"
-      },
-      "id": 254,
-      "similarity": "0.33"
     }
   ]
 }

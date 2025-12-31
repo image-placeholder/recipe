@@ -65,6 +65,54 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Sticky Wings",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "Baked chicken wings glazed with a sweet and savory brown sugar and soy sauce mixture.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "2-3 lbs chicken wings",
+      "recipeIngredient": [
+        "2-3 lbs chicken wings",
+        "1 cup brown sugar",
+        "¼ cup soy sauce",
+        "2 tsp garlic salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 300°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Break chicken wings apart at the joints and discard tips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place wings in a roasting pan and cover with the sauce mixture (brown sugar, soy sauce, garlic salt)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the sauce evaporates and wings are sticky."
+        }
+      ],
+      "keywords": "sticky chicken wings, baked wings, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "id": 37,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Beef Porcupines",
       "author": {
         "@type": "Person",
@@ -235,91 +283,62 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spareribs to Go",
+      "name": "Britt's Favourite Meatballs",
       "author": {
         "@type": "Person",
-        "name": "Betty Glanville"
+        "name": "Leanne Robinson"
       },
-      "description": "A versatile spareribs recipe that can be broiled or heated in a glaze sauce, perfect for make-ahead meals.",
-      "recipeCategory": "Main Course",
+      "description": "A classic meatball recipe with a sweet and tangy sauce, baked in the oven.",
+      "recipeCategory": "Meat",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "3 to 4 lb spareribs",
-        "1 cup ketchup",
-        "¼ cup soya sauce",
-        "Glaze: 4 crushed garlic cloves",
-        "½ cup honey"
+        "1 lb lean ground beef",
+        "½ cup quick cook oats or bran",
+        "1 egg, lightly beaten",
+        "1 pkg onion soup mix",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "½ tsp garlic powder",
+        "1 cup brown sugar",
+        "1 cup ketchup",
+        "½ cup ketchup",
+        "1 tsp Worcestershire sauce",
+        "¼ tsp garlic powder"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Boil spareribs, cut into serving pieces, in salted water for 1½ hours. Drain and place in a shallow dish."
+          "text": "Combine the first 8 ingredients in a large bowl and mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the glaze mixture (garlic and honey) over the ribs. May be frozen for later use."
+          "text": "Shape the mixture into 1 inch balls and place in a 9x13 inch baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "To finish, remove ribs from the glaze and broil 6 inches from heat in the oven or barbecue until crisp. Alternatively, baste ribs and heat in the sauce."
+          "text": "Bake, uncovered, at 350°F for 18 to 20 minutes or until the meat is no longer pink."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine sauce ingredients and pour over the meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to the oven for an additional 10 to 15 minutes."
         }
       ],
-      "keywords": "spareribs, garlic honey glaze, make-ahead ribs",
+      "keywords": "meatballs, baked, sweet and tangy sauce",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
       },
-      "id": 204,
-      "similarity": "0.33"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Celebrity",
-      "author": {
-        "@type": "Person",
-        "name": "Rosemary Stewart"
-      },
-      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "2 to 3 lb chicken parts",
-        "1/4 cup brown sugar",
-        "1 package dry onion soup mix",
-        "1/2 cup ketchup",
-        "1/4 cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Arrange chicken parts in a small roaster or casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 350°F oven for 1 hour or until tender."
-        }
-      ],
-      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "id": 237,
-      "similarity": "0.32"
+      "id": 151,
+      "similarity": "0.36"
     }
   ]
 }

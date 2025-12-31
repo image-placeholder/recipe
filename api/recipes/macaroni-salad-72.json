@@ -118,211 +118,239 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Broccoli Supreme",
+      "name": "Macaroni Ham Casserole",
       "author": {
         "@type": "Person",
-        "name": "Louise Wein"
+        "name": "Cheryl MacLeod"
       },
-      "description": "A chilled broccoli salad with raisins, bacon, and a creamy cheese dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT3H25M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "6 cups fresh broccoli",
-        "2 Tbsp vinegar",
-        "2 Tbsp vegetable oil",
-        "1/3 cup raisins",
-        "2 tsp white sugar",
-        "2 Tbsp chopped onion",
-        "1 Tbsp prepared mustard",
-        "6 or 8 slices bacon, cooled and crumbled",
-        "1/4 tsp salt",
-        "1/8 tsp garlic powder",
-        "1 small pkg cream cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Beat dressing ingredients until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add dressing to broccoli, raisins, and onion. Cover and chill at least 3 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with bacon and serve."
-        }
-      ],
-      "keywords": "broccoli salad, bacon, creamy dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "3 hours 25 minutes"
-      },
-      "id": 60,
-      "similarity": "0.33"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Onion Salad",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Wallace Pfaff"
-        },
-        {
-          "@type": "Person",
-          "name": "Joanne Pickering"
-        }
-      ],
-      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "2 Spanish onions, thinly sliced",
-        "1 1/2 tsp salt",
-        "1/2 cup white sugar",
-        "1 cup mayonnaise or salad dressing",
-        "1/3 cup water",
-        "1/3 cup vinegar",
-        "1 tsp celery seed"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain the marinade well in the morning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until ready to serve."
-        }
-      ],
-      "keywords": "onion salad, marinated onions, sweet and tangy salad",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 10 minutes"
-      },
-      "id": 74,
-      "similarity": "0.32"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sliced Bean Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Phyllis Lightfoot"
-      },
-      "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
-      "recipeCategory": "Salad",
+      "description": "A comforting macaroni and ham casserole topped with cheddar cheese and crushed sour cream and onion potato chips.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeYield": "2 to 3 quarts",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "Yellow or green beans",
-        "2 cups white vinegar",
-        "2 cups white sugar",
-        "1 tsp salt",
-        "1½ cups water",
-        "Onion and cream for serving"
+        "2½ cups (625 mL) milk",
+        "2 cups (500 mL) uncooked macaroni",
+        "Salt and pepper to taste",
+        "1 to 1¼ cups (250 to 375 mL) grated cheddar cheese",
+        "1 cup (250 mL) cubed ham",
+        "¼ cup (60 mL) melted margarine",
+        "¼ cup (60 mL) flour",
+        "Crushed sour cream and onion flavoured potato chips for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Slice the beans and cook until tender enough to pierce with a fork."
+          "text": "Preheat oven to 350°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Drain the cooked beans and pack them into jars."
+          "text": "Cook the macaroni in boiling water, then drain and mix in cubed ham."
         },
         {
           "@type": "HowToStep",
-          "text": "In a saucepan, bring the sugar, water, vinegar, and salt to a boil to make the syrup."
+          "text": "Melt margarine in a saucepan and mix in the flour. Add in the milk and stir constantly over medium heat until the mixture is thick and smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the hot syrup over the beans in the jars."
+          "text": "Mix the sauce with the macaroni and ham, then pour into a greased casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "To serve, pour off the liquid and add chopped onion and cream."
+          "text": "Add salt and pepper to taste, and stir in about ¾ of the grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the remaining cheddar cheese on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with crushed sour cream and onion flavoured potato chips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for approximately 20 minutes, or until the casserole is bubbling."
         }
       ],
-      "keywords": "pickled bean salad, sweet and tangy, preserved beans",
+      "keywords": "macaroni casserole, ham and cheese, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
       },
-      "id": 49,
-      "similarity": "0.32"
+      "id": 196,
+      "similarity": "0.39"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hot Potato Salad",
+      "name": "Cheese Ball",
       "author": {
         "@type": "Person",
-        "name": "Margaret Beaver"
+        "name": "Loma Finkbeiner"
       },
-      "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
-      "recipeCategory": "Salad",
+      "description": "A classic cheese ball made with grated cheese, Cheez Whiz, and deviled ham, perfect for a quick appetizer.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT5M",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
       "totalTime": "PT15M",
-      "recipeYield": "Serves 4-6",
+      "recipeYield": "2 cheese balls",
       "recipeIngredient": [
-        "3 to 4 cups sliced potatoes",
-        "⅓ cup white vinegar",
-        "1 Tbsp flour",
-        "¾ cup water",
-        "1 Tbsp butter",
-        "Salt and pepper to taste",
-        "Pinch of sugar"
+        "2 cups grated old cheese",
+        "1 tsp Worcestershire sauce",
+        "1/2 cup butter",
+        "1 cup Cheez Whiz",
+        "1 (3 oz) can deviled ham",
+        "Chopped pecans or parsley flakes for coating"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a saucepan, combine the white vinegar, flour, and water. Heat, stirring constantly, until the mixture thickens."
+          "text": "Beat all ingredients in a mixer until creamed."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the butter, salt, pepper, and sugar to the vinegar mixture. Bring to a boil."
+          "text": "Form into 2 balls and wrap in Saran Wrap."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the hot dressing over the sliced potatoes."
+          "text": "Refrigerate until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll into chopped pecans or parsley flakes to coat."
         }
       ],
-      "keywords": "hot potato salad, vinegar dressing, warm salad",
+      "keywords": "cheese ball, party appetizer, easy snack",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "5 minutes",
+        "prepTime": "15 minutes",
+        "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "id": 86,
-      "similarity": "0.31"
+      "id": 2,
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
+        }
+      ],
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 112,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a rich, velvety texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "1½ cups grated cheese",
+        "1½ cups chicken broth",
+        "3 cups fresh broccoli, partially cooked"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onions until tender; do not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and broccoli; bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in flour and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat; cook and stir until mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and simmer for 15 minutes; do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat through with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 108,
+      "similarity": "0.33"
     }
   ]
 }

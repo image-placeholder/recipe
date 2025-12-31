@@ -45,6 +45,74 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Caesar Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A classic Caesar salad recipe with romaine lettuce, crumbled bacon, croutons, and a homemade dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 romaine lettuce",
+        "6 slices bacon, cooked and crumbled",
+        "1 tsp wine vinegar",
+        "½ tsp Worcestershire sauce",
+        "2 shakes Tabasco sauce",
+        "Croutons",
+        "1 egg",
+        "1 tsp capers (optional)",
+        "3 to 4 mashed anchovies",
+        "Dressing (keeps 2 days):",
+        "⅓ cup olive oil",
+        "1 clove garlic, minced",
+        "2 Tbsp lemon",
+        "½ tsp dry mustard",
+        "¼ tsp salt and pepper",
+        "2 Tbsp Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Rub salad bowl with garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wash and tear lettuce. Dry in a tea towel."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place lettuce in bowl with bacon and croutons."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend dressing ingredients together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over salad and toss until leaves are coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with freshly grated Parmesan."
+        }
+      ],
+      "keywords": "Caesar salad, bacon, croutons, homemade dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 59,
+      "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Chili Con Queso (Nacho Cheese Dip)",
       "author": [
         {
@@ -108,6 +176,78 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Bacon Broccoli Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Meghan Brand"
+        },
+        {
+          "@type": "Person",
+          "name": "Mona Hamilton"
+        },
+        {
+          "@type": "Person",
+          "name": "Alwinna Galloway"
+        },
+        {
+          "@type": "Person",
+          "name": "Thelma Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Linda Nakamura"
+        }
+      ],
+      "description": "A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "3 cups broccoli florets",
+        "½ cup low-fat yogurt",
+        "½ cup chopped red onion",
+        "¼ cup light mayonnaise",
+        "¼ cup sunflower seeds",
+        "½ cup raisins",
+        "2 Tbsp sugar",
+        "1 Tbsp lemon juice",
+        "½ cup crumbled feta cheese",
+        "4 slices cooked bacon, crumbled"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the broccoli, red onion, sunflower seeds, raisins, and crumbled bacon in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the yogurt, mayonnaise, sugar, and lemon juice to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad ingredients and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 2 hours to allow the flavors to meld."
+        }
+      ],
+      "keywords": "broccoli salad, bacon salad, yogurt dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "id": 63,
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Stuffed Pita Pockets",
       "author": {
         "@type": "Person",
@@ -163,180 +303,53 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Party Salmon Ball",
+      "name": "Broccoli Supreme",
       "author": {
         "@type": "Person",
-        "name": "Tanya Allen"
+        "name": "Louise Wein"
       },
-      "description": "A classic chilled salmon and cream cheese ball coated in crunchy nuts and parsley.",
-      "recipeCategory": "Appetizer",
+      "description": "A chilled broccoli salad with raisins, bacon, and a creamy cheese dressing.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H15M",
-      "recipeYield": "1 cheese ball",
-      "recipeIngredient": [
-        "1 (8 oz) pkg cream cheese, softened",
-        "1 (16 oz) can salmon, drained and flaked",
-        "¼ tsp Liquid Smoke",
-        "¼ tsp salt",
-        "1 Tbsp finely chopped onion",
-        "⅓ cup nuts",
-        "¼ cup parsley flakes"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together except for the nuts and parsley."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shape the mixture into a ball."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and refrigerate for at least 8 hours (but no longer than 4 days)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll the ball in a mixture of nuts and parsley to coat evenly before serving."
-        }
-      ],
-      "keywords": "salmon ball, cheese ball, party dip, holiday appetizer",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 15 minutes"
-      },
-      "id": 8,
-      "similarity": "0.30"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheese English Muffins",
-      "author": {
-        "@type": "Person",
-        "name": "Deb Hodge"
-      },
-      "description": "Toasted English muffin quarters topped with a rich cheese and bacon mixture.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
       "cookTime": "PT10M",
-      "totalTime": "PT20M",
+      "totalTime": "PT3H25M",
       "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "½ lb sharp yellow cheese, grated",
-        "½ cup mayonnaise",
-        "2 Tbsp Worcestershire sauce",
-        "Crumbled fried bacon",
-        "1 small onion, finely chopped",
-        "English muffins"
+        "6 cups fresh broccoli",
+        "2 Tbsp vinegar",
+        "2 Tbsp vegetable oil",
+        "1/3 cup raisins",
+        "2 tsp white sugar",
+        "2 Tbsp chopped onion",
+        "1 Tbsp prepared mustard",
+        "6 or 8 slices bacon, cooled and crumbled",
+        "1/4 tsp salt",
+        "1/8 tsp garlic powder",
+        "1 small pkg cream cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix grated cheese, mayonnaise, Worcestershire sauce, crumbled bacon, and chopped onion together."
+          "text": "Beat dressing ingredients until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Slice English muffins into quarters."
+          "text": "Add dressing to broccoli, raisins, and onion. Cover and chill at least 3 hours."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the cheese mixture onto the English muffin quarters."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 400°F for 10 minutes."
+          "text": "Sprinkle with bacon and serve."
         }
       ],
-      "keywords": "cheese English muffins, appetizer, snack",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
-      },
-      "id": 38,
-      "similarity": "0.30"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Fairest Wheels",
-      "author": {
-        "@type": "Person",
-        "name": "Dianne Finkbeiner"
-      },
-      "description": "A chilled, rolled tortilla snack filled with a spicy chicken and cheese mixture.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "8 servings",
-      "recipeIngredient": [
-        "4 oz light cream cheese, softened",
-        "1 cup finely chopped cooked chicken",
-        "2 Tbsp low-fat sour cream",
-        "½ cup chopped lettuce",
-        "4 Tbsp red pepper jelly",
-        "2 cups reduced-fat shredded cheddar cheese",
-        "3 (9-inch) flour tortillas",
-        "⅔ cup chopped green bell pepper",
-        "⅓ cup minced green onions and red pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a medium bowl, combine chicken, lettuce, cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In another bowl, beat cream cheese and sour cream together until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cream cheese mixture to the chicken mixture and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread ⅓ cup of the chicken and cream cheese mixture onto one side of a tortilla, leaving a ½-inch border at the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with ⅓ cup shredded cheese and top with red pepper jelly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll up the tortilla tightly and seal the edge."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Repeat with remaining tortillas and filling mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap each roll in plastic wrap and refrigerate for 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Trim the ends off each roll and cut into 8 slices."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve cold."
-        }
-      ],
-      "keywords": "chicken roll-ups, cheese snack, cold appetizer",
+      "keywords": "broccoli salad, bacon, creamy dressing",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
+        "cookTime": "10 minutes",
+        "totalTime": "3 hours 25 minutes"
       },
-      "id": 36,
-      "similarity": "0.29"
+      "id": 60,
+      "similarity": "0.30"
     }
   ]
 }

@@ -52,6 +52,50 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Lemon Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Mona Hamilton"
+      },
+      "description": "A light and fluffy lemon Jello dessert mixed with whipped Dream Whip.",
+      "recipeCategory": "Dessert",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1 package lemon Jello (85g)",
+        "1 small can frozen lemonade",
+        "1 cup hot water",
+        "¼ cup water",
+        "¼ cup sugar",
+        "1 package Dream Whip Mix"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve the lemon Jello in hot water with sugar."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add frozen lemonade and ¼ cup water to the Jello mixture and let set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whip the Dream Whip Mix and combine with the set Jello."
+        }
+      ],
+      "keywords": "lemon Jello, whipped dessert, Dream Whip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "id": 80,
+      "similarity": "0.49"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Orange-Pineapple Jello",
       "author": {
         "@type": "Person",
@@ -267,59 +311,6 @@
       },
       "id": 66,
       "similarity": "0.32"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Romaine Salad with Orange",
-      "author": {
-        "@type": "Person",
-        "name": "Donelda Lewis"
-      },
-      "description": "A refreshing salad featuring romaine lettuce, oranges, and red onion with a light vinaigrette dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeYield": "4 to 6 servings",
-      "recipeIngredient": [
-        "8 cups torn romaine lettuce",
-        "1 can (11 oz) mandarin oranges, drained",
-        "¼ cup red wine vinegar or cider vinegar",
-        "3 Tbsp vegetable or olive oil",
-        "1 Tbsp fresh minced parsley",
-        "1 clove garlic, minced",
-        "Salt and pepper to taste",
-        "1 cup thinly sliced red onion",
-        "½ cup slivered almonds"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large bowl, combine the torn romaine lettuce, drained mandarin oranges, and thinly sliced red onion."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a separate bowl, combine the red wine vinegar, oil, minced parsley, garlic, salt, and pepper to make the dressing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the dressing over the salad and toss to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately."
-        }
-      ],
-      "keywords": "romaine salad, orange salad, vinaigrette dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
-      },
-      "id": 84,
-      "similarity": "0.30"
     }
   ]
 }

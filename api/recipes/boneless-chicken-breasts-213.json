@@ -228,6 +228,69 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Parmesan Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Lorraine Bowers"
+      },
+      "description": "A crispy Parmesan-crusted chicken dish baked with spaghetti sauce and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeIngredient": [
+        "Boneless chicken breasts",
+        "1/3 cup Parmesan cheese",
+        "1 1/3 cups dry bread crumbs",
+        "3 beaten eggs",
+        "1 tsp salt",
+        "1/4 tsp pepper",
+        "Spaghetti sauce",
+        "Grated mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix Parmesan cheese with bread crumbs and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix eggs, salt, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip boneless chicken breasts in egg mixture, then coat with bread crumb mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange coated chicken breasts in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with tinfoil and bake at 350°F for 45 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour spaghetti sauce over the chicken and continue baking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Before serving, sprinkle grated mozzarella cheese on top and bake for an additional 10 minutes until browned."
+        }
+      ],
+      "keywords": "Parmesan chicken, breaded chicken, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "id": 239,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Chicken Glazed with Basil & Balsamic Vinegar",
       "author": {
         "@type": "Person",
@@ -284,52 +347,6 @@
       },
       "id": 214,
       "similarity": "0.38"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheesy Meat Loaf",
-      "author": {
-        "@type": "Person",
-        "name": "Pam Allen"
-      },
-      "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
-      "recipeYield": "1 loaf",
-      "recipeIngredient": [
-        "1 lb ground beef",
-        "¾ cup bread crumbs",
-        "1 beaten egg",
-        "½ cup chopped onions",
-        "¼ cup chopped green pepper",
-        "¼ cup ketchup",
-        "¾ tsp salt",
-        "1 cup cheese, cut into small cubes",
-        "⅛ tsp pepper",
-        "Chili sauce (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour."
-        }
-      ],
-      "keywords": "meat loaf, cheesy, ground beef, baked",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
-      },
-      "id": 153,
-      "similarity": "0.37"
     }
   ]
 }

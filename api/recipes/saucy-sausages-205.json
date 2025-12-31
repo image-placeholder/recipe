@@ -56,6 +56,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Britt's Favourite Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Leanne Robinson"
+      },
+      "description": "A classic meatball recipe with a sweet and tangy sauce, baked in the oven.",
+      "recipeCategory": "Meat",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "½ cup quick cook oats or bran",
+        "1 egg, lightly beaten",
+        "1 pkg onion soup mix",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "½ tsp garlic powder",
+        "1 cup brown sugar",
+        "1 cup ketchup",
+        "½ cup ketchup",
+        "1 tsp Worcestershire sauce",
+        "¼ tsp garlic powder"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the first 8 ingredients in a large bowl and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into 1 inch balls and place in a 9x13 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, at 350°F for 18 to 20 minutes or until the meat is no longer pink."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine sauce ingredients and pour over the meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to the oven for an additional 10 to 15 minutes."
+        }
+      ],
+      "keywords": "meatballs, baked, sweet and tangy sauce",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "id": 151,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Beef Porcupines",
       "author": {
         "@type": "Person",
@@ -215,102 +275,50 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheesy Meat Loaf",
+      "name": "Sticky Wings",
       "author": {
         "@type": "Person",
-        "name": "Pam Allen"
+        "name": "Louise Wein"
       },
-      "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
-      "recipeCategory": "Main Course",
+      "description": "Baked chicken wings glazed with a sweet and savory brown sugar and soy sauce mixture.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
+      "prepTime": "PT10M",
       "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
-      "recipeYield": "1 loaf",
+      "totalTime": "PT1H10M",
+      "recipeYield": "2-3 lbs chicken wings",
       "recipeIngredient": [
-        "1 lb ground beef",
-        "¾ cup bread crumbs",
-        "1 beaten egg",
-        "½ cup chopped onions",
-        "¼ cup chopped green pepper",
-        "¼ cup ketchup",
-        "¾ tsp salt",
-        "1 cup cheese, cut into small cubes",
-        "⅛ tsp pepper",
-        "Chili sauce (optional)"
+        "2-3 lbs chicken wings",
+        "1 cup brown sugar",
+        "¼ cup soy sauce",
+        "2 tsp garlic salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together until well combined."
+          "text": "Preheat oven to 300°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour."
+          "text": "Break chicken wings apart at the joints and discard tips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place wings in a roasting pan and cover with the sauce mixture (brown sugar, soy sauce, garlic salt)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the sauce evaporates and wings are sticky."
         }
       ],
-      "keywords": "meat loaf, cheesy, ground beef, baked",
+      "keywords": "sticky chicken wings, baked wings, appetizer",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
+        "prepTime": "10 minutes",
         "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
+        "totalTime": "1 hour 10 minutes"
       },
-      "id": 153,
+      "id": 37,
       "similarity": "0.32"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Breast",
-      "author": {
-        "@type": "Person",
-        "name": "Sandra Martin"
-      },
-      "description": "A simple breaded chicken breast recipe.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT30M",
-      "totalTime": "PT45M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "6 chicken breasts",
-        "1 cup bread crumbs",
-        "1 tsp garlic powder",
-        "1 egg",
-        "1/2 cup milk",
-        "Salt and seasoning to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Wash chicken breast."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with garlic powder, salt, and seasoning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Dip in milk, then egg mixture, then bread crumbs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 9x13 inch pan at 350°F until golden."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with rice or noodles."
-        }
-      ],
-      "keywords": "chicken breast, breaded chicken",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "45 minutes"
-      },
-      "id": 212,
-      "similarity": "0.31"
     }
   ]
 }

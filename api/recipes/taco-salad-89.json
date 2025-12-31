@@ -59,6 +59,139 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "id": 50,
+      "similarity": "0.43"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hot Taco Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Martene"
+      },
+      "description": "A warm, layered taco dip featuring seasoned ground beef, sour cream, and melted cheddar cheese, served with tortilla chips.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "1 large serving dish",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "1 package Old El Paso taco seasoning mix",
+        "2 cups grated cheddar cheese",
+        "1 chopped green onion",
+        "1 chopped green pepper",
+        "2 cups sour cream",
+        "1 (optional) 8 oz package Philadelphia cream cheese",
+        "1 jar mild El Paso salsa",
+        "1 bag tortilla chips"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with chopped onion in a frying pan; drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add taco seasoning mix to the browned hamburger and prepare according to package directions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a 13x9x2 inch baking dish, spread the prepared hamburger mixture evenly across the bottom."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the chopped green peppers on top of the hamburger layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the sour cream and cream cheese (if using) until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the sour cream mixture over the top of the green peppers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread a layer of mild salsa over the sour cream layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with a layer of grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated oven at 350°F until heated through.",
+          "temperature": "350°F",
+          "cookMethod": "Bake"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with tortilla chips."
+        }
+      ],
+      "keywords": "hot taco dip, taco dip, Mexican appetizer, cheesy dip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 21,
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Nacho Salad",
       "author": {
         "@type": "Person",
@@ -124,237 +257,152 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cottage Cheese Jellied Salad",
+      "name": "Taco Twist Bake",
       "author": {
         "@type": "Person",
-        "name": "Jean E. Neil"
+        "name": "Cheryl MacLeod"
       },
-      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 oz package orange or lemon flavored gelatin",
-        "1 cup boiling water",
-        "1 cup drained crushed pineapple",
-        "½ cup chopped walnuts (optional)",
-        "½ cup mayonnaise",
-        "1 cup cottage cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Dissolve gelatin in boiling water."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mayonnaise and whisk to blend."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until the mixture starts to set."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
-        }
-      ],
-      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
-      },
-      "id": 66,
-      "similarity": "0.33"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cornbread Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Lorna Finkbeiner"
-      },
-      "description": "A layered salad with crumbled cornbread, black beans, corn, cheese, and a creamy dressing, perfect for chilling before serving.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
+      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
       "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 (9 oz) package cornbread mix",
-        "1 (11 oz) can whole kernel corn, drained",
-        "1 (8 oz) package cheddar cheese, shredded",
-        "1 (15 oz) can black beans, rinsed and drained",
-        "½ cup salad dressing or mayonnaise",
-        "¼ cup lime juice",
-        "1 tsp ground cumin",
-        "½ tsp salt",
-        "½ cup chopped fresh cilantro or parsley",
-        "1 large red bell pepper, chopped",
-        "1 bunch green onions, chopped",
-        "6 plum or tiny tim tomatoes, shredded",
-        "1 head iceberg lettuce, chopped",
-        "Onion curls for garnish"
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, chopped",
+        "1 can (284 mL) mushrooms, chopped",
+        "1 envelope taco seasoning mix",
+        "¾ cup water",
+        "1 can (680 mL) spaghetti sauce",
+        "¼ cup salsa (optional)",
+        "1 green pepper, chopped (optional)",
+        "2 cups spiral pasta",
+        "1 cup sour cream",
+        "1½ cups shredded cheddar cheese",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Prepare cornbread mix according to package directions and let cool. Crumble into pieces."
+          "text": "Preheat oven to 350°F and start water to cook for pasta."
         },
         {
           "@type": "HowToStep",
-          "text": "In a food processor or blender, combine salad dressing (or mayonnaise), lime juice, cumin, and salt. Process until smooth."
+          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Layer half of the lettuce, cornbread, dressing mixture, beans, corn, cheese, red bell pepper, green onions, and tomatoes in a 4-quart bowl."
+          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Repeat the layers, finishing with the remaining dressing on top. Garnish as desired with cilantro or onion curls."
+          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover and chill for 1 to 2 hours before serving."
+          "text": "Cook the spiral pasta, then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine pasta with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
         }
       ],
-      "keywords": "Cornbread salad, layered salad, Southwestern salad",
+      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "1 hour 35 minutes"
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
       },
-      "id": 71,
-      "similarity": "0.32"
+      "id": 184,
+      "similarity": "0.36"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Party-Time Salad",
+      "name": "Spaghetti Casserole",
       "author": {
         "@type": "Person",
-        "name": "Phyllis Bender"
+        "name": "Janet Dearing"
       },
-      "description": "A creamy lime Jello salad with pineapple, cream cheese, and celery.",
-      "recipeCategory": "Salad",
+      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT0M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 1½ quart mould",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 quart casserole",
       "recipeIngredient": [
-        "1 can crushed pineapple",
-        "1 (8 oz) package cream cheese",
-        "1 (3 oz) package lime flavoured Jello",
-        "1 cup celery, diced",
-        "1½ cups whipped cream"
+        "½ lb spaghetti",
+        "½ lb ground beef",
+        "1 can (19 oz) diced tomatoes",
+        "½ cup chopped onion",
+        "1 can (10 oz) condensed cream of mushroom soup",
+        "1½ tsp salt",
+        "¼ tsp pepper",
+        "1 cup grated medium cheddar cheese",
+        "½ tsp garlic",
+        "1 can (10 oz) mushroom pieces, drained"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat pineapple juice and hot water to measure 1 cup."
+          "text": "Brown the ground beef and onion in a frying pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Dissolve Jello powder in hot liquid and stir, then add ¾ cup cold water."
+          "text": "Cook spaghetti according to package directions."
         },
         {
           "@type": "HowToStep",
-          "text": "Let partially set."
+          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cream cheese and mix with beaters."
+          "text": "Pour canned tomatoes over the spaghetti layer."
         },
         {
           "@type": "HowToStep",
-          "text": "Add crushed pineapple, whipped cream, and celery."
+          "text": "Spoon the browned meat mixture over the tomatoes."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour into a 1½ quart mould and chill until firm."
+          "text": "Cover with cream of mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
         }
       ],
-      "keywords": "party-time salad, lime Jello, cream cheese, pineapple",
+      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "",
-        "totalTime": "20 minutes"
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "id": 77,
-      "similarity": "0.31"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Macaroni Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Theresa Finkbeiner"
-      },
-      "description": "A classic macaroni salad with tuna, ham, and cheddar cheese, mixed with Miracle Whip and spices.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT8M",
-      "totalTime": "PT23M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "2 cups macaroni",
-        "1 can (drained) white solid tuna",
-        "1 cup cubed cheddar cheese",
-        "1 cup cubed ham",
-        "1/2 cup cubed celery",
-        "1/4 cup chopped onion",
-        "1 tsp parsley flakes",
-        "1/2 tsp paprika",
-        "Salt to taste",
-        "Miracle Whip (enough to moisten)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook macaroni according to package directions. Let cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cut up celery, cheese, tuna, and ham into small pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine cooled macaroni with the tuna mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add enough Miracle Whip to moisten the salad."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with parsley flakes and paprika."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix well and serve."
-        }
-      ],
-      "keywords": "macaroni salad, tuna salad, cheddar cheese",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "8 minutes",
-        "totalTime": "23 minutes"
-      },
-      "id": 72,
-      "similarity": "0.30"
+      "id": 178,
+      "similarity": "0.35"
     }
   ]
 }

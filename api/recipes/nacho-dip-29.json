@@ -195,59 +195,214 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Mexican Fudge",
+      "name": "Taco Ring",
       "author": {
         "@type": "Person",
-        "name": "Linda Finkbeiner"
+        "name": "Lorie Valkengoed"
       },
-      "description": "A warm, cheesy baked appetizer served on Triscuits.",
-      "recipeCategory": "Appetizer",
+      "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
-      "cookTime": "PT30M",
-      "totalTime": "PT40M",
-      "recipeYield": "1 9×11 in pan",
+      "prepTime": "PT20M",
+      "cookTime": "PT16M",
+      "totalTime": "PT36M",
+      "recipeYield": "1 ring",
       "recipeIngredient": [
-        "2 cups shredded cheddar cheese",
-        "3 eggs, lightly beaten",
-        "½ cup taco or salsa sauce",
-        "2 cups shredded mozzarella cheese",
-        "Triscuits for serving"
+        "1 lb lean ground hamburger",
+        "1 cup water",
+        "1 packet taco seasoning mix",
+        "2 cups shredded lettuce",
+        "1 cup grated mild cheddar cheese",
+        "1 cup salsa dip",
+        "2 packages Pillsbury crescent rolls",
+        "1 tomato, diced",
+        "1 green pepper (optional)",
+        "Sour cream for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Grease a 9×11 in pan and spread the cheddar cheese evenly on the bottom."
+          "text": "Fry the hamburger and let it cool."
         },
         {
           "@type": "HowToStep",
-          "text": "Lightly beat the eggs and mix with taco or salsa sauce."
+          "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the egg mixture over the cheddar cheese."
+          "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with the shredded mozzarella cheese."
+          "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes."
+          "text": "Add shredded cheese on top of the hamburger mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Cut into squares while warm and serve on Triscuits."
+          "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let cool slightly before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
         }
       ],
-      "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
+      "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "16 minutes",
+        "totalTime": "36 minutes"
+      },
+      "id": 183,
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
       "_naturalized_times": {
         "prepTime": "10 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "40 minutes"
+        "cookTime": "",
+        "totalTime": "10 minutes"
       },
-      "id": 12,
-      "similarity": "0.35"
+      "id": 50,
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Twist Bake",
+      "author": {
+        "@type": "Person",
+        "name": "Cheryl MacLeod"
+      },
+      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, chopped",
+        "1 can (284 mL) mushrooms, chopped",
+        "1 envelope taco seasoning mix",
+        "¾ cup water",
+        "1 can (680 mL) spaghetti sauce",
+        "¼ cup salsa (optional)",
+        "1 green pepper, chopped (optional)",
+        "2 cups spiral pasta",
+        "1 cup sour cream",
+        "1½ cups shredded cheddar cheese",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and start water to cook for pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the spiral pasta, then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine pasta with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
+        }
+      ],
+      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 184,
+      "similarity": "0.40"
     }
   ]
 }

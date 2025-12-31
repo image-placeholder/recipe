@@ -209,6 +209,60 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Cottage Cheese Jellied Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 oz package orange or lemon flavored gelatin",
+        "1 cup boiling water",
+        "1 cup drained crushed pineapple",
+        "½ cup chopped walnuts (optional)",
+        "½ cup mayonnaise",
+        "1 cup cottage cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve gelatin in boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise and whisk to blend."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until the mixture starts to set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
+        }
+      ],
+      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "id": 66,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Party Salmon Ball",
       "author": {
         "@type": "Person",
@@ -255,70 +309,6 @@
         "totalTime": "8 hours 15 minutes"
       },
       "id": 8,
-      "similarity": "0.31"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Artichoke Appetizer",
-      "author": {
-        "@type": "Person",
-        "name": "Loma Finkbeiner"
-      },
-      "description": "A warm, cheesy artichoke appetizer perfect for serving with bread or crackers.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT25M",
-      "totalTime": "PT35M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 (14 oz) can artichoke hearts",
-        "Dash garlic salt",
-        "1 cup grated Parmesan cheese",
-        "2 Tbsp chopped green onion",
-        "1 cup shredded mozzarella cheese",
-        "1 Tbsp chopped parsley",
-        "1 cup Hellmann's mayonnaise"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Drain artichoke hearts."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine artichoke hearts with cheese, mayonnaise, garlic salt, and green onion in a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle parsley over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 25 to 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT25M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with bread or crackers."
-        }
-      ],
-      "keywords": "artichoke appetizer, cheesy dip, party snack",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "35 minutes"
-      },
-      "id": 1,
       "similarity": "0.31"
     }
   ]

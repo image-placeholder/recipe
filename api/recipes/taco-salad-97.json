@@ -110,60 +110,272 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Black Bean Salad",
+      "name": "Taco Twist Bake",
       "author": {
         "@type": "Person",
-        "name": "Julie-Ann Bibby"
+        "name": "Cheryl MacLeod"
       },
-      "description": "A fresh and vibrant salad featuring black beans, salsa, and corn kernels on a bed of romaine lettuce.",
-      "recipeCategory": "Salad",
+      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "Mexican-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 ripened tomato, chopped",
-        "2 cups shredded romaine lettuce",
-        "1/2 cup of your favorite salsa",
-        "1 cup fresh corn kernels",
-        "2 sliced scallions",
-        "1 can black beans (15 oz)"
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, chopped",
+        "1 can (284 mL) mushrooms, chopped",
+        "1 envelope taco seasoning mix",
+        "¾ cup water",
+        "1 can (680 mL) spaghetti sauce",
+        "¼ cup salsa (optional)",
+        "1 green pepper, chopped (optional)",
+        "2 cups spiral pasta",
+        "1 cup sour cream",
+        "1½ cups shredded cheddar cheese",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine chopped tomato, salsa, and scallions in a bowl."
+          "text": "Preheat oven to 350°F and start water to cook for pasta."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in the black beans."
+          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread shredded romaine lettuce in a serving dish."
+          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Top the lettuce with the bean and salsa mixture."
+          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
         },
         {
           "@type": "HowToStep",
-          "text": "Microwave the corn kernels on high for 30 seconds."
+          "text": "Cook the spiral pasta, then rinse and drain."
         },
         {
           "@type": "HowToStep",
-          "text": "Distribute the warmed corn over the salad and serve."
+          "text": "Combine pasta with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
         }
       ],
-      "keywords": "black bean salad, Mexican salad, fresh corn",
+      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 184,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hot Taco Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Martene"
+      },
+      "description": "A warm, layered taco dip featuring seasoned ground beef, sour cream, and melted cheddar cheese, served with tortilla chips.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "1 large serving dish",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "1 package Old El Paso taco seasoning mix",
+        "2 cups grated cheddar cheese",
+        "1 chopped green onion",
+        "1 chopped green pepper",
+        "2 cups sour cream",
+        "1 (optional) 8 oz package Philadelphia cream cheese",
+        "1 jar mild El Paso salsa",
+        "1 bag tortilla chips"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with chopped onion in a frying pan; drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add taco seasoning mix to the browned hamburger and prepare according to package directions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a 13x9x2 inch baking dish, spread the prepared hamburger mixture evenly across the bottom."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the chopped green peppers on top of the hamburger layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the sour cream and cream cheese (if using) until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the sour cream mixture over the top of the green peppers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread a layer of mild salsa over the sour cream layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with a layer of grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated oven at 350°F until heated through.",
+          "temperature": "350°F",
+          "cookMethod": "Bake"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with tortilla chips."
+        }
+      ],
+      "keywords": "hot taco dip, taco dip, Mexican appetizer, cheesy dip",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
       },
-      "id": 48,
-      "similarity": "0.26"
+      "id": 21,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Meghan Brand"
+      },
+      "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 large glass pan",
+      "recipeIngredient": [
+        "8 oz pkg cream cheese",
+        "500 g tub sour cream",
+        "¼ pkg taco seasoning mix",
+        "1 cup shredded cheddar cheese",
+        "1 small container salsa sauce",
+        "1 chopped red pepper",
+        "1 chopped green pepper",
+        "1 chopped tomato",
+        "Baked nacho chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the mixture in a large glass pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread salsa sauce over the cream cheese layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the salsa layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped red pepper, green pepper, and tomato on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with baked nacho chips."
+        }
+      ],
+      "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "id": 29,
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Van Valkengoed"
+      },
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta according to package instructions, then drain and cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the feta cheese into the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+        }
+      ],
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "id": 85,
+      "similarity": "0.32"
     }
   ]
 }

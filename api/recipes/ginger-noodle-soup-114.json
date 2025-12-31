@@ -53,5 +53,312 @@
     "totalTime": "25 minutes"
   },
   "id": 114,
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mushroom Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp butter",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 cups sliced mushrooms",
+        "1/4 cup flour",
+        "2 cups stock (chicken or vegetable)",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "3 cups milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute butter, onion, garlic and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, sauces and milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until heated through (approximately 15 minutes)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "mushroom soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 113,
+      "similarity": "0.43"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tomato Macaroni Soup",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Linda Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Shirley Preszcator"
+        }
+      ],
+      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 Tbsp oil",
+        "1½ cups water",
+        "1 cooking onion, diced",
+        "1 cup dry macaroni",
+        "2 carrots, diced",
+        "½ tsp garlic salt",
+        "3 or 4 celery stalks, diced",
+        "½ tsp Worcestershire sauce",
+        "2 cups chicken stock",
+        "2 cups tomato juice",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute onion, celery, and carrot in oil until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, juice, and water. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add pasta and cook until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic salt and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season to taste with salt and pepper."
+        }
+      ],
+      "keywords": "tomato macaroni soup, comfort food, pasta soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 123,
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Dad's Spaghetti",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Nakamura"
+      },
+      "description": "A comforting spaghetti dish with bacon, mushrooms, and a creamy mushroom soup sauce.",
+      "recipeCategory": "Pasta",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 can mushroom soup",
+        "1½ cups sliced mushrooms",
+        "½ to 1 lb bacon, chopped",
+        "1 small onion, chopped",
+        "1 to 2 tsp garlic salt or 1 to 2 minced garlic cloves",
+        "3 to 4 Tbsp mozzarella cheese",
+        "1 lb spaghetti"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti, drain, and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown bacon in a frying pan with garlic salt or minced garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bacon and most of the grease from the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onion and mushrooms in the same pan until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return bacon to the pan and add mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir and heat the sauce through, adding cheese and enough water to achieve the desired consistency."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the sauce with cooked spaghetti and serve."
+        }
+      ],
+      "keywords": "spaghetti, bacon, mushroom sauce, creamy pasta",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 181,
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stir-Fry Beef",
+      "author": {
+        "@type": "Person",
+        "name": "Donise Baker (Dundas)"
+      },
+      "description": "A quick and flavorful beef stir-fry with vegetables and a savory sauce, served over cooked rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 can tomato soup",
+        "2 Tbsp vegetable oil",
+        "½ cup orange juice",
+        "2 lb boneless beef sirloin, cut into pieces",
+        "4 Tbsp soya sauce",
+        "1 large green pepper, cut into strips",
+        "2 Tbsp vinegar",
+        "8 cups cooked rice",
+        "1 large onion, sliced"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat vegetable oil in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add beef and stir-fry until cooked through. Set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add peppers and onion to the pan and stir-fry until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the mixture of tomato soup, soya sauce, orange juice, and vinegar. Cook until heated through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return beef to the pan and heat through, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the beef mixture over cooked rice."
+        }
+      ],
+      "keywords": "beef stir-fry, Asian-inspired, quick dinner",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 145,
+      "similarity": "0.28"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Minestrone Soup with Shells",
+      "author": {
+        "@type": "Person",
+        "name": "Fred Bowers"
+      },
+      "description": "A hearty minestrone soup with small shell macaroni, kidney beans, and vegetables, topped with Parmesan cheese.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "3 slices bacon, chopped",
+        "1 onion, chopped",
+        "1 carrot, chopped",
+        "1 stalk celery, chopped",
+        "¾ cup (175 mL) small shell macaroni",
+        "1 can (14 oz/398 mL) red or white kidney beans, drained",
+        "3 cloves garlic, minced",
+        "4 cups (1 L) water",
+        "3 cans (10 oz/284 mL each) chicken broth",
+        "1 can (19 oz/540 mL) tomatoes, coarsely chopped with liquid",
+        "Chopped fresh parsley",
+        "Grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, cook the chopped bacon until crisp. Add the onion, carrot, celery, and cabbage; cook, stirring occasionally, for about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the water, chicken broth, and tomatoes with their liquid. Bring to a boil, then reduce heat and simmer, covered, for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the small shell macaroni and cook, uncovered, for 15 minutes longer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the kidney beans, garlic, and parsley to the soup; heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve topped with grated Parmesan cheese."
+        }
+      ],
+      "keywords": "minestrone soup, pasta soup, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "id": 117,
+      "similarity": "0.28"
+    }
+  ]
 }

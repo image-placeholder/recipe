@@ -103,42 +103,191 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cold Meat Mustard",
+      "name": "Sour 'N Sweet Pork Chops",
       "author": {
         "@type": "Person",
-        "name": "Alwinna Galloway"
+        "name": "Nola Ratz"
       },
-      "description": "A tangy mustard sauce for cold meats.",
-      "recipeCategory": "Sauce",
+      "description": "A tangy and sweet pork chop dish simmered in a rich sauce made with brown sugar, vinegar, and Worcestershire sauce.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "totalTime": "PT5M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 tsp vinegar",
-        "3 heaping tsp mustard",
-        "4 heaping tsp Miracle Whip",
-        "8 tsp white sugar",
-        "2 tsp flour"
+        "4 pork chops",
+        "½ cup brown sugar",
+        "¼ cup vinegar",
+        "½ cup water",
+        "1 Tbsp Worcestershire sauce",
+        "¼ cup ketchup",
+        "2 Tbsp flour (for thickening)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together."
+          "text": "Drain excess fat from pork chops and brown them in a large frying pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Put in fridge."
+          "text": "Mix together water, brown sugar, vinegar, Worcestershire sauce, and ketchup. Pour over the browned chops."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 30 minutes or until done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, thicken the liquid with 2 Tbsp flour. Serve with rice."
         }
       ],
-      "keywords": "mustard sauce, cold meat, condiment",
+      "keywords": "sour sweet pork chops, tangy pork, brown sugar sauce",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": null,
-        "totalTime": "5 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
       },
-      "id": 122,
-      "similarity": "0.26"
+      "id": 207,
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Celebrity",
+      "author": {
+        "@type": "Person",
+        "name": "Rosemary Stewart"
+      },
+      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 to 3 lb chicken parts",
+        "1/4 cup brown sugar",
+        "1 package dry onion soup mix",
+        "1/2 cup ketchup",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken parts in a small roaster or casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 350°F oven for 1 hour or until tender."
+        }
+      ],
+      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "id": 237,
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cranberry Mold",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Macisaac"
+      },
+      "description": "A simple cranberry mold dessert made with raspberry Jello, sugar, and whole orange.",
+      "recipeCategory": "Dessert",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "recipeYield": "1 mold",
+      "recipeIngredient": [
+        "1 cup white sugar",
+        "2 cups cranberries",
+        "1 package raspberry Jello powder",
+        "1 whole orange"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put the cranberries and whole orange through a food chopper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the chopped cranberries and orange with sugar and raspberry Jello powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mixture in a mold and set."
+        }
+      ],
+      "keywords": "cranberry mold, raspberry Jello, dessert",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "id": 78,
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Evelyn Pickering"
+      },
+      "description": "A thickened salad dressing made by boiling a mixture of eggs, sugar, flour, mustard, water, and vinegar, finished with butter.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "3 Tbsp flour",
+        "3 eggs",
+        "1 cup white sugar",
+        "1½ cups water",
+        "1 Tbsp dry mustard",
+        "1 cup vinegar",
+        "1 Tbsp butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat eggs and add sugar and dry ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil water and vinegar together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour egg mixture into vinegar-water mixture and boil until it thickens, stirring continually."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Take off heat and stir in 1 Tbsp butter."
+        }
+      ],
+      "keywords": "thickened salad dressing, boiled dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 104,
+      "similarity": "0.30"
     }
   ]
 }

@@ -127,6 +127,61 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Potato Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "6 diced and peeled potatoes",
+        "2 diced and peeled carrots",
+        "1 chopped onion",
+        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
+        "6 Tbsp butter",
+        "6 Tbsp flour",
+        "Sour cream (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Microwave onions and butter until soft, about 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
+        }
+      ],
+      "keywords": "potato soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 125,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Broccoli Casserole",
       "author": {
         "@type": "Person",
@@ -242,116 +297,59 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sliced Baked Potatoes",
+      "name": "Cheese Dip in a Bread Bowl",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Sherri Haugh"
       },
-      "description": "A simple yet elegant baked potato dish featuring thinly sliced potatoes topped with melted cheddar and Parmesan cheese, and fresh herbs.",
-      "recipeCategory": "Side Dish",
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "4 medium baking potatoes",
-        "2-3 Tbsp melted butter",
-        "2-3 Tbsp fresh chopped herbs (such as parsley, chives, thyme, or sage)",
-        "2 Tbsp grated cheddar cheese",
-        "1½ Tbsp Parmesan cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Scrub and rinse the potatoes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cut the potatoes crosswise into thin slices, but not all the way through. Use the handle of a wooden spoon on either side of the potato to guide the knife."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the potatoes on a baking sheet and fan them slightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drizzle the potatoes with melted butter and sprinkle with fresh herbs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 425°F for about 50 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with cheddar and Parmesan cheese and return to the oven until the cheese is lightly browned and the potatoes are soft inside."
-        }
-      ],
-      "keywords": "baked potatoes, sliced potatoes, cheesy potatoes, herbed potatoes",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "id": 138,
-      "similarity": "0.36"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Potato Casserole",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Heather Clarke"
-        },
-        {
-          "@type": "Person",
-          "name": "M. Leanne Kenney"
-        }
-      ],
-      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
+      "prepTime": "PT20M",
       "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "1 casserole",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
       "recipeIngredient": [
-        "1 (2 lb) bag frozen hash browns",
-        "1 can cream of celery soup",
-        "1 can cream of mushroom soup",
-        "500 mL sour cream",
-        "1 cup grated cheese",
-        "¼ cup diced onions"
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together in a shallow pan until well combined."
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT1H"
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
         }
       ],
-      "keywords": "potato casserole, hash browns, creamy, cheesy",
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
+        "prepTime": "20 minutes",
         "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
+        "totalTime": "1 hour 20 minutes"
       },
-      "id": 141,
-      "similarity": "0.30"
+      "id": 4,
+      "similarity": "0.36"
     }
   ]
 }

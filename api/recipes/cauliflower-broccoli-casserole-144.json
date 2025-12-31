@@ -177,6 +177,61 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeIngredient": [
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 129,
+      "similarity": "0.44"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Potato Casserole",
       "author": [
         {
@@ -234,156 +289,60 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Swedish Potatoes",
+      "name": "Supreme Broccoli Soup Casserole",
       "author": {
         "@type": "Person",
-        "name": "Barbara Ratz"
+        "name": "Flora Hodge"
       },
-      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
-      "recipeCategory": "Side Dish",
+      "description": "A creamy broccoli casserole with a crunchy crouton topping, baked until golden.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT30M",
       "totalTime": "PT50M",
-      "recipeYield": "10-12 servings",
+      "recipeYield": "1 9x9 inch pan",
       "recipeIngredient": [
-        "12 large potatoes",
-        "2 slightly beaten eggs",
-        "1 cup sour cream",
-        "1 tsp salt",
-        "¾ cup bread crumbs",
-        "2 Tbsp butter",
-        "1¼ tsp butter",
-        "1 (8 oz) package cream cheese",
-        "2 tsp onion salt or chopped onion"
+        "1 can mushroom soup",
+        "1 head broccoli, cooked",
+        "1/2 cup grated carrot",
+        "1 Tbsp flour",
+        "Salt and pepper to taste",
+        "1/2 cup sour cream",
+        "4 Tbsp melted butter",
+        "1 Tbsp chopped onion",
+        "1/2 cup croutons",
+        "1 cup sour cream"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook and mash the potatoes."
+          "text": "Place cooked broccoli in a 9x9 inch pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
+          "text": "Mix together mushroom soup, flour, sour cream, and seasonings. Pour over broccoli."
         },
         {
           "@type": "HowToStep",
-          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
+          "text": "Sprinkle grated carrot, chopped onion, and croutons over the top."
         },
         {
           "@type": "HowToStep",
-          "text": "Dot the top with butter and sprinkle with bread crumbs."
+          "text": "Drizzle with melted butter."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake, covered, at 350°F for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
+          "text": "Bake at 325°F for 1/2 hour."
         }
       ],
-      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+      "keywords": "broccoli casserole, creamy soup casserole, baked vegetable dish",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "id": 137,
+      "id": 128,
       "similarity": "0.38"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cauliflower Christmas",
-      "author": {
-        "@type": "Person",
-        "name": "Kim MacDonald"
-      },
-      "description": "A layered cauliflower dish with Swiss cheese, green peppers, and mushrooms, baked until golden.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "1 baking dish",
-      "recipeIngredient": [
-        "2 cups milk",
-        "1 large cauliflower",
-        "1 cup shredded Swiss cheese",
-        "1 cup diced green peppers",
-        "2 Tbsp pimiento, drained",
-        "1 can mushrooms, drained",
-        "1 tsp salt",
-        "¼ cup butter/margarine",
-        "⅓ cup flour",
-        "Paprika for sprinkling"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the green peppers and mushrooms in butter until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add flour to the sautéed mixture and stir to combine."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gradually stir in milk, bringing the mixture to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from heat and add shredded cheese, stirring until melted."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a greased baking dish, layer half of the cauliflower."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with half of the cheese sauce and half of the pimiento."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Repeat the layers, finishing with the remaining cauliflower and sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with paprika.",
-          "tool": [
-            {
-              "@type": "HowToTool",
-              "name": "Paprika shaker"
-            }
-          ]
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake uncovered at 325°F for 25 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 325,
-            "unitCode": "FAR"
-          },
-          "duration": "PT25M"
-        }
-      ],
-      "keywords": "cauliflower, Swiss cheese, baked casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
-      },
-      "id": 139,
-      "similarity": "0.35"
     }
   ]
 }

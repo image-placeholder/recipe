@@ -85,6 +85,206 @@
       },
       "id": 101,
       "similarity": "0.52"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Coleslaw Chalet Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (medium size) head cabbage, shredded",
+        "2 carrots, finely chopped",
+        "1 Spanish onion, minced",
+        "3 stalks celery, finely chopped",
+        "¾ cup white sugar",
+        "¾ cup salad oil",
+        "1 cup white vinegar",
+        "2 tsp salt",
+        "1 tsp celery seed",
+        "1 Green pepper, finely chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring all dressing ingredients to a boil and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
+        }
+      ],
+      "keywords": "coleslaw, chalet dressing, salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "id": 57,
+      "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "Tangy pickled eggs made with vinegar, mustard, and spices, perfect for snacking or as a side dish.",
+      "recipeCategory": "Snack",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT5M",
+      "totalTime": "5 days",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "12 hard-boiled eggs",
+        "2 cups white vinegar",
+        "1 cup water",
+        "1 tsp dry mustard",
+        "1 tsp salt",
+        "½ tsp pepper",
+        "1 onion, cut into pieces",
+        "Pinch of sugar (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the vinegar, water, mustard, salt, pepper, and onion pieces in a saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the mixture to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot pickling liquid over the hard-boiled eggs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the eggs stand in the pickling liquid for 5 days before serving."
+        }
+      ],
+      "keywords": "pickled eggs, tangy snack, preserved eggs",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": null
+      },
+      "id": 35,
+      "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hot Potato Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "Serves 4-6",
+      "recipeIngredient": [
+        "3 to 4 cups sliced potatoes",
+        "⅓ cup white vinegar",
+        "1 Tbsp flour",
+        "¾ cup water",
+        "1 Tbsp butter",
+        "Salt and pepper to taste",
+        "Pinch of sugar"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, combine the white vinegar, flour, and water. Heat, stirring constantly, until the mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the butter, salt, pepper, and sugar to the vinegar mixture. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot dressing over the sliced potatoes."
+        }
+      ],
+      "keywords": "hot potato salad, vinegar dressing, warm salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "id": 86,
+      "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Supreme",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "A chilled broccoli salad with raisins, bacon, and a creamy cheese dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT3H25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "6 cups fresh broccoli",
+        "2 Tbsp vinegar",
+        "2 Tbsp vegetable oil",
+        "1/3 cup raisins",
+        "2 tsp white sugar",
+        "2 Tbsp chopped onion",
+        "1 Tbsp prepared mustard",
+        "6 or 8 slices bacon, cooled and crumbled",
+        "1/4 tsp salt",
+        "1/8 tsp garlic powder",
+        "1 small pkg cream cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat dressing ingredients until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add dressing to broccoli, raisins, and onion. Cover and chill at least 3 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with bacon and serve."
+        }
+      ],
+      "keywords": "broccoli salad, bacon, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "3 hours 25 minutes"
+      },
+      "id": 60,
+      "similarity": "0.39"
     }
   ]
 }

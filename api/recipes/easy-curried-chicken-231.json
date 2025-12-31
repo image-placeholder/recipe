@@ -56,6 +56,177 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Baked Cauliflower",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "June Schroeder"
+        },
+        {
+          "@type": "Person",
+          "name": "Marie Dinney"
+        }
+      ],
+      "description": "A creamy baked cauliflower casserole with cheese, mayonnaise, and curry powder.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 large cauliflower, broken apart",
+        "1 (10 oz) can cream of chicken soup",
+        "1 cup shredded cheese",
+        "1/3 cup mayonnaise",
+        "1/2 tsp salt",
+        "1/2 tsp curry powder",
+        "1/4 cup bread crumbs",
+        "2 Tbsp melted butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook cauliflower in boiling water and salt for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a casserole dish, stir together undiluted soup, cheese, mayonnaise, and curry powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cauliflower and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss bread crumbs in melted butter and sprinkle on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 30 minutes at 250°F until bubbly."
+        }
+      ],
+      "keywords": "baked cauliflower, cheesy casserole",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "id": 143,
+      "similarity": "0.41"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeIngredient": [
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 129,
+      "similarity": "0.39"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Breast",
+      "author": {
+        "@type": "Person",
+        "name": "Sandra Martin"
+      },
+      "description": "A simple breaded chicken breast recipe.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 chicken breasts",
+        "1 cup bread crumbs",
+        "1 tsp garlic powder",
+        "1 egg",
+        "1/2 cup milk",
+        "Salt and seasoning to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash chicken breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with garlic powder, salt, and seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip in milk, then egg mixture, then bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 9x13 inch pan at 350°F until golden."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with rice or noodles."
+        }
+      ],
+      "keywords": "chicken breast, breaded chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "id": 212,
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Curry Chicken",
       "author": {
         "@type": "Person",
@@ -110,6 +281,80 @@
       },
       "id": 230,
       "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Classy Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "A creamy, curry-flavored chicken dish with asparagus or broccoli and a cheddar cheese topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "3 skinless, boneless chicken breasts",
+        "1 can cream of chicken soup",
+        "½ cup mayonnaise",
+        "¼ tsp pepper",
+        "1 tsp curry powder",
+        "3 Tbsp oil",
+        "1 tsp lemon juice",
+        "1 (10 oz) pkg frozen asparagus or broccoli",
+        "1 cup grated cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the chicken into 2×4 inch pieces and sprinkle with pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Saute the chicken slowly in oil over medium heat until white and clear, about 6 minutes. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook asparagus or broccoli until tender crisp, drain, and arrange in the bottom of a buttered 7-inch diameter casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken on top of the asparagus or broccoli layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream of chicken soup, mayonnaise, curry powder, and lemon juice together and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the grated cheddar cheese over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, at 375 °F for 30 to 35 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "creamy chicken, curry chicken, asparagus, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 243,
+      "similarity": "0.37"
     }
   ]
 }

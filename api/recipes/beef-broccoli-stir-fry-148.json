@@ -49,5 +49,333 @@
     "totalTime": "25 minutes"
   },
   "id": 148,
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stir-Fry Beef",
+      "author": {
+        "@type": "Person",
+        "name": "Donise Baker (Dundas)"
+      },
+      "description": "A quick and flavorful beef stir-fry with vegetables and a savory sauce, served over cooked rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 can tomato soup",
+        "2 Tbsp vegetable oil",
+        "½ cup orange juice",
+        "2 lb boneless beef sirloin, cut into pieces",
+        "4 Tbsp soya sauce",
+        "1 large green pepper, cut into strips",
+        "2 Tbsp vinegar",
+        "8 cups cooked rice",
+        "1 large onion, sliced"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat vegetable oil in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add beef and stir-fry until cooked through. Set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add peppers and onion to the pan and stir-fry until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the mixture of tomato soup, soya sauce, orange juice, and vinegar. Cook until heated through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return beef to the pan and heat through, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the beef mixture over cooked rice."
+        }
+      ],
+      "keywords": "beef stir-fry, Asian-inspired, quick dinner",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 145,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Tie Bow and Beef",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A hearty pasta dish with sautéed beef, mushrooms, and red peppers, topped with Parmesan cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 tsp (5 mL) cooking oil",
+        "8 oz (225 g) pasta bow tie",
+        "2 cups (500 mL) boiling water",
+        "3 Tbsp (45 mL) cooking oil (divided)",
+        "1 Tbsp (15 mL) salt",
+        "¾ lb (340 g) sirloin steak, sliced into thin strips",
+        "2 tsp (10 mL) dried crushed chilies",
+        "1 red pepper, cut into ¾ inch squares",
+        "Parmesan cheese for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta in boiling water with 1 tsp cooking oil and salt for about 12 minutes. Drain and keep warm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat wok on medium-high. Add 1 Tbsp cooking oil and stir-fry beef strips until desired doneness. Transfer to bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add another 1 Tbsp cooking oil to the wok. Stir-fry mushrooms, red pepper, and crushed chilies for 2 to 3 minutes until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add beef back into the wok and heat through. Stir in Parmesan cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cooked pasta on a plate and spoon the beef mixture over top. Sprinkle with additional Parmesan cheese."
+        }
+      ],
+      "keywords": "pasta, beef, Italian-inspired, Parmesan cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 146,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Beef and Potato Bake",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Jefferies"
+      },
+      "description": "A layered casserole featuring ground beef, potatoes, zucchini, and a creamy cheddar sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "1 13x9 inch baking dish",
+      "recipeIngredient": [
+        "3 potatoes, peeled and thinly sliced",
+        "1 lb ground beef",
+        "¼ cup butter, divided",
+        "2 Tbsp vegetable oil",
+        "2 small zucchini, sliced",
+        "1 tsp Italian seasoning",
+        "½ cup prepared tomato pasta sauce",
+        "2 cups milk, divided",
+        "¼ cup flour",
+        "1½ cups grated cheddar cheese",
+        "1 onion, chopped",
+        "½ tsp salt",
+        "½ tsp pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt 2 tablespoons butter and oil over medium-low heat. Add potatoes and cook for 5 minutes, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add zucchini, salt, and pepper to the skillet. Cook until zucchini is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the vegetable mixture into a 13x9 inch baking dish. Set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the same skillet, cook onion and Italian seasoning until onion is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ground beef to the skillet and cook until it loses its pink color. Stir in tomato sauce and ½ cup milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the meat mixture over the vegetable layer in the baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt remaining butter in the skillet, stir in flour, and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually whisk in remaining milk. Cook and stir until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in cheddar cheese until melted. Pour the sauce over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 20 to 25 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 minutes before serving."
+        }
+      ],
+      "keywords": "beef casserole, potato bake, creamy sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "id": 158,
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken-Pineapple Stir-Fry",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "12 oz deboned chicken breast",
+        "2 tsp cornstarch",
+        "1 onion, chopped",
+        "¼ tsp cinnamon",
+        "1 cup diced celery",
+        "1½ tsp soya sauce",
+        "1 cup green pepper strips",
+        "2 tsp margarine",
+        "2 cups pineapple chunks (with juice reserved)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and cook until the sauce is clear and thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the stir-fry over hot rice."
+        }
+      ],
+      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "id": 221,
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Yummy Country-Style Ribs",
+      "author": {
+        "@type": "Person",
+        "name": "Leanne M. Kenney"
+      },
+      "description": "A flavorful and tender country-style ribs recipe marinated in a mixture of soy sauce, orange juice, and spices, then grilled to perfection.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT24H20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 lb (1 kg) country-style pork ribs",
+        "⅔ cup orange juice",
+        "2 Tbsp dry mustard",
+        "1 Tbsp coarsely ground pepper",
+        "1½ cups vegetable oil",
+        "¾ cup soy sauce",
+        "2 tsp salt",
+        "2 Tbsp chopped parsley",
+        "½ cup vinegar",
+        "1 clove garlic, minced",
+        "¼ cup Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all marinade ingredients except the ribs in a bowl. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place ribs in a shallow dish and cover with the marinade. Refrigerate for 24 hours, turning meat occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove ribs from marinade and place on barbecue grill. Cook over low heat for about 1 hour, brushing with marinade occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Close barbecue hood and continue cooking until done, about 15 minutes more."
+        }
+      ],
+      "keywords": "country-style ribs, marinated ribs, BBQ ribs",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "24 hours 20 minutes"
+      },
+      "id": 208,
+      "similarity": "0.31"
+    }
+  ]
 }

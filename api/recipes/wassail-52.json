@@ -96,6 +96,132 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Chicken Grape Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A refreshing salad made with cooked chicken, green grapes, celery, and toasted almonds, mixed with a creamy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1½ cups cooked chicken, cubed",
+        "1½ cups green grapes, halved",
+        "½ cup celery, thinly sliced",
+        "Toasted almonds",
+        "¼ cup mayonnaise",
+        "1 Tbsp milk or cream",
+        "½ tsp salt",
+        "¼ tsp dry mustard",
+        "⅛ tsp pepper",
+        "½ tsp lemon juice",
+        "Lettuce for serving",
+        "Parsley for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine dressing ingredients in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss chicken, grapes, celery, and almonds together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken mixture on lettuce and garnish with parsley."
+        }
+      ],
+      "keywords": "chicken salad, grape salad, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "id": 65,
+      "similarity": "0.27"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Classy Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "A creamy, curry-flavored chicken dish with asparagus or broccoli and a cheddar cheese topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "3 skinless, boneless chicken breasts",
+        "1 can cream of chicken soup",
+        "½ cup mayonnaise",
+        "¼ tsp pepper",
+        "1 tsp curry powder",
+        "3 Tbsp oil",
+        "1 tsp lemon juice",
+        "1 (10 oz) pkg frozen asparagus or broccoli",
+        "1 cup grated cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the chicken into 2×4 inch pieces and sprinkle with pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Saute the chicken slowly in oil over medium heat until white and clear, about 6 minutes. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook asparagus or broccoli until tender crisp, drain, and arrange in the bottom of a buttered 7-inch diameter casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken on top of the asparagus or broccoli layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream of chicken soup, mayonnaise, curry powder, and lemon juice together and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the grated cheddar cheese over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, at 375 °F for 30 to 35 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "creamy chicken, curry chicken, asparagus, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "id": 243,
+      "similarity": "0.25"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Perfect Punch",
       "author": {
         "@type": "Person",
@@ -184,97 +310,6 @@
       },
       "id": 53,
       "similarity": "0.24"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Orange Julius Drink",
-      "author": {
-        "@type": "Person",
-        "name": "Dave MacLeod"
-      },
-      "description": "A creamy and refreshing orange drink made with frozen orange juice concentrate, milk, and vanilla.",
-      "recipeCategory": "Beverage",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "About 5 cups",
-      "recipeIngredient": [
-        "3/4 cup frozen concentrated orange juice",
-        "2 Tbsp white sugar",
-        "2 tsp vanilla",
-        "1 cup milk",
-        "1 cup water",
-        "12 ice cubes"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Blend the orange juice concentrate, sugar, vanilla, milk, and water in a blender until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add ice cubes just before serving and blend until the ice is fully incorporated."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately and enjoy."
-        }
-      ],
-      "keywords": "orange drink, creamy beverage, frozen orange juice",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "id": 56,
-      "similarity": "0.23"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Jo-Ann's Homemade Iced Tea",
-      "author": {
-        "@type": "Person",
-        "name": "Suzanne Finkbeiner"
-      },
-      "description": "A refreshing homemade iced tea recipe sweetened with sugar and mixed with frozen lemonade for a tangy twist.",
-      "recipeCategory": "Beverage",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 large container",
-      "recipeIngredient": [
-        "1 brewed pot of tea (made with 4 tea bags)",
-        "1 cup sugar",
-        "1 container frozen lemonade",
-        "Water",
-        "Ice cubes"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine brewed tea, sugar, and frozen lemonade in a large container."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cold water to taste."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with ice cubes."
-        }
-      ],
-      "keywords": "homemade iced tea, sweet tea, lemonade-infused tea, refreshing drink",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "id": 42,
-      "similarity": "0.16"
     }
   ]
 }

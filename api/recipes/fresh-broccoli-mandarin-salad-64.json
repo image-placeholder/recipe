@@ -262,6 +262,57 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Evelyn Pickering"
+      },
+      "description": "A thickened salad dressing made by boiling a mixture of eggs, sugar, flour, mustard, water, and vinegar, finished with butter.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "3 Tbsp flour",
+        "3 eggs",
+        "1 cup white sugar",
+        "1½ cups water",
+        "1 Tbsp dry mustard",
+        "1 cup vinegar",
+        "1 Tbsp butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat eggs and add sugar and dry ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil water and vinegar together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour egg mixture into vinegar-water mixture and boil until it thickens, stirring continually."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Take off heat and stir in 1 Tbsp butter."
+        }
+      ],
+      "keywords": "thickened salad dressing, boiled dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 104,
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Broccoli Supreme",
       "author": {
         "@type": "Person",
@@ -309,53 +360,6 @@
       },
       "id": 60,
       "similarity": "0.40"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Hot Potato Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT5M",
-      "totalTime": "PT15M",
-      "recipeYield": "Serves 4-6",
-      "recipeIngredient": [
-        "3 to 4 cups sliced potatoes",
-        "⅓ cup white vinegar",
-        "1 Tbsp flour",
-        "¾ cup water",
-        "1 Tbsp butter",
-        "Salt and pepper to taste",
-        "Pinch of sugar"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a saucepan, combine the white vinegar, flour, and water. Heat, stirring constantly, until the mixture thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the butter, salt, pepper, and sugar to the vinegar mixture. Bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the hot dressing over the sliced potatoes."
-        }
-      ],
-      "keywords": "hot potato salad, vinegar dressing, warm salad",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "15 minutes"
-      },
-      "id": 86,
-      "similarity": "0.38"
     }
   ]
 }

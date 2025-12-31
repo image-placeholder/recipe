@@ -248,69 +248,67 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Rumaki",
+      "name": "Cheddar Baked Potato Slices",
       "author": {
         "@type": "Person",
-        "name": "Leanne Robinson"
+        "name": "Ina Browning"
       },
-      "description": "Classic rumaki appetizer featuring bacon-wrapped water chestnuts baked in a ketchup and brown sugar glaze.",
-      "recipeCategory": "Appetizer",
+      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
       "totalTime": "PT1H10M",
-      "recipeYield": "1 batch",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 lb bacon",
-        "1 can water chestnuts",
-        "½ cup ketchup",
-        "½ cup brown sugar"
+        "4 medium baking potatoes, cut into ¼ inch slices",
+        "1 can cream of mushroom soup",
+        "½ tsp paprika",
+        "½ tsp pepper",
+        "1 cup shredded cheddar cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cut the pound of bacon in half."
+          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Wrap bacon around chestnuts and secure with toothpicks."
+          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for ½ hour.",
+          "text": "Sprinkle shredded cheddar cheese over the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the soup mixture evenly over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
           "cookMethod": "Bake",
           "tool": "Oven",
           "temperature": {
             "@type": "Temperature",
             "name": "oven",
-            "value": 350,
+            "value": 400,
             "unitCode": "FAR"
           },
-          "duration": "PT30M"
+          "duration": "PT45M"
         },
         {
           "@type": "HowToStep",
-          "text": "Drain grease."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix ketchup and brown sugar."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour mixture over chestnuts and bake for another ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "duration": "PT30M"
+          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
         }
       ],
-      "keywords": "rumaki, bacon-wrapped water chestnuts, appetizer",
+      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
+        "prepTime": "15 minutes",
+        "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "id": 41,
+      "id": 140,
       "similarity": "0.28"
     }
   ]

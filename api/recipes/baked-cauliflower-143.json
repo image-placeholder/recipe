@@ -242,157 +242,140 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cauliflower Christmas",
+      "name": "Easy Curried Chicken",
       "author": {
         "@type": "Person",
-        "name": "Kim MacDonald"
+        "name": "Barbara Robertson"
       },
-      "description": "A layered cauliflower dish with Swiss cheese, green peppers, and mushrooms, baked until golden.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "1 baking dish",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "International",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
       "recipeIngredient": [
-        "2 cups milk",
-        "1 large cauliflower",
-        "1 cup shredded Swiss cheese",
-        "1 cup diced green peppers",
-        "2 Tbsp pimiento, drained",
-        "1 can mushrooms, drained",
-        "1 tsp salt",
-        "¼ cup butter/margarine",
-        "⅓ cup flour",
-        "Paprika for sprinkling"
+        "Chicken pieces",
+        "2 cans cream of chicken soup",
+        "¾ cup mayonnaise",
+        "1 tsp curry powder (or to taste)",
+        "Broccoli and carrots, cut into bite-size pieces",
+        "Bread crumbs for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute the green peppers and mushrooms in butter until tender."
+          "text": "Grease the bottom of a pan and layer with vegetables."
         },
         {
           "@type": "HowToStep",
-          "text": "Add flour to the sautéed mixture and stir to combine."
+          "text": "Arrange chicken pieces on top of the vegetables."
         },
         {
           "@type": "HowToStep",
-          "text": "Gradually stir in milk, bringing the mixture to a boil."
+          "text": "Mix cream of chicken soup, mayonnaise, and curry powder."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove from heat and add shredded cheese, stirring until melted."
+          "text": "Pour the soup mixture over the chicken."
         },
         {
           "@type": "HowToStep",
-          "text": "In a greased baking dish, layer half of the cauliflower."
+          "text": "Sprinkle bread crumbs on top."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with half of the cheese sauce and half of the pimiento."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Repeat the layers, finishing with the remaining cauliflower and sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with paprika.",
-          "tool": [
-            {
-              "@type": "HowToTool",
-              "name": "Paprika shaker"
-            }
-          ]
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake uncovered at 325°F for 25 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 325,
-            "unitCode": "FAR"
-          },
-          "duration": "PT25M"
+          "text": "Bake at 375°F for 1 hour."
         }
       ],
-      "keywords": "cauliflower, Swiss cheese, baked casserole",
+      "keywords": "curried chicken, creamy chicken, baked chicken casserole",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
       },
-      "id": 139,
-      "similarity": "0.39"
+      "id": 231,
+      "similarity": "0.41"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheddar Baked Potato Slices",
+      "name": "Chicken and Croutons",
       "author": {
         "@type": "Person",
-        "name": "Ina Browning"
+        "name": "Tanya Allen"
       },
-      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
-      "recipeCategory": "Side Dish",
+      "description": "A creamy chicken casserole topped with Swiss cheese and crunchy croutons.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "8 servings",
       "recipeIngredient": [
-        "4 medium baking potatoes, cut into ¼ inch slices",
-        "1 can cream of mushroom soup",
-        "½ tsp paprika",
-        "½ tsp pepper",
-        "1 cup shredded cheddar cheese"
+        "8 chicken breast fillets",
+        "1 (8 oz) can mushrooms",
+        "8 slices Swiss cheese",
+        "1 (10 oz) can cream of chicken soup",
+        "½ cup milk",
+        "1 (6 oz) pkg croutons",
+        "¼ cup melted butter"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese over the potatoes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the soup mixture evenly over the cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
+          "text": "Preheat oven to 350°F.",
           "cookMethod": "Bake",
           "tool": "Oven",
           "temperature": {
             "@type": "Temperature",
             "name": "oven",
-            "value": 400,
+            "value": 350,
             "unitCode": "FAR"
-          },
-          "duration": "PT45M"
+          }
         },
         {
           "@type": "HowToStep",
-          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+          "text": "Rinse the chicken and pat dry, then arrange in a 9×13 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top each chicken fillet with a slice of Swiss cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cream of chicken soup, mushrooms, and milk in a bowl; mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the soup mixture over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the croutons with melted butter in a small bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the buttered croutons over the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, covered with foil, for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, for an additional 15 minutes until the top is browned.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "duration": "PT15M"
         }
       ],
-      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
+      "keywords": "chicken casserole, croutons, creamy chicken bake",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 10 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 35 minutes"
       },
-      "id": 140,
-      "similarity": "0.36"
+      "id": 246,
+      "similarity": "0.41"
     }
   ]
 }

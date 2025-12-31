@@ -337,68 +337,65 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Florentine Lasagna Rolls",
+      "name": "Mozzarella Spaghetti Skillet",
       "author": {
         "@type": "Person",
-        "name": "Antonia Hull"
+        "name": "Yvonne Lotz"
       },
-      "description": "Lasagna noodles rolled with a spinach and ricotta cheese mixture, baked in a creamy Alfredo sauce.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "6 to 12 servings",
+      "description": "A one-pot spaghetti dish cooked with hamburger, tomatoes, and mozzarella cheese.",
+      "recipeCategory": "Pasta",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 to 6 servings",
       "recipeIngredient": [
-        "12 lasagna noodles",
-        "2 packages frozen chopped spinach, thawed",
-        "2 packages Alfredo sauce mix",
-        "4 cups milk",
-        "1 cup ricotta cheese",
-        "2 Tbsp butter or margarine",
-        "1 cup grated mozzarella cheese",
-        "1/2 cup diced red pepper",
-        "2 eggs",
-        "1/2 tsp ground nutmeg"
+        "1 lb hamburger",
+        "½ cup chopped onion",
+        "½ cup chopped green pepper",
+        "3 splashes Worcestershire sauce",
+        "1 tsp salt",
+        "½ tsp oregano",
+        "½ tsp black pepper",
+        "½ can water",
+        "1 (796 mL) can tomatoes",
+        "1½ cups shredded mozzarella cheese",
+        "Broken spaghetti to feed your family"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook lasagna noodles according to package directions. Drain and plunge into cold water."
+          "text": "In an electric skillet, brown the hamburger, onion, and green peppers."
         },
         {
           "@type": "HowToStep",
-          "text": "In a medium saucepan, combine Alfredo sauce mix, milk, and butter. Bring to a boil over medium heat, stirring constantly with a whisk."
+          "text": "Season with Worcestershire sauce, salt, black pepper, and oregano."
         },
         {
           "@type": "HowToStep",
-          "text": "Reduce heat to medium-low. Add red peppers and simmer for 3 minutes."
+          "text": "Add tomatoes, water, and broken spaghetti to the skillet."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour half of the sauce into a greased large square baking dish."
+          "text": "Cover and bring to a boil, stirring frequently to prevent the spaghetti from sticking."
         },
         {
           "@type": "HowToStep",
-          "text": "Drain spinach, pressing out extra moisture. Combine with ricotta cheese, mozzarella cheese, eggs, and nutmeg."
+          "text": "Simmer until the pasta is cooked."
         },
         {
           "@type": "HowToStep",
-          "text": "Drain noodles and pat dry. Spread spinach mixture evenly over noodles. Roll up and place seam-down in the baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with remaining sauce. Cover and bake in a 350°F oven for 30 to 40 minutes or until the sauce is bubbling."
+          "text": "Shortly before serving, add shredded mozzarella cheese and continue heating until melted."
         }
       ],
-      "keywords": "lasagna rolls, Florentine, spinach, ricotta, Alfredo sauce",
+      "keywords": "spaghetti skillet, one-pot pasta, mozzarella cheese",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
       },
-      "id": 194,
-      "similarity": "0.36"
+      "id": 182,
+      "similarity": "0.38"
     }
   ]
 }

@@ -195,6 +195,69 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Chili Con Queso (Nacho Cheese Dip)",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Marti Mockler"
+        },
+        {
+          "@type": "Person",
+          "name": "Irene Haugh"
+        }
+      ],
+      "description": "A warm, cheesy dip made with cream cheese, cheddar cheese soup, and processed cheese, perfect for tortilla chips.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 saucepan",
+      "recipeIngredient": [
+        "1 pkg (227 g) cream cheese",
+        "4 slices processed cheese",
+        "10 oz can (284 mL) cheddar cheese soup",
+        "¼ to ½ cup salsa",
+        "Tortilla chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Let the cream cheese stand at room temperature to warm up."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, melt the cream cheese over heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cheddar cheese soup, stirring constantly until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the processed cheese into smaller pieces and melt it into the cheese mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add salsa to taste, adjusting the amount based on the type of salsa used."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the Chili Con Queso hot with tortilla chips as a dip, or cold with tacos or chili."
+        }
+      ],
+      "keywords": "nacho cheese dip, chili con queso, cheesy dip, tortilla chip dip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "id": 27,
+      "similarity": "0.43"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Mexican Fudge",
       "author": {
         "@type": "Person",
@@ -248,6 +311,84 @@
       },
       "id": 12,
       "similarity": "0.42"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Ring",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Valkengoed"
+      },
+      "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT16M",
+      "totalTime": "PT36M",
+      "recipeYield": "1 ring",
+      "recipeIngredient": [
+        "1 lb lean ground hamburger",
+        "1 cup water",
+        "1 packet taco seasoning mix",
+        "2 cups shredded lettuce",
+        "1 cup grated mild cheddar cheese",
+        "1 cup salsa dip",
+        "2 packages Pillsbury crescent rolls",
+        "1 tomato, diced",
+        "1 green pepper (optional)",
+        "Sour cream for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Fry the hamburger and let it cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add shredded cheese on top of the hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let cool slightly before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
+        }
+      ],
+      "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "16 minutes",
+        "totalTime": "36 minutes"
+      },
+      "id": 183,
+      "similarity": "0.40"
     }
   ]
 }

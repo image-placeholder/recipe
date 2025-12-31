@@ -50,6 +50,120 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Tomato Chickpea Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jennifer Morlock"
+      },
+      "description": "A refreshing salad featuring chickpeas, diced tomatoes, cucumber, and crumbled feta, all tossed in a tangy herb-infused dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mediterranean",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 (28 oz) can chickpeas, rinsed and drained",
+        "3 large tomatoes, diced",
+        "1 large cucumber, diced",
+        "6 green onions, chopped",
+        "1 Tbsp parsley",
+        "1 cup crumbled feta cheese",
+        "Dressing: 1/3 cup olive oil, 3 Tbsp white wine vinegar, 1 crushed garlic clove, 1 tsp dried tarragon leaves, 1/2 tsp dry mustard, 1/4 tsp pepper, pinch cayenne pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine chickpeas, diced tomatoes, cucumber, green onions, and parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, whisk together the dressing ingredients: olive oil, vinegar, garlic, tarragon, mustard, pepper, and cayenne."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the dressing with the salad ingredients until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate for several hours before serving."
+        }
+      ],
+      "keywords": "chickpea salad, tomato salad, Mediterranean salad, feta cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "id": 90,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Dad's Spaghetti",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Nakamura"
+      },
+      "description": "A comforting spaghetti dish with bacon, mushrooms, and a creamy mushroom soup sauce.",
+      "recipeCategory": "Pasta",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 can mushroom soup",
+        "1½ cups sliced mushrooms",
+        "½ to 1 lb bacon, chopped",
+        "1 small onion, chopped",
+        "1 to 2 tsp garlic salt or 1 to 2 minced garlic cloves",
+        "3 to 4 Tbsp mozzarella cheese",
+        "1 lb spaghetti"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti, drain, and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown bacon in a frying pan with garlic salt or minced garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bacon and most of the grease from the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onion and mushrooms in the same pan until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return bacon to the pan and add mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir and heat the sauce through, adding cheese and enough water to achieve the desired consistency."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the sauce with cooked spaghetti and serve."
+        }
+      ],
+      "keywords": "spaghetti, bacon, mushroom sauce, creamy pasta",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "id": 181,
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Marinated Vegetable Salad",
       "author": {
         "@type": "Person",
@@ -180,194 +294,61 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Bacon Broccoli Salad",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Meghan Brand"
-        },
-        {
-          "@type": "Person",
-          "name": "Mona Hamilton"
-        },
-        {
-          "@type": "Person",
-          "name": "Alwinna Galloway"
-        },
-        {
-          "@type": "Person",
-          "name": "Thelma Finkbeiner"
-        },
-        {
-          "@type": "Person",
-          "name": "Linda Nakamura"
-        }
-      ],
-      "description": "A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "3 cups broccoli florets",
-        "½ cup low-fat yogurt",
-        "½ cup chopped red onion",
-        "¼ cup light mayonnaise",
-        "¼ cup sunflower seeds",
-        "½ cup raisins",
-        "2 Tbsp sugar",
-        "1 Tbsp lemon juice",
-        "½ cup crumbled feta cheese",
-        "4 slices cooked bacon, crumbled"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine the broccoli, red onion, sunflower seeds, raisins, and crumbled bacon in a large salad bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a separate bowl, mix together the yogurt, mayonnaise, sugar, and lemon juice to make the dressing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the dressing over the salad ingredients and toss to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate for 2 hours to allow the flavors to meld."
-        }
-      ],
-      "keywords": "broccoli salad, bacon salad, yogurt dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
-      },
-      "id": 63,
-      "similarity": "0.33"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sauerkraut Salad",
+      "name": "Greek Salad",
       "author": {
         "@type": "Person",
-        "name": "Lorna Finkbeiner"
+        "name": "Barbara Robertson"
       },
-      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "description": "A refreshing Greek salad with marinated tomatoes, mixed greens, feta cheese, and a homemade dressing.",
       "recipeCategory": "Salad",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Greek",
       "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "Several servings",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H20M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 (28 oz) jar or can sauerkraut, drained",
-        "1 cup chopped celery",
-        "1 cup chopped onion",
-        "1 cup chopped red pepper",
-        "¼ cup chopped green pepper",
-        "2 cups white sugar",
-        "1 cup white vinegar",
-        "1 tsp salt"
+        "Marinated Tomatoes:",
+        "¼ cup olive oil",
+        "2 Tbsp red wine vinegar",
+        "1 tsp anchovy paste",
+        "Salt, pepper, pinch of cayenne",
+        "1 clove garlic, crushed",
+        "4 large ripe tomatoes",
+        "Salad:",
+        "6 cups greens",
+        "2 green onions, sliced",
+        "⅓ cup black olives",
+        "1 green pepper",
+        "1 cup feta cheese",
+        "Dressing:",
+        "1 clove garlic, minced",
+        "1 Tbsp red wine vinegar",
+        "¼ cup olive oil",
+        "½ tsp granulated sugar",
+        "1 tsp dried oregano"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+          "text": "To Marinate Tomatoes: Cut tomatoes in halves or quarters. Squeeze out seeds and juice and cut into bite-size pieces. Whisk marinade together, stir in tomatoes, and let stand for at least 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Let the dressing cool to room temperature."
+          "text": "To Make Dressing: Place garlic, vinegar, and seasonings in a blender and whirl to blend. While still whirling, gradually drizzle in the oil. Add anchovies. Can be used immediately or covered and refrigerated."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the cooled dressing over the salad and toss to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+          "text": "To Complete Salad: Mix greens, onions, olives, pepper, and cheese. Add marinated tomatoes. Toss and drizzle dressing over salad. Add croutons if desired."
         }
       ],
-      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "keywords": "Greek salad, marinated tomatoes, feta cheese, homemade dressing",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
-      },
-      "id": 82,
-      "similarity": "0.32"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Marinated Vegetable Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A colorful salad of marinated vegetables including cauliflower, broccoli, carrots, and radishes, dressed with Italian dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT0M",
-      "totalTime": "PT30M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 medium cauliflower",
-        "1 bunch broccoli",
-        "3 celery stalks",
-        "1/2 English cucumber",
-        "1/2 bunch radishes",
-        "Baby carrots",
-        "Cherry tomatoes",
-        "1 bottle Italian dressing"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Wash and clean all the vegetables, then drain well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Break cauliflower and broccoli into bite-sized pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Trim radishes and carrots; leave whole or cut into bite-sized pieces if large."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cut celery into 3-inch pieces and slice cucumber into 1/2-inch slices."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Leave cherry tomatoes whole and place all vegetables in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour Italian dressing over the vegetables and let set for a few hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve as finger food or as a salad."
-        }
-      ],
-      "keywords": "marinated vegetables, vegetable salad, Italian dressing",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
         "cookTime": "",
-        "totalTime": "30 minutes"
+        "totalTime": "1 hour 20 minutes"
       },
-      "id": 94,
-      "similarity": "0.32"
+      "id": 69,
+      "similarity": "0.34"
     }
   ]
 }

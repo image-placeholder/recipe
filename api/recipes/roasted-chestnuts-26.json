@@ -292,64 +292,49 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Quick Garlic Fingers",
+      "name": "Hot Potato Salad",
       "author": {
         "@type": "Person",
-        "name": "Lori Allen"
+        "name": "Margaret Beaver"
       },
-      "description": "A simple and flavorful appetizer featuring garlic-infused margarine on flatbread topped with a blend of cheddar, mozzarella, and Monterey Jack cheese.",
-      "recipeCategory": "Appetizer",
+      "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT12M30S",
-      "totalTime": "PT17M30S",
-      "recipeYield": "1 serving",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "Serves 4-6",
       "recipeIngredient": [
-        "¼ cup margarine",
-        "1 cheese flat bread",
-        "½ tsp garlic salt",
-        "½ tsp oregano",
-        "½ tsp basil",
-        "½ tsp thyme",
-        "Grated cheddar cheese",
-        "Grated mozzarella cheese",
-        "Grated Monterey Jack cheese"
+        "3 to 4 cups sliced potatoes",
+        "⅓ cup white vinegar",
+        "1 Tbsp flour",
+        "¾ cup water",
+        "1 Tbsp butter",
+        "Salt and pepper to taste",
+        "Pinch of sugar"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix the margarine, garlic salt, oregano, basil, and thyme together until well combined."
+          "text": "In a saucepan, combine the white vinegar, flour, and water. Heat, stirring constantly, until the mixture thickens."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread this mixture evenly on the cheese flat bread."
+          "text": "Add the butter, salt, pepper, and sugar to the vinegar mixture. Bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle the grated cheddar, mozzarella, and Monterey Jack cheese over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place in a preheated oven at 350°F for approximately 10 to 15 minutes, or until the cheese is melted and the edges are slightly golden and crusty if desired.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT12M30S"
+          "text": "Pour the hot dressing over the sliced potatoes."
         }
       ],
-      "keywords": "garlic fingers, cheesy bread, quick appetizer",
+      "keywords": "hot potato salad, vinegar dressing, warm salad",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "12 minutes 30 seconds",
-        "totalTime": "17 minutes 30 seconds"
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
       },
-      "id": 33,
-      "similarity": "0.29"
+      "id": 86,
+      "similarity": "0.30"
     }
   ]
 }
