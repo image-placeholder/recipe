@@ -67,7 +67,7 @@ async function naturalizeRecipeTimes(recipes) {
 
 
 
-function getSimilarRecipes(recipe) {
+function getSimilarRecipes(recipe, recipes) {
   if (!recipe || typeof recipe !== 'object') return recipe;
 
   return {
