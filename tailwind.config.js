@@ -1,16 +1,17 @@
-// ./tailwind.config.js
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+export default {
   content: [
-    "./_drafts/**/*.md",
-    "./_includes/**/*.html",
-    "./_layouts/**/*.html",
-    "./_pages/*.{html,md}",
-    "./pages/*.{html,md}",
-    "./templates/*.{html,md}",
-    "./_exhibits/*.{html,md}",
-    "./_posts/*.md",
-    "./*.{html,md}"
+    './_site/**/*.{html,md}',       // all generated HTML
+    './src/**/*.js',           // all JS files with dynamic classes
+    './_includes/**/*.{html,md}',   // if using Jekyll includes
+    './_layouts/**/*.{html,md}',    // if using Jekyll layouts
+    './*.html',                // any top-level HTML
   ],
-  // ...
+  theme: {
+    extend: {},
+  },
+  plugins: [
+    require('tailwindcss'),
+    require('autoprefixer'),
+  ],
 };
