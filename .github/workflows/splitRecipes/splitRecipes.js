@@ -127,28 +127,46 @@ const generateRecipes = async () => {
     const cuisineSlugMap = {};
     const authorsMap = {};
     const authorSlugMap = {};
+    const fileNameMap = {}; // id -> filename mapping
 
-       recipes.forEach((recipe, index) => {
-      recipe.id = recipe.id || (index + 1);
-      const slug = slugify(recipe.name || 'untitled-recipe');
-      recipe.fileName = `${recipe.slug}-${recipe.id}.json`;
-    });
-    
+    // First pass: generate filenames and store in map
     recipes.forEach((recipe, index) => {
+      const id = recipe.id || (index + 1);
       const baseSlug = slugify(recipe.name || 'untitled-recipe');
-      const fileName = recipe.fileName;
+      const fileName = `${baseSlug}-${id}.json`;
+      fileNameMap[id] = fileName;
+    });
+
+    // Second pass: generate files and URLs
+    recipes.forEach((recipe, index) => {
+      const id = recipe.id || (index + 1);
+      const fileName = fileNameMap[id];
       const filePath = path.join(OUTPUT_DIR, 'recipes');
       ensureDir(filePath);
 
       // Run Recommendation System
       const _recipe = similarRecipes(recipe, recipes, 5);
 
-      _recipe._url = `/recipe/${fileName}`;
-      delete _recipe.id;
-      delete recipe.fileName;
-      // Write individual recipe file
-      fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2));
+      // Set URL for main recipe
+      //_recipe.url = `/recipes/${fileName}`;
 
+      // Set URLs for similar recipes using the same filename map
+      if (Array.isArray(_recipe.similar)) {
+        _recipe.similar = _recipe.similar.map((sim) => {
+          const simId = sim.id;
+          const simFileName = fileNameMap[simId];
+          return {
+            ...sim,
+            url: simFileName ? `/recipes/${simFileName}` : undefined
+          };
+        });
+      }
+
+      // Write individual recipe file
+      fs.writeFileSync(
+        path.join(filePath, fileName),
+        JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2)
+      );
       // Handle authors (array or single object)
       let authors = [];
       if (Array.isArray(recipe.author)) {
