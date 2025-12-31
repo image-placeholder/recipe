@@ -199,7 +199,7 @@ module Jekyll
         page.data = {
           "layout" => "recipe-archive",
           "title"  => "Categories",
-          "type"   => "category",
+          "type"   => "categories",
           "paginated_recipes" => slice,
           "pagination" => {
             "current_page" => page_num,
