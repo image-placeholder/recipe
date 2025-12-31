@@ -54,7 +54,12 @@
         "text": "Serve with bread or crackers."
       }
     ],
-    "keywords": "artichoke appetizer, cheesy dip, party snack"
+    "keywords": "artichoke appetizer, cheesy dip, party snack",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -97,7 +102,12 @@
         "text": "Roll into chopped pecans or parsley flakes to coat."
       }
     ],
-    "keywords": "cheese ball, party appetizer, easy snack"
+    "keywords": "cheese ball, party appetizer, easy snack",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -147,7 +157,12 @@
         "text": "Serve with assorted crackers."
       }
     ],
-    "keywords": "layered cheese ball, party appetizer, elegant snack"
+    "keywords": "layered cheese ball, party appetizer, elegant snack",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "",
+      "totalTime": null
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -197,7 +212,12 @@
         "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
       }
     ],
-    "keywords": "bread bowl dip, ham and cheese dip, party appetizer"
+    "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -247,7 +267,12 @@
         "text": "Serve hot with the bread pieces."
       }
     ],
-    "keywords": "pumpernickel dip, hot bacon dip, cheddar dip"
+    "keywords": "pumpernickel dip, hot bacon dip, cheddar dip",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "totalTime": "1 hour 45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -307,7 +332,12 @@
         "text": "To serve, remove the top and break it into bite-sized pieces; dip bread pieces into the hot Brie."
       }
     ],
-    "keywords": "chili brie, sourdough brie, melted cheese appetizer"
+    "keywords": "chili brie, sourdough brie, melted cheese appetizer",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -359,7 +389,12 @@
         "text": "Serve with crackers or vegetables."
       }
     ],
-    "keywords": "crab dip, layered platter, seafood appetizer"
+    "keywords": "crab dip, layered platter, seafood appetizer",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -403,7 +438,12 @@
         "text": "Roll the ball in a mixture of nuts and parsley to coat evenly before serving."
       }
     ],
-    "keywords": "salmon ball, cheese ball, party dip, holiday appetizer"
+    "keywords": "salmon ball, cheese ball, party dip, holiday appetizer",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "8 hours 15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -445,7 +485,12 @@
         "text": "Mix well and serve with crackers or as a spread."
       }
     ],
-    "keywords": "salmon dip, salmon spread, red salmon"
+    "keywords": "salmon dip, salmon spread, red salmon",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -483,7 +528,12 @@
         "text": "Refrigerate before serving with crackers."
       }
     ],
-    "keywords": "shrimp spread, seafood dip, party appetizer"
+    "keywords": "shrimp spread, seafood dip, party appetizer",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": null,
+      "totalTime": null
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -540,7 +590,12 @@
         "text": "Chill until ready to serve with tortilla chips or crackers."
       }
     ],
-    "keywords": "layered shrimp dip, seafood spread, party dip"
+    "keywords": "layered shrimp dip, seafood spread, party dip",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": null,
+      "totalTime": null
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -590,7 +645,12 @@
         "text": "Cut into squares while warm and serve on Triscuits."
       }
     ],
-    "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares"
+    "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -621,7 +681,12 @@
         "text": "Heat the mixture but do not boil. Stir constantly for 5 minutes."
       }
     ],
-    "keywords": "cheese spread, cracker dip, party appetizer"
+    "keywords": "cheese spread, cracker dip, party appetizer",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -657,7 +722,12 @@
         "text": "Let stand in the fridge for 1 to 2 hours before serving to allow flavors to meld."
       }
     ],
-    "keywords": "curry dip, spicy dip, party appetizer"
+    "keywords": "curry dip, spicy dip, party appetizer",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -692,7 +762,12 @@
         "text": "Serve immediately with tortilla chips."
       }
     ],
-    "keywords": "guacamole, avocado dip, Mexican appetizer"
+    "keywords": "guacamole, avocado dip, Mexican appetizer",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -742,7 +817,12 @@
         "text": "If using a bread loaf, scoop out a large hollow through the top and fill with the dip mixture. Serve with bread cubes cut from the centre and/or assorted fresh vegetables."
       }
     ],
-    "keywords": "spinach dip, party appetizer, pumpernickel bread"
+    "keywords": "spinach dip, party appetizer, pumpernickel bread",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "2 hours 15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -787,7 +867,12 @@
         "text": "Chill before serving with chips, crackers, or vegetables."
       }
     ],
-    "keywords": "vegetable dip, sour cream dip, party appetizer"
+    "keywords": "vegetable dip, sour cream dip, party appetizer",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -823,7 +908,12 @@
         "text": "Serve with fresh vegetables."
       }
     ],
-    "keywords": "vegetable dip, Miracle Whip dip, easy appetizer"
+    "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -864,7 +954,12 @@
         "text": "Serve with vegetables."
       }
     ],
-    "keywords": "yogurt dip, healthy dip, vegetable dip"
+    "keywords": "yogurt dip, healthy dip, vegetable dip",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -897,7 +992,12 @@
         "text": "Serve with crackers."
       }
     ],
-    "keywords": "crab dip, seafood dip, party appetizer"
+    "keywords": "crab dip, seafood dip, party appetizer",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -969,7 +1069,12 @@
         "text": "Serve hot with tortilla chips."
       }
     ],
-    "keywords": "hot taco dip, taco dip, Mexican appetizer, cheesy dip"
+    "keywords": "hot taco dip, taco dip, Mexican appetizer, cheesy dip",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1019,7 +1124,12 @@
         "text": "Serve the chilled dip alongside the fresh fruit platter."
       }
     ],
-    "keywords": "fresh fruit platter, vanilla pudding dip, Cool Whip, Grand Marnier, healthy appetizer"
+    "keywords": "fresh fruit platter, vanilla pudding dip, Cool Whip, Grand Marnier, healthy appetizer",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1057,7 +1167,12 @@
         "text": "Serve chilled with a variety of fresh fruits."
       }
     ],
-    "keywords": "pina colada dip, fruit dip, coconut pudding, party appetizer"
+    "keywords": "pina colada dip, fruit dip, coconut pudding, party appetizer",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": null
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1090,7 +1205,12 @@
         "text": "Serve immediately with fresh cut-up fruit."
       }
     ],
-    "keywords": "fruit dip, orange cream cheese, marshmallow dip"
+    "keywords": "fruit dip, orange cream cheese, marshmallow dip",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1136,7 +1256,12 @@
         "text": "Serve immediately with your choice of fresh fruit."
       }
     ],
-    "keywords": "fluffy fruit dip, marshmallow dip, sweet appetizer"
+    "keywords": "fluffy fruit dip, marshmallow dip, sweet appetizer",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1189,7 +1314,12 @@
         "text": "Sprinkle with salt and cinnamon to taste before serving."
       }
     ],
-    "keywords": "roasted chestnuts, savory snack, holiday appetizer"
+    "keywords": "roasted chestnuts, savory snack, holiday appetizer",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1245,7 +1375,12 @@
         "text": "Serve the Chili Con Queso hot with tortilla chips as a dip, or cold with tacos or chili."
       }
     ],
-    "keywords": "nacho cheese dip, chili con queso, cheesy dip, tortilla chip dip"
+    "keywords": "nacho cheese dip, chili con queso, cheesy dip, tortilla chip dip",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1293,7 +1428,12 @@
         "text": "Surround with tortilla chips and serve."
       }
     ],
-    "keywords": "layered dip, nacho fiesta, taco seasoning, cheesy dip"
+    "keywords": "layered dip, nacho fiesta, taco seasoning, cheesy dip",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "1 hour 15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1347,7 +1487,12 @@
         "text": "Serve with baked nacho chips."
       }
     ],
-    "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip"
+    "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1393,7 +1538,12 @@
         "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
       }
     ],
-    "keywords": "pickled eggs, cider vinegar, appetizer"
+    "keywords": "pickled eggs, cider vinegar, appetizer",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1444,7 +1594,12 @@
         "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
       }
     ],
-    "keywords": "pickled eggs, beets, appetizer, purple eggs"
+    "keywords": "pickled eggs, beets, appetizer, purple eggs",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1482,7 +1637,12 @@
         "text": "Bake at 350°F for 30 minutes."
       }
     ],
-    "keywords": "stuffed mushrooms, appetizer, bacon, cream cheese"
+    "keywords": "stuffed mushrooms, appetizer, bacon, cream cheese",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1537,7 +1697,12 @@
         "duration": "PT12M30S"
       }
     ],
-    "keywords": "garlic fingers, cheesy bread, quick appetizer"
+    "keywords": "garlic fingers, cheesy bread, quick appetizer",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "12 minutes 30 seconds",
+      "totalTime": "17 minutes 30 seconds"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1601,7 +1766,12 @@
         "text": "Chill the deviled eggs until ready to serve."
       }
     ],
-    "keywords": "deviled eggs, hard-boiled eggs, appetizer"
+    "keywords": "deviled eggs, hard-boiled eggs, appetizer",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1646,7 +1816,12 @@
         "text": "Let the eggs stand in the pickling liquid for 5 days before serving."
       }
     ],
-    "keywords": "pickled eggs, tangy snack, preserved eggs"
+    "keywords": "pickled eggs, tangy snack, preserved eggs",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": null
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1716,7 +1891,12 @@
         "text": "Serve cold."
       }
     ],
-    "keywords": "chicken roll-ups, cheese snack, cold appetizer"
+    "keywords": "chicken roll-ups, cheese snack, cold appetizer",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "2 hours 15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1757,7 +1937,12 @@
         "text": "Bake until the sauce evaporates and wings are sticky."
       }
     ],
-    "keywords": "sticky chicken wings, baked wings, appetizer"
+    "keywords": "sticky chicken wings, baked wings, appetizer",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1800,7 +1985,12 @@
         "text": "Bake at 400°F for 10 minutes."
       }
     ],
-    "keywords": "cheese English muffins, appetizer, snack"
+    "keywords": "cheese English muffins, appetizer, snack",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1848,7 +2038,12 @@
         }
       }
     ],
-    "keywords": "bacon-wrapped water chestnuts, appetizer, savory snack"
+    "keywords": "bacon-wrapped water chestnuts, appetizer, savory snack",
+    "_naturalized_times": {
+      "prepTime": "1 hour 15 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "1 hour 35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1902,7 +2097,12 @@
         "duration": "PT30M"
       }
     ],
-    "keywords": "bacon-wrapped water chestnuts, sweet and savory, appetizer"
+    "keywords": "bacon-wrapped water chestnuts, sweet and savory, appetizer",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "8 hours 45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -1963,7 +2163,12 @@
         "duration": "PT30M"
       }
     ],
-    "keywords": "rumaki, bacon-wrapped water chestnuts, appetizer"
+    "keywords": "rumaki, bacon-wrapped water chestnuts, appetizer",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2001,7 +2206,12 @@
         "text": "Serve with ice cubes."
       }
     ],
-    "keywords": "homemade iced tea, sweet tea, lemonade-infused tea, refreshing drink"
+    "keywords": "homemade iced tea, sweet tea, lemonade-infused tea, refreshing drink",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2049,7 +2259,12 @@
         "text": "Serve and enjoy."
       }
     ],
-    "keywords": "pita pockets, ranch dip, feta cheese, appetizer"
+    "keywords": "pita pockets, ranch dip, feta cheese, appetizer",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2093,7 +2308,12 @@
         "text": "Place the sausage balls on a cookie sheet and bake in a preheated 450°F oven for 15 to 20 minutes, or until golden brown."
       }
     ],
-    "keywords": "sausage balls, cheddar soup, biscuit mix, party snack"
+    "keywords": "sausage balls, cheddar soup, biscuit mix, party snack",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2160,7 +2380,12 @@
         "text": "Keep the roasting pan covered during baking, stirring every 15-20 minutes to ensure even toasting."
       }
     ],
-    "keywords": "snack mix, Chex mix, party snack, savory snack"
+    "keywords": "snack mix, Chex mix, party snack, savory snack",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "totalTime": "1 hour 40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2217,7 +2442,12 @@
         "text": "Bake in 400°F oven for 10 to 12 minutes. Serve hot."
       }
     ],
-    "keywords": "crab stuffed mushrooms, appetizer, seafood"
+    "keywords": "crab stuffed mushrooms, appetizer, seafood",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "12 minutes",
+      "totalTime": "32 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2274,7 +2504,12 @@
         "text": "Chill and cut into small pieces. Serve as hors d'oeuvres."
       }
     ],
-    "keywords": "veggie pizza, appetizer, crescent rolls"
+    "keywords": "veggie pizza, appetizer, crescent rolls",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2325,7 +2560,12 @@
         "text": "Distribute the warmed corn over the salad and serve."
       }
     ],
-    "keywords": "black bean salad, Mexican salad, fresh corn"
+    "keywords": "black bean salad, Mexican salad, fresh corn",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2372,7 +2612,12 @@
         "text": "To serve, pour off the liquid and add chopped onion and cream."
       }
     ],
-    "keywords": "pickled bean salad, sweet and tangy, preserved beans"
+    "keywords": "pickled bean salad, sweet and tangy, preserved beans",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2419,7 +2664,12 @@
         "text": "Serve immediately with taco chips on the side."
       }
     ],
-    "keywords": "Mexican salad, bean salad, taco chips"
+    "keywords": "Mexican salad, bean salad, taco chips",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2452,7 +2702,12 @@
         "text": "Pour into a tall glass and serve immediately."
       }
     ],
-    "keywords": "orange smoothie, breakfast drink, healthy beverage"
+    "keywords": "orange smoothie, breakfast drink, healthy beverage",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2501,7 +2756,12 @@
         "text": "Serve hot in mugs and garnish with cinnamon sticks."
       }
     ],
-    "keywords": "wassail, apple cider drink, holiday beverage, spiced drink"
+    "keywords": "wassail, apple cider drink, holiday beverage, spiced drink",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2542,7 +2802,12 @@
         "text": "Stir well and serve chilled."
       }
     ],
-    "keywords": "fruit punch, party drink, refreshing beverage"
+    "keywords": "fruit punch, party drink, refreshing beverage",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2579,7 +2844,12 @@
         "text": "Serve chilled and enjoy."
       }
     ],
-    "keywords": "party punch, fruity drink, sherbet punch"
+    "keywords": "party punch, fruity drink, sherbet punch",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2617,7 +2887,12 @@
         "text": "Serve chilled with slices of lemon and orange, and plenty of ice."
       }
     ],
-    "keywords": "adult punch, cocktail party, sophisticated drink"
+    "keywords": "adult punch, cocktail party, sophisticated drink",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2656,7 +2931,12 @@
         "text": "Serve immediately and enjoy."
       }
     ],
-    "keywords": "orange drink, creamy beverage, frozen orange juice"
+    "keywords": "orange drink, creamy beverage, frozen orange juice",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2699,7 +2979,12 @@
         "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
       }
     ],
-    "keywords": "coleslaw, chalet dressing, salad"
+    "keywords": "coleslaw, chalet dressing, salad",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2745,7 +3030,12 @@
         "text": "Place in a container, seal, and freeze."
       }
     ],
-    "keywords": "freezer coleslaw, slaw, salad"
+    "keywords": "freezer coleslaw, slaw, salad",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2806,7 +3096,12 @@
         "text": "Serve with freshly grated Parmesan."
       }
     ],
-    "keywords": "Caesar salad, bacon, croutons, homemade dressing"
+    "keywords": "Caesar salad, bacon, croutons, homemade dressing",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2850,7 +3145,12 @@
         "text": "Sprinkle with bacon and serve."
       }
     ],
-    "keywords": "broccoli salad, bacon, creamy dressing"
+    "keywords": "broccoli salad, bacon, creamy dressing",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "3 hours 25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2890,7 +3190,12 @@
         "text": "Add dressing 1/2 hour before serving."
       }
     ],
-    "keywords": "Asian coleslaw, toasted nuts, noodles"
+    "keywords": "Asian coleslaw, toasted nuts, noodles",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2931,7 +3236,12 @@
         "text": "Cover and let stand overnight."
       }
     ],
-    "keywords": "layered coleslaw, creamy dressing, overnight salad"
+    "keywords": "layered coleslaw, creamy dressing, overnight salad",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "",
+      "totalTime": "8 hours 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -2996,7 +3306,12 @@
         "text": "Refrigerate for 2 hours to allow the flavors to meld."
       }
     ],
-    "keywords": "broccoli salad, bacon salad, yogurt dressing"
+    "keywords": "broccoli salad, bacon salad, yogurt dressing",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "2 hours 15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3055,7 +3370,12 @@
         "text": "Refrigerate any leftovers."
       }
     ],
-    "keywords": "broccoli mandarin salad, creamy dressing, fresh salad"
+    "keywords": "broccoli mandarin salad, creamy dressing, fresh salad",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3100,7 +3420,12 @@
         "text": "Serve the chicken mixture on lettuce and garnish with parsley."
       }
     ],
-    "keywords": "chicken salad, grape salad, creamy dressing"
+    "keywords": "chicken salad, grape salad, creamy dressing",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3147,7 +3472,12 @@
         "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
       }
     ],
-    "keywords": "cottage cheese salad, jellied salad, pineapple salad"
+    "keywords": "cottage cheese salad, jellied salad, pineapple salad",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "2 hours 15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3194,7 +3524,12 @@
         "text": "Unmold before serving."
       }
     ],
-    "keywords": "cranberry mold, gelatin salad, holiday side dish"
+    "keywords": "cranberry mold, gelatin salad, holiday side dish",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "2 hours 15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3231,7 +3566,12 @@
         "text": "Top with dressing."
       }
     ],
-    "keywords": "layered salad, club salad, ranch dressing"
+    "keywords": "layered salad, club salad, ranch dressing",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3283,7 +3623,12 @@
         "text": "To Complete Salad: Mix greens, onions, olives, pepper, and cheese. Add marinated tomatoes. Toss and drizzle dressing over salad. Add croutons if desired."
       }
     ],
-    "keywords": "Greek salad, marinated tomatoes, feta cheese, homemade dressing"
+    "keywords": "Greek salad, marinated tomatoes, feta cheese, homemade dressing",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "",
+      "totalTime": "1 hour 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3329,7 +3674,12 @@
         "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
       }
     ],
-    "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing"
+    "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3384,7 +3734,12 @@
         "text": "Cover and chill for 1 to 2 hours before serving."
       }
     ],
-    "keywords": "Cornbread salad, layered salad, Southwestern salad"
+    "keywords": "Cornbread salad, layered salad, Southwestern salad",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "1 hour 35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3439,7 +3794,12 @@
         "text": "Mix well and serve."
       }
     ],
-    "keywords": "macaroni salad, tuna salad, cheddar cheese"
+    "keywords": "macaroni salad, tuna salad, cheddar cheese",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "8 minutes",
+      "totalTime": "23 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3497,7 +3857,12 @@
         "text": "Toss the salad to combine all ingredients and serve."
       }
     ],
-    "keywords": "nacho salad, spicy salad, ground beef salad"
+    "keywords": "nacho salad, spicy salad, ground beef salad",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3547,7 +3912,12 @@
         "text": "Chill until ready to serve."
       }
     ],
-    "keywords": "onion salad, marinated onions, sweet and tangy salad"
+    "keywords": "onion salad, marinated onions, sweet and tangy salad",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "",
+      "totalTime": "8 hours 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3592,7 +3962,12 @@
         "text": "Allow to cool completely before serving."
       }
     ],
-    "keywords": "orange Jello salad, mandarin oranges, Dream Whip"
+    "keywords": "orange Jello salad, mandarin oranges, Dream Whip",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3639,7 +4014,12 @@
         "text": "Fold in Dream Whip along with marshmallows and pecans."
       }
     ],
-    "keywords": "orange-pineapple Jello, fruity dessert, nuts"
+    "keywords": "orange-pineapple Jello, fruity dessert, nuts",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3689,7 +4069,12 @@
         "text": "Pour into a 1½ quart mould and chill until firm."
       }
     ],
-    "keywords": "party-time salad, lime Jello, cream cheese, pineapple"
+    "keywords": "party-time salad, lime Jello, cream cheese, pineapple",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3724,7 +4109,12 @@
         "text": "Put the mixture in a mold and set."
       }
     ],
-    "keywords": "cranberry mold, raspberry Jello, dessert"
+    "keywords": "cranberry mold, raspberry Jello, dessert",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": null,
+      "totalTime": null
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3780,7 +4170,12 @@
         "text": "To serve, unmold and fill the center with raw fruit."
       }
     ],
-    "keywords": "fruit mold, layered Jello, dessert"
+    "keywords": "fruit mold, layered Jello, dessert",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "8 hours 30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3817,7 +4212,12 @@
         "text": "Whip the Dream Whip Mix and combine with the set Jello."
       }
     ],
-    "keywords": "lemon Jello, whipped dessert, Dream Whip"
+    "keywords": "lemon Jello, whipped dessert, Dream Whip",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": null,
+      "totalTime": null
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3865,7 +4265,12 @@
         "text": "Garnish with chow mein noodles and/or add drained shrimp if desired."
       }
     ],
-    "keywords": "Chinese rice salad, savory salad, Minute Rice"
+    "keywords": "Chinese rice salad, savory salad, Minute Rice",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3914,7 +4319,12 @@
         "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
       }
     ],
-    "keywords": "sauerkraut salad, tangy salad, make-ahead salad"
+    "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -3959,7 +4369,12 @@
         "text": "Just before serving, pour the dressing over the salad and top with the toasted almond mixture."
       }
     ],
-    "keywords": "spinach salad, lettuce salad, homemade dressing, crunchy topping"
+    "keywords": "spinach salad, lettuce salad, homemade dressing, crunchy topping",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4005,7 +4420,12 @@
         "text": "Serve immediately."
       }
     ],
-    "keywords": "romaine salad, orange salad, vinaigrette dressing"
+    "keywords": "romaine salad, orange salad, vinaigrette dressing",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4048,7 +4468,12 @@
         "text": "Pour the Classic Herb dressing over the salad and toss to combine."
       }
     ],
-    "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad"
+    "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4088,7 +4513,12 @@
         "text": "Pour the hot dressing over the sliced potatoes."
       }
     ],
-    "keywords": "hot potato salad, vinegar dressing, warm salad"
+    "keywords": "hot potato salad, vinegar dressing, warm salad",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4145,7 +4575,12 @@
         "text": "Drizzle the chilled dressing over the salad and gently toss to coat."
       }
     ],
-    "keywords": "fruit salad, mixed greens, strawberry, mandarin orange, bacon"
+    "keywords": "fruit salad, mixed greens, strawberry, mandarin orange, bacon",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4198,7 +4633,12 @@
         "text": "Just before serving, add the drained mandarin oranges and toasted slivered almonds."
       }
     ],
-    "keywords": "mandarin orange salad, spinach salad, homemade dressing"
+    "keywords": "mandarin orange salad, spinach salad, homemade dressing",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4250,7 +4690,12 @@
         "text": "Serve immediately."
       }
     ],
-    "keywords": "taco salad, ground beef, taco chips, cheddar cheese"
+    "keywords": "taco salad, ground beef, taco chips, cheddar cheese",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4294,7 +4739,12 @@
         "text": "Cover and refrigerate for several hours before serving."
       }
     ],
-    "keywords": "chickpea salad, tomato salad, Mediterranean salad, feta cheese"
+    "keywords": "chickpea salad, tomato salad, Mediterranean salad, feta cheese",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4355,7 +4805,12 @@
         "text": "Serve as finger food or as a salad."
       }
     ],
-    "keywords": "marinated vegetables, vegetable salad, Italian dressing"
+    "keywords": "marinated vegetables, vegetable salad, Italian dressing",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4407,7 +4862,12 @@
         "text": "Serve immediately."
       }
     ],
-    "keywords": "taco salad, ground beef, taco chips, Catalina dressing"
+    "keywords": "taco salad, ground beef, taco chips, Catalina dressing",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4457,7 +4917,12 @@
         "text": "Cover and refrigerate for several hours before serving."
       }
     ],
-    "keywords": "chickpea salad, tomato salad, Mediterranean salad, vinaigrette dressing"
+    "keywords": "chickpea salad, tomato salad, Mediterranean salad, vinaigrette dressing",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4514,7 +4979,12 @@
         "text": "Serve as finger food or as a salad."
       }
     ],
-    "keywords": "marinated vegetables, vegetable salad, Italian dressing"
+    "keywords": "marinated vegetables, vegetable salad, Italian dressing",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4565,7 +5035,12 @@
         "text": "Serve immediately."
       }
     ],
-    "keywords": "spinach salad, wilting spinach, warm salad"
+    "keywords": "spinach salad, wilting spinach, warm salad",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4610,7 +5085,12 @@
         "text": "Drizzle with the prepared dressing and toss to coat."
       }
     ],
-    "keywords": "strawberry salad, fruit salad, sweet salad dressing"
+    "keywords": "strawberry salad, fruit salad, sweet salad dressing",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4659,7 +5139,12 @@
         "text": "Toss everything together and serve immediately."
       }
     ],
-    "keywords": "taco salad, Mexican salad, ground beef salad"
+    "keywords": "taco salad, Mexican salad, ground beef salad",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4726,7 +5211,12 @@
         "text": "Pour into soup tureen. Top each serving with a spoonful of sour cream and garnish with snipped dill."
       }
     ],
-    "keywords": "beef borsch, sour cream, beet soup, Eastern European soup"
+    "keywords": "beef borsch, sour cream, beet soup, Eastern European soup",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "3 hours 30 minutes",
+      "totalTime": "4 hours"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4784,7 +5274,12 @@
         "text": "Season to taste and keep warm over low heat without boiling."
       }
     ],
-    "keywords": "asparagus soup, creamy soup, canned asparagus"
+    "keywords": "asparagus soup, creamy soup, canned asparagus",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "40 minutes",
+      "totalTime": "1 hour"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4836,7 +5331,12 @@
         "text": "Add beef and simmer for an additional ½ hour."
       }
     ],
-    "keywords": "beef barley soup, hearty soup, freezer-friendly"
+    "keywords": "beef barley soup, hearty soup, freezer-friendly",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "2 hours",
+      "totalTime": "2 hours 30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4875,7 +5375,12 @@
         "text": "Can be kept in the fridge for up to 2 weeks."
       }
     ],
-    "keywords": "Caesar dressing, homemade salad dressing"
+    "keywords": "Caesar dressing, homemade salad dressing",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4911,7 +5416,12 @@
         "text": "Cook in the microwave for approximately 8 minutes."
       }
     ],
-    "keywords": "cooked salad dressing, creamy dressing"
+    "keywords": "cooked salad dressing, creamy dressing",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "8 minutes",
+      "totalTime": "13 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4951,7 +5461,12 @@
         "text": "Cook over boiling water until creamy."
       }
     ],
-    "keywords": "creamy salad dressing, cooked dressing"
+    "keywords": "creamy salad dressing, cooked dressing",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -4995,7 +5510,12 @@
         "text": "Take off heat and stir in 1 Tbsp butter."
       }
     ],
-    "keywords": "thickened salad dressing, boiled dressing"
+    "keywords": "thickened salad dressing, boiled dressing",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5049,7 +5569,12 @@
         "text": "Heat with milk, cheese, and seasonings."
       }
     ],
-    "keywords": "broccoli soup, cheese soup, creamy soup"
+    "keywords": "broccoli soup, cheese soup, creamy soup",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5087,7 +5612,12 @@
         "text": "Cook at low heat for 1½ hours."
       }
     ],
-    "keywords": "cabbage soup, vegetable soup, hearty soup"
+    "keywords": "cabbage soup, vegetable soup, hearty soup",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "totalTime": "1 hour 45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5142,7 +5672,12 @@
         "text": "Scald milk and add to soup for desired consistency."
       }
     ],
-    "keywords": "corn chowder, creamy soup, bacon soup"
+    "keywords": "corn chowder, creamy soup, bacon soup",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5204,7 +5739,12 @@
         "text": "Heat through with milk, cheese, and seasonings."
       }
     ],
-    "keywords": "broccoli soup, cheese soup, creamy soup"
+    "keywords": "broccoli soup, cheese soup, creamy soup",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5242,7 +5782,12 @@
         "text": "Cook at low heat for 1½ hours."
       }
     ],
-    "keywords": "cabbage soup, vegetable soup, hearty soup"
+    "keywords": "cabbage soup, vegetable soup, hearty soup",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "totalTime": "1 hour 45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5297,7 +5842,12 @@
         "text": "Scald milk and add to soup for desired consistency."
       }
     ],
-    "keywords": "corn chowder, creamy soup, bacon soup"
+    "keywords": "corn chowder, creamy soup, bacon soup",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5354,7 +5904,12 @@
         "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
       }
     ],
-    "keywords": "pasta soup, bean soup, Italian soup, vegetable broth"
+    "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "28 minutes",
+      "totalTime": "43 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5397,7 +5952,12 @@
         "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
       }
     ],
-    "keywords": "creamy broccoli soup, potato soup, comforting soup"
+    "keywords": "creamy broccoli soup, potato soup, comforting soup",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5447,7 +6007,12 @@
         "text": "Serve hot."
       }
     ],
-    "keywords": "mushroom soup, creamy soup, comfort food"
+    "keywords": "mushroom soup, creamy soup, comfort food",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5497,7 +6062,12 @@
         "text": "Garnish with green onion and coriander."
       }
     ],
-    "keywords": "ginger noodle soup, Asian soup, pork soup"
+    "keywords": "ginger noodle soup, Asian soup, pork soup",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5551,7 +6121,12 @@
         "duration": "PT30M"
       }
     ],
-    "keywords": "French onion soup, caramelized onions, melted cheese"
+    "keywords": "French onion soup, caramelized onions, melted cheese",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "2 hours 30 minutes",
+      "totalTime": "2 hours 50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5603,7 +6178,12 @@
         "text": "Add the shredded cheese and cubed ham; heat until cheese is melted. Stir in the cooked bacon."
       }
     ],
-    "keywords": "ham chowder, cheesy soup, comfort food"
+    "keywords": "ham chowder, cheesy soup, comfort food",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "40 minutes",
+      "totalTime": "1 hour"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5656,7 +6236,12 @@
         "text": "Serve topped with grated Parmesan cheese."
       }
     ],
-    "keywords": "minestrone soup, pasta soup, Italian-American cuisine"
+    "keywords": "minestrone soup, pasta soup, Italian-American cuisine",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5713,7 +6298,12 @@
         "text": "Stir in corn and reserved vegetables. Cook on high for 2 to 3 minutes or until heated through."
       }
     ],
-    "keywords": "microwave corn chowder, creamy soup, cheddar cheese"
+    "keywords": "microwave corn chowder, creamy soup, cheddar cheese",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5762,7 +6352,12 @@
         "text": "Add the milk and dill. Serve."
       }
     ],
-    "keywords": "cucumber soup, creamy soup, refreshing soup"
+    "keywords": "cucumber soup, creamy soup, refreshing soup",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "8 minutes",
+      "totalTime": "18 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5807,7 +6402,12 @@
         "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
       }
     ],
-    "keywords": "vegetable soup, beef broth, savory soup"
+    "keywords": "vegetable soup, beef broth, savory soup",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5855,7 +6455,12 @@
         "text": "Remove from heat and puree. Serve immediately with fresh bread."
       }
     ],
-    "keywords": "carrot soup, potato soup, chicken stock"
+    "keywords": "carrot soup, potato soup, chicken stock",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5888,7 +6493,12 @@
         "text": "Put in fridge."
       }
     ],
-    "keywords": "mustard sauce, cold meat, condiment"
+    "keywords": "mustard sauce, cold meat, condiment",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": null,
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -5946,7 +6556,12 @@
         "text": "Season to taste with salt and pepper."
       }
     ],
-    "keywords": "tomato macaroni soup, comfort food, pasta soup"
+    "keywords": "tomato macaroni soup, comfort food, pasta soup",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6007,7 +6622,12 @@
         "text": "Pour soup over chips and top with sour cream, jalapenos (optional), and shredded cheddar cheese."
       }
     ],
-    "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup"
+    "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6055,7 +6675,12 @@
         "text": "Add more water (up to 1 more cup) to achieve desired consistency."
       }
     ],
-    "keywords": "potato soup, creamy soup, comfort food"
+    "keywords": "potato soup, creamy soup, comfort food",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6096,7 +6721,12 @@
         "text": "Add shredded cheddar cheese during the last 30 minutes of simmering."
       }
     ],
-    "keywords": "cream of potato soup, cheesy soup, slow-cooked soup"
+    "keywords": "cream of potato soup, cheesy soup, slow-cooked soup",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "2 hours 30 minutes",
+      "totalTime": "2 hours 45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6142,7 +6772,12 @@
         "text": "Heat through and simmer on low heat for 15 minutes."
       }
     ],
-    "keywords": "seafood chowder, shrimp and clam soup, creamy chowder"
+    "keywords": "seafood chowder, shrimp and clam soup, creamy chowder",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6193,7 +6828,12 @@
         "text": "Bake at 325°F for 1/2 hour."
       }
     ],
-    "keywords": "broccoli casserole, creamy soup casserole, baked vegetable dish"
+    "keywords": "broccoli casserole, creamy soup casserole, baked vegetable dish",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6241,7 +6881,12 @@
         "text": "Top with butter and bread crumbs or a can of fried onions before serving."
       }
     ],
-    "keywords": "broccoli casserole, cheesy casserole, comforting main dish"
+    "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "35 minutes",
+      "totalTime": "55 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6289,7 +6934,12 @@
         "text": "Bake at 350°F for 45 minutes."
       }
     ],
-    "keywords": "cabbage casserole, creamy vegetable dish, comforting main course"
+    "keywords": "cabbage casserole, creamy vegetable dish, comforting main course",
+    "_naturalized_times": {
+      "prepTime": "25 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6333,7 +6983,12 @@
         "text": "Heat slowly to soften the cheese. Season with salt and pepper to taste."
       }
     ],
-    "keywords": "green beans, artichokes, Romano cheese, side dish"
+    "keywords": "green beans, artichokes, Romano cheese, side dish",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6382,7 +7037,12 @@
         "text": "Return to the oven to heat through. Season with pepper to taste."
       }
     ],
-    "keywords": "barley casserole, corn, carrots, comforting side dish"
+    "keywords": "barley casserole, corn, carrots, comforting side dish",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6426,7 +7086,12 @@
         "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
       }
     ],
-    "keywords": "broccoli casserole, cheesy, comforting vegetable side"
+    "keywords": "broccoli casserole, cheesy, comforting vegetable side",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6469,7 +7134,12 @@
         "text": "Add butter and vanilla."
       }
     ],
-    "keywords": "plum pudding sauce, dessert sauce, brown sugar sauce"
+    "keywords": "plum pudding sauce, dessert sauce, brown sugar sauce",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6504,7 +7174,12 @@
         "text": "Marinate meat for at least 1 hour or up to 24 hours in the refrigerator."
       }
     ],
-    "keywords": "teriyaki sauce, marinade, Asian-inspired, soy sauce"
+    "keywords": "teriyaki sauce, marinade, Asian-inspired, soy sauce",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6550,7 +7225,12 @@
         "text": "Refrigerate or freeze for later use."
       }
     ],
-    "keywords": "BBQ sauce, zesty, spicy, grilling sauce"
+    "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6608,7 +7288,12 @@
         "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
       }
     ],
-    "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake"
+    "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6658,7 +7343,12 @@
         "text": "Sprinkle with cheddar and Parmesan cheese and return to the oven until the cheese is lightly browned and the potatoes are soft inside."
       }
     ],
-    "keywords": "baked potatoes, sliced potatoes, cheesy potatoes, herbed potatoes"
+    "keywords": "baked potatoes, sliced potatoes, cheesy potatoes, herbed potatoes",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "50 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6740,7 +7430,12 @@
         "duration": "PT25M"
       }
     ],
-    "keywords": "cauliflower, Swiss cheese, baked casserole"
+    "keywords": "cauliflower, Swiss cheese, baked casserole",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6799,7 +7494,12 @@
         "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
       }
     ],
-    "keywords": "baked potatoes, cheddar cheese, creamy sauce"
+    "keywords": "baked potatoes, cheddar cheese, creamy sauce",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "55 minutes",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6849,7 +7549,12 @@
         "duration": "PT1H"
       }
     ],
-    "keywords": "potato casserole, hash browns, creamy, cheesy"
+    "keywords": "potato casserole, hash browns, creamy, cheesy",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6901,7 +7606,12 @@
         "text": "Roast for another 20 to 25 minutes or until vegetables are tender and golden, stirring once."
       }
     ],
-    "keywords": "roasted carrots, roasted parsnips, maple syrup glaze"
+    "keywords": "roasted carrots, roasted parsnips, maple syrup glaze",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "50 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -6956,7 +7666,12 @@
         "text": "Bake for 30 minutes at 250°F until bubbly."
       }
     ],
-    "keywords": "baked cauliflower, cheesy casserole"
+    "keywords": "baked cauliflower, cheesy casserole",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7013,7 +7728,12 @@
         "text": "Cook at 350°F for 40 minutes."
       }
     ],
-    "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake"
+    "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "40 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7067,7 +7787,12 @@
         "text": "Serve the beef mixture over cooked rice."
       }
     ],
-    "keywords": "beef stir-fry, Asian-inspired, quick dinner"
+    "keywords": "beef stir-fry, Asian-inspired, quick dinner",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7117,7 +7842,12 @@
         "text": "Spread cooked pasta on a plate and spoon the beef mixture over top. Sprinkle with additional Parmesan cheese."
       }
     ],
-    "keywords": "pasta, beef, Italian-inspired, Parmesan cheese"
+    "keywords": "pasta, beef, Italian-inspired, Parmesan cheese",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7169,7 +7899,12 @@
         "text": "Add meat rolls and simmer, covered, for 45 minutes. Add more liquid if needed."
       }
     ],
-    "keywords": "beef birds, wine sauce, main dish"
+    "keywords": "beef birds, wine sauce, main dish",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7215,7 +7950,12 @@
         "text": "Add broccoli back into the wok. Stir the cornstarch mixture and pour into the beef mixture. Cook until boiling and thickened."
       }
     ],
-    "keywords": "beef stir-fry, broccoli, soy sauce, oyster sauce"
+    "keywords": "beef stir-fry, broccoli, soy sauce, oyster sauce",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7277,7 +8017,12 @@
         "duration": "PT40M"
       }
     ],
-    "keywords": "sweet potato casserole, pecan topping, holiday side dish"
+    "keywords": "sweet potato casserole, pecan topping, holiday side dish",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "40 minutes",
+      "totalTime": "1 hour"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7335,7 +8080,12 @@
         "duration": "PT45M"
       }
     ],
-    "keywords": "turnip casserole, bread crumb topping, savory side dish, freezer-friendly"
+    "keywords": "turnip casserole, bread crumb topping, savory side dish, freezer-friendly",
+    "_naturalized_times": {
+      "prepTime": "25 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7388,7 +8138,12 @@
         "text": "Return to the oven for an additional 10 to 15 minutes."
       }
     ],
-    "keywords": "meatballs, baked, sweet and tangy sauce"
+    "keywords": "meatballs, baked, sweet and tangy sauce",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7450,7 +8205,12 @@
         "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
       }
     ],
-    "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished"
+    "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7489,7 +8249,12 @@
         "text": "Bake at 350°F for 1 hour."
       }
     ],
-    "keywords": "meat loaf, cheesy, ground beef, baked"
+    "keywords": "meat loaf, cheesy, ground beef, baked",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7560,7 +8325,12 @@
         "text": "Decorate with tomato slices and green parsley on a serving tray."
       }
     ],
-    "keywords": "meat loaf, jelly roll, mozzarella cheese, baked"
+    "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour 15 minutes",
+      "totalTime": "1 hour 35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7603,7 +8373,12 @@
         "text": "Bake at 250°F for 4 hours without uncovering."
       }
     ],
-    "keywords": "beef casserole, slow-cooked stew, comfort food"
+    "keywords": "beef casserole, slow-cooked stew, comfort food",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "4 hours",
+      "totalTime": "4 hours 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7656,7 +8431,12 @@
         "text": "Bake at 350°F for approximately 1½ hours."
       }
     ],
-    "keywords": "meatloaf, cheddar cheese, ketchup glaze, classic American"
+    "keywords": "meatloaf, cheddar cheese, ketchup glaze, classic American",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "totalTime": "1 hour 50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7734,7 +8514,12 @@
         "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
       }
     ],
-    "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling"
+    "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
+    "_naturalized_times": {
+      "prepTime": "25 minutes",
+      "cookTime": "1 hour 15 minutes",
+      "totalTime": "1 hour 40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7816,7 +8601,12 @@
         "text": "Let stand for 10 minutes before serving."
       }
     ],
-    "keywords": "beef casserole, potato bake, creamy sauce"
+    "keywords": "beef casserole, potato bake, creamy sauce",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7865,7 +8655,12 @@
         "text": "Cover and cook at 350°F for 50 minutes."
       }
     ],
-    "keywords": "meat casserole, potato and corn dish, gravy topping"
+    "keywords": "meat casserole, potato and corn dish, gravy topping",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "50 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7921,7 +8716,12 @@
         "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
       }
     ],
-    "keywords": "meatballs, sweet and sour sauce, baked meatballs"
+    "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "35 minutes",
+      "totalTime": "55 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -7975,7 +8775,12 @@
         "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
       }
     ],
-    "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce"
+    "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8040,7 +8845,12 @@
         "text": "Serve with rice, potatoes, or pasta."
       }
     ],
-    "keywords": "Swedish meatballs, ground beef, gravy"
+    "keywords": "Swedish meatballs, ground beef, gravy",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8090,7 +8900,12 @@
         "text": "Cover and bake at 350°F for 1 hour."
       }
     ],
-    "keywords": "beef porcupines, baked meatballs, rice"
+    "keywords": "beef porcupines, baked meatballs, rice",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8153,7 +8968,12 @@
         "text": "Remove from oven, sprinkle cheddar cheese on top, cover, and return to oven for an additional 15 to 30 minutes, or until cabbage is cooked and cheese is melted."
       }
     ],
-    "keywords": "mock cabbage rolls, casserole, cheesy cabbage"
+    "keywords": "mock cabbage rolls, casserole, cheesy cabbage",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8208,7 +9028,12 @@
         "text": "Cover and simmer over medium heat for 45 minutes, or until vegetables are tender, stirring occasionally."
       }
     ],
-    "keywords": "chili con carne, ground beef chili, customizable chili"
+    "keywords": "chili con carne, ground beef chili, customizable chili",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8268,7 +9093,12 @@
         "text": "Serve hot."
       }
     ],
-    "keywords": "hamburger casserole, noodle dish, comfort food"
+    "keywords": "hamburger casserole, noodle dish, comfort food",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8330,7 +9160,12 @@
         "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
       }
     ],
-    "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food"
+    "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "3 hours",
+      "totalTime": "3 hours 30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8397,7 +9232,12 @@
         "duration": "PT30M"
       }
     ],
-    "keywords": "beef casserole, rice casserole, comfort food"
+    "keywords": "beef casserole, rice casserole, comfort food",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8465,7 +9305,12 @@
         "duration": "PT30M"
       }
     ],
-    "keywords": "hamburger pie, shepherd's pie, casserole"
+    "keywords": "hamburger pie, shepherd's pie, casserole",
+    "_naturalized_times": {
+      "prepTime": "25 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "55 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8528,7 +9373,12 @@
         "text": "Let stand for 5 minutes before serving."
       }
     ],
-    "keywords": "shepherd's pie, ground beef, mashed potatoes, casserole"
+    "keywords": "shepherd's pie, ground beef, mashed potatoes, casserole",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8598,7 +9448,12 @@
         "duration": "PT30M"
       }
     ],
-    "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese"
+    "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8644,7 +9499,12 @@
         "text": "Bake until the cheese is melted."
       }
     ],
-    "keywords": "casserole, ground beef, noodle dish"
+    "keywords": "casserole, ground beef, noodle dish",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8705,7 +9565,12 @@
         "text": "Bake in a 400°F oven until the top is golden brown."
       }
     ],
-    "keywords": "shepherd's pie, ground beef, mashed potatoes"
+    "keywords": "shepherd's pie, ground beef, mashed potatoes",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "50 minutes",
+      "totalTime": "1 hour 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8763,7 +9628,12 @@
         "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
       }
     ],
-    "keywords": "Chinese casserole, hamburger casserole, rice casserole"
+    "keywords": "Chinese casserole, hamburger casserole, rice casserole",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8825,7 +9695,12 @@
         "text": "Cover and bake in 350°F oven for ½ hour."
       }
     ],
-    "keywords": "macaroni casserole, cheesy pasta bake, comfort food"
+    "keywords": "macaroni casserole, cheesy pasta bake, comfort food",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8895,7 +9770,12 @@
         "text": "Top with remaining cheese and bake for an additional 5 to 10 minutes, or until the cheese is melted."
       }
     ],
-    "keywords": "baked spaghetti, meatballs, Italian-American casserole"
+    "keywords": "baked spaghetti, meatballs, Italian-American casserole",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "35 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -8938,7 +9818,12 @@
         "text": "Continue cooking gently for another 2 hours."
       }
     ],
-    "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce"
+    "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "4 hours",
+      "totalTime": "4 hours 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9001,7 +9886,12 @@
         "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
       }
     ],
-    "keywords": "spaghetti casserole, ground beef, cheddar cheese"
+    "keywords": "spaghetti casserole, ground beef, cheddar cheese",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9078,7 +9968,12 @@
         "text": "Remove bay leaf before serving."
       }
     ],
-    "keywords": "meatball stew, pasta stew, tomato-based sauce"
+    "keywords": "meatball stew, pasta stew, tomato-based sauce",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "55 minutes",
+      "totalTime": "1 hour 25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9138,7 +10033,12 @@
         "text": "Cover the casserole and bake for 1 hour or until done."
       }
     ],
-    "keywords": "shipwreck casserole, ground beef, potato casserole"
+    "keywords": "shipwreck casserole, ground beef, potato casserole",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9194,7 +10094,12 @@
         "text": "Combine the sauce with cooked spaghetti and serve."
       }
     ],
-    "keywords": "spaghetti, bacon, mushroom sauce, creamy pasta"
+    "keywords": "spaghetti, bacon, mushroom sauce, creamy pasta",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9250,7 +10155,12 @@
         "text": "Shortly before serving, add shredded mozzarella cheese and continue heating until melted."
       }
     ],
-    "keywords": "spaghetti skillet, one-pot pasta, mozzarella cheese"
+    "keywords": "spaghetti skillet, one-pot pasta, mozzarella cheese",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9321,7 +10231,12 @@
         "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
       }
     ],
-    "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired"
+    "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "16 minutes",
+      "totalTime": "36 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9394,7 +10309,12 @@
         "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
       }
     ],
-    "keywords": "taco pasta bake, ground beef recipe, cheesy casserole"
+    "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "35 minutes",
+      "totalTime": "55 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9461,7 +10381,12 @@
         "text": "Serve with a salad."
       }
     ],
-    "keywords": "sloppy joe, casserole, crescent rolls, beef"
+    "keywords": "sloppy joe, casserole, crescent rolls, beef",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9512,7 +10437,12 @@
         "text": "Sprinkle the remaining cheddar cheese on top before serving."
       }
     ],
-    "keywords": "taco bake, ground beef, cheesy casserole, Mexican-American"
+    "keywords": "taco bake, ground beef, cheesy casserole, Mexican-American",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9559,7 +10489,12 @@
         "text": "Add the remaining ingredients and simmer for several hours."
       }
     ],
-    "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine"
+    "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "2 hours",
+      "totalTime": "2 hours 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9610,7 +10545,12 @@
         "text": "Simmer for 10 minutes."
       }
     ],
-    "keywords": "spaghetti sauce, zippy sauce, sausage, taco seasoning"
+    "keywords": "spaghetti sauce, zippy sauce, sausage, taco seasoning",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9659,7 +10599,12 @@
         "text": "Serve with grated Parmesan cheese on top if desired."
       }
     ],
-    "keywords": "pesto pasta, sun-dried tomatoes, Asiago cheese, Italian cuisine"
+    "keywords": "pesto pasta, sun-dried tomatoes, Asiago cheese, Italian cuisine",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "8 minutes",
+      "totalTime": "18 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9726,7 +10671,12 @@
         "text": "Let stand for 3 to 5 minutes before cutting and serving."
       }
     ],
-    "keywords": "homemade pizza, Italian-American, yeast crust"
+    "keywords": "homemade pizza, Italian-American, yeast crust",
+    "_naturalized_times": {
+      "prepTime": "1 hour",
+      "cookTime": "20 minutes",
+      "totalTime": "1 hour 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9767,7 +10717,12 @@
         "text": "Microwave for 1 to 2 minutes until the cheese melts. Be careful as they can be hot."
       }
     ],
-    "keywords": "pizza bagel, microwave recipe, kids meal"
+    "keywords": "pizza bagel, microwave recipe, kids meal",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "1 minute",
+      "totalTime": "6 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9821,7 +10776,12 @@
         "text": "Set on a jelly roll pan and bake."
       }
     ],
-    "keywords": "lasagna, Italian-American, pasta bake"
+    "keywords": "lasagna, Italian-American, pasta bake",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9874,7 +10834,12 @@
         "text": "Cut into pizza wheels and serve."
       }
     ],
-    "keywords": "pizza, meatball, Italian-American, baked"
+    "keywords": "pizza, meatball, Italian-American, baked",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9933,7 +10898,12 @@
         "text": "Top with remaining sauce. Cover and bake in a 350°F oven for 30 to 40 minutes or until the sauce is bubbling."
       }
     ],
-    "keywords": "lasagna rolls, Florentine, spinach, ricotta, Alfredo sauce"
+    "keywords": "lasagna rolls, Florentine, spinach, ricotta, Alfredo sauce",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -9994,7 +10964,12 @@
         "text": "Let stand for 10 minutes before serving."
       }
     ],
-    "keywords": "lasagna, ground beef, cottage cheese, mozzarella, layered pasta"
+    "keywords": "lasagna, ground beef, cottage cheese, mozzarella, layered pasta",
+    "_naturalized_times": {
+      "prepTime": "25 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10055,7 +11030,12 @@
         "text": "Bake at 350°F for approximately 20 minutes, or until the casserole is bubbling."
       }
     ],
-    "keywords": "macaroni casserole, ham and cheese, comfort food"
+    "keywords": "macaroni casserole, ham and cheese, comfort food",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10101,7 +11081,12 @@
         "text": "Bake at 350°F for 1 hour."
       }
     ],
-    "keywords": "ham and potato casserole, crunchy topping, comforting casserole"
+    "keywords": "ham and potato casserole, crunchy topping, comforting casserole",
+    "_naturalized_times": {
+      "prepTime": "25 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10149,7 +11134,12 @@
         "text": "Bake in 425°F (220°C) oven for 15 minutes, basting occasionally, until glaze is set."
       }
     ],
-    "keywords": "glazed cottage roll, baked ham, sweet glaze"
+    "keywords": "glazed cottage roll, baked ham, sweet glaze",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "2 hours 15 minutes",
+      "totalTime": "2 hours 35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10186,7 +11176,12 @@
         "text": "Bake in 350°F oven for 20 to 30 minutes, turning once and sprinkling additional mixture on the other side."
       }
     ],
-    "keywords": "baked ham, glazed ham, sweet ham"
+    "keywords": "baked ham, glazed ham, sweet ham",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10236,7 +11231,12 @@
         "text": "Bake at 350°F for 45 minutes."
       }
     ],
-    "keywords": "ham casserole, potato casserole, comforting main dish"
+    "keywords": "ham casserole, potato casserole, comforting main dish",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10302,7 +11302,12 @@
         "text": "Cut with pizza cutter or knife."
       }
     ],
-    "keywords": "veggie pizza, crescent roll crust, cream cheese, ranch dressing"
+    "keywords": "veggie pizza, crescent roll crust, cream cheese, ranch dressing",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10367,7 +11372,12 @@
         "text": "Bake in a preheated 350°F oven for 20 to 30 minutes."
       }
     ],
-    "keywords": "pizza casserole, spaghetti, hamburger, pepperoni"
+    "keywords": "pizza casserole, spaghetti, hamburger, pepperoni",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10410,7 +11420,12 @@
         "text": "Drain the ribs and pour the sauce over them. Bake uncovered for an additional ½ hour, stirring occasionally."
       }
     ],
-    "keywords": "maple glazed ribs, pork spare ribs, sweet and savory"
+    "keywords": "maple glazed ribs, pork spare ribs, sweet and savory",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "2 hours 15 minutes",
+      "totalTime": "2 hours 35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10447,7 +11462,12 @@
         "text": "To finish, remove ribs from the glaze and broil 6 inches from heat in the oven or barbecue until crisp. Alternatively, baste ribs and heat in the sauce."
       }
     ],
-    "keywords": "spareribs, garlic honey glaze, make-ahead ribs"
+    "keywords": "spareribs, garlic honey glaze, make-ahead ribs",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "totalTime": "1 hour 45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10496,7 +11516,12 @@
         "text": "Can be served with rice."
       }
     ],
-    "keywords": "Oktoberfest sausages, saucy sausages, baked sausages"
+    "keywords": "Oktoberfest sausages, saucy sausages, baked sausages",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10545,7 +11570,12 @@
         "text": "Return pork chops to the skillet and cook until heated through. Serve with rice or couscous."
       }
     ],
-    "keywords": "pork chops, dried fruit, orange juice sauce, savory sweet dish"
+    "keywords": "pork chops, dried fruit, orange juice sauce, savory sweet dish",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10589,7 +11619,12 @@
         "text": "If desired, thicken the liquid with 2 Tbsp flour. Serve with rice."
       }
     ],
-    "keywords": "sour sweet pork chops, tangy pork, brown sugar sauce"
+    "keywords": "sour sweet pork chops, tangy pork, brown sugar sauce",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "40 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10637,7 +11672,12 @@
         "text": "Close barbecue hood and continue cooking until done, about 15 minutes more."
       }
     ],
-    "keywords": "country-style ribs, marinated ribs, BBQ ribs"
+    "keywords": "country-style ribs, marinated ribs, BBQ ribs",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "24 hours 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10681,7 +11721,12 @@
         "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
       }
     ],
-    "keywords": "ham, potato, casserole, slow cooker"
+    "keywords": "ham, potato, casserole, slow cooker",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "8 hours",
+      "totalTime": "8 hours 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10732,7 +11777,12 @@
         "text": "Uncover and bake, spooning sauce over chops occasionally, for 15 to 30 minutes or until tender."
       }
     ],
-    "keywords": "pork chops, barbecue, oven baked"
+    "keywords": "pork chops, barbecue, oven baked",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10792,7 +11842,12 @@
         "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
       }
     ],
-    "keywords": "pork chop, rice, casserole, baked"
+    "keywords": "pork chop, rice, casserole, baked",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "totalTime": "2 hours"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10839,7 +11894,12 @@
         "text": "Serve with rice or noodles."
       }
     ],
-    "keywords": "chicken breast, breaded chicken"
+    "keywords": "chicken breast, breaded chicken",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10884,7 +11944,12 @@
         "text": "Put in a cake or casserole pan and bake at 350°F for 1/2 hour or until chicken is cooked."
       }
     ],
-    "keywords": "stuffed chicken breast, boneless chicken"
+    "keywords": "stuffed chicken breast, boneless chicken",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10937,7 +12002,12 @@
         "text": "Serve warm or cold."
       }
     ],
-    "keywords": "glazed chicken, basil, balsamic vinegar"
+    "keywords": "glazed chicken, basil, balsamic vinegar",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": null,
+      "totalTime": null
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -10996,7 +12066,12 @@
         "text": "Serve with rice, bulgar, or couscous."
       }
     ],
-    "keywords": "South African lamb, lamb stew, curry lamb, dried fruit"
+    "keywords": "South African lamb, lamb stew, curry lamb, dried fruit",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "totalTime": "1 hour 50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11053,7 +12128,12 @@
         "text": "Bake in a preheated 400°F oven until the cheese is melted and bubbly."
       }
     ],
-    "keywords": "veal parmesan, breaded veal, Italian-American, tomato sauce"
+    "keywords": "veal parmesan, breaded veal, Italian-American, tomato sauce",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "1 hour"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11122,7 +12202,12 @@
         "text": "Let stand for 10 minutes before cutting and serve with sour cream and salsa."
       }
     ],
-    "keywords": "Southwestern casserole, sausage bake, breakfast strata"
+    "keywords": "Southwestern casserole, sausage bake, breakfast strata",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "50 minutes",
+      "totalTime": "1 hour 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11177,7 +12262,12 @@
         "text": "Remove the lid near the end to brown the lamb."
       }
     ],
-    "keywords": "roasted lamb, garlic and rosemary, slow cooking"
+    "keywords": "roasted lamb, garlic and rosemary, slow cooking",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "6 hours 30 minutes",
+      "totalTime": "6 hours 50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11254,7 +12344,12 @@
         "text": "Serve over Chicken Vegetable Fried Rice."
       }
     ],
-    "keywords": "sweet and sour chicken, pineapple chicken, ginger sauce"
+    "keywords": "sweet and sour chicken, pineapple chicken, ginger sauce",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11303,7 +12398,12 @@
         "text": "Adjust seasoning with salt, pepper, and additional soya sauce if needed."
       }
     ],
-    "keywords": "chicken fried rice, vegetable fried rice, Chinese-Canadian side dish"
+    "keywords": "chicken fried rice, vegetable fried rice, Chinese-Canadian side dish",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11361,7 +12461,12 @@
         "text": "Serve the stir-fry over hot rice."
       }
     ],
-    "keywords": "chicken stir-fry, pineapple chicken, quick dinner"
+    "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "5 minutes",
+      "totalTime": "15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11406,7 +12511,12 @@
         "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
       }
     ],
-    "keywords": "sweet and sour chicken, pineapple chicken, baked chicken"
+    "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "totalTime": "1 hour 45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11441,7 +12551,12 @@
         "text": "Bake at 350°F for 2 hours."
       }
     ],
-    "keywords": "sweet and sour chicken, easy chicken recipe, apricot jam chicken"
+    "keywords": "sweet and sour chicken, easy chicken recipe, apricot jam chicken",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "2 hours",
+      "totalTime": "2 hours 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11497,7 +12612,12 @@
         "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
       }
     ],
-    "keywords": "lemon chicken, thyme, chicken breast"
+    "keywords": "lemon chicken, thyme, chicken breast",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11552,7 +12672,12 @@
         "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
       }
     ],
-    "keywords": "stir-fry chicken, Asian-inspired, cheesy buns"
+    "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11601,7 +12726,12 @@
         "text": "Serve wrapped in flour tortillas with shredded cheese, salsa, sour cream, and guacamole as garnishes."
       }
     ],
-    "keywords": "chicken fajitas, Mexican dish, stir-fry"
+    "keywords": "chicken fajitas, Mexican dish, stir-fry",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11668,7 +12798,12 @@
         "text": "Let stand for 5 minutes before serving. Top individual servings with a dollop of sour cream."
       }
     ],
-    "keywords": "enchilada bake, Mexican casserole, chicken recipe"
+    "keywords": "enchilada bake, Mexican casserole, chicken recipe",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "40 minutes",
+      "totalTime": "1 hour"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11699,7 +12834,12 @@
       "Sour cream"
     ],
     "recipeInstructions": [],
-    "keywords": "chicken fajitas, Tex-Mex, Mexican-American"
+    "keywords": "chicken fajitas, Tex-Mex, Mexican-American",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11765,7 +12905,12 @@
         "text": "Let stand for 5 minutes before serving. Top individual servings with a dollop of sour cream."
       }
     ],
-    "keywords": "enchilada casserole, Mexican bake, chicken and cheese"
+    "keywords": "enchilada casserole, Mexican bake, chicken and cheese",
+    "_naturalized_times": {
+      "prepTime": "25 minutes",
+      "cookTime": "40 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11816,7 +12961,12 @@
         "text": "Serve over rice."
       }
     ],
-    "keywords": "curry chicken, baked chicken, honey mustard chicken"
+    "keywords": "curry chicken, baked chicken, honey mustard chicken",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11865,7 +13015,12 @@
         "text": "Bake at 375°F for 1 hour."
       }
     ],
-    "keywords": "curried chicken, creamy chicken, baked chicken casserole"
+    "keywords": "curried chicken, creamy chicken, baked chicken casserole",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11916,7 +13071,12 @@
         "text": "Bake uncovered at 375°F (180°C) for 30 minutes."
       }
     ],
-    "keywords": "Hawaiian chicken, pineapple chicken, baked chicken and rice"
+    "keywords": "Hawaiian chicken, pineapple chicken, baked chicken and rice",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -11974,7 +13134,12 @@
         "text": "During the last 5 minutes, add drained pineapple tidbits and an additional can of drained mushrooms."
       }
     ],
-    "keywords": "sticky chicken, baked chicken, pineapple chicken"
+    "keywords": "sticky chicken, baked chicken, pineapple chicken",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 20 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12018,7 +13183,12 @@
         "text": "Serve hot with a cranberry salad."
       }
     ],
-    "keywords": "chicken and broccoli, pasta bake, creamy chicken"
+    "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "totalTime": "25 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12085,7 +13255,12 @@
         "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
       }
     ],
-    "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired"
+    "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12128,7 +13303,12 @@
         "text": "Sprinkle with Parmesan and toss. Serve hot."
       }
     ],
-    "keywords": "chicken fettucini, pepper chicken, Italian-inspired"
+    "keywords": "chicken fettucini, pepper chicken, Italian-inspired",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "15 minutes",
+      "totalTime": "30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12166,7 +13346,12 @@
         "text": "Bake in a 350°F oven for 1 hour or until tender."
       }
     ],
-    "keywords": "baked chicken, sweet and savory, ketchup-based sauce"
+    "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12229,7 +13414,12 @@
         "text": "Serve over rice or pasta."
       }
     ],
-    "keywords": "chicken supreme, baked chicken, Italian-style chicken"
+    "keywords": "chicken supreme, baked chicken, Italian-style chicken",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12285,7 +13475,12 @@
         "text": "Before serving, sprinkle grated mozzarella cheese on top and bake for an additional 10 minutes until browned."
       }
     ],
-    "keywords": "Parmesan chicken, breaded chicken, Italian-American cuisine"
+    "keywords": "Parmesan chicken, breaded chicken, Italian-American cuisine",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "55 minutes",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12345,7 +13540,12 @@
         "text": "Add frozen vegetables. Stir and cook for 10 minutes before serving."
       }
     ],
-    "keywords": "chicken noodle supper, creamy sauce, comfort food"
+    "keywords": "chicken noodle supper, creamy sauce, comfort food",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12397,7 +13597,12 @@
         "text": "Check to ensure chicken is cooked through, as oven temperatures may vary."
       }
     ],
-    "keywords": "baked chicken, cheddar cheese, mushroom soup, comfort food"
+    "keywords": "baked chicken, cheddar cheese, mushroom soup, comfort food",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 10 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12451,7 +13656,12 @@
         "duration": "PT1H"
       }
     ],
-    "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food"
+    "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12518,7 +13728,12 @@
         "duration": "PT30M"
       }
     ],
-    "keywords": "creamy chicken, curry chicken, asparagus, cheddar cheese"
+    "keywords": "creamy chicken, curry chicken, asparagus, cheddar cheese",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "35 minutes",
+      "totalTime": "55 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12582,7 +13797,12 @@
         "duration": "PT30M"
       }
     ],
-    "keywords": "chicken casserole, cheesy rice bake, comfort food"
+    "keywords": "chicken casserole, cheesy rice bake, comfort food",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12639,7 +13859,12 @@
         "text": "Serve the chicken with rice."
       }
     ],
-    "keywords": "Chinese chicken, sweet and savory, baked chicken"
+    "keywords": "Chinese chicken, sweet and savory, baked chicken",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "35 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12714,7 +13939,12 @@
         "duration": "PT15M"
       }
     ],
-    "keywords": "chicken casserole, croutons, creamy chicken bake"
+    "keywords": "chicken casserole, croutons, creamy chicken bake",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour 15 minutes",
+      "totalTime": "1 hour 35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12783,7 +14013,12 @@
         "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
       }
     ],
-    "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti"
+    "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12838,7 +14073,12 @@
         "text": "Serve over hot toast, biscuits, or rice."
       }
     ],
-    "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper"
+    "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "totalTime": "35 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12879,7 +14119,12 @@
         "text": "Store the mix in a tightly sealed container."
       }
     ],
-    "keywords": "chicken coating, crispy chicken, breading mix"
+    "keywords": "chicken coating, crispy chicken, breading mix",
+    "_naturalized_times": {
+      "prepTime": "5 minutes",
+      "cookTime": "",
+      "totalTime": "5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -12939,7 +14184,12 @@
         "text": "Serve hot. Note that the filling freezes well for later use."
       }
     ],
-    "keywords": "chicken pot pie, comfort food, savory pie"
+    "keywords": "chicken pot pie, comfort food, savory pie",
+    "_naturalized_times": {
+      "prepTime": "30 minutes",
+      "cookTime": "1 hour",
+      "totalTime": "1 hour 30 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -13001,7 +14251,12 @@
         "text": "Bake until the crust is golden brown."
       }
     ],
-    "keywords": "turkey pie, chicken pie, savory pastry, comfort food"
+    "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
+    "_naturalized_times": {
+      "prepTime": "45 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "1 hour 15 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -13063,7 +14318,12 @@
         "text": "Serve hot with rolls or biscuits."
       }
     ],
-    "keywords": "chicken stew, creamy stew, comfort food"
+    "keywords": "chicken stew, creamy stew, comfort food",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "45 minutes",
+      "totalTime": "1 hour 5 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -13108,7 +14368,12 @@
         "text": "Bake at 300°F for 1 to 1 1/2 hours or until done."
       }
     ],
-    "keywords": "casserole, chicken or pork, mushroom soup, Stove Top dressing"
+    "keywords": "casserole, chicken or pork, mushroom soup, Stove Top dressing",
+    "_naturalized_times": {
+      "prepTime": "15 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "totalTime": "1 hour 45 minutes"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -13179,7 +14444,12 @@
         "text": "Serve the sauce with the fish."
       }
     ],
-    "keywords": "baked fish, striped bass, white fish, herb butter sauce"
+    "keywords": "baked fish, striped bass, white fish, herb butter sauce",
+    "_naturalized_times": {
+      "prepTime": "20 minutes",
+      "cookTime": "40 minutes",
+      "totalTime": "1 hour"
+    }
   },
   {
     "@context": "https://schema.org/",
@@ -13238,6 +14508,11 @@
         "text": "Cook on a barbecue on medium-high heat on the bottom rack for 25 to 30 minutes or until the fish flakes easily with a fork."
       }
     ],
-    "keywords": "BBQ salmon, BBQ trout, grilled fish, Clamato juice marinade"
+    "keywords": "BBQ salmon, BBQ trout, grilled fish, Clamato juice marinade",
+    "_naturalized_times": {
+      "prepTime": "10 minutes",
+      "cookTime": "25 minutes",
+      "totalTime": "35 minutes"
+    }
   }
 ]
