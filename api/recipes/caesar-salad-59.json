@@ -63,6 +63,7 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
+  "url": "caesar-salad-59",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -108,7 +109,7 @@
         "totalTime": "5 minutes"
       },
       "url": "caesar-dressin-salad-101",
-      "score": 0.8632845601223911
+      "score": 0.8681753322033365
     },
     {
       "@context": "https://schema.org/",
@@ -173,51 +174,7 @@
         "totalTime": "35 minutes"
       },
       "url": "nacho-salad-73",
-      "score": 0.7334824492494417
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Club Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Finkbeiner"
-      },
-      "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeYield": "1 large bowl",
-      "recipeIngredient": [
-        "7 cups romaine lettuce",
-        "1 cup crisp cooked bacon, chopped",
-        "1 cup chopped hard-boiled eggs",
-        "¾ cup ranch or dip dressing",
-        "¾ cup grated cheese (marble, cheddar, etc.)",
-        "1 cup cooked chicken breast, diced",
-        "½ cup grated carrots",
-        "1 cup diced tomatoes"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients in a large bowl, layering each ingredient to look festive."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with dressing."
-        }
-      ],
-      "keywords": "layered salad, club salad, ranch dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
-      },
-      "url": "club-salad-68",
-      "score": 0.717303840161636
+      "score": 0.7464546489550776
     },
     {
       "@context": "https://schema.org/",
@@ -274,66 +231,102 @@
         "totalTime": "8 hours 10 minutes"
       },
       "url": "onion-salad-74",
-      "score": 0.7169735641441253
+      "score": 0.7287513177229394
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Greek Salad",
+      "name": "Club Salad",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Linda Finkbeiner"
       },
-      "description": "A refreshing Greek salad with marinated tomatoes, mixed greens, feta cheese, and a homemade dressing.",
+      "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
       "recipeCategory": "Salad",
-      "recipeCuisine": "Greek",
-      "prepTime": "PT20M",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
       "cookTime": "PT0M",
-      "totalTime": "PT1H20M",
-      "recipeYield": "4 servings",
+      "totalTime": "PT15M",
+      "recipeYield": "1 large bowl",
       "recipeIngredient": [
-        "Marinated Tomatoes:",
-        "¼ cup olive oil",
-        "2 Tbsp red wine vinegar",
-        "1 tsp anchovy paste",
-        "Salt, pepper, pinch of cayenne",
-        "1 clove garlic, crushed",
-        "4 large ripe tomatoes",
-        "Salad:",
-        "6 cups greens",
-        "2 green onions, sliced",
-        "⅓ cup black olives",
-        "1 green pepper",
-        "1 cup feta cheese",
-        "Dressing:",
-        "1 clove garlic, minced",
-        "1 Tbsp red wine vinegar",
-        "¼ cup olive oil",
-        "½ tsp granulated sugar",
-        "1 tsp dried oregano"
+        "7 cups romaine lettuce",
+        "1 cup crisp cooked bacon, chopped",
+        "1 cup chopped hard-boiled eggs",
+        "¾ cup ranch or dip dressing",
+        "¾ cup grated cheese (marble, cheddar, etc.)",
+        "1 cup cooked chicken breast, diced",
+        "½ cup grated carrots",
+        "1 cup diced tomatoes"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "To Marinate Tomatoes: Cut tomatoes in halves or quarters. Squeeze out seeds and juice and cut into bite-size pieces. Whisk marinade together, stir in tomatoes, and let stand for at least 1 hour."
+          "text": "Mix all ingredients in a large bowl, layering each ingredient to look festive."
         },
         {
           "@type": "HowToStep",
-          "text": "To Make Dressing: Place garlic, vinegar, and seasonings in a blender and whirl to blend. While still whirling, gradually drizzle in the oil. Add anchovies. Can be used immediately or covered and refrigerated."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To Complete Salad: Mix greens, onions, olives, pepper, and cheese. Add marinated tomatoes. Toss and drizzle dressing over salad. Add croutons if desired."
+          "text": "Top with dressing."
         }
       ],
-      "keywords": "Greek salad, marinated tomatoes, feta cheese, homemade dressing",
+      "keywords": "layered salad, club salad, ranch dressing",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
+        "prepTime": "15 minutes",
         "cookTime": "",
-        "totalTime": "1 hour 20 minutes"
+        "totalTime": "15 minutes"
       },
-      "url": "greek-salad-69",
-      "score": 0.704229645889258
+      "url": "club-salad-68",
+      "score": 0.7286011056961984
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Supreme",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "A chilled broccoli salad with raisins, bacon, and a creamy cheese dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT3H25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "6 cups fresh broccoli",
+        "2 Tbsp vinegar",
+        "2 Tbsp vegetable oil",
+        "1/3 cup raisins",
+        "2 tsp white sugar",
+        "2 Tbsp chopped onion",
+        "1 Tbsp prepared mustard",
+        "6 or 8 slices bacon, cooled and crumbled",
+        "1/4 tsp salt",
+        "1/8 tsp garlic powder",
+        "1 small pkg cream cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat dressing ingredients until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add dressing to broccoli, raisins, and onion. Cover and chill at least 3 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with bacon and serve."
+        }
+      ],
+      "keywords": "broccoli salad, bacon, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "3 hours 25 minutes"
+      },
+      "url": "broccoli-supreme-60",
+      "score": 0.7159667221334326
     }
   ]
 }

@@ -47,6 +47,7 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "url": "boneless-chicken-breasts-213",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -109,7 +110,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "parmesan-chicken-239",
-      "score": 0.784947053008627
+      "score": 0.7867329000004954
     },
     {
       "@context": "https://schema.org/",
@@ -163,7 +164,101 @@
         "totalTime": "45 minutes"
       },
       "url": "chicken-breast-212",
-      "score": 0.772506629451529
+      "score": 0.7739411284358958
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Fajitas",
+      "author": {
+        "@type": "Person",
+        "name": "Valorie (Finkbeiner) Mullin"
+      },
+      "description": "A flavorful Mexican-inspired dish featuring stir-fried chicken, peppers, and onions, served with tortillas and various toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 green pepper, cut into strips",
+        "2 Tbsp chopped parsley",
+        "1 onion, chopped",
+        "Flour tortillas (soft)",
+        "1 tsp ground cumin",
+        "1 cup shredded cheese",
+        "1 tsp chili powder",
+        "Guacamole (see appetizers)",
+        "½ cup Catalina dressing",
+        "Salsa",
+        "4 boneless, skinless chicken breasts, cut into strips",
+        "Sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry the vegetables and chicken over high heat until the chicken is cooked through with spices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add Catalina dressing and heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve wrapped in flour tortillas with shredded cheese, salsa, sour cream, and guacamole as garnishes."
+        }
+      ],
+      "keywords": "chicken fajitas, Mexican dish, stir-fry",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "chicken-fajitas-226",
+      "score": 0.7185032515180543
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Fajitas",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A classic Tex-Mex dish featuring chicken, sautéed peppers and onions, served with tortillas, cheese, and various toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 green pepper, cut in strips",
+        "2 Tbsp parsley, chopped",
+        "1 onion, chopped",
+        "Flour tortillas (soft)",
+        "1 tsp ground cumin",
+        "1 cup shredded cheese",
+        "1 tsp chili powder",
+        "Guacamole (see appetizers)",
+        "Salsa",
+        "4 boneless chicken breasts",
+        "Sour cream"
+      ],
+      "recipeInstructions": [],
+      "keywords": "chicken fajitas, Tex-Mex, Mexican-American",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "chicken-fajitas-228",
+      "score": 0.7185032515180543
     },
     {
       "@context": "https://schema.org/",
@@ -233,101 +328,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "chicken-supreme-238",
-      "score": 0.7115951026638738
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Fajitas",
-      "author": {
-        "@type": "Person",
-        "name": "Valorie (Finkbeiner) Mullin"
-      },
-      "description": "A flavorful Mexican-inspired dish featuring stir-fried chicken, peppers, and onions, served with tortillas and various toppings.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 green pepper, cut into strips",
-        "2 Tbsp chopped parsley",
-        "1 onion, chopped",
-        "Flour tortillas (soft)",
-        "1 tsp ground cumin",
-        "1 cup shredded cheese",
-        "1 tsp chili powder",
-        "Guacamole (see appetizers)",
-        "½ cup Catalina dressing",
-        "Salsa",
-        "4 boneless, skinless chicken breasts, cut into strips",
-        "Sour cream"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry the vegetables and chicken over high heat until the chicken is cooked through with spices."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add Catalina dressing and heat through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in parsley."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve wrapped in flour tortillas with shredded cheese, salsa, sour cream, and guacamole as garnishes."
-        }
-      ],
-      "keywords": "chicken fajitas, Mexican dish, stir-fry",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "chicken-fajitas-226",
-      "score": 0.7101220353041523
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Fajitas",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A classic Tex-Mex dish featuring chicken, sautéed peppers and onions, served with tortillas, cheese, and various toppings.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 green pepper, cut in strips",
-        "2 Tbsp parsley, chopped",
-        "1 onion, chopped",
-        "Flour tortillas (soft)",
-        "1 tsp ground cumin",
-        "1 cup shredded cheese",
-        "1 tsp chili powder",
-        "Guacamole (see appetizers)",
-        "Salsa",
-        "4 boneless chicken breasts",
-        "Sour cream"
-      ],
-      "recipeInstructions": [],
-      "keywords": "chicken fajitas, Tex-Mex, Mexican-American",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "chicken-fajitas-228",
-      "score": 0.7101220353041523
+      "score": 0.7155781445428038
     }
   ]
 }

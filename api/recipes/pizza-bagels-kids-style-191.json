@@ -43,6 +43,7 @@
     "cookTime": "1 minute",
     "totalTime": "6 minutes"
   },
+  "url": "pizza-bagels-kids-style-191",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -106,7 +107,7 @@
         "totalTime": "30 minutes"
       },
       "url": "veggie-pizza-47",
-      "score": 0.5761778558984976
+      "score": 0.565940893233245
     },
     {
       "@context": "https://schema.org/",
@@ -179,7 +180,7 @@
         "totalTime": "30 minutes"
       },
       "url": "veggie-pizza-201",
-      "score": 0.5761778558984976
+      "score": 0.565940893233245
     },
     {
       "@context": "https://schema.org/",
@@ -257,7 +258,67 @@
         "totalTime": "1 hour 35 minutes"
       },
       "url": "jelly-roll-style-meat-loaf-154",
-      "score": 0.5437963501290487
+      "score": 0.5469711744510055
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza Meatball",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "1 (12 inch) baked pizza crust",
+        "12 oz frozen meatballs, thawed and cut in half",
+        "14 oz pizza sauce, divided",
+        "1¼ tsp dried Italian seasoning",
+        "1½ cups shredded mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place pizza crust in a pizza pan or on a baking sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle 1 cup of shredded mozzarella cheese over the crust."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs on top of the cheese, cut side down."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread remaining pizza sauce over the meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with remaining cheese and Italian seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 400°F oven for approximately 20 minutes, or until cheese is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut into pizza wheels and serve."
+        }
+      ],
+      "keywords": "pizza, meatball, Italian-American, baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "pizza-meatball-193",
+      "score": 0.528643909284399
     },
     {
       "@context": "https://schema.org/",
@@ -303,64 +364,7 @@
         "totalTime": "1 hour 15 minutes"
       },
       "url": "cheesy-meat-loaf-153",
-      "score": 0.5263616161134386
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheese Dip in a Bread Bowl",
-      "author": {
-        "@type": "Person",
-        "name": "Sherri Haugh"
-      },
-      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 bread bowl",
-      "recipeIngredient": [
-        "1 round bread loaf",
-        "1½ cups chopped ham",
-        "1 (8 oz) package cream cheese",
-        "1½ cups sour cream",
-        "½ cup chopped green pepper",
-        "½ cup chopped green onion",
-        "2 cups shredded cheddar cheese",
-        "1 shake Tabasco sauce",
-        "1 shake Worcestershire sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
-        }
-      ],
-      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "url": "cheese-dip-in-a-bread-bowl-4",
-      "score": 0.5222168320869562
+      "score": 0.5233091737877384
     }
   ]
 }

@@ -62,7 +62,65 @@
     "cookTime": "30 minutes",
     "totalTime": "45 minutes"
   },
+  "url": "ken-noodle-supper-240",
   "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ginger Noodle Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A flavorful and aromatic Asian-inspired soup featuring pork, ginger, and rice stick noodles in a savory chicken broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Asian",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 pork chop, sliced into small pieces",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 Tbsp chopped ginger root",
+        "2 Tbsp soy sauce",
+        "4 cups chicken stock",
+        "1/3 cup hoisin sauce",
+        "1 carrot, shredded",
+        "1/2 cup sliced mushrooms",
+        "1 cup rice stick noodles",
+        "1 green onion, thinly sliced",
+        "1/2 cup bean sprouts",
+        "4 sprigs coriander (cilantro)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan brown pork over medium heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion, garlic, ginger, hoisin sauce and soy sauce. Cook for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add rest of ingredients, bring to a boil, reduce heat and simmer 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with green onion and coriander."
+        }
+      ],
+      "keywords": "ginger noodle soup, Asian soup, pork soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "ginger-noodle-soup-114",
+      "score": 0.789334918544431
+    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -128,64 +186,7 @@
         "totalTime": "40 minutes"
       },
       "url": "noodles-with-hamburg-166",
-      "score": 0.7899577825793741
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Ginger Noodle Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A flavorful and aromatic Asian-inspired soup featuring pork, ginger, and rice stick noodles in a savory chicken broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Asian",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 pork chop, sliced into small pieces",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 Tbsp chopped ginger root",
-        "2 Tbsp soy sauce",
-        "4 cups chicken stock",
-        "1/3 cup hoisin sauce",
-        "1 carrot, shredded",
-        "1/2 cup sliced mushrooms",
-        "1 cup rice stick noodles",
-        "1 green onion, thinly sliced",
-        "1/2 cup bean sprouts",
-        "4 sprigs coriander (cilantro)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a saucepan brown pork over medium heat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add onion, garlic, ginger, hoisin sauce and soy sauce. Cook for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add rest of ingredients, bring to a boil, reduce heat and simmer 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Garnish with green onion and coriander."
-        }
-      ],
-      "keywords": "ginger noodle soup, Asian soup, pork soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "ginger-noodle-soup-114",
-      "score": 0.7855438271479488
+      "score": 0.7807802235279626
     },
     {
       "@context": "https://schema.org/",
@@ -259,7 +260,72 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.7739962014748402
+      "score": 0.7769744132825771
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chinese Hamburger Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Meredith Mary"
+      },
+      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 to 8 servings",
+      "recipeIngredient": [
+        "1 lb hamburger",
+        "½ cup warm water",
+        "½ cup uncooked rice",
+        "2 medium onions, chopped",
+        "1 cup sliced celery",
+        "1 can cream of mushroom soup",
+        "1 can cream of chicken soup (optional)",
+        "1 can mushrooms, drained",
+        "¼ cup soya sauce",
+        "¼ tsp pepper",
+        "1 tsp salt",
+        "1 cup bean sprouts (optional)",
+        "1 handful chow mein noodles"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add bean sprouts if using for a more authentic taste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
+        }
+      ],
+      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "chinese-hamburger-casserole-174",
+      "score": 0.7651443988642302
     },
     {
       "@context": "https://schema.org/",
@@ -328,83 +394,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "creamy-chicken-stew-252",
-      "score": 0.7558014860016197
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chili Turkey",
-      "author": {
-        "@type": "Person",
-        "name": "Dianne Finkbeiner"
-      },
-      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 tsp ground coriander",
-        "1½ tsp vegetable oil",
-        "¼ tsp salt",
-        "1 large chopped onion",
-        "½ tsp ground cumin",
-        "1 large chopped green pepper",
-        "¼ tsp cinnamon",
-        "2 chopped garlic cloves",
-        "2 to 3 Tbsp chili powder",
-        "1⅓ lb ground turkey",
-        "1 can red kidney beans",
-        "1¾ cups chicken broth",
-        "6 oz whole wheat spaghetti",
-        "3 tsp tomato paste",
-        "½ cup shredded cheese",
-        "1½ tsp dried oregano"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic and cook for 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the pasta as directed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
-        }
-      ],
-      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "chili-turkey-247",
-      "score": 0.7539655140595389
+      "score": 0.7562881783457858
     }
   ]
 }

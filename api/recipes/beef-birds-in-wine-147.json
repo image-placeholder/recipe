@@ -54,6 +54,7 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 5 minutes"
   },
+  "url": "beef-birds-in-wine-147",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -137,68 +138,125 @@
         "totalTime": "1 hour 25 minutes"
       },
       "url": "meatball-pasta-stew-179",
-      "score": 0.6704772688785593
+      "score": 0.6623472960804049
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sweet & Sour Meatballs",
+      "name": "Meat and Potato Casserole",
       "author": {
         "@type": "Person",
-        "name": "Sharon Allen"
+        "name": "Martine Bercier"
       },
-      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
-      "recipeCategory": "Main Course",
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H30M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
       "recipeIngredient": [
-        "1 lb lean ground beef",
-        "2 Tbsp chopped onion",
-        "½ cup cracker crumbs",
-        "1 Tbsp crushed garlic",
-        "¼ tsp pepper",
-        "1 egg",
-        "1½ tsp soya sauce",
-        "⅔ cup milk",
-        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
+          "text": "Layer sliced potatoes in an 8L casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Broil to brown on all sides, watching carefully."
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs in a casserole dish."
+          "text": "Top with corn and the browned meat mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
+          "text": "Cover and cook at 350°F for 50 minutes."
         }
       ],
-      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
       "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 30 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "sweet-sour-meatballs-161",
-      "score": 0.6618958178325712
+      "url": "meat-and-potato-casserole-159",
+      "score": 0.6576429827519097
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey A La King",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅓ cup butter",
+        "1 tsp salt",
+        "¼ lb mushrooms, sliced",
+        "1 cup chicken broth",
+        "¼ cup chopped onion",
+        "1 cup milk",
+        "2 cups cooked diced turkey",
+        "¼ cup chopped celery",
+        "¼ cup chopped green pepper",
+        "¼ cup flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over hot toast, biscuits, or rice."
+        }
+      ],
+      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "turkey-a-la-king-248",
+      "score": 0.6567123282603843
     },
     {
       "@context": "https://schema.org/",
@@ -266,125 +324,66 @@
         "totalTime": "1 hour 20 minutes"
       },
       "url": "english-shepherds-pie-173",
-      "score": 0.6580686580374926
+      "score": 0.6470672774402498
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Turkey A La King",
+      "name": "Beef & Barley Soup",
       "author": {
         "@type": "Person",
-        "name": "Jean E. Neil"
+        "name": "Marjorie Johns"
       },
-      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
-      "recipeCategory": "Main Course",
+      "description": "A hearty beef and barley soup with vegetables and tomato, ideal for freezing and reheating.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT30M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H30M",
+      "recipeYield": "22 cups",
       "recipeIngredient": [
-        "⅓ cup butter",
+        "6 cups water",
+        "6 beef bouillon cubes",
+        "1 Tbsp parsley flakes",
+        "28 oz canned tomato",
+        "1 tsp sugar",
+        "10 oz condensed tomato soup",
         "1 tsp salt",
-        "¼ lb mushrooms, sliced",
-        "1 cup chicken broth",
-        "¼ cup chopped onion",
-        "1 cup milk",
-        "2 cups cooked diced turkey",
-        "¼ cup chopped celery",
-        "¼ cup chopped green pepper",
-        "¼ cup flour"
+        "2 cups shredded carrots",
+        "¼ tsp pepper",
+        "2 cups shredded potatoes",
+        "¾ tsp thyme",
+        "1½ cups chopped onion",
+        "3 cups cooked roast beef (or 2-3 cups chopped hamburg meat)",
+        "1 cup chopped celery",
+        "½ cup pearl or pot barley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
+          "text": "Heat water and bouillon cubes in a large pot, stirring until dissolved."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
+          "text": "Add remaining ingredients except beef and bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
+          "text": "Simmer for 1½ hours."
         },
         {
           "@type": "HowToStep",
-          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over hot toast, biscuits, or rice."
+          "text": "Add beef and simmer for an additional ½ hour."
         }
       ],
-      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
+      "keywords": "beef barley soup, hearty soup, freezer-friendly",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "30 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 30 minutes"
       },
-      "url": "turkey-a-la-king-248",
-      "score": 0.6580559910510584
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat and Potato Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Martine Bercier"
-      },
-      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "1 8L casserole",
-      "recipeIngredient": [
-        "½ lb lean ground beef",
-        "1 onion",
-        "1 clove garlic",
-        "6 medium potatoes, peeled and sliced",
-        "1 envelope (50g) gravy mix",
-        "2½ cups water",
-        "2 cups corn",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Layer sliced potatoes in an 8L casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with corn and the browned meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and cook at 350°F for 50 minutes."
-        }
-      ],
-      "keywords": "meat casserole, potato and corn dish, gravy topping",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "meat-and-potato-casserole-159",
-      "score": 0.6492563937151616
+      "url": "beef-barley-soup-100",
+      "score": 0.6463130501457534
     }
   ]
 }

@@ -73,6 +73,7 @@
     "cookTime": "16 minutes",
     "totalTime": "36 minutes"
   },
+  "url": "taco-ring-183",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -151,57 +152,62 @@
         "totalTime": "35 minutes"
       },
       "url": "hot-taco-dip-21",
-      "score": 0.8235685403456179
+      "score": 0.8330803005388456
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Stewing Beef Casserole",
+      "name": "Nacho Fiesta Dip",
       "author": {
         "@type": "Person",
-        "name": "Kelly Haines"
+        "name": "Chris Dinney"
       },
-      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "1 casserole",
+      "description": "A layered dip featuring cottage cheese, cream cheese, and taco seasoning, topped with lettuce, tomatoes, and cheddar cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "1 large bowl",
       "recipeIngredient": [
-        "1 lb stewing beef",
-        "1 tsp salt",
-        "Dash pepper",
-        "1¼ cups diced potatoes",
-        "1¼ cups diced carrots",
-        "1 tsp sugar",
-        "2 Tbsp Minit Tapioca",
-        "½ cup diced onions",
-        "1 cup V8 juice",
-        "½ cup diced celery"
+        "2 cups cottage cheese",
+        "1 pkg taco seasoning",
+        "2 cups cream cheese",
+        "1½ to 2 cups grated cheddar cheese",
+        "½ small head lettuce, shredded",
+        "3 medium tomatoes, diced",
+        "Large bag tortilla chips for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients lightly in a bowl."
+          "text": "Mix cottage cheese, cream cheese, and taco seasoning together in a blender until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+          "text": "Place the mixture in a large bowl lined with Saran Wrap and refrigerate covered for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 250°F for 4 hours without uncovering."
+          "text": "Remove the dip from the bowl by tipping it onto a platter or large plate and peeling off the Saran Wrap."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dip with shredded lettuce, then diced tomatoes, and finally grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Surround with tortilla chips and serve."
         }
       ],
-      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "keywords": "layered dip, nacho fiesta, taco seasoning, cheesy dip",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 15 minutes"
       },
-      "url": "stewing-beef-casserole-155",
-      "score": 0.7767283794630407
+      "url": "nacho-fiesta-dip-28",
+      "score": 0.7787610248352176
     },
     {
       "@context": "https://schema.org/",
@@ -260,7 +266,7 @@
         "totalTime": "25 minutes"
       },
       "url": "taco-salad-89",
-      "score": 0.7701474087712056
+      "score": 0.7774845066644792
     },
     {
       "@context": "https://schema.org/",
@@ -319,7 +325,7 @@
         "totalTime": "25 minutes"
       },
       "url": "taco-salad-92",
-      "score": 0.7701474087712056
+      "score": 0.7774845066644792
     },
     {
       "@context": "https://schema.org/",
@@ -375,7 +381,7 @@
         "totalTime": "25 minutes"
       },
       "url": "taco-salad-97",
-      "score": 0.7701474087712056
+      "score": 0.7774845066644792
     }
   ]
 }

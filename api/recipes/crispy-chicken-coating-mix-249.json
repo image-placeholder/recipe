@@ -43,117 +43,8 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
+  "url": "crispy-chicken-coating-mix-249",
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Breast",
-      "author": {
-        "@type": "Person",
-        "name": "Sandra Martin"
-      },
-      "description": "A simple breaded chicken breast recipe.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT30M",
-      "totalTime": "PT45M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "6 chicken breasts",
-        "1 cup bread crumbs",
-        "1 tsp garlic powder",
-        "1 egg",
-        "1/2 cup milk",
-        "Salt and seasoning to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Wash chicken breast."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with garlic powder, salt, and seasoning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Dip in milk, then egg mixture, then bread crumbs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 9x13 inch pan at 350°F until golden."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with rice or noodles."
-        }
-      ],
-      "keywords": "chicken breast, breaded chicken",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "45 minutes"
-      },
-      "url": "chicken-breast-212",
-      "score": 0.6989749074690272
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Vegetable Fried Rice",
-      "author": {
-        "@type": "Person",
-        "name": "Dave MacLeod"
-      },
-      "description": "A simple and flavorful fried rice dish made with cooked rice, beaten egg, soya sauce, and mixed vegetables.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "Chinese-Canadian",
-      "prepTime": "PT10M",
-      "cookTime": "PT20M",
-      "totalTime": "PT30M",
-      "recipeIngredient": [
-        "3 Tbsp vegetable oil",
-        "575 mL cold water",
-        "1 chicken Oxo cube or pouch",
-        "1 egg, beaten",
-        "1 Tbsp soya sauce",
-        "250 mL cooked rice",
-        "125 mL cooked vegetables",
-        "Salt and pepper to taste",
-        "15 mL butter or margarine"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Bring water to a boil. Dissolve chicken Oxo cube in water. Add rice, salt, and butter. Cover and simmer for 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain rice in a strainer for 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat oil in a wok or frying pan. Add beaten egg and soya sauce. Cook until just setting."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cooked rice and vegetables to the egg mixture. Stir continuously until combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Adjust seasoning with salt, pepper, and additional soya sauce if needed."
-        }
-      ],
-      "keywords": "chicken fried rice, vegetable fried rice, Chinese-Canadian side dish",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "chicken-vegetable-fried-rice-220",
-      "score": 0.6952447415620845
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -215,7 +106,117 @@
         "totalTime": "25 minutes"
       },
       "url": "lemon-chicken-with-thyme-224",
-      "score": 0.6788266897862756
+      "score": 0.7122247296117207
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Vegetable Fried Rice",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A simple and flavorful fried rice dish made with cooked rice, beaten egg, soya sauce, and mixed vegetables.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "Chinese-Canadian",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "3 Tbsp vegetable oil",
+        "575 mL cold water",
+        "1 chicken Oxo cube or pouch",
+        "1 egg, beaten",
+        "1 Tbsp soya sauce",
+        "250 mL cooked rice",
+        "125 mL cooked vegetables",
+        "Salt and pepper to taste",
+        "15 mL butter or margarine"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring water to a boil. Dissolve chicken Oxo cube in water. Add rice, salt, and butter. Cover and simmer for 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain rice in a strainer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a wok or frying pan. Add beaten egg and soya sauce. Cook until just setting."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked rice and vegetables to the egg mixture. Stir continuously until combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Adjust seasoning with salt, pepper, and additional soya sauce if needed."
+        }
+      ],
+      "keywords": "chicken fried rice, vegetable fried rice, Chinese-Canadian side dish",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "chicken-vegetable-fried-rice-220",
+      "score": 0.7043413288893574
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Breast",
+      "author": {
+        "@type": "Person",
+        "name": "Sandra Martin"
+      },
+      "description": "A simple breaded chicken breast recipe.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 chicken breasts",
+        "1 cup bread crumbs",
+        "1 tsp garlic powder",
+        "1 egg",
+        "1/2 cup milk",
+        "Salt and seasoning to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash chicken breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with garlic powder, salt, and seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip in milk, then egg mixture, then bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 9x13 inch pan at 350°F until golden."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with rice or noodles."
+        }
+      ],
+      "keywords": "chicken breast, breaded chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "chicken-breast-212",
+      "score": 0.7031742110285134
     },
     {
       "@context": "https://schema.org/",
@@ -291,7 +292,7 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "score": 0.6689850309154246
+      "score": 0.6773456885599122
     },
     {
       "@context": "https://schema.org/",
@@ -360,7 +361,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "creamy-chicken-stew-252",
-      "score": 0.642014548339482
+      "score": 0.639618668257986
     }
   ]
 }

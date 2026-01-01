@@ -40,6 +40,7 @@
     "cookTime": "30 minutes",
     "totalTime": "45 minutes"
   },
+  "url": "stuffed-mushrooms-32",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -96,7 +97,7 @@
         "totalTime": "25 minutes"
       },
       "url": "mushroom-soup-113",
-      "score": 0.7509826986261107
+      "score": 0.7548259176384895
     },
     {
       "@context": "https://schema.org/",
@@ -160,7 +161,7 @@
         "totalTime": "32 minutes"
       },
       "url": "crab-stuffed-mushrooms-46",
-      "score": 0.7306166040805366
+      "score": 0.7191920155628139
     },
     {
       "@context": "https://schema.org/",
@@ -222,7 +223,7 @@
         "totalTime": "35 minutes"
       },
       "url": "turkey-a-la-king-248",
-      "score": 0.6959992722232686
+      "score": 0.6947487469086672
     },
     {
       "@context": "https://schema.org/",
@@ -273,73 +274,60 @@
         "totalTime": "25 minutes"
       },
       "url": "chicken-and-broccoli-234",
-      "score": 0.681664544823577
+      "score": 0.6840245209153656
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheddar Baked Potato Slices",
+      "name": "Hamburg Noodle Casserole",
       "author": {
         "@type": "Person",
-        "name": "Ina Browning"
+        "name": "Grace Yearley"
       },
-      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
-      "recipeCategory": "Side Dish",
+      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "4 medium baking potatoes, cut into ¼ inch slices",
+        "2 lb ground beef",
         "1 can cream of mushroom soup",
-        "½ tsp paprika",
-        "½ tsp pepper",
-        "1 cup shredded cheddar cheese"
+        "1 medium onion",
+        "2 cans sliced mushrooms, drained",
+        "1 jar Ragu (700 mL)",
+        "1 pkg cooked elbow macaroni",
+        "1 can cream of celery soup",
+        "1 can cream of chicken soup",
+        "1 cup shredded mozzarella cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+          "text": "Brown the ground beef and onion, then add the mushrooms."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
+          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese over the potatoes."
+          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Spoon the soup mixture evenly over the cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 400,
-            "unitCode": "FAR"
-          },
-          "duration": "PT45M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+          "text": "Bake until the cheese is melted."
         }
       ],
-      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
+      "keywords": "casserole, ground beef, noodle dish",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 10 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "cheddar-baked-potato-slices-140",
-      "score": 0.6802180343084359
+      "url": "hamburg-noodle-casserole-172",
+      "score": 0.6816876615235982
     }
   ]
 }

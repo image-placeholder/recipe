@@ -59,6 +59,7 @@
     "cookTime": "35 minutes",
     "totalTime": "50 minutes"
   },
+  "url": "chicken-with-a-chinese-accent-245",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -132,7 +133,142 @@
         "totalTime": "55 minutes"
       },
       "url": "classy-chicken-243",
-      "score": 0.8093242774305155
+      "score": 0.8006170438580529
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Supreme",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4-8 servings",
+      "recipeIngredient": [
+        "8 boneless, skinless chicken breast pieces",
+        "1 (28 oz) can stewed tomatoes",
+        "1 chopped green pepper",
+        "1 chopped onion",
+        "2 generous slices of fresh Basil",
+        "2 Spanish Oregano slices",
+        "1 dozen chopped fresh Garlic",
+        "Salt and Seasoning salt",
+        "Onion powder",
+        "Grated mozzarella and cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil the chicken breasts in a separate container until pink is gone (about 1/4 of the way cooked)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a baking or roasting pan, mix together the tomato ingredients (stewed tomatoes, green pepper, onion, basil, oregano, garlic)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the partially cooked chicken breasts in the bottom of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle spices over the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the remaining tomato mixture on top of the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for approximately ½ hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese on top, cover, and bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over rice or pasta."
+        }
+      ],
+      "keywords": "chicken supreme, baked chicken, Italian-style chicken",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "chicken-supreme-238",
+      "score": 0.7448834439759342
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chinese Hamburger Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Meredith Mary"
+      },
+      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 to 8 servings",
+      "recipeIngredient": [
+        "1 lb hamburger",
+        "½ cup warm water",
+        "½ cup uncooked rice",
+        "2 medium onions, chopped",
+        "1 cup sliced celery",
+        "1 can cream of mushroom soup",
+        "1 can cream of chicken soup (optional)",
+        "1 can mushrooms, drained",
+        "¼ cup soya sauce",
+        "¼ tsp pepper",
+        "1 tsp salt",
+        "1 cup bean sprouts (optional)",
+        "1 handful chow mein noodles"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add bean sprouts if using for a more authentic taste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
+        }
+      ],
+      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "chinese-hamburger-casserole-174",
+      "score": 0.7420953044185982
     },
     {
       "@context": "https://schema.org/",
@@ -206,201 +342,70 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.7458559924841753
+      "score": 0.7385071654350338
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken Supreme",
+      "name": "Lemon Chicken With Thyme",
       "author": {
         "@type": "Person",
-        "name": "Lori Allen"
+        "name": "Karen Schwartzentruber"
       },
-      "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "4-8 servings",
-      "recipeIngredient": [
-        "8 boneless, skinless chicken breast pieces",
-        "1 (28 oz) can stewed tomatoes",
-        "1 chopped green pepper",
-        "1 chopped onion",
-        "2 generous slices of fresh Basil",
-        "2 Spanish Oregano slices",
-        "1 dozen chopped fresh Garlic",
-        "Salt and Seasoning salt",
-        "Onion powder",
-        "Grated mozzarella and cheddar cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Boil the chicken breasts in a separate container until pink is gone (about 1/4 of the way cooked)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a baking or roasting pan, mix together the tomato ingredients (stewed tomatoes, green pepper, onion, basil, oregano, garlic)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the partially cooked chicken breasts in the bottom of the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle spices over the chicken breasts."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the remaining tomato mixture on top of the chicken breasts."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and bake at 350°F for approximately ½ hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle grated cheese on top, cover, and bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over rice or pasta."
-        }
-      ],
-      "keywords": "chicken supreme, baked chicken, Italian-style chicken",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "chicken-supreme-238",
-      "score": 0.7413445845892932
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chinese Hamburger Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Meredith Mary"
-      },
-      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "Chinese-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "6 to 8 servings",
-      "recipeIngredient": [
-        "1 lb hamburger",
-        "½ cup warm water",
-        "½ cup uncooked rice",
-        "2 medium onions, chopped",
-        "1 cup sliced celery",
-        "1 can cream of mushroom soup",
-        "1 can cream of chicken soup (optional)",
-        "1 can mushrooms, drained",
-        "¼ cup soya sauce",
-        "¼ tsp pepper",
-        "1 tsp salt",
-        "1 cup bean sprouts (optional)",
-        "1 handful chow mein noodles"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add bean sprouts if using for a more authentic taste."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
-        }
-      ],
-      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "url": "chinese-hamburger-casserole-174",
-      "score": 0.7361944111163761
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Favourite Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Jo Anne Pickering"
-      },
-      "description": "A simple and satisfying chicken dish baked with cheddar cheese, mushroom soup, and garlic.",
+      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4 to 6 servings",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "4 to 6 chicken breasts",
-        "1 cup old cheddar cheese, grated",
-        "1 can cheddar cheese soup (or other soup to taste)",
-        "1 can mushroom soup",
-        "1 Tbsp garlic powder",
-        "Salt and pepper to taste",
-        "6 to 8 fresh mushrooms, sliced"
+        "3 Tbsp flour",
+        "1 Tbsp margarine",
+        "1 cup chicken broth",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "3 Tbsp lemon juice",
+        "1/2 tsp thyme",
+        "4 boneless skinless chicken breasts",
+        "2 Tbsp olive oil",
+        "1 medium onion (optional)",
+        "Lemon halves and chopped parsley for garnish (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Wash and pat dry chicken breasts."
+          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine cheddar cheese soup, mushroom soup, and garlic powder. Mix well."
+          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
         },
         {
           "@type": "HowToStep",
-          "text": "Place chicken in a 9x11 inch baking dish. Pour soup mixture over chicken."
+          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with grated cheese and sliced mushrooms."
+          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for about 1 hour for 4 pieces or 1½ hours for 6 pieces."
+          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Check to ensure chicken is cooked through, as oven temperatures may vary."
+          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
         }
       ],
-      "keywords": "baked chicken, cheddar cheese, mushroom soup, comfort food",
+      "keywords": "lemon chicken, thyme, chicken breast",
       "_naturalized_times": {
         "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "favourite-chicken-241",
-      "score": 0.7321067305780973
+      "url": "lemon-chicken-with-thyme-224",
+      "score": 0.7321123196554806
     }
   ]
 }

@@ -51,6 +51,7 @@
     "cookTime": "10 minutes",
     "totalTime": "20 minutes"
   },
+  "url": "wassail-52",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -134,7 +135,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
-      "score": 0.6867603299702082
+      "score": 0.681898795014329
     },
     {
       "@context": "https://schema.org/",
@@ -179,7 +180,7 @@
         "totalTime": "10 minutes"
       },
       "url": "wilmar-wein-punch-55",
-      "score": 0.67897537754147
+      "score": 0.6750205812396972
     },
     {
       "@context": "https://schema.org/",
@@ -231,51 +232,7 @@
         "totalTime": "1 hour 45 minutes"
       },
       "url": "sweet-sour-pineapple-chicken-222",
-      "score": 0.674124249841488
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Lemon Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Mona Hamilton"
-      },
-      "description": "A light and fluffy lemon Jello dessert mixed with whipped Dream Whip.",
-      "recipeCategory": "Dessert",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "recipeYield": "1 serving",
-      "recipeIngredient": [
-        "1 package lemon Jello (85g)",
-        "1 small can frozen lemonade",
-        "1 cup hot water",
-        "¼ cup water",
-        "¼ cup sugar",
-        "1 package Dream Whip Mix"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Dissolve the lemon Jello in hot water with sugar."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add frozen lemonade and ¼ cup water to the Jello mixture and let set."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Whip the Dream Whip Mix and combine with the set Jello."
-        }
-      ],
-      "keywords": "lemon Jello, whipped dessert, Dream Whip",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": null,
-        "totalTime": null
-      },
-      "url": "lemon-salad-80",
-      "score": 0.6610179234051186
+      "score": 0.671791197272975
     },
     {
       "@context": "https://schema.org/",
@@ -340,7 +297,49 @@
         "totalTime": "15 minutes"
       },
       "url": "chicken-pineapple-stir-fry-221",
-      "score": 0.6552702774847016
+      "score": 0.6636855816602191
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Guacamole",
+      "author": {
+        "@type": "Person",
+        "name": "Christopher Mullin"
+      },
+      "description": "A fresh and simple guacamole recipe made with chilled avocado, lime juice, and minced Spanish onion.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 avocado, chilled",
+        "1 tsp lime juice",
+        "2 tsp finely minced Spanish onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mash the chilled avocado in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in lime juice and minced Spanish onion until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with tortilla chips."
+        }
+      ],
+      "keywords": "guacamole, avocado dip, Mexican appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "guacamole-15",
+      "score": 0.6485369646658845
     }
   ]
 }

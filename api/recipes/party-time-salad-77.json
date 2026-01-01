@@ -52,6 +52,7 @@
     "cookTime": "",
     "totalTime": "20 minutes"
   },
+  "url": "party-time-salad-77",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -260,47 +261,67 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pina Colada Dip",
+      "name": "Chicken-Pineapple Stir-Fry",
       "author": {
         "@type": "Person",
-        "name": "Betty Glanville"
+        "name": "Louise Wein"
       },
-      "description": "A creamy and tropical dip made with pineapple, coconut pudding, and sour cream, perfect for serving with fresh fruit.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
+      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
       "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PTOvernight",
-      "recipeYield": "1 bowl",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 small can crushed pineapple, undrained",
-        "¾ cup milk",
-        "½ cup sour cream",
-        "3½ oz package instant coconut pudding and pie filling (or 1 vanilla pudding and ¼ cup shredded coconut with coconut extract)",
-        "½ tsp coconut extract"
+        "12 oz deboned chicken breast",
+        "2 tsp cornstarch",
+        "1 onion, chopped",
+        "¼ tsp cinnamon",
+        "1 cup diced celery",
+        "1½ tsp soya sauce",
+        "1 cup green pepper strips",
+        "2 tsp margarine",
+        "2 cups pineapple chunks (with juice reserved)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Blend all ingredients together in a food processor or blender until smooth."
+          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Refrigerate overnight to allow flavors to meld."
+          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve chilled with a variety of fresh fruits."
+          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and cook until the sauce is clear and thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the stir-fry over hot rice."
         }
       ],
-      "keywords": "pina colada dip, fruit dip, coconut pudding, party appetizer",
+      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
       "_naturalized_times": {
         "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": null
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
       },
-      "url": "pina-colada-dip-23",
-      "score": 0.6733657224207122
+      "url": "chicken-pineapple-stir-fry-221",
+      "score": 0.6785923409599841
     }
   ]
 }

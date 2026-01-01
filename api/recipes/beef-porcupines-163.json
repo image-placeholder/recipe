@@ -52,6 +52,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
   },
+  "url": "beef-porcupines-163",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -125,66 +126,7 @@
         "totalTime": "50 minutes"
       },
       "url": "beef-and-rice-casserole-168",
-      "score": 0.7712790351816667
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Beef & Barley Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Marjorie Johns"
-      },
-      "description": "A hearty beef and barley soup with vegetables and tomato, ideal for freezing and reheating.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H30M",
-      "recipeYield": "22 cups",
-      "recipeIngredient": [
-        "6 cups water",
-        "6 beef bouillon cubes",
-        "1 Tbsp parsley flakes",
-        "28 oz canned tomato",
-        "1 tsp sugar",
-        "10 oz condensed tomato soup",
-        "1 tsp salt",
-        "2 cups shredded carrots",
-        "¼ tsp pepper",
-        "2 cups shredded potatoes",
-        "¾ tsp thyme",
-        "1½ cups chopped onion",
-        "3 cups cooked roast beef (or 2-3 cups chopped hamburg meat)",
-        "1 cup chopped celery",
-        "½ cup pearl or pot barley"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat water and bouillon cubes in a large pot, stirring until dissolved."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add remaining ingredients except beef and bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer for 1½ hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add beef and simmer for an additional ½ hour."
-        }
-      ],
-      "keywords": "beef barley soup, hearty soup, freezer-friendly",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 30 minutes"
-      },
-      "url": "beef-barley-soup-100",
-      "score": 0.7511803072487496
+      "score": 0.7777904297083884
     },
     {
       "@context": "https://schema.org/",
@@ -260,7 +202,135 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "score": 0.738295812717353
+      "score": 0.7523507600917563
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef & Barley Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Marjorie Johns"
+      },
+      "description": "A hearty beef and barley soup with vegetables and tomato, ideal for freezing and reheating.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H30M",
+      "recipeYield": "22 cups",
+      "recipeIngredient": [
+        "6 cups water",
+        "6 beef bouillon cubes",
+        "1 Tbsp parsley flakes",
+        "28 oz canned tomato",
+        "1 tsp sugar",
+        "10 oz condensed tomato soup",
+        "1 tsp salt",
+        "2 cups shredded carrots",
+        "¼ tsp pepper",
+        "2 cups shredded potatoes",
+        "¾ tsp thyme",
+        "1½ cups chopped onion",
+        "3 cups cooked roast beef (or 2-3 cups chopped hamburg meat)",
+        "1 cup chopped celery",
+        "½ cup pearl or pot barley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat water and bouillon cubes in a large pot, stirring until dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add remaining ingredients except beef and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 1½ hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add beef and simmer for an additional ½ hour."
+        }
+      ],
+      "keywords": "beef barley soup, hearty soup, freezer-friendly",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 30 minutes"
+      },
+      "url": "beef-barley-soup-100",
+      "score": 0.7523253386508038
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hawaiian Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
+      "recipeCategory": "Meat",
+      "recipeCuisine": "Hawaiian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "2 eggs",
+        "½ cup chopped onion",
+        "¾ cup bread crumbs",
+        "¼ tsp salt",
+        "¼ tsp garlic salt",
+        "½ tsp salt",
+        "¼ tsp ginger",
+        "¼ tsp dry mustard",
+        "2 Tbsp soya sauce",
+        "¼ cup vinegar",
+        "6 Tbsp brown sugar",
+        "6 Tbsp ketchup",
+        "2 Tbsp shortening",
+        "1 (10 oz) can crushed pineapple",
+        "1 cup water",
+        "2 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the meat mixture together and shape into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the meatballs from the pan and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
+        }
+      ],
+      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "hawaiian-meatballs-152",
+      "score": 0.7358459512384709
     },
     {
       "@context": "https://schema.org/",
@@ -334,76 +404,7 @@
         "totalTime": "45 minutes"
       },
       "url": "sloppy-joe-squares-185",
-      "score": 0.7251857086221842
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Hawaiian Meatballs",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
-      "recipeCategory": "Meat",
-      "recipeCuisine": "Hawaiian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb ground beef",
-        "2 eggs",
-        "½ cup chopped onion",
-        "¾ cup bread crumbs",
-        "¼ tsp salt",
-        "¼ tsp garlic salt",
-        "½ tsp salt",
-        "¼ tsp ginger",
-        "¼ tsp dry mustard",
-        "2 Tbsp soya sauce",
-        "¼ cup vinegar",
-        "6 Tbsp brown sugar",
-        "6 Tbsp ketchup",
-        "2 Tbsp shortening",
-        "1 (10 oz) can crushed pineapple",
-        "1 cup water",
-        "2 Tbsp cornstarch"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix the meat mixture together and shape into balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove the meatballs from the pan and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
-        }
-      ],
-      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "hawaiian-meatballs-152",
-      "score": 0.7226993508120741
+      "score": 0.7330292275003494
     }
   ]
 }

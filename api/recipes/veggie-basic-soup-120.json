@@ -47,72 +47,8 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "url": "veggie-basic-soup-120",
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Tomato Macaroni Soup",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Linda Finkbeiner"
-        },
-        {
-          "@type": "Person",
-          "name": "Shirley Preszcator"
-        }
-      ],
-      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 Tbsp oil",
-        "1½ cups water",
-        "1 cooking onion, diced",
-        "1 cup dry macaroni",
-        "2 carrots, diced",
-        "½ tsp garlic salt",
-        "3 or 4 celery stalks, diced",
-        "½ tsp Worcestershire sauce",
-        "2 cups chicken stock",
-        "2 cups tomato juice",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute onion, celery, and carrot in oil until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, juice, and water. Bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add pasta and cook until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic salt and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season to taste with salt and pepper."
-        }
-      ],
-      "keywords": "tomato macaroni soup, comfort food, pasta soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "tomato-macaroni-soup-123",
-      "score": 0.7850186237534239
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -185,68 +121,176 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.7775101690310986
+      "score": 0.7814471718745355
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "French Onion Soup",
+      "name": "Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "Katherine Ratz"
+        "name": "Heather Clarke"
       },
-      "description": "A classic French onion soup made with caramelized onions, consomme, and topped with melted mozzarella cheese and croutons.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "French",
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
       "prepTime": "PT20M",
-      "cookTime": "PT2H30M",
-      "totalTime": "PT2H50M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1/4 cup butter",
-        "2 large Spanish onions",
-        "1 can consomme",
-        "1 can water",
-        "4 Oxo cubes dissolved in 2 cups hot water",
-        "Salt to flavour",
-        "4 slices French bread",
-        "1 cup shredded mozzarella cheese"
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Melt butter. Saute onions until transparent."
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
         },
         {
           "@type": "HowToStep",
-          "text": "Add to Oxo, consomme and water. Simmer about 2 hours."
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Put in onion soup bowls, add a slice of French bread on top of each one and add shredded mozzarella cheese sprinkled over each."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put in oven at 350°F for 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Continue cooking gently for another 2 hours."
         }
       ],
-      "keywords": "French onion soup, caramelized onions, melted cheese",
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "2 hours 30 minutes",
-        "totalTime": "2 hours 50 minutes"
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
       },
-      "url": "french-onion-soup-115",
-      "score": 0.772533876951327
+      "url": "spaghetti-sauce-177",
+      "score": 0.7784305996256158
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-187",
+      "score": 0.7784305996256158
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tomato Macaroni Soup",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Linda Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Shirley Preszcator"
+        }
+      ],
+      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 Tbsp oil",
+        "1½ cups water",
+        "1 cooking onion, diced",
+        "1 cup dry macaroni",
+        "2 carrots, diced",
+        "½ tsp garlic salt",
+        "3 or 4 celery stalks, diced",
+        "½ tsp Worcestershire sauce",
+        "2 cups chicken stock",
+        "2 cups tomato juice",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute onion, celery, and carrot in oil until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, juice, and water. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add pasta and cook until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic salt and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season to taste with salt and pepper."
+        }
+      ],
+      "keywords": "tomato macaroni soup, comfort food, pasta soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "tomato-macaroni-soup-123",
+      "score": 0.7764390732072317
     },
     {
       "@context": "https://schema.org/",
@@ -301,57 +345,7 @@
         "totalTime": "30 minutes"
       },
       "url": "richards-sunday-soup-121",
-      "score": 0.7716532170504024
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "score": 0.7668871077206701
+      "score": 0.7643094451872509
     }
   ]
 }

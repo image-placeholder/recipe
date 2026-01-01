@@ -38,6 +38,7 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
+  "url": "vegetable-dip-18",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -174,105 +175,126 @@
         "totalTime": "5 minutes"
       },
       "url": "caesar-dressin-salad-101",
-      "score": 0.7708685477423428
+      "score": 0.7804465960656193
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Plain Pickled Eggs",
+      "name": "Stir-Fry Chicken",
       "author": {
         "@type": "Person",
-        "name": "Antonia Hull"
+        "name": "Brenda Atkinson"
       },
-      "description": "A simple recipe for pickled eggs with a tangy cider vinegar brine and sliced onions.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT5M",
-      "totalTime": "PT15M",
-      "recipeYield": "12 pickled eggs",
-      "recipeIngredient": [
-        "1 tsp pickling spice",
-        "2 cups cider vinegar",
-        "1 large onion, sliced into rings",
-        "12 hard-boiled eggs, shelled",
-        "1 tsp salt"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except eggs and onion rings in a stainless steel or enamel pot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring to a boil and simmer for 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large jar, alternate layers of eggs and onion rings."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the heated liquid over the eggs and onions, ensuring all are covered."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
-        }
-      ],
-      "keywords": "pickled eggs, cider vinegar, appetizer",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "15 minutes"
-      },
-      "url": "plain-pickled-eggs-30",
-      "score": 0.7573930046231976
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Shrimp Spread",
-      "author": {
-        "@type": "Person",
-        "name": "Janet Dearing"
-      },
-      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
+      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
       "prepTime": "PT15M",
-      "recipeYield": "1 bowl",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "6 to 8 servings",
       "recipeIngredient": [
-        "1 can shrimp cocktail",
-        "3 green onions, finely chopped",
-        "1 tsp garlic powder",
-        "1 (8 oz) package cream cheese, softened",
+        "1/4 cup olive oil",
+        "2 tsp curry powder",
+        "1 crushed garlic clove",
+        "1/4 cup soya sauce",
         "1 tsp Worcestershire sauce",
-        "1½ cups shredded cheddar cheese",
-        "Miracle Whip (as needed for consistency)"
+        "1 tsp Louisiana hot sauce",
+        "1/2 tsp Tabasco",
+        "6 to 8 buns, cut in half",
+        "Mozzarella cheese and bacon bits for buns",
+        "Chicken breasts, cut in cubes",
+        "Mushrooms, sliced",
+        "Celery, chopped",
+        "1 bag Oriental Classic frozen vegetables",
+        "1 onion, chopped"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together in a medium bowl."
+          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Mash the shrimp with a fork until well blended."
+          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
         },
         {
           "@type": "HowToStep",
-          "text": "Refrigerate before serving with crackers."
+          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
         }
       ],
-      "keywords": "shrimp spread, seafood dip, party appetizer",
+      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": null,
-        "totalTime": null
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
       },
-      "url": "shrimp-spread-10",
-      "score": 0.7514412275651554
+      "url": "stir-fry-chicken-225",
+      "score": 0.7643409740233481
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the marinade well in the morning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve."
+        }
+      ],
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
+      },
+      "url": "onion-salad-74",
+      "score": 0.7584349955222331
     }
   ]
 }

@@ -56,6 +56,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 15 minutes"
   },
+  "url": "stuffing-and-chicken-242",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +119,71 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "parmesan-chicken-239",
-      "score": 0.7423388677877067
+      "score": 0.726092502255964
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken with a Chinese Accent",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the chicken to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken with rice."
+        }
+      ],
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chicken-with-a-chinese-accent-245",
+      "score": 0.6922205390358233
     },
     {
       "@context": "https://schema.org/",
@@ -192,71 +257,7 @@
         "totalTime": "55 minutes"
       },
       "url": "classy-chicken-243",
-      "score": 0.7017971003422065
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken with a Chinese Accent",
-      "author": {
-        "@type": "Person",
-        "name": "Suzanne Finkbeiner"
-      },
-      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Chinese-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT35M",
-      "totalTime": "PT50M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "6 boneless, skinless chicken breasts",
-        "1 can cream of mushroom soup",
-        "15 mL oil",
-        "50 mL vinegar",
-        "50 mL soya sauce",
-        "125 mL brown sugar",
-        "1 finely chopped onion"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the chicken to a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for 35 minutes at 350°F.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT35M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the chicken with rice."
-        }
-      ],
-      "keywords": "Chinese chicken, sweet and savory, baked chicken",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "chicken-with-a-chinese-accent-245",
-      "score": 0.6980020679111334
+      "score": 0.6813453500758474
     },
     {
       "@context": "https://schema.org/",
@@ -318,60 +319,58 @@
         "totalTime": "35 minutes"
       },
       "url": "turkey-a-la-king-248",
-      "score": 0.6875541506527446
+      "score": 0.6783844622586238
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hamburg Noodle Casserole",
+      "name": "Chicken and Broccoli",
       "author": {
         "@type": "Person",
-        "name": "Grace Yearley"
+        "name": "Marguerite Finkbeiner"
       },
-      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
-      "recipeCategory": "Casserole",
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 lb ground beef",
+        "1 cup small shells pasta",
         "1 can cream of mushroom soup",
-        "1 medium onion",
-        "2 cans sliced mushrooms, drained",
-        "1 jar Ragu (700 mL)",
-        "1 pkg cooked elbow macaroni",
-        "1 can cream of celery soup",
-        "1 can cream of chicken soup",
-        "1 cup shredded mozzarella cheese"
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef and onion, then add the mushrooms."
+          "text": "Cook the small shells pasta according to package directions. Drain."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake until the cheese is melted."
+          "text": "Serve hot with a cranberry salad."
         }
       ],
-      "keywords": "casserole, ground beef, noodle dish",
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "hamburg-noodle-casserole-172",
-      "score": 0.6857807186679112
+      "url": "chicken-and-broccoli-234",
+      "score": 0.6720349098856289
     }
   ]
 }

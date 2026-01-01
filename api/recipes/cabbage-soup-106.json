@@ -40,6 +40,7 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
   },
+  "url": "cabbage-soup-106",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -96,71 +97,7 @@
         "totalTime": "25 minutes"
       },
       "url": "mushroom-soup-113",
-      "score": 0.7473999579900048
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Pasta & Bean Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Marie Fydenchuk"
-      },
-      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT15M",
-      "cookTime": "PT28M",
-      "totalTime": "PT43M",
-      "recipeYield": "4-6 servings",
-      "recipeIngredient": [
-        "1 Tbsp olive oil",
-        "1 onion, finely chopped",
-        "2 carrots, finely chopped",
-        "2 celery sticks, finely chopped",
-        "3 crushed garlic cloves",
-        "1/4 tsp oregano",
-        "1/2 tsp salt",
-        "1/4 tsp pepper",
-        "19 oz can white kidney or romano beans, drained",
-        "10 oz can chicken broth, diluted with 1 cup water",
-        "28 oz can tomatoes with juice",
-        "3 cups small shell pasta or macaroni",
-        "1 1/2 tsp dried basil",
-        "1/4 tsp dried rosemary",
-        "1/2 cup chopped fresh basil",
-        "1/2 cup grated Parmesan cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
-        }
-      ],
-      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "28 minutes",
-        "totalTime": "43 minutes"
-      },
-      "url": "pasta-bean-soup-111",
-      "score": 0.7466419303814139
+      "score": 0.7544215940196194
     },
     {
       "@context": "https://schema.org/",
@@ -230,7 +167,129 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "mock-cabbage-rolls-164",
-      "score": 0.7466140447787117
+      "score": 0.7506262995655758
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta & Bean Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Fydenchuk"
+      },
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT15M",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
+        }
+      ],
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
+      },
+      "url": "pasta-bean-soup-111",
+      "score": 0.7504461831623166
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Supreme Broccoli Soup Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Flora Hodge"
+      },
+      "description": "A creamy broccoli casserole with a crunchy crouton topping, baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x9 inch pan",
+      "recipeIngredient": [
+        "1 can mushroom soup",
+        "1 head broccoli, cooked",
+        "1/2 cup grated carrot",
+        "1 Tbsp flour",
+        "Salt and pepper to taste",
+        "1/2 cup sour cream",
+        "4 Tbsp melted butter",
+        "1 Tbsp chopped onion",
+        "1/2 cup croutons",
+        "1 cup sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place cooked broccoli in a 9x9 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together mushroom soup, flour, sour cream, and seasonings. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated carrot, chopped onion, and croutons over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle with melted butter."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325°F for 1/2 hour."
+        }
+      ],
+      "keywords": "broccoli casserole, creamy soup casserole, baked vegetable dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "supreme-broccoli-soup-casserole-128",
+      "score": 0.7451802386391774
     },
     {
       "@context": "https://schema.org/",
@@ -299,65 +358,7 @@
         "totalTime": "3 hours 30 minutes"
       },
       "url": "cabbage-rolls-167",
-      "score": 0.7456461767655196
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Supreme Broccoli Soup Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Flora Hodge"
-      },
-      "description": "A creamy broccoli casserole with a crunchy crouton topping, baked until golden.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 9x9 inch pan",
-      "recipeIngredient": [
-        "1 can mushroom soup",
-        "1 head broccoli, cooked",
-        "1/2 cup grated carrot",
-        "1 Tbsp flour",
-        "Salt and pepper to taste",
-        "1/2 cup sour cream",
-        "4 Tbsp melted butter",
-        "1 Tbsp chopped onion",
-        "1/2 cup croutons",
-        "1 cup sour cream"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place cooked broccoli in a 9x9 inch pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix together mushroom soup, flour, sour cream, and seasonings. Pour over broccoli."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle grated carrot, chopped onion, and croutons over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drizzle with melted butter."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 325°F for 1/2 hour."
-        }
-      ],
-      "keywords": "broccoli casserole, creamy soup casserole, baked vegetable dish",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "supreme-broccoli-soup-casserole-128",
-      "score": 0.740457363390025
+      "score": 0.7451774005634476
     }
   ]
 }

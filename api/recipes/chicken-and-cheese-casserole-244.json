@@ -66,6 +66,7 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "url": "chicken-and-cheese-casserole-244",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -120,7 +121,7 @@
         "totalTime": "55 minutes"
       },
       "url": "broccoli-casserole-129",
-      "score": 0.796564887661176
+      "score": 0.7896932069714595
     },
     {
       "@context": "https://schema.org/",
@@ -171,7 +172,7 @@
         "totalTime": "40 minutes"
       },
       "url": "broccoli-casserole-133",
-      "score": 0.796564887661176
+      "score": 0.7896932069714595
     },
     {
       "@context": "https://schema.org/",
@@ -232,7 +233,7 @@
         "totalTime": "30 minutes"
       },
       "url": "cheese-broccoli-soup-105",
-      "score": 0.7923627781990746
+      "score": 0.7645820152741234
     },
     {
       "@context": "https://schema.org/",
@@ -301,76 +302,75 @@
         "totalTime": "30 minutes"
       },
       "url": "cheese-broccoli-soup-108",
-      "score": 0.7923627781990746
+      "score": 0.7645820152741234
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Turkey or Chicken Pies",
+      "name": "Tortilla Soup",
       "author": {
         "@type": "Person",
-        "name": "Shirley Preszcator"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT45M",
+      "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Mexican",
+      "prepTime": "PT20M",
       "cookTime": "PT30M",
-      "totalTime": "PT1H15M",
-      "recipeYield": "Multiple individual pies or 1 large pie",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "½ cup margarine",
-        "1 tsp salt",
-        "1 Tbsp onion, chopped",
-        "1 cup flour",
-        "¼ tsp salt",
-        "1½ tsp baking powder",
-        "3 cups chicken or turkey broth",
-        "3 Tbsp butter",
-        "3 cups diced turkey or chicken",
-        "1 cup frozen peas",
-        "1 cup diced carrots",
-        "½ cup celery, chopped",
-        "⅓ cup milk"
+        "Chicken (breasts or thighs)",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 can diced tomatoes",
+        "1 cup corn",
+        "1 can black beans, optional",
+        "1 bay leaf",
+        "¼ cup chopped cilantro",
+        "½ tsp chili powder",
+        "½ tsp cumin",
+        "½ tsp oregano",
+        "Salt and pepper to taste",
+        "Tortilla chips",
+        "Sour cream",
+        "Cheddar cheese, grated",
+        "1 jar salsa"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
+          "text": "Saute chicken pieces with onion, garlic, and spices until chicken is cooked through."
         },
         {
           "@type": "HowToStep",
-          "text": "Sauté chopped onion and celery until tender."
+          "text": "Add 4 cups water and boil to make stock."
         },
         {
           "@type": "HowToStep",
-          "text": "Boil carrots until thoroughly cooked."
+          "text": "Remove chicken and chop, discarding any bones and skin."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix cooked carrots with peas and the sauce made earlier."
+          "text": "Combine remaining ingredients (except tortilla chips, sour cream, and cheese) and heat through."
         },
         {
           "@type": "HowToStep",
-          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
+          "text": "To serve, place tortilla chips in soup bowls."
         },
         {
           "@type": "HowToStep",
-          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until the crust is golden brown."
+          "text": "Pour soup over chips and top with sour cream, jalapenos (optional), and shredded cheddar cheese."
         }
       ],
-      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
+      "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup",
       "_naturalized_times": {
-        "prepTime": "45 minutes",
+        "prepTime": "20 minutes",
         "cookTime": "30 minutes",
-        "totalTime": "1 hour 15 minutes"
+        "totalTime": "50 minutes"
       },
-      "url": "turkey-or-chicken-pies-251",
-      "score": 0.7576861582019826
+      "url": "tortilla-soup-124",
+      "score": 0.7354935350622629
     }
   ]
 }

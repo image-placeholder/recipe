@@ -57,63 +57,8 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
+  "url": "stir-fry-chicken-225",
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Easy Curried Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "International",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
-      "recipeIngredient": [
-        "Chicken pieces",
-        "2 cans cream of chicken soup",
-        "¾ cup mayonnaise",
-        "1 tsp curry powder (or to taste)",
-        "Broccoli and carrots, cut into bite-size pieces",
-        "Bread crumbs for topping"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Grease the bottom of a pan and layer with vegetables."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange chicken pieces on top of the vegetables."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cream of chicken soup, mayonnaise, and curry powder."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the soup mixture over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle bread crumbs on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 375°F for 1 hour."
-        }
-      ],
-      "keywords": "curried chicken, creamy chicken, baked chicken casserole",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
-      },
-      "url": "easy-curried-chicken-231",
-      "score": 0.7599749666162375
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -164,7 +109,7 @@
         "totalTime": "10 minutes"
       },
       "url": "vegetable-dip-17",
-      "score": 0.7504578746018986
+      "score": 0.7643409740233481
     },
     {
       "@context": "https://schema.org/",
@@ -207,7 +152,72 @@
         "totalTime": "5 minutes"
       },
       "url": "vegetable-dip-18",
-      "score": 0.7504578746018986
+      "score": 0.7643409740233481
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken-Pineapple Stir-Fry",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "12 oz deboned chicken breast",
+        "2 tsp cornstarch",
+        "1 onion, chopped",
+        "¼ tsp cinnamon",
+        "1 cup diced celery",
+        "1½ tsp soya sauce",
+        "1 cup green pepper strips",
+        "2 tsp margarine",
+        "2 cups pineapple chunks (with juice reserved)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and cook until the sauce is clear and thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the stir-fry over hot rice."
+        }
+      ],
+      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "url": "chicken-pineapple-stir-fry-221",
+      "score": 0.7531873708645155
     },
     {
       "@context": "https://schema.org/",
@@ -281,72 +291,63 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.7488746559917273
+      "score": 0.7494108966200254
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken-Pineapple Stir-Fry",
+      "name": "Easy Curried Chicken",
       "author": {
         "@type": "Person",
-        "name": "Louise Wein"
+        "name": "Barbara Robertson"
       },
-      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT10M",
-      "cookTime": "PT5M",
-      "totalTime": "PT15M",
-      "recipeYield": "4 servings",
+      "recipeCuisine": "International",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
       "recipeIngredient": [
-        "12 oz deboned chicken breast",
-        "2 tsp cornstarch",
-        "1 onion, chopped",
-        "¼ tsp cinnamon",
-        "1 cup diced celery",
-        "1½ tsp soya sauce",
-        "1 cup green pepper strips",
-        "2 tsp margarine",
-        "2 cups pineapple chunks (with juice reserved)"
+        "Chicken pieces",
+        "2 cans cream of chicken soup",
+        "¾ cup mayonnaise",
+        "1 tsp curry powder (or to taste)",
+        "Broccoli and carrots, cut into bite-size pieces",
+        "Bread crumbs for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
+          "text": "Grease the bottom of a pan and layer with vegetables."
         },
         {
           "@type": "HowToStep",
-          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
+          "text": "Arrange chicken pieces on top of the vegetables."
         },
         {
           "@type": "HowToStep",
-          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
+          "text": "Mix cream of chicken soup, mayonnaise, and curry powder."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
+          "text": "Pour the soup mixture over the chicken."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
+          "text": "Sprinkle bread crumbs on top."
         },
         {
           "@type": "HowToStep",
-          "text": "Reduce heat and cook until the sauce is clear and thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the stir-fry over hot rice."
+          "text": "Bake at 375°F for 1 hour."
         }
       ],
-      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
+      "keywords": "curried chicken, creamy chicken, baked chicken casserole",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "15 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
       },
-      "url": "chicken-pineapple-stir-fry-221",
-      "score": 0.7479224484538225
+      "url": "easy-curried-chicken-231",
+      "score": 0.7476775709855541
     }
   ]
 }

@@ -53,6 +53,7 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour"
   },
+  "url": "oven-barbecued-pork-chops-210",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,7 +104,7 @@
         "totalTime": "40 minutes"
       },
       "url": "sour-n-sweet-pork-chops-207",
-      "score": 0.7978516594381708
+      "score": 0.797699868514943
     },
     {
       "@context": "https://schema.org/",
@@ -170,60 +171,7 @@
         "totalTime": "2 hours"
       },
       "url": "pork-chop-rice-casserole-211",
-      "score": 0.7870297978813997
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Zesty BBQ Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Sharon Allen"
-      },
-      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 batch",
-      "recipeIngredient": [
-        "1 cup ketchup",
-        "1 tsp dry mustard",
-        "1/4 cup white vinegar",
-        "1/4 tsp salt",
-        "1/2 cup brown sugar",
-        "1/4 tsp cayenne pepper",
-        "1 Tbsp chili powder",
-        "2 cloves garlic, crushed",
-        "1 Tbsp Worcestershire sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients in a saucepan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer for 10 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate or freeze for later use."
-        }
-      ],
-      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "zesty-bbq-sauce-136",
-      "score": 0.7253431610972196
+      "score": 0.7926553392840537
     },
     {
       "@context": "https://schema.org/",
@@ -279,7 +227,60 @@
         "totalTime": "40 minutes"
       },
       "url": "pork-chops-with-dried-fruit-206",
-      "score": 0.7225743717768984
+      "score": 0.7429880672885492
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Zesty BBQ Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 cup ketchup",
+        "1 tsp dry mustard",
+        "1/4 cup white vinegar",
+        "1/4 tsp salt",
+        "1/2 cup brown sugar",
+        "1/4 tsp cayenne pepper",
+        "1 Tbsp chili powder",
+        "2 cloves garlic, crushed",
+        "1 Tbsp Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 10 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate or freeze for later use."
+        }
+      ],
+      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "zesty-bbq-sauce-136",
+      "score": 0.7215900945307513
     },
     {
       "@context": "https://schema.org/",
@@ -329,7 +330,7 @@
         "totalTime": "2 hours 35 minutes"
       },
       "url": "maple-glazed-ribs-203",
-      "score": 0.7108544270251745
+      "score": 0.7050740208650881
     }
   ]
 }

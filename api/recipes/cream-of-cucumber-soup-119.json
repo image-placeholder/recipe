@@ -51,61 +51,57 @@
     "cookTime": "8 minutes",
     "totalTime": "18 minutes"
   },
+  "url": "cream-of-cucumber-soup-119",
   "_similar": [
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Potato Soup",
+      "name": "Creamy Broccoli Soup",
       "author": {
         "@type": "Person",
-        "name": "Barbara Ratz"
+        "name": "Eleanor Beaver"
       },
-      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
       "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "8-10 servings",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "6 diced and peeled potatoes",
-        "2 diced and peeled carrots",
-        "1 chopped onion",
-        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
-        "6 Tbsp butter",
-        "6 Tbsp flour",
-        "Sour cream (optional)"
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Microwave onions and butter until soft, about 2 minutes."
+          "text": "Purée the mixture in a blender until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
         },
         {
           "@type": "HowToStep",
-          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
         }
       ],
-      "keywords": "potato soup, creamy soup, comfort food",
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
       },
-      "url": "potato-soup-125",
-      "score": 0.667286873579596
+      "url": "creamy-broccoli-soup-112",
+      "score": 0.6608282913984107
     },
     {
       "@context": "https://schema.org/",
@@ -160,7 +156,62 @@
         "totalTime": "30 minutes"
       },
       "url": "richards-sunday-soup-121",
-      "score": 0.6616645261289905
+      "score": 0.6475691469665974
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Potato Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "6 diced and peeled potatoes",
+        "2 diced and peeled carrots",
+        "1 chopped onion",
+        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
+        "6 Tbsp butter",
+        "6 Tbsp flour",
+        "Sour cream (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Microwave onions and butter until soft, about 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
+        }
+      ],
+      "keywords": "potato soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "potato-soup-125",
+      "score": 0.6454378997290415
     },
     {
       "@context": "https://schema.org/",
@@ -231,102 +282,71 @@
         "totalTime": "50 minutes"
       },
       "url": "chicken-and-cheese-casserole-244",
-      "score": 0.658777570336673
+      "score": 0.6414096640279521
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Creamy Broccoli Soup",
+      "name": "Cauliflower Broccoli Casserole",
       "author": {
         "@type": "Person",
-        "name": "Eleanor Beaver"
+        "name": "Heather Clarke"
       },
-      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
-      "recipeCategory": "Soup",
+      "description": "A versatile casserole recipe that can use either cauliflower or broccoli, topped with croutons and Parmesan cheese.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
       "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
+      "cookTime": "PT40M",
+      "totalTime": "PT50M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 cups chicken broth",
-        "1 cup cubed peeled potatoes",
-        "4 cups broccoli",
-        "1/2 cup Miracle Whip",
-        "1/2 tsp cumin (optional)",
-        "Salt and pepper to taste"
+        "Cauliflower or broccoli",
+        "1 can cream of celery soup",
+        "2 Tbsp mayonnaise",
+        "1/4 cup shredded Colby cheese",
+        "1/4 cup Parmesan cheese",
+        "1/2 cup croutons",
+        "Some cracker crumbs",
+        "A little butter"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
+          "text": "Cook the chosen vegetable in the microwave for 2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Purée the mixture in a blender until smooth."
+          "text": "Add cream of celery soup, mayonnaise, and cheese to the cooked vegetable. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
+          "text": "Add croutons to the mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
+          "text": "Spread cracker crumbs on top of the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle Parmesan cheese over the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put butter pieces on top of the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at 350°F for 40 minutes."
         }
       ],
-      "keywords": "creamy broccoli soup, potato soup, comforting soup",
+      "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake",
       "_naturalized_times": {
         "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
+        "cookTime": "40 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "creamy-broccoli-soup-112",
-      "score": 0.6495543211639155
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cabbage Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Betty Glanville"
-      },
-      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 Tbsp liquid sweetener",
-        "½ head cabbage",
-        "1 can French-style beans (optional)",
-        "3 cups tomato juice",
-        "4 cups water",
-        "1 large can mushrooms",
-        "Salt, garlic pepper to taste",
-        "6 stalks celery, including leaves and tips",
-        "1 tsp lemon juice"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Add all ingredients to a large pot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook at low heat for 1½ hours."
-        }
-      ],
-      "keywords": "cabbage soup, vegetable soup, hearty soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
-      },
-      "url": "cabbage-soup-106",
-      "score": 0.6460565243422278
+      "url": "cauliflower-broccoli-casserole-144",
+      "score": 0.6400655460914112
     }
   ]
 }

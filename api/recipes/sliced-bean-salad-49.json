@@ -49,7 +49,65 @@
     "cookTime": "10 minutes",
     "totalTime": "30 minutes"
   },
+  "url": "sliced-bean-salad-49",
   "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the marinade well in the morning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve."
+        }
+      ],
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
+      },
+      "url": "onion-salad-74",
+      "score": 0.7915316154737649
+    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -111,119 +169,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Onion Salad",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Wallace Pfaff"
-        },
-        {
-          "@type": "Person",
-          "name": "Joanne Pickering"
-        }
-      ],
-      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "2 Spanish onions, thinly sliced",
-        "1 1/2 tsp salt",
-        "1/2 cup white sugar",
-        "1 cup mayonnaise or salad dressing",
-        "1/3 cup water",
-        "1/3 cup vinegar",
-        "1 tsp celery seed"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain the marinade well in the morning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until ready to serve."
-        }
-      ],
-      "keywords": "onion salad, marinated onions, sweet and tangy salad",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 10 minutes"
-      },
-      "url": "onion-salad-74",
-      "score": 0.7815720525262426
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sauerkraut Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Lorna Finkbeiner"
-      },
-      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 (28 oz) jar or can sauerkraut, drained",
-        "1 cup chopped celery",
-        "1 cup chopped onion",
-        "1 cup chopped red pepper",
-        "¼ cup chopped green pepper",
-        "2 cups white sugar",
-        "1 cup white vinegar",
-        "1 tsp salt"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let the dressing cool to room temperature."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the cooled dressing over the salad and toss to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
-        }
-      ],
-      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "sauerkraut-salad-82",
-      "score": 0.7341127927703768
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Salad Dressing",
       "author": {
         "@type": "Person",
@@ -262,7 +207,7 @@
         "totalTime": "13 minutes"
       },
       "url": "salad-dressing-102",
-      "score": 0.7304182131922574
+      "score": 0.734262279568357
     },
     {
       "@context": "https://schema.org/",
@@ -309,7 +254,58 @@
         "totalTime": "20 minutes"
       },
       "url": "salad-dressing-103",
-      "score": 0.7304182131922574
+      "score": 0.734262279568357
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Evelyn Pickering"
+      },
+      "description": "A thickened salad dressing made by boiling a mixture of eggs, sugar, flour, mustard, water, and vinegar, finished with butter.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "3 Tbsp flour",
+        "3 eggs",
+        "1 cup white sugar",
+        "1½ cups water",
+        "1 Tbsp dry mustard",
+        "1 cup vinegar",
+        "1 Tbsp butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat eggs and add sugar and dry ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil water and vinegar together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour egg mixture into vinegar-water mixture and boil until it thickens, stirring continually."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Take off heat and stir in 1 Tbsp butter."
+        }
+      ],
+      "keywords": "thickened salad dressing, boiled dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "salad-dressing-104",
+      "score": 0.734262279568357
     }
   ]
 }

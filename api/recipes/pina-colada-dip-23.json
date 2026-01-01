@@ -40,6 +40,7 @@
     "cookTime": "",
     "totalTime": null
   },
+  "url": "pina-colada-dip-23",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -91,7 +92,7 @@
         "totalTime": "1 hour 45 minutes"
       },
       "url": "sweet-sour-pineapple-chicken-222",
-      "score": 0.6996338957049478
+      "score": 0.7010193114214944
     },
     {
       "@context": "https://schema.org/",
@@ -145,7 +146,7 @@
         "totalTime": "25 minutes"
       },
       "url": "orange-pineapple-jello-76",
-      "score": 0.6901148522362459
+      "score": 0.6946837031339381
     },
     {
       "@context": "https://schema.org/",
@@ -186,59 +187,6 @@
       },
       "url": "fruit-dip-24",
       "score": 0.6843052316727756
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Fluffy Fruit Dip",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Tanya Allen"
-        },
-        {
-          "@type": "Person",
-          "name": "Lorie Van Volkengoed"
-        },
-        {
-          "@type": "Person",
-          "name": "Kim MacDonald"
-        }
-      ],
-      "description": "A light and airy fruit dip made with softened cream cheese, marshmallow creme, and vanilla extract.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeIngredient": [
-        "3 oz cream cheese, softened",
-        "1 tsp vanilla extract",
-        "1 (7 oz) jar marshmallow creme",
-        "Fresh fruit for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a bowl, combine the softened cream cheese, marshmallow creme, and vanilla extract."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix until smooth and well blended."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately with your choice of fresh fruit."
-        }
-      ],
-      "keywords": "fluffy fruit dip, marshmallow dip, sweet appetizer",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "url": "fluffy-fruit-dip-25",
-      "score": 0.6696700093320264
     },
     {
       "@context": "https://schema.org/",
@@ -295,7 +243,60 @@
         "totalTime": "20 minutes"
       },
       "url": "party-time-salad-77",
-      "score": 0.6681913716769903
+      "score": 0.6733657224207122
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fluffy Fruit Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Lorie Van Volkengoed"
+        },
+        {
+          "@type": "Person",
+          "name": "Kim MacDonald"
+        }
+      ],
+      "description": "A light and airy fruit dip made with softened cream cheese, marshmallow creme, and vanilla extract.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "3 oz cream cheese, softened",
+        "1 tsp vanilla extract",
+        "1 (7 oz) jar marshmallow creme",
+        "Fresh fruit for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, combine the softened cream cheese, marshmallow creme, and vanilla extract."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with your choice of fresh fruit."
+        }
+      ],
+      "keywords": "fluffy fruit dip, marshmallow dip, sweet appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "fluffy-fruit-dip-25",
+      "score": 0.6696700093320264
     }
   ]
 }

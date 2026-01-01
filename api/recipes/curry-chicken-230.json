@@ -53,6 +53,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
+  "url": "curry-chicken-230",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -126,7 +127,7 @@
         "totalTime": "55 minutes"
       },
       "url": "classy-chicken-243",
-      "score": 0.7934666789920496
+      "score": 0.7884678469524719
     },
     {
       "@context": "https://schema.org/",
@@ -189,7 +190,7 @@
         "totalTime": "25 minutes"
       },
       "url": "lemon-chicken-with-thyme-224",
-      "score": 0.7676744230836341
+      "score": 0.7637164405267036
     },
     {
       "@context": "https://schema.org/",
@@ -245,143 +246,100 @@
         "totalTime": "1 hour 15 minutes"
       },
       "url": "easy-curried-chicken-231",
-      "score": 0.7491099372570384
+      "score": 0.7599965502579373
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Thai Chicken",
+      "name": "Maple Glazed Ribs",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Evelyn Pickering"
       },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "description": "A sweet and savory pork spare ribs recipe glazed with a maple syrup-based sauce.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
+      "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT2H15M",
+      "totalTime": "PT2H35M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
+        "3 lb pork spare ribs",
+        "1 Tbsp Dijon mustard",
+        "1 cup maple syrup",
+        "1 Tbsp Worcestershire sauce",
+        "3 Tbsp orange juice",
+        "1 tsp curry powder concentrate",
+        "1 garlic clove, minced",
+        "3 Tbsp ketchup",
+        "2 green onions",
+        "2 Tbsp soya sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+          "text": "Cut ribs into serving-size pieces and place in a roasting pan. Cover and bake for 1½ hours or until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
+          "text": "Meanwhile, combine the Dijon mustard, maple syrup, Worcestershire sauce, orange juice, curry powder, garlic, ketchup, green onions, and soya sauce in a saucepan. Bring to a boil, then reduce heat and simmer for 15 minutes, stirring occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+          "text": "Drain the ribs and pour the sauce over them. Bake uncovered for an additional ½ hour, stirring occasionally."
         }
       ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "keywords": "maple glazed ribs, pork spare ribs, sweet and savory",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
+        "cookTime": "2 hours 15 minutes",
+        "totalTime": "2 hours 35 minutes"
       },
-      "url": "thai-chicken-235",
-      "score": 0.7344255584159991
+      "url": "maple-glazed-ribs-203",
+      "score": 0.7295159106339584
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Stir-Fry Chicken",
+      "name": "Curry Dip",
       "author": {
         "@type": "Person",
-        "name": "Brenda Atkinson"
+        "name": "Linda Finkbeiner"
       },
-      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "6 to 8 servings",
+      "description": "A flavorful and spicy dip made with mayonnaise, curry powder, and chili sauce, perfect for serving with snacks.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 bowl",
       "recipeIngredient": [
-        "1/4 cup olive oil",
-        "2 tsp curry powder",
-        "1 crushed garlic clove",
-        "1/4 cup soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 tsp Louisiana hot sauce",
-        "1/2 tsp Tabasco",
-        "6 to 8 buns, cut in half",
-        "Mozzarella cheese and bacon bits for buns",
-        "Chicken breasts, cut in cubes",
-        "Mushrooms, sliced",
-        "Celery, chopped",
-        "1 bag Oriental Classic frozen vegetables",
-        "1 onion, chopped"
+        "1 cup mayonnaise",
+        "1/2 tsp Worcestershire sauce",
+        "1/4 cup chili sauce",
+        "1 tsp curry powder",
+        "1/4 tsp Tabasco",
+        "1/2 tsp chopped onion (optional)",
+        "1 tsp lemon juice"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
+          "text": "Mix all ingredients together in a bowl until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
+          "text": "Let stand in the fridge for 1 to 2 hours before serving to allow flavors to meld."
         }
       ],
-      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
+      "keywords": "curry dip, spicy dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 10 minutes"
       },
-      "url": "stir-fry-chicken-225",
-      "score": 0.7230500721698763
+      "url": "curry-dip-14",
+      "score": 0.7268262991016018
     }
   ]
 }

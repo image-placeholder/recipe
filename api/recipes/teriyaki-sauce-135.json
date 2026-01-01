@@ -37,6 +37,7 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
+  "url": "teriyaki-sauce-135",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -89,7 +90,7 @@
         "totalTime": "20 minutes"
       },
       "url": "zesty-bbq-sauce-136",
-      "score": 0.6762767332472869
+      "score": 0.6848992490017674
     },
     {
       "@context": "https://schema.org/",
@@ -163,109 +164,7 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.6623288151601362
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Vegetable Fried Rice",
-      "author": {
-        "@type": "Person",
-        "name": "Dave MacLeod"
-      },
-      "description": "A simple and flavorful fried rice dish made with cooked rice, beaten egg, soya sauce, and mixed vegetables.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "Chinese-Canadian",
-      "prepTime": "PT10M",
-      "cookTime": "PT20M",
-      "totalTime": "PT30M",
-      "recipeIngredient": [
-        "3 Tbsp vegetable oil",
-        "575 mL cold water",
-        "1 chicken Oxo cube or pouch",
-        "1 egg, beaten",
-        "1 Tbsp soya sauce",
-        "250 mL cooked rice",
-        "125 mL cooked vegetables",
-        "Salt and pepper to taste",
-        "15 mL butter or margarine"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Bring water to a boil. Dissolve chicken Oxo cube in water. Add rice, salt, and butter. Cover and simmer for 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain rice in a strainer for 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat oil in a wok or frying pan. Add beaten egg and soya sauce. Cook until just setting."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cooked rice and vegetables to the egg mixture. Stir continuously until combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Adjust seasoning with salt, pepper, and additional soya sauce if needed."
-        }
-      ],
-      "keywords": "chicken fried rice, vegetable fried rice, Chinese-Canadian side dish",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "chicken-vegetable-fried-rice-220",
-      "score": 0.6512442717380573
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Caesar Dressin' Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Towton"
-      },
-      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
-      "recipeCategory": "Salad Dressing",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 batch",
-      "recipeIngredient": [
-        "½ tsp Worcestershire sauce",
-        "3 garlic cloves",
-        "½ tsp dry mustard",
-        "2 beaten egg yolks",
-        "½ tsp salt",
-        "½ cup lemon juice",
-        "Dash pepper",
-        "1 cup oil",
-        "¼ cup white sugar",
-        "1 cup Parmesan cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Can be kept in the fridge for up to 2 weeks."
-        }
-      ],
-      "keywords": "Caesar dressing, homemade salad dressing",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "url": "caesar-dressin-salad-101",
-      "score": 0.6488654270721207
+      "score": 0.6506801077115315
     },
     {
       "@context": "https://schema.org/",
@@ -349,7 +248,102 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
-      "score": 0.6382081084370813
+      "score": 0.6291098378839888
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Louise Wein"
+        }
+      ],
+      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 serving dish",
+      "recipeIngredient": [
+        "1 tsp Accent",
+        "1 cup sour cream",
+        "¼ tsp salt",
+        "1 cup mayonnaise",
+        "¼ tsp celery salt",
+        "1 tsp parsley flakes",
+        "2 drops Tabasco sauce (can be omitted)",
+        "½ tsp dill weed",
+        "1 tsp garlic salt",
+        "Assorted vegetables or crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill before serving with chips, crackers, or vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, sour cream dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "vegetable-dip-17",
+      "score": 0.6219170628252089
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "vegetable-dip-18",
+      "score": 0.6219170628252089
     }
   ]
 }

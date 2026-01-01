@@ -46,6 +46,7 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
+  "url": "sausage-balls-44",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -90,7 +91,130 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "chicken-celebrity-237",
-      "score": 0.6731904401240202
+      "score": 0.6728582438649234
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat Balls and Sour And Sweet Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Glenda Wuerth"
+      },
+      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb hamburger",
+        "1 slice dry bread (crumbs)",
+        "1 Tbsp cornstarch",
+        "¼ cup milk",
+        "1 tsp onion flakes or 1 tsp real onion",
+        "1 (19 oz) can pineapple, crushed",
+        "⅓ cup vinegar",
+        "1 tsp salt",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together and form into 1½ inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from oven and drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a large casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+        }
+      ],
+      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "score": 0.6633853180259506
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Britt's Favourite Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Leanne Robinson"
+      },
+      "description": "A classic meatball recipe with a sweet and tangy sauce, baked in the oven.",
+      "recipeCategory": "Meat",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "½ cup quick cook oats or bran",
+        "1 egg, lightly beaten",
+        "1 pkg onion soup mix",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "½ tsp garlic powder",
+        "1 cup brown sugar",
+        "1 cup ketchup",
+        "½ cup ketchup",
+        "1 tsp Worcestershire sauce",
+        "¼ tsp garlic powder"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the first 8 ingredients in a large bowl and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into 1 inch balls and place in a 9x13 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, at 350°F for 18 to 20 minutes or until the meat is no longer pink."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine sauce ingredients and pour over the meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to the oven for an additional 10 to 15 minutes."
+        }
+      ],
+      "keywords": "meatballs, baked, sweet and tangy sauce",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "britts-favourite-meatballs-151",
+      "score": 0.6618633457770936
     },
     {
       "@context": "https://schema.org/",
@@ -159,70 +283,7 @@
         "totalTime": "3 hours 30 minutes"
       },
       "url": "cabbage-rolls-167",
-      "score": 0.669148937193763
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Glenda Wuerth"
-      },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
-        "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
-        }
-      ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
-      },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "score": 0.6666162063252811
+      "score": 0.658283961315407
     },
     {
       "@context": "https://schema.org/",
@@ -300,67 +361,7 @@
         "totalTime": "1 hour 35 minutes"
       },
       "url": "jelly-roll-style-meat-loaf-154",
-      "score": 0.6579823839812836
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Britt's Favourite Meatballs",
-      "author": {
-        "@type": "Person",
-        "name": "Leanne Robinson"
-      },
-      "description": "A classic meatball recipe with a sweet and tangy sauce, baked in the oven.",
-      "recipeCategory": "Meat",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT30M",
-      "totalTime": "PT45M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 lb lean ground beef",
-        "½ cup quick cook oats or bran",
-        "1 egg, lightly beaten",
-        "1 pkg onion soup mix",
-        "1 tsp salt",
-        "¼ tsp pepper",
-        "½ tsp garlic powder",
-        "1 cup brown sugar",
-        "1 cup ketchup",
-        "½ cup ketchup",
-        "1 tsp Worcestershire sauce",
-        "¼ tsp garlic powder"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine the first 8 ingredients in a large bowl and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shape the mixture into 1 inch balls and place in a 9x13 inch baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake, uncovered, at 350°F for 18 to 20 minutes or until the meat is no longer pink."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine sauce ingredients and pour over the meatballs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return to the oven for an additional 10 to 15 minutes."
-        }
-      ],
-      "keywords": "meatballs, baked, sweet and tangy sauce",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "45 minutes"
-      },
-      "url": "britts-favourite-meatballs-151",
-      "score": 0.6459430145868494
+      "score": 0.6569063290745059
     }
   ]
 }

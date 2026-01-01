@@ -71,69 +71,8 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "url": "chili-turkey-247",
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chili Con Carne",
-      "author": {
-        "@type": "Person",
-        "name": "Shannon Wuerth"
-      },
-      "description": "A hearty and versatile chili recipe featuring ground beef, kidney beans, and a variety of vegetables, ideal for customization.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "8 servings, 9 cups (2.25 L)",
-      "recipeIngredient": [
-        "1 lb lean ground beef",
-        "1 can (28 oz) tomatoes",
-        "1 cup chopped onion",
-        "1 can (7.5 oz) tomato sauce",
-        "1 clove garlic, crushed",
-        "1 can (19 oz) kidney beans, drained",
-        "3 cups finely shredded cabbage",
-        "1 Tbsp chili powder",
-        "2 cups thinly sliced celery",
-        "1 tsp dried oregano",
-        "1/2 cup chopped green pepper",
-        "1/2 tsp salt",
-        "1/4 tsp hot pepper sauce",
-        "Optional: additional vegetables like zucchini, carrots, mushrooms"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large nonstick skillet, cook ground beef over medium-high heat until browned and crumbly; drain off excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add onion and garlic to the skillet and cook for 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cabbage, celery, green pepper, tomatoes with juice, tomato sauce, kidney beans, chili powder, oregano, salt, and hot pepper sauce to the skillet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Optionally add other desired vegetables (e.g., zucchini, carrots, mushrooms) at this stage."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and simmer over medium heat for 45 minutes, or until vegetables are tender, stirring occasionally."
-        }
-      ],
-      "keywords": "chili con carne, ground beef chili, customizable chili",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "chili-con-carne-165",
-      "score": 0.816970694630978
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -206,7 +145,69 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.8162845068205047
+      "score": 0.8355055003184906
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Con Carne",
+      "author": {
+        "@type": "Person",
+        "name": "Shannon Wuerth"
+      },
+      "description": "A hearty and versatile chili recipe featuring ground beef, kidney beans, and a variety of vegetables, ideal for customization.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 servings, 9 cups (2.25 L)",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "1 can (28 oz) tomatoes",
+        "1 cup chopped onion",
+        "1 can (7.5 oz) tomato sauce",
+        "1 clove garlic, crushed",
+        "1 can (19 oz) kidney beans, drained",
+        "3 cups finely shredded cabbage",
+        "1 Tbsp chili powder",
+        "2 cups thinly sliced celery",
+        "1 tsp dried oregano",
+        "1/2 cup chopped green pepper",
+        "1/2 tsp salt",
+        "1/4 tsp hot pepper sauce",
+        "Optional: additional vegetables like zucchini, carrots, mushrooms"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large nonstick skillet, cook ground beef over medium-high heat until browned and crumbly; drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion and garlic to the skillet and cook for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cabbage, celery, green pepper, tomatoes with juice, tomato sauce, kidney beans, chili powder, oregano, salt, and hot pepper sauce to the skillet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Optionally add other desired vegetables (e.g., zucchini, carrots, mushrooms) at this stage."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and simmer over medium heat for 45 minutes, or until vegetables are tender, stirring occasionally."
+        }
+      ],
+      "keywords": "chili con carne, ground beef chili, customizable chili",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "chili-con-carne-165",
+      "score": 0.8248388476348868
     },
     {
       "@context": "https://schema.org/",
@@ -256,7 +257,7 @@
         "totalTime": "4 hours 20 minutes"
       },
       "url": "spaghetti-sauce-177",
-      "score": 0.815561957608198
+      "score": 0.8228248238033218
     },
     {
       "@context": "https://schema.org/",
@@ -310,7 +311,7 @@
         "totalTime": "2 hours 20 minutes"
       },
       "url": "spaghetti-sauce-187",
-      "score": 0.815561957608198
+      "score": 0.8228248238033218
     },
     {
       "@context": "https://schema.org/",
@@ -374,7 +375,7 @@
         "totalTime": "43 minutes"
       },
       "url": "pasta-bean-soup-111",
-      "score": 0.8096704079737744
+      "score": 0.804138789759205
     }
   ]
 }

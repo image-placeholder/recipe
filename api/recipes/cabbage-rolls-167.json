@@ -64,6 +64,7 @@
     "cookTime": "3 hours",
     "totalTime": "3 hours 30 minutes"
   },
+  "url": "cabbage-rolls-167",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -137,7 +138,7 @@
         "totalTime": "50 minutes"
       },
       "url": "beef-and-rice-casserole-168",
-      "score": 0.771991248502101
+      "score": 0.7737286544156761
     },
     {
       "@context": "https://schema.org/",
@@ -221,7 +222,7 @@
         "totalTime": "1 hour 25 minutes"
       },
       "url": "meatball-pasta-stew-179",
-      "score": 0.7514920894545722
+      "score": 0.7607237366902992
     },
     {
       "@context": "https://schema.org/",
@@ -297,97 +298,150 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "score": 0.746676762517136
+      "score": 0.7601292587187055
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cabbage Soup",
+      "name": "Hawaiian Meatballs",
       "author": {
         "@type": "Person",
-        "name": "Betty Glanville"
+        "name": "Heather Clarke"
       },
-      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
-      "recipeYield": "6 servings",
+      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
+      "recipeCategory": "Meat",
+      "recipeCuisine": "Hawaiian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 Tbsp liquid sweetener",
-        "½ head cabbage",
-        "1 can French-style beans (optional)",
-        "3 cups tomato juice",
-        "4 cups water",
-        "1 large can mushrooms",
-        "Salt, garlic pepper to taste",
-        "6 stalks celery, including leaves and tips",
-        "1 tsp lemon juice"
+        "2 lb ground beef",
+        "2 eggs",
+        "½ cup chopped onion",
+        "¾ cup bread crumbs",
+        "¼ tsp salt",
+        "¼ tsp garlic salt",
+        "½ tsp salt",
+        "¼ tsp ginger",
+        "¼ tsp dry mustard",
+        "2 Tbsp soya sauce",
+        "¼ cup vinegar",
+        "6 Tbsp brown sugar",
+        "6 Tbsp ketchup",
+        "2 Tbsp shortening",
+        "1 (10 oz) can crushed pineapple",
+        "1 cup water",
+        "2 Tbsp cornstarch"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Add all ingredients to a large pot."
+          "text": "Mix the meat mixture together and shape into balls."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook at low heat for 1½ hours."
+          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the meatballs from the pan and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
         }
       ],
-      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "cabbage-soup-106",
-      "score": 0.7456461767655196
+      "url": "hawaiian-meatballs-152",
+      "score": 0.7494982843559209
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cabbage Soup",
+      "name": "Sloppy Joe Squares",
       "author": {
         "@type": "Person",
-        "name": "Betty Glanville"
+        "name": "Deb (Finkbeiner) Lord"
       },
-      "description": "A hearty cabbage soup with vegetables and optional sweetener.",
-      "recipeCategory": "Soup",
+      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
-      "recipeYield": "6 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "8 servings",
       "recipeIngredient": [
-        "½ head cabbage",
-        "1 can French-style beans, drained",
-        "3 cups tomato juice",
-        "1 large can mushrooms",
-        "4 cups water",
-        "Salt, garlic pepper to taste",
-        "6 stalks celery leaves and tips",
-        "1 tsp lemon juice",
-        "1 Tbsp liquid sweetener (optional)"
+        "1 lb ground beef",
+        "1 small onion, minced",
+        "1/2 tsp Worcestershire sauce",
+        "3/4 cup ketchup",
+        "1 tsp salt",
+        "1/2 tsp pepper",
+        "1/4 tsp chili powder",
+        "2 Tbsp flour",
+        "2 packages Pillsbury crescent dinner rolls",
+        "Mozzarella cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Add all ingredients to a large pot."
+          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook at low heat for 1½ hours."
+          "text": "Blend in flour to thicken the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the beef mixture evenly over the layer of rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the beef mixture with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F until the crescent rolls are browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with a salad."
         }
       ],
-      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "keywords": "sloppy joe, casserole, crescent rolls, beef",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
       },
-      "url": "cabbage-soup-109",
-      "score": 0.7456461767655196
+      "url": "sloppy-joe-squares-185",
+      "score": 0.7473937079730877
     }
   ]
 }

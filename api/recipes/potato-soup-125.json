@@ -50,6 +50,7 @@
     "cookTime": "20 minutes",
     "totalTime": "40 minutes"
   },
+  "url": "potato-soup-125",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -97,7 +98,7 @@
         "totalTime": "2 hours 45 minutes"
       },
       "url": "cream-of-potato-soup-126",
-      "score": 0.7878808162481727
+      "score": 0.7904665763172285
     },
     {
       "@context": "https://schema.org/",
@@ -147,62 +148,7 @@
         "totalTime": "20 minutes"
       },
       "url": "creamy-broccoli-soup-112",
-      "score": 0.7782356722367559
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Richard's Sunday Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Richard MacGregor"
-      },
-      "description": "A rich and comforting soup featuring carrots, potatoes, and chicken stock.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 tsp sugar",
-        "5 large carrots",
-        "1 large potato",
-        "1 medium onion",
-        "1 Tbsp oil",
-        "2 to 3 cups chicken stock",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Peel and dice the carrots and potato. Combine diced onion and oil in a saucepan and cook over medium heat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the diced carrots and potato to the onion and cook for 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chicken stock and sugar. Cook for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat to simmer and cook for 10 to 15 minutes or until the vegetables are cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from heat and puree. Serve immediately with fresh bread."
-        }
-      ],
-      "keywords": "carrot soup, potato soup, chicken stock",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "richards-sunday-soup-121",
-      "score": 0.7730002063236108
+      "score": 0.7820328946461258
     },
     {
       "@context": "https://schema.org/",
@@ -263,7 +209,62 @@
         "totalTime": "2 hours 50 minutes"
       },
       "url": "french-onion-soup-115",
-      "score": 0.771026136599468
+      "score": 0.7664956236698193
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Richard's Sunday Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Richard MacGregor"
+      },
+      "description": "A rich and comforting soup featuring carrots, potatoes, and chicken stock.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 tsp sugar",
+        "5 large carrots",
+        "1 large potato",
+        "1 medium onion",
+        "1 Tbsp oil",
+        "2 to 3 cups chicken stock",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Peel and dice the carrots and potato. Combine diced onion and oil in a saucepan and cook over medium heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the diced carrots and potato to the onion and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and sugar. Cook for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to simmer and cook for 10 to 15 minutes or until the vegetables are cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from heat and puree. Serve immediately with fresh bread."
+        }
+      ],
+      "keywords": "carrot soup, potato soup, chicken stock",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "richards-sunday-soup-121",
+      "score": 0.7617901834236348
     },
     {
       "@context": "https://schema.org/",
@@ -315,7 +316,7 @@
         "totalTime": "50 minutes"
       },
       "url": "veggie-basic-soup-120",
-      "score": 0.7505486642201303
+      "score": 0.7466301971241138
     }
   ]
 }

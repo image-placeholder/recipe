@@ -57,6 +57,7 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
+  "url": "turkey-a-la-king-248",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -125,57 +126,7 @@
         "totalTime": "1 hour 15 minutes"
       },
       "url": "turkey-or-chicken-pies-251",
-      "score": 0.8138318713927883
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Stewing Beef Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Kelly Haines"
-      },
-      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 lb stewing beef",
-        "1 tsp salt",
-        "Dash pepper",
-        "1¼ cups diced potatoes",
-        "1¼ cups diced carrots",
-        "1 tsp sugar",
-        "2 Tbsp Minit Tapioca",
-        "½ cup diced onions",
-        "1 cup V8 juice",
-        "½ cup diced celery"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients lightly in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 250°F for 4 hours without uncovering."
-        }
-      ],
-      "keywords": "beef casserole, slow-cooked stew, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "stewing-beef-casserole-155",
-      "score": 0.7628955184308038
+      "score": 0.7995936166687929
     },
     {
       "@context": "https://schema.org/",
@@ -251,74 +202,7 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "score": 0.7557405836214633
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Pork Chop & Rice Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Bonnie McNutt"
-      },
-      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT2H",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "6 center cut pork chops",
-        "1 sliced tomato",
-        "1 cup brown rice",
-        "1 sliced onion",
-        "4 sliced green onions",
-        "1 green pepper, sliced in rings",
-        "1/2 lb sliced fresh mushrooms",
-        "1 1/2 cups beef broth or stock",
-        "Salt and pepper to taste",
-        "1 Tbsp minced garlic",
-        "4 oz margarine or butter"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put raw rice in the casserole pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour beef broth over the casserole and cover with foil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
-        }
-      ],
-      "keywords": "pork chop, rice, casserole, baked",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "2 hours"
-      },
-      "url": "pork-chop-rice-casserole-211",
-      "score": 0.7473980290453119
+      "score": 0.7614635592358969
     },
     {
       "@context": "https://schema.org/",
@@ -368,7 +252,111 @@
         "totalTime": "4 hours 20 minutes"
       },
       "url": "spaghetti-sauce-177",
-      "score": 0.7448636085003363
+      "score": 0.7597382258623966
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-187",
+      "score": 0.7597382258623966
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stewing Beef Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kelly Haines"
+      },
+      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 lb stewing beef",
+        "1 tsp salt",
+        "Dash pepper",
+        "1¼ cups diced potatoes",
+        "1¼ cups diced carrots",
+        "1 tsp sugar",
+        "2 Tbsp Minit Tapioca",
+        "½ cup diced onions",
+        "1 cup V8 juice",
+        "½ cup diced celery"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients lightly in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 250°F for 4 hours without uncovering."
+        }
+      ],
+      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "stewing-beef-casserole-155",
+      "score": 0.7597072409389852
     }
   ]
 }

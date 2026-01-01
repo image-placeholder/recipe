@@ -60,6 +60,7 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 10 minutes"
   },
+  "url": "turnip-casserole-150",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -268,75 +269,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Turkey or Chicken Pies",
-      "author": {
-        "@type": "Person",
-        "name": "Shirley Preszcator"
-      },
-      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT45M",
-      "cookTime": "PT30M",
-      "totalTime": "PT1H15M",
-      "recipeYield": "Multiple individual pies or 1 large pie",
-      "recipeIngredient": [
-        "½ cup margarine",
-        "1 tsp salt",
-        "1 Tbsp onion, chopped",
-        "1 cup flour",
-        "¼ tsp salt",
-        "1½ tsp baking powder",
-        "3 cups chicken or turkey broth",
-        "3 Tbsp butter",
-        "3 cups diced turkey or chicken",
-        "1 cup frozen peas",
-        "1 cup diced carrots",
-        "½ cup celery, chopped",
-        "⅓ cup milk"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté chopped onion and celery until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil carrots until thoroughly cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cooked carrots with peas and the sauce made earlier."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until the crust is golden brown."
-        }
-      ],
-      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
-      "_naturalized_times": {
-        "prepTime": "45 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "1 hour 15 minutes"
-      },
-      "url": "turkey-or-chicken-pies-251",
-      "score": 0.6875566346260729
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Hamburger Pie",
       "author": {
         "@type": "Person",
@@ -408,6 +340,52 @@
       },
       "url": "hamburger-pie-169",
       "score": 0.684069083991196
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheesy Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Pam Allen"
+      },
+      "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "1 loaf",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "¾ cup bread crumbs",
+        "1 beaten egg",
+        "½ cup chopped onions",
+        "¼ cup chopped green pepper",
+        "¼ cup ketchup",
+        "¾ tsp salt",
+        "1 cup cheese, cut into small cubes",
+        "⅛ tsp pepper",
+        "Chili sauce (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "meat loaf, cheesy, ground beef, baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "cheesy-meat-loaf-153",
+      "score": 0.6834395137988305
     }
   ]
 }

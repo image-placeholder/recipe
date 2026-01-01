@@ -58,7 +58,69 @@
     "cookTime": "35 minutes",
     "totalTime": "55 minutes"
   },
+  "url": "meat-balls-and-sour-and-sweet-sauce-160",
   "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "2 Tbsp chopped onion",
+        "½ cup cracker crumbs",
+        "1 Tbsp crushed garlic",
+        "¼ tsp pepper",
+        "1 egg",
+        "1½ tsp soya sauce",
+        "⅔ cup milk",
+        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Broil to brown on all sides, watching carefully."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 30 minutes"
+      },
+      "url": "sweet-sour-meatballs-161",
+      "score": 0.8480438384504189
+    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -126,68 +188,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "hawaiian-meatballs-152",
-      "score": 0.8377354850161157
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sweet & Sour Meatballs",
-      "author": {
-        "@type": "Person",
-        "name": "Sharon Allen"
-      },
-      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H30M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 lb lean ground beef",
-        "2 Tbsp chopped onion",
-        "½ cup cracker crumbs",
-        "1 Tbsp crushed garlic",
-        "¼ tsp pepper",
-        "1 egg",
-        "1½ tsp soya sauce",
-        "⅔ cup milk",
-        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Broil to brown on all sides, watching carefully."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place meatballs in a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
-        }
-      ],
-      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 30 minutes"
-      },
-      "url": "sweet-sour-meatballs-161",
-      "score": 0.8359155447430614
+      "score": 0.84043265908057
     },
     {
       "@context": "https://schema.org/",
@@ -265,92 +266,91 @@
         "totalTime": "1 hour 35 minutes"
       },
       "url": "jelly-roll-style-meat-loaf-154",
-      "score": 0.7693312741741707
+      "score": 0.7760510537555743
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheeseburger Meat Loaf",
+      "name": "Sweet and Sour Pineapple with Chicken and Ginger",
       "author": {
         "@type": "Person",
-        "name": "Lori Allen"
+        "name": "Dave MacLeod"
       },
-      "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
+      "description": "A classic sweet and sour dish featuring parboiled chicken legs in a tangy pineapple and ginger sauce, served over fried rice.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT1H15M",
-      "totalTime": "PT1H40M",
-      "recipeYield": "1 meatloaf",
+      "recipeCuisine": "Chinese-Canadian",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4-6 servings",
       "recipeIngredient": [
-        "1½ lb lean ground hamburger",
-        "½ tsp garlic salt",
-        "½ cup fine bread crumbs",
-        "1 tsp onion powder",
-        "1 egg",
-        "1 can (8 oz) tomato sauce",
-        "¼ cup parsley flakes",
-        "½ cup finely chopped onion",
+        "4 to 6 chicken legs",
+        "1 to 2 tsp ginger",
+        "1 Tbsp vegetable oil",
+        "1/2 cup chopped onions",
         "1 tsp salt",
-        "1 cup shredded cheddar cheese",
-        "⅛ tsp pepper",
-        "½ tsp seasoning salt",
-        "½ cup sweet pickle relish"
+        "1/4 cup sugar (white or brown)",
+        "1 cup celery slices",
+        "1/4 cup vinegar",
+        "1 can (10 oz) mushrooms, drained",
+        "1 chicken Oxo cube or pouch",
+        "1 1/2 cups hot water",
+        "1 can (19 oz) pineapple",
+        "1/4 cup cold water",
+        "4 tsp cornstarch",
+        "1/4 cup soya sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a mixing bowl, combine ground beef, egg, bread crumbs, garlic salt, onion powder, salt, pepper, and seasoning salt. Mix well."
+          "text": "Rinse and separate chicken legs at the joint. Parboil for 15 to 20 minutes to remove excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix chopped onion and tomato sauce together in a separate bowl."
+          "text": "Saute onions and celery in vegetable oil until tender. Add drained mushrooms and cook briefly."
         },
         {
           "@type": "HowToStep",
-          "text": "Add half of the tomato sauce and onion mixture to the beef mixture and mix well."
+          "text": "Dissolve chicken Oxo cube in hot water. Add soya sauce, ginger, salt, sugar, and vinegar. Bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Pack half of the beef mixture into a loaf pan."
+          "text": "Mix cornstarch with cold water until smooth. Pour into boiling sauce and stir frequently until thickened."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese and sweet pickle relish evenly over the top."
+          "text": "Add drained pineapple to the sauce. Adjust seasoning with pineapple juice if desired."
         },
         {
           "@type": "HowToStep",
-          "text": "Pack the remaining beef mixture on top and press firmly."
+          "text": "Lay parboiled chicken pieces in a greased casserole dish. Pour sauce over the chicken."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in a preheated oven at 350°F for 1 hour."
+          "text": "Bake at 350°F for 20 to 25 minutes until bubbling.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT20M"
         },
         {
           "@type": "HowToStep",
-          "text": "Carefully spoon off excess fat from the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the remaining tomato sauce and onion mixture over the meatloaf."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
+          "text": "Serve over Chicken Vegetable Fried Rice."
         }
       ],
-      "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
+      "keywords": "sweet and sour chicken, pineapple chicken, ginger sauce",
       "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "1 hour 15 minutes",
-        "totalTime": "1 hour 40 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "cheeseburger-meat-loaf-157",
-      "score": 0.7690272947920683
+      "url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
+      "score": 0.7669867301584675
     },
     {
       "@context": "https://schema.org/",
@@ -415,7 +415,7 @@
         "totalTime": "35 minutes"
       },
       "url": "nacho-salad-73",
-      "score": 0.7650028671002161
+      "score": 0.7620047976712374
     }
   ]
 }

@@ -52,6 +52,7 @@
     "cookTime": "15 minutes",
     "totalTime": "25 minutes"
   },
+  "url": "mushroom-soup-113",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -102,7 +103,142 @@
         "totalTime": "25 minutes"
       },
       "url": "chicken-and-broccoli-234",
-      "score": 0.8079934016213813
+      "score": 0.8166398840660728
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stuffed Mushrooms",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A savory appetizer of mushroom caps filled with a creamy mixture of bacon, cream cheese, and Parmesan.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "15 to 20 stuffed mushrooms",
+      "recipeIngredient": [
+        "15 to 20 large mushrooms, stems removed",
+        "3 slices bacon, cooked and crumbled",
+        "¼ pkg cream cheese",
+        "¼ cup Parmesan cheese",
+        "1 tsp Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the crumbled bacon, cream cheese, Parmesan cheese, and Worcestershire sauce together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stuff the mixture into the mushroom caps."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes."
+        }
+      ],
+      "keywords": "stuffed mushrooms, appetizer, bacon, cream cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "stuffed-mushrooms-32",
+      "score": 0.7548259176384895
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 Tbsp liquid sweetener",
+        "½ head cabbage",
+        "1 can French-style beans (optional)",
+        "3 cups tomato juice",
+        "4 cups water",
+        "1 large can mushrooms",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery, including leaves and tips",
+        "1 tsp lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "cabbage-soup-106",
+      "score": 0.7544215940196194
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and optional sweetener.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "½ head cabbage",
+        "1 can French-style beans, drained",
+        "3 cups tomato juice",
+        "1 large can mushrooms",
+        "4 cups water",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery leaves and tips",
+        "1 tsp lemon juice",
+        "1 Tbsp liquid sweetener (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "cabbage-soup-109",
+      "score": 0.7544215940196194
     },
     {
       "@context": "https://schema.org/",
@@ -159,162 +295,7 @@
         "totalTime": "25 minutes"
       },
       "url": "ginger-noodle-soup-114",
-      "score": 0.7693254671886748
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cabbage Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Betty Glanville"
-      },
-      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 Tbsp liquid sweetener",
-        "½ head cabbage",
-        "1 can French-style beans (optional)",
-        "3 cups tomato juice",
-        "4 cups water",
-        "1 large can mushrooms",
-        "Salt, garlic pepper to taste",
-        "6 stalks celery, including leaves and tips",
-        "1 tsp lemon juice"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Add all ingredients to a large pot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook at low heat for 1½ hours."
-        }
-      ],
-      "keywords": "cabbage soup, vegetable soup, hearty soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
-      },
-      "url": "cabbage-soup-106",
-      "score": 0.7615236469531819
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cabbage Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Betty Glanville"
-      },
-      "description": "A hearty cabbage soup with vegetables and optional sweetener.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "½ head cabbage",
-        "1 can French-style beans, drained",
-        "3 cups tomato juice",
-        "1 large can mushrooms",
-        "4 cups water",
-        "Salt, garlic pepper to taste",
-        "6 stalks celery leaves and tips",
-        "1 tsp lemon juice",
-        "1 Tbsp liquid sweetener (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Add all ingredients to a large pot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook at low heat for 1½ hours."
-        }
-      ],
-      "keywords": "cabbage soup, vegetable soup, hearty soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
-      },
-      "url": "cabbage-soup-109",
-      "score": 0.7615236469531819
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chinese Hamburger Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Meredith Mary"
-      },
-      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "Chinese-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "6 to 8 servings",
-      "recipeIngredient": [
-        "1 lb hamburger",
-        "½ cup warm water",
-        "½ cup uncooked rice",
-        "2 medium onions, chopped",
-        "1 cup sliced celery",
-        "1 can cream of mushroom soup",
-        "1 can cream of chicken soup (optional)",
-        "1 can mushrooms, drained",
-        "¼ cup soya sauce",
-        "¼ tsp pepper",
-        "1 tsp salt",
-        "1 cup bean sprouts (optional)",
-        "1 handful chow mein noodles"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add bean sprouts if using for a more authentic taste."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
-        }
-      ],
-      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "url": "chinese-hamburger-casserole-174",
-      "score": 0.7593092239751094
+      "score": 0.7541791767613613
     }
   ]
 }

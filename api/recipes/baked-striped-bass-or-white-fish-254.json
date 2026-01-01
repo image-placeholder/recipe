@@ -73,6 +73,7 @@
     "cookTime": "40 minutes",
     "totalTime": "1 hour"
   },
+  "url": "baked-striped-bass-or-white-fish-254",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -136,7 +137,7 @@
         "totalTime": "32 minutes"
       },
       "url": "crab-stuffed-mushrooms-46",
-      "score": 0.6186612993783212
+      "score": 0.6064575209526266
     },
     {
       "@context": "https://schema.org/",
@@ -203,63 +204,56 @@
         "totalTime": "2 hours"
       },
       "url": "pork-chop-rice-casserole-211",
-      "score": 0.5957920049227794
+      "score": 0.5976553840881108
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meat and Potato Casserole",
+      "name": "Salmon Dip",
       "author": {
         "@type": "Person",
-        "name": "Martine Bercier"
+        "name": "Jo Anne Pickering"
       },
-      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
-      "recipeCategory": "Casserole",
+      "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "1 8L casserole",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
       "recipeIngredient": [
-        "½ lb lean ground beef",
-        "1 onion",
-        "1 clove garlic",
-        "6 medium potatoes, peeled and sliced",
-        "1 envelope (50g) gravy mix",
-        "2½ cups water",
-        "2 cups corn",
-        "Salt and pepper to taste"
+        "1 (8 oz) package cream cheese, softened",
+        "1 can red salmon",
+        "1 tsp garlic powder or 1 fresh garlic clove, minced",
+        "2 tsp lemon juice",
+        "2 Tbsp onion, minced",
+        "1 Tbsp fresh or dry parsley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+          "text": "Drain the salmon and remove any bones."
         },
         {
           "@type": "HowToStep",
-          "text": "Layer sliced potatoes in an 8L casserole dish."
+          "text": "Use a fork to flake the salmon before adding other ingredients."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+          "text": "Combine the softened cream cheese with the salmon and all remaining ingredients."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with corn and the browned meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and cook at 350°F for 50 minutes."
+          "text": "Mix well and serve with crackers or as a spread."
         }
       ],
-      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "keywords": "salmon dip, salmon spread, red salmon",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
       },
-      "url": "meat-and-potato-casserole-159",
-      "score": 0.5774483436501084
+      "url": "salmon-dip-9",
+      "score": 0.5802347432265526
     },
     {
       "@context": "https://schema.org/",
@@ -326,56 +320,57 @@
         "totalTime": "1 hour 30 minutes"
       },
       "url": "hearty-chicken-pot-pie-250",
-      "score": 0.5696299245831152
+      "score": 0.5755212440296348
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Salmon Dip",
+      "name": "Coleslaw Chalet Dressing",
       "author": {
         "@type": "Person",
-        "name": "Jo Anne Pickering"
+        "name": "Ruth Haines"
       },
-      "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
-      "recipeCategory": "Appetizer",
+      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
       "recipeIngredient": [
-        "1 (8 oz) package cream cheese, softened",
-        "1 can red salmon",
-        "1 tsp garlic powder or 1 fresh garlic clove, minced",
-        "2 tsp lemon juice",
-        "2 Tbsp onion, minced",
-        "1 Tbsp fresh or dry parsley"
+        "1 (medium size) head cabbage, shredded",
+        "2 carrots, finely chopped",
+        "1 Spanish onion, minced",
+        "3 stalks celery, finely chopped",
+        "¾ cup white sugar",
+        "¾ cup salad oil",
+        "1 cup white vinegar",
+        "2 tsp salt",
+        "1 tsp celery seed",
+        "1 Green pepper, finely chopped"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Drain the salmon and remove any bones."
+          "text": "Bring all dressing ingredients to a boil and let cool."
         },
         {
           "@type": "HowToStep",
-          "text": "Use a fork to flake the salmon before adding other ingredients."
+          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine the softened cream cheese with the salmon and all remaining ingredients."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix well and serve with crackers or as a spread."
+          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
         }
       ],
-      "keywords": "salmon dip, salmon spread, red salmon",
+      "keywords": "coleslaw, chalet dressing, salad",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "salmon-dip-9",
-      "score": 0.5689998898476466
+      "url": "coleslaw-chalet-dressing-57",
+      "score": 0.5719929919775536
     }
   ]
 }

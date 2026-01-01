@@ -48,64 +48,8 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "url": "hamburg-noodle-casserole-172",
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Potato Casserole",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Heather Clarke"
-        },
-        {
-          "@type": "Person",
-          "name": "M. Leanne Kenney"
-        }
-      ],
-      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 (2 lb) bag frozen hash browns",
-        "1 can cream of celery soup",
-        "1 can cream of mushroom soup",
-        "500 mL sour cream",
-        "1 cup grated cheese",
-        "¼ cup diced onions"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together in a shallow pan until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT1H"
-        }
-      ],
-      "keywords": "potato casserole, hash browns, creamy, cheesy",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "url": "potato-casserole-141",
-      "score": 0.8380086452363641
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -171,7 +115,64 @@
         "totalTime": "40 minutes"
       },
       "url": "noodles-with-hamburg-166",
-      "score": 0.8149121335071556
+      "score": 0.826308539126177
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Potato Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Heather Clarke"
+        },
+        {
+          "@type": "Person",
+          "name": "M. Leanne Kenney"
+        }
+      ],
+      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 (2 lb) bag frozen hash browns",
+        "1 can cream of celery soup",
+        "1 can cream of mushroom soup",
+        "500 mL sour cream",
+        "1 cup grated cheese",
+        "¼ cup diced onions"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a shallow pan until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
+        }
+      ],
+      "keywords": "potato casserole, hash browns, creamy, cheesy",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "potato-casserole-141",
+      "score": 0.8143314418050955
     },
     {
       "@context": "https://schema.org/",
@@ -236,7 +237,7 @@
         "totalTime": "1 hour 20 minutes"
       },
       "url": "chinese-hamburger-casserole-174",
-      "score": 0.8119889114858935
+      "score": 0.8070068591131476
     },
     {
       "@context": "https://schema.org/",
@@ -306,7 +307,7 @@
         "totalTime": "50 minutes"
       },
       "url": "spaghetti-casserole-178",
-      "score": 0.8076934514385627
+      "score": 0.8061968478757356
     },
     {
       "@context": "https://schema.org/",
@@ -375,7 +376,7 @@
         "totalTime": "50 minutes"
       },
       "url": "macaroni-casserole-175",
-      "score": 0.7972893326401121
+      "score": 0.7917526490916367
     }
   ]
 }

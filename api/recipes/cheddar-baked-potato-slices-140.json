@@ -61,6 +61,7 @@
     "cookTime": "55 minutes",
     "totalTime": "1 hour 10 minutes"
   },
+  "url": "cheddar-baked-potato-slices-140",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -108,7 +109,7 @@
         "totalTime": "2 hours 45 minutes"
       },
       "url": "cream-of-potato-soup-126",
-      "score": 0.7580336243452241
+      "score": 0.7464062663824553
     },
     {
       "@context": "https://schema.org/",
@@ -159,7 +160,7 @@
         "totalTime": "8 hours 20 minutes"
       },
       "url": "ham-potato-casserole-209",
-      "score": 0.7273260836368787
+      "score": 0.7408715601671247
     },
     {
       "@context": "https://schema.org/",
@@ -216,7 +217,72 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "sliced-baked-potatoes-138",
-      "score": 0.7244737351053516
+      "score": 0.7211595865995163
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Swedish Potatoes",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "10-12 servings",
+      "recipeIngredient": [
+        "12 large potatoes",
+        "2 slightly beaten eggs",
+        "1 cup sour cream",
+        "1 tsp salt",
+        "¾ cup bread crumbs",
+        "2 Tbsp butter",
+        "1¼ tsp butter",
+        "1 (8 oz) package cream cheese",
+        "2 tsp onion salt or chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook and mash the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dot the top with butter and sprinkle with bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, covered, at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
+        }
+      ],
+      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "swedish-potatoes-137",
+      "score": 0.6869633555409941
     },
     {
       "@context": "https://schema.org/",
@@ -273,64 +339,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "potato-casserole-141",
-      "score": 0.6942772031082038
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mushroom Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 Tbsp butter",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 cups sliced mushrooms",
-        "1/4 cup flour",
-        "2 cups stock (chicken or vegetable)",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "3 cups milk"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute butter, onion, garlic and mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add flour and stir together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, sauces and milk."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer until heated through (approximately 15 minutes)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
-        }
-      ],
-      "keywords": "mushroom soup, creamy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "mushroom-soup-113",
-      "score": 0.6934315107413918
+      "score": 0.6841726745583905
     }
   ]
 }

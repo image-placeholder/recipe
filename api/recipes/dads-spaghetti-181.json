@@ -58,6 +58,7 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
+  "url": "dads-spaghetti-181",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -127,7 +128,64 @@
         "totalTime": "50 minutes"
       },
       "url": "spaghetti-casserole-178",
-      "score": 0.7608229691576848
+      "score": 0.7669544106084165
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mushroom Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp butter",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 cups sliced mushrooms",
+        "1/4 cup flour",
+        "2 cups stock (chicken or vegetable)",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "3 cups milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute butter, onion, garlic and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, sauces and milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until heated through (approximately 15 minutes)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "mushroom soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "mushroom-soup-113",
+      "score": 0.7394600808289474
     },
     {
       "@context": "https://schema.org/",
@@ -204,7 +262,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "baked-spaghetti-and-meatballs-176",
-      "score": 0.7344821169515425
+      "score": 0.7343133541358918
     },
     {
       "@context": "https://schema.org/",
@@ -255,127 +313,65 @@
         "totalTime": "25 minutes"
       },
       "url": "chicken-and-broccoli-234",
-      "score": 0.7248748198483611
+      "score": 0.722900904487128
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Mushroom Soup",
+      "name": "Zippy Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
+        "name": "Kate Cunningham"
       },
-      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
+      "description": "A flavorful and spicy spaghetti sauce with sausage, hamburger, and taco seasoning.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Several servings",
       "recipeIngredient": [
-        "3 Tbsp butter",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 cups sliced mushrooms",
-        "1/4 cup flour",
-        "2 cups stock (chicken or vegetable)",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "3 cups milk"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute butter, onion, garlic and mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add flour and stir together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, sauces and milk."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer until heated through (approximately 15 minutes)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
-        }
-      ],
-      "keywords": "mushroom soup, creamy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "mushroom-soup-113",
-      "score": 0.7176106111470746
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mozzarella Spaghetti Skillet",
-      "author": {
-        "@type": "Person",
-        "name": "Yvonne Lotz"
-      },
-      "description": "A one-pot spaghetti dish cooked with hamburger, tomatoes, and mozzarella cheese.",
-      "recipeCategory": "Pasta",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT20M",
-      "totalTime": "PT30M",
-      "recipeYield": "4 to 6 servings",
-      "recipeIngredient": [
-        "1 lb hamburger",
-        "½ cup chopped onion",
-        "½ cup chopped green pepper",
-        "3 splashes Worcestershire sauce",
+        "1 lb lean ground hamburger",
+        "2 jumbo summer sausage slices",
+        "1/2 onion, chopped",
+        "1 tsp garlic",
+        "1 tsp oregano flakes",
         "1 tsp salt",
-        "½ tsp oregano",
-        "½ tsp black pepper",
-        "½ can water",
-        "1 (796 mL) can tomatoes",
-        "1½ cups shredded mozzarella cheese",
-        "Broken spaghetti to feed your family"
+        "1/4 tsp pepper",
+        "1 envelope regular taco seasoning (El Paso)",
+        "1 jar Ragu spaghetti sauce (700 mL)",
+        "1 can sliced mushrooms, drained"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In an electric skillet, brown the hamburger, onion, and green peppers."
+          "text": "Brown the hamburger and chopped onion."
         },
         {
           "@type": "HowToStep",
-          "text": "Season with Worcestershire sauce, salt, black pepper, and oregano."
+          "text": "Add garlic, oregano, salt, pepper, and taco seasoning."
         },
         {
           "@type": "HowToStep",
-          "text": "Add tomatoes, water, and broken spaghetti to the skillet."
+          "text": "Chop the summer sausage into 1/4 inch pieces and add to the mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover and bring to a boil, stirring frequently to prevent the spaghetti from sticking."
+          "text": "Add the Ragu spaghetti sauce and drained mushrooms."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer until the pasta is cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shortly before serving, add shredded mozzarella cheese and continue heating until melted."
+          "text": "Simmer for 10 minutes."
         }
       ],
-      "keywords": "spaghetti skillet, one-pot pasta, mozzarella cheese",
+      "keywords": "spaghetti sauce, zippy sauce, sausage, taco seasoning",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "30 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "mozzarella-spaghetti-skillet-182",
-      "score": 0.7050645094562171
+      "url": "zippy-spaghetti-sauce-188",
+      "score": 0.6982600030169773
     }
   ]
 }

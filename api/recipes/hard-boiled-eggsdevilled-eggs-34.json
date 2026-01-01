@@ -66,6 +66,7 @@
     "cookTime": "15 minutes",
     "totalTime": "35 minutes"
   },
+  "url": "hard-boiled-eggsdevilled-eggs-34",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -117,7 +118,7 @@
         "totalTime": null
       },
       "url": "pickled-eggs-35",
-      "score": 0.7388977414802235
+      "score": 0.757696220395948
     },
     {
       "@context": "https://schema.org/",
@@ -170,7 +171,7 @@
         "totalTime": "15 minutes"
       },
       "url": "plain-pickled-eggs-30",
-      "score": 0.7084268897506768
+      "score": 0.7326421970744247
     },
     {
       "@context": "https://schema.org/",
@@ -228,71 +229,7 @@
         "totalTime": "20 minutes"
       },
       "url": "fancy-pickled-eggs-31",
-      "score": 0.6788756209816056
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken with a Chinese Accent",
-      "author": {
-        "@type": "Person",
-        "name": "Suzanne Finkbeiner"
-      },
-      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Chinese-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT35M",
-      "totalTime": "PT50M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "6 boneless, skinless chicken breasts",
-        "1 can cream of mushroom soup",
-        "15 mL oil",
-        "50 mL vinegar",
-        "50 mL soya sauce",
-        "125 mL brown sugar",
-        "1 finely chopped onion"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the chicken to a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for 35 minutes at 350°F.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT35M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the chicken with rice."
-        }
-      ],
-      "keywords": "Chinese chicken, sweet and savory, baked chicken",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "chicken-with-a-chinese-accent-245",
-      "score": 0.649475976603614
+      "score": 0.7051529527870377
     },
     {
       "@context": "https://schema.org/",
@@ -344,7 +281,50 @@
         "totalTime": "10 minutes"
       },
       "url": "vegetable-dip-17",
-      "score": 0.6394131040195236
+      "score": 0.6548111980107624
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "vegetable-dip-18",
+      "score": 0.6548111980107624
     }
   ]
 }

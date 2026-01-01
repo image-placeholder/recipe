@@ -45,101 +45,8 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
+  "url": "pepper-chicken-fettucini-236",
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Fajitas",
-      "author": {
-        "@type": "Person",
-        "name": "Valorie (Finkbeiner) Mullin"
-      },
-      "description": "A flavorful Mexican-inspired dish featuring stir-fried chicken, peppers, and onions, served with tortillas and various toppings.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 green pepper, cut into strips",
-        "2 Tbsp chopped parsley",
-        "1 onion, chopped",
-        "Flour tortillas (soft)",
-        "1 tsp ground cumin",
-        "1 cup shredded cheese",
-        "1 tsp chili powder",
-        "Guacamole (see appetizers)",
-        "½ cup Catalina dressing",
-        "Salsa",
-        "4 boneless, skinless chicken breasts, cut into strips",
-        "Sour cream"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry the vegetables and chicken over high heat until the chicken is cooked through with spices."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add Catalina dressing and heat through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in parsley."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve wrapped in flour tortillas with shredded cheese, salsa, sour cream, and guacamole as garnishes."
-        }
-      ],
-      "keywords": "chicken fajitas, Mexican dish, stir-fry",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "chicken-fajitas-226",
-      "score": 0.7674825652662155
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Fajitas",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A classic Tex-Mex dish featuring chicken, sautéed peppers and onions, served with tortillas, cheese, and various toppings.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 green pepper, cut in strips",
-        "2 Tbsp parsley, chopped",
-        "1 onion, chopped",
-        "Flour tortillas (soft)",
-        "1 tsp ground cumin",
-        "1 cup shredded cheese",
-        "1 tsp chili powder",
-        "Guacamole (see appetizers)",
-        "Salsa",
-        "4 boneless chicken breasts",
-        "Sour cream"
-      ],
-      "recipeInstructions": [],
-      "keywords": "chicken fajitas, Tex-Mex, Mexican-American",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "chicken-fajitas-228",
-      "score": 0.7674825652662155
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -212,60 +119,101 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.7550393169230989
+      "score": 0.7579302608788162
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Caribbean Chicken Salad",
+      "name": "Chicken Fajitas",
       "author": {
         "@type": "Person",
-        "name": "Chris Dinney"
+        "name": "Valorie (Finkbeiner) Mullin"
       },
-      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Caribbean-inspired",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
+      "description": "A flavorful Mexican-inspired dish featuring stir-fried chicken, peppers, and onions, served with tortillas and various toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
       "totalTime": "PT25M",
-      "recipeYield": "Multiple servings",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1½ cups Minute Rice",
-        "1½ cups chicken broth",
-        "2 cups cut up chicken breast",
-        "1 green pepper, diced",
-        "1 small red onion, chopped fine",
-        "1 mango, thinly sliced",
-        "1 small can pineapple, diced and drained",
-        "2 celery stalks, diced",
-        "⅓ cup Kraft Italian dressing"
+        "1 green pepper, cut into strips",
+        "2 Tbsp chopped parsley",
+        "1 onion, chopped",
+        "Flour tortillas (soft)",
+        "1 tsp ground cumin",
+        "1 cup shredded cheese",
+        "1 tsp chili powder",
+        "Guacamole (see appetizers)",
+        "½ cup Catalina dressing",
+        "Salsa",
+        "4 boneless, skinless chicken breasts, cut into strips",
+        "Sour cream"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the Minute Rice in chicken broth according to package instructions."
+          "text": "Stir-fry the vegetables and chicken over high heat until the chicken is cooked through with spices."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook the chicken breast meat in a little oil until fully cooked."
+          "text": "Add Catalina dressing and heat through."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
+          "text": "Stir in parsley."
         },
         {
           "@type": "HowToStep",
-          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
+          "text": "Serve wrapped in flour tortillas with shredded cheese, salsa, sour cream, and guacamole as garnishes."
         }
       ],
-      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+      "keywords": "chicken fajitas, Mexican dish, stir-fry",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "caribbean-chicken-salad-70",
-      "score": 0.7314513590467274
+      "url": "chicken-fajitas-226",
+      "score": 0.753125807726339
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Fajitas",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A classic Tex-Mex dish featuring chicken, sautéed peppers and onions, served with tortillas, cheese, and various toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 green pepper, cut in strips",
+        "2 Tbsp parsley, chopped",
+        "1 onion, chopped",
+        "Flour tortillas (soft)",
+        "1 tsp ground cumin",
+        "1 cup shredded cheese",
+        "1 tsp chili powder",
+        "Guacamole (see appetizers)",
+        "Salsa",
+        "4 boneless chicken breasts",
+        "Sour cream"
+      ],
+      "recipeInstructions": [],
+      "keywords": "chicken fajitas, Tex-Mex, Mexican-American",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "chicken-fajitas-228",
+      "score": 0.753125807726339
     },
     {
       "@context": "https://schema.org/",
@@ -334,7 +282,60 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "creamy-chicken-stew-252",
-      "score": 0.7294193406875699
+      "score": 0.72782378269364
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caribbean Chicken Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Caribbean-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1½ cups chicken broth",
+        "2 cups cut up chicken breast",
+        "1 green pepper, diced",
+        "1 small red onion, chopped fine",
+        "1 mango, thinly sliced",
+        "1 small can pineapple, diced and drained",
+        "2 celery stalks, diced",
+        "⅓ cup Kraft Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the Minute Rice in chicken broth according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chicken breast meat in a little oil until fully cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
+        }
+      ],
+      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "caribbean-chicken-salad-70",
+      "score": 0.7228987842568726
     }
   ]
 }

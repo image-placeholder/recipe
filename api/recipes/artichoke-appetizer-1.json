@@ -59,7 +59,59 @@
     "cookTime": "25 minutes",
     "totalTime": "35 minutes"
   },
+  "url": "artichoke-appetizer-1",
   "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Green Beans and Artichokes",
+      "author": {
+        "@type": "Person",
+        "name": "Loma Finkbeiner"
+      },
+      "description": "A savory side dish featuring green beans and artichoke hearts mixed with garlic, onion, and Romano cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 (14 oz) can artichokes, drained and quartered",
+        "1 finely chopped onion",
+        "1 clove garlic, minced",
+        "¼ cup olive oil",
+        "½ cup freshly grated Romano cheese",
+        "½ cup Italian bread crumbs",
+        "1 (10 oz) pkg frozen french-style green beans, cooked and drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion and garlic in olive oil until the onion is softened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in bread crumbs and cook until they absorb the oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add green beans, artichoke hearts, and cheese. Combine thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat slowly to soften the cheese. Season with salt and pepper to taste."
+        }
+      ],
+      "keywords": "green beans, artichokes, Romano cheese, side dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "green-beans-and-artichokes-131",
+      "score": 0.672648738989294
+    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -125,58 +177,7 @@
         "totalTime": "40 minutes"
       },
       "url": "noodles-with-hamburg-166",
-      "score": 0.6690526480214052
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Green Beans and Artichokes",
-      "author": {
-        "@type": "Person",
-        "name": "Loma Finkbeiner"
-      },
-      "description": "A savory side dish featuring green beans and artichoke hearts mixed with garlic, onion, and Romano cheese.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 (14 oz) can artichokes, drained and quartered",
-        "1 finely chopped onion",
-        "1 clove garlic, minced",
-        "¼ cup olive oil",
-        "½ cup freshly grated Romano cheese",
-        "½ cup Italian bread crumbs",
-        "1 (10 oz) pkg frozen french-style green beans, cooked and drained"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the onion and garlic in olive oil until the onion is softened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in bread crumbs and cook until they absorb the oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add green beans, artichoke hearts, and cheese. Combine thoroughly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat slowly to soften the cheese. Season with salt and pepper to taste."
-        }
-      ],
-      "keywords": "green beans, artichokes, Romano cheese, side dish",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "green-beans-and-artichokes-131",
-      "score": 0.6687250680757686
+      "score": 0.669355525176132
     },
     {
       "@context": "https://schema.org/",
@@ -226,7 +227,7 @@
         "totalTime": "4 hours 20 minutes"
       },
       "url": "spaghetti-sauce-177",
-      "score": 0.6608254389777655
+      "score": 0.6654151143339574
     },
     {
       "@context": "https://schema.org/",
@@ -280,81 +281,52 @@
         "totalTime": "2 hours 20 minutes"
       },
       "url": "spaghetti-sauce-187",
-      "score": 0.6608254389777655
+      "score": 0.6654151143339574
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sloppy Joe Squares",
+      "name": "Shrimp Spread",
       "author": {
         "@type": "Person",
-        "name": "Deb (Finkbeiner) Lord"
+        "name": "Janet Dearing"
       },
-      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
-      "recipeCategory": "Main Course",
+      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "8 servings",
+      "prepTime": "PT15M",
+      "recipeYield": "1 bowl",
       "recipeIngredient": [
-        "1 lb ground beef",
-        "1 small onion, minced",
-        "1/2 tsp Worcestershire sauce",
-        "3/4 cup ketchup",
-        "1 tsp salt",
-        "1/2 tsp pepper",
-        "1/4 tsp chili powder",
-        "2 Tbsp flour",
-        "2 packages Pillsbury crescent dinner rolls",
-        "Mozzarella cheese"
+        "1 can shrimp cocktail",
+        "3 green onions, finely chopped",
+        "1 tsp garlic powder",
+        "1 (8 oz) package cream cheese, softened",
+        "1 tsp Worcestershire sauce",
+        "1½ cups shredded cheddar cheese",
+        "Miracle Whip (as needed for consistency)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
+          "text": "Mix all ingredients together in a medium bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Blend in flour to thicken the mixture."
+          "text": "Mash the shrimp with a fork until well blended."
         },
         {
           "@type": "HowToStep",
-          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the beef mixture evenly over the layer of rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the beef mixture with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F until the crescent rolls are browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with a salad."
+          "text": "Refrigerate before serving with crackers."
         }
       ],
-      "keywords": "sloppy joe, casserole, crescent rolls, beef",
+      "keywords": "shrimp spread, seafood dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": null,
+        "totalTime": null
       },
-      "url": "sloppy-joe-squares-185",
-      "score": 0.6466560594889277
+      "url": "shrimp-spread-10",
+      "score": 0.6414748696950207
     }
   ]
 }

@@ -39,6 +39,7 @@
     "cookTime": "",
     "totalTime": "15 minutes"
   },
+  "url": "club-salad-68",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -110,57 +111,72 @@
         "totalTime": "2 hours 15 minutes"
       },
       "url": "bacon-broccoli-salad-63",
-      "score": 0.776784423815929
+      "score": 0.7591815879740977
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pasta Salad",
+      "name": "Nacho Salad",
       "author": {
         "@type": "Person",
-        "name": "Lorie Van Valkengoed"
+        "name": "Martine Bercier"
       },
-      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "description": "A spicy nacho salad with ground beef, lettuce, tomatoes, and nacho chips, topped with a creamy dressing.",
       "recipeCategory": "Salad",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "½ bag penne or spiral pasta",
-        "1 green pepper, chopped",
-        "2 tomatoes, chopped",
-        "3 green onions, chopped",
-        "½ can black olives, sliced",
-        "1½ lb feta cheese, crumbled",
-        "1 bottle Classic Herb dressing"
+        "1/2 romaine lettuce, shredded",
+        "1/4 lb lean ground beef",
+        "1/2 onion, chopped",
+        "1 clove garlic, crushed",
+        "1/2 cup Monterey Jack cheese (or mozzarella), shredded",
+        "1/2 cup nacho chips, lightly crushed",
+        "2 tomatoes, coarsely diced",
+        "1/2 tsp cayenne pepper",
+        "1/4 cup mayonnaise",
+        "1 tsp relish",
+        "1 Tbsp ketchup",
+        "2 drops hot pepper sauce (Tabasco)",
+        "1/4 cup water"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the pasta according to package instructions, then drain and cool."
+          "text": "Brown the ground beef with onion and garlic. Drain excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+          "text": "Add spices and water to the beef mixture. Bring to a boil, then simmer for 15 minutes. Let cool for 10 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Crumble the feta cheese into the pasta mixture."
+          "text": "In a large salad bowl, mix together the shredded lettuce, diced tomatoes, shredded cheese, and crushed nacho chips."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+          "text": "In a separate bowl, mix the mayonnaise, relish, ketchup, and hot pepper sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad and add the cooled meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad to combine all ingredients and serve."
         }
       ],
-      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "keywords": "nacho salad, spicy salad, ground beef salad",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
       },
-      "url": "pasta-salad-85",
-      "score": 0.7426872769844236
+      "url": "nacho-salad-73",
+      "score": 0.7387182949402309
     },
     {
       "@context": "https://schema.org/",
@@ -213,59 +229,7 @@
         "totalTime": "25 minutes"
       },
       "url": "caribbean-chicken-salad-70",
-      "score": 0.7426738449213437
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Strawberry Tossed Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Donelda Lewis"
-      },
-      "description": "A fresh and fruity salad with mixed greens, strawberries, and a sweet vinaigrette.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeYield": "4-6 servings",
-      "recipeIngredient": [
-        "4 cups torn Bibb or Boston lettuce",
-        "8 cups torn romaine lettuce",
-        "2½ cups sliced fresh strawberries",
-        "1 cup (4 oz) shredded Monterey Jack cheese",
-        "½ cup slivered almonds, toasted or coated with sugar",
-        "½ cup vegetable oil",
-        "⅓ cup white sugar",
-        "¼ cup cider or red wine vinegar",
-        "1 garlic clove, minced",
-        "¼ tsp salt",
-        "¼ tsp paprika",
-        "Pinch white pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine the first 7 ingredients (oil, sugar, vinegar, garlic, salt, paprika, and white pepper) in a jar with a tight-fitting lid and shake well to make the dressing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Just before serving, toss salad greens, strawberries, cheese, and almonds in a large salad bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drizzle with the prepared dressing and toss to coat."
-        }
-      ],
-      "keywords": "strawberry salad, fruit salad, sweet salad dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
-      },
-      "url": "strawberry-tossed-salad-96",
-      "score": 0.7365265986440601
+      "score": 0.737675240513816
     },
     {
       "@context": "https://schema.org/",
@@ -311,7 +275,75 @@
         "totalTime": "5 minutes"
       },
       "url": "caesar-dressin-salad-101",
-      "score": 0.7364987483528432
+      "score": 0.7346699948485768
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caesar Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A classic Caesar salad recipe with romaine lettuce, crumbled bacon, croutons, and a homemade dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 romaine lettuce",
+        "6 slices bacon, cooked and crumbled",
+        "1 tsp wine vinegar",
+        "½ tsp Worcestershire sauce",
+        "2 shakes Tabasco sauce",
+        "Croutons",
+        "1 egg",
+        "1 tsp capers (optional)",
+        "3 to 4 mashed anchovies",
+        "Dressing (keeps 2 days):",
+        "⅓ cup olive oil",
+        "1 clove garlic, minced",
+        "2 Tbsp lemon",
+        "½ tsp dry mustard",
+        "¼ tsp salt and pepper",
+        "2 Tbsp Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Rub salad bowl with garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wash and tear lettuce. Dry in a tea towel."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place lettuce in bowl with bacon and croutons."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend dressing ingredients together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over salad and toss until leaves are coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with freshly grated Parmesan."
+        }
+      ],
+      "keywords": "Caesar salad, bacon, croutons, homemade dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "caesar-salad-59",
+      "score": 0.7286011056961984
     }
   ]
 }

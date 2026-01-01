@@ -52,6 +52,7 @@
     "cookTime": "30 minutes",
     "totalTime": "40 minutes"
   },
+  "url": "mexican-fudge-12",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -160,7 +161,7 @@
         "totalTime": "10 minutes"
       },
       "url": "mexican-salad-50",
-      "score": 0.7189343820137787
+      "score": 0.7125856126216648
     },
     {
       "@context": "https://schema.org/",
@@ -234,7 +235,7 @@
         "totalTime": "1 hour"
       },
       "url": "mexican-enchilada-bake-227",
-      "score": 0.6832354542975787
+      "score": 0.6892516477004638
     },
     {
       "@context": "https://schema.org/",
@@ -307,70 +308,85 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "mexican-enchilada-bake-229",
-      "score": 0.6832354542975787
+      "score": 0.6892516477004638
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Parmesan Chicken",
+      "name": "Taco Ring",
       "author": {
         "@type": "Person",
-        "name": "Lorraine Bowers"
+        "name": "Lorie Valkengoed"
       },
-      "description": "A crispy Parmesan-crusted chicken dish baked with spaghetti sauce and mozzarella cheese.",
+      "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H10M",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT16M",
+      "totalTime": "PT36M",
+      "recipeYield": "1 ring",
       "recipeIngredient": [
-        "Boneless chicken breasts",
-        "1/3 cup Parmesan cheese",
-        "1 1/3 cups dry bread crumbs",
-        "3 beaten eggs",
-        "1 tsp salt",
-        "1/4 tsp pepper",
-        "Spaghetti sauce",
-        "Grated mozzarella cheese"
+        "1 lb lean ground hamburger",
+        "1 cup water",
+        "1 packet taco seasoning mix",
+        "2 cups shredded lettuce",
+        "1 cup grated mild cheddar cheese",
+        "1 cup salsa dip",
+        "2 packages Pillsbury crescent rolls",
+        "1 tomato, diced",
+        "1 green pepper (optional)",
+        "Sour cream for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix Parmesan cheese with bread crumbs and set aside."
+          "text": "Fry the hamburger and let it cool."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix eggs, salt, and pepper."
+          "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
         },
         {
           "@type": "HowToStep",
-          "text": "Dip boneless chicken breasts in egg mixture, then coat with bread crumb mixture."
+          "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange coated chicken breasts in a baking dish."
+          "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover with tinfoil and bake at 350°F for 45 minutes."
+          "text": "Add shredded cheese on top of the hamburger mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour spaghetti sauce over the chicken and continue baking."
+          "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
         },
         {
           "@type": "HowToStep",
-          "text": "Before serving, sprinkle grated mozzarella cheese on top and bake for an additional 10 minutes until browned."
+          "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let cool slightly before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
         }
       ],
-      "keywords": "Parmesan chicken, breaded chicken, Italian-American cuisine",
+      "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 10 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "16 minutes",
+        "totalTime": "36 minutes"
       },
-      "url": "parmesan-chicken-239",
-      "score": 0.6723806263425055
+      "url": "taco-ring-183",
+      "score": 0.6775510479939317
     }
   ]
 }

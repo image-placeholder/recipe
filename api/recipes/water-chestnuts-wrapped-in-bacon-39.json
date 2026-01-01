@@ -50,6 +50,7 @@
     "cookTime": "20 minutes",
     "totalTime": "1 hour 35 minutes"
   },
+  "url": "water-chestnuts-wrapped-in-bacon-39",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -110,7 +111,7 @@
         "totalTime": "8 hours 45 minutes"
       },
       "url": "bacon-wrapped-water-chestnuts-40",
-      "score": 0.9063366217833798
+      "score": 0.9029989906331695
     },
     {
       "@context": "https://schema.org/",
@@ -178,7 +179,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "rumaki-41",
-      "score": 0.7681254827517252
+      "score": 0.7624320339780881
     },
     {
       "@context": "https://schema.org/",
@@ -235,7 +236,7 @@
         "totalTime": "2 hours 15 minutes"
       },
       "url": "spinach-dip-16",
-      "score": 0.7225823562898807
+      "score": 0.7287032756890699
     },
     {
       "@context": "https://schema.org/",
@@ -295,76 +296,59 @@
         "totalTime": "40 minutes"
       },
       "url": "roasted-chestnuts-26",
-      "score": 0.7052842129258261
+      "score": 0.7088321639346111
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cabbage Rolls",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "European",
-      "prepTime": "PT30M",
-      "cookTime": "PT3H",
-      "totalTime": "PT3H30M",
-      "recipeYield": "Multiple servings",
+      "name": "Vegetable Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Louise Wein"
+        }
+      ],
+      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 serving dish",
       "recipeIngredient": [
-        "1 head cabbage",
-        "½ lb ground pork",
-        "1 lb ground beef",
-        "1 medium onion",
-        "2 Tbsp lard",
-        "¾ cup uncooked rice (Uncle Ben's)",
-        "1 tsp salt",
-        "½ tsp black pepper",
-        "1 (24 oz) can tomato juice"
+        "1 tsp Accent",
+        "1 cup sour cream",
+        "¼ tsp salt",
+        "1 cup mayonnaise",
+        "¼ tsp celery salt",
+        "1 tsp parsley flakes",
+        "2 drops Tabasco sauce (can be omitted)",
+        "½ tsp dill weed",
+        "1 tsp garlic salt",
+        "Assorted vegetables or crackers for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
+          "text": "Mix all ingredients together in a dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Chop the onion and fry in lard for 10 minutes until softened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
+          "text": "Chill before serving with chips, crackers, or vegetables."
         }
       ],
-      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
+      "keywords": "vegetable dip, sour cream dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "3 hours",
-        "totalTime": "3 hours 30 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
       },
-      "url": "cabbage-rolls-167",
-      "score": 0.6740227162398384
+      "url": "vegetable-dip-17",
+      "score": 0.7023490283949385
     }
   ]
 }

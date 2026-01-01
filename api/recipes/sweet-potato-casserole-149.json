@@ -64,6 +64,7 @@
     "cookTime": "40 minutes",
     "totalTime": "1 hour"
   },
+  "url": "sweet-potato-casserole-149",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -128,7 +129,7 @@
         "totalTime": "50 minutes"
       },
       "url": "swedish-potatoes-137",
-      "score": 0.7361118926115497
+      "score": 0.7217946308933983
     },
     {
       "@context": "https://schema.org/",
@@ -185,7 +186,110 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "potato-casserole-141",
-      "score": 0.7090972281507569
+      "score": 0.7204796220292503
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "score": 0.6909282191670969
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hot Potato Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "Serves 4-6",
+      "recipeIngredient": [
+        "3 to 4 cups sliced potatoes",
+        "⅓ cup white vinegar",
+        "1 Tbsp flour",
+        "¾ cup water",
+        "1 Tbsp butter",
+        "Salt and pepper to taste",
+        "Pinch of sugar"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, combine the white vinegar, flour, and water. Heat, stirring constantly, until the mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the butter, salt, pepper, and sugar to the vinegar mixture. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot dressing over the sliced potatoes."
+        }
+      ],
+      "keywords": "hot potato salad, vinegar dressing, warm salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "url": "hot-potato-salad-86",
+      "score": 0.6884281036132123
     },
     {
       "@context": "https://schema.org/",
@@ -242,119 +346,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "sliced-baked-potatoes-138",
-      "score": 0.6988402134374874
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Barley and Corn Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 Tbsp oil",
-        "3 cups vegetable stock",
-        "1 onion, chopped",
-        "2 cups kernel corn (fresh or canned)",
-        "3 cloves garlic, minced",
-        "2 carrots, finely chopped",
-        "Chopped fresh parsley",
-        "1 cup pearl or pot barley"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat oil in a heavy casserole. Cook onion, garlic, and carrots until the onion is softened, stirring frequently."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in barley and cook for 1-2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour in vegetable stock, cover, and bake at 350 °F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Test that barley is tender. Stir in corn and parsley."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return to the oven to heat through. Season with pepper to taste."
-        }
-      ],
-      "keywords": "barley casserole, corn, carrots, comforting side dish",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "url": "barley-and-corn-casserole-132",
-      "score": 0.6981614484718757
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat and Potato Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Martine Bercier"
-      },
-      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "1 8L casserole",
-      "recipeIngredient": [
-        "½ lb lean ground beef",
-        "1 onion",
-        "1 clove garlic",
-        "6 medium potatoes, peeled and sliced",
-        "1 envelope (50g) gravy mix",
-        "2½ cups water",
-        "2 cups corn",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Layer sliced potatoes in an 8L casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with corn and the browned meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and cook at 350°F for 50 minutes."
-        }
-      ],
-      "keywords": "meat casserole, potato and corn dish, gravy topping",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "meat-and-potato-casserole-159",
-      "score": 0.694227291699282
+      "score": 0.6875531679322738
     }
   ]
 }

@@ -72,6 +72,7 @@
     "cookTime": "35 minutes",
     "totalTime": "1 hour 5 minutes"
   },
+  "url": "baked-spaghetti-and-meatballs-176",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -121,7 +122,7 @@
         "totalTime": "4 hours 20 minutes"
       },
       "url": "spaghetti-sauce-177",
-      "score": 0.8858279747050231
+      "score": 0.879889761273051
     },
     {
       "@context": "https://schema.org/",
@@ -175,7 +176,7 @@
         "totalTime": "2 hours 20 minutes"
       },
       "url": "spaghetti-sauce-187",
-      "score": 0.8858279747050231
+      "score": 0.879889761273051
     },
     {
       "@context": "https://schema.org/",
@@ -245,70 +246,7 @@
         "totalTime": "50 minutes"
       },
       "url": "spaghetti-casserole-178",
-      "score": 0.871511096017468
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mozzarella Spaghetti Skillet",
-      "author": {
-        "@type": "Person",
-        "name": "Yvonne Lotz"
-      },
-      "description": "A one-pot spaghetti dish cooked with hamburger, tomatoes, and mozzarella cheese.",
-      "recipeCategory": "Pasta",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT20M",
-      "totalTime": "PT30M",
-      "recipeYield": "4 to 6 servings",
-      "recipeIngredient": [
-        "1 lb hamburger",
-        "½ cup chopped onion",
-        "½ cup chopped green pepper",
-        "3 splashes Worcestershire sauce",
-        "1 tsp salt",
-        "½ tsp oregano",
-        "½ tsp black pepper",
-        "½ can water",
-        "1 (796 mL) can tomatoes",
-        "1½ cups shredded mozzarella cheese",
-        "Broken spaghetti to feed your family"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In an electric skillet, brown the hamburger, onion, and green peppers."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season with Worcestershire sauce, salt, black pepper, and oregano."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add tomatoes, water, and broken spaghetti to the skillet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and bring to a boil, stirring frequently to prevent the spaghetti from sticking."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer until the pasta is cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shortly before serving, add shredded mozzarella cheese and continue heating until melted."
-        }
-      ],
-      "keywords": "spaghetti skillet, one-pot pasta, mozzarella cheese",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "mozzarella-spaghetti-skillet-182",
-      "score": 0.847860173787797
+      "score": 0.8761950345580377
     },
     {
       "@context": "https://schema.org/",
@@ -385,7 +323,79 @@
         "totalTime": "50 minutes"
       },
       "url": "pizza-casserole-171",
-      "score": 0.8467514751623914
+      "score": 0.8495644284039275
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A hearty pizza casserole made with spaghetti, hamburger, pepperoni, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x13 inch pan",
+      "recipeIngredient": [
+        "8 or 7 oz spaghetti",
+        "1 lb hamburger",
+        "1/2 cup chopped onion",
+        "2 Tbsp margarine or butter",
+        "2 eggs, beaten",
+        "1/3 cup grated Parmesan cheese",
+        "1 (32 oz) jar spaghetti sauce",
+        "1 pkg (3 oz) pepperoni, sliced",
+        "4 cups diced mozzarella cheese",
+        "1 tsp dried oregano leaves",
+        "1 tsp cooking oil or olive oil",
+        "Salt to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti as per package instructions and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, combine cooked spaghetti, margarine or butter, eggs, and Parmesan cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the spaghetti mixture in a greased 9x13 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown hamburger and onion in a skillet and spoon over the spaghetti mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread spaghetti sauce over the hamburger mixture and cover with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with oregano and drizzle with oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange pepperoni slices on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 350°F oven for 20 to 30 minutes."
+        }
+      ],
+      "keywords": "pizza casserole, spaghetti, hamburger, pepperoni",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "pizza-casserole-202",
+      "score": 0.8495644284039275
     }
   ]
 }

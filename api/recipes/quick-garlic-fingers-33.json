@@ -57,7 +57,54 @@
     "cookTime": "12 minutes 30 seconds",
     "totalTime": "17 minutes 30 seconds"
   },
+  "url": "quick-garlic-fingers-33",
   "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caesar Dressin' Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Towton"
+      },
+      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "½ tsp Worcestershire sauce",
+        "3 garlic cloves",
+        "½ tsp dry mustard",
+        "2 beaten egg yolks",
+        "½ tsp salt",
+        "½ cup lemon juice",
+        "Dash pepper",
+        "1 cup oil",
+        "¼ cup white sugar",
+        "1 cup Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Can be kept in the fridge for up to 2 weeks."
+        }
+      ],
+      "keywords": "Caesar dressing, homemade salad dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "caesar-dressin-salad-101",
+      "score": 0.6892984855276836
+    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -105,7 +152,7 @@
         "totalTime": "5 minutes"
       },
       "url": "salmon-dip-9",
-      "score": 0.6652010088112175
+      "score": 0.6788867946358562
     },
     {
       "@context": "https://schema.org/",
@@ -162,195 +209,136 @@
         "totalTime": "1 hour 20 minutes"
       },
       "url": "cheese-dip-in-a-bread-bowl-4",
-      "score": 0.6642024607880799
+      "score": 0.6715068379939556
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Caesar Dressin' Salad",
+      "name": "Pizza",
       "author": {
         "@type": "Person",
-        "name": "Linda Towton"
+        "name": "Alan Dick"
       },
-      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
-      "recipeCategory": "Salad Dressing",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 batch",
+      "description": "A homemade pizza recipe with a yeast-based crust, topped with spaghetti sauce, various meats, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT1H",
+      "cookTime": "PT20M",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 pizza",
       "recipeIngredient": [
-        "½ tsp Worcestershire sauce",
-        "3 garlic cloves",
-        "½ tsp dry mustard",
-        "2 beaten egg yolks",
+        "1 to 2 Tbsp yeast",
+        "1 tsp sugar",
+        "3½ cups flour",
         "½ tsp salt",
-        "½ cup lemon juice",
-        "Dash pepper",
-        "1 cup oil",
-        "¼ cup white sugar",
-        "1 cup Parmesan cheese"
+        "¾ cup vegetable oil",
+        "1¼ cups warm water",
+        "1¾ cups spaghetti sauce",
+        "Sliced pepperoni",
+        "Salami",
+        "Mushrooms",
+        "Bacon",
+        "Ground beef",
+        "Pineapple",
+        "Mozzarella cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+          "text": "Dissolve yeast in warm water with sugar. Let stand in a warm place for 10 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Can be kept in the fridge for up to 2 weeks."
+          "text": "Measure flour and salt into a large bowl. Make a well and pour in the yeast mixture. Stir and add oil gradually, working the dough until thoroughly mixed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Knead the dough, form into a ball, and let stand in a warm place for approximately 45 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll out the dough on a floured pastry board to an even thickness. Transfer to a pizza pan or cookie sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with spaghetti sauce, meats, mushrooms, and other toppings. Finish with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for approximately 20 minutes or until the crust is golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 3 to 5 minutes before cutting and serving."
         }
       ],
-      "keywords": "Caesar dressing, homemade salad dressing",
+      "keywords": "homemade pizza, Italian-American, yeast crust",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
+        "prepTime": "1 hour",
+        "cookTime": "20 minutes",
+        "totalTime": "1 hour 20 minutes"
       },
-      "url": "caesar-dressin-salad-101",
-      "score": 0.6569886339832332
+      "url": "pizza-190",
+      "score": 0.6609549253800672
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheeseburger Meat Loaf",
-      "author": {
-        "@type": "Person",
-        "name": "Lori Allen"
-      },
-      "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT1H15M",
-      "totalTime": "PT1H40M",
-      "recipeYield": "1 meatloaf",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
       "recipeIngredient": [
-        "1½ lb lean ground hamburger",
-        "½ tsp garlic salt",
-        "½ cup fine bread crumbs",
-        "1 tsp onion powder",
-        "1 egg",
-        "1 can (8 oz) tomato sauce",
-        "¼ cup parsley flakes",
-        "½ cup finely chopped onion",
-        "1 tsp salt",
-        "1 cup shredded cheddar cheese",
-        "⅛ tsp pepper",
-        "½ tsp seasoning salt",
-        "½ cup sweet pickle relish"
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a mixing bowl, combine ground beef, egg, bread crumbs, garlic salt, onion powder, salt, pepper, and seasoning salt. Mix well."
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix chopped onion and tomato sauce together in a separate bowl."
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
         },
         {
           "@type": "HowToStep",
-          "text": "Add half of the tomato sauce and onion mixture to the beef mixture and mix well."
+          "text": "Bake at 350°F for 30 to 40 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Pack half of the beef mixture into a loaf pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese and sweet pickle relish evenly over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pack the remaining beef mixture on top and press firmly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated oven at 350°F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Carefully spoon off excess fat from the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the remaining tomato sauce and onion mixture over the meatloaf."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
         }
       ],
-      "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
       "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "1 hour 15 minutes",
-        "totalTime": "1 hour 40 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
       },
-      "url": "cheeseburger-meat-loaf-157",
-      "score": 0.6531927181801193
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Hot Cheese Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A creamy bacon and cheddar dip baked inside a pumpernickel bread shell.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
-      "recipeYield": "1 bread bowl",
-      "recipeIngredient": [
-        "1 round pumpernickel bread loaf",
-        "1 (8 oz) package cream cheese",
-        "1 cup Hellmann's mayonnaise",
-        "½ cup grated cheddar cheese",
-        "½ cup bacon bits"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cut the top off the pumpernickel loaf and hollow it out, leaving a thick shell."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the cream cheese, mayonnaise, cheddar cheese, and bacon bits until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the mixture into the hollowed-out bread."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap the loaf in tinfoil, leaving the hole with the cheese mixture uncovered."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 325°F for 1½ hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with the bread pieces."
-        }
-      ],
-      "keywords": "pumpernickel dip, hot bacon dip, cheddar dip",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
-      },
-      "url": "hot-cheese-dip-5",
-      "score": 0.6521723074260077
+      "url": "broccoli-casserole-129",
+      "score": 0.6601562353042303
     }
   ]
 }

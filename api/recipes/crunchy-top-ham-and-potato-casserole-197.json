@@ -48,6 +48,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 25 minutes"
   },
+  "url": "crunchy-top-ham-and-potato-casserole-197",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +105,7 @@
         "totalTime": "1 hour"
       },
       "url": "ham-casserole-200",
-      "score": 0.8772047799377268
+      "score": 0.8941511132012369
     },
     {
       "@context": "https://schema.org/",
@@ -155,64 +156,7 @@
         "totalTime": "8 hours 20 minutes"
       },
       "url": "ham-potato-casserole-209",
-      "score": 0.7787788570673496
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Potato Casserole",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Heather Clarke"
-        },
-        {
-          "@type": "Person",
-          "name": "M. Leanne Kenney"
-        }
-      ],
-      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 (2 lb) bag frozen hash browns",
-        "1 can cream of celery soup",
-        "1 can cream of mushroom soup",
-        "500 mL sour cream",
-        "1 cup grated cheese",
-        "¼ cup diced onions"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together in a shallow pan until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT1H"
-        }
-      ],
-      "keywords": "potato casserole, hash browns, creamy, cheesy",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "url": "potato-casserole-141",
-      "score": 0.7570997724030506
+      "score": 0.7708960009437165
     },
     {
       "@context": "https://schema.org/",
@@ -271,7 +215,64 @@
         "totalTime": "1 hour"
       },
       "url": "cheesy-ham-chowder-116",
-      "score": 0.7488317004191118
+      "score": 0.7577089065996806
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Potato Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Heather Clarke"
+        },
+        {
+          "@type": "Person",
+          "name": "M. Leanne Kenney"
+        }
+      ],
+      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 (2 lb) bag frozen hash browns",
+        "1 can cream of celery soup",
+        "1 can cream of mushroom soup",
+        "500 mL sour cream",
+        "1 cup grated cheese",
+        "¼ cup diced onions"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a shallow pan until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
+        }
+      ],
+      "keywords": "potato casserole, hash browns, creamy, cheesy",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "potato-casserole-141",
+      "score": 0.7418971152458889
     },
     {
       "@context": "https://schema.org/",
@@ -339,7 +340,7 @@
         "totalTime": "40 minutes"
       },
       "url": "macaroni-ham-casserole-196",
-      "score": 0.7144547109001906
+      "score": 0.7150405866695978
     }
   ]
 }

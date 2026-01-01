@@ -39,6 +39,7 @@
     "cookTime": null,
     "totalTime": null
   },
+  "url": "lemon-salad-80",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -90,7 +91,7 @@
         "totalTime": "20 minutes"
       },
       "url": "orange-jello-salad-75",
-      "score": 0.855140120868758
+      "score": 0.8485761983221776
     },
     {
       "@context": "https://schema.org/",
@@ -144,7 +145,7 @@
         "totalTime": "25 minutes"
       },
       "url": "orange-pineapple-jello-76",
-      "score": 0.7755052357566311
+      "score": 0.7661484502252509
     },
     {
       "@context": "https://schema.org/",
@@ -198,139 +199,124 @@
         "totalTime": "2 hours 15 minutes"
       },
       "url": "cottage-cheese-jellied-salad-66",
-      "score": 0.7329307419405477
+      "score": 0.7120632302538967
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Marinated Vegetable Salad",
+      "name": "Party-Time Salad",
       "author": {
         "@type": "Person",
-        "name": "Ruth Haines"
+        "name": "Phyllis Bender"
       },
-      "description": "A colorful and versatile marinated vegetable salad perfect for serving as finger food or a side dish.",
+      "description": "A creamy lime Jello salad with pineapple, cream cheese, and celery.",
       "recipeCategory": "Salad",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT0M",
       "totalTime": "PT20M",
-      "recipeYield": "Variable",
+      "recipeYield": "1 1½ quart mould",
       "recipeIngredient": [
-        "1 medium cauliflower",
-        "3 celery stalks",
-        "1/2 English cucumber",
-        "1 bunch broccoli",
-        "1/2 bunch radishes",
-        "Cherry tomatoes",
-        "1 small bag baby carrots",
-        "1 bottle Italian dressing"
+        "1 can crushed pineapple",
+        "1 (8 oz) package cream cheese",
+        "1 (3 oz) package lime flavoured Jello",
+        "1 cup celery, diced",
+        "1½ cups whipped cream"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Wash and clean all the vegetables, then drain well."
+          "text": "Heat pineapple juice and hot water to measure 1 cup."
         },
         {
           "@type": "HowToStep",
-          "text": "Break cauliflower and broccoli into bite-sized pieces."
+          "text": "Dissolve Jello powder in hot liquid and stir, then add ¾ cup cold water."
         },
         {
           "@type": "HowToStep",
-          "text": "Trim radishes and carrots; leave whole unless large, then cut into bite-sized pieces."
+          "text": "Let partially set."
         },
         {
           "@type": "HowToStep",
-          "text": "Cut celery into 3-inch pieces and slice cucumber into 1/2-inch slices."
+          "text": "Add cream cheese and mix with beaters."
         },
         {
           "@type": "HowToStep",
-          "text": "Leave cherry tomatoes whole."
+          "text": "Add crushed pineapple, whipped cream, and celery."
         },
         {
           "@type": "HowToStep",
-          "text": "Place all prepared vegetables in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour Italian dressing over the vegetables and let set for a few hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve as finger food or as a salad."
+          "text": "Pour into a 1½ quart mould and chill until firm."
         }
       ],
-      "keywords": "marinated vegetables, vegetable salad, Italian dressing",
+      "keywords": "party-time salad, lime Jello, cream cheese, pineapple",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "url": "marinated-vegetable-salad-91",
-      "score": 0.7000511501481333
+      "url": "party-time-salad-77",
+      "score": 0.6956953180812299
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Marinated Vegetable Salad",
+      "name": "Mandarin Orange Salad",
       "author": {
         "@type": "Person",
         "name": "Ruth Haines"
       },
-      "description": "A colorful salad of marinated vegetables including cauliflower, broccoli, carrots, and radishes, dressed with Italian dressing.",
+      "description": "A classic spinach and lettuce salad with mandarin oranges and toasted almonds, dressed with a sweet and tangy homemade vinaigrette.",
       "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT30M",
+      "prepTime": "PT20M",
       "cookTime": "PT0M",
-      "totalTime": "PT30M",
-      "recipeYield": "6 servings",
+      "totalTime": "PT20M",
+      "recipeYield": "4-6 servings",
       "recipeIngredient": [
-        "1 medium cauliflower",
-        "1 bunch broccoli",
-        "3 celery stalks",
-        "1/2 English cucumber",
-        "1/2 bunch radishes",
-        "Baby carrots",
-        "Cherry tomatoes",
-        "1 bottle Italian dressing"
+        "1 bunch romaine lettuce",
+        "1 leaf red tip lettuce",
+        "1 pkg fresh spinach",
+        "4 (10 oz) cans mandarin oranges, drained",
+        "1 cup slivered almonds, toasted",
+        "½ small red onion, chopped",
+        "Dressing:",
+        "½ cup sugar",
+        "¼ cup vinegar",
+        "1 tsp dry mustard",
+        "1 tsp salt",
+        "1 cup vegetable oil"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Wash and clean all the vegetables, then drain well."
+          "text": "Wash and clean the romaine lettuce, red tip lettuce, and spinach. Dry thoroughly and rip into bite-sized pieces."
         },
         {
           "@type": "HowToStep",
-          "text": "Break cauliflower and broccoli into bite-sized pieces."
+          "text": "In a saucepan, combine sugar, vinegar, mustard, and salt. Bring to a boil, then allow to cool."
         },
         {
           "@type": "HowToStep",
-          "text": "Trim radishes and carrots; leave whole or cut into bite-sized pieces if large."
+          "text": "Once cooled, blend the dressing mixture in a blender until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Cut celery into 3-inch pieces and slice cucumber into 1/2-inch slices."
+          "text": "Pour the dressing over the prepared lettuce mixture about 10 minutes before serving."
         },
         {
           "@type": "HowToStep",
-          "text": "Leave cherry tomatoes whole and place all vegetables in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour Italian dressing over the vegetables and let set for a few hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve as finger food or as a salad."
+          "text": "Just before serving, add the drained mandarin oranges and toasted slivered almonds."
         }
       ],
-      "keywords": "marinated vegetables, vegetable salad, Italian dressing",
+      "keywords": "mandarin orange salad, spinach salad, homemade dressing",
       "_naturalized_times": {
-        "prepTime": "30 minutes",
+        "prepTime": "20 minutes",
         "cookTime": "",
-        "totalTime": "30 minutes"
+        "totalTime": "20 minutes"
       },
-      "url": "marinated-vegetable-salad-94",
-      "score": 0.7000511501481333
+      "url": "mandarin-orange-salad-88",
+      "score": 0.688332803769227
     }
   ]
 }

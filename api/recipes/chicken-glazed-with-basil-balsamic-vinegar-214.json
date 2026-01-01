@@ -55,6 +55,7 @@
     "cookTime": null,
     "totalTime": null
   },
+  "url": "chicken-glazed-with-basil-balsamic-vinegar-214",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -117,7 +118,7 @@
         "totalTime": "25 minutes"
       },
       "url": "lemon-chicken-with-thyme-224",
-      "score": 0.779980564576795
+      "score": 0.7848838072159058
     },
     {
       "@context": "https://schema.org/",
@@ -187,81 +188,65 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "chicken-supreme-238",
-      "score": 0.7423054427362905
+      "score": 0.7497931722107483
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Thai Chicken",
+      "name": "Curry Chicken",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Leslie Jenni"
       },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "recipeCuisine": "International",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4-6 servings",
       "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
+        "6 to 8 boneless chicken breasts",
+        "¼ cup Dijon mustard",
+        "2 Tbsp prepared mustard",
+        "1 Tbsp lime juice",
+        "¼ cup butter",
+        "1 tsp curry powder",
+        "½ cup honey"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+          "text": "Preheat oven to 350°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
+          "text": "Mix all ingredients except chicken breasts in a microwave-safe bowl until butter is melted."
         },
         {
           "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+          "text": "Arrange chicken breasts in a shallow baking dish sprayed with nonstick spray."
         },
         {
           "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+          "text": "Pour the curry mixture over the chicken breasts."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+          "text": "Bake uncovered for 1 hour, stirring occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+          "text": "Serve over rice."
         }
       ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "keywords": "curry chicken, baked chicken, honey mustard chicken",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
       },
-      "url": "thai-chicken-235",
-      "score": 0.7050346292650687
+      "url": "curry-chicken-230",
+      "score": 0.7087997078837399
     },
     {
       "@context": "https://schema.org/",
@@ -325,65 +310,61 @@
         "totalTime": "50 minutes"
       },
       "url": "chicken-with-a-chinese-accent-245",
-      "score": 0.6996734951281751
+      "score": 0.7056922390408297
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Curry Chicken",
+      "name": "Chicken Breast",
       "author": {
         "@type": "Person",
-        "name": "Leslie Jenni"
+        "name": "Sandra Martin"
       },
+      "description": "A simple breaded chicken breast recipe.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "International",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4-6 servings",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "6 to 8 boneless chicken breasts",
-        "¼ cup Dijon mustard",
-        "2 Tbsp prepared mustard",
-        "1 Tbsp lime juice",
-        "¼ cup butter",
-        "1 tsp curry powder",
-        "½ cup honey"
+        "6 chicken breasts",
+        "1 cup bread crumbs",
+        "1 tsp garlic powder",
+        "1 egg",
+        "1/2 cup milk",
+        "Salt and seasoning to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Preheat oven to 350°F."
+          "text": "Wash chicken breast."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients except chicken breasts in a microwave-safe bowl until butter is melted."
+          "text": "Sprinkle with garlic powder, salt, and seasoning."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange chicken breasts in a shallow baking dish sprayed with nonstick spray."
+          "text": "Dip in milk, then egg mixture, then bread crumbs."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the curry mixture over the chicken breasts."
+          "text": "Bake in a 9x13 inch pan at 350°F until golden."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake uncovered for 1 hour, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over rice."
+          "text": "Serve with rice or noodles."
         }
       ],
-      "keywords": "curry chicken, baked chicken, honey mustard chicken",
+      "keywords": "chicken breast, breaded chicken",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
       },
-      "url": "curry-chicken-230",
-      "score": 0.6988950407656147
+      "url": "chicken-breast-212",
+      "score": 0.6990440295097852
     }
   ]
 }

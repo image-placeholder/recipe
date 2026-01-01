@@ -63,6 +63,7 @@
     "cookTime": "50 minutes",
     "totalTime": "1 hour 20 minutes"
   },
+  "url": "english-shepherds-pie-173",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -132,7 +133,7 @@
         "totalTime": "40 minutes"
       },
       "url": "shepherds-pie-170",
-      "score": 0.8464386413578565
+      "score": 0.8435294090596845
     },
     {
       "@context": "https://schema.org/",
@@ -207,7 +208,7 @@
         "totalTime": "55 minutes"
       },
       "url": "hamburger-pie-169",
-      "score": 0.7705383300581538
+      "score": 0.76830008684257
     },
     {
       "@context": "https://schema.org/",
@@ -276,7 +277,79 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "hawaiian-meatballs-152",
-      "score": 0.7389104512482637
+      "score": 0.7355035278211849
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Swedish Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Nichole Schwartzentruber"
+      },
+      "description": "Classic Swedish meatballs made with ground beef, served in a rich gravy, and optionally served with rice, potatoes, or pasta.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Swedish",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "2 cups soft bread crumbs",
+        "2 cups milk",
+        "2 eggs, well beaten",
+        "3 medium onions, minced",
+        "1¼ tsp salt",
+        "¼ tsp pepper",
+        "¼ tsp ground nutmeg",
+        "Cooking oil or fat for frying",
+        "2 cups hot water",
+        "2 Tbsp flour",
+        "¼ cup cold water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine beef, bread crumbs, milk, eggs, onions, salt, pepper, and nutmeg. Mix really well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape mixture into 1-inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat fat in a skillet over medium heat. Cook meatballs, turning with a spoon until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove cooked meatballs with a slotted spoon and place in a bowl. Repeat until all meatballs are cooked, adding more fat as needed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour hot water into the skillet and stir to loosen browned particles."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend flour and cold water, then stir into the skillet. Cook until the gravy thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour gravy over meatballs and cook for about 25 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with rice, potatoes, or pasta."
+        }
+      ],
+      "keywords": "Swedish meatballs, ground beef, gravy",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "swedish-meatballs-162",
+      "score": 0.7203518289906308
     },
     {
       "@context": "https://schema.org/",
@@ -339,68 +412,7 @@
         "totalTime": "55 minutes"
       },
       "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "score": 0.7337590325411242
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sweet & Sour Meatballs",
-      "author": {
-        "@type": "Person",
-        "name": "Sharon Allen"
-      },
-      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H30M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 lb lean ground beef",
-        "2 Tbsp chopped onion",
-        "½ cup cracker crumbs",
-        "1 Tbsp crushed garlic",
-        "¼ tsp pepper",
-        "1 egg",
-        "1½ tsp soya sauce",
-        "⅔ cup milk",
-        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Broil to brown on all sides, watching carefully."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place meatballs in a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
-        }
-      ],
-      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 30 minutes"
-      },
-      "url": "sweet-sour-meatballs-161",
-      "score": 0.7207932926476158
+      "score": 0.7195641546921409
     }
   ]
 }

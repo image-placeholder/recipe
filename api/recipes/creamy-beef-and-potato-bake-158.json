@@ -84,138 +84,8 @@
     "cookTime": "25 minutes",
     "totalTime": "45 minutes"
   },
+  "url": "creamy-beef-and-potato-bake-158",
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat and Potato Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Martine Bercier"
-      },
-      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "1 8L casserole",
-      "recipeIngredient": [
-        "½ lb lean ground beef",
-        "1 onion",
-        "1 clove garlic",
-        "6 medium potatoes, peeled and sliced",
-        "1 envelope (50g) gravy mix",
-        "2½ cups water",
-        "2 cups corn",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Layer sliced potatoes in an 8L casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with corn and the browned meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and cook at 350°F for 50 minutes."
-        }
-      ],
-      "keywords": "meat casserole, potato and corn dish, gravy topping",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "meat-and-potato-casserole-159",
-      "score": 0.7194167767616851
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Hamburger Pie",
-      "author": {
-        "@type": "Person",
-        "name": "Marguerite Finkbeiner"
-      },
-      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT30M",
-      "totalTime": "PT55M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 medium onion, sliced",
-        "1 to 1½ cups cooked green beans",
-        "1 Tbsp oil",
-        "1 lb hamburger",
-        "¼ tsp salt",
-        "⅛ tsp pepper",
-        "1 can tomato soup",
-        "5 medium potatoes",
-        "½ cup warm milk",
-        "1 beaten egg"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "hamburger pie, shepherd's pie, casserole",
-      "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "55 minutes"
-      },
-      "url": "hamburger-pie-169",
-      "score": 0.6961078856275734
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -298,7 +168,138 @@
         "totalTime": "1 hour 25 minutes"
       },
       "url": "meatball-pasta-stew-179",
-      "score": 0.6821837039147443
+      "score": 0.7308295402733724
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "score": 0.7294008018425066
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburger Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "hamburger-pie-169",
+      "score": 0.7147244042725724
     },
     {
       "@context": "https://schema.org/",
@@ -372,73 +373,60 @@
         "totalTime": "50 minutes"
       },
       "url": "beef-and-rice-casserole-168",
-      "score": 0.679995832598304
+      "score": 0.7069517894217916
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheddar Baked Potato Slices",
+      "name": "Beef Broccoli Stir-Fry",
       "author": {
         "@type": "Person",
-        "name": "Ina Browning"
+        "name": "Suzanne Finkbeiner"
       },
-      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
+      "description": "A quick and flavorful stir-fry of beef sirloin and broccoli in a savory soy and oyster sauce mixture.",
+      "recipeCategory": "Main Dish",
+      "recipeCuisine": "Asian-inspired",
       "prepTime": "PT15M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "3½ cups, serves 4",
       "recipeIngredient": [
-        "4 medium baking potatoes, cut into ¼ inch slices",
-        "1 can cream of mushroom soup",
-        "½ tsp paprika",
-        "½ tsp pepper",
-        "1 cup shredded cheddar cheese"
+        "1 Tbsp soy sauce",
+        "1 tsp cornstarch",
+        "3 cups broccoli florets, sliced",
+        "2 Tbsp oyster sauce",
+        "1 Tbsp cooking oil (first amount)",
+        "1 Tbsp cooking oil (second amount)",
+        "¾ lb sirloin steak, sliced into 1/8 inch thin strips",
+        "½ tsp salt",
+        "¼ tsp pepper"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+          "text": "Stir soy sauce into cornstarch in a small cup. Add oyster sauce, salt, and pepper. Stir and set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
+          "text": "Heat wok to medium-high. Add the first amount of cooking oil. Add broccoli and stir-fry for 4 minutes until tender-crisp. Transfer to a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese over the potatoes."
+          "text": "Add the second amount of cooking oil to the hot wok. Add beef strips and stir-fry until desired doneness."
         },
         {
           "@type": "HowToStep",
-          "text": "Spoon the soup mixture evenly over the cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 400,
-            "unitCode": "FAR"
-          },
-          "duration": "PT45M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+          "text": "Add broccoli back into the wok. Stir the cornstarch mixture and pour into the beef mixture. Cook until boiling and thickened."
         }
       ],
-      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
+      "keywords": "beef stir-fry, broccoli, soy sauce, oyster sauce",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 10 minutes"
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "cheddar-baked-potato-slices-140",
-      "score": 0.6766765171539582
+      "url": "beef-broccoli-stir-fry-148",
+      "score": 0.6933092725108313
     }
   ]
 }

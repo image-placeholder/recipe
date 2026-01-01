@@ -42,6 +42,7 @@
     "cookTime": "5 minutes",
     "totalTime": "20 minutes"
   },
+  "url": "asian-coleslaw-61",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -89,7 +90,7 @@
         "totalTime": "8 hours 20 minutes"
       },
       "url": "layered-coleslaw-salad-62",
-      "score": 0.8922197070373931
+      "score": 0.8834151677176266
     },
     {
       "@context": "https://schema.org/",
@@ -139,7 +140,60 @@
         "totalTime": "25 minutes"
       },
       "url": "coleslaw-chalet-dressing-57",
-      "score": 0.8062733321008124
+      "score": 0.8120784316720059
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Freezer Cole Slaw",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A freezer coleslaw recipe with a sweet and tangy dressing, made with grated cabbage and optional vegetables.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 large cabbage, grated or chopped",
+        "1 large carrot, grated (optional)",
+        "1 onion, grated (optional)",
+        "1 cup white sugar",
+        "1 cup white vinegar",
+        "1 Tbsp salt",
+        "1 Tbsp celery seed",
+        "1 tsp mustard (optional)",
+        "¼ cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat together vinegar, sugar, salt, water, celery seed, and mustard to make the syrup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Grate or chop cabbage and other vegetables in a food processor."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the cabbage mixture with the syrup and refrigerate overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place in a container, seal, and freeze."
+        }
+      ],
+      "keywords": "freezer coleslaw, slaw, salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "freezer-cole-slaw-58",
+      "score": 0.7464134279669389
     },
     {
       "@context": "https://schema.org/",
@@ -194,137 +248,60 @@
         "totalTime": "15 minutes"
       },
       "url": "chinese-rice-salad-81",
-      "score": 0.748870567553963
+      "score": 0.7412370059460816
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sauerkraut Salad",
+      "name": "Caribbean Chicken Salad",
       "author": {
         "@type": "Person",
-        "name": "Lorna Finkbeiner"
+        "name": "Chris Dinney"
       },
-      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
       "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT5M",
+      "recipeCuisine": "Caribbean-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
       "totalTime": "PT25M",
-      "recipeYield": "Several servings",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 (28 oz) jar or can sauerkraut, drained",
-        "1 cup chopped celery",
-        "1 cup chopped onion",
-        "1 cup chopped red pepper",
-        "¼ cup chopped green pepper",
-        "2 cups white sugar",
-        "1 cup white vinegar",
-        "1 tsp salt"
+        "1½ cups Minute Rice",
+        "1½ cups chicken broth",
+        "2 cups cut up chicken breast",
+        "1 green pepper, diced",
+        "1 small red onion, chopped fine",
+        "1 mango, thinly sliced",
+        "1 small can pineapple, diced and drained",
+        "2 celery stalks, diced",
+        "⅓ cup Kraft Italian dressing"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+          "text": "Cook the Minute Rice in chicken broth according to package instructions."
         },
         {
           "@type": "HowToStep",
-          "text": "Let the dressing cool to room temperature."
+          "text": "Cook the chicken breast meat in a little oil until fully cooked."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the cooled dressing over the salad and toss to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
         }
       ],
-      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "sauerkraut-salad-82",
-      "score": 0.7482386759773035
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Thai Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
-        }
-      ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "thai-chicken-235",
-      "score": 0.7356066335475723
+      "url": "caribbean-chicken-salad-70",
+      "score": 0.7402786089004532
     }
   ]
 }

@@ -39,6 +39,7 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
   },
+  "url": "spareribs-to-go-204",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -101,7 +102,7 @@
         "totalTime": "55 minutes"
       },
       "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "score": 0.6340005777566009
+      "score": 0.6407463154963055
     },
     {
       "@context": "https://schema.org/",
@@ -177,7 +178,7 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "score": 0.633310275176219
+      "score": 0.6395596448794817
     },
     {
       "@context": "https://schema.org/",
@@ -251,7 +252,7 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.630853328573718
+      "score": 0.6380406234788562
     },
     {
       "@context": "https://schema.org/",
@@ -304,76 +305,53 @@
         "totalTime": "20 minutes"
       },
       "url": "zesty-bbq-sauce-136",
-      "score": 0.6143175498257906
+      "score": 0.6341420461900444
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Turkey or Chicken Pies",
+      "name": "Caesar Dressin' Salad",
       "author": {
         "@type": "Person",
-        "name": "Shirley Preszcator"
+        "name": "Linda Towton"
       },
-      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
-      "recipeCategory": "Main Course",
+      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
+      "recipeCategory": "Salad Dressing",
       "recipeCuisine": "American",
-      "prepTime": "PT45M",
-      "cookTime": "PT30M",
-      "totalTime": "PT1H15M",
-      "recipeYield": "Multiple individual pies or 1 large pie",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 batch",
       "recipeIngredient": [
-        "½ cup margarine",
-        "1 tsp salt",
-        "1 Tbsp onion, chopped",
-        "1 cup flour",
-        "¼ tsp salt",
-        "1½ tsp baking powder",
-        "3 cups chicken or turkey broth",
-        "3 Tbsp butter",
-        "3 cups diced turkey or chicken",
-        "1 cup frozen peas",
-        "1 cup diced carrots",
-        "½ cup celery, chopped",
-        "⅓ cup milk"
+        "½ tsp Worcestershire sauce",
+        "3 garlic cloves",
+        "½ tsp dry mustard",
+        "2 beaten egg yolks",
+        "½ tsp salt",
+        "½ cup lemon juice",
+        "Dash pepper",
+        "1 cup oil",
+        "¼ cup white sugar",
+        "1 cup Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
+          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Sauté chopped onion and celery until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil carrots until thoroughly cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cooked carrots with peas and the sauce made earlier."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until the crust is golden brown."
+          "text": "Can be kept in the fridge for up to 2 weeks."
         }
       ],
-      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
+      "keywords": "Caesar dressing, homemade salad dressing",
       "_naturalized_times": {
-        "prepTime": "45 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "1 hour 15 minutes"
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
       },
-      "url": "turkey-or-chicken-pies-251",
-      "score": 0.6083061511013887
+      "url": "caesar-dressin-salad-101",
+      "score": 0.6241149652729429
     }
   ]
 }

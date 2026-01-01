@@ -42,6 +42,7 @@
     "cookTime": "5 minutes",
     "totalTime": "15 minutes"
   },
+  "url": "hot-potato-salad-86",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -95,7 +96,7 @@
         "totalTime": "30 minutes"
       },
       "url": "sliced-bean-salad-49",
-      "score": 0.7005879197904661
+      "score": 0.7223018842042118
     },
     {
       "@context": "https://schema.org/",
@@ -164,55 +165,7 @@
         "totalTime": "1 hour"
       },
       "url": "sweet-potato-casserole-149",
-      "score": 0.6833603422077843
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cream of Potato Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Lori Allen"
-      },
-      "description": "A rich and creamy potato soup enhanced with Campbell's soup base, leeks, and mushrooms, topped with shredded cheddar cheese.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT2H30M",
-      "totalTime": "PT2H45M",
-      "recipeYield": "8-10 servings",
-      "recipeIngredient": [
-        "4 to 6 cups cooked potatoes, cubed",
-        "1 square Campbell's potato soup base",
-        "Salt and pepper to taste",
-        "Garlic salt to taste",
-        "1 to 2 cups finely chopped mushrooms",
-        "2 to 3 leeks, chopped fine",
-        "Shredded cheddar cheese (amount desired)",
-        "Water or milk (as needed for consistency)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large pot, combine all ingredients except cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring to a boil, stirring often, then simmer for 2 to 3 hours, adding more liquid if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add shredded cheddar cheese during the last 30 minutes of simmering."
-        }
-      ],
-      "keywords": "cream of potato soup, cheesy soup, slow-cooked soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "2 hours 30 minutes",
-        "totalTime": "2 hours 45 minutes"
-      },
-      "url": "cream-of-potato-soup-126",
-      "score": 0.6785808826416252
+      "score": 0.6884281036132123
     },
     {
       "@context": "https://schema.org/",
@@ -264,64 +217,131 @@
         "totalTime": "15 minutes"
       },
       "url": "strawberry-tossed-salad-96",
-      "score": 0.6723842485651347
+      "score": 0.6749744936795419
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sliced Baked Potatoes",
+      "name": "Corn Chowder",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Nola Ratz"
       },
-      "description": "A simple yet elegant baked potato dish featuring thinly sliced potatoes topped with melted cheddar and Parmesan cheese, and fresh herbs.",
-      "recipeCategory": "Side Dish",
+      "description": "A creamy corn chowder with bacon, potatoes, and a touch of milk.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "4 medium baking potatoes",
-        "2-3 Tbsp melted butter",
-        "2-3 Tbsp fresh chopped herbs (such as parsley, chives, thyme, or sage)",
-        "2 Tbsp grated cheddar cheese",
-        "1½ Tbsp Parmesan cheese"
+        "2 cups hot chicken stock",
+        "6 slices lean bacon",
+        "½ cup sliced onions",
+        "3 cups finely diced potatoes",
+        "½ cup chopped celery",
+        "1½ cups frozen or fresh corn kernels",
+        "1 Tbsp flour",
+        "¾ tsp salt",
+        "2½ cups milk",
+        "Pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Scrub and rinse the potatoes."
+          "text": "Chop bacon and sauté in a large heavy pot with onions for 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Cut the potatoes crosswise into thin slices, but not all the way through. Use the handle of a wooden spoon on either side of the potato to guide the knife."
+          "text": "Add celery and cook until onions are transparent."
         },
         {
           "@type": "HowToStep",
-          "text": "Place the potatoes on a baking sheet and fan them slightly."
+          "text": "Stir in flour, salt, and pepper. Cook for 4 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Drizzle the potatoes with melted butter and sprinkle with fresh herbs."
+          "text": "Gradually blend in hot stock, then add potatoes. Cover and simmer for 10 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 425°F for about 50 minutes."
+          "text": "Add corn and simmer for another 10 minutes, or until vegetables are tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle with cheddar and Parmesan cheese and return to the oven until the cheese is lightly browned and the potatoes are soft inside."
+          "text": "Scald milk and add to soup for desired consistency."
         }
       ],
-      "keywords": "baked potatoes, sliced potatoes, cheesy potatoes, herbed potatoes",
+      "keywords": "corn chowder, creamy soup, bacon soup",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
       },
-      "url": "sliced-baked-potatoes-138",
-      "score": 0.6674798830579565
+      "url": "corn-chowder-107",
+      "score": 0.6727398857102408
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Nola Ratz"
+      },
+      "description": "A creamy corn chowder with bacon, potatoes, and celery.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 cups hot chicken stock",
+        "6 slices lean bacon",
+        "1 cup sliced onions",
+        "3 cups finely diced potatoes",
+        "½ cup chopped celery",
+        "1½ cups frozen or fresh corn kernels",
+        "1 Tbsp flour",
+        "¾ tsp salt",
+        "2½ cups milk",
+        "Pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Chop bacon and sauté for 5 minutes in a large heavy pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onions and celery; cook until transparent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, and pepper; cook for 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually blend in hot stock, then add potatoes; cover and simmer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add corn and simmer for 10 minutes, or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scald milk and add to soup for desired consistency."
+        }
+      ],
+      "keywords": "corn chowder, creamy soup, bacon soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "corn-chowder-110",
+      "score": 0.6727398857102408
     }
   ]
 }

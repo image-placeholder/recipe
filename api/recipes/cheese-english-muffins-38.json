@@ -45,6 +45,7 @@
     "cookTime": "10 minutes",
     "totalTime": "20 minutes"
   },
+  "url": "cheese-english-muffins-38",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -101,7 +102,79 @@
         "totalTime": "1 hour 20 minutes"
       },
       "url": "cheese-dip-in-a-bread-bowl-4",
-      "score": 0.6439746047447695
+      "score": 0.6433194272943124
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Bacon Broccoli Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Meghan Brand"
+        },
+        {
+          "@type": "Person",
+          "name": "Mona Hamilton"
+        },
+        {
+          "@type": "Person",
+          "name": "Alwinna Galloway"
+        },
+        {
+          "@type": "Person",
+          "name": "Thelma Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Linda Nakamura"
+        }
+      ],
+      "description": "A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "3 cups broccoli florets",
+        "½ cup low-fat yogurt",
+        "½ cup chopped red onion",
+        "¼ cup light mayonnaise",
+        "¼ cup sunflower seeds",
+        "½ cup raisins",
+        "2 Tbsp sugar",
+        "1 Tbsp lemon juice",
+        "½ cup crumbled feta cheese",
+        "4 slices cooked bacon, crumbled"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the broccoli, red onion, sunflower seeds, raisins, and crumbled bacon in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the yogurt, mayonnaise, sugar, and lemon juice to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad ingredients and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 2 hours to allow the flavors to meld."
+        }
+      ],
+      "keywords": "broccoli salad, bacon salad, yogurt dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "url": "bacon-broccoli-salad-63",
+      "score": 0.643212282757091
     },
     {
       "@context": "https://schema.org/",
@@ -179,79 +252,7 @@
         "totalTime": "1 hour 35 minutes"
       },
       "url": "jelly-roll-style-meat-loaf-154",
-      "score": 0.6393133082920169
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Bacon Broccoli Salad",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Meghan Brand"
-        },
-        {
-          "@type": "Person",
-          "name": "Mona Hamilton"
-        },
-        {
-          "@type": "Person",
-          "name": "Alwinna Galloway"
-        },
-        {
-          "@type": "Person",
-          "name": "Thelma Finkbeiner"
-        },
-        {
-          "@type": "Person",
-          "name": "Linda Nakamura"
-        }
-      ],
-      "description": "A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "3 cups broccoli florets",
-        "½ cup low-fat yogurt",
-        "½ cup chopped red onion",
-        "¼ cup light mayonnaise",
-        "¼ cup sunflower seeds",
-        "½ cup raisins",
-        "2 Tbsp sugar",
-        "1 Tbsp lemon juice",
-        "½ cup crumbled feta cheese",
-        "4 slices cooked bacon, crumbled"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine the broccoli, red onion, sunflower seeds, raisins, and crumbled bacon in a large salad bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a separate bowl, mix together the yogurt, mayonnaise, sugar, and lemon juice to make the dressing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the dressing over the salad ingredients and toss to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate for 2 hours to allow the flavors to meld."
-        }
-      ],
-      "keywords": "broccoli salad, bacon salad, yogurt dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
-      },
-      "url": "bacon-broccoli-salad-63",
-      "score": 0.6378987721456415
+      "score": 0.640004719279773
     },
     {
       "@context": "https://schema.org/",
@@ -308,53 +309,57 @@
         "totalTime": "1 hour 45 minutes"
       },
       "url": "hot-cheese-dip-5",
-      "score": 0.633791698855328
+      "score": 0.6278707521718729
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheesy Meat Loaf",
+      "name": "Cheese Ball",
       "author": {
         "@type": "Person",
-        "name": "Pam Allen"
+        "name": "Loma Finkbeiner"
       },
-      "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
-      "recipeCategory": "Main Course",
+      "description": "A classic cheese ball made with grated cheese, Cheez Whiz, and deviled ham, perfect for a quick appetizer.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
-      "recipeYield": "1 loaf",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "2 cheese balls",
       "recipeIngredient": [
-        "1 lb ground beef",
-        "¾ cup bread crumbs",
-        "1 beaten egg",
-        "½ cup chopped onions",
-        "¼ cup chopped green pepper",
-        "¼ cup ketchup",
-        "¾ tsp salt",
-        "1 cup cheese, cut into small cubes",
-        "⅛ tsp pepper",
-        "Chili sauce (optional)"
+        "2 cups grated old cheese",
+        "1 tsp Worcestershire sauce",
+        "1/2 cup butter",
+        "1 cup Cheez Whiz",
+        "1 (3 oz) can deviled ham",
+        "Chopped pecans or parsley flakes for coating"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together until well combined."
+          "text": "Beat all ingredients in a mixer until creamed."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour."
+          "text": "Form into 2 balls and wrap in Saran Wrap."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll into chopped pecans or parsley flakes to coat."
         }
       ],
-      "keywords": "meat loaf, cheesy, ground beef, baked",
+      "keywords": "cheese ball, party appetizer, easy snack",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
+        "cookTime": "",
+        "totalTime": "15 minutes"
       },
-      "url": "cheesy-meat-loaf-153",
-      "score": 0.6262468632438971
+      "url": "cheese-ball-2",
+      "score": 0.6244922784274658
     }
   ]
 }

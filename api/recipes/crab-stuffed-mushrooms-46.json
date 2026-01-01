@@ -59,6 +59,7 @@
     "cookTime": "12 minutes",
     "totalTime": "32 minutes"
   },
+  "url": "crab-stuffed-mushrooms-46",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -122,6 +123,46 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Crab Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers."
+        }
+      ],
+      "keywords": "crab dip, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-dip-20",
+      "score": 0.7199875583661898
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Stuffed Mushrooms",
       "author": {
         "@type": "Person",
@@ -162,47 +203,7 @@
         "totalTime": "45 minutes"
       },
       "url": "stuffed-mushrooms-32",
-      "score": 0.7306166040805366
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Crab Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Deb (Finkbeiner) Lord"
-      },
-      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeIngredient": [
-        "8 oz package cream cheese",
-        "2 chopped green onions",
-        "8 oz can crab meat",
-        "Several dashes 'hot' sauce",
-        "Crackers for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with crackers."
-        }
-      ],
-      "keywords": "crab dip, seafood dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
-      },
-      "url": "crab-dip-20",
-      "score": 0.7199875583661898
+      "score": 0.7191920155628139
     },
     {
       "@context": "https://schema.org/",
@@ -259,7 +260,7 @@
         "totalTime": "25 minutes"
       },
       "url": "mushroom-soup-113",
-      "score": 0.6762358631082068
+      "score": 0.6773070214514082
     },
     {
       "@context": "https://schema.org/",
@@ -325,7 +326,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "cheddar-baked-potato-slices-140",
-      "score": 0.6586454267109586
+      "score": 0.6543144138592675
     }
   ]
 }

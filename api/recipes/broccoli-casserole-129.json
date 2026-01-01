@@ -50,6 +50,7 @@
     "cookTime": "35 minutes",
     "totalTime": "55 minutes"
   },
+  "url": "broccoli-casserole-129",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -107,58 +108,7 @@
         "totalTime": "50 minutes"
       },
       "url": "supreme-broccoli-soup-casserole-128",
-      "score": 0.8580433707988403
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken and Broccoli",
-      "author": {
-        "@type": "Person",
-        "name": "Marguerite Finkbeiner"
-      },
-      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 cup small shells pasta",
-        "1 can cream of mushroom soup",
-        "2 cups broccoli, cooked",
-        "1½ cups chicken, cooked and chopped",
-        "½ cup milk",
-        "½ cup Parmesan cheese",
-        "¼ tsp ground pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the small shells pasta according to package directions. Drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with a cranberry salad."
-        }
-      ],
-      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "chicken-and-broccoli-234",
-      "score": 0.8208019138848317
+      "score": 0.8666055432915417
     },
     {
       "@context": "https://schema.org/",
@@ -219,7 +169,7 @@
         "totalTime": "30 minutes"
       },
       "url": "cheese-broccoli-soup-105",
-      "score": 0.8195892824394047
+      "score": 0.8277771446698416
     },
     {
       "@context": "https://schema.org/",
@@ -288,7 +238,58 @@
         "totalTime": "30 minutes"
       },
       "url": "cheese-broccoli-soup-108",
-      "score": 0.8195892824394047
+      "score": 0.8277771446698416
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Broccoli",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 cup small shells pasta",
+        "1 can cream of mushroom soup",
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the small shells pasta according to package directions. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with a cranberry salad."
+        }
+      ],
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "chicken-and-broccoli-234",
+      "score": 0.8270639748092261
     },
     {
       "@context": "https://schema.org/",
@@ -352,7 +353,7 @@
         "totalTime": "50 minutes"
       },
       "url": "cauliflower-broccoli-casserole-144",
-      "score": 0.8049971259697452
+      "score": 0.805642205279157
     }
   ]
 }

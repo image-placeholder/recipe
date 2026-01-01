@@ -45,6 +45,7 @@
     "cookTime": "5 minutes",
     "totalTime": "25 minutes"
   },
+  "url": "coleslaw-chalet-dressing-57",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -91,7 +92,7 @@
         "totalTime": "20 minutes"
       },
       "url": "asian-coleslaw-61",
-      "score": 0.8062733321008124
+      "score": 0.8120784316720059
     },
     {
       "@context": "https://schema.org/",
@@ -139,7 +140,7 @@
         "totalTime": "8 hours 20 minutes"
       },
       "url": "layered-coleslaw-salad-62",
-      "score": 0.7920555215831039
+      "score": 0.7955892826250962
     },
     {
       "@context": "https://schema.org/",
@@ -192,59 +193,7 @@
         "totalTime": "20 minutes"
       },
       "url": "freezer-cole-slaw-58",
-      "score": 0.7352783621736277
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spinach Lettuce Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Jo Anne Pickering"
-      },
-      "description": "A fresh and versatile green salad with a homemade balsamic dressing and a crunchy topping made from toasted almonds, sesame seeds, and noodle soup mix.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT5M",
-      "totalTime": "PT20M",
-      "recipeIngredient": [
-        "Dressing: ½ cup balsamic vinegar",
-        "½ cup olive oil",
-        "¼ cup white sugar",
-        "1½ cup soya sauce",
-        "Toppings: 1 Tbsp butter",
-        "1 pkg noodle soup mix (without seasoning packet)",
-        "1 pkg slivered almonds",
-        "1 pkg sesame seeds",
-        "Any type of green leafy vegetable (spinach, lettuce, broccoli, coleslaw)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix the dressing ingredients together and refrigerate until ready to use."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Melt butter in a pan and add almonds, noodle soup mix (without spice packet), and sesame seeds. Toast until lightly browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Prepare the salad greens and store in the refrigerator."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Just before serving, pour the dressing over the salad and top with the toasted almond mixture."
-        }
-      ],
-      "keywords": "spinach salad, lettuce salad, homemade dressing, crunchy topping",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "spinach-lettuce-salad-83",
-      "score": 0.7006760287071719
+      "score": 0.7621705674801845
     },
     {
       "@context": "https://schema.org/",
@@ -290,7 +239,64 @@
         "totalTime": "5 minutes"
       },
       "url": "caesar-dressin-salad-101",
-      "score": 0.6964923259070652
+      "score": 0.7145383895461869
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the marinade well in the morning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve."
+        }
+      ],
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
+      },
+      "url": "onion-salad-74",
+      "score": 0.7139061868610077
     }
   ]
 }

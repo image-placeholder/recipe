@@ -51,61 +51,8 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
+  "url": "taco-salad-97",
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mexican Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Sheila Jarvie"
-      },
-      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "8 to 9 servings",
-      "recipeIngredient": [
-        "¾ cup kidney beans",
-        "¾ cup lentils",
-        "½ cup diced tomato",
-        "1 cup shredded lettuce",
-        "½ green pepper, chopped",
-        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
-        "2 green onions, chopped",
-        "¼ cup Catalina dressing",
-        "¼ cup salsa",
-        "Taco chips for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss the salad with Catalina dressing until well coated."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the salad with salsa."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately with taco chips on the side."
-        }
-      ],
-      "keywords": "Mexican salad, bean salad, taco chips",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
-      },
-      "url": "mexican-salad-50",
-      "score": 0.7737239532182442
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -182,7 +129,61 @@
         "totalTime": "36 minutes"
       },
       "url": "taco-ring-183",
-      "score": 0.7701474087712056
+      "score": 0.7774845066644792
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "mexican-salad-50",
+      "score": 0.7606583596068411
     },
     {
       "@context": "https://schema.org/",
@@ -239,7 +240,60 @@
         "totalTime": "8 hours 10 minutes"
       },
       "url": "onion-salad-74",
-      "score": 0.7680877991779386
+      "score": 0.744025975914044
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caribbean Chicken Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Caribbean-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1½ cups chicken broth",
+        "2 cups cut up chicken breast",
+        "1 green pepper, diced",
+        "1 small red onion, chopped fine",
+        "1 mango, thinly sliced",
+        "1 small can pineapple, diced and drained",
+        "2 celery stalks, diced",
+        "⅓ cup Kraft Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the Minute Rice in chicken broth according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chicken breast meat in a little oil until fully cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
+        }
+      ],
+      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "caribbean-chicken-salad-70",
+      "score": 0.7409145624950273
     },
     {
       "@context": "https://schema.org/",
@@ -304,60 +358,7 @@
         "totalTime": "35 minutes"
       },
       "url": "nacho-salad-73",
-      "score": 0.7545596730659597
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Caribbean Chicken Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Chris Dinney"
-      },
-      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Caribbean-inspired",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1½ cups Minute Rice",
-        "1½ cups chicken broth",
-        "2 cups cut up chicken breast",
-        "1 green pepper, diced",
-        "1 small red onion, chopped fine",
-        "1 mango, thinly sliced",
-        "1 small can pineapple, diced and drained",
-        "2 celery stalks, diced",
-        "⅓ cup Kraft Italian dressing"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the Minute Rice in chicken broth according to package instructions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the chicken breast meat in a little oil until fully cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
-        }
-      ],
-      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "caribbean-chicken-salad-70",
-      "score": 0.7487996834382544
+      "score": 0.7406674843468689
     }
   ]
 }

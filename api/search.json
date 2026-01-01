@@ -1,1 +1,2297 @@
-[]
+[
+  {
+    "name": "Artichoke Appetizer",
+    "author": "Loma Finkbeiner",
+    "keyword": "artichoke appetizer, cheesy dip, party snack",
+    "description": "A warm, cheesy artichoke appetizer perfect for serving with bread or crackers.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/artichoke-appetizer-1"
+  },
+  {
+    "name": "Cheese Ball",
+    "author": "Loma Finkbeiner",
+    "keyword": "cheese ball, party appetizer, easy snack",
+    "description": "A classic cheese ball made with grated cheese, Cheez Whiz, and deviled ham, perfect for a quick appetizer.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/cheese-ball-2"
+  },
+  {
+    "name": "Layered Cheese Ball",
+    "author": "Loma Finkbeiner",
+    "keyword": "layered cheese ball, party appetizer, elegant snack",
+    "description": "A visually appealing layered cheese ball made with cream cheese, pineapple, cherries, and pecans.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/layered-cheese-ball-3"
+  },
+  {
+    "name": "Cheese Dip in a Bread Bowl",
+    "author": "Sherri Haugh",
+    "keyword": "bread bowl dip, ham and cheese dip, party appetizer",
+    "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/cheese-dip-in-a-bread-bowl-4"
+  },
+  {
+    "name": "Hot Cheese Dip",
+    "author": "Heather Clarke",
+    "keyword": "pumpernickel dip, hot bacon dip, cheddar dip",
+    "description": "A creamy bacon and cheddar dip baked inside a pumpernickel bread shell.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/hot-cheese-dip-5"
+  },
+  {
+    "name": "Chili Brie in Sourdough",
+    "author": "Sherri Haugh",
+    "keyword": "chili brie, sourdough brie, melted cheese appetizer",
+    "description": "A sourdough loaf stuffed with molten Brie cheese and seasoned with a smoky chili spice blend.",
+    "category": "Appetizer",
+    "cuisine": "Fusion",
+    "url": "recipes/chili-brie-in-sourdough-6"
+  },
+  {
+    "name": "Crab & Cheese Platter",
+    "author": "Dob (Finkboiner) Lord",
+    "keyword": "crab dip, layered platter, seafood appetizer",
+    "description": "A layered seafood appetizer featuring a creamy cheese base topped with cocktail sauce and crab meat.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/crab-cheese-platter-7"
+  },
+  {
+    "name": "Party Salmon Ball",
+    "author": "Tanya Allen",
+    "keyword": "salmon ball, cheese ball, party dip, holiday appetizer",
+    "description": "A classic chilled salmon and cream cheese ball coated in crunchy nuts and parsley.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/party-salmon-ball-8"
+  },
+  {
+    "name": "Salmon Dip",
+    "author": "Jo Anne Pickering",
+    "keyword": "salmon dip, salmon spread, red salmon",
+    "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/salmon-dip-9"
+  },
+  {
+    "name": "Shrimp Spread",
+    "author": "Janet Dearing",
+    "keyword": "shrimp spread, seafood dip, party appetizer",
+    "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/shrimp-spread-10"
+  },
+  {
+    "name": "Surprise Spread",
+    "author": "Lori Allen",
+    "keyword": "layered shrimp dip, seafood spread, party dip",
+    "description": "A layered seafood dip with shrimp, cocktail sauce, and cheese.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/surprise-spread-11"
+  },
+  {
+    "name": "Mexican Fudge",
+    "author": "Linda Finkbeiner",
+    "keyword": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
+    "description": "A warm, cheesy baked appetizer served on Triscuits.",
+    "category": "Appetizer",
+    "cuisine": "Mexican-American",
+    "url": "recipes/mexican-fudge-12"
+  },
+  {
+    "name": "Cracker Spread",
+    "author": "Irene Haugh",
+    "keyword": "cheese spread, cracker dip, party appetizer",
+    "description": "A simple and creamy cheese spread made with tomato soup and Kraft cheese, served with crackers.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/cracker-spread-13"
+  },
+  {
+    "name": "Curry Dip",
+    "author": "Linda Finkbeiner",
+    "keyword": "curry dip, spicy dip, party appetizer",
+    "description": "A flavorful and spicy dip made with mayonnaise, curry powder, and chili sauce, perfect for serving with snacks.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/curry-dip-14"
+  },
+  {
+    "name": "Guacamole",
+    "author": "Christopher Mullin",
+    "keyword": "guacamole, avocado dip, Mexican appetizer",
+    "description": "A fresh and simple guacamole recipe made with chilled avocado, lime juice, and minced Spanish onion.",
+    "category": "Appetizer",
+    "cuisine": "Mexican",
+    "url": "recipes/guacamole-15"
+  },
+  {
+    "name": "Spinach Dip",
+    "author": "Ruth Slaght, Jo Anne Pickering",
+    "keyword": "spinach dip, party appetizer, pumpernickel bread",
+    "description": "A creamy spinach dip made with sour cream, mayonnaise, and Knorr vegetable soup mix, served in a hollowed-out pumpernickel bread loaf.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/spinach-dip-16"
+  },
+  {
+    "name": "Vegetable Dip",
+    "author": "Lori Allen, Louise Wein",
+    "keyword": "vegetable dip, sour cream dip, party appetizer",
+    "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/vegetable-dip-17"
+  },
+  {
+    "name": "Vegetable Dip",
+    "author": "Jacqui Wein",
+    "keyword": "vegetable dip, Miracle Whip dip, easy appetizer",
+    "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/vegetable-dip-18"
+  },
+  {
+    "name": "Yogurt Dip",
+    "author": "Jo Anne Pickering",
+    "keyword": "yogurt dip, healthy dip, vegetable dip",
+    "description": "A refreshing yogurt-based dip flavored with mayonnaise, herbs, and seasonings, perfect for vegetables.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/yogurt-dip-19"
+  },
+  {
+    "name": "Crab Dip",
+    "author": "Deb (Finkbeiner) Lord",
+    "keyword": "crab dip, seafood dip, party appetizer",
+    "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/crab-dip-20"
+  },
+  {
+    "name": "Hot Taco Dip",
+    "author": "Brenda Martene",
+    "keyword": "hot taco dip, taco dip, Mexican appetizer, cheesy dip",
+    "description": "A warm, layered taco dip featuring seasoned ground beef, sour cream, and melted cheddar cheese, served with tortilla chips.",
+    "category": "Appetizer",
+    "cuisine": "Mexican-American",
+    "url": "recipes/hot-taco-dip-21"
+  },
+  {
+    "name": "Fresh Fruit Platter with Dip",
+    "author": "Donelda Lewis",
+    "keyword": "fresh fruit platter, vanilla pudding dip, Cool Whip, Grand Marnier, healthy appetizer",
+    "description": "A colorful and refreshing fruit platter served with a creamy vanilla pudding dip, optionally flavored with Grand Marnier.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/fresh-fruit-platter-with-dip-22"
+  },
+  {
+    "name": "Pina Colada Dip",
+    "author": "Betty Glanville",
+    "keyword": "pina colada dip, fruit dip, coconut pudding, party appetizer",
+    "description": "A creamy and tropical dip made with pineapple, coconut pudding, and sour cream, perfect for serving with fresh fruit.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/pina-colada-dip-23"
+  },
+  {
+    "name": "Fruit Dip",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "fruit dip, orange cream cheese, marshmallow dip",
+    "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/fruit-dip-24"
+  },
+  {
+    "name": "Fluffy Fruit Dip",
+    "author": "Tanya Allen, Lorie Van Volkengoed, Kim MacDonald",
+    "keyword": "fluffy fruit dip, marshmallow dip, sweet appetizer",
+    "description": "A light and airy fruit dip made with softened cream cheese, marshmallow creme, and vanilla extract.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/fluffy-fruit-dip-25"
+  },
+  {
+    "name": "Roasted Chestnuts",
+    "author": "Julie-Ann Bibby",
+    "keyword": "roasted chestnuts, savory snack, holiday appetizer",
+    "description": "Tender and flavorful roasted chestnuts seasoned with butter, salt, and cinnamon.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/roasted-chestnuts-26"
+  },
+  {
+    "name": "Chili Con Queso (Nacho Cheese Dip)",
+    "author": "Marti Mockler, Irene Haugh",
+    "keyword": "nacho cheese dip, chili con queso, cheesy dip, tortilla chip dip",
+    "description": "A warm, cheesy dip made with cream cheese, cheddar cheese soup, and processed cheese, perfect for tortilla chips.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/chili-con-queso-nacho-cheese-dip-27"
+  },
+  {
+    "name": "Nacho Fiesta Dip",
+    "author": "Chris Dinney",
+    "keyword": "layered dip, nacho fiesta, taco seasoning, cheesy dip",
+    "description": "A layered dip featuring cottage cheese, cream cheese, and taco seasoning, topped with lettuce, tomatoes, and cheddar cheese.",
+    "category": "Appetizer",
+    "cuisine": "Mexican-American",
+    "url": "recipes/nacho-fiesta-dip-28"
+  },
+  {
+    "name": "Nacho Dip",
+    "author": "Meghan Brand",
+    "keyword": "nacho dip, creamy dip, taco seasoning, salsa dip",
+    "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+    "category": "Appetizer",
+    "cuisine": "Mexican-American",
+    "url": "recipes/nacho-dip-29"
+  },
+  {
+    "name": "Plain Pickled Eggs",
+    "author": "Antonia Hull",
+    "keyword": "pickled eggs, cider vinegar, appetizer",
+    "description": "A simple recipe for pickled eggs with a tangy cider vinegar brine and sliced onions.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/plain-pickled-eggs-30"
+  },
+  {
+    "name": "Fancy Pickled Eggs",
+    "author": "Antonia Hull",
+    "keyword": "pickled eggs, beets, appetizer, purple eggs",
+    "description": "A variation of pickled eggs with beets, giving them a distinctive purple color and sweet flavor.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/fancy-pickled-eggs-31"
+  },
+  {
+    "name": "Stuffed Mushrooms",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "stuffed mushrooms, appetizer, bacon, cream cheese",
+    "description": "A savory appetizer of mushroom caps filled with a creamy mixture of bacon, cream cheese, and Parmesan.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/stuffed-mushrooms-32"
+  },
+  {
+    "name": "Quick Garlic Fingers",
+    "author": "Lori Allen",
+    "keyword": "garlic fingers, cheesy bread, quick appetizer",
+    "description": "A simple and flavorful appetizer featuring garlic-infused margarine on flatbread topped with a blend of cheddar, mozzarella, and Monterey Jack cheese.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/quick-garlic-fingers-33"
+  },
+  {
+    "name": "Hard Boiled Eggs/Devilled Eggs",
+    "author": "Missy MacLeod",
+    "keyword": "deviled eggs, hard-boiled eggs, appetizer",
+    "description": "A classic deviled egg recipe with a creamy yolk filling, garnished with paprika and optional olive slices.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/hard-boiled-eggsdevilled-eggs-34"
+  },
+  {
+    "name": "Pickled Eggs",
+    "author": "Margaret Beaver",
+    "keyword": "pickled eggs, tangy snack, preserved eggs",
+    "description": "Tangy pickled eggs made with vinegar, mustard, and spices, perfect for snacking or as a side dish.",
+    "category": "Snack",
+    "cuisine": "American",
+    "url": "recipes/pickled-eggs-35"
+  },
+  {
+    "name": "Fairest Wheels",
+    "author": "Dianne Finkbeiner",
+    "keyword": "chicken roll-ups, cheese snack, cold appetizer",
+    "description": "A chilled, rolled tortilla snack filled with a spicy chicken and cheese mixture.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/fairest-wheels-36"
+  },
+  {
+    "name": "Sticky Wings",
+    "author": "Louise Wein",
+    "keyword": "sticky chicken wings, baked wings, appetizer",
+    "description": "Baked chicken wings glazed with a sweet and savory brown sugar and soy sauce mixture.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/sticky-wings-37"
+  },
+  {
+    "name": "Cheese English Muffins",
+    "author": "Deb Hodge",
+    "keyword": "cheese English muffins, appetizer, snack",
+    "description": "Toasted English muffin quarters topped with a rich cheese and bacon mixture.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/cheese-english-muffins-38"
+  },
+  {
+    "name": "Water Chestnuts Wrapped in Bacon",
+    "author": "Diane Dinney",
+    "keyword": "bacon-wrapped water chestnuts, appetizer, savory snack",
+    "description": "Bacon-wrapped water chestnuts marinated in a savory mixture of soya sauce and Worcestershire sauce, then baked until crispy.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/water-chestnuts-wrapped-in-bacon-39"
+  },
+  {
+    "name": "Bacon Wrapped Water Chestnuts",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "bacon-wrapped water chestnuts, sweet and savory, appetizer",
+    "description": "Sweet and savory bacon-wrapped water chestnuts marinated overnight in a mixture of soya sauce and brown sugar.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/bacon-wrapped-water-chestnuts-40"
+  },
+  {
+    "name": "Rumaki",
+    "author": "Leanne Robinson",
+    "keyword": "rumaki, bacon-wrapped water chestnuts, appetizer",
+    "description": "Classic rumaki appetizer featuring bacon-wrapped water chestnuts baked in a ketchup and brown sugar glaze.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/rumaki-41"
+  },
+  {
+    "name": "Jo-Ann's Homemade Iced Tea",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "homemade iced tea, sweet tea, lemonade-infused tea, refreshing drink",
+    "description": "A refreshing homemade iced tea recipe sweetened with sugar and mixed with frozen lemonade for a tangy twist.",
+    "category": "Beverage",
+    "cuisine": "American",
+    "url": "recipes/jo-anns-homemade-iced-tea-42"
+  },
+  {
+    "name": "Stuffed Pita Pockets",
+    "author": "Jordan Slaght",
+    "keyword": "pita pockets, ranch dip, feta cheese, appetizer",
+    "description": "A refreshing appetizer featuring mini pita pockets filled with a creamy ranch and feta cheese mixture, topped with cucumbers and tomatoes.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/stuffed-pita-pockets-43"
+  },
+  {
+    "name": "Sausage Balls",
+    "author": "Irene Haugh",
+    "keyword": "sausage balls, cheddar soup, biscuit mix, party snack",
+    "description": "Crispy sausage and cheddar balls perfect for snacking or parties, made with biscuit mix and baked until golden.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/sausage-balls-44"
+  },
+  {
+    "name": "T.V. Mix",
+    "author": "Donald Finkbeiner, Margaret Beaver, Brenda Martene, Phyllis Lightfoot",
+    "keyword": "snack mix, Chex mix, party snack, savory snack",
+    "description": "A savory and crunchy snack mix featuring pretzels, Chex cereals, nuts, and a blend of seasonings, perfect for munching.",
+    "category": "Snack",
+    "cuisine": "American",
+    "url": "recipes/tv-mix-45"
+  },
+  {
+    "name": "Crab-Stuffed Mushrooms",
+    "author": "Antonia Hull",
+    "keyword": "crab stuffed mushrooms, appetizer, seafood",
+    "description": "A savory appetizer featuring large mushrooms filled with a crab meat and cheese mixture, baked until golden.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/crab-stuffed-mushrooms-46"
+  },
+  {
+    "name": "Veggie Pizza",
+    "author": "Linda Nakamura, Teena Houston",
+    "keyword": "veggie pizza, appetizer, crescent rolls",
+    "description": "A simple and customizable veggie pizza using crescent rolls as the crust, topped with a cream cheese mixture and various vegetables.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/veggie-pizza-47"
+  },
+  {
+    "name": "Black Bean Salad",
+    "author": "Julie-Ann Bibby",
+    "keyword": "black bean salad, Mexican salad, fresh corn",
+    "description": "A fresh and vibrant salad featuring black beans, salsa, and corn kernels on a bed of romaine lettuce.",
+    "category": "Salad",
+    "cuisine": "Mexican-American",
+    "url": "recipes/black-bean-salad-48"
+  },
+  {
+    "name": "Sliced Bean Salad",
+    "author": "Phyllis Lightfoot",
+    "keyword": "pickled bean salad, sweet and tangy, preserved beans",
+    "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/sliced-bean-salad-49"
+  },
+  {
+    "name": "Mexican Salad",
+    "author": "Sheila Jarvie",
+    "keyword": "Mexican salad, bean salad, taco chips",
+    "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+    "category": "Salad",
+    "cuisine": "Mexican-American",
+    "url": "recipes/mexican-salad-50"
+  },
+  {
+    "name": "Breakfast Orange Smoothie",
+    "author": "Barbara Robertson",
+    "keyword": "orange smoothie, breakfast drink, healthy beverage",
+    "description": "A refreshing and healthy orange smoothie made with milk, banana, and a touch of silken tofu for creaminess.",
+    "category": "Beverage",
+    "cuisine": "American",
+    "url": "recipes/breakfast-orange-smoothie-51"
+  },
+  {
+    "name": "Wassail",
+    "author": "Bonnie McNutt",
+    "keyword": "wassail, apple cider drink, holiday beverage, spiced drink",
+    "description": "A warm and spicy apple cider drink perfect for the holiday season, flavored with lemon, cinnamon, and pineapple juice.",
+    "category": "Beverage",
+    "cuisine": "American",
+    "url": "recipes/wassail-52"
+  },
+  {
+    "name": "Punch",
+    "author": "June Schroeder",
+    "keyword": "fruit punch, party drink, refreshing beverage",
+    "description": "A refreshing fruit punch made with grape juice, orange juice, ginger ale, and lemon-lime soda.",
+    "category": "Beverage",
+    "cuisine": "American",
+    "url": "recipes/punch-53"
+  },
+  {
+    "name": "Perfect Punch",
+    "author": "Julie-Ann Bibby",
+    "keyword": "party punch, fruity drink, sherbet punch",
+    "description": "A fruity and bubbly punch made with orange juice, lemonade, and raspberry sherbet.",
+    "category": "Beverage",
+    "cuisine": "American",
+    "url": "recipes/perfect-punch-54"
+  },
+  {
+    "name": "Wilmar Wein Punch",
+    "author": "Wilmar Wein",
+    "keyword": "adult punch, cocktail party, sophisticated drink",
+    "description": "A sophisticated punch made with gin, grenadine, cherry brandy, and sweetened orange and grapefruit juice.",
+    "category": "Cocktail",
+    "cuisine": "Adult Beverage",
+    "url": "recipes/wilmar-wein-punch-55"
+  },
+  {
+    "name": "Orange Julius Drink",
+    "author": "Dave MacLeod",
+    "keyword": "orange drink, creamy beverage, frozen orange juice",
+    "description": "A creamy and refreshing orange drink made with frozen orange juice concentrate, milk, and vanilla.",
+    "category": "Beverage",
+    "cuisine": "American",
+    "url": "recipes/orange-julius-drink-56"
+  },
+  {
+    "name": "Coleslaw Chalet Dressing",
+    "author": "Ruth Haines",
+    "keyword": "coleslaw, chalet dressing, salad",
+    "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/coleslaw-chalet-dressing-57"
+  },
+  {
+    "name": "Freezer Cole Slaw",
+    "author": "Bonnie McNutt",
+    "keyword": "freezer coleslaw, slaw, salad",
+    "description": "A freezer coleslaw recipe with a sweet and tangy dressing, made with grated cabbage and optional vegetables.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/freezer-cole-slaw-58"
+  },
+  {
+    "name": "Caesar Salad",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "Caesar salad, bacon, croutons, homemade dressing",
+    "description": "A classic Caesar salad recipe with romaine lettuce, crumbled bacon, croutons, and a homemade dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/caesar-salad-59"
+  },
+  {
+    "name": "Broccoli Supreme",
+    "author": "Louise Wein",
+    "keyword": "broccoli salad, bacon, creamy dressing",
+    "description": "A chilled broccoli salad with raisins, bacon, and a creamy cheese dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/broccoli-supreme-60"
+  },
+  {
+    "name": "Asian Coleslaw",
+    "author": "Dianne Finkbeiner",
+    "keyword": "Asian coleslaw, toasted nuts, noodles",
+    "description": "A crunchy Asian-inspired coleslaw with toasted nuts and noodles.",
+    "category": "Salad",
+    "cuisine": "Asian-American",
+    "url": "recipes/asian-coleslaw-61"
+  },
+  {
+    "name": "Layered Coleslaw Salad",
+    "author": "Kim MacDonald",
+    "keyword": "layered coleslaw, creamy dressing, overnight salad",
+    "description": "A layered coleslaw salad with shredded carrots, snow peas, and a creamy Miracle Whip dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/layered-coleslaw-salad-62"
+  },
+  {
+    "name": "Bacon Broccoli Salad",
+    "author": "Meghan Brand, Mona Hamilton, Alwinna Galloway, Thelma Finkbeiner, Linda Nakamura",
+    "keyword": "broccoli salad, bacon salad, yogurt dressing",
+    "description": "A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/bacon-broccoli-salad-63"
+  },
+  {
+    "name": "Fresh Broccoli Mandarin Salad",
+    "author": "Sandra Vandeworp (Finkbeiner)",
+    "keyword": "broccoli mandarin salad, creamy dressing, fresh salad",
+    "description": "A refreshing salad featuring fresh broccoli, mandarin oranges, mushrooms, and a rich, creamy dressing with a hint of mustard.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/fresh-broccoli-mandarin-salad-64"
+  },
+  {
+    "name": "Chicken Grape Salad",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "chicken salad, grape salad, creamy dressing",
+    "description": "A refreshing salad made with cooked chicken, green grapes, celery, and toasted almonds, mixed with a creamy dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/chicken-grape-salad-65"
+  },
+  {
+    "name": "Cottage Cheese Jellied Salad",
+    "author": "Jean E. Neil",
+    "keyword": "cottage cheese salad, jellied salad, pineapple salad",
+    "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/cottage-cheese-jellied-salad-66"
+  },
+  {
+    "name": "Cranberry Mold",
+    "author": "Mary Kenney",
+    "keyword": "cranberry mold, gelatin salad, holiday side dish",
+    "description": "A festive cranberry salad molded with cherry-flavored gelatin, celery, and nuts, perfect as a side dish for turkey.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/cranberry-mold-67"
+  },
+  {
+    "name": "Club Salad",
+    "author": "Linda Finkbeiner",
+    "keyword": "layered salad, club salad, ranch dressing",
+    "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/club-salad-68"
+  },
+  {
+    "name": "Greek Salad",
+    "author": "Barbara Robertson",
+    "keyword": "Greek salad, marinated tomatoes, feta cheese, homemade dressing",
+    "description": "A refreshing Greek salad with marinated tomatoes, mixed greens, feta cheese, and a homemade dressing.",
+    "category": "Salad",
+    "cuisine": "Greek",
+    "url": "recipes/greek-salad-69"
+  },
+  {
+    "name": "Caribbean Chicken Salad",
+    "author": "Chris Dinney",
+    "keyword": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+    "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
+    "category": "Salad",
+    "cuisine": "Caribbean-inspired",
+    "url": "recipes/caribbean-chicken-salad-70"
+  },
+  {
+    "name": "Cornbread Salad",
+    "author": "Lorna Finkbeiner",
+    "keyword": "Cornbread salad, layered salad, Southwestern salad",
+    "description": "A layered salad with crumbled cornbread, black beans, corn, cheese, and a creamy dressing, perfect for chilling before serving.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/cornbread-salad-71"
+  },
+  {
+    "name": "Macaroni Salad",
+    "author": "Theresa Finkbeiner",
+    "keyword": "macaroni salad, tuna salad, cheddar cheese",
+    "description": "A classic macaroni salad with tuna, ham, and cheddar cheese, mixed with Miracle Whip and spices.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/macaroni-salad-72"
+  },
+  {
+    "name": "Nacho Salad",
+    "author": "Martine Bercier",
+    "keyword": "nacho salad, spicy salad, ground beef salad",
+    "description": "A spicy nacho salad with ground beef, lettuce, tomatoes, and nacho chips, topped with a creamy dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/nacho-salad-73"
+  },
+  {
+    "name": "Onion Salad",
+    "author": "Wallace Pfaff, Joanne Pickering",
+    "keyword": "onion salad, marinated onions, sweet and tangy salad",
+    "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/onion-salad-74"
+  },
+  {
+    "name": "Orange Jello Salad",
+    "author": "Betty Macisaac",
+    "keyword": "orange Jello salad, mandarin oranges, Dream Whip",
+    "description": "A simple orange Jello salad with mandarin oranges and Dream Whip.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/orange-jello-salad-75"
+  },
+  {
+    "name": "Orange-Pineapple Jello",
+    "author": "Shelley Kinsman",
+    "keyword": "orange-pineapple Jello, fruity dessert, nuts",
+    "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/orange-pineapple-jello-76"
+  },
+  {
+    "name": "Party-Time Salad",
+    "author": "Phyllis Bender",
+    "keyword": "party-time salad, lime Jello, cream cheese, pineapple",
+    "description": "A creamy lime Jello salad with pineapple, cream cheese, and celery.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/party-time-salad-77"
+  },
+  {
+    "name": "Cranberry Mold",
+    "author": "Betty Macisaac",
+    "keyword": "cranberry mold, raspberry Jello, dessert",
+    "description": "A simple cranberry mold dessert made with raspberry Jello, sugar, and whole orange.",
+    "category": "Dessert",
+    "cuisine": "American",
+    "url": "recipes/cranberry-mold-78"
+  },
+  {
+    "name": "Fruit Mold Ring-Around",
+    "author": "Norma Fahner",
+    "keyword": "fruit mold, layered Jello, dessert",
+    "description": "A layered fruit mold dessert featuring red and lemon Jello with canned fruit and ginger ale.",
+    "category": "Dessert",
+    "cuisine": "American",
+    "url": "recipes/fruit-mold-ring-around-79"
+  },
+  {
+    "name": "Lemon Salad",
+    "author": "Mona Hamilton",
+    "keyword": "lemon Jello, whipped dessert, Dream Whip",
+    "description": "A light and fluffy lemon Jello dessert mixed with whipped Dream Whip.",
+    "category": "Dessert",
+    "cuisine": "American",
+    "url": "recipes/lemon-salad-80"
+  },
+  {
+    "name": "Chinese Rice Salad",
+    "author": "Ruth Haines",
+    "keyword": "Chinese rice salad, savory salad, Minute Rice",
+    "description": "A flavorful salad made with Minute Rice, frozen peas, chopped celery, and a savory dressing, optionally garnished with chow mein noodles and shrimp.",
+    "category": "Salad",
+    "cuisine": "Chinese-American",
+    "url": "recipes/chinese-rice-salad-81"
+  },
+  {
+    "name": "Sauerkraut Salad",
+    "author": "Lorna Finkbeiner",
+    "keyword": "sauerkraut salad, tangy salad, make-ahead salad",
+    "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/sauerkraut-salad-82"
+  },
+  {
+    "name": "Spinach Lettuce Salad",
+    "author": "Jo Anne Pickering",
+    "keyword": "spinach salad, lettuce salad, homemade dressing, crunchy topping",
+    "description": "A fresh and versatile green salad with a homemade balsamic dressing and a crunchy topping made from toasted almonds, sesame seeds, and noodle soup mix.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/spinach-lettuce-salad-83"
+  },
+  {
+    "name": "Romaine Salad with Orange",
+    "author": "Donelda Lewis",
+    "keyword": "romaine salad, orange salad, vinaigrette dressing",
+    "description": "A refreshing salad featuring romaine lettuce, oranges, and red onion with a light vinaigrette dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/romaine-salad-with-orange-84"
+  },
+  {
+    "name": "Pasta Salad",
+    "author": "Lorie Van Valkengoed",
+    "keyword": "pasta salad, feta cheese, herb dressing, vegetable salad",
+    "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/pasta-salad-85"
+  },
+  {
+    "name": "Hot Potato Salad",
+    "author": "Margaret Beaver",
+    "keyword": "hot potato salad, vinegar dressing, warm salad",
+    "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/hot-potato-salad-86"
+  },
+  {
+    "name": "Tossed Berry-Mandarin Salad",
+    "author": "Anne Cotte",
+    "keyword": "fruit salad, mixed greens, strawberry, mandarin orange, bacon",
+    "description": "A refreshing mixed greens salad with strawberries, mandarin oranges, sweet onion, and bacon, topped with a homemade honey-cider dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/tossed-berry-mandarin-salad-87"
+  },
+  {
+    "name": "Mandarin Orange Salad",
+    "author": "Ruth Haines",
+    "keyword": "mandarin orange salad, spinach salad, homemade dressing",
+    "description": "A classic spinach and lettuce salad with mandarin oranges and toasted almonds, dressed with a sweet and tangy homemade vinaigrette.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/mandarin-orange-salad-88"
+  },
+  {
+    "name": "Taco Salad",
+    "author": "Deb Hodge",
+    "keyword": "taco salad, ground beef, taco chips, cheddar cheese",
+    "description": "A hearty taco salad with seasoned ground beef, crunchy taco chips, and cheddar cheese, all tossed in Catalina dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/taco-salad-89"
+  },
+  {
+    "name": "Tomato Chickpea Salad",
+    "author": "Jennifer Morlock",
+    "keyword": "chickpea salad, tomato salad, Mediterranean salad, feta cheese",
+    "description": "A refreshing salad featuring chickpeas, diced tomatoes, cucumber, and crumbled feta, all tossed in a tangy herb-infused dressing.",
+    "category": "Salad",
+    "cuisine": "Mediterranean",
+    "url": "recipes/tomato-chickpea-salad-90"
+  },
+  {
+    "name": "Marinated Vegetable Salad",
+    "author": "Ruth Haines",
+    "keyword": "marinated vegetables, vegetable salad, Italian dressing",
+    "description": "A colorful and versatile marinated vegetable salad perfect for serving as finger food or a side dish.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/marinated-vegetable-salad-91"
+  },
+  {
+    "name": "Taco Salad",
+    "author": "Deb Hodge",
+    "keyword": "taco salad, ground beef, taco chips, Catalina dressing",
+    "description": "A hearty taco salad with seasoned ground beef, lettuce, cheese, and crushed taco chips, mixed with Catalina dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/taco-salad-92"
+  },
+  {
+    "name": "Tomato Chickpea Salad",
+    "author": "Jennifer Morlock",
+    "keyword": "chickpea salad, tomato salad, Mediterranean salad, vinaigrette dressing",
+    "description": "A refreshing salad featuring chickpeas, diced tomatoes, cucumber, and feta cheese, dressed with a tangy vinaigrette.",
+    "category": "Salad",
+    "cuisine": "Mediterranean",
+    "url": "recipes/tomato-chickpea-salad-93"
+  },
+  {
+    "name": "Marinated Vegetable Salad",
+    "author": "Ruth Haines",
+    "keyword": "marinated vegetables, vegetable salad, Italian dressing",
+    "description": "A colorful salad of marinated vegetables including cauliflower, broccoli, carrots, and radishes, dressed with Italian dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/marinated-vegetable-salad-94"
+  },
+  {
+    "name": "Wilting Spinach Salad",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "spinach salad, wilting spinach, warm salad",
+    "description": "A warm spinach salad with garlic, almonds, and a balsamic vinegar dressing.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/wilting-spinach-salad-95"
+  },
+  {
+    "name": "Strawberry Tossed Salad",
+    "author": "Donelda Lewis",
+    "keyword": "strawberry salad, fruit salad, sweet salad dressing",
+    "description": "A fresh and fruity salad with mixed greens, strawberries, and a sweet vinaigrette.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/strawberry-tossed-salad-96"
+  },
+  {
+    "name": "Taco Salad",
+    "author": "Lori Allen",
+    "keyword": "taco salad, Mexican salad, ground beef salad",
+    "description": "A hearty taco salad with seasoned ground beef, mixed greens, and crunchy corn chips.",
+    "category": "Salad",
+    "cuisine": "Mexican-American",
+    "url": "recipes/taco-salad-97"
+  },
+  {
+    "name": "Beef Borsch with Sour Cream",
+    "author": "Antonia Hull",
+    "keyword": "beef borsch, sour cream, beet soup, Eastern European soup",
+    "description": "A hearty beet-based soup with shredded beef, vegetables, and a dollop of sour cream on top.",
+    "category": "Soup",
+    "cuisine": "Eastern European",
+    "url": "recipes/beef-borsch-with-sour-cream-98"
+  },
+  {
+    "name": "Cream of Asparagus Soup",
+    "author": "Bonnie McNutt",
+    "keyword": "asparagus soup, creamy soup, canned asparagus",
+    "description": "A creamy and smooth asparagus soup made with canned asparagus, perfect for serving year-round with optional fresh garnishes.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/cream-of-asparagus-soup-99"
+  },
+  {
+    "name": "Beef & Barley Soup",
+    "author": "Marjorie Johns",
+    "keyword": "beef barley soup, hearty soup, freezer-friendly",
+    "description": "A hearty beef and barley soup with vegetables and tomato, ideal for freezing and reheating.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/beef-barley-soup-100"
+  },
+  {
+    "name": "Caesar Dressin' Salad",
+    "author": "Linda Towton",
+    "keyword": "Caesar dressing, homemade salad dressing",
+    "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
+    "category": "Salad Dressing",
+    "cuisine": "American",
+    "url": "recipes/caesar-dressin-salad-101"
+  },
+  {
+    "name": "Salad Dressing",
+    "author": "Marie Dinney",
+    "keyword": "cooked salad dressing, creamy dressing",
+    "description": "A cooked salad dressing made with eggs, sugar, mustard, and vinegar, thickened with cornstarch.",
+    "category": "Salad Dressing",
+    "cuisine": "American",
+    "url": "recipes/salad-dressing-102"
+  },
+  {
+    "name": "Salad Dressing",
+    "author": "Doris Ohmayer",
+    "keyword": "creamy salad dressing, cooked dressing",
+    "description": "A creamy salad dressing cooked over boiling water, made with eggs, sugar, mustard, and vinegar.",
+    "category": "Salad Dressing",
+    "cuisine": "American",
+    "url": "recipes/salad-dressing-103"
+  },
+  {
+    "name": "Salad Dressing",
+    "author": "Evelyn Pickering",
+    "keyword": "thickened salad dressing, boiled dressing",
+    "description": "A thickened salad dressing made by boiling a mixture of eggs, sugar, flour, mustard, water, and vinegar, finished with butter.",
+    "category": "Salad Dressing",
+    "cuisine": "American",
+    "url": "recipes/salad-dressing-104"
+  },
+  {
+    "name": "Cheese & Broccoli Soup",
+    "author": "Jeff Slaght",
+    "keyword": "broccoli soup, cheese soup, creamy soup",
+    "description": "A creamy broccoli and cheese soup with a smooth texture.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/cheese-broccoli-soup-105"
+  },
+  {
+    "name": "Cabbage Soup",
+    "author": "Betty Glanville",
+    "keyword": "cabbage soup, vegetable soup, hearty soup",
+    "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/cabbage-soup-106"
+  },
+  {
+    "name": "Corn Chowder",
+    "author": "Nola Ratz",
+    "keyword": "corn chowder, creamy soup, bacon soup",
+    "description": "A creamy corn chowder with bacon, potatoes, and a touch of milk.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/corn-chowder-107"
+  },
+  {
+    "name": "Cheese & Broccoli Soup",
+    "author": "Jeff Slaght",
+    "keyword": "broccoli soup, cheese soup, creamy soup",
+    "description": "A creamy broccoli and cheese soup with a rich, velvety texture.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/cheese-broccoli-soup-108"
+  },
+  {
+    "name": "Cabbage Soup",
+    "author": "Betty Glanville",
+    "keyword": "cabbage soup, vegetable soup, hearty soup",
+    "description": "A hearty cabbage soup with vegetables and optional sweetener.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/cabbage-soup-109"
+  },
+  {
+    "name": "Corn Chowder",
+    "author": "Nola Ratz",
+    "keyword": "corn chowder, creamy soup, bacon soup",
+    "description": "A creamy corn chowder with bacon, potatoes, and celery.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/corn-chowder-110"
+  },
+  {
+    "name": "Pasta & Bean Soup",
+    "author": "Marie Fydenchuk",
+    "keyword": "pasta soup, bean soup, Italian soup, vegetable broth",
+    "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+    "category": "Soup",
+    "cuisine": "Italian",
+    "url": "recipes/pasta-bean-soup-111"
+  },
+  {
+    "name": "Creamy Broccoli Soup",
+    "author": "Eleanor Beaver",
+    "keyword": "creamy broccoli soup, potato soup, comforting soup",
+    "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/creamy-broccoli-soup-112"
+  },
+  {
+    "name": "Mushroom Soup",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "mushroom soup, creamy soup, comfort food",
+    "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/mushroom-soup-113"
+  },
+  {
+    "name": "Ginger Noodle Soup",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "ginger noodle soup, Asian soup, pork soup",
+    "description": "A flavorful and aromatic Asian-inspired soup featuring pork, ginger, and rice stick noodles in a savory chicken broth.",
+    "category": "Soup",
+    "cuisine": "Asian",
+    "url": "recipes/ginger-noodle-soup-114"
+  },
+  {
+    "name": "French Onion Soup",
+    "author": "Katherine Ratz",
+    "keyword": "French onion soup, caramelized onions, melted cheese",
+    "description": "A classic French onion soup made with caramelized onions, consomme, and topped with melted mozzarella cheese and croutons.",
+    "category": "Soup",
+    "cuisine": "French",
+    "url": "recipes/french-onion-soup-115"
+  },
+  {
+    "name": "Cheesy Ham Chowder",
+    "author": "Ruth Haines",
+    "keyword": "ham chowder, cheesy soup, comfort food",
+    "description": "A creamy, cheesy ham chowder with potatoes, carrots, and corn, finished with crispy bacon.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/cheesy-ham-chowder-116"
+  },
+  {
+    "name": "Minestrone Soup with Shells",
+    "author": "Fred Bowers",
+    "keyword": "minestrone soup, pasta soup, Italian-American cuisine",
+    "description": "A hearty minestrone soup with small shell macaroni, kidney beans, and vegetables, topped with Parmesan cheese.",
+    "category": "Soup",
+    "cuisine": "Italian-American",
+    "url": "recipes/minestrone-soup-with-shells-117"
+  },
+  {
+    "name": "Microwave Corn Chowder",
+    "author": "Brenda Martene",
+    "keyword": "microwave corn chowder, creamy soup, cheddar cheese",
+    "description": "A creamy corn chowder made in the microwave with potatoes, carrots, celery, and cheddar cheese.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/microwave-corn-chowder-118"
+  },
+  {
+    "name": "Cream of Cucumber Soup",
+    "author": "Martine Bercier",
+    "keyword": "cucumber soup, creamy soup, refreshing soup",
+    "description": "A refreshing and creamy cucumber soup made with chicken broth, milk, and a hint of cayenne pepper.",
+    "category": "Soup",
+    "cuisine": "French",
+    "url": "recipes/cream-of-cucumber-soup-119"
+  },
+  {
+    "name": "Veggie Basic Soup",
+    "author": "Julie-Ann Bibby",
+    "keyword": "vegetable soup, beef broth, savory soup",
+    "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/veggie-basic-soup-120"
+  },
+  {
+    "name": "Richard's Sunday Soup",
+    "author": "Richard MacGregor",
+    "keyword": "carrot soup, potato soup, chicken stock",
+    "description": "A rich and comforting soup featuring carrots, potatoes, and chicken stock.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/richards-sunday-soup-121"
+  },
+  {
+    "name": "Cold Meat Mustard",
+    "author": "Alwinna Galloway",
+    "keyword": "mustard sauce, cold meat, condiment",
+    "description": "A tangy mustard sauce for cold meats.",
+    "category": "Sauce",
+    "cuisine": "American",
+    "url": "recipes/cold-meat-mustard-122"
+  },
+  {
+    "name": "Tomato Macaroni Soup",
+    "author": "Linda Finkbeiner, Shirley Preszcator",
+    "keyword": "tomato macaroni soup, comfort food, pasta soup",
+    "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/tomato-macaroni-soup-123"
+  },
+  {
+    "name": "Tortilla Soup",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "tortilla soup, Mexican soup, chicken soup, spicy soup",
+    "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
+    "category": "Soup",
+    "cuisine": "Mexican",
+    "url": "recipes/tortilla-soup-124"
+  },
+  {
+    "name": "Potato Soup",
+    "author": "Barbara Ratz",
+    "keyword": "potato soup, creamy soup, comfort food",
+    "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/potato-soup-125"
+  },
+  {
+    "name": "Cream of Potato Soup",
+    "author": "Lori Allen",
+    "keyword": "cream of potato soup, cheesy soup, slow-cooked soup",
+    "description": "A rich and creamy potato soup enhanced with Campbell's soup base, leeks, and mushrooms, topped with shredded cheddar cheese.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/cream-of-potato-soup-126"
+  },
+  {
+    "name": "Seafood Chowder",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "seafood chowder, shrimp and clam soup, creamy chowder",
+    "description": "A hearty seafood chowder featuring shrimp, clams, potatoes, and creamed corn in a flavorful broth.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/seafood-chowder-127"
+  },
+  {
+    "name": "Supreme Broccoli Soup Casserole",
+    "author": "Flora Hodge",
+    "keyword": "broccoli casserole, creamy soup casserole, baked vegetable dish",
+    "description": "A creamy broccoli casserole with a crunchy crouton topping, baked until golden.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/supreme-broccoli-soup-casserole-128"
+  },
+  {
+    "name": "Broccoli Casserole",
+    "author": "Nola Lewis, Tanya Allen",
+    "keyword": "broccoli casserole, cheesy casserole, comforting main dish",
+    "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/broccoli-casserole-129"
+  },
+  {
+    "name": "Cabbage Casserole",
+    "author": "Brenda Atkinson",
+    "keyword": "cabbage casserole, creamy vegetable dish, comforting main course",
+    "description": "A creamy cabbage casserole with a crunchy bread crumb topping, baked until golden.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/cabbage-casserole-130"
+  },
+  {
+    "name": "Green Beans and Artichokes",
+    "author": "Loma Finkbeiner",
+    "keyword": "green beans, artichokes, Romano cheese, side dish",
+    "description": "A savory side dish featuring green beans and artichoke hearts mixed with garlic, onion, and Romano cheese.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/green-beans-and-artichokes-131"
+  },
+  {
+    "name": "Barley and Corn Casserole",
+    "author": "Barbara Robertson",
+    "keyword": "barley casserole, corn, carrots, comforting side dish",
+    "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/barley-and-corn-casserole-132"
+  },
+  {
+    "name": "Broccoli Casserole",
+    "author": "Eleanor Beaver",
+    "keyword": "broccoli casserole, cheesy, comforting vegetable side",
+    "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/broccoli-casserole-133"
+  },
+  {
+    "name": "Plum Pudding Sauce",
+    "author": "Donna Greb",
+    "keyword": "plum pudding sauce, dessert sauce, brown sugar sauce",
+    "description": "A sweet sauce made with brown sugar and vanilla, perfect for plum pudding.",
+    "category": "Sauce",
+    "cuisine": "American",
+    "url": "recipes/plum-pudding-sauce-134"
+  },
+  {
+    "name": "Teriyaki Sauce",
+    "author": "Barbara Robertson",
+    "keyword": "teriyaki sauce, marinade, Asian-inspired, soy sauce",
+    "description": "A savory and slightly sweet marinade sauce made with soy sauce, garlic, and ginger, ideal for chicken, beef, pork, or seafood.",
+    "category": "Sauce",
+    "cuisine": "Asian-inspired",
+    "url": "recipes/teriyaki-sauce-135"
+  },
+  {
+    "name": "Zesty BBQ Sauce",
+    "author": "Sharon Allen",
+    "keyword": "BBQ sauce, zesty, spicy, grilling sauce",
+    "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
+    "category": "Sauce",
+    "cuisine": "American",
+    "url": "recipes/zesty-bbq-sauce-136"
+  },
+  {
+    "name": "Swedish Potatoes",
+    "author": "Barbara Ratz",
+    "keyword": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+    "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/swedish-potatoes-137"
+  },
+  {
+    "name": "Sliced Baked Potatoes",
+    "author": "Barbara Robertson",
+    "keyword": "baked potatoes, sliced potatoes, cheesy potatoes, herbed potatoes",
+    "description": "A simple yet elegant baked potato dish featuring thinly sliced potatoes topped with melted cheddar and Parmesan cheese, and fresh herbs.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/sliced-baked-potatoes-138"
+  },
+  {
+    "name": "Cauliflower Christmas",
+    "author": "Kim MacDonald",
+    "keyword": "cauliflower, Swiss cheese, baked casserole",
+    "description": "A layered cauliflower dish with Swiss cheese, green peppers, and mushrooms, baked until golden.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/cauliflower-christmas-139"
+  },
+  {
+    "name": "Cheddar Baked Potato Slices",
+    "author": "Ina Browning",
+    "keyword": "baked potatoes, cheddar cheese, creamy sauce",
+    "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/cheddar-baked-potato-slices-140"
+  },
+  {
+    "name": "Potato Casserole",
+    "author": "Heather Clarke, M. Leanne Kenney",
+    "keyword": "potato casserole, hash browns, creamy, cheesy",
+    "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/potato-casserole-141"
+  },
+  {
+    "name": "Roasted Carrots and Parsnips",
+    "author": "Thelma Finkbeiner",
+    "keyword": "roasted carrots, roasted parsnips, maple syrup glaze",
+    "description": "A simple roasted vegetable dish featuring carrots, parsnips, and onions with a maple syrup and mustard glaze.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/roasted-carrots-and-parsnips-142"
+  },
+  {
+    "name": "Baked Cauliflower",
+    "author": "June Schroeder, Marie Dinney",
+    "keyword": "baked cauliflower, cheesy casserole",
+    "description": "A creamy baked cauliflower casserole with cheese, mayonnaise, and curry powder.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/baked-cauliflower-143"
+  },
+  {
+    "name": "Cauliflower Broccoli Casserole",
+    "author": "Heather Clarke",
+    "keyword": "cauliflower casserole, broccoli casserole, cheesy vegetable bake",
+    "description": "A versatile casserole recipe that can use either cauliflower or broccoli, topped with croutons and Parmesan cheese.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/cauliflower-broccoli-casserole-144"
+  },
+  {
+    "name": "Stir-Fry Beef",
+    "author": "Donise Baker (Dundas)",
+    "keyword": "beef stir-fry, Asian-inspired, quick dinner",
+    "description": "A quick and flavorful beef stir-fry with vegetables and a savory sauce, served over cooked rice.",
+    "category": "Main Course",
+    "cuisine": "Asian-inspired",
+    "url": "recipes/stir-fry-beef-145"
+  },
+  {
+    "name": "Pasta Tie Bow and Beef",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "pasta, beef, Italian-inspired, Parmesan cheese",
+    "description": "A hearty pasta dish with sautéed beef, mushrooms, and red peppers, topped with Parmesan cheese.",
+    "category": "Main Course",
+    "cuisine": "Italian-inspired",
+    "url": "recipes/pasta-tie-bow-and-beef-146"
+  },
+  {
+    "name": "Beef Birds in Wine",
+    "author": "Liz Dingeldein",
+    "keyword": "beef birds, wine sauce, main dish",
+    "description": "A hearty dish of beef cutlets rolled with a mixture of onions, mushrooms, and parsley, simmered in a rich wine and beef stock sauce.",
+    "category": "Main Dish",
+    "cuisine": "American",
+    "url": "recipes/beef-birds-in-wine-147"
+  },
+  {
+    "name": "Beef Broccoli Stir-Fry",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "beef stir-fry, broccoli, soy sauce, oyster sauce",
+    "description": "A quick and flavorful stir-fry of beef sirloin and broccoli in a savory soy and oyster sauce mixture.",
+    "category": "Main Dish",
+    "cuisine": "Asian-inspired",
+    "url": "recipes/beef-broccoli-stir-fry-148"
+  },
+  {
+    "name": "Sweet Potato Casserole",
+    "author": "Marie Finkbeiner",
+    "keyword": "sweet potato casserole, pecan topping, holiday side dish",
+    "description": "A classic sweet potato casserole with a crunchy pecan topping.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/sweet-potato-casserole-149"
+  },
+  {
+    "name": "Turnip Casserole",
+    "author": "Jean E. Neil",
+    "keyword": "turnip casserole, bread crumb topping, savory side dish, freezer-friendly",
+    "description": "A savory turnip casserole with apples and a crunchy bread crumb topping, perfect for freezing.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/turnip-casserole-150"
+  },
+  {
+    "name": "Britt's Favourite Meatballs",
+    "author": "Leanne Robinson",
+    "keyword": "meatballs, baked, sweet and tangy sauce",
+    "description": "A classic meatball recipe with a sweet and tangy sauce, baked in the oven.",
+    "category": "Meat",
+    "cuisine": "American",
+    "url": "recipes/britts-favourite-meatballs-151"
+  },
+  {
+    "name": "Hawaiian Meatballs",
+    "author": "Heather Clarke",
+    "keyword": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
+    "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
+    "category": "Meat",
+    "cuisine": "Hawaiian-American",
+    "url": "recipes/hawaiian-meatballs-152"
+  },
+  {
+    "name": "Cheesy Meat Loaf",
+    "author": "Pam Allen",
+    "keyword": "meat loaf, cheesy, ground beef, baked",
+    "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/cheesy-meat-loaf-153"
+  },
+  {
+    "name": "Jelly Roll Style Meat Loaf",
+    "author": "Barbara Ratz",
+    "keyword": "meat loaf, jelly roll, mozzarella cheese, baked",
+    "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/jelly-roll-style-meat-loaf-154"
+  },
+  {
+    "name": "Stewing Beef Casserole",
+    "author": "Kelly Haines",
+    "keyword": "beef casserole, slow-cooked stew, comfort food",
+    "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/stewing-beef-casserole-155"
+  },
+  {
+    "name": "Delicious Meat Loaf",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "meatloaf, cheddar cheese, ketchup glaze, classic American",
+    "description": "A classic meatloaf with a cheddar cheese and carrot mixture, topped with a sweet ketchup-mustard glaze.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/delicious-meat-loaf-156"
+  },
+  {
+    "name": "Cheeseburger Meat Loaf",
+    "author": "Lori Allen",
+    "keyword": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
+    "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/cheeseburger-meat-loaf-157"
+  },
+  {
+    "name": "Creamy Beef and Potato Bake",
+    "author": "Mary Jefferies",
+    "keyword": "beef casserole, potato bake, creamy sauce",
+    "description": "A layered casserole featuring ground beef, potatoes, zucchini, and a creamy cheddar sauce.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/creamy-beef-and-potato-bake-158"
+  },
+  {
+    "name": "Meat and Potato Casserole",
+    "author": "Martine Bercier",
+    "keyword": "meat casserole, potato and corn dish, gravy topping",
+    "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/meat-and-potato-casserole-159"
+  },
+  {
+    "name": "Meat Balls and Sour And Sweet Sauce",
+    "author": "Glenda Wuerth",
+    "keyword": "meatballs, sweet and sour sauce, baked meatballs",
+    "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/meat-balls-and-sour-and-sweet-sauce-160"
+  },
+  {
+    "name": "Sweet & Sour Meatballs",
+    "author": "Sharon Allen",
+    "keyword": "sweet and sour meatballs, baked meatballs, pineapple sauce",
+    "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/sweet-sour-meatballs-161"
+  },
+  {
+    "name": "Swedish Meatballs",
+    "author": "Nichole Schwartzentruber",
+    "keyword": "Swedish meatballs, ground beef, gravy",
+    "description": "Classic Swedish meatballs made with ground beef, served in a rich gravy, and optionally served with rice, potatoes, or pasta.",
+    "category": "Main Course",
+    "cuisine": "Swedish",
+    "url": "recipes/swedish-meatballs-162"
+  },
+  {
+    "name": "Beef Porcupines",
+    "author": "Bernice Martin",
+    "keyword": "beef porcupines, baked meatballs, rice",
+    "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/beef-porcupines-163"
+  },
+  {
+    "name": "Mock Cabbage Rolls",
+    "author": "Lori Allen, Betty Macisaac",
+    "keyword": "mock cabbage rolls, casserole, cheesy cabbage",
+    "description": "A casserole-style dish mimicking cabbage rolls, featuring a savory ground beef and rice mixture layered over shredded cabbage and topped with cheddar cheese.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/mock-cabbage-rolls-164"
+  },
+  {
+    "name": "Chili Con Carne",
+    "author": "Shannon Wuerth",
+    "keyword": "chili con carne, ground beef chili, customizable chili",
+    "description": "A hearty and versatile chili recipe featuring ground beef, kidney beans, and a variety of vegetables, ideal for customization.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/chili-con-carne-165"
+  },
+  {
+    "name": "Noodles with Hamburg",
+    "author": "Carolyn Gower",
+    "keyword": "hamburger casserole, noodle dish, comfort food",
+    "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/noodles-with-hamburg-166"
+  },
+  {
+    "name": "Cabbage Rolls",
+    "author": "Heather Clarke",
+    "keyword": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
+    "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
+    "category": "Main Course",
+    "cuisine": "European",
+    "url": "recipes/cabbage-rolls-167"
+  },
+  {
+    "name": "Beef and Rice Casserole",
+    "author": "Kurtis Brand",
+    "keyword": "beef casserole, rice casserole, comfort food",
+    "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/beef-and-rice-casserole-168"
+  },
+  {
+    "name": "Hamburger Pie",
+    "author": "Marguerite Finkbeiner",
+    "keyword": "hamburger pie, shepherd's pie, casserole",
+    "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/hamburger-pie-169"
+  },
+  {
+    "name": "Shepherd's Pie",
+    "author": "Dave MacLeod",
+    "keyword": "shepherd's pie, ground beef, mashed potatoes, casserole",
+    "description": "A classic shepherd's pie made with ground beef, mixed vegetables, and topped with mashed potatoes.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/shepherds-pie-170"
+  },
+  {
+    "name": "Pizza Casserole",
+    "author": "Ruth Ann Haist",
+    "keyword": "pizza casserole, pasta bake, pepperoni, mozzarella cheese",
+    "description": "A hearty pizza-inspired casserole with pasta, pepperoni, and mozzarella cheese.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/pizza-casserole-171"
+  },
+  {
+    "name": "Hamburg Noodle Casserole",
+    "author": "Grace Yearley",
+    "keyword": "casserole, ground beef, noodle dish",
+    "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/hamburg-noodle-casserole-172"
+  },
+  {
+    "name": "English Shepherd's Pie",
+    "author": "Sue Dinney",
+    "keyword": "shepherd's pie, ground beef, mashed potatoes",
+    "description": "A traditional shepherd's pie with ground beef, vegetables, and mashed potatoes.",
+    "category": "Casserole",
+    "cuisine": "British",
+    "url": "recipes/english-shepherds-pie-173"
+  },
+  {
+    "name": "Chinese Hamburger Casserole",
+    "author": "Meredith Mary",
+    "keyword": "Chinese casserole, hamburger casserole, rice casserole",
+    "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
+    "category": "Casserole",
+    "cuisine": "Chinese-American",
+    "url": "recipes/chinese-hamburger-casserole-174"
+  },
+  {
+    "name": "Macaroni Casserole",
+    "author": "Lori Allen",
+    "keyword": "macaroni casserole, cheesy pasta bake, comfort food",
+    "description": "A comforting macaroni and meat casserole topped with cheese and baked until golden.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/macaroni-casserole-175"
+  },
+  {
+    "name": "Baked Spaghetti and Meatballs",
+    "author": "Dave MacLeod",
+    "keyword": "baked spaghetti, meatballs, Italian-American casserole",
+    "description": "A hearty baked pasta dish featuring meatballs, spaghetti, and a rich tomato-based sauce topped with melted mozzarella cheese.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/baked-spaghetti-and-meatballs-176"
+  },
+  {
+    "name": "Spaghetti Sauce",
+    "author": "Heather Clarke",
+    "keyword": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+    "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+    "category": "Sauce",
+    "cuisine": "Italian",
+    "url": "recipes/spaghetti-sauce-177"
+  },
+  {
+    "name": "Spaghetti Casserole",
+    "author": "Janet Dearing",
+    "keyword": "spaghetti casserole, ground beef, cheddar cheese",
+    "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/spaghetti-casserole-178"
+  },
+  {
+    "name": "Meatball Pasta Stew",
+    "author": "Grace Morlock",
+    "keyword": "meatball stew, pasta stew, tomato-based sauce",
+    "description": "A savory stew with homemade meatballs, pasta, and a rich tomato-based sauce.",
+    "category": "Stew",
+    "cuisine": "American",
+    "url": "recipes/meatball-pasta-stew-179"
+  },
+  {
+    "name": "Rosemary Shipwreck Casserole",
+    "author": "Stewart",
+    "keyword": "shipwreck casserole, ground beef, potato casserole",
+    "description": "A hearty casserole featuring ground beef, potatoes, and a tomato-based sauce.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/rosemary-shipwreck-casserole-180"
+  },
+  {
+    "name": "Dad's Spaghetti",
+    "author": "Linda Nakamura",
+    "keyword": "spaghetti, bacon, mushroom sauce, creamy pasta",
+    "description": "A comforting spaghetti dish with bacon, mushrooms, and a creamy mushroom soup sauce.",
+    "category": "Pasta",
+    "cuisine": "American",
+    "url": "recipes/dads-spaghetti-181"
+  },
+  {
+    "name": "Mozzarella Spaghetti Skillet",
+    "author": "Yvonne Lotz",
+    "keyword": "spaghetti skillet, one-pot pasta, mozzarella cheese",
+    "description": "A one-pot spaghetti dish cooked with hamburger, tomatoes, and mozzarella cheese.",
+    "category": "Pasta",
+    "cuisine": "American",
+    "url": "recipes/mozzarella-spaghetti-skillet-182"
+  },
+  {
+    "name": "Taco Ring",
+    "author": "Lorie Valkengoed",
+    "keyword": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
+    "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
+    "category": "Main Course",
+    "cuisine": "Mexican-American",
+    "url": "recipes/taco-ring-183"
+  },
+  {
+    "name": "Taco Twist Bake",
+    "author": "Cheryl MacLeod",
+    "keyword": "taco pasta bake, ground beef recipe, cheesy casserole",
+    "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
+    "category": "Main Course",
+    "cuisine": "Mexican-American",
+    "url": "recipes/taco-twist-bake-184"
+  },
+  {
+    "name": "Sloppy Joe Squares",
+    "author": "Deb (Finkbeiner) Lord",
+    "keyword": "sloppy joe, casserole, crescent rolls, beef",
+    "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/sloppy-joe-squares-185"
+  },
+  {
+    "name": "Beef Taco Bake",
+    "author": "Gladys Lewis",
+    "keyword": "taco bake, ground beef, cheesy casserole, Mexican-American",
+    "description": "A hearty, cheesy taco-inspired casserole made with ground beef, tortillas, and a creamy tomato soup sauce, perfect for a family dinner.",
+    "category": "Main Course",
+    "cuisine": "Mexican-American",
+    "url": "recipes/beef-taco-bake-186"
+  },
+  {
+    "name": "Spaghetti Sauce",
+    "author": "Margaret Beaver",
+    "keyword": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+    "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/spaghetti-sauce-187"
+  },
+  {
+    "name": "Zippy Spaghetti Sauce",
+    "author": "Kate Cunningham",
+    "keyword": "spaghetti sauce, zippy sauce, sausage, taco seasoning",
+    "description": "A flavorful and spicy spaghetti sauce with sausage, hamburger, and taco seasoning.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/zippy-spaghetti-sauce-188"
+  },
+  {
+    "name": "Pesto Pasta",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "pesto pasta, sun-dried tomatoes, Asiago cheese, Italian cuisine",
+    "description": "A simple and flavorful pasta dish made with pesto, sun-dried tomatoes, and Asiago cheese.",
+    "category": "Main Course",
+    "cuisine": "Italian",
+    "url": "recipes/pesto-pasta-189"
+  },
+  {
+    "name": "Pizza",
+    "author": "Alan Dick",
+    "keyword": "homemade pizza, Italian-American, yeast crust",
+    "description": "A homemade pizza recipe with a yeast-based crust, topped with spaghetti sauce, various meats, and mozzarella cheese.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/pizza-190"
+  },
+  {
+    "name": "Pizza Bagels (Kids Style)",
+    "author": "Ryan Van Valkengoed",
+    "keyword": "pizza bagel, microwave recipe, kids meal",
+    "description": "A quick and easy microwave pizza bagel recipe perfect for kids, topped with pizza sauce, mozzarella, and favorite toppings.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/pizza-bagels-kids-style-191"
+  },
+  {
+    "name": "Lasagna",
+    "author": "Mary Kenney",
+    "keyword": "lasagna, Italian-American, pasta bake",
+    "description": "",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/lasagna-192"
+  },
+  {
+    "name": "Pizza Meatball",
+    "author": "Barbara Ratz",
+    "keyword": "pizza, meatball, Italian-American, baked",
+    "description": "",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/pizza-meatball-193"
+  },
+  {
+    "name": "Florentine Lasagna Rolls",
+    "author": "Antonia Hull",
+    "keyword": "lasagna rolls, Florentine, spinach, ricotta, Alfredo sauce",
+    "description": "Lasagna noodles rolled with a spinach and ricotta cheese mixture, baked in a creamy Alfredo sauce.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/florentine-lasagna-rolls-194"
+  },
+  {
+    "name": "Garfield's Lasagna",
+    "author": "Dave MacLeod",
+    "keyword": "lasagna, ground beef, cottage cheese, mozzarella, layered pasta",
+    "description": "A hearty layered lasagna with ground beef, cottage cheese, and mozzarella, perfect for a crowd.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/garfields-lasagna-195"
+  },
+  {
+    "name": "Macaroni Ham Casserole",
+    "author": "Cheryl MacLeod",
+    "keyword": "macaroni casserole, ham and cheese, comfort food",
+    "description": "A comforting macaroni and ham casserole topped with cheddar cheese and crushed sour cream and onion potato chips.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/macaroni-ham-casserole-196"
+  },
+  {
+    "name": "Crunchy Top Ham and Potato Casserole",
+    "author": "Norma Fahner",
+    "keyword": "ham and potato casserole, crunchy topping, comforting casserole",
+    "description": "A hearty ham and potato casserole with a crunchy corn flake topping.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/crunchy-top-ham-and-potato-casserole-197"
+  },
+  {
+    "name": "Glazed Cottage Roll",
+    "author": "Rosemary Stewart",
+    "keyword": "glazed cottage roll, baked ham, sweet glaze",
+    "description": "A sweet and savory glazed cottage roll baked with a mustard and brown sugar crust.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/glazed-cottage-roll-198"
+  },
+  {
+    "name": "Sliced Ham",
+    "author": "Evelyn Pickering",
+    "keyword": "baked ham, glazed ham, sweet ham",
+    "description": "A simple baked ham recipe with a brown sugar, mustard, and allspice topping.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/sliced-ham-199"
+  },
+  {
+    "name": "Ham Casserole",
+    "author": "Bernice Martin",
+    "keyword": "ham casserole, potato casserole, comforting main dish",
+    "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/ham-casserole-200"
+  },
+  {
+    "name": "Veggie Pizza",
+    "author": "Kelly Haines, Kim MacDonald",
+    "keyword": "veggie pizza, crescent roll crust, cream cheese, ranch dressing",
+    "description": "A simple veggie pizza made with a crescent roll crust, cream cheese, ranch dressing, and various chopped vegetables.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/veggie-pizza-201"
+  },
+  {
+    "name": "Pizza Casserole",
+    "author": "June Schroeder",
+    "keyword": "pizza casserole, spaghetti, hamburger, pepperoni",
+    "description": "A hearty pizza casserole made with spaghetti, hamburger, pepperoni, and mozzarella cheese.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/pizza-casserole-202"
+  },
+  {
+    "name": "Maple Glazed Ribs",
+    "author": "Evelyn Pickering",
+    "keyword": "maple glazed ribs, pork spare ribs, sweet and savory",
+    "description": "A sweet and savory pork spare ribs recipe glazed with a maple syrup-based sauce.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/maple-glazed-ribs-203"
+  },
+  {
+    "name": "Spareribs to Go",
+    "author": "Betty Glanville",
+    "keyword": "spareribs, garlic honey glaze, make-ahead ribs",
+    "description": "A versatile spareribs recipe that can be broiled or heated in a glaze sauce, perfect for make-ahead meals.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/spareribs-to-go-204"
+  },
+  {
+    "name": "Saucy Sausages",
+    "author": "Lori Allen",
+    "keyword": "Oktoberfest sausages, saucy sausages, baked sausages",
+    "description": "A flavorful Oktoberfest sausage dish baked in a rich sauce made with chili sauce, salsa, and spices.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/saucy-sausages-205"
+  },
+  {
+    "name": "Pork Chops with Dried Fruit",
+    "author": "Barbara Robertson",
+    "keyword": "pork chops, dried fruit, orange juice sauce, savory sweet dish",
+    "description": "A savory and sweet dish featuring pork chops cooked with assorted dried fruits in a flavorful orange juice sauce.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/pork-chops-with-dried-fruit-206"
+  },
+  {
+    "name": "Sour 'N Sweet Pork Chops",
+    "author": "Nola Ratz",
+    "keyword": "sour sweet pork chops, tangy pork, brown sugar sauce",
+    "description": "A tangy and sweet pork chop dish simmered in a rich sauce made with brown sugar, vinegar, and Worcestershire sauce.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/sour-n-sweet-pork-chops-207"
+  },
+  {
+    "name": "Yummy Country-Style Ribs",
+    "author": "Leanne M. Kenney",
+    "keyword": "country-style ribs, marinated ribs, BBQ ribs",
+    "description": "A flavorful and tender country-style ribs recipe marinated in a mixture of soy sauce, orange juice, and spices, then grilled to perfection.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/yummy-country-style-ribs-208"
+  },
+  {
+    "name": "Ham & Potato Casserole",
+    "author": "Shelley Kinsman",
+    "keyword": "ham, potato, casserole, slow cooker",
+    "description": "A layered ham, potato, and cheese casserole cooked in a slow cooker.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/ham-potato-casserole-209"
+  },
+  {
+    "name": "Oven Barbecued Pork Chops",
+    "author": "Sue Dinney",
+    "keyword": "pork chops, barbecue, oven baked",
+    "description": "Pork chops marinated in a barbecue sauce and baked in the oven.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/oven-barbecued-pork-chops-210"
+  },
+  {
+    "name": "Pork Chop & Rice Casserole",
+    "author": "Bonnie McNutt",
+    "keyword": "pork chop, rice, casserole, baked",
+    "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/pork-chop-rice-casserole-211"
+  },
+  {
+    "name": "Chicken Breast",
+    "author": "Sandra Martin",
+    "keyword": "chicken breast, breaded chicken",
+    "description": "A simple breaded chicken breast recipe.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/chicken-breast-212"
+  },
+  {
+    "name": "Boneless Chicken Breasts",
+    "author": "Laura Nakamura",
+    "keyword": "stuffed chicken breast, boneless chicken",
+    "description": "A stuffed boneless chicken breast recipe with ham, cheese, and onions.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/boneless-chicken-breasts-213"
+  },
+  {
+    "name": "Chicken Glazed with Basil & Balsamic Vinegar",
+    "author": "Karen Janzen",
+    "keyword": "glazed chicken, basil, balsamic vinegar",
+    "description": "A glazed chicken breast recipe with basil, balsamic vinegar, and honey.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/chicken-glazed-with-basil-balsamic-vinegar-214"
+  },
+  {
+    "name": "South African Lamb",
+    "author": "Barbara Robertson",
+    "keyword": "South African lamb, lamb stew, curry lamb, dried fruit",
+    "description": "A flavorful lamb stew with dried fruits, curry powder, and orange juice, simmered to tender perfection.",
+    "category": "Main Course",
+    "cuisine": "South African",
+    "url": "recipes/south-african-lamb-215"
+  },
+  {
+    "name": "Veal Parmigiana",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "veal parmesan, breaded veal, Italian-American, tomato sauce",
+    "description": "Crispy breaded veal cutlets topped with a homemade quick tomato sauce and melted mozzarella cheese.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/veal-parmigiana-216"
+  },
+  {
+    "name": "Bake Sausage Southwest",
+    "author": "Ruth Haines",
+    "keyword": "Southwestern casserole, sausage bake, breakfast strata",
+    "description": "A layered casserole featuring sausage, tortillas, cheese, and salsa, perfect for a hearty breakfast or brunch.",
+    "category": "Breakfast",
+    "cuisine": "Southwestern",
+    "url": "recipes/bake-sausage-southwest-217"
+  },
+  {
+    "name": "Roasted Lamb",
+    "author": "Christopher Mullin",
+    "keyword": "roasted lamb, garlic and rosemary, slow cooking",
+    "description": "A slow-roasted lamb recipe with a flavorful garlic and rosemary paste, perfect for a tender and aromatic main course.",
+    "category": "Main Course",
+    "cuisine": "Mediterranean",
+    "url": "recipes/roasted-lamb-218"
+  },
+  {
+    "name": "Sweet and Sour Pineapple with Chicken and Ginger",
+    "author": "Dave MacLeod",
+    "keyword": "sweet and sour chicken, pineapple chicken, ginger sauce",
+    "description": "A classic sweet and sour dish featuring parboiled chicken legs in a tangy pineapple and ginger sauce, served over fried rice.",
+    "category": "Main Course",
+    "cuisine": "Chinese-Canadian",
+    "url": "recipes/sweet-and-sour-pineapple-with-chicken-and-ginger-219"
+  },
+  {
+    "name": "Chicken Vegetable Fried Rice",
+    "author": "Dave MacLeod",
+    "keyword": "chicken fried rice, vegetable fried rice, Chinese-Canadian side dish",
+    "description": "A simple and flavorful fried rice dish made with cooked rice, beaten egg, soya sauce, and mixed vegetables.",
+    "category": "Side Dish",
+    "cuisine": "Chinese-Canadian",
+    "url": "recipes/chicken-vegetable-fried-rice-220"
+  },
+  {
+    "name": "Chicken-Pineapple Stir-Fry",
+    "author": "Louise Wein",
+    "keyword": "chicken stir-fry, pineapple chicken, quick dinner",
+    "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
+    "category": "Main Course",
+    "cuisine": "Asian-inspired",
+    "url": "recipes/chicken-pineapple-stir-fry-221"
+  },
+  {
+    "name": "Sweet & Sour Pineapple Chicken",
+    "author": "Heather Clarke",
+    "keyword": "sweet and sour chicken, pineapple chicken, baked chicken",
+    "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/sweet-sour-pineapple-chicken-222"
+  },
+  {
+    "name": "Sweet and Sour Chicken",
+    "author": "Mary Kenney",
+    "keyword": "sweet and sour chicken, easy chicken recipe, apricot jam chicken",
+    "description": "A simple and flavorful sweet and sour chicken recipe using onion soup mix and apricot jam.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/sweet-and-sour-chicken-223"
+  },
+  {
+    "name": "Lemon Chicken With Thyme",
+    "author": "Karen Schwartzentruber",
+    "keyword": "lemon chicken, thyme, chicken breast",
+    "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/lemon-chicken-with-thyme-224"
+  },
+  {
+    "name": "Stir-Fry Chicken",
+    "author": "Brenda Atkinson",
+    "keyword": "stir-fry chicken, Asian-inspired, cheesy buns",
+    "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
+    "category": "Main Course",
+    "cuisine": "Asian-inspired",
+    "url": "recipes/stir-fry-chicken-225"
+  },
+  {
+    "name": "Chicken Fajitas",
+    "author": "Valorie (Finkbeiner) Mullin",
+    "keyword": "chicken fajitas, Mexican dish, stir-fry",
+    "description": "A flavorful Mexican-inspired dish featuring stir-fried chicken, peppers, and onions, served with tortillas and various toppings.",
+    "category": "Main Course",
+    "cuisine": "Mexican",
+    "url": "recipes/chicken-fajitas-226"
+  },
+  {
+    "name": "Mexican Enchilada Bake",
+    "author": "Jenni Lestie",
+    "keyword": "enchilada bake, Mexican casserole, chicken recipe",
+    "description": "A hearty, layered casserole featuring chicken, tortillas, and a rich tomato-salsa sauce, topped with cheese and sour cream.",
+    "category": "Main Course",
+    "cuisine": "Mexican-American",
+    "url": "recipes/mexican-enchilada-bake-227"
+  },
+  {
+    "name": "Chicken Fajitas",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "chicken fajitas, Tex-Mex, Mexican-American",
+    "description": "A classic Tex-Mex dish featuring chicken, sautéed peppers and onions, served with tortillas, cheese, and various toppings.",
+    "category": "Main Course",
+    "cuisine": "Mexican-American",
+    "url": "recipes/chicken-fajitas-228"
+  },
+  {
+    "name": "Mexican Enchilada Bake",
+    "author": "Jenni Leslie",
+    "keyword": "enchilada casserole, Mexican bake, chicken and cheese",
+    "description": "A hearty, layered enchilada casserole with chicken, beans, rice, and cheese, topped with a tangy tomato-salsa sauce.",
+    "category": "Main Course",
+    "cuisine": "Mexican-American",
+    "url": "recipes/mexican-enchilada-bake-229"
+  },
+  {
+    "name": "Curry Chicken",
+    "author": "Leslie Jenni",
+    "keyword": "curry chicken, baked chicken, honey mustard chicken",
+    "description": "",
+    "category": "Main Course",
+    "cuisine": "International",
+    "url": "recipes/curry-chicken-230"
+  },
+  {
+    "name": "Easy Curried Chicken",
+    "author": "Barbara Robertson",
+    "keyword": "curried chicken, creamy chicken, baked chicken casserole",
+    "description": "",
+    "category": "Main Course",
+    "cuisine": "International",
+    "url": "recipes/easy-curried-chicken-231"
+  },
+  {
+    "name": "Chicken Hawaiian",
+    "author": "Mary Kenney",
+    "keyword": "Hawaiian chicken, pineapple chicken, baked chicken and rice",
+    "description": "",
+    "category": "Main Course",
+    "cuisine": "Hawaiian",
+    "url": "recipes/chicken-hawaiian-232"
+  },
+  {
+    "name": "Sticky Chicken",
+    "author": "Meghan Brand, Kurtis Brand",
+    "keyword": "sticky chicken, baked chicken, pineapple chicken",
+    "description": "A sweet and savory chicken dish baked in a sticky sauce with pineapple and mushrooms.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/sticky-chicken-233"
+  },
+  {
+    "name": "Chicken and Broccoli",
+    "author": "Marguerite Finkbeiner",
+    "keyword": "chicken and broccoli, pasta bake, creamy chicken",
+    "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/chicken-and-broccoli-234"
+  },
+  {
+    "name": "Thai Chicken",
+    "author": "Barbara Robertson",
+    "keyword": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+    "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+    "category": "Main Course",
+    "cuisine": "Thai",
+    "url": "recipes/thai-chicken-235"
+  },
+  {
+    "name": "Pepper Chicken Fettucini",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "chicken fettucini, pepper chicken, Italian-inspired",
+    "description": "A colorful and flavorful chicken fettucini dish with sweet peppers, mushrooms, and Parmesan cheese.",
+    "category": "Main Course",
+    "cuisine": "Italian",
+    "url": "recipes/pepper-chicken-fettucini-236"
+  },
+  {
+    "name": "Chicken Celebrity",
+    "author": "Rosemary Stewart",
+    "keyword": "baked chicken, sweet and savory, ketchup-based sauce",
+    "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/chicken-celebrity-237"
+  },
+  {
+    "name": "Chicken Supreme",
+    "author": "Lori Allen",
+    "keyword": "chicken supreme, baked chicken, Italian-style chicken",
+    "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/chicken-supreme-238"
+  },
+  {
+    "name": "Parmesan Chicken",
+    "author": "Lorraine Bowers",
+    "keyword": "Parmesan chicken, breaded chicken, Italian-American cuisine",
+    "description": "A crispy Parmesan-crusted chicken dish baked with spaghetti sauce and mozzarella cheese.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/parmesan-chicken-239"
+  },
+  {
+    "name": "Ken Noodle Supper",
+    "author": "Mary Jefferies",
+    "keyword": "chicken noodle supper, creamy sauce, comfort food",
+    "description": "A hearty chicken and noodle supper with a creamy sauce, mixed vegetables, and a blend of herbs.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/ken-noodle-supper-240"
+  },
+  {
+    "name": "Favourite Chicken",
+    "author": "Jo Anne Pickering",
+    "keyword": "baked chicken, cheddar cheese, mushroom soup, comfort food",
+    "description": "A simple and satisfying chicken dish baked with cheddar cheese, mushroom soup, and garlic.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/favourite-chicken-241"
+  },
+  {
+    "name": "Stuffing and Chicken",
+    "author": "Beth Clarke",
+    "keyword": "chicken casserole, stuffing, Swiss cheese, comfort food",
+    "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/stuffing-and-chicken-242"
+  },
+  {
+    "name": "Classy Chicken",
+    "author": "Ina Browning",
+    "keyword": "creamy chicken, curry chicken, asparagus, cheddar cheese",
+    "description": "A creamy, curry-flavored chicken dish with asparagus or broccoli and a cheddar cheese topping.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/classy-chicken-243"
+  },
+  {
+    "name": "Chicken and Cheese Casserole",
+    "author": "June Schroeder",
+    "keyword": "chicken casserole, cheesy rice bake, comfort food",
+    "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/chicken-and-cheese-casserole-244"
+  },
+  {
+    "name": "Chicken with a Chinese Accent",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "Chinese chicken, sweet and savory, baked chicken",
+    "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+    "category": "Main Course",
+    "cuisine": "Chinese-American",
+    "url": "recipes/chicken-with-a-chinese-accent-245"
+  },
+  {
+    "name": "Chicken and Croutons",
+    "author": "Tanya Allen",
+    "keyword": "chicken casserole, croutons, creamy chicken bake",
+    "description": "A creamy chicken casserole topped with Swiss cheese and crunchy croutons.",
+    "category": "Casserole",
+    "cuisine": "American",
+    "url": "recipes/chicken-and-croutons-246"
+  },
+  {
+    "name": "Chili Turkey",
+    "author": "Dianne Finkbeiner",
+    "keyword": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+    "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/chili-turkey-247"
+  },
+  {
+    "name": "Turkey A La King",
+    "author": "Jean E. Neil",
+    "keyword": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
+    "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/turkey-a-la-king-248"
+  },
+  {
+    "name": "Crispy Chicken Coating Mix",
+    "author": "Linda Finkbeiner",
+    "keyword": "chicken coating, crispy chicken, breading mix",
+    "description": "A dry mix for coating chicken, made with bread crumbs, spices, and herbs.",
+    "category": "Ingredient",
+    "cuisine": "American",
+    "url": "recipes/crispy-chicken-coating-mix-249"
+  },
+  {
+    "name": "Hearty Chicken Pot Pie",
+    "author": "Valerie (Finkbeiner) Mullin",
+    "keyword": "chicken pot pie, comfort food, savory pie",
+    "description": "A comforting chicken pot pie filled with vegetables and chicken in a creamy sauce, topped with a pie crust.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/hearty-chicken-pot-pie-250"
+  },
+  {
+    "name": "Turkey or Chicken Pies",
+    "author": "Shirley Preszcator",
+    "keyword": "turkey pie, chicken pie, savory pastry, comfort food",
+    "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/turkey-or-chicken-pies-251"
+  },
+  {
+    "name": "Creamy Chicken Stew",
+    "author": "Anne Cottel",
+    "keyword": "chicken stew, creamy stew, comfort food",
+    "description": "A hearty and comforting chicken stew with vegetables in a creamy sauce.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/creamy-chicken-stew-252"
+  },
+  {
+    "name": "Sheila's Favourite Supper Dish",
+    "author": "Sheila Macgregor",
+    "keyword": "casserole, chicken or pork, mushroom soup, Stove Top dressing",
+    "description": "A layered casserole of chicken or pork chops, mushroom soup, and cheese, topped with Stove Top dressing.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/sheilas-favourite-supper-dish-253"
+  },
+  {
+    "name": "Baked Striped Bass (Or White Fish)",
+    "author": "Antonia Hull",
+    "keyword": "baked fish, striped bass, white fish, herb butter sauce",
+    "description": "A whole striped bass or white fish baked with garlic, mushrooms, and herbs, served with a rich butter sauce.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/baked-striped-bass-or-white-fish-254"
+  },
+  {
+    "name": "BBQ Salmon OR Trout",
+    "author": "Bruce Hodge",
+    "keyword": "BBQ salmon, BBQ trout, grilled fish, Clamato juice marinade",
+    "description": "Salmon or trout fillets marinated in onion soup mix and Clamato juice, grilled to perfection in foil.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/bbq-salmon-or-trout-255"
+  }
+]

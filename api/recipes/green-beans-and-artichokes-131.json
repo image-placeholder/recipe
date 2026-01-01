@@ -46,6 +46,7 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
+  "url": "green-beans-and-artichokes-131",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -109,7 +110,7 @@
         "totalTime": "35 minutes"
       },
       "url": "artichoke-appetizer-1",
-      "score": 0.6687250680757686
+      "score": 0.672648738989294
     },
     {
       "@context": "https://schema.org/",
@@ -163,7 +164,7 @@
         "totalTime": "30 minutes"
       },
       "url": "sliced-bean-salad-49",
-      "score": 0.6106342320699695
+      "score": 0.6072114094889545
     },
     {
       "@context": "https://schema.org/",
@@ -227,7 +228,7 @@
         "totalTime": "43 minutes"
       },
       "url": "pasta-bean-soup-111",
-      "score": 0.5950810622786484
+      "score": 0.605013396231099
     },
     {
       "@context": "https://schema.org/",
@@ -302,61 +303,65 @@
         "totalTime": "55 minutes"
       },
       "url": "hamburger-pie-169",
-      "score": 0.5843584577077259
+      "score": 0.6040990526489682
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Mexican Salad",
+      "name": "Black Bean Salad",
       "author": {
         "@type": "Person",
-        "name": "Sheila Jarvie"
+        "name": "Julie-Ann Bibby"
       },
-      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "description": "A fresh and vibrant salad featuring black beans, salsa, and corn kernels on a bed of romaine lettuce.",
       "recipeCategory": "Salad",
       "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
+      "prepTime": "PT15M",
       "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "8 to 9 servings",
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "¾ cup kidney beans",
-        "¾ cup lentils",
-        "½ cup diced tomato",
-        "1 cup shredded lettuce",
-        "½ green pepper, chopped",
-        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
-        "2 green onions, chopped",
-        "¼ cup Catalina dressing",
-        "¼ cup salsa",
-        "Taco chips for serving"
+        "1 ripened tomato, chopped",
+        "2 cups shredded romaine lettuce",
+        "1/2 cup of your favorite salsa",
+        "1 cup fresh corn kernels",
+        "2 sliced scallions",
+        "1 can black beans (15 oz)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+          "text": "Combine chopped tomato, salsa, and scallions in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Toss the salad with Catalina dressing until well coated."
+          "text": "Stir in the black beans."
         },
         {
           "@type": "HowToStep",
-          "text": "Top the salad with salsa."
+          "text": "Spread shredded romaine lettuce in a serving dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve immediately with taco chips on the side."
+          "text": "Top the lettuce with the bean and salsa mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Microwave the corn kernels on high for 30 seconds."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Distribute the warmed corn over the salad and serve."
         }
       ],
-      "keywords": "Mexican salad, bean salad, taco chips",
+      "keywords": "black bean salad, Mexican salad, fresh corn",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
+        "prepTime": "15 minutes",
         "cookTime": "",
-        "totalTime": "10 minutes"
+        "totalTime": "15 minutes"
       },
-      "url": "mexican-salad-50",
-      "score": 0.5714518558347979
+      "url": "black-bean-salad-48",
+      "score": 0.5982723197546851
     }
   ]
 }

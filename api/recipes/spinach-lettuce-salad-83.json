@@ -47,6 +47,7 @@
     "cookTime": "5 minutes",
     "totalTime": "20 minutes"
   },
+  "url": "spinach-lettuce-salad-83",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -106,7 +107,7 @@
         "totalTime": "20 minutes"
       },
       "url": "mandarin-orange-salad-88",
-      "score": 0.7604797387147536
+      "score": 0.755507840517145
     },
     {
       "@context": "https://schema.org/",
@@ -158,54 +159,7 @@
         "totalTime": "15 minutes"
       },
       "url": "strawberry-tossed-salad-96",
-      "score": 0.7343183193275511
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Asian Coleslaw",
-      "author": {
-        "@type": "Person",
-        "name": "Dianne Finkbeiner"
-      },
-      "description": "A crunchy Asian-inspired coleslaw with toasted nuts and noodles.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Asian-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT5M",
-      "totalTime": "PT20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 bag cabbage salad",
-        "1/2 to 6 green onions, chopped",
-        "1/4 cup slivered almonds",
-        "1/4 cup sesame seeds",
-        "1 tsp soya sauce",
-        "1 pkg Mr. Noodle (just noodles)",
-        "2 to 3 Tbsp butter",
-        "Salt and pepper",
-        "1/2 cup canola oil",
-        "1/2 cup red wine vinegar",
-        "1/2 cup sugar"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the first 6 ingredients in a frying pan. Let cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add dressing 1/2 hour before serving."
-        }
-      ],
-      "keywords": "Asian coleslaw, toasted nuts, noodles",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "asian-coleslaw-61",
-      "score": 0.7283088627955387
+      "score": 0.7255039271753513
     },
     {
       "@context": "https://schema.org/",
@@ -258,7 +212,7 @@
         "totalTime": "15 minutes"
       },
       "url": "romaine-salad-with-orange-84",
-      "score": 0.7212606482981224
+      "score": 0.7173652763447153
     },
     {
       "@context": "https://schema.org/",
@@ -315,7 +269,53 @@
         "totalTime": "8 hours 10 minutes"
       },
       "url": "onion-salad-74",
-      "score": 0.7194449953134378
+      "score": 0.7125592680374746
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caesar Dressin' Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Towton"
+      },
+      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "½ tsp Worcestershire sauce",
+        "3 garlic cloves",
+        "½ tsp dry mustard",
+        "2 beaten egg yolks",
+        "½ tsp salt",
+        "½ cup lemon juice",
+        "Dash pepper",
+        "1 cup oil",
+        "¼ cup white sugar",
+        "1 cup Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Can be kept in the fridge for up to 2 weeks."
+        }
+      ],
+      "keywords": "Caesar dressing, homemade salad dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "caesar-dressin-salad-101",
+      "score": 0.7114345386565842
     }
   ]
 }

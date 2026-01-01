@@ -51,6 +51,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
   },
+  "url": "barley-and-corn-casserole-132",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -106,7 +107,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "meat-and-potato-casserole-159",
-      "score": 0.769524939877858
+      "score": 0.756545007201479
     },
     {
       "@context": "https://schema.org/",
@@ -182,7 +183,7 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "score": 0.7334406603583395
+      "score": 0.7377342718109815
     },
     {
       "@context": "https://schema.org/",
@@ -232,7 +233,69 @@
         "totalTime": "4 hours 20 minutes"
       },
       "url": "stewing-beef-casserole-155",
-      "score": 0.7250510759489415
+      "score": 0.7194855890064735
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cornbread Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A layered salad with crumbled cornbread, black beans, corn, cheese, and a creamy dressing, perfect for chilling before serving.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 (9 oz) package cornbread mix",
+        "1 (11 oz) can whole kernel corn, drained",
+        "1 (8 oz) package cheddar cheese, shredded",
+        "1 (15 oz) can black beans, rinsed and drained",
+        "½ cup salad dressing or mayonnaise",
+        "¼ cup lime juice",
+        "1 tsp ground cumin",
+        "½ tsp salt",
+        "½ cup chopped fresh cilantro or parsley",
+        "1 large red bell pepper, chopped",
+        "1 bunch green onions, chopped",
+        "6 plum or tiny tim tomatoes, shredded",
+        "1 head iceberg lettuce, chopped",
+        "Onion curls for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Prepare cornbread mix according to package directions and let cool. Crumble into pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a food processor or blender, combine salad dressing (or mayonnaise), lime juice, cumin, and salt. Process until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer half of the lettuce, cornbread, dressing mixture, beans, corn, cheese, red bell pepper, green onions, and tomatoes in a 4-quart bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Repeat the layers, finishing with the remaining dressing on top. Garnish as desired with cilantro or onion curls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and chill for 1 to 2 hours before serving."
+        }
+      ],
+      "keywords": "Cornbread salad, layered salad, Southwestern salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "url": "cornbread-salad-71",
+      "score": 0.7183964436858721
     },
     {
       "@context": "https://schema.org/",
@@ -303,74 +366,7 @@
         "totalTime": "50 minutes"
       },
       "url": "chicken-and-cheese-casserole-244",
-      "score": 0.7196040298657573
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Pork Chop & Rice Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Bonnie McNutt"
-      },
-      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT2H",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "6 center cut pork chops",
-        "1 sliced tomato",
-        "1 cup brown rice",
-        "1 sliced onion",
-        "4 sliced green onions",
-        "1 green pepper, sliced in rings",
-        "1/2 lb sliced fresh mushrooms",
-        "1 1/2 cups beef broth or stock",
-        "Salt and pepper to taste",
-        "1 Tbsp minced garlic",
-        "4 oz margarine or butter"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put raw rice in the casserole pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour beef broth over the casserole and cover with foil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
-        }
-      ],
-      "keywords": "pork chop, rice, casserole, baked",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "2 hours"
-      },
-      "url": "pork-chop-rice-casserole-211",
-      "score": 0.7140218233451121
+      "score": 0.7154505068579796
     }
   ]
 }

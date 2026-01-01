@@ -45,6 +45,7 @@
     "cookTime": "10 minutes",
     "totalTime": "15 minutes"
   },
+  "url": "plum-pudding-sauce-134",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -87,7 +88,7 @@
         "totalTime": "13 minutes"
       },
       "url": "salad-dressing-102",
-      "score": 0.7096827435990418
+      "score": 0.7106927163713941
     },
     {
       "@context": "https://schema.org/",
@@ -134,7 +135,7 @@
         "totalTime": "20 minutes"
       },
       "url": "salad-dressing-103",
-      "score": 0.7096827435990418
+      "score": 0.7106927163713941
     },
     {
       "@context": "https://schema.org/",
@@ -185,7 +186,61 @@
         "totalTime": "20 minutes"
       },
       "url": "salad-dressing-104",
-      "score": 0.7096827435990418
+      "score": 0.7106927163713941
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sliced Bean Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Phyllis Lightfoot"
+      },
+      "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeYield": "2 to 3 quarts",
+      "recipeIngredient": [
+        "Yellow or green beans",
+        "2 cups white vinegar",
+        "2 cups white sugar",
+        "1 tsp salt",
+        "1½ cups water",
+        "Onion and cream for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Slice the beans and cook until tender enough to pierce with a fork."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the cooked beans and pack them into jars."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, bring the sugar, water, vinegar, and salt to a boil to make the syrup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot syrup over the beans in the jars."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, pour off the liquid and add chopped onion and cream."
+        }
+      ],
+      "keywords": "pickled bean salad, sweet and tangy, preserved beans",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "sliced-bean-salad-49",
+      "score": 0.6729701339326738
     },
     {
       "@context": "https://schema.org/",
@@ -259,61 +314,7 @@
         "totalTime": "50 minutes"
       },
       "url": "beef-and-rice-casserole-168",
-      "score": 0.6776950978771161
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sliced Bean Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Phyllis Lightfoot"
-      },
-      "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeYield": "2 to 3 quarts",
-      "recipeIngredient": [
-        "Yellow or green beans",
-        "2 cups white vinegar",
-        "2 cups white sugar",
-        "1 tsp salt",
-        "1½ cups water",
-        "Onion and cream for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Slice the beans and cook until tender enough to pierce with a fork."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain the cooked beans and pack them into jars."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a saucepan, bring the sugar, water, vinegar, and salt to a boil to make the syrup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the hot syrup over the beans in the jars."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To serve, pour off the liquid and add chopped onion and cream."
-        }
-      ],
-      "keywords": "pickled bean salad, sweet and tangy, preserved beans",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "sliced-bean-salad-49",
-      "score": 0.6757629442041324
+      "score": 0.6624941122170589
     }
   ]
 }

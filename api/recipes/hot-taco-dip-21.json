@@ -74,6 +74,7 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
+  "url": "hot-taco-dip-21",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -151,7 +152,7 @@
         "totalTime": "36 minutes"
       },
       "url": "taco-ring-183",
-      "score": 0.8235685403456179
+      "score": 0.8330803005388456
     },
     {
       "@context": "https://schema.org/",
@@ -272,69 +273,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chili Con Queso (Nacho Cheese Dip)",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Marti Mockler"
-        },
-        {
-          "@type": "Person",
-          "name": "Irene Haugh"
-        }
-      ],
-      "description": "A warm, cheesy dip made with cream cheese, cheddar cheese soup, and processed cheese, perfect for tortilla chips.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 saucepan",
-      "recipeIngredient": [
-        "1 pkg (227 g) cream cheese",
-        "4 slices processed cheese",
-        "10 oz can (284 mL) cheddar cheese soup",
-        "¼ to ½ cup salsa",
-        "Tortilla chips for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Let the cream cheese stand at room temperature to warm up."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a saucepan, melt the cream cheese over heat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cheddar cheese soup, stirring constantly until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Crumble the processed cheese into smaller pieces and melt it into the cheese mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add salsa to taste, adjusting the amount based on the type of salsa used."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the Chili Con Queso hot with tortilla chips as a dip, or cold with tacos or chili."
-        }
-      ],
-      "keywords": "nacho cheese dip, chili con queso, cheesy dip, tortilla chip dip",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "chili-con-queso-nacho-cheese-dip-27",
-      "score": 0.7171364841698477
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Taco Salad",
       "author": {
         "@type": "Person",
@@ -389,7 +327,66 @@
         "totalTime": "25 minutes"
       },
       "url": "taco-salad-89",
-      "score": 0.7159050957597678
+      "score": 0.7194173880328675
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "A hearty taco salad with seasoned ground beef, lettuce, cheese, and crushed taco chips, mixed with Catalina dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 lb ground beef (hamburg)",
+        "1 pkg taco seasoning mix",
+        "1 head lettuce, chopped",
+        "1 cup shredded cheddar cheese",
+        "1 (250 g) bag cheese taco chips, crushed",
+        "1 chopped tomato",
+        "Catalina dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate the cooked beef until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully add in the chopped tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
+        }
+      ],
+      "keywords": "taco salad, ground beef, taco chips, Catalina dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "taco-salad-92",
+      "score": 0.7194173880328675
     }
   ]
 }

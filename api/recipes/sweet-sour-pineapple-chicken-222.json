@@ -47,6 +47,7 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
   },
+  "url": "sweet-sour-pineapple-chicken-222",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -130,72 +131,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
-      "score": 0.8800769238450097
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sticky Chicken",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Meghan Brand"
-        },
-        {
-          "@type": "Person",
-          "name": "Kurtis Brand"
-        }
-      ],
-      "description": "A sweet and savory chicken dish baked in a sticky sauce with pineapple and mushrooms.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 lb chicken, cut up",
-        "1 cup liquid (water + pineapple juice)",
-        "½ cup flour",
-        "¾ cup brown sugar",
-        "¼ tsp paprika",
-        "1 tsp Worcestershire sauce",
-        "1 tsp ground ginger",
-        "¼ cup soya sauce",
-        "1 tsp garlic powder",
-        "1 can drained mushrooms",
-        "28 oz can pineapple tidbits"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Shake chicken pieces in a bag with flour, paprika, ginger, and garlic powder to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine pineapple juice and water to make 1 cup. Add brown sugar, Worcestershire sauce, soya sauce, and drained mushrooms. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the coated chicken in a pan, skin side down. Pour the sauce over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F, uncovered, for 1 hour. Baste often and turn the chicken at 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "During the last 5 minutes, add drained pineapple tidbits and an additional can of drained mushrooms."
-        }
-      ],
-      "keywords": "sticky chicken, baked chicken, pineapple chicken",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "url": "sticky-chicken-233",
-      "score": 0.8013821885855548
+      "score": 0.8795432037357825
     },
     {
       "@context": "https://schema.org/",
@@ -260,7 +196,72 @@
         "totalTime": "15 minutes"
       },
       "url": "chicken-pineapple-stir-fry-221",
-      "score": 0.7955011606271322
+      "score": 0.810052836348315
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sticky Chicken",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Meghan Brand"
+        },
+        {
+          "@type": "Person",
+          "name": "Kurtis Brand"
+        }
+      ],
+      "description": "A sweet and savory chicken dish baked in a sticky sauce with pineapple and mushrooms.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 lb chicken, cut up",
+        "1 cup liquid (water + pineapple juice)",
+        "½ cup flour",
+        "¾ cup brown sugar",
+        "¼ tsp paprika",
+        "1 tsp Worcestershire sauce",
+        "1 tsp ground ginger",
+        "¼ cup soya sauce",
+        "1 tsp garlic powder",
+        "1 can drained mushrooms",
+        "28 oz can pineapple tidbits"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Shake chicken pieces in a bag with flour, paprika, ginger, and garlic powder to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine pineapple juice and water to make 1 cup. Add brown sugar, Worcestershire sauce, soya sauce, and drained mushrooms. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the coated chicken in a pan, skin side down. Pour the sauce over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F, uncovered, for 1 hour. Baste often and turn the chicken at 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "During the last 5 minutes, add drained pineapple tidbits and an additional can of drained mushrooms."
+        }
+      ],
+      "keywords": "sticky chicken, baked chicken, pineapple chicken",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "sticky-chicken-233",
+      "score": 0.8058746103551727
     },
     {
       "@context": "https://schema.org/",
@@ -323,65 +324,68 @@
         "totalTime": "55 minutes"
       },
       "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "score": 0.7247960616161109
+      "score": 0.7374027298025779
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken Hawaiian",
+      "name": "Sweet & Sour Meatballs",
       "author": {
         "@type": "Person",
-        "name": "Mary Kenney"
+        "name": "Sharon Allen"
       },
+      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Hawaiian",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H30M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1½ cups Minute Rice",
-        "1 can (10 oz/284 mL) chicken broth",
-        "1 Bake 'N Shake pouch",
-        "4 to 5 boneless chicken breasts",
-        "1 can (14 oz/398 mL) pineapple tidbits with juice",
-        "1 tsp ground ginger",
-        "1 garlic clove"
+        "1 lb lean ground beef",
+        "2 Tbsp chopped onion",
+        "½ cup cracker crumbs",
+        "1 Tbsp crushed garlic",
+        "¼ tsp pepper",
+        "1 egg",
+        "1½ tsp soya sauce",
+        "⅔ cup milk",
+        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine rice, chicken broth, and contents of Bake 'N Shake pouch as directed on the package."
+          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange chicken breasts in a single layer in a 9x13 inch (2.5 L) casserole dish."
+          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Coat chicken with a mixture of ground ginger and garlic."
+          "text": "Broil to brown on all sides, watching carefully."
         },
         {
           "@type": "HowToStep",
-          "text": "Top chicken with pineapple tidbits and juice."
+          "text": "Place meatballs in a casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle the prepared rice mixture over the chicken."
+          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake uncovered at 375°F (180°C) for 30 minutes."
+          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
         }
       ],
-      "keywords": "Hawaiian chicken, pineapple chicken, baked chicken and rice",
+      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 30 minutes"
       },
-      "url": "chicken-hawaiian-232",
-      "score": 0.70635935036866
+      "url": "sweet-sour-meatballs-161",
+      "score": 0.7140300167916843
     }
   ]
 }

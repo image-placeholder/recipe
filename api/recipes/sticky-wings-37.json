@@ -43,7 +43,53 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
+  "url": "sticky-wings-37",
   "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Celebrity",
+      "author": {
+        "@type": "Person",
+        "name": "Rosemary Stewart"
+      },
+      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 to 3 lb chicken parts",
+        "1/4 cup brown sugar",
+        "1 package dry onion soup mix",
+        "1/2 cup ketchup",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken parts in a small roaster or casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 350°F oven for 1 hour or until tender."
+        }
+      ],
+      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "chicken-celebrity-237",
+      "score": 0.7005699666417363
+    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -107,115 +153,7 @@
         "totalTime": "1 hour 20 minutes"
       },
       "url": "sticky-chicken-233",
-      "score": 0.6995581678288055
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Celebrity",
-      "author": {
-        "@type": "Person",
-        "name": "Rosemary Stewart"
-      },
-      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "2 to 3 lb chicken parts",
-        "1/4 cup brown sugar",
-        "1 package dry onion soup mix",
-        "1/2 cup ketchup",
-        "1/4 cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Arrange chicken parts in a small roaster or casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 350°F oven for 1 hour or until tender."
-        }
-      ],
-      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "url": "chicken-celebrity-237",
-      "score": 0.6988349417797405
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Glenda Wuerth"
-      },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
-        "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
-        }
-      ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
-      },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "score": 0.6683364546614885
+      "score": 0.6822400557226795
     },
     {
       "@context": "https://schema.org/",
@@ -282,7 +220,70 @@
         "totalTime": "40 minutes"
       },
       "url": "noodles-with-hamburg-166",
-      "score": 0.6653815630113559
+      "score": 0.6780907549329087
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat Balls and Sour And Sweet Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Glenda Wuerth"
+      },
+      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb hamburger",
+        "1 slice dry bread (crumbs)",
+        "1 Tbsp cornstarch",
+        "¼ cup milk",
+        "1 tsp onion flakes or 1 tsp real onion",
+        "1 (19 oz) can pineapple, crushed",
+        "⅓ cup vinegar",
+        "1 tsp salt",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together and form into 1½ inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from oven and drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a large casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+        }
+      ],
+      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "score": 0.669192607689884
     },
     {
       "@context": "https://schema.org/",
@@ -356,7 +357,7 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.6628503740363066
+      "score": 0.6644858053311877
     }
   ]
 }

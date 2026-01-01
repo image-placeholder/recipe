@@ -62,6 +62,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 30 minutes"
   },
+  "url": "hearty-chicken-pot-pie-250",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -130,7 +131,7 @@
         "totalTime": "1 hour 15 minutes"
       },
       "url": "turkey-or-chicken-pies-251",
-      "score": 0.7731706079516893
+      "score": 0.7767033678273988
     },
     {
       "@context": "https://schema.org/",
@@ -205,7 +206,76 @@
         "totalTime": "55 minutes"
       },
       "url": "hamburger-pie-169",
-      "score": 0.7180616354225073
+      "score": 0.7195213737402838
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Chicken Stew",
+      "author": {
+        "@type": "Person",
+        "name": "Anne Cottel"
+      },
+      "description": "A hearty and comforting chicken stew with vegetables in a creamy sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 to 10 servings",
+      "recipeIngredient": [
+        "3 lb boneless, skinless chicken breasts, cut into 1-inch cubes",
+        "2 Tbsp cooking oil",
+        "1 medium onion, diced",
+        "1 cup sliced celery",
+        "2 cups peeled and cubed potatoes",
+        "3 large carrots, cut into coins",
+        "1 tsp salt",
+        "1/2 tsp dried basil",
+        "1/2 tsp paprika",
+        "1/4 tsp celery salt",
+        "1 bay leaf",
+        "7 cups chicken broth, divided",
+        "1 can (14 oz) corn kernels, drained",
+        "1 can (14 oz) peas",
+        "1 can (14 oz) lima beans",
+        "1/2 cup butter or margarine",
+        "3/4 cup all-purpose flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a Dutch oven. Sprinkle chicken with salt, pepper, and paprika. Cook and stir until the chicken is browned. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add raw vegetables, basil, bay leaf, celery salt, and 5 cups broth; bring to a boil. Reduce heat. Cover and simmer for 30 minutes or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bay leaf. Add canned vegetables. Cook and stir for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, mix flour and butter or margarine until smooth. Gradually whisk in remaining 2 cups broth. Bring to a boil. Cook and stir for 2 minutes or until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce into the Dutch oven. Stir and bring to a boil. Reduce heat. Simmer, uncovered, for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with rolls or biscuits."
+        }
+      ],
+      "keywords": "chicken stew, creamy stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "creamy-chicken-stew-252",
+      "score": 0.7123814109461322
     },
     {
       "@context": "https://schema.org/",
@@ -279,132 +349,58 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.7058957967469376
+      "score": 0.7065975404139956
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Creamy Chicken Stew",
+      "name": "Chicken and Broccoli",
       "author": {
         "@type": "Person",
-        "name": "Anne Cottel"
+        "name": "Marguerite Finkbeiner"
       },
-      "description": "A hearty and comforting chicken stew with vegetables in a creamy sauce.",
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "8 to 10 servings",
-      "recipeIngredient": [
-        "3 lb boneless, skinless chicken breasts, cut into 1-inch cubes",
-        "2 Tbsp cooking oil",
-        "1 medium onion, diced",
-        "1 cup sliced celery",
-        "2 cups peeled and cubed potatoes",
-        "3 large carrots, cut into coins",
-        "1 tsp salt",
-        "1/2 tsp dried basil",
-        "1/2 tsp paprika",
-        "1/4 tsp celery salt",
-        "1 bay leaf",
-        "7 cups chicken broth, divided",
-        "1 can (14 oz) corn kernels, drained",
-        "1 can (14 oz) peas",
-        "1 can (14 oz) lima beans",
-        "1/2 cup butter or margarine",
-        "3/4 cup all-purpose flour"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat oil in a Dutch oven. Sprinkle chicken with salt, pepper, and paprika. Cook and stir until the chicken is browned. Drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add raw vegetables, basil, bay leaf, celery salt, and 5 cups broth; bring to a boil. Reduce heat. Cover and simmer for 30 minutes or until vegetables are tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove bay leaf. Add canned vegetables. Cook and stir for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a saucepan, mix flour and butter or margarine until smooth. Gradually whisk in remaining 2 cups broth. Bring to a boil. Cook and stir for 2 minutes or until thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the sauce into the Dutch oven. Stir and bring to a boil. Reduce heat. Simmer, uncovered, for 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with rolls or biscuits."
-        }
-      ],
-      "keywords": "chicken stew, creamy stew, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "creamy-chicken-stew-252",
-      "score": 0.7055014230173122
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat and Potato Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Martine Bercier"
-      },
-      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "1 8L casserole",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "½ lb lean ground beef",
-        "1 onion",
-        "1 clove garlic",
-        "6 medium potatoes, peeled and sliced",
-        "1 envelope (50g) gravy mix",
-        "2½ cups water",
-        "2 cups corn",
-        "Salt and pepper to taste"
+        "1 cup small shells pasta",
+        "1 can cream of mushroom soup",
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+          "text": "Cook the small shells pasta according to package directions. Drain."
         },
         {
           "@type": "HowToStep",
-          "text": "Layer sliced potatoes in an 8L casserole dish."
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with corn and the browned meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and cook at 350°F for 50 minutes."
+          "text": "Serve hot with a cranberry salad."
         }
       ],
-      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "meat-and-potato-casserole-159",
-      "score": 0.6900592865693859
+      "url": "chicken-and-broccoli-234",
+      "score": 0.7054196051002481
     }
   ]
 }

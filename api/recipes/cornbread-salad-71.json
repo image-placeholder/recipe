@@ -57,6 +57,7 @@
     "cookTime": "15 minutes",
     "totalTime": "1 hour 35 minutes"
   },
+  "url": "cornbread-salad-71",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -114,7 +115,7 @@
         "totalTime": "15 minutes"
       },
       "url": "black-bean-salad-48",
-      "score": 0.7396484003212919
+      "score": 0.7484845770455079
     },
     {
       "@context": "https://schema.org/",
@@ -176,7 +177,7 @@
         "totalTime": "40 minutes"
       },
       "url": "corn-chowder-107",
-      "score": 0.7390747719838178
+      "score": 0.7358335331189466
     },
     {
       "@context": "https://schema.org/",
@@ -238,130 +239,131 @@
         "totalTime": "40 minutes"
       },
       "url": "corn-chowder-110",
-      "score": 0.7390747719838178
+      "score": 0.7358335331189466
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Microwave Corn Chowder",
+      "name": "Noodles with Hamburg",
       "author": {
         "@type": "Person",
-        "name": "Brenda Martene"
+        "name": "Carolyn Gower"
       },
-      "description": "A creamy corn chowder made in the microwave with potatoes, carrots, celery, and cheddar cheese.",
-      "recipeCategory": "Soup",
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "10 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "2 cups water",
-        "¼ cup butter or margarine",
-        "2 cups diced peeled potatoes",
-        "¼ cup all-purpose flour",
-        "2 cups milk",
-        "½ cup sliced carrots",
-        "½ cup sliced celery",
-        "¼ cup chopped onion",
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
         "1 tsp salt",
-        "¼ tsp pepper",
-        "3 cups (12 oz) shredded cheddar cheese",
-        "2 cans (14¾ oz each) cream style corn"
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Place water in a 2-quart microwave-safe dish; cover and heat until boiling."
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Add potatoes, carrots, celery, onion, salt, and pepper. Cook, uncovered, on high for 8 to 10 minutes or until vegetables are crisp-tender; set aside (do not drain)."
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
         },
         {
           "@type": "HowToStep",
-          "text": "In a 3-quart dish, microwave butter on high for 50 to 60 seconds or until melted."
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in flour until smooth. Gradually stir in milk. Cook, uncovered, on high for 6 to 7 minutes or until thickened, stirring every 2 minutes."
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the cheese. Heat for 1 to 1½ minutes or until the cheese is melted."
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in corn and reserved vegetables. Cook on high for 2 to 3 minutes or until heated through."
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
         }
       ],
-      "keywords": "microwave corn chowder, creamy soup, cheddar cheese",
+      "keywords": "hamburger casserole, noodle dish, comfort food",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
       },
-      "url": "microwave-corn-chowder-118",
-      "score": 0.7344121307324161
+      "url": "noodles-with-hamburg-166",
+      "score": 0.7318233681561817
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Taco Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Deb Hodge"
-      },
-      "description": "A hearty taco salad with seasoned ground beef, crunchy taco chips, and cheddar cheese, all tossed in Catalina dressing.",
-      "recipeCategory": "Salad",
+      "name": "Spinach Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Ruth Slaght"
+        },
+        {
+          "@type": "Person",
+          "name": "Jo Anne Pickering"
+        }
+      ],
+      "description": "A creamy spinach dip made with sour cream, mayonnaise, and Knorr vegetable soup mix, served in a hollowed-out pumpernickel bread loaf.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "about 4 cups of dip",
       "recipeIngredient": [
-        "1 lb ground beef (hamburg)",
-        "1 package taco seasoning mix",
-        "1 (250 g) bag crushed taco chips",
-        "1 cup shredded cheddar cheese",
-        "1 head lettuce, chopped",
-        "1 chopped tomato",
-        "Catalina dressing"
+        "1 pkg (300 g) frozen chopped spinach, thawed and drained",
+        "1 can (10 oz) water chestnuts, drained and chopped",
+        "2 cups (500 mL) sour cream",
+        "1 cup mayonnaise",
+        "1 pkg Knorr vegetable soup mix",
+        "3 green onions, chopped",
+        "1 large round pumpernickel bread loaf (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+          "text": "Squeeze excess moisture from the thawed spinach."
         },
         {
           "@type": "HowToStep",
-          "text": "Refrigerate the cooked beef until ready to use."
+          "text": "In a bowl, combine the spinach, sour cream, mayonnaise, Knorr soup mix, water chestnuts, and green onions. Stir until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+          "text": "Cover and refrigerate for at least 2 hours to allow flavors to blend."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix in Catalina dressing until well coated."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Carefully add in chopped tomato."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately."
+          "text": "If using a bread loaf, scoop out a large hollow through the top and fill with the dip mixture. Serve with bread cubes cut from the centre and/or assorted fresh vegetables."
         }
       ],
-      "keywords": "taco salad, ground beef, taco chips, cheddar cheese",
+      "keywords": "spinach dip, party appetizer, pumpernickel bread",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
       },
-      "url": "taco-salad-89",
-      "score": 0.7247889775382851
+      "url": "spinach-dip-16",
+      "score": 0.7312379336139446
     }
   ]
 }

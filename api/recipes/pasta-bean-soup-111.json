@@ -59,6 +59,7 @@
     "cookTime": "28 minutes",
     "totalTime": "43 minutes"
   },
+  "url": "pasta-bean-soup-111",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -134,7 +135,7 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "score": 0.8068730874434107
+      "score": 0.804138789759205
     },
     {
       "@context": "https://schema.org/",
@@ -184,7 +185,7 @@
         "totalTime": "4 hours 20 minutes"
       },
       "url": "spaghetti-sauce-177",
-      "score": 0.7913401585330767
+      "score": 0.789696186894261
     },
     {
       "@context": "https://schema.org/",
@@ -238,7 +239,7 @@
         "totalTime": "2 hours 20 minutes"
       },
       "url": "spaghetti-sauce-187",
-      "score": 0.7913401585330767
+      "score": 0.789696186894261
     },
     {
       "@context": "https://schema.org/",
@@ -295,74 +296,81 @@
         "totalTime": "25 minutes"
       },
       "url": "ginger-noodle-soup-114",
-      "score": 0.7820370817917877
+      "score": 0.7805582465084181
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Noodles with Hamburg",
+      "name": "Thai Chicken",
       "author": {
         "@type": "Person",
-        "name": "Carolyn Gower"
+        "name": "Barbara Robertson"
       },
-      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Thai",
       "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "¼ tsp oregano",
-        "¼ tsp garlic powder",
-        "½ cup chopped onions (optional)",
-        "1 tsp salt",
-        "⅓ cup chopped celery",
-        "¾ cup shredded cheddar cheese (optional)",
-        "2 cups canned tomatoes",
-        "2 cups cooked macaroni",
-        "1 (14 oz) can corn kernels",
-        "1 (10 oz) can tomato soup"
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot."
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
         }
       ],
-      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
       },
-      "url": "noodles-with-hamburg-166",
-      "score": 0.7703865423547501
+      "url": "thai-chicken-235",
+      "score": 0.7787147380252687
     }
   ]
 }

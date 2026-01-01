@@ -52,6 +52,7 @@
     "cookTime": "",
     "totalTime": "20 minutes"
   },
+  "url": "tomato-chickpea-salad-93",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -276,59 +277,64 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Onion Salad",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Wallace Pfaff"
-        },
-        {
-          "@type": "Person",
-          "name": "Joanne Pickering"
-        }
-      ],
-      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
-      "recipeCategory": "Salad",
+      "name": "Chili Con Carne",
+      "author": {
+        "@type": "Person",
+        "name": "Shannon Wuerth"
+      },
+      "description": "A hearty and versatile chili recipe featuring ground beef, kidney beans, and a variety of vegetables, ideal for customization.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H10M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 servings, 9 cups (2.25 L)",
       "recipeIngredient": [
-        "2 Spanish onions, thinly sliced",
-        "1 1/2 tsp salt",
-        "1/2 cup white sugar",
-        "1 cup mayonnaise or salad dressing",
-        "1/3 cup water",
-        "1/3 cup vinegar",
-        "1 tsp celery seed"
+        "1 lb lean ground beef",
+        "1 can (28 oz) tomatoes",
+        "1 cup chopped onion",
+        "1 can (7.5 oz) tomato sauce",
+        "1 clove garlic, crushed",
+        "1 can (19 oz) kidney beans, drained",
+        "3 cups finely shredded cabbage",
+        "1 Tbsp chili powder",
+        "2 cups thinly sliced celery",
+        "1 tsp dried oregano",
+        "1/2 cup chopped green pepper",
+        "1/2 tsp salt",
+        "1/4 tsp hot pepper sauce",
+        "Optional: additional vegetables like zucchini, carrots, mushrooms"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+          "text": "In a large nonstick skillet, cook ground beef over medium-high heat until browned and crumbly; drain off excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Drain the marinade well in the morning."
+          "text": "Add onion and garlic to the skillet and cook for 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+          "text": "Add cabbage, celery, green pepper, tomatoes with juice, tomato sauce, kidney beans, chili powder, oregano, salt, and hot pepper sauce to the skillet."
         },
         {
           "@type": "HowToStep",
-          "text": "Chill until ready to serve."
+          "text": "Optionally add other desired vegetables (e.g., zucchini, carrots, mushrooms) at this stage."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and simmer over medium heat for 45 minutes, or until vegetables are tender, stirring occasionally."
         }
       ],
-      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "keywords": "chili con carne, ground beef chili, customizable chili",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 10 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "onion-salad-74",
-      "score": 0.6902645413713308
+      "url": "chili-con-carne-165",
+      "score": 0.6920431820625255
     }
   ]
 }

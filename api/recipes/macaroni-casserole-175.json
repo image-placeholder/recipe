@@ -64,6 +64,7 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "url": "macaroni-casserole-175",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -130,7 +131,7 @@
         "totalTime": "40 minutes"
       },
       "url": "noodles-with-hamburg-166",
-      "score": 0.8118498842244131
+      "score": 0.8024076932640621
     },
     {
       "@context": "https://schema.org/",
@@ -183,7 +184,7 @@
         "totalTime": "50 minutes"
       },
       "url": "hamburg-noodle-casserole-172",
-      "score": 0.7972893326401121
+      "score": 0.7917526490916367
     },
     {
       "@context": "https://schema.org/",
@@ -248,133 +249,140 @@
         "totalTime": "1 hour 20 minutes"
       },
       "url": "chinese-hamburger-casserole-174",
-      "score": 0.7761095538706835
+      "score": 0.7721548308823112
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Casserole",
+      "name": "Macaroni Ham Casserole",
       "author": {
         "@type": "Person",
-        "name": "Janet Dearing"
+        "name": "Cheryl MacLeod"
       },
-      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
+      "description": "A comforting macaroni and ham casserole topped with cheddar cheese and crushed sour cream and onion potato chips.",
       "recipeCategory": "Casserole",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 quart casserole",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "½ lb spaghetti",
-        "½ lb ground beef",
-        "1 can (19 oz) diced tomatoes",
-        "½ cup chopped onion",
-        "1 can (10 oz) condensed cream of mushroom soup",
-        "1½ tsp salt",
-        "¼ tsp pepper",
-        "1 cup grated medium cheddar cheese",
-        "½ tsp garlic",
-        "1 can (10 oz) mushroom pieces, drained"
+        "2½ cups (625 mL) milk",
+        "2 cups (500 mL) uncooked macaroni",
+        "Salt and pepper to taste",
+        "1 to 1¼ cups (250 to 375 mL) grated cheddar cheese",
+        "1 cup (250 mL) cubed ham",
+        "¼ cup (60 mL) melted margarine",
+        "¼ cup (60 mL) flour",
+        "Crushed sour cream and onion flavoured potato chips for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef and onion in a frying pan."
+          "text": "Preheat oven to 350°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook spaghetti according to package directions."
+          "text": "Cook the macaroni in boiling water, then drain and mix in cubed ham."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
+          "text": "Melt margarine in a saucepan and mix in the flour. Add in the milk and stir constantly over medium heat until the mixture is thick and smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour canned tomatoes over the spaghetti layer."
+          "text": "Mix the sauce with the macaroni and ham, then pour into a greased casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Spoon the browned meat mixture over the tomatoes."
+          "text": "Add salt and pepper to taste, and stir in about ¾ of the grated cheddar cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover with cream of mushroom soup."
+          "text": "Sprinkle the remaining cheddar cheese on top."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover with grated cheddar cheese."
+          "text": "Top with crushed sour cream and onion flavoured potato chips."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
+          "text": "Bake at 350°F for approximately 20 minutes, or until the casserole is bubbling."
         }
       ],
-      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
+      "keywords": "macaroni casserole, ham and cheese, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
       },
-      "url": "spaghetti-casserole-178",
-      "score": 0.7759765277593526
+      "url": "macaroni-ham-casserole-196",
+      "score": 0.7670453962593585
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meat and Potato Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Martine Bercier"
-      },
-      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
-      "recipeCategory": "Casserole",
+      "name": "Tomato Macaroni Soup",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Linda Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Shirley Preszcator"
+        }
+      ],
+      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "1 8L casserole",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "½ lb lean ground beef",
-        "1 onion",
-        "1 clove garlic",
-        "6 medium potatoes, peeled and sliced",
-        "1 envelope (50g) gravy mix",
-        "2½ cups water",
-        "2 cups corn",
+        "1 Tbsp oil",
+        "1½ cups water",
+        "1 cooking onion, diced",
+        "1 cup dry macaroni",
+        "2 carrots, diced",
+        "½ tsp garlic salt",
+        "3 or 4 celery stalks, diced",
+        "½ tsp Worcestershire sauce",
+        "2 cups chicken stock",
+        "2 cups tomato juice",
         "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+          "text": "Saute onion, celery, and carrot in oil until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Layer sliced potatoes in an 8L casserole dish."
+          "text": "Add stock, juice, and water. Bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+          "text": "Add pasta and cook until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with corn and the browned meat mixture."
+          "text": "Add garlic salt and Worcestershire sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover and cook at 350°F for 50 minutes."
+          "text": "Season to taste with salt and pepper."
         }
       ],
-      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "keywords": "tomato macaroni soup, comfort food, pasta soup",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
       },
-      "url": "meat-and-potato-casserole-159",
-      "score": 0.7732938012915755
+      "url": "tomato-macaroni-soup-123",
+      "score": 0.7641378197551898
     }
   ]
 }

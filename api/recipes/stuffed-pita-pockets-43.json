@@ -50,205 +50,8 @@
     "cookTime": "",
     "totalTime": "10 minutes"
   },
+  "url": "stuffed-pita-pockets-43",
   "_similar": [
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Veggie Pizza",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Linda Nakamura"
-        },
-        {
-          "@type": "Person",
-          "name": "Teena Houston"
-        }
-      ],
-      "description": "A simple and customizable veggie pizza using crescent rolls as the crust, topped with a cream cheese mixture and various vegetables.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeIngredient": [
-        "2 pkg Pillsbury crescent rolls",
-        "1 cup sour cream",
-        "1/2 cup mayonnaise",
-        "2 large cream cheese",
-        "2 pkg Hidden Valley ranch dressing",
-        "Grated cheddar cheese",
-        "Veggies (broccoli, cauliflower, carrots, celery, red or green peppers, green onions)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Roll out crescent rolls on a cookie sheet and a small cake pan. Bake until golden brown. Cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix sour cream, mayonnaise, cream cheese, and ranch dressing to make the cream mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread cream mixture on cooled rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with finely chopped vegetables of your choice."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with grated cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill and cut into small pieces. Serve as hors d'oeuvres."
-        }
-      ],
-      "keywords": "veggie pizza, appetizer, crescent rolls",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "veggie-pizza-47",
-      "score": 0.6355646917406672
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Veggie Pizza",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Kelly Haines"
-        },
-        {
-          "@type": "Person",
-          "name": "Kim MacDonald"
-        }
-      ],
-      "description": "A simple veggie pizza made with a crescent roll crust, cream cheese, ranch dressing, and various chopped vegetables.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "1 pizza",
-      "recipeIngredient": [
-        "1 roll Pillsbury crescent rolls",
-        "1 (8 oz) pkg cream cheese",
-        "1/2 cup ranch dressing",
-        "1 cup finely chopped broccoli",
-        "1/2 cup finely chopped red onion",
-        "1/2 cup finely chopped green or red pepper",
-        "1 cup finely chopped cauliflower"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 375°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll out crescent roll dough on a flat cookie sheet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until golden brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cream cheese with ranch dressing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the cream cheese mixture onto the cooled crust."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with chopped vegetables."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Keep refrigerated before serving."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cut with pizza cutter or knife."
-        }
-      ],
-      "keywords": "veggie pizza, crescent roll crust, cream cheese, ranch dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "veggie-pizza-201",
-      "score": 0.6355646917406672
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Stuffing and Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Beth Clarke"
-      },
-      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "4 boned and skinned chicken breast halves",
-        "1⅓ cups Stove Top stuffing",
-        "1 can cream of chicken soup",
-        "4 slices Swiss cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put a slice of Swiss cheese on top of each breast."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the cream of chicken soup over the stuffing layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350 °F for 1 hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT1H"
-        }
-      ],
-      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
-      },
-      "url": "stuffing-and-chicken-242",
-      "score": 0.6100133476241069
-    },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
@@ -321,7 +124,205 @@
         "totalTime": "45 minutes"
       },
       "url": "sloppy-joe-squares-185",
-      "score": 0.6009885279742547
+      "score": 0.6042431656811773
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Veggie Pizza",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Linda Nakamura"
+        },
+        {
+          "@type": "Person",
+          "name": "Teena Houston"
+        }
+      ],
+      "description": "A simple and customizable veggie pizza using crescent rolls as the crust, topped with a cream cheese mixture and various vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "2 pkg Pillsbury crescent rolls",
+        "1 cup sour cream",
+        "1/2 cup mayonnaise",
+        "2 large cream cheese",
+        "2 pkg Hidden Valley ranch dressing",
+        "Grated cheddar cheese",
+        "Veggies (broccoli, cauliflower, carrots, celery, red or green peppers, green onions)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Roll out crescent rolls on a cookie sheet and a small cake pan. Bake until golden brown. Cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix sour cream, mayonnaise, cream cheese, and ranch dressing to make the cream mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cream mixture on cooled rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with finely chopped vegetables of your choice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill and cut into small pieces. Serve as hors d'oeuvres."
+        }
+      ],
+      "keywords": "veggie pizza, appetizer, crescent rolls",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "veggie-pizza-47",
+      "score": 0.5975774666049413
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Veggie Pizza",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Kelly Haines"
+        },
+        {
+          "@type": "Person",
+          "name": "Kim MacDonald"
+        }
+      ],
+      "description": "A simple veggie pizza made with a crescent roll crust, cream cheese, ranch dressing, and various chopped vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeYield": "1 pizza",
+      "recipeIngredient": [
+        "1 roll Pillsbury crescent rolls",
+        "1 (8 oz) pkg cream cheese",
+        "1/2 cup ranch dressing",
+        "1 cup finely chopped broccoli",
+        "1/2 cup finely chopped red onion",
+        "1/2 cup finely chopped green or red pepper",
+        "1 cup finely chopped cauliflower"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll out crescent roll dough on a flat cookie sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cream cheese with ranch dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cream cheese mixture onto the cooled crust."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with chopped vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep refrigerated before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut with pizza cutter or knife."
+        }
+      ],
+      "keywords": "veggie pizza, crescent roll crust, cream cheese, ranch dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "veggie-pizza-201",
+      "score": 0.5975774666049413
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stuffing and Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Beth Clarke"
+      },
+      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 boned and skinned chicken breast halves",
+        "1⅓ cups Stove Top stuffing",
+        "1 can cream of chicken soup",
+        "4 slices Swiss cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put a slice of Swiss cheese on top of each breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cream of chicken soup over the stuffing layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350 °F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
+        }
+      ],
+      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "stuffing-and-chicken-242",
+      "score": 0.590833114882576
     },
     {
       "@context": "https://schema.org/",
@@ -384,7 +385,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "parmesan-chicken-239",
-      "score": 0.5971795403419659
+      "score": 0.5875174993353275
     }
   ]
 }

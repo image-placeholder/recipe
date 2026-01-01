@@ -69,6 +69,7 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "url": "beef-and-rice-casserole-168",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +119,7 @@
         "totalTime": "4 hours 20 minutes"
       },
       "url": "stewing-beef-casserole-155",
-      "score": 0.85167129221561
+      "score": 0.8456001899256781
     },
     {
       "@context": "https://schema.org/",
@@ -177,167 +178,209 @@
         "totalTime": "2 hours 30 minutes"
       },
       "url": "beef-barley-soup-100",
-      "score": 0.8089724073615722
+      "score": 0.8110120546101274
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meat and Potato Casserole",
+      "name": "Beef Porcupines",
       "author": {
         "@type": "Person",
-        "name": "Martine Bercier"
+        "name": "Bernice Martin"
       },
-      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
-      "recipeCategory": "Casserole",
+      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "1 8L casserole",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "½ lb lean ground beef",
-        "1 onion",
-        "1 clove garlic",
-        "6 medium potatoes, peeled and sliced",
-        "1 envelope (50g) gravy mix",
-        "2½ cups water",
-        "2 cups corn",
-        "Salt and pepper to taste"
+        "1 lb ground beef",
+        "½ cup uncooked long-grain rice",
+        "¼ cup chopped onion",
+        "1 tsp prepared mustard",
+        "1 tsp chili powder",
+        "1 tsp salt",
+        "¼ tsp allspice",
+        "1 tsp brown sugar",
+        "1/8 tsp pepper",
+        "1 tsp Worcestershire sauce",
+        "1 tsp paprika",
+        "1 (10 oz) can tomato soup",
+        "1 soup can hot water"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
         },
         {
           "@type": "HowToStep",
-          "text": "Layer sliced potatoes in an 8L casserole dish."
+          "text": "Place meatballs in a baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with corn and the browned meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and cook at 350°F for 50 minutes."
+          "text": "Cover and bake at 350°F for 1 hour."
         }
       ],
-      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "keywords": "beef porcupines, baked meatballs, rice",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
-      "url": "meat-and-potato-casserole-159",
-      "score": 0.7840970800558529
+      "url": "beef-porcupines-163",
+      "score": 0.7777904297083884
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
+      "name": "Cabbage Rolls",
       "author": {
         "@type": "Person",
         "name": "Heather Clarke"
       },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
+      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "European",
+      "prepTime": "PT30M",
+      "cookTime": "PT3H",
+      "totalTime": "PT3H30M",
       "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
+        "1 head cabbage",
+        "½ lb ground pork",
+        "1 lb ground beef",
+        "1 medium onion",
+        "2 Tbsp lard",
+        "¾ cup uncooked rice (Uncle Ben's)",
+        "1 tsp salt",
+        "½ tsp black pepper",
+        "1 (24 oz) can tomato juice"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
         },
         {
           "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+          "text": "Chop the onion and fry in lard for 10 minutes until softened."
         },
         {
           "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
+          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
         }
       ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
+        "prepTime": "30 minutes",
+        "cookTime": "3 hours",
+        "totalTime": "3 hours 30 minutes"
       },
-      "url": "spaghetti-sauce-177",
-      "score": 0.7765999185582007
+      "url": "cabbage-rolls-167",
+      "score": 0.7737286544156761
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
+      "name": "Chili Turkey",
       "author": {
         "@type": "Person",
-        "name": "Margaret Beaver"
+        "name": "Dianne Finkbeiner"
       },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
+      "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
+        "1 tsp ground coriander",
+        "1½ tsp vegetable oil",
+        "¼ tsp salt",
+        "1 large chopped onion",
+        "½ tsp ground cumin",
+        "1 large chopped green pepper",
+        "¼ tsp cinnamon",
+        "2 chopped garlic cloves",
+        "2 to 3 Tbsp chili powder",
+        "1⅓ lb ground turkey",
+        "1 can red kidney beans",
+        "1¾ cups chicken broth",
+        "6 oz whole wheat spaghetti",
+        "3 tsp tomato paste",
+        "½ cup shredded cheese",
+        "1½ tsp dried oregano"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
+          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
+          "text": "Add garlic and cook for 1 minute."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
+          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta as directed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
         }
       ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "spaghetti-sauce-187",
-      "score": 0.7765999185582007
+      "url": "chili-turkey-247",
+      "score": 0.773292565375709
     }
   ]
 }

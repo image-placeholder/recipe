@@ -47,6 +47,7 @@
     "cookTime": "",
     "totalTime": "15 minutes"
   },
+  "url": "strawberry-tossed-salad-96",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -110,7 +111,7 @@
         "totalTime": "15 minutes"
       },
       "url": "tossed-berry-mandarin-salad-87",
-      "score": 0.8251711840268479
+      "score": 0.813129060707656
     },
     {
       "@context": "https://schema.org/",
@@ -163,7 +164,64 @@
         "totalTime": "15 minutes"
       },
       "url": "romaine-salad-with-orange-84",
-      "score": 0.7832124548037982
+      "score": 0.7737946790479342
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the marinade well in the morning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve."
+        }
+      ],
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
+      },
+      "url": "onion-salad-74",
+      "score": 0.7375787243172095
     },
     {
       "@context": "https://schema.org/",
@@ -223,7 +281,7 @@
         "totalTime": "20 minutes"
       },
       "url": "mandarin-orange-salad-88",
-      "score": 0.7546123792385097
+      "score": 0.7373246868546406
     },
     {
       "@context": "https://schema.org/",
@@ -277,64 +335,7 @@
         "totalTime": "30 minutes"
       },
       "url": "sliced-bean-salad-49",
-      "score": 0.7477927007812506
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Onion Salad",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Wallace Pfaff"
-        },
-        {
-          "@type": "Person",
-          "name": "Joanne Pickering"
-        }
-      ],
-      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "2 Spanish onions, thinly sliced",
-        "1 1/2 tsp salt",
-        "1/2 cup white sugar",
-        "1 cup mayonnaise or salad dressing",
-        "1/3 cup water",
-        "1/3 cup vinegar",
-        "1 tsp celery seed"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain the marinade well in the morning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until ready to serve."
-        }
-      ],
-      "keywords": "onion salad, marinated onions, sweet and tangy salad",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 10 minutes"
-      },
-      "url": "onion-salad-74",
-      "score": 0.7462975113570383
+      "score": 0.7324043559784579
     }
   ]
 }

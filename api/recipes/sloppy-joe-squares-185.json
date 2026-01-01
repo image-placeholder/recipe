@@ -69,6 +69,7 @@
     "cookTime": "25 minutes",
     "totalTime": "45 minutes"
   },
+  "url": "sloppy-joe-squares-185",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -133,7 +134,126 @@
         "totalTime": "35 minutes"
       },
       "url": "nacho-salad-73",
-      "score": 0.7697388013013514
+      "score": 0.7643787372282771
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hawaiian Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
+      "recipeCategory": "Meat",
+      "recipeCuisine": "Hawaiian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "2 eggs",
+        "½ cup chopped onion",
+        "¾ cup bread crumbs",
+        "¼ tsp salt",
+        "¼ tsp garlic salt",
+        "½ tsp salt",
+        "¼ tsp ginger",
+        "¼ tsp dry mustard",
+        "2 Tbsp soya sauce",
+        "¼ cup vinegar",
+        "6 Tbsp brown sugar",
+        "6 Tbsp ketchup",
+        "2 Tbsp shortening",
+        "1 (10 oz) can crushed pineapple",
+        "1 cup water",
+        "2 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the meat mixture together and shape into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the meatballs from the pan and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
+        }
+      ],
+      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "hawaiian-meatballs-152",
+      "score": 0.7575961306361199
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stewing Beef Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kelly Haines"
+      },
+      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 lb stewing beef",
+        "1 tsp salt",
+        "Dash pepper",
+        "1¼ cups diced potatoes",
+        "1¼ cups diced carrots",
+        "1 tsp sugar",
+        "2 Tbsp Minit Tapioca",
+        "½ cup diced onions",
+        "1 cup V8 juice",
+        "½ cup diced celery"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients lightly in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 250°F for 4 hours without uncovering."
+        }
+      ],
+      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "stewing-beef-casserole-155",
+      "score": 0.7542452309469605
     },
     {
       "@context": "https://schema.org/",
@@ -211,194 +331,57 @@
         "totalTime": "36 minutes"
       },
       "url": "taco-ring-183",
-      "score": 0.7641102619532236
+      "score": 0.750859542346296
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Stewing Beef Casserole",
+      "name": "Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "Kelly Haines"
+        "name": "Heather Clarke"
       },
-      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
       "prepTime": "PT20M",
       "cookTime": "PT4H",
       "totalTime": "PT4H20M",
-      "recipeYield": "1 casserole",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 lb stewing beef",
-        "1 tsp salt",
-        "Dash pepper",
-        "1¼ cups diced potatoes",
-        "1¼ cups diced carrots",
-        "1 tsp sugar",
-        "2 Tbsp Minit Tapioca",
-        "½ cup diced onions",
-        "1 cup V8 juice",
-        "½ cup diced celery"
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients lightly in a bowl."
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 250°F for 4 hours without uncovering."
+          "text": "Continue cooking gently for another 2 hours."
         }
       ],
-      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
-      "url": "stewing-beef-casserole-155",
-      "score": 0.7629589221356599
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Veggie Pizza",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Linda Nakamura"
-        },
-        {
-          "@type": "Person",
-          "name": "Teena Houston"
-        }
-      ],
-      "description": "A simple and customizable veggie pizza using crescent rolls as the crust, topped with a cream cheese mixture and various vegetables.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeIngredient": [
-        "2 pkg Pillsbury crescent rolls",
-        "1 cup sour cream",
-        "1/2 cup mayonnaise",
-        "2 large cream cheese",
-        "2 pkg Hidden Valley ranch dressing",
-        "Grated cheddar cheese",
-        "Veggies (broccoli, cauliflower, carrots, celery, red or green peppers, green onions)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Roll out crescent rolls on a cookie sheet and a small cake pan. Bake until golden brown. Cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix sour cream, mayonnaise, cream cheese, and ranch dressing to make the cream mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread cream mixture on cooled rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with finely chopped vegetables of your choice."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with grated cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill and cut into small pieces. Serve as hors d'oeuvres."
-        }
-      ],
-      "keywords": "veggie pizza, appetizer, crescent rolls",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "veggie-pizza-47",
-      "score": 0.7476879395047319
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Veggie Pizza",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Kelly Haines"
-        },
-        {
-          "@type": "Person",
-          "name": "Kim MacDonald"
-        }
-      ],
-      "description": "A simple veggie pizza made with a crescent roll crust, cream cheese, ranch dressing, and various chopped vegetables.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "1 pizza",
-      "recipeIngredient": [
-        "1 roll Pillsbury crescent rolls",
-        "1 (8 oz) pkg cream cheese",
-        "1/2 cup ranch dressing",
-        "1 cup finely chopped broccoli",
-        "1/2 cup finely chopped red onion",
-        "1/2 cup finely chopped green or red pepper",
-        "1 cup finely chopped cauliflower"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 375°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll out crescent roll dough on a flat cookie sheet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until golden brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cream cheese with ranch dressing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the cream cheese mixture onto the cooled crust."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with chopped vegetables."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Keep refrigerated before serving."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cut with pizza cutter or knife."
-        }
-      ],
-      "keywords": "veggie pizza, crescent roll crust, cream cheese, ranch dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "veggie-pizza-201",
-      "score": 0.7476879395047319
+      "url": "spaghetti-sauce-177",
+      "score": 0.7486433857492971
     }
   ]
 }

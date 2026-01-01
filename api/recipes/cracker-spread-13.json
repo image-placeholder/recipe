@@ -33,6 +33,7 @@
     "cookTime": "5 minutes",
     "totalTime": "10 minutes"
   },
+  "url": "cracker-spread-13",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -84,7 +85,113 @@
         "totalTime": "50 minutes"
       },
       "url": "veggie-basic-soup-120",
-      "score": 0.6431134496268273
+      "score": 0.6337330763533442
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeIngredient": [
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "broccoli-casserole-129",
+      "score": 0.6102084405681036
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 heads broccoli, precooked",
+        "1 cup celery, precooked",
+        "1 can mushroom soup",
+        "½ cup grated cheese",
+        "1 Tbsp melted margarine",
+        "½ cup sour cream",
+        "1 cup bread crumbs"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the topping over the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "broccoli-casserole-133",
+      "score": 0.6102084405681036
     },
     {
       "@context": "https://schema.org/",
@@ -191,122 +298,7 @@
         "totalTime": "40 minutes"
       },
       "url": "baked-cauliflower-143",
-      "score": 0.5937924770303822
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Pasta Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Lorie Van Valkengoed"
-      },
-      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeIngredient": [
-        "½ bag penne or spiral pasta",
-        "1 green pepper, chopped",
-        "2 tomatoes, chopped",
-        "3 green onions, chopped",
-        "½ can black olives, sliced",
-        "1½ lb feta cheese, crumbled",
-        "1 bottle Classic Herb dressing"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the pasta according to package instructions, then drain and cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Crumble the feta cheese into the pasta mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
-        }
-      ],
-      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "pasta-salad-85",
-      "score": 0.5845730442696649
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Tomato Macaroni Soup",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Linda Finkbeiner"
-        },
-        {
-          "@type": "Person",
-          "name": "Shirley Preszcator"
-        }
-      ],
-      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 Tbsp oil",
-        "1½ cups water",
-        "1 cooking onion, diced",
-        "1 cup dry macaroni",
-        "2 carrots, diced",
-        "½ tsp garlic salt",
-        "3 or 4 celery stalks, diced",
-        "½ tsp Worcestershire sauce",
-        "2 cups chicken stock",
-        "2 cups tomato juice",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute onion, celery, and carrot in oil until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, juice, and water. Bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add pasta and cook until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic salt and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season to taste with salt and pepper."
-        }
-      ],
-      "keywords": "tomato macaroni soup, comfort food, pasta soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "tomato-macaroni-soup-123",
-      "score": 0.5792594117205536
+      "score": 0.5951134561465011
     }
   ]
 }

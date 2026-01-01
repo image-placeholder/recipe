@@ -62,6 +62,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
   },
+  "url": "rosemary-shipwreck-casserole-180",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -117,7 +118,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "meat-and-potato-casserole-159",
-      "score": 0.7906452441244848
+      "score": 0.8118298852207105
     },
     {
       "@context": "https://schema.org/",
@@ -193,7 +194,7 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "score": 0.7540011853123172
+      "score": 0.7724765082213036
     },
     {
       "@context": "https://schema.org/",
@@ -250,74 +251,81 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "potato-casserole-141",
-      "score": 0.7346735577472776
+      "score": 0.744668350959753
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pork Chop & Rice Casserole",
+      "name": "Beef and Rice Casserole",
       "author": {
         "@type": "Person",
-        "name": "Bonnie McNutt"
+        "name": "Kurtis Brand"
       },
-      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
       "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT2H",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
       "recipeIngredient": [
-        "6 center cut pork chops",
-        "1 sliced tomato",
-        "1 cup brown rice",
-        "1 sliced onion",
-        "4 sliced green onions",
-        "1 green pepper, sliced in rings",
-        "1/2 lb sliced fresh mushrooms",
-        "1 1/2 cups beef broth or stock",
-        "Salt and pepper to taste",
-        "1 Tbsp minced garlic",
-        "4 oz margarine or butter"
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
+          "text": "Sauté celery and onion in butter until soft and tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Put raw rice in the casserole pan."
+          "text": "Place rice in a greased 1½ quart casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
+          "text": "Top the rice with the celery mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
         },
         {
           "@type": "HowToStep",
-          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
+          "text": "Arrange the cooked beef on top of the celery mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour beef broth over the casserole and cover with foil."
+          "text": "Combine the tomato soup with water and pour over the meat layer."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
         }
       ],
-      "keywords": "pork chop, rice, casserole, baked",
+      "keywords": "beef casserole, rice casserole, comfort food",
       "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "2 hours"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "pork-chop-rice-casserole-211",
-      "score": 0.7204774573039022
+      "url": "beef-and-rice-casserole-168",
+      "score": 0.7338187738484965
     },
     {
       "@context": "https://schema.org/",
@@ -379,7 +387,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "chili-con-carne-165",
-      "score": 0.7192686099933835
+      "score": 0.733000403437962
     }
   ]
 }

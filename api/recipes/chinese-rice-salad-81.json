@@ -50,6 +50,7 @@
     "cookTime": "",
     "totalTime": "15 minutes"
   },
+  "url": "chinese-rice-salad-81",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -123,54 +124,7 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.7582181548630377
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Asian Coleslaw",
-      "author": {
-        "@type": "Person",
-        "name": "Dianne Finkbeiner"
-      },
-      "description": "A crunchy Asian-inspired coleslaw with toasted nuts and noodles.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Asian-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT5M",
-      "totalTime": "PT20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 bag cabbage salad",
-        "1/2 to 6 green onions, chopped",
-        "1/4 cup slivered almonds",
-        "1/4 cup sesame seeds",
-        "1 tsp soya sauce",
-        "1 pkg Mr. Noodle (just noodles)",
-        "2 to 3 Tbsp butter",
-        "Salt and pepper",
-        "1/2 cup canola oil",
-        "1/2 cup red wine vinegar",
-        "1/2 cup sugar"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the first 6 ingredients in a frying pan. Let cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add dressing 1/2 hour before serving."
-        }
-      ],
-      "keywords": "Asian coleslaw, toasted nuts, noodles",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "asian-coleslaw-61",
-      "score": 0.748870567553963
+      "score": 0.7687815968338969
     },
     {
       "@context": "https://schema.org/",
@@ -223,119 +177,173 @@
         "totalTime": "25 minutes"
       },
       "url": "caribbean-chicken-salad-70",
-      "score": 0.7394958673382023
+      "score": 0.7455912859910505
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Tossed Berry-Mandarin Salad",
+      "name": "Asian Coleslaw",
       "author": {
         "@type": "Person",
-        "name": "Anne Cotte"
+        "name": "Dianne Finkbeiner"
       },
-      "description": "A refreshing mixed greens salad with strawberries, mandarin oranges, sweet onion, and bacon, topped with a homemade honey-cider dressing.",
+      "description": "A crunchy Asian-inspired coleslaw with toasted nuts and noodles.",
       "recipeCategory": "Salad",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Asian-American",
       "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeYield": "8-10 servings",
-      "recipeIngredient": [
-        "8 cups torn mixed salad greens",
-        "2 cups fresh sliced strawberries",
-        "1 (10 oz) can mandarin oranges, drained",
-        "1 medium sweet onion, sliced and separated into rings",
-        "⅓ cup slivered almonds, toasted",
-        "4 strips cooked bacon, crumbled",
-        "¼ cup white sugar",
-        "2 Tbsp cider vinegar",
-        "2 Tbsp honey",
-        "1¼ tsp fresh lemon juice",
-        "½ tsp paprika",
-        "½ tsp ground mustard",
-        "½ tsp grated onion",
-        "¼ tsp celery seed",
-        "Dash salt",
-        "⅓ cup vegetable oil"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a microwave-safe bowl, combine sugar, cider vinegar, honey, lemon juice, paprika, mustard, grated onion, celery seed, and salt."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Microwave uncovered on high for 1½ to 2 minutes, stirring until the sugar is dissolved."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Whisk in vegetable oil until well combined. Refrigerate until chilled."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large serving bowl, combine the mixed greens, sliced strawberries, mandarin oranges, sweet onion rings, toasted almonds, and crumbled bacon."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drizzle the chilled dressing over the salad and gently toss to coat."
-        }
-      ],
-      "keywords": "fruit salad, mixed greens, strawberry, mandarin orange, bacon",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
-      },
-      "url": "tossed-berry-mandarin-salad-87",
-      "score": 0.718609368157893
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Layered Coleslaw Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Kim MacDonald"
-      },
-      "description": "A layered coleslaw salad with shredded carrots, snow peas, and a creamy Miracle Whip dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
       "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1/2 head cabbage, shredded",
-        "1 pkg (8.5 oz) Oriental flavor dry noodles",
-        "4 handfuls snow peas",
-        "1 bunch chopped green onions",
-        "1 sliced red pepper",
-        "5 shredded carrots",
-        "1 cup Miracle Whip dressing",
-        "1 cup sour cream"
+        "1 bag cabbage salad",
+        "1/2 to 6 green onions, chopped",
+        "1/4 cup slivered almonds",
+        "1/4 cup sesame seeds",
+        "1 tsp soya sauce",
+        "1 pkg Mr. Noodle (just noodles)",
+        "2 to 3 Tbsp butter",
+        "Salt and pepper",
+        "1/2 cup canola oil",
+        "1/2 cup red wine vinegar",
+        "1/2 cup sugar"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Shred cabbage and place in bottom of large glass bowl. Top with remaining ingredients in order given."
+          "text": "Brown the first 6 ingredients in a frying pan. Let cool."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine Miracle Whip, sour cream, and package of noodle seasoning. Spread evenly over salad."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and let stand overnight."
+          "text": "Add dressing 1/2 hour before serving."
         }
       ],
-      "keywords": "layered coleslaw, creamy dressing, overnight salad",
+      "keywords": "Asian coleslaw, toasted nuts, noodles",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "asian-coleslaw-61",
+      "score": 0.7412370059460816
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chinese Hamburger Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Meredith Mary"
+      },
+      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 to 8 servings",
+      "recipeIngredient": [
+        "1 lb hamburger",
+        "½ cup warm water",
+        "½ cup uncooked rice",
+        "2 medium onions, chopped",
+        "1 cup sliced celery",
+        "1 can cream of mushroom soup",
+        "1 can cream of chicken soup (optional)",
+        "1 can mushrooms, drained",
+        "¼ cup soya sauce",
+        "¼ tsp pepper",
+        "1 tsp salt",
+        "1 cup bean sprouts (optional)",
+        "1 handful chow mein noodles"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add bean sprouts if using for a more authentic taste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
+        }
+      ],
+      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 20 minutes"
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
-      "url": "layered-coleslaw-salad-62",
-      "score": 0.7175861041018036
+      "url": "chinese-hamburger-casserole-174",
+      "score": 0.7281082632675911
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "mexican-salad-50",
+      "score": 0.7202524737026454
     }
   ]
 }
