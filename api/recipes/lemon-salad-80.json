@@ -39,7 +39,6 @@
     "cookTime": null,
     "totalTime": null
   },
-  "_url": "lemon-salad-80",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -90,7 +89,7 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "orange-jello-salad-75",
+      "url": "orange-jello-salad-75",
       "similarity": "0.8103"
     },
     {
@@ -133,7 +132,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "_url": "salad-dressing-102",
+      "url": "salad-dressing-102",
       "similarity": "0.6631"
     },
     {
@@ -180,7 +179,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-103",
+      "url": "salad-dressing-103",
       "similarity": "0.6631"
     },
     {
@@ -231,7 +230,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-104",
+      "url": "salad-dressing-104",
       "similarity": "0.6631"
     },
     {
@@ -288,7 +287,7 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "_url": "party-time-salad-77",
+      "url": "party-time-salad-77",
       "similarity": "0.6393"
     }
   ]

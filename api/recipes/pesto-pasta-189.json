@@ -51,7 +51,6 @@
     "cookTime": "8 minutes",
     "totalTime": "18 minutes"
   },
-  "_url": "pesto-pasta-189",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -100,7 +99,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "pasta-salad-85",
+      "url": "pasta-salad-85",
       "similarity": "0.6531"
     },
     {
@@ -150,7 +149,7 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
-      "_url": "spaghetti-sauce-177",
+      "url": "spaghetti-sauce-177",
       "similarity": "0.6454"
     },
     {
@@ -204,7 +203,7 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "_url": "spaghetti-sauce-187",
+      "url": "spaghetti-sauce-187",
       "similarity": "0.6454"
     },
     {
@@ -267,7 +266,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "mozzarella-spaghetti-skillet-182",
+      "url": "mozzarella-spaghetti-skillet-182",
       "similarity": "0.6127"
     },
     {
@@ -330,7 +329,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "parmesan-chicken-239",
+      "url": "parmesan-chicken-239",
       "similarity": "0.5999"
     }
   ]

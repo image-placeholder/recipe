@@ -48,7 +48,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 25 minutes"
   },
-  "_url": "crunchy-top-ham-and-potato-casserole-197",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +103,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "_url": "ham-casserole-200",
+      "url": "ham-casserole-200",
       "similarity": "0.8929"
     },
     {
@@ -155,7 +154,7 @@
         "cookTime": "8 hours",
         "totalTime": "8 hours 20 minutes"
       },
-      "_url": "ham-potato-casserole-209",
+      "url": "ham-potato-casserole-209",
       "similarity": "0.8122"
     },
     {
@@ -212,7 +211,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "potato-casserole-141",
+      "url": "potato-casserole-141",
       "similarity": "0.7326"
     },
     {
@@ -280,7 +279,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "macaroni-ham-casserole-196",
+      "url": "macaroni-ham-casserole-196",
       "similarity": "0.6994"
     },
     {
@@ -336,7 +335,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "meat-and-potato-casserole-159",
+      "url": "meat-and-potato-casserole-159",
       "similarity": "0.6494"
     }
   ]

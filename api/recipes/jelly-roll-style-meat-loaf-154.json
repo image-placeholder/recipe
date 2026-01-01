@@ -73,7 +73,6 @@
     "cookTime": "1 hour 15 minutes",
     "totalTime": "1 hour 35 minutes"
   },
-  "_url": "jelly-roll-style-meat-loaf-154",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -132,7 +131,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "_url": "delicious-meat-loaf-156",
+      "url": "delicious-meat-loaf-156",
       "similarity": "0.8075"
     },
     {
@@ -217,7 +216,7 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 40 minutes"
       },
-      "_url": "cheeseburger-meat-loaf-157",
+      "url": "cheeseburger-meat-loaf-157",
       "similarity": "0.7661"
     },
     {
@@ -263,7 +262,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "_url": "cheesy-meat-loaf-153",
+      "url": "cheesy-meat-loaf-153",
       "similarity": "0.7206"
     },
     {
@@ -323,7 +322,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "pizza-meatball-193",
+      "url": "pizza-meatball-193",
       "similarity": "0.6720"
     },
     {
@@ -386,7 +385,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
       "similarity": "0.6489"
     }
   ]

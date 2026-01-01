@@ -46,7 +46,6 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
-  "_url": "sausage-balls-44",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -83,7 +82,7 @@
         "cookTime": "5 minutes",
         "totalTime": "10 minutes"
       },
-      "_url": "cracker-spread-13",
+      "url": "cracker-spread-13",
       "similarity": "0.6372"
     },
     {
@@ -143,7 +142,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "britts-favourite-meatballs-151",
+      "url": "britts-favourite-meatballs-151",
       "similarity": "0.6212"
     },
     {
@@ -206,7 +205,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
       "similarity": "0.5901"
     },
     {
@@ -265,7 +264,7 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour"
       },
-      "_url": "cheesy-ham-chowder-116",
+      "url": "cheesy-ham-chowder-116",
       "similarity": "0.5637"
     },
     {
@@ -321,7 +320,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "saucy-sausages-205",
+      "url": "saucy-sausages-205",
       "similarity": "0.5607"
     }
   ]

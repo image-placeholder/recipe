@@ -40,7 +40,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
-  "_url": "chicken-celebrity-237",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,7 +102,7 @@
         "cookTime": "35 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "chicken-with-a-chinese-accent-245",
+      "url": "chicken-with-a-chinese-accent-245",
       "similarity": "0.6496"
     },
     {
@@ -177,7 +176,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "classy-chicken-243",
+      "url": "classy-chicken-243",
       "similarity": "0.6478"
     },
     {
@@ -239,7 +238,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "stir-fry-chicken-225",
+      "url": "stir-fry-chicken-225",
       "similarity": "0.6267"
     },
     {
@@ -309,7 +308,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "chicken-supreme-238",
+      "url": "chicken-supreme-238",
       "similarity": "0.6130"
     },
     {
@@ -363,7 +362,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "chicken-breast-212",
+      "url": "chicken-breast-212",
       "similarity": "0.6118"
     }
   ]

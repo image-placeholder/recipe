@@ -35,7 +35,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_url": "breakfast-orange-smoothie-51",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -80,7 +79,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "orange-julius-drink-56",
+      "url": "orange-julius-drink-56",
       "similarity": "0.6481"
     },
     {
@@ -132,7 +131,7 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "orange-jello-salad-75",
+      "url": "orange-jello-salad-75",
       "similarity": "0.6327"
     },
     {
@@ -172,7 +171,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "fruit-dip-24",
+      "url": "fruit-dip-24",
       "similarity": "0.6105"
     },
     {
@@ -232,7 +231,7 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "_url": "mandarin-orange-salad-88",
+      "url": "mandarin-orange-salad-88",
       "similarity": "0.6070"
     },
     {
@@ -286,7 +285,7 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "orange-pineapple-jello-76",
+      "url": "orange-pineapple-jello-76",
       "similarity": "0.5891"
     }
   ]

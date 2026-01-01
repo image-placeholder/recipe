@@ -64,7 +64,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "_url": "macaroni-casserole-175",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -131,7 +130,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "macaroni-ham-casserole-196",
+      "url": "macaroni-ham-casserole-196",
       "similarity": "0.8391"
     },
     {
@@ -198,7 +197,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "noodles-with-hamburg-166",
+      "url": "noodles-with-hamburg-166",
       "similarity": "0.8033"
     },
     {
@@ -260,7 +259,7 @@
         "cookTime": "8 minutes",
         "totalTime": "23 minutes"
       },
-      "_url": "macaroni-salad-72",
+      "url": "macaroni-salad-72",
       "similarity": "0.7848"
     },
     {
@@ -313,7 +312,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "hamburg-noodle-casserole-172",
+      "url": "hamburg-noodle-casserole-172",
       "similarity": "0.7571"
     },
     {
@@ -378,7 +377,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "tomato-macaroni-soup-123",
+      "url": "tomato-macaroni-soup-123",
       "similarity": "0.7263"
     }
   ]

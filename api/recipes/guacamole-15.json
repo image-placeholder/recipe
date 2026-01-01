@@ -37,7 +37,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_url": "guacamole-15",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -99,7 +98,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "chili-con-queso-nacho-cheese-dip-27",
+      "url": "chili-con-queso-nacho-cheese-dip-27",
       "similarity": "0.6624"
     },
     {
@@ -178,7 +177,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "hot-taco-dip-21",
+      "url": "hot-taco-dip-21",
       "similarity": "0.6333"
     },
     {
@@ -232,7 +231,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "mexican-salad-50",
+      "url": "mexican-salad-50",
       "similarity": "0.6165"
     },
     {
@@ -293,7 +292,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "nacho-dip-29",
+      "url": "nacho-dip-29",
       "similarity": "0.6086"
     },
     {
@@ -350,7 +349,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "mexican-fudge-12",
+      "url": "mexican-fudge-12",
       "similarity": "0.6010"
     }
   ]

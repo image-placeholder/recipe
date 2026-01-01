@@ -52,7 +52,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
   },
-  "_url": "beef-porcupines-163",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -125,7 +124,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "beef-and-rice-casserole-168",
+      "url": "beef-and-rice-casserole-168",
       "similarity": "0.6501"
     },
     {
@@ -188,7 +187,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
       "similarity": "0.6382"
     },
     {
@@ -248,7 +247,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "britts-favourite-meatballs-151",
+      "url": "britts-favourite-meatballs-151",
       "similarity": "0.6344"
     },
     {
@@ -309,7 +308,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 30 minutes"
       },
-      "_url": "sweet-sour-meatballs-161",
+      "url": "sweet-sour-meatballs-161",
       "similarity": "0.6327"
     },
     {
@@ -368,7 +367,7 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 30 minutes"
       },
-      "_url": "beef-barley-soup-100",
+      "url": "beef-barley-soup-100",
       "similarity": "0.6234"
     }
   ]

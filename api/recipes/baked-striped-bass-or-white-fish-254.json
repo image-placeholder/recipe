@@ -73,7 +73,6 @@
     "cookTime": "40 minutes",
     "totalTime": "1 hour"
   },
-  "_url": "baked-striped-bass-or-white-fish-254",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -138,7 +137,7 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "bbq-salmon-or-trout-255",
+      "url": "bbq-salmon-or-trout-255",
       "similarity": "0.6035"
     },
     {
@@ -202,7 +201,7 @@
         "cookTime": "12 minutes",
         "totalTime": "32 minutes"
       },
-      "_url": "crab-stuffed-mushrooms-46",
+      "url": "crab-stuffed-mushrooms-46",
       "similarity": "0.5527"
     },
     {
@@ -251,7 +250,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "salmon-dip-9",
+      "url": "salmon-dip-9",
       "similarity": "0.5313"
     },
     {
@@ -310,7 +309,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "crab-cheese-platter-7",
+      "url": "crab-cheese-platter-7",
       "similarity": "0.5290"
     },
     {
@@ -350,7 +349,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "crab-dip-20",
+      "url": "crab-dip-20",
       "similarity": "0.5183"
     }
   ]

@@ -35,7 +35,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_url": "fruit-dip-24",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -87,7 +86,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "fluffy-fruit-dip-25",
+      "url": "fluffy-fruit-dip-25",
       "similarity": "0.7996"
     },
     {
@@ -135,7 +134,7 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "yogurt-dip-19",
+      "url": "yogurt-dip-19",
       "similarity": "0.6854"
     },
     {
@@ -180,7 +179,7 @@
         "cookTime": "",
         "totalTime": null
       },
-      "_url": "pina-colada-dip-23",
+      "url": "pina-colada-dip-23",
       "similarity": "0.6795"
     },
     {
@@ -229,7 +228,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "salmon-dip-9",
+      "url": "salmon-dip-9",
       "similarity": "0.6783"
     },
     {
@@ -290,7 +289,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "nacho-dip-29",
+      "url": "nacho-dip-29",
       "similarity": "0.6658"
     }
   ]

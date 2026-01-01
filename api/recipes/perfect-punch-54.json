@@ -39,7 +39,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_url": "perfect-punch-54",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -86,7 +85,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "punch-53",
+      "url": "punch-53",
       "similarity": "0.8486"
     },
     {
@@ -131,7 +130,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "wilmar-wein-punch-55",
+      "url": "wilmar-wein-punch-55",
       "similarity": "0.6478"
     },
     {
@@ -175,7 +174,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "_url": "lemon-salad-80",
+      "url": "lemon-salad-80",
       "similarity": "0.5252"
     },
     {
@@ -221,7 +220,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "orange-julius-drink-56",
+      "url": "orange-julius-drink-56",
       "similarity": "0.5207"
     },
     {
@@ -266,7 +265,7 @@
         "cookTime": "",
         "totalTime": null
       },
-      "_url": "pina-colada-dip-23",
+      "url": "pina-colada-dip-23",
       "similarity": "0.5133"
     }
   ]

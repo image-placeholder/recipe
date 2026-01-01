@@ -50,7 +50,6 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 10 minutes"
   },
-  "_url": "cabbage-casserole-130",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +103,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "broccoli-casserole-129",
+      "url": "broccoli-casserole-129",
       "similarity": "0.7710"
     },
     {
@@ -155,7 +154,7 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "broccoli-casserole-133",
+      "url": "broccoli-casserole-133",
       "similarity": "0.7710"
     },
     {
@@ -226,7 +225,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "chicken-and-cheese-casserole-244",
+      "url": "chicken-and-cheese-casserole-244",
       "similarity": "0.7613"
     },
     {
@@ -282,7 +281,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "barley-and-corn-casserole-132",
+      "url": "barley-and-corn-casserole-132",
       "similarity": "0.7052"
     },
     {
@@ -352,7 +351,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "mock-cabbage-rolls-164",
+      "url": "mock-cabbage-rolls-164",
       "similarity": "0.7024"
     }
   ]

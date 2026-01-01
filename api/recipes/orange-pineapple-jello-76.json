@@ -49,7 +49,6 @@
     "cookTime": "5 minutes",
     "totalTime": "25 minutes"
   },
-  "_url": "orange-pineapple-jello-76",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -100,7 +99,7 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "orange-jello-salad-75",
+      "url": "orange-jello-salad-75",
       "similarity": "0.7844"
     },
     {
@@ -157,7 +156,7 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "_url": "party-time-salad-77",
+      "url": "party-time-salad-77",
       "similarity": "0.6976"
     },
     {
@@ -241,7 +240,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
+      "url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
       "similarity": "0.6414"
     },
     {
@@ -285,7 +284,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "_url": "lemon-salad-80",
+      "url": "lemon-salad-80",
       "similarity": "0.6369"
     },
     {
@@ -348,7 +347,7 @@
         "cookTime": "10 minutes",
         "totalTime": "8 hours 30 minutes"
       },
-      "_url": "fruit-mold-ring-around-79",
+      "url": "fruit-mold-ring-around-79",
       "similarity": "0.6349"
     }
   ]

@@ -47,7 +47,6 @@
     "cookTime": "",
     "totalTime": "15 minutes"
   },
-  "_url": "strawberry-tossed-salad-96",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -98,7 +97,7 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "spinach-lettuce-salad-83",
+      "url": "spinach-lettuce-salad-83",
       "similarity": "0.7811"
     },
     {
@@ -162,7 +161,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "tossed-berry-mandarin-salad-87",
+      "url": "tossed-berry-mandarin-salad-87",
       "similarity": "0.7666"
     },
     {
@@ -206,7 +205,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "club-salad-68",
+      "url": "club-salad-68",
       "similarity": "0.7125"
     },
     {
@@ -249,7 +248,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "_url": "salad-dressing-102",
+      "url": "salad-dressing-102",
       "similarity": "0.6991"
     },
     {
@@ -296,7 +295,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-103",
+      "url": "salad-dressing-103",
       "similarity": "0.6991"
     }
   ]

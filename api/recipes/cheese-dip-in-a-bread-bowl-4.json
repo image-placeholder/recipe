@@ -52,7 +52,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
   },
-  "_url": "cheese-dip-in-a-bread-bowl-4",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -108,7 +107,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "_url": "hot-cheese-dip-5",
+      "url": "hot-cheese-dip-5",
       "similarity": "0.7359"
     },
     {
@@ -148,7 +147,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "crab-dip-20",
+      "url": "crab-dip-20",
       "similarity": "0.7156"
     },
     {
@@ -209,7 +208,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "nacho-dip-29",
+      "url": "nacho-dip-29",
       "similarity": "0.6972"
     },
     {
@@ -264,7 +263,7 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
-      "_url": "nacho-fiesta-dip-28",
+      "url": "nacho-fiesta-dip-28",
       "similarity": "0.6880"
     },
     {
@@ -323,7 +322,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "crab-cheese-platter-7",
+      "url": "crab-cheese-platter-7",
       "similarity": "0.6764"
     }
   ]

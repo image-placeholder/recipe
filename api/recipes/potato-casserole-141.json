@@ -52,7 +52,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
-  "_url": "potato-casserole-141",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +103,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 25 minutes"
       },
-      "_url": "crunchy-top-ham-and-potato-casserole-197",
+      "url": "crunchy-top-ham-and-potato-casserole-197",
       "similarity": "0.7326"
     },
     {
@@ -161,7 +160,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "_url": "ham-casserole-200",
+      "url": "ham-casserole-200",
       "similarity": "0.7181"
     },
     {
@@ -227,7 +226,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "cheddar-baked-potato-slices-140",
+      "url": "cheddar-baked-potato-slices-140",
       "similarity": "0.7098"
     },
     {
@@ -282,7 +281,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "broccoli-casserole-129",
+      "url": "broccoli-casserole-129",
       "similarity": "0.7029"
     },
     {
@@ -333,7 +332,7 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "broccoli-casserole-133",
+      "url": "broccoli-casserole-133",
       "similarity": "0.7029"
     }
   ]

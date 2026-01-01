@@ -40,7 +40,6 @@
     "cookTime": null,
     "totalTime": null
   },
-  "_url": "shrimp-spread-10",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,7 +102,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "_url": "surprise-spread-11",
+      "url": "surprise-spread-11",
       "similarity": "0.8146"
     },
     {
@@ -143,7 +142,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "crab-dip-20",
+      "url": "crab-dip-20",
       "similarity": "0.7065"
     },
     {
@@ -202,7 +201,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "crab-cheese-platter-7",
+      "url": "crab-cheese-platter-7",
       "similarity": "0.6968"
     },
     {
@@ -259,7 +258,7 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "_url": "onion-salad-74",
+      "url": "onion-salad-74",
       "similarity": "0.6517"
     },
     {
@@ -312,7 +311,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "seafood-chowder-127",
+      "url": "seafood-chowder-127",
       "similarity": "0.6515"
     }
   ]

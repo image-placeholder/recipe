@@ -58,7 +58,6 @@
     "cookTime": "55 minutes",
     "totalTime": "1 hour 10 minutes"
   },
-  "_url": "parmesan-chicken-239",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -111,7 +110,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "chicken-breast-212",
+      "url": "chicken-breast-212",
       "similarity": "0.7232"
     },
     {
@@ -175,7 +174,7 @@
         "cookTime": "30 minutes",
         "totalTime": "1 hour"
       },
-      "_url": "veal-parmigiana-216",
+      "url": "veal-parmigiana-216",
       "similarity": "0.7158"
     },
     {
@@ -225,7 +224,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "pepper-chicken-fettucini-236",
+      "url": "pepper-chicken-fettucini-236",
       "similarity": "0.6876"
     },
     {
@@ -277,7 +276,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "boneless-chicken-breasts-213",
+      "url": "boneless-chicken-breasts-213",
       "similarity": "0.6805"
     },
     {
@@ -347,7 +346,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "chicken-supreme-238",
+      "url": "chicken-supreme-238",
       "similarity": "0.6771"
     }
   ]

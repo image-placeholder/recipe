@@ -59,7 +59,6 @@
     "cookTime": "",
     "totalTime": "30 minutes"
   },
-  "_url": "marinated-vegetable-salad-94",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -108,7 +107,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "pasta-salad-85",
+      "url": "pasta-salad-85",
       "similarity": "0.6928"
     },
     {
@@ -165,7 +164,7 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "_url": "onion-salad-74",
+      "url": "onion-salad-74",
       "similarity": "0.6551"
     },
     {
@@ -208,7 +207,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "_url": "salad-dressing-102",
+      "url": "salad-dressing-102",
       "similarity": "0.6546"
     },
     {
@@ -255,7 +254,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-103",
+      "url": "salad-dressing-103",
       "similarity": "0.6546"
     },
     {
@@ -306,7 +305,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-104",
+      "url": "salad-dressing-104",
       "similarity": "0.6546"
     }
   ]

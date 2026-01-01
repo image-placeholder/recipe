@@ -68,7 +68,6 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
-  "_url": "veggie-pizza-201",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -141,7 +140,7 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "pizza-190",
+      "url": "pizza-190",
       "similarity": "0.6735"
     },
     {
@@ -219,7 +218,7 @@
         "cookTime": "16 minutes",
         "totalTime": "36 minutes"
       },
-      "_url": "taco-ring-183",
+      "url": "taco-ring-183",
       "similarity": "0.6470"
     },
     {
@@ -288,7 +287,7 @@
         "cookTime": "3 hours",
         "totalTime": "3 hours 30 minutes"
       },
-      "_url": "cabbage-rolls-167",
+      "url": "cabbage-rolls-167",
       "similarity": "0.6357"
     },
     {
@@ -360,7 +359,7 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "_url": "bacon-broccoli-salad-63",
+      "url": "bacon-broccoli-salad-63",
       "similarity": "0.6256"
     },
     {
@@ -437,7 +436,7 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "_url": "fairest-wheels-36",
+      "url": "fairest-wheels-36",
       "similarity": "0.6194"
     }
   ]

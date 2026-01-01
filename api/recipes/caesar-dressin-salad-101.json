@@ -41,7 +41,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_url": "caesar-dressin-salad-101",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -108,7 +107,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "caesar-salad-59",
+      "url": "caesar-salad-59",
       "similarity": "0.8959"
     },
     {
@@ -151,7 +150,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "_url": "salad-dressing-102",
+      "url": "salad-dressing-102",
       "similarity": "0.8293"
     },
     {
@@ -198,7 +197,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-103",
+      "url": "salad-dressing-103",
       "similarity": "0.8293"
     },
     {
@@ -249,7 +248,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-104",
+      "url": "salad-dressing-104",
       "similarity": "0.8293"
     },
     {
@@ -293,7 +292,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "club-salad-68",
+      "url": "club-salad-68",
       "similarity": "0.7239"
     }
   ]

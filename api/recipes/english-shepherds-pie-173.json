@@ -63,7 +63,6 @@
     "cookTime": "50 minutes",
     "totalTime": "1 hour 20 minutes"
   },
-  "_url": "english-shepherds-pie-173",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -132,7 +131,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "shepherds-pie-170",
+      "url": "shepherds-pie-170",
       "similarity": "0.9149"
     },
     {
@@ -207,7 +206,7 @@
         "cookTime": "30 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "hamburger-pie-169",
+      "url": "hamburger-pie-169",
       "similarity": "0.6979"
     },
     {
@@ -281,7 +280,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "beef-and-rice-casserole-168",
+      "url": "beef-and-rice-casserole-168",
       "similarity": "0.6065"
     },
     {
@@ -337,7 +336,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "meat-and-potato-casserole-159",
+      "url": "meat-and-potato-casserole-159",
       "similarity": "0.6024"
     },
     {
@@ -390,7 +389,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "beef-broccoli-stir-fry-148",
+      "url": "beef-broccoli-stir-fry-148",
       "similarity": "0.5740"
     }
   ]

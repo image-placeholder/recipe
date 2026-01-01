@@ -46,7 +46,6 @@
     "cookTime": "",
     "totalTime": "20 minutes"
   },
-  "_url": "tomato-chickpea-salad-90",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -97,7 +96,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "chicken-grape-salad-65",
+      "url": "chicken-grape-salad-65",
       "similarity": "0.7318"
     },
     {
@@ -156,7 +155,7 @@
         "cookTime": "",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "greek-salad-69",
+      "url": "greek-salad-69",
       "similarity": "0.7042"
     },
     {
@@ -206,7 +205,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "pasta-salad-85",
+      "url": "pasta-salad-85",
       "similarity": "0.6913"
     },
     {
@@ -263,7 +262,7 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "_url": "onion-salad-74",
+      "url": "onion-salad-74",
       "similarity": "0.6784"
     },
     {
@@ -331,7 +330,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "caesar-salad-59",
+      "url": "caesar-salad-59",
       "similarity": "0.6621"
     }
   ]

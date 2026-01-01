@@ -46,7 +46,6 @@
     "cookTime": "25 minutes",
     "totalTime": "40 minutes"
   },
-  "_url": "broccoli-casserole-133",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -109,7 +108,7 @@
         "cookTime": "40 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "cauliflower-broccoli-casserole-144",
+      "url": "cauliflower-broccoli-casserole-144",
       "similarity": "0.8463"
     },
     {
@@ -167,7 +166,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "supreme-broccoli-soup-casserole-128",
+      "url": "supreme-broccoli-soup-casserole-128",
       "similarity": "0.8251"
     },
     {
@@ -238,7 +237,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "chicken-and-cheese-casserole-244",
+      "url": "chicken-and-cheese-casserole-244",
       "similarity": "0.7891"
     },
     {
@@ -293,7 +292,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "cabbage-casserole-130",
+      "url": "cabbage-casserole-130",
       "similarity": "0.7710"
     },
     {
@@ -344,7 +343,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "chicken-and-broccoli-234",
+      "url": "chicken-and-broccoli-234",
       "similarity": "0.7514"
     }
   ]

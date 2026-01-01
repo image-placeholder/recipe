@@ -52,7 +52,6 @@
     "cookTime": "",
     "totalTime": "10 minutes"
   },
-  "_url": "fresh-fruit-platter-with-dip-22",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +103,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "fluffy-fruit-dip-25",
+      "url": "fluffy-fruit-dip-25",
       "similarity": "0.6583"
     },
     {
@@ -156,7 +155,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "vegetable-dip-17",
+      "url": "vegetable-dip-17",
       "similarity": "0.6561"
     },
     {
@@ -199,7 +198,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "vegetable-dip-18",
+      "url": "vegetable-dip-18",
       "similarity": "0.6561"
     },
     {
@@ -239,7 +238,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "fruit-dip-24",
+      "url": "fruit-dip-24",
       "similarity": "0.6505"
     },
     {
@@ -289,7 +288,7 @@
         "cookTime": "10 minutes",
         "totalTime": "15 minutes"
       },
-      "_url": "plum-pudding-sauce-134",
+      "url": "plum-pudding-sauce-134",
       "similarity": "0.5901"
     }
   ]

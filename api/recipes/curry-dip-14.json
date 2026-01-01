@@ -38,7 +38,6 @@
     "cookTime": "",
     "totalTime": "1 hour 10 minutes"
   },
-  "_url": "curry-dip-14",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -89,7 +88,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "vegetable-dip-17",
+      "url": "vegetable-dip-17",
       "similarity": "0.7094"
     },
     {
@@ -132,7 +131,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "vegetable-dip-18",
+      "url": "vegetable-dip-18",
       "similarity": "0.7094"
     },
     {
@@ -180,7 +179,7 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "yogurt-dip-19",
+      "url": "yogurt-dip-19",
       "similarity": "0.6983"
     },
     {
@@ -238,7 +237,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "curry-chicken-230",
+      "url": "curry-chicken-230",
       "similarity": "0.6793"
     },
     {
@@ -278,7 +277,7 @@
         "cookTime": null,
         "totalTime": "5 minutes"
       },
-      "_url": "cold-meat-mustard-122",
+      "url": "cold-meat-mustard-122",
       "similarity": "0.6590"
     }
   ]

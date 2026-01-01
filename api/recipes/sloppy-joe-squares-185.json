@@ -69,7 +69,6 @@
     "cookTime": "25 minutes",
     "totalTime": "45 minutes"
   },
-  "_url": "sloppy-joe-squares-185",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -137,7 +136,7 @@
         "cookTime": "3 hours",
         "totalTime": "3 hours 30 minutes"
       },
-      "_url": "cabbage-rolls-167",
+      "url": "cabbage-rolls-167",
       "similarity": "0.6396"
     },
     {
@@ -215,7 +214,7 @@
         "cookTime": "16 minutes",
         "totalTime": "36 minutes"
       },
-      "_url": "taco-ring-183",
+      "url": "taco-ring-183",
       "similarity": "0.6311"
     },
     {
@@ -279,7 +278,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "veggie-pizza-47",
+      "url": "veggie-pizza-47",
       "similarity": "0.6183"
     },
     {
@@ -352,7 +351,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "veggie-pizza-201",
+      "url": "veggie-pizza-201",
       "similarity": "0.6183"
     },
     {
@@ -402,7 +401,7 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
-      "_url": "stewing-beef-casserole-155",
+      "url": "stewing-beef-casserole-155",
       "similarity": "0.6159"
     }
   ]

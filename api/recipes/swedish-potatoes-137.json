@@ -60,7 +60,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "_url": "swedish-potatoes-137",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -125,7 +124,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "cheddar-baked-potato-slices-140",
+      "url": "cheddar-baked-potato-slices-140",
       "similarity": "0.7303"
     },
     {
@@ -182,7 +181,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "sliced-baked-potatoes-138",
+      "url": "sliced-baked-potatoes-138",
       "similarity": "0.6992"
     },
     {
@@ -239,7 +238,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "potato-casserole-141",
+      "url": "potato-casserole-141",
       "similarity": "0.6776"
     },
     {
@@ -290,7 +289,7 @@
         "cookTime": "8 hours",
         "totalTime": "8 hours 20 minutes"
       },
-      "_url": "ham-potato-casserole-209",
+      "url": "ham-potato-casserole-209",
       "similarity": "0.6622"
     },
     {
@@ -347,7 +346,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "_url": "ham-casserole-200",
+      "url": "ham-casserole-200",
       "similarity": "0.6597"
     }
   ]

@@ -48,7 +48,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_url": "fluffy-fruit-dip-25",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -87,7 +86,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "fruit-dip-24",
+      "url": "fruit-dip-24",
       "similarity": "0.7996"
     },
     {
@@ -135,7 +134,7 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "yogurt-dip-19",
+      "url": "yogurt-dip-19",
       "similarity": "0.6746"
     },
     {
@@ -180,7 +179,7 @@
         "cookTime": "",
         "totalTime": null
       },
-      "_url": "pina-colada-dip-23",
+      "url": "pina-colada-dip-23",
       "similarity": "0.6650"
     },
     {
@@ -237,7 +236,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "fresh-fruit-platter-with-dip-22",
+      "url": "fresh-fruit-platter-with-dip-22",
       "similarity": "0.6583"
     },
     {
@@ -289,7 +288,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "vegetable-dip-17",
+      "url": "vegetable-dip-17",
       "similarity": "0.6376"
     }
   ]

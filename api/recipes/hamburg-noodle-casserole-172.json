@@ -48,7 +48,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "_url": "hamburg-noodle-casserole-172",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -114,7 +113,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "noodles-with-hamburg-166",
+      "url": "noodles-with-hamburg-166",
       "similarity": "0.8879"
     },
     {
@@ -183,7 +182,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "macaroni-casserole-175",
+      "url": "macaroni-casserole-175",
       "similarity": "0.7571"
     },
     {
@@ -253,7 +252,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "spaghetti-casserole-178",
+      "url": "spaghetti-casserole-178",
       "similarity": "0.7269"
     },
     {
@@ -318,7 +317,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "chinese-hamburger-casserole-174",
+      "url": "chinese-hamburger-casserole-174",
       "similarity": "0.7124"
     },
     {
@@ -369,7 +368,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "chicken-and-broccoli-234",
+      "url": "chicken-and-broccoli-234",
       "similarity": "0.6727"
     }
   ]

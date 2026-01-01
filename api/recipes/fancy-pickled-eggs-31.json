@@ -53,7 +53,6 @@
     "cookTime": "5 minutes",
     "totalTime": "20 minutes"
   },
-  "_url": "fancy-pickled-eggs-31",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +103,7 @@
         "cookTime": "5 minutes",
         "totalTime": null
       },
-      "_url": "pickled-eggs-35",
+      "url": "pickled-eggs-35",
       "similarity": "0.8741"
     },
     {
@@ -157,7 +156,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "_url": "plain-pickled-eggs-30",
+      "url": "plain-pickled-eggs-30",
       "similarity": "0.8297"
     },
     {
@@ -228,7 +227,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "hard-boiled-eggsdevilled-eggs-34",
+      "url": "hard-boiled-eggsdevilled-eggs-34",
       "similarity": "0.5815"
     },
     {
@@ -282,7 +281,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "sliced-bean-salad-49",
+      "url": "sliced-bean-salad-49",
       "similarity": "0.5548"
     },
     {
@@ -337,7 +336,7 @@
         "cookTime": "2 hours 15 minutes",
         "totalTime": "2 hours 35 minutes"
       },
-      "_url": "glazed-cottage-roll-198",
+      "url": "glazed-cottage-roll-198",
       "similarity": "0.5094"
     }
   ]

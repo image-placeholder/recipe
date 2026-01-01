@@ -69,7 +69,6 @@
     "cookTime": "3 hours 30 minutes",
     "totalTime": "4 hours"
   },
-  "_url": "beef-borsch-with-sour-cream-98",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -131,7 +130,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
       "similarity": "0.6074"
     },
     {
@@ -220,7 +219,7 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "creamy-beef-and-potato-bake-158",
+      "url": "creamy-beef-and-potato-bake-158",
       "similarity": "0.6029"
     },
     {
@@ -276,7 +275,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "meat-and-potato-casserole-159",
+      "url": "meat-and-potato-casserole-159",
       "similarity": "0.5911"
     },
     {
@@ -326,7 +325,7 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
-      "_url": "stewing-beef-casserole-155",
+      "url": "stewing-beef-casserole-155",
       "similarity": "0.5777"
     },
     {
@@ -387,7 +386,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 30 minutes"
       },
-      "_url": "sweet-sour-meatballs-161",
+      "url": "sweet-sour-meatballs-161",
       "similarity": "0.5759"
     }
   ]

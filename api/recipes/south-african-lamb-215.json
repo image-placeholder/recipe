@@ -61,7 +61,6 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 50 minutes"
   },
-  "_url": "south-african-lamb-215",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -122,7 +121,7 @@
         "cookTime": "6 hours 30 minutes",
         "totalTime": "6 hours 50 minutes"
       },
-      "_url": "roasted-lamb-218",
+      "url": "roasted-lamb-218",
       "similarity": "0.7622"
     },
     {
@@ -178,7 +177,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "saucy-sausages-205",
+      "url": "saucy-sausages-205",
       "similarity": "0.5751"
     },
     {
@@ -246,7 +245,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "caesar-salad-59",
+      "url": "caesar-salad-59",
       "similarity": "0.5674"
     },
     {
@@ -302,7 +301,7 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "pork-chops-with-dried-fruit-206",
+      "url": "pork-chops-with-dried-fruit-206",
       "similarity": "0.5354"
     },
     {
@@ -346,7 +345,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "club-salad-68",
+      "url": "club-salad-68",
       "similarity": "0.5321"
     }
   ]

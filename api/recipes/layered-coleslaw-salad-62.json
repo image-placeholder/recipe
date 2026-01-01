@@ -43,7 +43,6 @@
     "cookTime": "",
     "totalTime": "8 hours 20 minutes"
   },
-  "_url": "layered-coleslaw-salad-62",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -89,7 +88,7 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "asian-coleslaw-61",
+      "url": "asian-coleslaw-61",
       "similarity": "0.8442"
     },
     {
@@ -139,7 +138,7 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "coleslaw-chalet-dressing-57",
+      "url": "coleslaw-chalet-dressing-57",
       "similarity": "0.8407"
     },
     {
@@ -192,7 +191,7 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "freezer-cole-slaw-58",
+      "url": "freezer-cole-slaw-58",
       "similarity": "0.7540"
     },
     {
@@ -248,7 +247,7 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "sauerkraut-salad-82",
+      "url": "sauerkraut-salad-82",
       "similarity": "0.6828"
     },
     {
@@ -291,7 +290,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "_url": "salad-dressing-102",
+      "url": "salad-dressing-102",
       "similarity": "0.6812"
     }
   ]

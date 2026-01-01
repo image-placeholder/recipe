@@ -59,7 +59,6 @@
     "cookTime": "30 minutes",
     "totalTime": "1 hour"
   },
-  "_url": "veal-parmigiana-216",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -121,7 +120,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "parmesan-chicken-239",
+      "url": "parmesan-chicken-239",
       "similarity": "0.7158"
     },
     {
@@ -182,7 +181,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "lasagna-192",
+      "url": "lasagna-192",
       "similarity": "0.5866"
     },
     {
@@ -241,7 +240,7 @@
         "cookTime": "",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "greek-salad-69",
+      "url": "greek-salad-69",
       "similarity": "0.5729"
     },
     {
@@ -317,7 +316,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "chili-turkey-247",
+      "url": "chili-turkey-247",
       "similarity": "0.5571"
     },
     {
@@ -381,7 +380,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "veggie-pizza-47",
+      "url": "veggie-pizza-47",
       "similarity": "0.5560"
     }
   ]

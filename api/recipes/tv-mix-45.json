@@ -69,7 +69,6 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 40 minutes"
   },
-  "_url": "tv-mix-45",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -138,7 +137,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "mock-cabbage-rolls-164",
+      "url": "mock-cabbage-rolls-164",
       "similarity": "0.6250"
     },
     {
@@ -181,7 +180,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "_url": "salad-dressing-102",
+      "url": "salad-dressing-102",
       "similarity": "0.5968"
     },
     {
@@ -228,7 +227,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-103",
+      "url": "salad-dressing-103",
       "similarity": "0.5968"
     },
     {
@@ -279,7 +278,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-104",
+      "url": "salad-dressing-104",
       "similarity": "0.5968"
     },
     {
@@ -329,7 +328,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "cheese-ball-2",
+      "url": "cheese-ball-2",
       "similarity": "0.5958"
     }
   ]

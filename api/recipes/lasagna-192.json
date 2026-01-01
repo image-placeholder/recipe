@@ -56,7 +56,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "_url": "lasagna-192",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -123,7 +122,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "garfields-lasagna-195",
+      "url": "garfields-lasagna-195",
       "similarity": "0.7705"
     },
     {
@@ -189,7 +188,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "florentine-lasagna-rolls-194",
+      "url": "florentine-lasagna-rolls-194",
       "similarity": "0.6827"
     },
     {
@@ -259,7 +258,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "spaghetti-casserole-178",
+      "url": "spaghetti-casserole-178",
       "similarity": "0.6559"
     },
     {
@@ -326,7 +325,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "noodles-with-hamburg-166",
+      "url": "noodles-with-hamburg-166",
       "similarity": "0.6385"
     },
     {
@@ -403,7 +402,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "pizza-casserole-171",
+      "url": "pizza-casserole-171",
       "similarity": "0.6315"
     }
   ]

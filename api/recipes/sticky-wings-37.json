@@ -43,7 +43,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
-  "_url": "sticky-wings-37",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -107,7 +106,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "sticky-chicken-233",
+      "url": "sticky-chicken-233",
       "similarity": "0.7354"
     },
     {
@@ -174,7 +173,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "ken-noodle-supper-240",
+      "url": "ken-noodle-supper-240",
       "similarity": "0.5703"
     },
     {
@@ -241,7 +240,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "noodles-with-hamburg-166",
+      "url": "noodles-with-hamburg-166",
       "similarity": "0.5625"
     },
     {
@@ -289,7 +288,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "crispy-chicken-coating-mix-249",
+      "url": "crispy-chicken-coating-mix-249",
       "similarity": "0.5596"
     },
     {
@@ -341,7 +340,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "vegetable-dip-17",
+      "url": "vegetable-dip-17",
       "similarity": "0.5453"
     }
   ]

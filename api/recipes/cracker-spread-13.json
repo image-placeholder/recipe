@@ -33,7 +33,6 @@
     "cookTime": "5 minutes",
     "totalTime": "10 minutes"
   },
-  "_url": "cracker-spread-13",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -83,7 +82,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "sausage-balls-44",
+      "url": "sausage-balls-44",
       "similarity": "0.6372"
     },
     {
@@ -148,7 +147,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "tomato-macaroni-soup-123",
+      "url": "tomato-macaroni-soup-123",
       "similarity": "0.5827"
     },
     {
@@ -209,7 +208,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "cheese-broccoli-soup-105",
+      "url": "cheese-broccoli-soup-105",
       "similarity": "0.5763"
     },
     {
@@ -278,7 +277,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "cheese-broccoli-soup-108",
+      "url": "cheese-broccoli-soup-108",
       "similarity": "0.5763"
     },
     {
@@ -323,7 +322,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "_url": "shrimp-spread-10",
+      "url": "shrimp-spread-10",
       "similarity": "0.5731"
     }
   ]

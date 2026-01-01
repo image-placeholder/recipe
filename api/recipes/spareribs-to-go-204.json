@@ -39,7 +39,6 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
   },
-  "_url": "spareribs-to-go-204",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -93,7 +92,7 @@
         "cookTime": "1 hour",
         "totalTime": "24 hours 20 minutes"
       },
-      "_url": "yummy-country-style-ribs-208",
+      "url": "yummy-country-style-ribs-208",
       "similarity": "0.6897"
     },
     {
@@ -143,7 +142,7 @@
         "cookTime": "2 hours 15 minutes",
         "totalTime": "2 hours 35 minutes"
       },
-      "_url": "maple-glazed-ribs-203",
+      "url": "maple-glazed-ribs-203",
       "similarity": "0.6768"
     },
     {
@@ -202,7 +201,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "crab-cheese-platter-7",
+      "url": "crab-cheese-platter-7",
       "similarity": "0.5869"
     },
     {
@@ -242,7 +241,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "crab-dip-20",
+      "url": "crab-dip-20",
       "similarity": "0.5815"
     },
     {
@@ -306,7 +305,7 @@
         "cookTime": "12 minutes",
         "totalTime": "32 minutes"
       },
-      "_url": "crab-stuffed-mushrooms-46",
+      "url": "crab-stuffed-mushrooms-46",
       "similarity": "0.5680"
     }
   ]

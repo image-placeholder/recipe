@@ -47,7 +47,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "_url": "boneless-chicken-breasts-213",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -100,7 +99,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "chicken-breast-212",
+      "url": "chicken-breast-212",
       "similarity": "0.7932"
     },
     {
@@ -159,7 +158,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "favourite-chicken-241",
+      "url": "favourite-chicken-241",
       "similarity": "0.6971"
     },
     {
@@ -220,7 +219,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "_url": "stuffing-and-chicken-242",
+      "url": "stuffing-and-chicken-242",
       "similarity": "0.6809"
     },
     {
@@ -283,7 +282,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "parmesan-chicken-239",
+      "url": "parmesan-chicken-239",
       "similarity": "0.6805"
     },
     {
@@ -347,7 +346,7 @@
         "cookTime": "35 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "chicken-with-a-chinese-accent-245",
+      "url": "chicken-with-a-chinese-accent-245",
       "similarity": "0.6725"
     }
   ]

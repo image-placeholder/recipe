@@ -42,7 +42,6 @@
     "cookTime": "5 minutes",
     "totalTime": "15 minutes"
   },
-  "_url": "hot-potato-salad-86",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -84,7 +83,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "_url": "salad-dressing-102",
+      "url": "salad-dressing-102",
       "similarity": "0.6661"
     },
     {
@@ -131,7 +130,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-103",
+      "url": "salad-dressing-103",
       "similarity": "0.6661"
     },
     {
@@ -182,7 +181,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-104",
+      "url": "salad-dressing-104",
       "similarity": "0.6661"
     },
     {
@@ -239,7 +238,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "sliced-baked-potatoes-138",
+      "url": "sliced-baked-potatoes-138",
       "similarity": "0.6490"
     },
     {
@@ -295,7 +294,7 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "sauerkraut-salad-82",
+      "url": "sauerkraut-salad-82",
       "similarity": "0.6274"
     }
   ]

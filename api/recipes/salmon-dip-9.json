@@ -44,7 +44,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_url": "salmon-dip-9",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -94,7 +93,7 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
-      "_url": "party-salmon-ball-8",
+      "url": "party-salmon-ball-8",
       "similarity": "0.7485"
     },
     {
@@ -134,7 +133,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "crab-dip-20",
+      "url": "crab-dip-20",
       "similarity": "0.7128"
     },
     {
@@ -182,7 +181,7 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "yogurt-dip-19",
+      "url": "yogurt-dip-19",
       "similarity": "0.7073"
     },
     {
@@ -222,7 +221,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "fruit-dip-24",
+      "url": "fruit-dip-24",
       "similarity": "0.6783"
     },
     {
@@ -281,7 +280,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "crab-cheese-platter-7",
+      "url": "crab-cheese-platter-7",
       "similarity": "0.6673"
     }
   ]

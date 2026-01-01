@@ -51,7 +51,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
   },
-  "_url": "barley-and-corn-casserole-132",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -124,7 +123,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "beef-and-rice-casserole-168",
+      "url": "beef-and-rice-casserole-168",
       "similarity": "0.7516"
     },
     {
@@ -179,7 +178,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "broccoli-casserole-129",
+      "url": "broccoli-casserole-129",
       "similarity": "0.7443"
     },
     {
@@ -230,7 +229,7 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "broccoli-casserole-133",
+      "url": "broccoli-casserole-133",
       "similarity": "0.7443"
     },
     {
@@ -301,7 +300,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "chicken-and-cheese-casserole-244",
+      "url": "chicken-and-cheese-casserole-244",
       "similarity": "0.7112"
     },
     {
@@ -356,7 +355,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "cabbage-casserole-130",
+      "url": "cabbage-casserole-130",
       "similarity": "0.7052"
     }
   ]

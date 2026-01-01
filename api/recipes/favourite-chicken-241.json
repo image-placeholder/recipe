@@ -54,7 +54,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
-  "_url": "favourite-chicken-241",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +103,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "chicken-and-broccoli-234",
+      "url": "chicken-and-broccoli-234",
       "similarity": "0.7798"
     },
     {
@@ -168,7 +167,7 @@
         "cookTime": "35 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "chicken-with-a-chinese-accent-245",
+      "url": "chicken-with-a-chinese-accent-245",
       "similarity": "0.7746"
     },
     {
@@ -222,7 +221,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "chicken-breast-212",
+      "url": "chicken-breast-212",
       "similarity": "0.7695"
     },
     {
@@ -304,7 +303,7 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "_url": "chicken-and-croutons-246",
+      "url": "chicken-and-croutons-246",
       "similarity": "0.7279"
     },
     {
@@ -365,7 +364,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "_url": "stuffing-and-chicken-242",
+      "url": "stuffing-and-chicken-242",
       "similarity": "0.7165"
     }
   ]

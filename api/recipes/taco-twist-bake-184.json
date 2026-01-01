@@ -75,7 +75,6 @@
     "cookTime": "35 minutes",
     "totalTime": "55 minutes"
   },
-  "_url": "taco-twist-bake-184",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -132,7 +131,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "beef-taco-bake-186",
+      "url": "beef-taco-bake-186",
       "similarity": "0.8817"
     },
     {
@@ -210,7 +209,7 @@
         "cookTime": "16 minutes",
         "totalTime": "36 minutes"
       },
-      "_url": "taco-ring-183",
+      "url": "taco-ring-183",
       "similarity": "0.7634"
     },
     {
@@ -280,7 +279,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "spaghetti-casserole-178",
+      "url": "spaghetti-casserole-178",
       "similarity": "0.7089"
     },
     {
@@ -339,7 +338,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "taco-salad-89",
+      "url": "taco-salad-89",
       "similarity": "0.7076"
     },
     {
@@ -398,7 +397,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "taco-salad-92",
+      "url": "taco-salad-92",
       "similarity": "0.7076"
     }
   ]

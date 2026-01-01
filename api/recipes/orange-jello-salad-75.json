@@ -47,7 +47,6 @@
     "cookTime": "5 minutes",
     "totalTime": "20 minutes"
   },
-  "_url": "orange-jello-salad-75",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -90,7 +89,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "_url": "lemon-salad-80",
+      "url": "lemon-salad-80",
       "similarity": "0.8103"
     },
     {
@@ -144,7 +143,7 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "orange-pineapple-jello-76",
+      "url": "orange-pineapple-jello-76",
       "similarity": "0.7844"
     },
     {
@@ -204,7 +203,7 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "_url": "mandarin-orange-salad-88",
+      "url": "mandarin-orange-salad-88",
       "similarity": "0.7573"
     },
     {
@@ -257,7 +256,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "romaine-salad-with-orange-84",
+      "url": "romaine-salad-with-orange-84",
       "similarity": "0.7014"
     },
     {
@@ -321,7 +320,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "tossed-berry-mandarin-salad-87",
+      "url": "tossed-berry-mandarin-salad-87",
       "similarity": "0.6839"
     }
   ]

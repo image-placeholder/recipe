@@ -39,7 +39,6 @@
     "cookTime": "",
     "totalTime": "15 minutes"
   },
-  "_url": "club-salad-68",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -106,7 +105,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "caesar-salad-59",
+      "url": "caesar-salad-59",
       "similarity": "0.7493"
     },
     {
@@ -178,7 +177,7 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "_url": "bacon-broccoli-salad-63",
+      "url": "bacon-broccoli-salad-63",
       "similarity": "0.7272"
     },
     {
@@ -224,7 +223,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "caesar-dressin-salad-101",
+      "url": "caesar-dressin-salad-101",
       "similarity": "0.7239"
     },
     {
@@ -267,7 +266,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "_url": "salad-dressing-102",
+      "url": "salad-dressing-102",
       "similarity": "0.7162"
     },
     {
@@ -314,7 +313,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-103",
+      "url": "salad-dressing-103",
       "similarity": "0.7162"
     }
   ]

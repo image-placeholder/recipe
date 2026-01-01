@@ -35,7 +35,6 @@
     "cookTime": null,
     "totalTime": "5 minutes"
   },
-  "_url": "cold-meat-mustard-122",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -77,7 +76,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "_url": "salad-dressing-102",
+      "url": "salad-dressing-102",
       "similarity": "0.6634"
     },
     {
@@ -124,7 +123,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-103",
+      "url": "salad-dressing-103",
       "similarity": "0.6634"
     },
     {
@@ -175,7 +174,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-104",
+      "url": "salad-dressing-104",
       "similarity": "0.6634"
     },
     {
@@ -231,7 +230,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "saucy-sausages-205",
+      "url": "saucy-sausages-205",
       "similarity": "0.6607"
     },
     {
@@ -274,7 +273,7 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "curry-dip-14",
+      "url": "curry-dip-14",
       "similarity": "0.6590"
     }
   ]

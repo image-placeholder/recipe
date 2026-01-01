@@ -43,7 +43,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_url": "crispy-chicken-coating-mix-249",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -96,7 +95,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "chicken-breast-212",
+      "url": "chicken-breast-212",
       "similarity": "0.7259"
     },
     {
@@ -166,7 +165,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "chicken-supreme-238",
+      "url": "chicken-supreme-238",
       "similarity": "0.6645"
     },
     {
@@ -226,7 +225,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "_url": "chicken-glazed-with-basil-balsamic-vinegar-214",
+      "url": "chicken-glazed-with-basil-balsamic-vinegar-214",
       "similarity": "0.6456"
     },
     {
@@ -282,7 +281,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "_url": "easy-curried-chicken-231",
+      "url": "easy-curried-chicken-231",
       "similarity": "0.6436"
     },
     {
@@ -356,7 +355,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "classy-chicken-243",
+      "url": "classy-chicken-243",
       "similarity": "0.6181"
     }
   ]

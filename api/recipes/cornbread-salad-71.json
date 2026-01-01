@@ -57,7 +57,6 @@
     "cookTime": "15 minutes",
     "totalTime": "1 hour 35 minutes"
   },
-  "_url": "cornbread-salad-71",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -121,7 +120,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "nacho-salad-73",
+      "url": "nacho-salad-73",
       "similarity": "0.6623"
     },
     {
@@ -179,7 +178,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "black-bean-salad-48",
+      "url": "black-bean-salad-48",
       "similarity": "0.6469"
     },
     {
@@ -222,7 +221,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "_url": "salad-dressing-102",
+      "url": "salad-dressing-102",
       "similarity": "0.6416"
     },
     {
@@ -269,7 +268,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-103",
+      "url": "salad-dressing-103",
       "similarity": "0.6416"
     },
     {
@@ -320,7 +319,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-104",
+      "url": "salad-dressing-104",
       "similarity": "0.6416"
     }
   ]

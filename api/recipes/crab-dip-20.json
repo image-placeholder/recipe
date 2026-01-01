@@ -35,7 +35,6 @@
     "cookTime": "",
     "totalTime": "10 minutes"
   },
-  "_url": "crab-dip-20",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -93,7 +92,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "crab-cheese-platter-7",
+      "url": "crab-cheese-platter-7",
       "similarity": "0.8988"
     },
     {
@@ -157,7 +156,7 @@
         "cookTime": "12 minutes",
         "totalTime": "32 minutes"
       },
-      "_url": "crab-stuffed-mushrooms-46",
+      "url": "crab-stuffed-mushrooms-46",
       "similarity": "0.7168"
     },
     {
@@ -214,7 +213,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "cheese-dip-in-a-bread-bowl-4",
+      "url": "cheese-dip-in-a-bread-bowl-4",
       "similarity": "0.7156"
     },
     {
@@ -278,7 +277,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "_url": "surprise-spread-11",
+      "url": "surprise-spread-11",
       "similarity": "0.7128"
     },
     {
@@ -327,7 +326,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "salmon-dip-9",
+      "url": "salmon-dip-9",
       "similarity": "0.7128"
     }
   ]

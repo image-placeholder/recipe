@@ -58,7 +58,6 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
-  "_url": "dads-spaghetti-181",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -127,7 +126,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "spaghetti-casserole-178",
+      "url": "spaghetti-casserole-178",
       "similarity": "0.6819"
     },
     {
@@ -184,7 +183,7 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "mushroom-soup-113",
+      "url": "mushroom-soup-113",
       "similarity": "0.6709"
     },
     {
@@ -235,7 +234,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "chicken-and-broccoli-234",
+      "url": "chicken-and-broccoli-234",
       "similarity": "0.6598"
     },
     {
@@ -285,7 +284,7 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
-      "_url": "spaghetti-sauce-177",
+      "url": "spaghetti-sauce-177",
       "similarity": "0.6565"
     },
     {
@@ -339,7 +338,7 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "_url": "spaghetti-sauce-187",
+      "url": "spaghetti-sauce-187",
       "similarity": "0.6565"
     }
   ]

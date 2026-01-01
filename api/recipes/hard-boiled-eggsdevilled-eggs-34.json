@@ -66,7 +66,6 @@
     "cookTime": "15 minutes",
     "totalTime": "35 minutes"
   },
-  "_url": "hard-boiled-eggsdevilled-eggs-34",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -117,7 +116,7 @@
         "cookTime": "5 minutes",
         "totalTime": null
       },
-      "_url": "pickled-eggs-35",
+      "url": "pickled-eggs-35",
       "similarity": "0.6409"
     },
     {
@@ -170,7 +169,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "_url": "plain-pickled-eggs-30",
+      "url": "plain-pickled-eggs-30",
       "similarity": "0.6208"
     },
     {
@@ -227,7 +226,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "potato-casserole-141",
+      "url": "potato-casserole-141",
       "similarity": "0.5998"
     },
     {
@@ -285,7 +284,7 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "fancy-pickled-eggs-31",
+      "url": "fancy-pickled-eggs-31",
       "similarity": "0.5815"
     },
     {
@@ -349,7 +348,7 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "artichoke-appetizer-1",
+      "url": "artichoke-appetizer-1",
       "similarity": "0.5610"
     }
   ]

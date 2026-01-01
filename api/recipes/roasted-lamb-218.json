@@ -57,7 +57,6 @@
     "cookTime": "6 hours 30 minutes",
     "totalTime": "6 hours 50 minutes"
   },
-  "_url": "roasted-lamb-218",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -122,7 +121,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "_url": "south-african-lamb-215",
+      "url": "south-african-lamb-215",
       "similarity": "0.7622"
     },
     {
@@ -182,7 +181,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "roasted-chestnuts-26",
+      "url": "roasted-chestnuts-26",
       "similarity": "0.5634"
     },
     {
@@ -256,7 +255,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "beef-and-rice-casserole-168",
+      "url": "beef-and-rice-casserole-168",
       "similarity": "0.5495"
     },
     {
@@ -312,7 +311,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "meat-and-potato-casserole-159",
+      "url": "meat-and-potato-casserole-159",
       "similarity": "0.5413"
     },
     {
@@ -362,7 +361,7 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
-      "_url": "stewing-beef-casserole-155",
+      "url": "stewing-beef-casserole-155",
       "similarity": "0.5381"
     }
   ]

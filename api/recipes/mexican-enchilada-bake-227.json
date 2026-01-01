@@ -69,7 +69,6 @@
     "cookTime": "40 minutes",
     "totalTime": "1 hour"
   },
-  "_url": "mexican-enchilada-bake-227",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -136,7 +135,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "tortilla-soup-124",
+      "url": "tortilla-soup-124",
       "similarity": "0.6706"
     },
     {
@@ -193,7 +192,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "mexican-fudge-12",
+      "url": "mexican-fudge-12",
       "similarity": "0.6638"
     },
     {
@@ -258,7 +257,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "chinese-hamburger-casserole-174",
+      "url": "chinese-hamburger-casserole-174",
       "similarity": "0.6450"
     },
     {
@@ -312,7 +311,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "mexican-salad-50",
+      "url": "mexican-salad-50",
       "similarity": "0.6419"
     },
     {
@@ -367,7 +366,7 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
-      "_url": "nacho-fiesta-dip-28",
+      "url": "nacho-fiesta-dip-28",
       "similarity": "0.6280"
     }
   ]

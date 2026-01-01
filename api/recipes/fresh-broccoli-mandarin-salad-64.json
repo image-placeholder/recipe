@@ -61,7 +61,6 @@
     "cookTime": "10 minutes",
     "totalTime": "30 minutes"
   },
-  "_url": "fresh-broccoli-mandarin-salad-64",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -124,7 +123,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "tossed-berry-mandarin-salad-87",
+      "url": "tossed-berry-mandarin-salad-87",
       "similarity": "0.8242"
     },
     {
@@ -184,7 +183,7 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "_url": "mandarin-orange-salad-88",
+      "url": "mandarin-orange-salad-88",
       "similarity": "0.8074"
     },
     {
@@ -239,7 +238,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "chinese-rice-salad-81",
+      "url": "chinese-rice-salad-81",
       "similarity": "0.7013"
     },
     {
@@ -311,7 +310,7 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "_url": "bacon-broccoli-salad-63",
+      "url": "bacon-broccoli-salad-63",
       "similarity": "0.6956"
     },
     {
@@ -362,7 +361,7 @@
         "cookTime": "10 minutes",
         "totalTime": "3 hours 25 minutes"
       },
-      "_url": "broccoli-supreme-60",
+      "url": "broccoli-supreme-60",
       "similarity": "0.6929"
     }
   ]

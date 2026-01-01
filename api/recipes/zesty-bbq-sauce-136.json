@@ -48,7 +48,6 @@
     "cookTime": "10 minutes",
     "totalTime": "20 minutes"
   },
-  "_url": "zesty-bbq-sauce-136",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -87,7 +86,7 @@
         "cookTime": null,
         "totalTime": "5 minutes"
       },
-      "_url": "cold-meat-mustard-122",
+      "url": "cold-meat-mustard-122",
       "similarity": "0.6489"
     },
     {
@@ -143,7 +142,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "saucy-sausages-205",
+      "url": "saucy-sausages-205",
       "similarity": "0.6249"
     },
     {
@@ -201,7 +200,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "_url": "oven-barbecued-pork-chops-210",
+      "url": "oven-barbecued-pork-chops-210",
       "similarity": "0.6186"
     },
     {
@@ -246,7 +245,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "chicken-celebrity-237",
+      "url": "chicken-celebrity-237",
       "similarity": "0.6083"
     },
     {
@@ -309,7 +308,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
       "similarity": "0.5996"
     }
   ]

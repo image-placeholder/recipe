@@ -51,7 +51,6 @@
     "cookTime": "25 minutes",
     "totalTime": "40 minutes"
   },
-  "_url": "pork-chops-with-dried-fruit-206",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -117,7 +116,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "2 hours"
       },
-      "_url": "pork-chop-rice-casserole-211",
+      "url": "pork-chop-rice-casserole-211",
       "similarity": "0.7426"
     },
     {
@@ -175,7 +174,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "_url": "oven-barbecued-pork-chops-210",
+      "url": "oven-barbecued-pork-chops-210",
       "similarity": "0.7152"
     },
     {
@@ -226,7 +225,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "sour-n-sweet-pork-chops-207",
+      "url": "sour-n-sweet-pork-chops-207",
       "similarity": "0.7085"
     },
     {
@@ -281,7 +280,7 @@
         "cookTime": "1 hour",
         "totalTime": "24 hours 20 minutes"
       },
-      "_url": "yummy-country-style-ribs-208",
+      "url": "yummy-country-style-ribs-208",
       "similarity": "0.5921"
     },
     {
@@ -331,7 +330,7 @@
         "cookTime": "2 hours 15 minutes",
         "totalTime": "2 hours 35 minutes"
       },
-      "_url": "maple-glazed-ribs-203",
+      "url": "maple-glazed-ribs-203",
       "similarity": "0.5796"
     }
   ]

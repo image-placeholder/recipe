@@ -72,7 +72,6 @@
     "cookTime": "",
     "totalTime": "2 hours 15 minutes"
   },
-  "_url": "fairest-wheels-36",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -140,7 +139,7 @@
         "cookTime": "3 hours",
         "totalTime": "3 hours 30 minutes"
       },
-      "_url": "cabbage-rolls-167",
+      "url": "cabbage-rolls-167",
       "similarity": "0.6244"
     },
     {
@@ -204,7 +203,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "veggie-pizza-47",
+      "url": "veggie-pizza-47",
       "similarity": "0.6194"
     },
     {
@@ -277,7 +276,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "veggie-pizza-201",
+      "url": "veggie-pizza-201",
       "similarity": "0.6194"
     },
     {
@@ -347,7 +346,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "mock-cabbage-rolls-164",
+      "url": "mock-cabbage-rolls-164",
       "similarity": "0.6092"
     },
     {
@@ -425,7 +424,7 @@
         "cookTime": "16 minutes",
         "totalTime": "36 minutes"
       },
-      "_url": "taco-ring-183",
+      "url": "taco-ring-183",
       "similarity": "0.6006"
     }
   ]

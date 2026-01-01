@@ -33,7 +33,6 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
-  "_url": "chicken-fajitas-228",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -100,7 +99,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "tortilla-soup-124",
+      "url": "tortilla-soup-124",
       "similarity": "0.6301"
     },
     {
@@ -167,7 +166,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "ken-noodle-supper-240",
+      "url": "ken-noodle-supper-240",
       "similarity": "0.6161"
     },
     {
@@ -241,7 +240,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "thai-chicken-235",
+      "url": "thai-chicken-235",
       "similarity": "0.6094"
     },
     {
@@ -298,7 +297,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "mexican-fudge-12",
+      "url": "mexican-fudge-12",
       "similarity": "0.6067"
     },
     {
@@ -348,7 +347,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "pepper-chicken-fettucini-236",
+      "url": "pepper-chicken-fettucini-236",
       "similarity": "0.6020"
     }
   ]

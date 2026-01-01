@@ -43,7 +43,6 @@
     "cookTime": "1 minute",
     "totalTime": "6 minutes"
   },
-  "_url": "pizza-bagels-kids-style-191",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -116,7 +115,7 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "pizza-190",
+      "url": "pizza-190",
       "similarity": "0.5950"
     },
     {
@@ -180,7 +179,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "veggie-pizza-47",
+      "url": "veggie-pizza-47",
       "similarity": "0.5614"
     },
     {
@@ -253,7 +252,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "veggie-pizza-201",
+      "url": "veggie-pizza-201",
       "similarity": "0.5614"
     },
     {
@@ -330,7 +329,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "pizza-casserole-171",
+      "url": "pizza-casserole-171",
       "similarity": "0.5613"
     },
     {
@@ -402,7 +401,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "pizza-casserole-202",
+      "url": "pizza-casserole-202",
       "similarity": "0.5613"
     }
   ]

@@ -51,7 +51,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 15 minutes"
   },
-  "_url": "easy-curried-chicken-231",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -108,7 +107,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "curry-chicken-230",
+      "url": "curry-chicken-230",
       "similarity": "0.8071"
     },
     {
@@ -182,7 +181,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "classy-chicken-243",
+      "url": "classy-chicken-243",
       "similarity": "0.7701"
     },
     {
@@ -246,7 +245,7 @@
         "cookTime": "35 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "chicken-with-a-chinese-accent-245",
+      "url": "chicken-with-a-chinese-accent-245",
       "similarity": "0.7006"
     },
     {
@@ -315,7 +314,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "creamy-chicken-stew-252",
+      "url": "creamy-chicken-stew-252",
       "similarity": "0.7005"
     },
     {
@@ -374,7 +373,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "favourite-chicken-241",
+      "url": "favourite-chicken-241",
       "similarity": "0.6996"
     }
   ]

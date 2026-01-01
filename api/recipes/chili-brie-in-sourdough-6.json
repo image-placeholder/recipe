@@ -62,7 +62,6 @@
     "cookTime": "25 minutes",
     "totalTime": "40 minutes"
   },
-  "_url": "chili-brie-in-sourdough-6",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +117,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "cheese-dip-in-a-bread-bowl-4",
+      "url": "cheese-dip-in-a-bread-bowl-4",
       "similarity": "0.6310"
     },
     {
@@ -183,7 +182,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "turnip-casserole-150",
+      "url": "turnip-casserole-150",
       "similarity": "0.5991"
     },
     {
@@ -257,7 +256,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "beef-and-rice-casserole-168",
+      "url": "beef-and-rice-casserole-168",
       "similarity": "0.5870"
     },
     {
@@ -342,7 +341,7 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 40 minutes"
       },
-      "_url": "cheeseburger-meat-loaf-157",
+      "url": "cheeseburger-meat-loaf-157",
       "similarity": "0.5713"
     },
     {
@@ -418,7 +417,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "chili-turkey-247",
+      "url": "chili-turkey-247",
       "similarity": "0.5682"
     }
   ]

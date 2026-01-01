@@ -43,7 +43,6 @@
     "cookTime": "",
     "totalTime": "1 hour 10 minutes"
   },
-  "_url": "yogurt-dip-19",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -94,7 +93,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "vegetable-dip-17",
+      "url": "vegetable-dip-17",
       "similarity": "0.7698"
     },
     {
@@ -137,7 +136,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "vegetable-dip-18",
+      "url": "vegetable-dip-18",
       "similarity": "0.7698"
     },
     {
@@ -186,7 +185,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "salmon-dip-9",
+      "url": "salmon-dip-9",
       "similarity": "0.7073"
     },
     {
@@ -229,7 +228,7 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "curry-dip-14",
+      "url": "curry-dip-14",
       "similarity": "0.6983"
     },
     {
@@ -269,7 +268,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "fruit-dip-24",
+      "url": "fruit-dip-24",
       "similarity": "0.6854"
     }
   ]

@@ -54,7 +54,6 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "_url": "beef-birds-in-wine-147",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -109,7 +108,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "meat-and-potato-casserole-159",
+      "url": "meat-and-potato-casserole-159",
       "similarity": "0.6174"
     },
     {
@@ -159,7 +158,7 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
-      "_url": "stewing-beef-casserole-155",
+      "url": "stewing-beef-casserole-155",
       "similarity": "0.6019"
     },
     {
@@ -220,7 +219,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "stir-fry-beef-145",
+      "url": "stir-fry-beef-145",
       "similarity": "0.5838"
     },
     {
@@ -309,7 +308,7 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "creamy-beef-and-potato-bake-158",
+      "url": "creamy-beef-and-potato-bake-158",
       "similarity": "0.5663"
     },
     {
@@ -393,7 +392,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 25 minutes"
       },
-      "_url": "meatball-pasta-stew-179",
+      "url": "meatball-pasta-stew-179",
       "similarity": "0.5638"
     }
   ]

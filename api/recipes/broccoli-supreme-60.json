@@ -46,7 +46,6 @@
     "cookTime": "10 minutes",
     "totalTime": "3 hours 25 minutes"
   },
-  "_url": "broccoli-supreme-60",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -117,7 +116,7 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "_url": "bacon-broccoli-salad-63",
+      "url": "bacon-broccoli-salad-63",
       "similarity": "0.7514"
     },
     {
@@ -175,7 +174,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "supreme-broccoli-soup-casserole-128",
+      "url": "supreme-broccoli-soup-casserole-128",
       "similarity": "0.7514"
     },
     {
@@ -241,7 +240,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "fresh-broccoli-mandarin-salad-64",
+      "url": "fresh-broccoli-mandarin-salad-64",
       "similarity": "0.6929"
     },
     {
@@ -296,7 +295,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "broccoli-casserole-129",
+      "url": "broccoli-casserole-129",
       "similarity": "0.6916"
     },
     {
@@ -347,7 +346,7 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "broccoli-casserole-133",
+      "url": "broccoli-casserole-133",
       "similarity": "0.6916"
     }
   ]

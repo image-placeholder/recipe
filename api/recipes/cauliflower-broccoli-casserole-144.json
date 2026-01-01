@@ -59,7 +59,6 @@
     "cookTime": "40 minutes",
     "totalTime": "50 minutes"
   },
-  "_url": "cauliflower-broccoli-casserole-144",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -120,7 +119,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "baked-cauliflower-143",
+      "url": "baked-cauliflower-143",
       "similarity": "0.8599"
     },
     {
@@ -175,7 +174,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "broccoli-casserole-129",
+      "url": "broccoli-casserole-129",
       "similarity": "0.8463"
     },
     {
@@ -226,7 +225,7 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "broccoli-casserole-133",
+      "url": "broccoli-casserole-133",
       "similarity": "0.8463"
     },
     {
@@ -315,7 +314,7 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "cauliflower-christmas-139",
+      "url": "cauliflower-christmas-139",
       "similarity": "0.7531"
     },
     {
@@ -386,7 +385,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "chicken-and-cheese-casserole-244",
+      "url": "chicken-and-cheese-casserole-244",
       "similarity": "0.7514"
     }
   ]

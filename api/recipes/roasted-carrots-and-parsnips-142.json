@@ -54,7 +54,6 @@
     "cookTime": "50 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "_url": "roasted-carrots-and-parsnips-142",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -110,7 +109,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "sliced-baked-potatoes-138",
+      "url": "sliced-baked-potatoes-138",
       "similarity": "0.6247"
     },
     {
@@ -170,7 +169,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "roasted-chestnuts-26",
+      "url": "roasted-chestnuts-26",
       "similarity": "0.5940"
     },
     {
@@ -226,7 +225,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "meat-and-potato-casserole-159",
+      "url": "meat-and-potato-casserole-159",
       "similarity": "0.5786"
     },
     {
@@ -295,7 +294,7 @@
         "cookTime": "30 minutes",
         "totalTime": "1 hour 15 minutes"
       },
-      "_url": "turkey-or-chicken-pies-251",
+      "url": "turkey-or-chicken-pies-251",
       "similarity": "0.5769"
     },
     {
@@ -364,7 +363,7 @@
         "cookTime": "3 hours",
         "totalTime": "3 hours 30 minutes"
       },
-      "_url": "cabbage-rolls-167",
+      "url": "cabbage-rolls-167",
       "similarity": "0.5689"
     }
   ]

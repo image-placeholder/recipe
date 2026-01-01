@@ -60,7 +60,6 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 10 minutes"
   },
-  "_url": "turnip-casserole-150",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -115,7 +114,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "barley-and-corn-casserole-132",
+      "url": "barley-and-corn-casserole-132",
       "similarity": "0.6632"
     },
     {
@@ -189,7 +188,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "beef-and-rice-casserole-168",
+      "url": "beef-and-rice-casserole-168",
       "similarity": "0.6475"
     },
     {
@@ -258,7 +257,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "macaroni-casserole-175",
+      "url": "macaroni-casserole-175",
       "similarity": "0.6299"
     },
     {
@@ -315,7 +314,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "_url": "ham-casserole-200",
+      "url": "ham-casserole-200",
       "similarity": "0.6238"
     },
     {
@@ -370,7 +369,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "broccoli-casserole-129",
+      "url": "broccoli-casserole-129",
       "similarity": "0.6215"
     }
   ]

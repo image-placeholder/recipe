@@ -51,7 +51,6 @@
     "cookTime": "10 minutes",
     "totalTime": "20 minutes"
   },
-  "_url": "wassail-52",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -134,7 +133,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
+      "url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
       "similarity": "0.5388"
     },
     {
@@ -188,7 +187,7 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "orange-pineapple-jello-76",
+      "url": "orange-pineapple-jello-76",
       "similarity": "0.5135"
     },
     {
@@ -253,7 +252,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "_url": "chicken-pineapple-stir-fry-221",
+      "url": "chicken-pineapple-stir-fry-221",
       "similarity": "0.5028"
     },
     {
@@ -301,7 +300,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "punch-53",
+      "url": "punch-53",
       "similarity": "0.4949"
     },
     {
@@ -354,7 +353,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "_url": "plain-pickled-eggs-30",
+      "url": "plain-pickled-eggs-30",
       "similarity": "0.4948"
     }
   ]

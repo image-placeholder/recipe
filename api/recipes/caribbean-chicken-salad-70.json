@@ -48,7 +48,6 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "_url": "caribbean-chicken-salad-70",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -99,7 +98,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "chicken-grape-salad-65",
+      "url": "chicken-grape-salad-65",
       "similarity": "0.7274"
     },
     {
@@ -156,7 +155,7 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "_url": "onion-salad-74",
+      "url": "onion-salad-74",
       "similarity": "0.6664"
     },
     {
@@ -215,7 +214,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "taco-salad-89",
+      "url": "taco-salad-89",
       "similarity": "0.6573"
     },
     {
@@ -274,7 +273,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "taco-salad-92",
+      "url": "taco-salad-92",
       "similarity": "0.6573"
     },
     {
@@ -330,7 +329,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "taco-salad-97",
+      "url": "taco-salad-97",
       "similarity": "0.6573"
     }
   ]

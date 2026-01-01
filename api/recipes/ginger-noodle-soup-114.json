@@ -52,7 +52,6 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "_url": "ginger-noodle-soup-114",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +117,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "ken-noodle-supper-240",
+      "url": "ken-noodle-supper-240",
       "similarity": "0.6744"
     },
     {
@@ -182,7 +181,7 @@
         "cookTime": "28 minutes",
         "totalTime": "43 minutes"
       },
-      "_url": "pasta-bean-soup-111",
+      "url": "pasta-bean-soup-111",
       "similarity": "0.6678"
     },
     {
@@ -249,7 +248,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "2 hours"
       },
-      "_url": "pork-chop-rice-casserole-211",
+      "url": "pork-chop-rice-casserole-211",
       "similarity": "0.6524"
     },
     {
@@ -306,7 +305,7 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "mushroom-soup-113",
+      "url": "mushroom-soup-113",
       "similarity": "0.6488"
     },
     {
@@ -358,7 +357,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "veggie-basic-soup-120",
+      "url": "veggie-basic-soup-120",
       "similarity": "0.6481"
     }
   ]

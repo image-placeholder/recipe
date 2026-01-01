@@ -49,7 +49,6 @@
     "cookTime": "",
     "totalTime": "10 minutes"
   },
-  "_url": "mexican-salad-50",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -107,7 +106,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "taco-salad-89",
+      "url": "taco-salad-89",
       "similarity": "0.8162"
     },
     {
@@ -166,7 +165,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "taco-salad-92",
+      "url": "taco-salad-92",
       "similarity": "0.8162"
     },
     {
@@ -222,7 +221,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "taco-salad-97",
+      "url": "taco-salad-97",
       "similarity": "0.8162"
     },
     {
@@ -280,7 +279,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "black-bean-salad-48",
+      "url": "black-bean-salad-48",
       "similarity": "0.7527"
     },
     {
@@ -337,7 +336,7 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "_url": "onion-salad-74",
+      "url": "onion-salad-74",
       "similarity": "0.7458"
     }
   ]

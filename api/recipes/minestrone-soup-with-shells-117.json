@@ -55,7 +55,6 @@
     "cookTime": "30 minutes",
     "totalTime": "45 minutes"
   },
-  "_url": "minestrone-soup-with-shells-117",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +117,7 @@
         "cookTime": "28 minutes",
         "totalTime": "43 minutes"
       },
-      "_url": "pasta-bean-soup-111",
+      "url": "pasta-bean-soup-111",
       "similarity": "0.6428"
     },
     {
@@ -183,7 +182,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "tomato-macaroni-soup-123",
+      "url": "tomato-macaroni-soup-123",
       "similarity": "0.5590"
     },
     {
@@ -235,7 +234,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "veggie-basic-soup-120",
+      "url": "veggie-basic-soup-120",
       "similarity": "0.5420"
     },
     {
@@ -290,7 +289,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "potato-soup-125",
+      "url": "potato-soup-125",
       "similarity": "0.5359"
     },
     {
@@ -358,7 +357,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "tortilla-soup-124",
+      "url": "tortilla-soup-124",
       "similarity": "0.5326"
     }
   ]

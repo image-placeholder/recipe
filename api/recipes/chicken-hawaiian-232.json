@@ -53,7 +53,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "_url": "chicken-hawaiian-232",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +103,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "_url": "sweet-sour-pineapple-chicken-222",
+      "url": "sweet-sour-pineapple-chicken-222",
       "similarity": "0.7088"
     },
     {
@@ -178,7 +177,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "thai-chicken-235",
+      "url": "thai-chicken-235",
       "similarity": "0.7070"
     },
     {
@@ -243,7 +242,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "_url": "chicken-pineapple-stir-fry-221",
+      "url": "chicken-pineapple-stir-fry-221",
       "similarity": "0.6907"
     },
     {
@@ -307,7 +306,7 @@
         "cookTime": "35 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "chicken-with-a-chinese-accent-245",
+      "url": "chicken-with-a-chinese-accent-245",
       "similarity": "0.6823"
     },
     {
@@ -358,7 +357,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "chicken-and-broccoli-234",
+      "url": "chicken-and-broccoli-234",
       "similarity": "0.6557"
     }
   ]

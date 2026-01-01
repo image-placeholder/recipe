@@ -52,7 +52,6 @@
     "cookTime": "",
     "totalTime": "8 hours 10 minutes"
   },
-  "_url": "onion-salad-74",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -94,7 +93,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "_url": "salad-dressing-102",
+      "url": "salad-dressing-102",
       "similarity": "0.7606"
     },
     {
@@ -141,7 +140,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-103",
+      "url": "salad-dressing-103",
       "similarity": "0.7606"
     },
     {
@@ -192,7 +191,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "salad-dressing-104",
+      "url": "salad-dressing-104",
       "similarity": "0.7606"
     },
     {
@@ -246,7 +245,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "mexican-salad-50",
+      "url": "mexican-salad-50",
       "similarity": "0.7458"
     },
     {
@@ -302,7 +301,7 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "sauerkraut-salad-82",
+      "url": "sauerkraut-salad-82",
       "similarity": "0.7185"
     }
   ]

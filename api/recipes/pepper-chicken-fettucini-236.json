@@ -45,7 +45,6 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
-  "_url": "pepper-chicken-fettucini-236",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -107,7 +106,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "parmesan-chicken-239",
+      "url": "parmesan-chicken-239",
       "similarity": "0.6876"
     },
     {
@@ -158,7 +157,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "chicken-and-broccoli-234",
+      "url": "chicken-and-broccoli-234",
       "similarity": "0.6872"
     },
     {
@@ -228,7 +227,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "chicken-supreme-238",
+      "url": "chicken-supreme-238",
       "similarity": "0.6818"
     },
     {
@@ -302,7 +301,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "thai-chicken-235",
+      "url": "thai-chicken-235",
       "similarity": "0.6630"
     },
     {
@@ -379,7 +378,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "pizza-casserole-171",
+      "url": "pizza-casserole-171",
       "similarity": "0.6526"
     }
   ]

@@ -49,7 +49,6 @@
     "cookTime": "",
     "totalTime": "2 hours 15 minutes"
   },
-  "_url": "cranberry-mold-67",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -111,7 +110,7 @@
         "cookTime": "10 minutes",
         "totalTime": "8 hours 30 minutes"
       },
-      "_url": "fruit-mold-ring-around-79",
+      "url": "fruit-mold-ring-around-79",
       "similarity": "0.8076"
     },
     {
@@ -165,7 +164,7 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
-      "_url": "orange-pineapple-jello-76",
+      "url": "orange-pineapple-jello-76",
       "similarity": "0.5990"
     },
     {
@@ -219,7 +218,7 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "_url": "cottage-cheese-jellied-salad-66",
+      "url": "cottage-cheese-jellied-salad-66",
       "similarity": "0.5425"
     },
     {
@@ -276,7 +275,7 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
-      "_url": "party-time-salad-77",
+      "url": "party-time-salad-77",
       "similarity": "0.5266"
     },
     {
@@ -328,7 +327,7 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "orange-jello-salad-75",
+      "url": "orange-jello-salad-75",
       "similarity": "0.5159"
     }
   ]

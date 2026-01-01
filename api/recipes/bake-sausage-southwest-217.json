@@ -71,7 +71,6 @@
     "cookTime": "50 minutes",
     "totalTime": "1 hour 20 minutes"
   },
-  "_url": "bake-sausage-southwest-217",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -126,7 +125,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "saucy-sausages-205",
+      "url": "saucy-sausages-205",
       "similarity": "0.6223"
     },
     {
@@ -177,7 +176,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "sausage-balls-44",
+      "url": "sausage-balls-44",
       "similarity": "0.5580"
     },
     {
@@ -235,7 +234,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "beef-taco-bake-186",
+      "url": "beef-taco-bake-186",
       "similarity": "0.5415"
     },
     {
@@ -320,7 +319,7 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 40 minutes"
       },
-      "_url": "cheeseburger-meat-loaf-157",
+      "url": "cheeseburger-meat-loaf-157",
       "similarity": "0.5303"
     },
     {
@@ -382,7 +381,7 @@
         "cookTime": "15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "_url": "cornbread-salad-71",
+      "url": "cornbread-salad-71",
       "similarity": "0.5296"
     }
   ]

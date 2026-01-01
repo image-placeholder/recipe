@@ -47,7 +47,6 @@
     "cookTime": "",
     "totalTime": "10 minutes"
   },
-  "_url": "vegetable-dip-17",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -94,7 +93,7 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "yogurt-dip-19",
+      "url": "yogurt-dip-19",
       "similarity": "0.7698"
     },
     {
@@ -137,7 +136,7 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
-      "_url": "curry-dip-14",
+      "url": "curry-dip-14",
       "similarity": "0.7094"
     },
     {
@@ -194,7 +193,7 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "_url": "spinach-dip-16",
+      "url": "spinach-dip-16",
       "similarity": "0.6779"
     },
     {
@@ -251,7 +250,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "fresh-fruit-platter-with-dip-22",
+      "url": "fresh-fruit-platter-with-dip-22",
       "similarity": "0.6561"
     },
     {
@@ -312,7 +311,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "nacho-dip-29",
+      "url": "nacho-dip-29",
       "similarity": "0.6443"
     }
   ]

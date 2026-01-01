@@ -53,7 +53,6 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "_url": "zippy-spaghetti-sauce-188",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -102,7 +101,7 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
-      "_url": "spaghetti-sauce-177",
+      "url": "spaghetti-sauce-177",
       "similarity": "0.7499"
     },
     {
@@ -156,7 +155,7 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "_url": "spaghetti-sauce-187",
+      "url": "spaghetti-sauce-187",
       "similarity": "0.7499"
     },
     {
@@ -233,7 +232,7 @@
         "cookTime": "35 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "baked-spaghetti-and-meatballs-176",
+      "url": "baked-spaghetti-and-meatballs-176",
       "similarity": "0.6935"
     },
     {
@@ -303,7 +302,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "_url": "spaghetti-casserole-178",
+      "url": "spaghetti-casserole-178",
       "similarity": "0.6781"
     },
     {
@@ -366,7 +365,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "_url": "mozzarella-spaghetti-skillet-182",
+      "url": "mozzarella-spaghetti-skillet-182",
       "similarity": "0.6637"
     }
   ]

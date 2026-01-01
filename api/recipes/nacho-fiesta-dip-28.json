@@ -50,7 +50,6 @@
     "cookTime": "",
     "totalTime": "1 hour 15 minutes"
   },
-  "_url": "nacho-fiesta-dip-28",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -110,7 +109,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "nacho-dip-29",
+      "url": "nacho-dip-29",
       "similarity": "0.8493"
     },
     {
@@ -173,7 +172,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "chili-con-queso-nacho-cheese-dip-27",
+      "url": "chili-con-queso-nacho-cheese-dip-27",
       "similarity": "0.7871"
     },
     {
@@ -252,7 +251,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "_url": "hot-taco-dip-21",
+      "url": "hot-taco-dip-21",
       "similarity": "0.7539"
     },
     {
@@ -309,7 +308,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "mexican-fudge-12",
+      "url": "mexican-fudge-12",
       "similarity": "0.7464"
     },
     {
@@ -387,7 +386,7 @@
         "cookTime": "16 minutes",
         "totalTime": "36 minutes"
       },
-      "_url": "taco-ring-183",
+      "url": "taco-ring-183",
       "similarity": "0.7065"
     }
   ]

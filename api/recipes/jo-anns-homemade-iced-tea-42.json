@@ -40,7 +40,6 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_url": "jo-anns-homemade-iced-tea-42",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -85,7 +84,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "orange-julius-drink-56",
+      "url": "orange-julius-drink-56",
       "similarity": "0.5370"
     },
     {
@@ -133,7 +132,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "_url": "punch-53",
+      "url": "punch-53",
       "similarity": "0.5086"
     },
     {
@@ -177,7 +176,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "_url": "lemon-salad-80",
+      "url": "lemon-salad-80",
       "similarity": "0.4980"
     },
     {
@@ -217,7 +216,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "breakfast-orange-smoothie-51",
+      "url": "breakfast-orange-smoothie-51",
       "similarity": "0.4938"
     },
     {
@@ -261,7 +260,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "perfect-punch-54",
+      "url": "perfect-punch-54",
       "similarity": "0.4711"
     }
   ]

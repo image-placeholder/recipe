@@ -56,7 +56,6 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 30 minutes"
   },
-  "_url": "sweet-sour-meatballs-161",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +117,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "_url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
       "similarity": "0.9396"
     },
     {
@@ -187,7 +186,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "hawaiian-meatballs-152",
+      "url": "hawaiian-meatballs-152",
       "similarity": "0.8335"
     },
     {
@@ -247,7 +246,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "britts-favourite-meatballs-151",
+      "url": "britts-favourite-meatballs-151",
       "similarity": "0.7464"
     },
     {
@@ -324,7 +323,7 @@
         "cookTime": "35 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "_url": "baked-spaghetti-and-meatballs-176",
+      "url": "baked-spaghetti-and-meatballs-176",
       "similarity": "0.7409"
     },
     {
@@ -396,7 +395,7 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "swedish-meatballs-162",
+      "url": "swedish-meatballs-162",
       "similarity": "0.7406"
     }
   ]

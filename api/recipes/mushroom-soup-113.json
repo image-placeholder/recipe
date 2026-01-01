@@ -52,7 +52,6 @@
     "cookTime": "15 minutes",
     "totalTime": "25 minutes"
   },
-  "_url": "mushroom-soup-113",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -99,7 +98,7 @@
         "cookTime": "2 hours 30 minutes",
         "totalTime": "2 hours 45 minutes"
       },
-      "_url": "cream-of-potato-soup-126",
+      "url": "cream-of-potato-soup-126",
       "similarity": "0.7393"
     },
     {
@@ -144,7 +143,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "_url": "cabbage-soup-106",
+      "url": "cabbage-soup-106",
       "similarity": "0.7386"
     },
     {
@@ -189,7 +188,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "_url": "cabbage-soup-109",
+      "url": "cabbage-soup-109",
       "similarity": "0.7386"
     },
     {
@@ -244,7 +243,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "_url": "potato-soup-125",
+      "url": "potato-soup-125",
       "similarity": "0.7386"
     },
     {
@@ -294,7 +293,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "_url": "creamy-broccoli-soup-112",
+      "url": "creamy-broccoli-soup-112",
       "similarity": "0.7265"
     }
   ]

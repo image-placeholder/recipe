@@ -52,7 +52,6 @@
     "cookTime": "",
     "totalTime": null
   },
-  "_url": "layered-cheese-ball-3",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -101,7 +100,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "_url": "cheese-ball-2",
+      "url": "cheese-ball-2",
       "similarity": "0.7452"
     },
     {
@@ -152,7 +151,7 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
-      "_url": "party-salmon-ball-8",
+      "url": "party-salmon-ball-8",
       "similarity": "0.6261"
     },
     {
@@ -209,7 +208,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "_url": "cheese-dip-in-a-bread-bowl-4",
+      "url": "cheese-dip-in-a-bread-bowl-4",
       "similarity": "0.5656"
     },
     {
@@ -254,7 +253,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "_url": "stuffed-mushrooms-32",
+      "url": "stuffed-mushrooms-32",
       "similarity": "0.5616"
     },
     {
@@ -294,7 +293,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "_url": "fruit-dip-24",
+      "url": "fruit-dip-24",
       "similarity": "0.5557"
     }
   ]
