@@ -1,4 +1,4 @@
-import { pipeline } from '@huggingface/transformers';
+import { pipeline } from '@xenova/transformers';
 import path from "path";
 import fs from "fs";
 
