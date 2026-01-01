@@ -156,7 +156,7 @@ const generateRecipes = async () => {
 
       // Run Recommendation System
       const _recipe = await similarRecipes(recipe, recipesWithUrls, 5);
-      
+      console.log(_recipe);
       // Write individual recipe file
       fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2));
 
