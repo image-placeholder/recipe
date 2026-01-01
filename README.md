@@ -1,3 +1,49 @@
+# Recommendation System
+
+* The `_similar` array is **generated using a recommendation algorithm** and is available ONLY to use in `_layouts/recipe.html`.
+* It finds recipes that are most similar to the current recipe based on:
+
+  * Keywords
+  * Category (`recipeCategory`)
+  * Cuisine (`recipeCuisine`)
+* Each recipe in `_similar` includes:
+  * `url` – link to that recipe page
+  * `_naturalized_times` – human-readable prep/cook/total times
+  * `similarity` – a numeric score (0–1) representing how similar it is to the current recipe
+  * You can use any other fields from the JSON schema (`prepTime`, `cookTime`, `author`, etc.) in the template.
+* This allows you to **dynamically populate similar recipes** on each recipe page during your Jekyll build.
+
+  
+
+## Using `_similar` in a Recipe Page
+
+In your `_layouts/recipe.html`, you can iterate over the `_similar` array using standard Jekyll/Liquid syntax:
+
+```liquid
+<h2>Similar Recipes</h2>
+<ul>
+{% for recipe in page._similar %}
+  <li>
+    <a href="{{ recipe.url }}">{{ recipe.name }}</a>  
+    - {{ recipe.description }}  
+    - Similarity: {{ recipe.similarity }}
+  </li>
+{% endfor %}
+</ul>
+```
+
+## Example Output
+
+For example, using the `_similar` array for a "Bacon Broccoli Salad" recipe might produce:
+
+```
+Bacon Broccoli Salad  
+A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.  
+recipes/bacon-broccoli-salad-63 0.49
+```
+
+---
+
 ## ⚡ Quick Start
 
 ### Fetch all recipes
