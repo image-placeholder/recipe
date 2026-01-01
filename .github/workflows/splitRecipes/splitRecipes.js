@@ -155,7 +155,8 @@ const generateRecipes = async () => {
 
       // Run Recommendation System (Await now works correctly)
       const recipeWithRecs = await similarRecipes(recipe, recipesWithUrls, 5);
-      
+
+      delete recipeWithRecs.url; // if you don't it will get stuck in /recipe/#id.json in Jekyll build. 
       // Write individual recipe file
       fs.writeFileSync(
         path.join(filePath, fileName), 
