@@ -2,16 +2,19 @@ import { pipeline } from '@xenova/transformers';
 import path from "path";
 import fs from "fs";
 
-
-export class RecipeEngine {
+ export class RecipeEngine {
   constructor(storagePath = './embeddings.json') {
-    this.storagePath = storagePath;
     this.extractor = null;
-    this.cache = this._loadCache();
+    this.storagePath = path.resolve(storagePath);
+    this.embeddingCache = new Map();
+    
+    // Load existing embeddings from disk immediately
+    this._loadFromDisk();
   }
 
   async init() {
     if (!this.extractor) {
+      // Note: In CommonJS, we use the standard package name
       this.extractor = await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2', {
         // q8 uses significantly less RAM than the default fp32
         dtype: 'q8', 
@@ -19,61 +22,59 @@ export class RecipeEngine {
     }
   }
 
-  _loadCache() {
-    if (fs.existsSync(this.storagePath)) {
-      return JSON.parse(fs.readFileSync(this.storagePath, 'utf8'));
+  _loadFromDisk() {
+    try {
+      if (fs.existsSync(this.storagePath)) {
+        const data = JSON.parse(fs.readFileSync(this.storagePath, 'utf8'));
+        // Convert plain object back to Map
+        this.embeddingCache = new Map(Object.entries(data));
+        console.log(`💾 Loaded ${this.embeddingCache.size} embeddings from cache.`);
+      }
+    } catch (err) {
+      console.error("⚠️ Could not load cache file, starting fresh:", err.message);
     }
-    return {};
   }
 
-  /**
-   * Process in small batches to prevent Exit Code 143
-   */
-  async buildIndex(recipes, batchSize = 5) {
-    await this.init();
-    const toProcess = recipes.filter(r => !this.cache[r.id || r.name]);
-    
-    console.log(`Processing ${toProcess.length} new recipes in batches of ${batchSize}...`);
-
-    for (let i = 0; i < toProcess.length; i += batchSize) {
-      const batch = toProcess.slice(i, i + batchSize);
-      const texts = batch.map(r => `${r.name} ${r.recipeIngredient.join(' ')}`);
-      
-      // Compute embeddings for the batch
-      const output = await this.extractor(texts, { pooling: 'mean', normalize: true });
-
-      // Save to local cache object
-      batch.forEach((recipe, idx) => {
-        this.cache[recipe.id || recipe.name] = Array.from(output[idx].data);
-      });
-
-      // Periodic save to disk to keep memory low
-      fs.writeFileSync(this.storagePath, JSON.stringify(this.cache));
-      console.log(`Buffered batch ${Math.floor(i / batchSize) + 1}`);
-      
-      // Manual delay to allow Node.js garbage collection to breathe
-      await new Promise(resolve => setTimeout(resolve, 100));
+  _saveToDisk() {
+    try {
+      const data = Object.fromEntries(this.embeddingCache);
+      fs.writeFileSync(this.storagePath, JSON.stringify(data), 'utf8');
+    } catch (err) {
+      console.error("⚠️ Failed to save embeddings to disk:", err);
     }
+  }
+
+  _prepareText(recipe) {
+    const ingredients = recipe.recipeIngredient?.join(', ') || '';
+    const keywords = Array.isArray(recipe.keywords) ? recipe.keywords.join(', ') : (recipe.keywords || '');
+    return `Recipe: ${recipe.name}. Ingredients: ${ingredients}. Keywords: ${keywords}.`
+      .toLowerCase()
+      .replace(/\s+/g, ' ');
   }
 
   _similarity(v1, v2) {
     return v1.reduce((acc, val, i) => acc + val * v2[i], 0);
   }
 
-  getSimilar(targetId, allRecipes, topN = 3) {
-    const targetVec = this.cache[targetId];
-    if (!targetVec) return [];
+  async precomputeEmbeddings(recipes) {
+    // Only process recipes that don't have a cached ID
+    const toProcess = recipes.filter(r => !this.embeddingCache.has(r.id || r.name));
+    
+    if (toProcess.length > 0) {
+      await this.init();
+      const texts = toProcess.map(r => this._prepareText(r));
+      const output = await this.extractor(texts, { pooling: 'mean', normalize: true });
 
-    return allRecipes
-      .filter(r => (r.id || r.name) !== targetId)
-      .map(r => ({
-        ...r,
-        score: this._similarity(targetVec, this.cache[r.id || r.name])
-      }))
-      .sort((a, b) => b.score - a.score)
-      .slice(0, topN);
+      toProcess.forEach((recipe, i) => {
+        const vector = Array.from(output[i].data);
+        const key = recipe.id || recipe.name;
+        this.embeddingCache.set(key, vector);
+      });
+
+      // Persist new embeddings to JSON
+      this._saveToDisk();
+    }
   }
-
 
   async getRecommendations(targetRecipe, allRecipes, topN = 3) {
     const targetKey = targetRecipe.id || targetRecipe.name;
