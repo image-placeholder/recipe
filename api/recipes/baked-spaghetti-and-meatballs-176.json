@@ -77,110 +77,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.8799"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-187",
-      "similarity": "0.8799"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Spaghetti Casserole",
       "author": {
         "@type": "Person",
@@ -246,7 +142,195 @@
         "totalTime": "50 minutes"
       },
       "url": "spaghetti-casserole-178",
-      "similarity": "0.8762"
+      "similarity": "0.8469"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Continue cooking gently for another 2 hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-177",
+      "similarity": "0.8381"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-187",
+      "similarity": "0.8381"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meatball Pasta Stew",
+      "author": {
+        "@type": "Person",
+        "name": "Grace Morlock"
+      },
+      "description": "A savory stew with homemade meatballs, pasta, and a rich tomato-based sauce.",
+      "recipeCategory": "Stew",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 Tbsp tomato paste",
+        "1 lb hamburger",
+        "1 can (14 oz) diced tomatoes, undrained",
+        "2 eggs",
+        "¼ to ⅛ cup dry bread crumbs",
+        "1 cup chopped green onion",
+        "¾ tsp thyme",
+        "½ tsp salt",
+        "1½ cups sliced carrots",
+        "1½ cups chopped zucchini",
+        "½ tsp ground mustard",
+        "¼ tsp pepper",
+        "1 cup chopped green pepper",
+        "1 cup chopped red pepper",
+        "1 cup chopped onion",
+        "2 cloves garlic, minced",
+        "2 Tbsp all-purpose flour",
+        "1½ cups canned beef broth",
+        "2 cups cooked spiral pasta",
+        "1 Tbsp parsley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine hamburger, egg, bread crumbs, onion, salt, mustard, and pepper to make meatballs. Shape into 1-inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs on a greased baking sheet and bake at 350°F for 10 to 15 minutes, or until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, cook onion and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir constantly for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add beef broth, stirring constantly until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomato paste, undrained tomatoes, bay leaf, and thyme. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add meatballs, carrots, zucchini, peppers, and parsley. Simmer for 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked pasta and heat until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bay leaf before serving."
+        }
+      ],
+      "keywords": "meatball stew, pasta stew, tomato-based sauce",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 25 minutes"
+      },
+      "url": "meatball-pasta-stew-179",
+      "similarity": "0.8069"
     },
     {
       "@context": "https://schema.org/",
@@ -323,79 +407,7 @@
         "totalTime": "50 minutes"
       },
       "url": "pizza-casserole-171",
-      "similarity": "0.8496"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Pizza Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "June Schroeder"
-      },
-      "description": "A hearty pizza casserole made with spaghetti, hamburger, pepperoni, and mozzarella cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 9x13 inch pan",
-      "recipeIngredient": [
-        "8 or 7 oz spaghetti",
-        "1 lb hamburger",
-        "1/2 cup chopped onion",
-        "2 Tbsp margarine or butter",
-        "2 eggs, beaten",
-        "1/3 cup grated Parmesan cheese",
-        "1 (32 oz) jar spaghetti sauce",
-        "1 pkg (3 oz) pepperoni, sliced",
-        "4 cups diced mozzarella cheese",
-        "1 tsp dried oregano leaves",
-        "1 tsp cooking oil or olive oil",
-        "Salt to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook spaghetti as per package instructions and drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a bowl, combine cooked spaghetti, margarine or butter, eggs, and Parmesan cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the spaghetti mixture in a greased 9x13 inch pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Brown hamburger and onion in a skillet and spoon over the spaghetti mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread spaghetti sauce over the hamburger mixture and cover with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with oregano and drizzle with oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange pepperoni slices on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated 350°F oven for 20 to 30 minutes."
-        }
-      ],
-      "keywords": "pizza casserole, spaghetti, hamburger, pepperoni",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "pizza-casserole-202",
-      "similarity": "0.8496"
+      "similarity": "0.7929"
     }
   ]
 }

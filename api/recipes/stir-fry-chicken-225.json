@@ -62,166 +62,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Vegetable Dip",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Lori Allen"
-        },
-        {
-          "@type": "Person",
-          "name": "Louise Wein"
-        }
-      ],
-      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "1 serving dish",
-      "recipeIngredient": [
-        "1 tsp Accent",
-        "1 cup sour cream",
-        "¼ tsp salt",
-        "1 cup mayonnaise",
-        "¼ tsp celery salt",
-        "1 tsp parsley flakes",
-        "2 drops Tabasco sauce (can be omitted)",
-        "½ tsp dill weed",
-        "1 tsp garlic salt",
-        "Assorted vegetables or crackers for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together in a dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill before serving with chips, crackers, or vegetables."
-        }
-      ],
-      "keywords": "vegetable dip, sour cream dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
-      },
-      "url": "vegetable-dip-17",
-      "similarity": "0.7643"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Vegetable Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Jacqui Wein"
-      },
-      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeIngredient": [
-        "1 cup Miracle Whip",
-        "1/8 tsp garlic salt",
-        "1 tsp Worcestershire sauce",
-        "2 tsp minced onion",
-        "2 tsp chopped celery",
-        "2 hard-boiled eggs, finely chopped",
-        "2 tsp vinegar",
-        "Fresh vegetables for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a bowl, mix all ingredients together until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with fresh vegetables."
-        }
-      ],
-      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "url": "vegetable-dip-18",
-      "similarity": "0.7643"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken-Pineapple Stir-Fry",
-      "author": {
-        "@type": "Person",
-        "name": "Louise Wein"
-      },
-      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT10M",
-      "cookTime": "PT5M",
-      "totalTime": "PT15M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "12 oz deboned chicken breast",
-        "2 tsp cornstarch",
-        "1 onion, chopped",
-        "¼ tsp cinnamon",
-        "1 cup diced celery",
-        "1½ tsp soya sauce",
-        "1 cup green pepper strips",
-        "2 tsp margarine",
-        "2 cups pineapple chunks (with juice reserved)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat and cook until the sauce is clear and thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the stir-fry over hot rice."
-        }
-      ],
-      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "15 minutes"
-      },
-      "url": "chicken-pineapple-stir-fry-221",
-      "similarity": "0.7532"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Thai Chicken",
       "author": {
         "@type": "Person",
@@ -291,7 +131,72 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "similarity": "0.7494"
+      "similarity": "0.7234"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken-Pineapple Stir-Fry",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "12 oz deboned chicken breast",
+        "2 tsp cornstarch",
+        "1 onion, chopped",
+        "¼ tsp cinnamon",
+        "1 cup diced celery",
+        "1½ tsp soya sauce",
+        "1 cup green pepper strips",
+        "2 tsp margarine",
+        "2 cups pineapple chunks (with juice reserved)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and cook until the sauce is clear and thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the stir-fry over hot rice."
+        }
+      ],
+      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "url": "chicken-pineapple-stir-fry-221",
+      "similarity": "0.7085"
     },
     {
       "@context": "https://schema.org/",
@@ -347,7 +252,139 @@
         "totalTime": "1 hour 15 minutes"
       },
       "url": "easy-curried-chicken-231",
-      "similarity": "0.7477"
+      "similarity": "0.6951"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Curry Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Leslie Jenni"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "International",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "6 to 8 boneless chicken breasts",
+        "¼ cup Dijon mustard",
+        "2 Tbsp prepared mustard",
+        "1 Tbsp lime juice",
+        "¼ cup butter",
+        "1 tsp curry powder",
+        "½ cup honey"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients except chicken breasts in a microwave-safe bowl until butter is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken breasts in a shallow baking dish sprayed with nonstick spray."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the curry mixture over the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake uncovered for 1 hour, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over rice."
+        }
+      ],
+      "keywords": "curry chicken, baked chicken, honey mustard chicken",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "curry-chicken-230",
+      "similarity": "0.6724"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Classy Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "A creamy, curry-flavored chicken dish with asparagus or broccoli and a cheddar cheese topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "3 skinless, boneless chicken breasts",
+        "1 can cream of chicken soup",
+        "½ cup mayonnaise",
+        "¼ tsp pepper",
+        "1 tsp curry powder",
+        "3 Tbsp oil",
+        "1 tsp lemon juice",
+        "1 (10 oz) pkg frozen asparagus or broccoli",
+        "1 cup grated cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the chicken into 2×4 inch pieces and sprinkle with pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Saute the chicken slowly in oil over medium heat until white and clear, about 6 minutes. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook asparagus or broccoli until tender crisp, drain, and arrange in the bottom of a buttered 7-inch diameter casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken on top of the asparagus or broccoli layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream of chicken soup, mayonnaise, curry powder, and lemon juice together and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the grated cheddar cheese over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, at 375 °F for 30 to 35 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "creamy chicken, curry chicken, asparagus, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "classy-chicken-243",
+      "similarity": "0.6450"
     }
   ]
 }

@@ -125,194 +125,62 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "similarity": "0.7456"
+      "similarity": "0.6874"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chili Turkey",
+      "name": "Chinese Rice Salad",
       "author": {
         "@type": "Person",
-        "name": "Dianne Finkbeiner"
+        "name": "Ruth Haines"
       },
-      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 tsp ground coriander",
-        "1½ tsp vegetable oil",
-        "¼ tsp salt",
-        "1 large chopped onion",
-        "½ tsp ground cumin",
-        "1 large chopped green pepper",
-        "¼ tsp cinnamon",
-        "2 chopped garlic cloves",
-        "2 to 3 Tbsp chili powder",
-        "1⅓ lb ground turkey",
-        "1 can red kidney beans",
-        "1¾ cups chicken broth",
-        "6 oz whole wheat spaghetti",
-        "3 tsp tomato paste",
-        "½ cup shredded cheese",
-        "1½ tsp dried oregano"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic and cook for 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the pasta as directed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
-        }
-      ],
-      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "chili-turkey-247",
-      "similarity": "0.7076"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Crispy Chicken Coating Mix",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Finkbeiner"
-      },
-      "description": "A dry mix for coating chicken, made with bread crumbs, spices, and herbs.",
-      "recipeCategory": "Ingredient",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
+      "description": "A flavorful salad made with Minute Rice, frozen peas, chopped celery, and a savory dressing, optionally garnished with chow mein noodles and shrimp.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
       "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 container of mix",
+      "totalTime": "PT15M",
       "recipeIngredient": [
-        "500 mL fine dry bread crumbs",
-        "2 mL celery salt",
-        "1 mL garlic powder",
-        "30 mL vegetable oil (not used in mix, possibly for instructions not given)",
-        "Dash pepper",
-        "4 mL ground sage",
-        "2 mL paprika",
-        "3 mL ground thyme"
+        "1⅓ cups cooked Minute Rice",
+        "1 (10 oz) package frozen peas",
+        "1½ cups chopped celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "1 Tbsp soy sauce",
+        "3 tsp malt vinegar",
+        "2 tsp curry powder",
+        "½ tsp sugar",
+        "Dressing: ½ cup oil",
+        "Chow mein noodles for garnish (optional)",
+        "1 can drained shrimp (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine all dry ingredients (bread crumbs, celery salt, garlic powder, pepper, sage, paprika, thyme) in a bowl."
+          "text": "Combine cooked rice, frozen peas, chopped celery, and onion in a large bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Rub the mixture together well to ensure even distribution of ingredients."
+          "text": "In a separate bowl, mix together the dressing ingredients (oil, soy sauce, malt vinegar, curry powder, salt, and sugar)."
         },
         {
           "@type": "HowToStep",
-          "text": "Store the mix in a tightly sealed container."
+          "text": "Pour the dressing over the rice mixture and toss to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with chow mein noodles and/or add drained shrimp if desired."
         }
       ],
-      "keywords": "chicken coating, crispy chicken, breading mix",
+      "keywords": "Chinese rice salad, savory salad, Minute Rice",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
+        "prepTime": "15 minutes",
         "cookTime": "",
-        "totalTime": "5 minutes"
+        "totalTime": "15 minutes"
       },
-      "url": "crispy-chicken-coating-mix-249",
-      "similarity": "0.7043"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Lemon Chicken With Thyme",
-      "author": {
-        "@type": "Person",
-        "name": "Karen Schwartzentruber"
-      },
-      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 Tbsp flour",
-        "1 Tbsp margarine",
-        "1 cup chicken broth",
-        "1/2 tsp salt",
-        "1/4 tsp pepper",
-        "3 Tbsp lemon juice",
-        "1/2 tsp thyme",
-        "4 boneless skinless chicken breasts",
-        "2 Tbsp olive oil",
-        "1 medium onion (optional)",
-        "Lemon halves and chopped parsley for garnish (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
-        }
-      ],
-      "keywords": "lemon chicken, thyme, chicken breast",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "lemon-chicken-with-thyme-224",
-      "similarity": "0.6965"
+      "url": "chinese-rice-salad-81",
+      "similarity": "0.6559"
     },
     {
       "@context": "https://schema.org/",
@@ -374,7 +242,124 @@
         "totalTime": "35 minutes"
       },
       "url": "stir-fry-chicken-225",
-      "similarity": "0.6964"
+      "similarity": "0.6388"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Broccoli Stir-Fry",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A quick and flavorful stir-fry of beef sirloin and broccoli in a savory soy and oyster sauce mixture.",
+      "recipeCategory": "Main Dish",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "3½ cups, serves 4",
+      "recipeIngredient": [
+        "1 Tbsp soy sauce",
+        "1 tsp cornstarch",
+        "3 cups broccoli florets, sliced",
+        "2 Tbsp oyster sauce",
+        "1 Tbsp cooking oil (first amount)",
+        "1 Tbsp cooking oil (second amount)",
+        "¾ lb sirloin steak, sliced into 1/8 inch thin strips",
+        "½ tsp salt",
+        "¼ tsp pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Stir soy sauce into cornstarch in a small cup. Add oyster sauce, salt, and pepper. Stir and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat wok to medium-high. Add the first amount of cooking oil. Add broccoli and stir-fry for 4 minutes until tender-crisp. Transfer to a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the second amount of cooking oil to the hot wok. Add beef strips and stir-fry until desired doneness."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add broccoli back into the wok. Stir the cornstarch mixture and pour into the beef mixture. Cook until boiling and thickened."
+        }
+      ],
+      "keywords": "beef stir-fry, broccoli, soy sauce, oyster sauce",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "beef-broccoli-stir-fry-148",
+      "similarity": "0.6377"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken with a Chinese Accent",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the chicken to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken with rice."
+        }
+      ],
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chicken-with-a-chinese-accent-245",
+      "similarity": "0.6098"
     }
   ]
 }

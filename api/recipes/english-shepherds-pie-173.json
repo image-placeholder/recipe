@@ -133,7 +133,7 @@
         "totalTime": "40 minutes"
       },
       "url": "shepherds-pie-170",
-      "similarity": "0.8435"
+      "similarity": "0.9149"
     },
     {
       "@context": "https://schema.org/",
@@ -208,211 +208,190 @@
         "totalTime": "55 minutes"
       },
       "url": "hamburger-pie-169",
-      "similarity": "0.7683"
+      "similarity": "0.6979"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hawaiian Meatballs",
+      "name": "Beef and Rice Casserole",
       "author": {
         "@type": "Person",
-        "name": "Heather Clarke"
+        "name": "Kurtis Brand"
       },
-      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
-      "recipeCategory": "Meat",
-      "recipeCuisine": "Hawaiian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb ground beef",
-        "2 eggs",
-        "½ cup chopped onion",
-        "¾ cup bread crumbs",
-        "¼ tsp salt",
-        "¼ tsp garlic salt",
-        "½ tsp salt",
-        "¼ tsp ginger",
-        "¼ tsp dry mustard",
-        "2 Tbsp soya sauce",
-        "¼ cup vinegar",
-        "6 Tbsp brown sugar",
-        "6 Tbsp ketchup",
-        "2 Tbsp shortening",
-        "1 (10 oz) can crushed pineapple",
-        "1 cup water",
-        "2 Tbsp cornstarch"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix the meat mixture together and shape into balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove the meatballs from the pan and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
-        }
-      ],
-      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "hawaiian-meatballs-152",
-      "similarity": "0.7355"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Swedish Meatballs",
-      "author": {
-        "@type": "Person",
-        "name": "Nichole Schwartzentruber"
-      },
-      "description": "Classic Swedish meatballs made with ground beef, served in a rich gravy, and optionally served with rice, potatoes, or pasta.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Swedish",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb ground beef",
-        "2 cups soft bread crumbs",
-        "2 cups milk",
-        "2 eggs, well beaten",
-        "3 medium onions, minced",
-        "1¼ tsp salt",
-        "¼ tsp pepper",
-        "¼ tsp ground nutmeg",
-        "Cooking oil or fat for frying",
-        "2 cups hot water",
-        "2 Tbsp flour",
-        "¼ cup cold water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine beef, bread crumbs, milk, eggs, onions, salt, pepper, and nutmeg. Mix really well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shape mixture into 1-inch balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat fat in a skillet over medium heat. Cook meatballs, turning with a spoon until browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove cooked meatballs with a slotted spoon and place in a bowl. Repeat until all meatballs are cooked, adding more fat as needed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour hot water into the skillet and stir to loosen browned particles."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Blend flour and cold water, then stir into the skillet. Cook until the gravy thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour gravy over meatballs and cook for about 25 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with rice, potatoes, or pasta."
-        }
-      ],
-      "keywords": "Swedish meatballs, ground beef, gravy",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
-      },
-      "url": "swedish-meatballs-162",
-      "similarity": "0.7204"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Glenda Wuerth"
-      },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
-      "recipeCategory": "Main Course",
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
       "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
+        "1⅓ cups cooked rice",
         "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
+          "text": "Sauté celery and onion in butter until soft and tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+          "text": "Place rice in a greased 1½ quart casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
+          "text": "Top the rice with the celery mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+          "text": "Arrange the cooked beef on top of the celery mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
         }
       ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "keywords": "beef casserole, rice casserole, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.7196"
+      "url": "beef-and-rice-casserole-168",
+      "similarity": "0.6065"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "similarity": "0.6024"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef Broccoli Stir-Fry",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A quick and flavorful stir-fry of beef sirloin and broccoli in a savory soy and oyster sauce mixture.",
+      "recipeCategory": "Main Dish",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "3½ cups, serves 4",
+      "recipeIngredient": [
+        "1 Tbsp soy sauce",
+        "1 tsp cornstarch",
+        "3 cups broccoli florets, sliced",
+        "2 Tbsp oyster sauce",
+        "1 Tbsp cooking oil (first amount)",
+        "1 Tbsp cooking oil (second amount)",
+        "¾ lb sirloin steak, sliced into 1/8 inch thin strips",
+        "½ tsp salt",
+        "¼ tsp pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Stir soy sauce into cornstarch in a small cup. Add oyster sauce, salt, and pepper. Stir and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat wok to medium-high. Add the first amount of cooking oil. Add broccoli and stir-fry for 4 minutes until tender-crisp. Transfer to a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the second amount of cooking oil to the hot wok. Add beef strips and stir-fry until desired doneness."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add broccoli back into the wok. Stir the cornstarch mixture and pour into the beef mixture. Cook until boiling and thickened."
+        }
+      ],
+      "keywords": "beef stir-fry, broccoli, soy sauce, oyster sauce",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "beef-broccoli-stir-fry-148",
+      "similarity": "0.5740"
     }
   ]
 }

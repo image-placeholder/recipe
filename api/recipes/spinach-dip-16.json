@@ -57,119 +57,59 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cornbread Salad",
+      "name": "Hot Cheese Dip",
       "author": {
         "@type": "Person",
-        "name": "Lorna Finkbeiner"
+        "name": "Heather Clarke"
       },
-      "description": "A layered salad with crumbled cornbread, black beans, corn, cheese, and a creamy dressing, perfect for chilling before serving.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 (9 oz) package cornbread mix",
-        "1 (11 oz) can whole kernel corn, drained",
-        "1 (8 oz) package cheddar cheese, shredded",
-        "1 (15 oz) can black beans, rinsed and drained",
-        "½ cup salad dressing or mayonnaise",
-        "¼ cup lime juice",
-        "1 tsp ground cumin",
-        "½ tsp salt",
-        "½ cup chopped fresh cilantro or parsley",
-        "1 large red bell pepper, chopped",
-        "1 bunch green onions, chopped",
-        "6 plum or tiny tim tomatoes, shredded",
-        "1 head iceberg lettuce, chopped",
-        "Onion curls for garnish"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Prepare cornbread mix according to package directions and let cool. Crumble into pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a food processor or blender, combine salad dressing (or mayonnaise), lime juice, cumin, and salt. Process until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Layer half of the lettuce, cornbread, dressing mixture, beans, corn, cheese, red bell pepper, green onions, and tomatoes in a 4-quart bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Repeat the layers, finishing with the remaining dressing on top. Garnish as desired with cilantro or onion curls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and chill for 1 to 2 hours before serving."
-        }
-      ],
-      "keywords": "Cornbread salad, layered salad, Southwestern salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "1 hour 35 minutes"
-      },
-      "url": "cornbread-salad-71",
-      "similarity": "0.7312"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Water Chestnuts Wrapped in Bacon",
-      "author": {
-        "@type": "Person",
-        "name": "Diane Dinney"
-      },
-      "description": "Bacon-wrapped water chestnuts marinated in a savory mixture of soya sauce and Worcestershire sauce, then baked until crispy.",
+      "description": "A creamy bacon and cheddar dip baked inside a pumpernickel bread shell.",
       "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT1H15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "1 batch",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "1 bread bowl",
       "recipeIngredient": [
-        "2 cans water chestnuts",
-        "¼ cup soya sauce",
-        "½ lb bacon",
-        "1 tsp Worcestershire sauce",
-        "1 tsp garlic salt",
-        "2 tsp minced onions",
-        "Toothpicks"
+        "1 round pumpernickel bread loaf",
+        "1 (8 oz) package cream cheese",
+        "1 cup Hellmann's mayonnaise",
+        "½ cup grated cheddar cheese",
+        "½ cup bacon bits"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Marinate bacon in soya sauce, Worcestershire sauce, garlic salt, and minced onions for 1 hour."
+          "text": "Cut the top off the pumpernickel loaf and hollow it out, leaving a thick shell."
         },
         {
           "@type": "HowToStep",
-          "text": "Wrap bacon around chestnuts and secure with toothpicks."
+          "text": "Mix the cream cheese, mayonnaise, cheddar cheese, and bacon bits until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook in a 350°F oven until bacon is done.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          }
+          "text": "Spoon the mixture into the hollowed-out bread."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil, leaving the hole with the cheese mixture uncovered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325°F for 1½ hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the bread pieces."
         }
       ],
-      "keywords": "bacon-wrapped water chestnuts, appetizer, savory snack",
+      "keywords": "pumpernickel dip, hot bacon dip, cheddar dip",
       "_naturalized_times": {
-        "prepTime": "1 hour 15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "1 hour 35 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
       },
-      "url": "water-chestnuts-wrapped-in-bacon-39",
-      "similarity": "0.7287"
+      "url": "hot-cheese-dip-5",
+      "similarity": "0.7045"
     },
     {
       "@context": "https://schema.org/",
@@ -221,7 +161,7 @@
         "totalTime": "10 minutes"
       },
       "url": "vegetable-dip-17",
-      "similarity": "0.6999"
+      "similarity": "0.6779"
     },
     {
       "@context": "https://schema.org/",
@@ -264,68 +204,125 @@
         "totalTime": "5 minutes"
       },
       "url": "vegetable-dip-18",
-      "similarity": "0.6999"
+      "similarity": "0.6779"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Bacon Wrapped Water Chestnuts",
+      "name": "Cheese Dip in a Bread Bowl",
       "author": {
         "@type": "Person",
-        "name": "Suzanne Finkbeiner"
+        "name": "Sherri Haugh"
       },
-      "description": "Sweet and savory bacon-wrapped water chestnuts marinated overnight in a mixture of soya sauce and brown sugar.",
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
       "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT30M",
-      "totalTime": "PT8H45M",
-      "recipeYield": "1 batch",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
       "recipeIngredient": [
-        "1 can whole water chestnuts",
-        "¼ cup soya sauce",
-        "¼ cup brown sugar",
-        "½ lb bacon"
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown bacon and cut in half."
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
         },
         {
           "@type": "HowToStep",
-          "text": "Roll water chestnuts in white sugar, wrap with bacon, and secure with toothpicks."
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix brown sugar and soya sauce together."
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour mixture over bacon-wrapped water chestnuts and marinate overnight."
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
         }
       ],
-      "keywords": "bacon-wrapped water chestnuts, sweet and savory, appetizer",
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "8 hours 45 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
-      "url": "bacon-wrapped-water-chestnuts-40",
-      "similarity": "0.6931"
+      "url": "cheese-dip-in-a-bread-bowl-4",
+      "similarity": "0.6554"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Meghan Brand"
+      },
+      "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 large glass pan",
+      "recipeIngredient": [
+        "8 oz pkg cream cheese",
+        "500 g tub sour cream",
+        "¼ pkg taco seasoning mix",
+        "1 cup shredded cheddar cheese",
+        "1 small container salsa sauce",
+        "1 chopped red pepper",
+        "1 chopped green pepper",
+        "1 chopped tomato",
+        "Baked nacho chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the mixture in a large glass pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread salsa sauce over the cream cheese layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the salsa layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped red pepper, green pepper, and tomato on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with baked nacho chips."
+        }
+      ],
+      "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "nacho-dip-29",
+      "similarity": "0.6471"
     }
   ]
 }

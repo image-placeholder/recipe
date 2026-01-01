@@ -60,6 +60,130 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Meat Balls and Sour And Sweet Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Glenda Wuerth"
+      },
+      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb hamburger",
+        "1 slice dry bread (crumbs)",
+        "1 Tbsp cornstarch",
+        "¼ cup milk",
+        "1 tsp onion flakes or 1 tsp real onion",
+        "1 (19 oz) can pineapple, crushed",
+        "⅓ cup vinegar",
+        "1 tsp salt",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together and form into 1½ inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from oven and drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a large casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+        }
+      ],
+      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "similarity": "0.7542"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "2 Tbsp chopped onion",
+        "½ cup cracker crumbs",
+        "1 Tbsp crushed garlic",
+        "¼ tsp pepper",
+        "1 egg",
+        "1½ tsp soya sauce",
+        "⅔ cup milk",
+        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Broil to brown on all sides, watching carefully."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 30 minutes"
+      },
+      "url": "sweet-sour-meatballs-161",
+      "similarity": "0.7464"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Swedish Meatballs",
       "author": {
         "@type": "Person",
@@ -127,119 +251,7 @@
         "totalTime": "45 minutes"
       },
       "url": "swedish-meatballs-162",
-      "similarity": "0.6767"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sweet & Sour Meatballs",
-      "author": {
-        "@type": "Person",
-        "name": "Sharon Allen"
-      },
-      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H30M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 lb lean ground beef",
-        "2 Tbsp chopped onion",
-        "½ cup cracker crumbs",
-        "1 Tbsp crushed garlic",
-        "¼ tsp pepper",
-        "1 egg",
-        "1½ tsp soya sauce",
-        "⅔ cup milk",
-        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Broil to brown on all sides, watching carefully."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place meatballs in a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
-        }
-      ],
-      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 30 minutes"
-      },
-      "url": "sweet-sour-meatballs-161",
-      "similarity": "0.6692"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sausage Balls",
-      "author": {
-        "@type": "Person",
-        "name": "Irene Haugh"
-      },
-      "description": "Crispy sausage and cheddar balls perfect for snacking or parties, made with biscuit mix and baked until golden.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "About 50 balls",
-      "recipeIngredient": [
-        "1 can Campbell's cheddar soup",
-        "3 cups biscuit mix",
-        "1 lb bulk sausage meat (ground)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the sausage in a frying pan until fully cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cheddar soup to the browned sausage and stir until well mixed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the sausage mixture with the biscuit mix and blend until a dough forms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Form the dough into small balls (about 50 total)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the sausage balls on a cookie sheet and bake in a preheated 450°F oven for 15 to 20 minutes, or until golden brown."
-        }
-      ],
-      "keywords": "sausage balls, cheddar soup, biscuit mix, party snack",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "sausage-balls-44",
-      "similarity": "0.6619"
+      "similarity": "0.7131"
     },
     {
       "@context": "https://schema.org/",
@@ -308,70 +320,91 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "hawaiian-meatballs-152",
-      "similarity": "0.6454"
+      "similarity": "0.7062"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
+      "name": "Meatball Pasta Stew",
       "author": {
         "@type": "Person",
-        "name": "Glenda Wuerth"
+        "name": "Grace Morlock"
       },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
-      "recipeCategory": "Main Course",
+      "description": "A savory stew with homemade meatballs, pasta, and a rich tomato-based sauce.",
+      "recipeCategory": "Stew",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
+      "prepTime": "PT30M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H25M",
       "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
-        "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
+        "2 Tbsp tomato paste",
+        "1 lb hamburger",
+        "1 can (14 oz) diced tomatoes, undrained",
+        "2 eggs",
+        "¼ to ⅛ cup dry bread crumbs",
+        "1 cup chopped green onion",
+        "¾ tsp thyme",
+        "½ tsp salt",
+        "1½ cups sliced carrots",
+        "1½ cups chopped zucchini",
+        "½ tsp ground mustard",
+        "¼ tsp pepper",
+        "1 cup chopped green pepper",
+        "1 cup chopped red pepper",
+        "1 cup chopped onion",
+        "2 cloves garlic, minced",
+        "2 Tbsp all-purpose flour",
+        "1½ cups canned beef broth",
+        "2 cups cooked spiral pasta",
+        "1 Tbsp parsley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
+          "text": "Combine hamburger, egg, bread crumbs, onion, salt, mustard, and pepper to make meatballs. Shape into 1-inch balls."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+          "text": "Place meatballs on a greased baking sheet and bake at 350°F for 10 to 15 minutes, or until browned."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
+          "text": "In a large pot, cook onion and garlic until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
+          "text": "Add flour and stir constantly for 1 minute."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+          "text": "Gradually add beef broth, stirring constantly until boiling."
         },
         {
           "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+          "text": "Add tomato paste, undrained tomatoes, bay leaf, and thyme. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add meatballs, carrots, zucchini, peppers, and parsley. Simmer for 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked pasta and heat until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bay leaf before serving."
         }
       ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "keywords": "meatball stew, pasta stew, tomato-based sauce",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
+        "prepTime": "30 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 25 minutes"
       },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.6417"
+      "url": "meatball-pasta-stew-179",
+      "similarity": "0.6771"
     }
   ]
 }

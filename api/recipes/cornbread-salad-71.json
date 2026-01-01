@@ -62,6 +62,71 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Nacho Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A spicy nacho salad with ground beef, lettuce, tomatoes, and nacho chips, topped with a creamy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1/2 romaine lettuce, shredded",
+        "1/4 lb lean ground beef",
+        "1/2 onion, chopped",
+        "1 clove garlic, crushed",
+        "1/2 cup Monterey Jack cheese (or mozzarella), shredded",
+        "1/2 cup nacho chips, lightly crushed",
+        "2 tomatoes, coarsely diced",
+        "1/2 tsp cayenne pepper",
+        "1/4 cup mayonnaise",
+        "1 tsp relish",
+        "1 Tbsp ketchup",
+        "2 drops hot pepper sauce (Tabasco)",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spices and water to the beef mixture. Bring to a boil, then simmer for 15 minutes. Let cool for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large salad bowl, mix together the shredded lettuce, diced tomatoes, shredded cheese, and crushed nacho chips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix the mayonnaise, relish, ketchup, and hot pepper sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad and add the cooled meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad to combine all ingredients and serve."
+        }
+      ],
+      "keywords": "nacho salad, spicy salad, ground beef salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "nacho-salad-73",
+      "similarity": "0.6623"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Black Bean Salad",
       "author": {
         "@type": "Person",
@@ -115,255 +180,148 @@
         "totalTime": "15 minutes"
       },
       "url": "black-bean-salad-48",
-      "similarity": "0.7485"
+      "similarity": "0.6469"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Corn Chowder",
+      "name": "Salad Dressing",
       "author": {
         "@type": "Person",
-        "name": "Nola Ratz"
+        "name": "Marie Dinney"
       },
-      "description": "A creamy corn chowder with bacon, potatoes, and a touch of milk.",
-      "recipeCategory": "Soup",
+      "description": "A cooked salad dressing made with eggs, sugar, mustard, and vinegar, thickened with cornstarch.",
+      "recipeCategory": "Salad Dressing",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT25M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
+      "prepTime": "PT5M",
+      "cookTime": "PT8M",
+      "totalTime": "PT13M",
+      "recipeYield": "1 batch",
       "recipeIngredient": [
-        "2 cups hot chicken stock",
-        "6 slices lean bacon",
-        "½ cup sliced onions",
-        "3 cups finely diced potatoes",
-        "½ cup chopped celery",
-        "1½ cups frozen or fresh corn kernels",
-        "1 Tbsp flour",
-        "¾ tsp salt",
-        "2½ cups milk",
-        "Pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Chop bacon and sauté in a large heavy pot with onions for 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add celery and cook until onions are transparent."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in flour, salt, and pepper. Cook for 4 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gradually blend in hot stock, then add potatoes. Cover and simmer for 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add corn and simmer for another 10 minutes, or until vegetables are tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Scald milk and add to soup for desired consistency."
-        }
-      ],
-      "keywords": "corn chowder, creamy soup, bacon soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "40 minutes"
-      },
-      "url": "corn-chowder-107",
-      "similarity": "0.7358"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Corn Chowder",
-      "author": {
-        "@type": "Person",
-        "name": "Nola Ratz"
-      },
-      "description": "A creamy corn chowder with bacon, potatoes, and celery.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT25M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "2 cups hot chicken stock",
-        "6 slices lean bacon",
-        "1 cup sliced onions",
-        "3 cups finely diced potatoes",
-        "½ cup chopped celery",
-        "1½ cups frozen or fresh corn kernels",
-        "1 Tbsp flour",
-        "¾ tsp salt",
-        "2½ cups milk",
-        "Pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Chop bacon and sauté for 5 minutes in a large heavy pot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add onions and celery; cook until transparent."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in flour, salt, and pepper; cook for 4 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gradually blend in hot stock, then add potatoes; cover and simmer for 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add corn and simmer for 10 minutes, or until vegetables are tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Scald milk and add to soup for desired consistency."
-        }
-      ],
-      "keywords": "corn chowder, creamy soup, bacon soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "40 minutes"
-      },
-      "url": "corn-chowder-110",
-      "similarity": "0.7358"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Noodles with Hamburg",
-      "author": {
-        "@type": "Person",
-        "name": "Carolyn Gower"
-      },
-      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "¼ tsp oregano",
-        "¼ tsp garlic powder",
-        "½ cup chopped onions (optional)",
         "1 tsp salt",
-        "⅓ cup chopped celery",
-        "¾ cup shredded cheddar cheese (optional)",
-        "2 cups canned tomatoes",
-        "2 cups cooked macaroni",
-        "1 (14 oz) can corn kernels",
-        "1 (10 oz) can tomato soup"
+        "2 eggs",
+        "1 cup white sugar",
+        "2 tsp dry mustard",
+        "1 cup vinegar",
+        "3 Tbsp cornstarch",
+        "1 cup 2% milk"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+          "text": "Mix all ingredients thoroughly."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
+          "text": "Cook in the microwave for approximately 8 minutes."
         }
       ],
-      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "keywords": "cooked salad dressing, creamy dressing",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
+        "prepTime": "5 minutes",
+        "cookTime": "8 minutes",
+        "totalTime": "13 minutes"
       },
-      "url": "noodles-with-hamburg-166",
-      "similarity": "0.7318"
+      "url": "salad-dressing-102",
+      "similarity": "0.6416"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spinach Dip",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Ruth Slaght"
-        },
-        {
-          "@type": "Person",
-          "name": "Jo Anne Pickering"
-        }
-      ],
-      "description": "A creamy spinach dip made with sour cream, mayonnaise, and Knorr vegetable soup mix, served in a hollowed-out pumpernickel bread loaf.",
-      "recipeCategory": "Appetizer",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Doris Ohmayer"
+      },
+      "description": "A creamy salad dressing cooked over boiling water, made with eggs, sugar, mustard, and vinegar.",
+      "recipeCategory": "Salad Dressing",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "about 4 cups of dip",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
       "recipeIngredient": [
-        "1 pkg (300 g) frozen chopped spinach, thawed and drained",
-        "1 can (10 oz) water chestnuts, drained and chopped",
-        "2 cups (500 mL) sour cream",
-        "1 cup mayonnaise",
-        "1 pkg Knorr vegetable soup mix",
-        "3 green onions, chopped",
-        "1 large round pumpernickel bread loaf (optional)"
+        "2 well-beaten eggs",
+        "2 tsp flour",
+        "½ cup white sugar",
+        "¾ cup white vinegar",
+        "1 heaping tsp dry mustard",
+        "¼ cup boiling water",
+        "Pinch of salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Squeeze excess moisture from the thawed spinach."
+          "text": "Mix eggs, sugar, mustard, and salt together with flour."
         },
         {
           "@type": "HowToStep",
-          "text": "In a bowl, combine the spinach, sour cream, mayonnaise, Knorr soup mix, water chestnuts, and green onions. Stir until well combined."
+          "text": "Add vinegar and boiling water to the egg mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover and refrigerate for at least 2 hours to allow flavors to blend."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If using a bread loaf, scoop out a large hollow through the top and fill with the dip mixture. Serve with bread cubes cut from the centre and/or assorted fresh vegetables."
+          "text": "Cook over boiling water until creamy."
         }
       ],
-      "keywords": "spinach dip, party appetizer, pumpernickel bread",
+      "keywords": "creamy salad dressing, cooked dressing",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
       },
-      "url": "spinach-dip-16",
-      "similarity": "0.7312"
+      "url": "salad-dressing-103",
+      "similarity": "0.6416"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Evelyn Pickering"
+      },
+      "description": "A thickened salad dressing made by boiling a mixture of eggs, sugar, flour, mustard, water, and vinegar, finished with butter.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "3 Tbsp flour",
+        "3 eggs",
+        "1 cup white sugar",
+        "1½ cups water",
+        "1 Tbsp dry mustard",
+        "1 cup vinegar",
+        "1 Tbsp butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat eggs and add sugar and dry ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil water and vinegar together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour egg mixture into vinegar-water mixture and boil until it thickens, stirring continually."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Take off heat and stir in 1 Tbsp butter."
+        }
+      ],
+      "keywords": "thickened salad dressing, boiled dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "salad-dressing-104",
+      "similarity": "0.6416"
     }
   ]
 }

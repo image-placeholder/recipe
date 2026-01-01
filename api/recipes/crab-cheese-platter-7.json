@@ -94,52 +94,7 @@
         "totalTime": "10 minutes"
       },
       "url": "crab-dip-20",
-      "similarity": "0.7853"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Shrimp Spread",
-      "author": {
-        "@type": "Person",
-        "name": "Janet Dearing"
-      },
-      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "recipeYield": "1 bowl",
-      "recipeIngredient": [
-        "1 can shrimp cocktail",
-        "3 green onions, finely chopped",
-        "1 tsp garlic powder",
-        "1 (8 oz) package cream cheese, softened",
-        "1 tsp Worcestershire sauce",
-        "1½ cups shredded cheddar cheese",
-        "Miracle Whip (as needed for consistency)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together in a medium bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mash the shrimp with a fork until well blended."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate before serving with crackers."
-        }
-      ],
-      "keywords": "shrimp spread, seafood dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": null,
-        "totalTime": null
-      },
-      "url": "shrimp-spread-10",
-      "similarity": "0.7634"
+      "similarity": "0.8988"
     },
     {
       "@context": "https://schema.org/",
@@ -203,81 +158,52 @@
         "totalTime": "32 minutes"
       },
       "url": "crab-stuffed-mushrooms-46",
-      "similarity": "0.7604"
+      "similarity": "0.7695"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sloppy Joe Squares",
+      "name": "Shrimp Spread",
       "author": {
         "@type": "Person",
-        "name": "Deb (Finkbeiner) Lord"
+        "name": "Janet Dearing"
       },
-      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
-      "recipeCategory": "Main Course",
+      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "8 servings",
+      "prepTime": "PT15M",
+      "recipeYield": "1 bowl",
       "recipeIngredient": [
-        "1 lb ground beef",
-        "1 small onion, minced",
-        "1/2 tsp Worcestershire sauce",
-        "3/4 cup ketchup",
-        "1 tsp salt",
-        "1/2 tsp pepper",
-        "1/4 tsp chili powder",
-        "2 Tbsp flour",
-        "2 packages Pillsbury crescent dinner rolls",
-        "Mozzarella cheese"
+        "1 can shrimp cocktail",
+        "3 green onions, finely chopped",
+        "1 tsp garlic powder",
+        "1 (8 oz) package cream cheese, softened",
+        "1 tsp Worcestershire sauce",
+        "1½ cups shredded cheddar cheese",
+        "Miracle Whip (as needed for consistency)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
+          "text": "Mix all ingredients together in a medium bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Blend in flour to thicken the mixture."
+          "text": "Mash the shrimp with a fork until well blended."
         },
         {
           "@type": "HowToStep",
-          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the beef mixture evenly over the layer of rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the beef mixture with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F until the crescent rolls are browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with a salad."
+          "text": "Refrigerate before serving with crackers."
         }
       ],
-      "keywords": "sloppy joe, casserole, crescent rolls, beef",
+      "keywords": "shrimp spread, seafood dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": null,
+        "totalTime": null
       },
-      "url": "sloppy-joe-squares-185",
-      "similarity": "0.7358"
+      "url": "shrimp-spread-10",
+      "similarity": "0.6968"
     },
     {
       "@context": "https://schema.org/",
@@ -341,7 +267,64 @@
         "totalTime": null
       },
       "url": "surprise-spread-11",
-      "similarity": "0.7347"
+      "similarity": "0.6856"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "cheese-dip-in-a-bread-bowl-4",
+      "similarity": "0.6764"
     }
   ]
 }

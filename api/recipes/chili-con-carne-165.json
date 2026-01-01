@@ -133,195 +133,200 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "similarity": "0.8248"
+      "similarity": "0.7198"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
+      "name": "Chili Con Queso (Nacho Cheese Dip)",
+      "author": [
         {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+          "@type": "Person",
+          "name": "Marti Mockler"
         },
         {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
+          "@type": "Person",
+          "name": "Irene Haugh"
         }
       ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.7943"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-187",
-      "similarity": "0.7943"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meatball Pasta Stew",
-      "author": {
-        "@type": "Person",
-        "name": "Grace Morlock"
-      },
-      "description": "A savory stew with homemade meatballs, pasta, and a rich tomato-based sauce.",
-      "recipeCategory": "Stew",
+      "description": "A warm, cheesy dip made with cream cheese, cheddar cheese soup, and processed cheese, perfect for tortilla chips.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H25M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 saucepan",
       "recipeIngredient": [
-        "2 Tbsp tomato paste",
-        "1 lb hamburger",
-        "1 can (14 oz) diced tomatoes, undrained",
-        "2 eggs",
-        "¼ to ⅛ cup dry bread crumbs",
-        "1 cup chopped green onion",
-        "¾ tsp thyme",
-        "½ tsp salt",
-        "1½ cups sliced carrots",
-        "1½ cups chopped zucchini",
-        "½ tsp ground mustard",
-        "¼ tsp pepper",
-        "1 cup chopped green pepper",
-        "1 cup chopped red pepper",
-        "1 cup chopped onion",
-        "2 cloves garlic, minced",
-        "2 Tbsp all-purpose flour",
-        "1½ cups canned beef broth",
-        "2 cups cooked spiral pasta",
-        "1 Tbsp parsley"
+        "1 pkg (227 g) cream cheese",
+        "4 slices processed cheese",
+        "10 oz can (284 mL) cheddar cheese soup",
+        "¼ to ½ cup salsa",
+        "Tortilla chips for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine hamburger, egg, bread crumbs, onion, salt, mustard, and pepper to make meatballs. Shape into 1-inch balls."
+          "text": "Let the cream cheese stand at room temperature to warm up."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs on a greased baking sheet and bake at 350°F for 10 to 15 minutes, or until browned."
+          "text": "In a saucepan, melt the cream cheese over heat."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large pot, cook onion and garlic until tender."
+          "text": "Add the cheddar cheese soup, stirring constantly until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Add flour and stir constantly for 1 minute."
+          "text": "Crumble the processed cheese into smaller pieces and melt it into the cheese mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Gradually add beef broth, stirring constantly until boiling."
+          "text": "Add salsa to taste, adjusting the amount based on the type of salsa used."
         },
         {
           "@type": "HowToStep",
-          "text": "Add tomato paste, undrained tomatoes, bay leaf, and thyme. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add meatballs, carrots, zucchini, peppers, and parsley. Simmer for 40 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cooked pasta and heat until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove bay leaf before serving."
+          "text": "Serve the Chili Con Queso hot with tortilla chips as a dip, or cold with tacos or chili."
         }
       ],
-      "keywords": "meatball stew, pasta stew, tomato-based sauce",
+      "keywords": "nacho cheese dip, chili con queso, cheesy dip, tortilla chip dip",
       "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 25 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
       },
-      "url": "meatball-pasta-stew-179",
-      "similarity": "0.7770"
+      "url": "chili-con-queso-nacho-cheese-dip-27",
+      "similarity": "0.6405"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "similarity": "0.6090"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef and Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kurtis Brand"
+      },
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
+      "recipeIngredient": [
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Sauté celery and onion in butter until soft and tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place rice in a greased 1½ quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the rice with the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "beef casserole, rice casserole, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "beef-and-rice-casserole-168",
+      "similarity": "0.6080"
     },
     {
       "@context": "https://schema.org/",
@@ -386,7 +391,7 @@
         "totalTime": "35 minutes"
       },
       "url": "nacho-salad-73",
-      "similarity": "0.7460"
+      "similarity": "0.5838"
     }
   ]
 }

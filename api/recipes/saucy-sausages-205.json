@@ -56,6 +56,99 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Cold Meat Mustard",
+      "author": {
+        "@type": "Person",
+        "name": "Alwinna Galloway"
+      },
+      "description": "A tangy mustard sauce for cold meats.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "totalTime": "PT5M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 tsp vinegar",
+        "3 heaping tsp mustard",
+        "4 heaping tsp Miracle Whip",
+        "8 tsp white sugar",
+        "2 tsp flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put in fridge."
+        }
+      ],
+      "keywords": "mustard sauce, cold meat, condiment",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": null,
+        "totalTime": "5 minutes"
+      },
+      "url": "cold-meat-mustard-122",
+      "similarity": "0.6607"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Zesty BBQ Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 cup ketchup",
+        "1 tsp dry mustard",
+        "1/4 cup white vinegar",
+        "1/4 tsp salt",
+        "1/2 cup brown sugar",
+        "1/4 tsp cayenne pepper",
+        "1 Tbsp chili powder",
+        "2 cloves garlic, crushed",
+        "1 Tbsp Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 10 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate or freeze for later use."
+        }
+      ],
+      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "zesty-bbq-sauce-136",
+      "similarity": "0.6249"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Bake Sausage Southwest",
       "author": {
         "@type": "Person",
@@ -127,118 +220,7 @@
         "totalTime": "1 hour 20 minutes"
       },
       "url": "bake-sausage-southwest-217",
-      "similarity": "0.7041"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Zesty BBQ Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Sharon Allen"
-      },
-      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 batch",
-      "recipeIngredient": [
-        "1 cup ketchup",
-        "1 tsp dry mustard",
-        "1/4 cup white vinegar",
-        "1/4 tsp salt",
-        "1/2 cup brown sugar",
-        "1/4 tsp cayenne pepper",
-        "1 Tbsp chili powder",
-        "2 cloves garlic, crushed",
-        "1 Tbsp Worcestershire sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients in a saucepan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer for 10 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate or freeze for later use."
-        }
-      ],
-      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "zesty-bbq-sauce-136",
-      "similarity": "0.7007"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Zippy Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Kate Cunningham"
-      },
-      "description": "A flavorful and spicy spaghetti sauce with sausage, hamburger, and taco seasoning.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 lb lean ground hamburger",
-        "2 jumbo summer sausage slices",
-        "1/2 onion, chopped",
-        "1 tsp garlic",
-        "1 tsp oregano flakes",
-        "1 tsp salt",
-        "1/4 tsp pepper",
-        "1 envelope regular taco seasoning (El Paso)",
-        "1 jar Ragu spaghetti sauce (700 mL)",
-        "1 can sliced mushrooms, drained"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the hamburger and chopped onion."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic, oregano, salt, pepper, and taco seasoning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chop the summer sausage into 1/4 inch pieces and add to the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the Ragu spaghetti sauce and drained mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer for 10 minutes."
-        }
-      ],
-      "keywords": "spaghetti sauce, zippy sauce, sausage, taco seasoning",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "zippy-spaghetti-sauce-188",
-      "similarity": "0.6927"
+      "similarity": "0.6223"
     },
     {
       "@context": "https://schema.org/",
@@ -301,76 +283,73 @@
         "totalTime": "55 minutes"
       },
       "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.6708"
+      "similarity": "0.6094"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hawaiian Meatballs",
+      "name": "South African Lamb",
       "author": {
         "@type": "Person",
-        "name": "Heather Clarke"
+        "name": "Barbara Robertson"
       },
-      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
-      "recipeCategory": "Meat",
-      "recipeCuisine": "Hawaiian-American",
+      "description": "A flavorful lamb stew with dried fruits, curry powder, and orange juice, simmered to tender perfection.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "South African",
       "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H50M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 lb ground beef",
-        "2 eggs",
-        "½ cup chopped onion",
-        "¾ cup bread crumbs",
-        "¼ tsp salt",
-        "¼ tsp garlic salt",
-        "½ tsp salt",
-        "¼ tsp ginger",
-        "¼ tsp dry mustard",
-        "2 Tbsp soya sauce",
-        "¼ cup vinegar",
-        "6 Tbsp brown sugar",
-        "6 Tbsp ketchup",
-        "2 Tbsp shortening",
-        "1 (10 oz) can crushed pineapple",
-        "1 cup water",
-        "2 Tbsp cornstarch"
+        "2½ cups chopped dried fruit (apples, apricots, raisins, etc.)",
+        "1 cup hot water",
+        "1 medium onion, chopped",
+        "1 Tbsp curry powder",
+        "½ cup orange juice",
+        "2 Tbsp red wine vinegar",
+        "1 Tbsp sugar",
+        "1 tsp tomato paste or ketchup",
+        "1 to 1½ lb lamb, cubed",
+        "Rice, bulgar, or couscous for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix the meat mixture together and shape into balls."
+          "text": "Combine dried fruit, orange juice, and hot water. Let stand for 1 to 2 hours to soak."
         },
         {
           "@type": "HowToStep",
-          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
+          "text": "Brown the lamb cubes and drain on paper towels."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove the meatballs from the pan and set aside."
+          "text": "Sauté the chopped onion until soft, then reduce heat to low and stir in curry powder."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
+          "text": "Add the soaked fruit and 1 cup of soaking liquid to the pan. Stir in vinegar, sugar, and tomato paste."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
+          "text": "Return the browned lamb to the pan, cover, and simmer for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
+          "text": "Uncover and allow the liquid to reduce to desired consistency."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with rice, bulgar, or couscous."
         }
       ],
-      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
+      "keywords": "South African lamb, lamb stew, curry lamb, dried fruit",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 50 minutes"
       },
-      "url": "hawaiian-meatballs-152",
-      "similarity": "0.6562"
+      "url": "south-african-lamb-215",
+      "similarity": "0.5751"
     }
   ]
 }

@@ -69,191 +69,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Noodles with Hamburg",
-      "author": {
-        "@type": "Person",
-        "name": "Carolyn Gower"
-      },
-      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "¼ tsp oregano",
-        "¼ tsp garlic powder",
-        "½ cup chopped onions (optional)",
-        "1 tsp salt",
-        "⅓ cup chopped celery",
-        "¾ cup shredded cheddar cheese (optional)",
-        "2 cups canned tomatoes",
-        "2 cups cooked macaroni",
-        "1 (14 oz) can corn kernels",
-        "1 (10 oz) can tomato soup"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
-        }
-      ],
-      "keywords": "hamburger casserole, noodle dish, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
-      },
-      "url": "noodles-with-hamburg-166",
-      "similarity": "0.8024"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Hamburg Noodle Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Grace Yearley"
-      },
-      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb ground beef",
-        "1 can cream of mushroom soup",
-        "1 medium onion",
-        "2 cans sliced mushrooms, drained",
-        "1 jar Ragu (700 mL)",
-        "1 pkg cooked elbow macaroni",
-        "1 can cream of celery soup",
-        "1 can cream of chicken soup",
-        "1 cup shredded mozzarella cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef and onion, then add the mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until the cheese is melted."
-        }
-      ],
-      "keywords": "casserole, ground beef, noodle dish",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "hamburg-noodle-casserole-172",
-      "similarity": "0.7918"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chinese Hamburger Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Meredith Mary"
-      },
-      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "Chinese-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "6 to 8 servings",
-      "recipeIngredient": [
-        "1 lb hamburger",
-        "½ cup warm water",
-        "½ cup uncooked rice",
-        "2 medium onions, chopped",
-        "1 cup sliced celery",
-        "1 can cream of mushroom soup",
-        "1 can cream of chicken soup (optional)",
-        "1 can mushrooms, drained",
-        "¼ cup soya sauce",
-        "¼ tsp pepper",
-        "1 tsp salt",
-        "1 cup bean sprouts (optional)",
-        "1 handful chow mein noodles"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add bean sprouts if using for a more authentic taste."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
-        }
-      ],
-      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "url": "chinese-hamburger-casserole-174",
-      "similarity": "0.7722"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Macaroni Ham Casserole",
       "author": {
         "@type": "Person",
@@ -317,7 +132,189 @@
         "totalTime": "40 minutes"
       },
       "url": "macaroni-ham-casserole-196",
-      "similarity": "0.7670"
+      "similarity": "0.8391"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Noodles with Hamburg",
+      "author": {
+        "@type": "Person",
+        "name": "Carolyn Gower"
+      },
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
+        "1 tsp salt",
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "noodles-with-hamburg-166",
+      "similarity": "0.8033"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Macaroni Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Theresa Finkbeiner"
+      },
+      "description": "A classic macaroni salad with tuna, ham, and cheddar cheese, mixed with Miracle Whip and spices.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT8M",
+      "totalTime": "PT23M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups macaroni",
+        "1 can (drained) white solid tuna",
+        "1 cup cubed cheddar cheese",
+        "1 cup cubed ham",
+        "1/2 cup cubed celery",
+        "1/4 cup chopped onion",
+        "1 tsp parsley flakes",
+        "1/2 tsp paprika",
+        "Salt to taste",
+        "Miracle Whip (enough to moisten)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package directions. Let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut up celery, cheese, tuna, and ham into small pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooled macaroni with the tuna mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add enough Miracle Whip to moisten the salad."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with parsley flakes and paprika."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix well and serve."
+        }
+      ],
+      "keywords": "macaroni salad, tuna salad, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "8 minutes",
+        "totalTime": "23 minutes"
+      },
+      "url": "macaroni-salad-72",
+      "similarity": "0.7848"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburg Noodle Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Grace Yearley"
+      },
+      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "1 can cream of mushroom soup",
+        "1 medium onion",
+        "2 cans sliced mushrooms, drained",
+        "1 jar Ragu (700 mL)",
+        "1 pkg cooked elbow macaroni",
+        "1 can cream of celery soup",
+        "1 can cream of chicken soup",
+        "1 cup shredded mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef and onion, then add the mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the cheese is melted."
+        }
+      ],
+      "keywords": "casserole, ground beef, noodle dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "hamburg-noodle-casserole-172",
+      "similarity": "0.7571"
     },
     {
       "@context": "https://schema.org/",
@@ -382,7 +379,7 @@
         "totalTime": "35 minutes"
       },
       "url": "tomato-macaroni-soup-123",
-      "similarity": "0.7641"
+      "similarity": "0.7263"
     }
   ]
 }

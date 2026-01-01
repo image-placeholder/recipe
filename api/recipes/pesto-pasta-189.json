@@ -101,279 +101,237 @@
         "totalTime": "30 minutes"
       },
       "url": "pasta-salad-85",
-      "similarity": "0.5961"
+      "similarity": "0.6531"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Greek Salad",
+      "name": "Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Heather Clarke"
       },
-      "description": "A refreshing Greek salad with marinated tomatoes, mixed greens, feta cheese, and a homemade dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Greek",
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
       "prepTime": "PT20M",
-      "cookTime": "PT0M",
-      "totalTime": "PT1H20M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "Marinated Tomatoes:",
-        "¼ cup olive oil",
-        "2 Tbsp red wine vinegar",
-        "1 tsp anchovy paste",
-        "Salt, pepper, pinch of cayenne",
-        "1 clove garlic, crushed",
-        "4 large ripe tomatoes",
-        "Salad:",
-        "6 cups greens",
-        "2 green onions, sliced",
-        "⅓ cup black olives",
-        "1 green pepper",
-        "1 cup feta cheese",
-        "Dressing:",
-        "1 clove garlic, minced",
-        "1 Tbsp red wine vinegar",
-        "¼ cup olive oil",
-        "½ tsp granulated sugar",
-        "1 tsp dried oregano"
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "To Marinate Tomatoes: Cut tomatoes in halves or quarters. Squeeze out seeds and juice and cut into bite-size pieces. Whisk marinade together, stir in tomatoes, and let stand for at least 1 hour."
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
         },
         {
           "@type": "HowToStep",
-          "text": "To Make Dressing: Place garlic, vinegar, and seasonings in a blender and whirl to blend. While still whirling, gradually drizzle in the oil. Add anchovies. Can be used immediately or covered and refrigerated."
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "To Complete Salad: Mix greens, onions, olives, pepper, and cheese. Add marinated tomatoes. Toss and drizzle dressing over salad. Add croutons if desired."
+          "text": "Continue cooking gently for another 2 hours."
         }
       ],
-      "keywords": "Greek salad, marinated tomatoes, feta cheese, homemade dressing",
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "",
-        "totalTime": "1 hour 20 minutes"
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
       },
-      "url": "greek-salad-69",
-      "similarity": "0.5835"
+      "url": "spaghetti-sauce-177",
+      "similarity": "0.6454"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pizza Casserole",
+      "name": "Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "Ruth Ann Haist"
+        "name": "Margaret Beaver"
       },
-      "description": "A hearty pizza-inspired casserole with pasta, pepperoni, and mozzarella cheese.",
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "Italian-American",
       "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
       "recipeIngredient": [
-        "2 tsp margarine",
-        "2 cups tiny shell pasta",
-        "1 medium onion, chopped",
-        "2 1/2 qt boiling water",
-        "1 Tbsp oil",
-        "2 tsp salt",
-        "2 (7 1/2 oz) cans tomato sauce",
-        "10 oz can mushrooms, drained",
-        "3 Tbsp Parmesan cheese",
-        "1 tsp oregano",
-        "1 tsp basil",
-        "1 1/2 cups pepperoni slices",
-        "3 cups mozzarella cheese"
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Melt margarine and sauté chopped onion until soft."
+          "text": "Saute the onion, celery, and garlic until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Add tomato sauce, mushrooms, oregano, and basil. Stir and remove from heat."
+          "text": "Add the ground hamburger and brown."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook pasta in boiling water with oil and salt for 8 to 10 minutes until tender but firm. Drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine cooked pasta with Parmesan cheese and 1 cup mozzarella cheese in a 3-quart casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Scatter pepperoni slices over the pasta mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the tomato-onion sauce and sprinkle with remaining mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake, uncovered, in a 350°F oven for 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Add the remaining ingredients and simmer for several hours."
         }
       ],
-      "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese",
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
       },
-      "url": "pizza-casserole-171",
-      "similarity": "0.5805"
+      "url": "spaghetti-sauce-187",
+      "similarity": "0.6454"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pizza Casserole",
+      "name": "Mozzarella Spaghetti Skillet",
       "author": {
         "@type": "Person",
-        "name": "June Schroeder"
+        "name": "Yvonne Lotz"
       },
-      "description": "A hearty pizza casserole made with spaghetti, hamburger, pepperoni, and mozzarella cheese.",
-      "recipeCategory": "Main Course",
+      "description": "A one-pot spaghetti dish cooked with hamburger, tomatoes, and mozzarella cheese.",
+      "recipeCategory": "Pasta",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 9x13 inch pan",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 to 6 servings",
       "recipeIngredient": [
-        "8 or 7 oz spaghetti",
         "1 lb hamburger",
-        "1/2 cup chopped onion",
-        "2 Tbsp margarine or butter",
-        "2 eggs, beaten",
-        "1/3 cup grated Parmesan cheese",
-        "1 (32 oz) jar spaghetti sauce",
-        "1 pkg (3 oz) pepperoni, sliced",
-        "4 cups diced mozzarella cheese",
-        "1 tsp dried oregano leaves",
-        "1 tsp cooking oil or olive oil",
-        "Salt to taste"
+        "½ cup chopped onion",
+        "½ cup chopped green pepper",
+        "3 splashes Worcestershire sauce",
+        "1 tsp salt",
+        "½ tsp oregano",
+        "½ tsp black pepper",
+        "½ can water",
+        "1 (796 mL) can tomatoes",
+        "1½ cups shredded mozzarella cheese",
+        "Broken spaghetti to feed your family"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook spaghetti as per package instructions and drain."
+          "text": "In an electric skillet, brown the hamburger, onion, and green peppers."
         },
         {
           "@type": "HowToStep",
-          "text": "In a bowl, combine cooked spaghetti, margarine or butter, eggs, and Parmesan cheese."
+          "text": "Season with Worcestershire sauce, salt, black pepper, and oregano."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the spaghetti mixture in a greased 9x13 inch pan."
+          "text": "Add tomatoes, water, and broken spaghetti to the skillet."
         },
         {
           "@type": "HowToStep",
-          "text": "Brown hamburger and onion in a skillet and spoon over the spaghetti mixture."
+          "text": "Cover and bring to a boil, stirring frequently to prevent the spaghetti from sticking."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread spaghetti sauce over the hamburger mixture and cover with mozzarella cheese."
+          "text": "Simmer until the pasta is cooked."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle with oregano and drizzle with oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange pepperoni slices on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated 350°F oven for 20 to 30 minutes."
+          "text": "Shortly before serving, add shredded mozzarella cheese and continue heating until melted."
         }
       ],
-      "keywords": "pizza casserole, spaghetti, hamburger, pepperoni",
+      "keywords": "spaghetti skillet, one-pot pasta, mozzarella cheese",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
       },
-      "url": "pizza-casserole-202",
-      "similarity": "0.5805"
+      "url": "mozzarella-spaghetti-skillet-182",
+      "similarity": "0.6127"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pasta & Bean Soup",
+      "name": "Parmesan Chicken",
       "author": {
         "@type": "Person",
-        "name": "Marie Fydenchuk"
+        "name": "Lorraine Bowers"
       },
-      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Italian",
+      "description": "A crispy Parmesan-crusted chicken dish baked with spaghetti sauce and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
       "prepTime": "PT15M",
-      "cookTime": "PT28M",
-      "totalTime": "PT43M",
-      "recipeYield": "4-6 servings",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
       "recipeIngredient": [
-        "1 Tbsp olive oil",
-        "1 onion, finely chopped",
-        "2 carrots, finely chopped",
-        "2 celery sticks, finely chopped",
-        "3 crushed garlic cloves",
-        "1/4 tsp oregano",
-        "1/2 tsp salt",
+        "Boneless chicken breasts",
+        "1/3 cup Parmesan cheese",
+        "1 1/3 cups dry bread crumbs",
+        "3 beaten eggs",
+        "1 tsp salt",
         "1/4 tsp pepper",
-        "19 oz can white kidney or romano beans, drained",
-        "10 oz can chicken broth, diluted with 1 cup water",
-        "28 oz can tomatoes with juice",
-        "3 cups small shell pasta or macaroni",
-        "1 1/2 tsp dried basil",
-        "1/4 tsp dried rosemary",
-        "1/2 cup chopped fresh basil",
-        "1/2 cup grated Parmesan cheese"
+        "Spaghetti sauce",
+        "Grated mozzarella cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
+          "text": "Mix Parmesan cheese with bread crumbs and set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
+          "text": "Mix eggs, salt, and pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+          "text": "Dip boneless chicken breasts in egg mixture, then coat with bread crumb mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+          "text": "Arrange coated chicken breasts in a baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
+          "text": "Cover with tinfoil and bake at 350°F for 45 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour spaghetti sauce over the chicken and continue baking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Before serving, sprinkle grated mozzarella cheese on top and bake for an additional 10 minutes until browned."
         }
       ],
-      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
+      "keywords": "Parmesan chicken, breaded chicken, Italian-American cuisine",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "28 minutes",
-        "totalTime": "43 minutes"
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
       },
-      "url": "pasta-bean-soup-111",
-      "similarity": "0.5549"
+      "url": "parmesan-chicken-239",
+      "similarity": "0.5999"
     }
   ]
 }

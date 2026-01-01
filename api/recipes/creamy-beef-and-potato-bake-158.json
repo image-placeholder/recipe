@@ -89,90 +89,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meatball Pasta Stew",
-      "author": {
-        "@type": "Person",
-        "name": "Grace Morlock"
-      },
-      "description": "A savory stew with homemade meatballs, pasta, and a rich tomato-based sauce.",
-      "recipeCategory": "Stew",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H25M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 Tbsp tomato paste",
-        "1 lb hamburger",
-        "1 can (14 oz) diced tomatoes, undrained",
-        "2 eggs",
-        "¼ to ⅛ cup dry bread crumbs",
-        "1 cup chopped green onion",
-        "¾ tsp thyme",
-        "½ tsp salt",
-        "1½ cups sliced carrots",
-        "1½ cups chopped zucchini",
-        "½ tsp ground mustard",
-        "¼ tsp pepper",
-        "1 cup chopped green pepper",
-        "1 cup chopped red pepper",
-        "1 cup chopped onion",
-        "2 cloves garlic, minced",
-        "2 Tbsp all-purpose flour",
-        "1½ cups canned beef broth",
-        "2 cups cooked spiral pasta",
-        "1 Tbsp parsley"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine hamburger, egg, bread crumbs, onion, salt, mustard, and pepper to make meatballs. Shape into 1-inch balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place meatballs on a greased baking sheet and bake at 350°F for 10 to 15 minutes, or until browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large pot, cook onion and garlic until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add flour and stir constantly for 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gradually add beef broth, stirring constantly until boiling."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add tomato paste, undrained tomatoes, bay leaf, and thyme. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add meatballs, carrots, zucchini, peppers, and parsley. Simmer for 40 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cooked pasta and heat until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove bay leaf before serving."
-        }
-      ],
-      "keywords": "meatball stew, pasta stew, tomato-based sauce",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 25 minutes"
-      },
-      "url": "meatball-pasta-stew-179",
-      "similarity": "0.7308"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Meat and Potato Casserole",
       "author": {
         "@type": "Person",
@@ -224,82 +140,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "meat-and-potato-casserole-159",
-      "similarity": "0.7294"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Hamburger Pie",
-      "author": {
-        "@type": "Person",
-        "name": "Marguerite Finkbeiner"
-      },
-      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT30M",
-      "totalTime": "PT55M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 medium onion, sliced",
-        "1 to 1½ cups cooked green beans",
-        "1 Tbsp oil",
-        "1 lb hamburger",
-        "¼ tsp salt",
-        "⅛ tsp pepper",
-        "1 can tomato soup",
-        "5 medium potatoes",
-        "½ cup warm milk",
-        "1 beaten egg"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "hamburger pie, shepherd's pie, casserole",
-      "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "55 minutes"
-      },
-      "url": "hamburger-pie-169",
-      "similarity": "0.7147"
+      "similarity": "0.7446"
     },
     {
       "@context": "https://schema.org/",
@@ -373,60 +214,200 @@
         "totalTime": "50 minutes"
       },
       "url": "beef-and-rice-casserole-168",
-      "similarity": "0.7070"
+      "similarity": "0.7258"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Beef Broccoli Stir-Fry",
+      "name": "Stewing Beef Casserole",
       "author": {
         "@type": "Person",
-        "name": "Suzanne Finkbeiner"
+        "name": "Kelly Haines"
       },
-      "description": "A quick and flavorful stir-fry of beef sirloin and broccoli in a savory soy and oyster sauce mixture.",
-      "recipeCategory": "Main Dish",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "3½ cups, serves 4",
+      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "1 casserole",
       "recipeIngredient": [
-        "1 Tbsp soy sauce",
-        "1 tsp cornstarch",
-        "3 cups broccoli florets, sliced",
-        "2 Tbsp oyster sauce",
-        "1 Tbsp cooking oil (first amount)",
-        "1 Tbsp cooking oil (second amount)",
-        "¾ lb sirloin steak, sliced into 1/8 inch thin strips",
-        "½ tsp salt",
-        "¼ tsp pepper"
+        "1 lb stewing beef",
+        "1 tsp salt",
+        "Dash pepper",
+        "1¼ cups diced potatoes",
+        "1¼ cups diced carrots",
+        "1 tsp sugar",
+        "2 Tbsp Minit Tapioca",
+        "½ cup diced onions",
+        "1 cup V8 juice",
+        "½ cup diced celery"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Stir soy sauce into cornstarch in a small cup. Add oyster sauce, salt, and pepper. Stir and set aside."
+          "text": "Mix all ingredients lightly in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Heat wok to medium-high. Add the first amount of cooking oil. Add broccoli and stir-fry for 4 minutes until tender-crisp. Transfer to a bowl."
+          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the second amount of cooking oil to the hot wok. Add beef strips and stir-fry until desired doneness."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add broccoli back into the wok. Stir the cornstarch mixture and pour into the beef mixture. Cook until boiling and thickened."
+          "text": "Bake at 250°F for 4 hours without uncovering."
         }
       ],
-      "keywords": "beef stir-fry, broccoli, soy sauce, oyster sauce",
+      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "stewing-beef-casserole-155",
+      "similarity": "0.7153"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Baked Spaghetti and Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A hearty baked pasta dish featuring meatballs, spaghetti, and a rich tomato-based sauce topped with melted mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT30M",
+      "cookTime": "PT35M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, finely chopped",
+        "1 egg",
+        "3 splashes Worcestershire sauce",
+        "½ tsp black pepper",
+        "28 oz can diced tomatoes",
+        "10 oz can chopped mushrooms",
+        "½ cup chopped green pepper (optional)",
+        "½ tsp oregano",
+        "1 cup sour cream",
+        "Broken spaghetti (4 to 6 servings)",
+        "1½ cups grated mozzarella cheese",
+        "24 oz can spaghetti sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and start boiling water for cooking spaghetti."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, mix ground beef, chopped onion, egg, Worcestershire sauce, and black pepper. Form into meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fry the meatballs in a skillet until completely cooked, turning gently with tongs. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, green pepper, and oregano to the skillet. Simmer for approximately 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti until 'al dente', then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked spaghetti with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the spaghetti mixture into a greased 6-cup casserole dish. Sprinkle with half of the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the sauce and meatball mixture. Bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for an additional 5 to 10 minutes, or until the cheese is melted."
+        }
+      ],
+      "keywords": "baked spaghetti, meatballs, Italian-American casserole",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "baked-spaghetti-and-meatballs-176",
+      "similarity": "0.6485"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheddar Baked Potato Slices",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 medium baking potatoes, cut into ¼ inch slices",
+        "1 can cream of mushroom soup",
+        "½ tsp paprika",
+        "½ tsp pepper",
+        "1 cup shredded cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the soup mixture evenly over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 400,
+            "unitCode": "FAR"
+          },
+          "duration": "PT45M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+        }
+      ],
+      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
       },
-      "url": "beef-broccoli-stir-fry-148",
-      "similarity": "0.6933"
+      "url": "cheddar-baked-potato-slices-140",
+      "similarity": "0.6437"
     }
   ]
 }

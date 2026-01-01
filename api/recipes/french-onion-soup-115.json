@@ -61,114 +61,70 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Potato Soup",
+      "name": "Tortilla Soup",
       "author": {
         "@type": "Person",
-        "name": "Barbara Ratz"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+      "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
       "recipeCategory": "Soup",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Mexican",
       "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "8-10 servings",
-      "recipeIngredient": [
-        "6 diced and peeled potatoes",
-        "2 diced and peeled carrots",
-        "1 chopped onion",
-        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
-        "6 Tbsp butter",
-        "6 Tbsp flour",
-        "Sour cream (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Microwave onions and butter until soft, about 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
-        }
-      ],
-      "keywords": "potato soup, creamy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
-      },
-      "url": "potato-soup-125",
-      "similarity": "0.7665"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Onion Salad",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Wallace Pfaff"
-        },
-        {
-          "@type": "Person",
-          "name": "Joanne Pickering"
-        }
-      ],
-      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 Spanish onions, thinly sliced",
-        "1 1/2 tsp salt",
-        "1/2 cup white sugar",
-        "1 cup mayonnaise or salad dressing",
-        "1/3 cup water",
-        "1/3 cup vinegar",
-        "1 tsp celery seed"
+        "Chicken (breasts or thighs)",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 can diced tomatoes",
+        "1 cup corn",
+        "1 can black beans, optional",
+        "1 bay leaf",
+        "¼ cup chopped cilantro",
+        "½ tsp chili powder",
+        "½ tsp cumin",
+        "½ tsp oregano",
+        "Salt and pepper to taste",
+        "Tortilla chips",
+        "Sour cream",
+        "Cheddar cheese, grated",
+        "1 jar salsa"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+          "text": "Saute chicken pieces with onion, garlic, and spices until chicken is cooked through."
         },
         {
           "@type": "HowToStep",
-          "text": "Drain the marinade well in the morning."
+          "text": "Add 4 cups water and boil to make stock."
         },
         {
           "@type": "HowToStep",
-          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+          "text": "Remove chicken and chop, discarding any bones and skin."
         },
         {
           "@type": "HowToStep",
-          "text": "Chill until ready to serve."
+          "text": "Combine remaining ingredients (except tortilla chips, sour cream, and cheese) and heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, place tortilla chips in soup bowls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour soup over chips and top with sour cream, jalapenos (optional), and shredded cheddar cheese."
         }
       ],
-      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 10 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "onion-salad-74",
-      "similarity": "0.7539"
+      "url": "tortilla-soup-124",
+      "similarity": "0.7207"
     },
     {
       "@context": "https://schema.org/",
@@ -220,122 +176,182 @@
         "totalTime": "50 minutes"
       },
       "url": "veggie-basic-soup-120",
-      "similarity": "0.7496"
+      "similarity": "0.7190"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Tomato Macaroni Soup",
-      "author": [
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
+      ],
+      "recipeInstructions": [
         {
-          "@type": "Person",
-          "name": "Linda Finkbeiner"
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
         },
         {
-          "@type": "Person",
-          "name": "Shirley Preszcator"
+          "@type": "HowToStep",
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour mixture and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree the mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat with milk, cheese, and seasonings."
         }
       ],
-      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "cheese-broccoli-soup-105",
+      "similarity": "0.7090"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a rich, velvety texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "1½ cups grated cheese",
+        "1½ cups chicken broth",
+        "3 cups fresh broccoli, partially cooked"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onions until tender; do not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and broccoli; bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in flour and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat; cook and stir until mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and simmer for 15 minutes; do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat through with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "cheese-broccoli-soup-108",
+      "similarity": "0.7090"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
       "recipeCategory": "Soup",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 Tbsp oil",
-        "1½ cups water",
-        "1 cooking onion, diced",
-        "1 cup dry macaroni",
-        "2 carrots, diced",
-        "½ tsp garlic salt",
-        "3 or 4 celery stalks, diced",
-        "½ tsp Worcestershire sauce",
-        "2 cups chicken stock",
-        "2 cups tomato juice",
-        "Salt and pepper to taste"
+        "1 Tbsp liquid sweetener",
+        "½ head cabbage",
+        "1 can French-style beans (optional)",
+        "3 cups tomato juice",
+        "4 cups water",
+        "1 large can mushrooms",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery, including leaves and tips",
+        "1 tsp lemon juice"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute onion, celery, and carrot in oil until tender."
+          "text": "Add all ingredients to a large pot."
         },
         {
           "@type": "HowToStep",
-          "text": "Add stock, juice, and water. Bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add pasta and cook until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic salt and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season to taste with salt and pepper."
+          "text": "Cook at low heat for 1½ hours."
         }
       ],
-      "keywords": "tomato macaroni soup, comfort food, pasta soup",
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
       },
-      "url": "tomato-macaroni-soup-123",
-      "similarity": "0.7256"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.7122"
+      "url": "cabbage-soup-106",
+      "similarity": "0.7024"
     }
   ]
 }

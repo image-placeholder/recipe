@@ -103,7 +103,7 @@
         "totalTime": "1 hour"
       },
       "url": "ham-casserole-200",
-      "similarity": "0.7947"
+      "similarity": "0.8725"
     },
     {
       "@context": "https://schema.org/",
@@ -156,7 +156,75 @@
         "totalTime": "1 hour 25 minutes"
       },
       "url": "crunchy-top-ham-and-potato-casserole-197",
-      "similarity": "0.7709"
+      "similarity": "0.8122"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Macaroni Ham Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Cheryl MacLeod"
+      },
+      "description": "A comforting macaroni and ham casserole topped with cheddar cheese and crushed sour cream and onion potato chips.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2½ cups (625 mL) milk",
+        "2 cups (500 mL) uncooked macaroni",
+        "Salt and pepper to taste",
+        "1 to 1¼ cups (250 to 375 mL) grated cheddar cheese",
+        "1 cup (250 mL) cubed ham",
+        "¼ cup (60 mL) melted margarine",
+        "¼ cup (60 mL) flour",
+        "Crushed sour cream and onion flavoured potato chips for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the macaroni in boiling water, then drain and mix in cubed ham."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine in a saucepan and mix in the flour. Add in the milk and stir constantly over medium heat until the mixture is thick and smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the sauce with the macaroni and ham, then pour into a greased casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add salt and pepper to taste, and stir in about ¾ of the grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the remaining cheddar cheese on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with crushed sour cream and onion flavoured potato chips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for approximately 20 minutes, or until the casserole is bubbling."
+        }
+      ],
+      "keywords": "macaroni casserole, ham and cheese, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "macaroni-ham-casserole-196",
+      "similarity": "0.7328"
     },
     {
       "@context": "https://schema.org/",
@@ -212,142 +280,64 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "meat-and-potato-casserole-159",
-      "similarity": "0.7412"
+      "similarity": "0.7206"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheddar Baked Potato Slices",
-      "author": {
-        "@type": "Person",
-        "name": "Ina Browning"
-      },
-      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+      "name": "Potato Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Heather Clarke"
+        },
+        {
+          "@type": "Person",
+          "name": "M. Leanne Kenney"
+        }
+      ],
+      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
       "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT55M",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
       "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
+      "recipeYield": "1 casserole",
       "recipeIngredient": [
-        "4 medium baking potatoes, cut into ¼ inch slices",
+        "1 (2 lb) bag frozen hash browns",
+        "1 can cream of celery soup",
         "1 can cream of mushroom soup",
-        "½ tsp paprika",
-        "½ tsp pepper",
-        "1 cup shredded cheddar cheese"
+        "500 mL sour cream",
+        "1 cup grated cheese",
+        "¼ cup diced onions"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+          "text": "Mix all ingredients together in a shallow pan until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese over the potatoes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the soup mixture evenly over the cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
+          "text": "Bake at 350°F for 1 hour.",
           "cookMethod": "Bake",
           "tool": "Oven",
           "temperature": {
             "@type": "Temperature",
             "name": "oven",
-            "value": 400,
+            "value": 350,
             "unitCode": "FAR"
           },
-          "duration": "PT45M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+          "duration": "PT1H"
         }
       ],
-      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
+      "keywords": "potato casserole, hash browns, creamy, cheesy",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "55 minutes",
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "cheddar-baked-potato-slices-140",
-      "similarity": "0.7409"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Macaroni Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Lori Allen"
-      },
-      "description": "A comforting macaroni and meat casserole topped with cheese and baked until golden.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeIngredient": [
-        "2 cups macaroni",
-        "1½ lb hamburger",
-        "1 medium onion, chopped",
-        "½ green pepper, chopped",
-        "1 can stewed tomatoes",
-        "1 can mushrooms",
-        "1 can mushroom soup",
-        "½ cup ketchup",
-        "1 tsp oregano",
-        "1 tsp basil",
-        "½ tsp onion powder",
-        "½ tsp garlic powder",
-        "Dash salt and pepper",
-        "1 to 2 cups grated cheese (e.g., cheddar, mozzarella, Monterey Jack)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the macaroni, drain and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Brown hamburger, adding onions, green pepper and mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the spices, ketchup and tomatoes. Reduce heat and simmer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the macaroni and meat mixture in a large casserole dish and mix."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the mushroom soup across the top, covering the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle the cheese on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and bake in 350°F oven for ½ hour."
-        }
-      ],
-      "keywords": "macaroni casserole, cheesy pasta bake, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "macaroni-casserole-175",
-      "similarity": "0.7315"
+      "url": "potato-casserole-141",
+      "similarity": "0.6993"
     }
   ]
 }

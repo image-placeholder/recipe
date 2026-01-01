@@ -78,136 +78,140 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hot Taco Dip",
+      "name": "Beef Taco Bake",
       "author": {
         "@type": "Person",
-        "name": "Brenda Martene"
+        "name": "Gladys Lewis"
       },
-      "description": "A warm, layered taco dip featuring seasoned ground beef, sour cream, and melted cheddar cheese, served with tortilla chips.",
-      "recipeCategory": "Appetizer",
+      "description": "A hearty, cheesy taco-inspired casserole made with ground beef, tortillas, and a creamy tomato soup sauce, perfect for a family dinner.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "Mexican-American",
       "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "1 large serving dish",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 lb lean ground beef",
-        "1 package Old El Paso taco seasoning mix",
-        "2 cups grated cheddar cheese",
-        "1 chopped green onion",
-        "1 chopped green pepper",
-        "2 cups sour cream",
-        "1 (optional) 8 oz package Philadelphia cream cheese",
-        "1 jar mild El Paso salsa",
-        "1 bag tortilla chips"
+        "1 lb ground beef",
+        "6 (8-inch) flour tortillas or 8 (6-inch) corn tortillas, cut into 1-inch pieces",
+        "1 can (10¾ oz) Campbell's condensed tomato soup",
+        "1 cup Pace thick & chunky salsa or picante sauce",
+        "1 cup shredded cheddar cheese",
+        "½ cup milk"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef with chopped onion in a frying pan; drain excess fat."
+          "text": "In a medium skillet over medium-high heat, cook the ground beef until browned, stirring to separate the meat."
         },
         {
           "@type": "HowToStep",
-          "text": "Add taco seasoning mix to the browned hamburger and prepare according to package directions."
+          "text": "Drain excess fat from the skillet."
         },
         {
           "@type": "HowToStep",
-          "text": "In a 13x9x2 inch baking dish, spread the prepared hamburger mixture evenly across the bottom."
+          "text": "Add the tomato soup, salsa, milk, tortillas, and half of the cheddar cheese to the cooked beef. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle the chopped green peppers on top of the hamburger layer."
+          "text": "Spoon the mixture into a 2-quart shallow baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix together the sour cream and cream cheese (if using) until smooth."
+          "text": "Cover the dish and bake at 400°F for 30 minutes or until hot and bubbly."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the sour cream mixture over the top of the green peppers."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread a layer of mild salsa over the sour cream layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with a layer of grated cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated oven at 350°F until heated through.",
-          "temperature": "350°F",
-          "cookMethod": "Bake"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with tortilla chips."
+          "text": "Sprinkle the remaining cheddar cheese on top before serving."
         }
       ],
-      "keywords": "hot taco dip, taco dip, Mexican appetizer, cheesy dip",
+      "keywords": "taco bake, ground beef, cheesy casserole, Mexican-American",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
       },
-      "url": "hot-taco-dip-21",
-      "similarity": "0.8331"
+      "url": "beef-taco-bake-186",
+      "similarity": "0.7741"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Nacho Fiesta Dip",
+      "name": "Taco Twist Bake",
       "author": {
         "@type": "Person",
-        "name": "Chris Dinney"
+        "name": "Cheryl MacLeod"
       },
-      "description": "A layered dip featuring cottage cheese, cream cheese, and taco seasoning, topped with lettuce, tomatoes, and cheddar cheese.",
-      "recipeCategory": "Appetizer",
+      "description": "A hearty taco-flavored pasta bake with ground beef, spaghetti sauce, and melted cheddar cheese.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "Mexican-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT1H15M",
-      "recipeYield": "1 large bowl",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "2 cups cottage cheese",
-        "1 pkg taco seasoning",
-        "2 cups cream cheese",
-        "1½ to 2 cups grated cheddar cheese",
-        "½ small head lettuce, shredded",
-        "3 medium tomatoes, diced",
-        "Large bag tortilla chips for serving"
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, chopped",
+        "1 can (284 mL) mushrooms, chopped",
+        "1 envelope taco seasoning mix",
+        "¾ cup water",
+        "1 can (680 mL) spaghetti sauce",
+        "¼ cup salsa (optional)",
+        "1 green pepper, chopped (optional)",
+        "2 cups spiral pasta",
+        "1 cup sour cream",
+        "1½ cups shredded cheddar cheese",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix cottage cheese, cream cheese, and taco seasoning together in a blender until well combined."
+          "text": "Preheat oven to 350°F and start water to cook for pasta."
         },
         {
           "@type": "HowToStep",
-          "text": "Place the mixture in a large bowl lined with Saran Wrap and refrigerate covered for 1 hour."
+          "text": "In a frying pan, brown the ground beef with the onions until the meat is no longer pink. Drain off excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove the dip from the bowl by tipping it onto a platter or large plate and peeling off the Saran Wrap."
+          "text": "Add mushrooms, taco seasoning, and water. Simmer for about 15 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover the dip with shredded lettuce, then diced tomatoes, and finally grated cheddar cheese."
+          "text": "Add spaghetti sauce, salsa, and green pepper. Simmer for approximately 10 minutes more."
         },
         {
           "@type": "HowToStep",
-          "text": "Surround with tortilla chips and serve."
+          "text": "Cook the spiral pasta, then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine pasta with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the pasta mixture into a greased 6-cup casserole dish or square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with approximately half of the shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the meat mixture and bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for another 5 to 10 minutes, or until the cheese is melted."
         }
       ],
-      "keywords": "layered dip, nacho fiesta, taco seasoning, cheesy dip",
+      "keywords": "taco pasta bake, ground beef recipe, cheesy casserole",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "1 hour 15 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
       },
-      "url": "nacho-fiesta-dip-28",
-      "similarity": "0.7788"
+      "url": "taco-twist-bake-184",
+      "similarity": "0.7634"
     },
     {
       "@context": "https://schema.org/",
@@ -266,7 +270,7 @@
         "totalTime": "25 minutes"
       },
       "url": "taco-salad-89",
-      "similarity": "0.7775"
+      "similarity": "0.7543"
     },
     {
       "@context": "https://schema.org/",
@@ -325,7 +329,7 @@
         "totalTime": "25 minutes"
       },
       "url": "taco-salad-92",
-      "similarity": "0.7775"
+      "similarity": "0.7543"
     },
     {
       "@context": "https://schema.org/",
@@ -381,7 +385,7 @@
         "totalTime": "25 minutes"
       },
       "url": "taco-salad-97",
-      "similarity": "0.7775"
+      "similarity": "0.7543"
     }
   ]
 }

@@ -65,279 +65,259 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Vegetable Dip",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Lori Allen"
-        },
-        {
-          "@type": "Person",
-          "name": "Louise Wein"
-        }
-      ],
-      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
+      "name": "Cream of Cucumber Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A refreshing and creamy cucumber soup made with chicken broth, milk, and a hint of cayenne pepper.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "French",
       "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "1 serving dish",
+      "cookTime": "PT8M",
+      "totalTime": "PT18M",
       "recipeIngredient": [
-        "1 tsp Accent",
-        "1 cup sour cream",
-        "¼ tsp salt",
-        "1 cup mayonnaise",
-        "¼ tsp celery salt",
-        "1 tsp parsley flakes",
-        "2 drops Tabasco sauce (can be omitted)",
-        "½ tsp dill weed",
-        "1 tsp garlic salt",
-        "Assorted vegetables or crackers for serving"
+        "1 Tbsp olive oil",
+        "1 onion",
+        "3 large cucumbers, peeled, seeds removed",
+        "¼ cup flour",
+        "3¼ cups chicken broth",
+        "1 pinch cayenne pepper",
+        "½ tsp nutmeg",
+        "½ cup milk",
+        "1 Tbsp fresh dill"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together in a dish."
+          "text": "In the microwave, cook onions and olive oil on High for 2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Chill before serving with chips, crackers, or vegetables."
+          "text": "Dice cucumbers and add to onions. Cook until soft."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Use a blender to purée the cucumbers (hand blender works well)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the flour with ¼ cup chicken broth. Add to the cucumbers, along with the remaining chicken broth, cayenne, and nutmeg. Cook 6 to 8 minutes on High."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the milk and dill. Serve."
         }
       ],
-      "keywords": "vegetable dip, sour cream dip, party appetizer",
+      "keywords": "cucumber soup, creamy soup, refreshing soup",
       "_naturalized_times": {
         "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
+        "cookTime": "8 minutes",
+        "totalTime": "18 minutes"
       },
-      "url": "vegetable-dip-17",
-      "similarity": "0.6292"
+      "url": "cream-of-cucumber-soup-119",
+      "similarity": "0.6796"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Vegetable Dip",
+      "name": "Cabbage Soup",
       "author": {
         "@type": "Person",
-        "name": "Jacqui Wein"
+        "name": "Betty Glanville"
       },
-      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
-      "recipeCategory": "Appetizer",
+      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 cup Miracle Whip",
-        "1/8 tsp garlic salt",
-        "1 tsp Worcestershire sauce",
-        "2 tsp minced onion",
-        "2 tsp chopped celery",
-        "2 hard-boiled eggs, finely chopped",
-        "2 tsp vinegar",
-        "Fresh vegetables for serving"
+        "1 Tbsp liquid sweetener",
+        "½ head cabbage",
+        "1 can French-style beans (optional)",
+        "3 cups tomato juice",
+        "4 cups water",
+        "1 large can mushrooms",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery, including leaves and tips",
+        "1 tsp lemon juice"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a bowl, mix all ingredients together until well combined."
+          "text": "Add all ingredients to a large pot."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve with fresh vegetables."
+          "text": "Cook at low heat for 1½ hours."
         }
       ],
-      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
       },
-      "url": "vegetable-dip-18",
-      "similarity": "0.6292"
+      "url": "cabbage-soup-106",
+      "similarity": "0.6508"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sauerkraut Salad",
+      "name": "Cabbage Soup",
       "author": {
         "@type": "Person",
-        "name": "Lorna Finkbeiner"
+        "name": "Betty Glanville"
       },
-      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
-      "recipeCategory": "Salad",
+      "description": "A hearty cabbage soup with vegetables and optional sweetener.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "½ head cabbage",
+        "1 can French-style beans, drained",
+        "3 cups tomato juice",
+        "1 large can mushrooms",
+        "4 cups water",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery leaves and tips",
+        "1 tsp lemon juice",
+        "1 Tbsp liquid sweetener (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "cabbage-soup-109",
+      "similarity": "0.6508"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "French Onion Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Katherine Ratz"
+      },
+      "description": "A classic French onion soup made with caramelized onions, consomme, and topped with melted mozzarella cheese and croutons.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "French",
       "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 (28 oz) jar or can sauerkraut, drained",
-        "1 cup chopped celery",
-        "1 cup chopped onion",
-        "1 cup chopped red pepper",
-        "¼ cup chopped green pepper",
-        "2 cups white sugar",
-        "1 cup white vinegar",
-        "1 tsp salt"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let the dressing cool to room temperature."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the cooled dressing over the salad and toss to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
-        }
-      ],
-      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "sauerkraut-salad-82",
-      "similarity": "0.6168"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Turkey or Chicken Pies",
-      "author": {
-        "@type": "Person",
-        "name": "Shirley Preszcator"
-      },
-      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT45M",
-      "cookTime": "PT30M",
-      "totalTime": "PT1H15M",
-      "recipeYield": "Multiple individual pies or 1 large pie",
-      "recipeIngredient": [
-        "½ cup margarine",
-        "1 tsp salt",
-        "1 Tbsp onion, chopped",
-        "1 cup flour",
-        "¼ tsp salt",
-        "1½ tsp baking powder",
-        "3 cups chicken or turkey broth",
-        "3 Tbsp butter",
-        "3 cups diced turkey or chicken",
-        "1 cup frozen peas",
-        "1 cup diced carrots",
-        "½ cup celery, chopped",
-        "⅓ cup milk"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté chopped onion and celery until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil carrots until thoroughly cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cooked carrots with peas and the sauce made earlier."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until the crust is golden brown."
-        }
-      ],
-      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
-      "_naturalized_times": {
-        "prepTime": "45 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "1 hour 15 minutes"
-      },
-      "url": "turkey-or-chicken-pies-251",
-      "similarity": "0.6108"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Onion Salad",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Wallace Pfaff"
-        },
-        {
-          "@type": "Person",
-          "name": "Joanne Pickering"
-        }
-      ],
-      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H10M",
+      "cookTime": "PT2H30M",
+      "totalTime": "PT2H50M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 Spanish onions, thinly sliced",
-        "1 1/2 tsp salt",
-        "1/2 cup white sugar",
-        "1 cup mayonnaise or salad dressing",
-        "1/3 cup water",
-        "1/3 cup vinegar",
-        "1 tsp celery seed"
+        "1/4 cup butter",
+        "2 large Spanish onions",
+        "1 can consomme",
+        "1 can water",
+        "4 Oxo cubes dissolved in 2 cups hot water",
+        "Salt to flavour",
+        "4 slices French bread",
+        "1 cup shredded mozzarella cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+          "text": "Melt butter. Saute onions until transparent."
         },
         {
           "@type": "HowToStep",
-          "text": "Drain the marinade well in the morning."
+          "text": "Add to Oxo, consomme and water. Simmer about 2 hours."
         },
         {
           "@type": "HowToStep",
-          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+          "text": "Put in onion soup bowls, add a slice of French bread on top of each one and add shredded mozzarella cheese sprinkled over each."
         },
         {
           "@type": "HowToStep",
-          "text": "Chill until ready to serve."
+          "text": "Put in oven at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
         }
       ],
-      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "keywords": "French onion soup, caramelized onions, melted cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours 30 minutes",
+        "totalTime": "2 hours 50 minutes"
+      },
+      "url": "french-onion-soup-115",
+      "similarity": "0.6291"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
+        }
+      ],
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
       "_naturalized_times": {
         "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 10 minutes"
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
       },
-      "url": "onion-salad-74",
-      "similarity": "0.6084"
+      "url": "creamy-broccoli-soup-112",
+      "similarity": "0.6274"
     }
   ]
 }

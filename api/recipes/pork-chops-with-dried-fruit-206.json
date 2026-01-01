@@ -56,64 +56,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Oven Barbecued Pork Chops",
-      "author": {
-        "@type": "Person",
-        "name": "Sue Dinney"
-      },
-      "description": "Pork chops marinated in a barbecue sauce and baked in the oven.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "6 pork loin chops (about 2 lb)",
-        "2 Tbsp packed brown sugar",
-        "3/4 cup ketchup",
-        "1 Tbsp Worcestershire sauce",
-        "1/3 cup chopped onion",
-        "1 tsp chili powder",
-        "1 clove minced garlic",
-        "1/2 tsp dried mustard",
-        "1/4 cup vinegar",
-        "1/2 tsp dried oregano"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Trim fat from pork chops and place in a single layer in a 13x9 inch baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine ketchup, onions, garlic, vinegar, sugar, Worcestershire sauce, chili powder, mustard, and oregano in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the sauce over the chops and marinate in the refrigerator for at least 1 hour or up to 8 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with foil and bake in a 350°F oven for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover and bake, spooning sauce over chops occasionally, for 15 to 30 minutes or until tender."
-        }
-      ],
-      "keywords": "pork chops, barbecue, oven baked",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour"
-      },
-      "url": "oven-barbecued-pork-chops-210",
-      "similarity": "0.7430"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Pork Chop & Rice Casserole",
       "author": {
         "@type": "Person",
@@ -176,7 +118,65 @@
         "totalTime": "2 hours"
       },
       "url": "pork-chop-rice-casserole-211",
-      "similarity": "0.7372"
+      "similarity": "0.7426"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Oven Barbecued Pork Chops",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Dinney"
+      },
+      "description": "Pork chops marinated in a barbecue sauce and baked in the oven.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 pork loin chops (about 2 lb)",
+        "2 Tbsp packed brown sugar",
+        "3/4 cup ketchup",
+        "1 Tbsp Worcestershire sauce",
+        "1/3 cup chopped onion",
+        "1 tsp chili powder",
+        "1 clove minced garlic",
+        "1/2 tsp dried mustard",
+        "1/4 cup vinegar",
+        "1/2 tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Trim fat from pork chops and place in a single layer in a 13x9 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine ketchup, onions, garlic, vinegar, sugar, Worcestershire sauce, chili powder, mustard, and oregano in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the chops and marinate in the refrigerator for at least 1 hour or up to 8 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with foil and bake in a 350°F oven for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and bake, spooning sauce over chops occasionally, for 15 to 30 minutes or until tender."
+        }
+      ],
+      "keywords": "pork chops, barbecue, oven baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "oven-barbecued-pork-chops-210",
+      "similarity": "0.7152"
     },
     {
       "@context": "https://schema.org/",
@@ -227,70 +227,62 @@
         "totalTime": "40 minutes"
       },
       "url": "sour-n-sweet-pork-chops-207",
-      "similarity": "0.7315"
+      "similarity": "0.7085"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
+      "name": "Yummy Country-Style Ribs",
       "author": {
         "@type": "Person",
-        "name": "Glenda Wuerth"
+        "name": "Leanne M. Kenney"
       },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "description": "A flavorful and tender country-style ribs recipe marinated in a mixture of soy sauce, orange juice, and spices, then grilled to perfection.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT1H",
+      "totalTime": "PT24H20M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
-        "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
+        "2 lb (1 kg) country-style pork ribs",
+        "⅔ cup orange juice",
+        "2 Tbsp dry mustard",
+        "1 Tbsp coarsely ground pepper",
+        "1½ cups vegetable oil",
+        "¾ cup soy sauce",
+        "2 tsp salt",
+        "2 Tbsp chopped parsley",
+        "½ cup vinegar",
+        "1 clove garlic, minced",
+        "¼ cup Worcestershire sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
+          "text": "Combine all marinade ingredients except the ribs in a bowl. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+          "text": "Place ribs in a shallow dish and cover with the marinade. Refrigerate for 24 hours, turning meat occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
+          "text": "Remove ribs from marinade and place on barbecue grill. Cook over low heat for about 1 hour, brushing with marinade occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+          "text": "Close barbecue hood and continue cooking until done, about 15 minutes more."
         }
       ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "keywords": "country-style ribs, marinated ribs, BBQ ribs",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
+        "cookTime": "1 hour",
+        "totalTime": "24 hours 20 minutes"
       },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.7111"
+      "url": "yummy-country-style-ribs-208",
+      "similarity": "0.5921"
     },
     {
       "@context": "https://schema.org/",
@@ -340,7 +332,7 @@
         "totalTime": "2 hours 35 minutes"
       },
       "url": "maple-glazed-ribs-203",
-      "similarity": "0.6924"
+      "similarity": "0.5796"
     }
   ]
 }

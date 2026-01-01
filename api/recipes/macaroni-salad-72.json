@@ -62,111 +62,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Layered Coleslaw Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Kim MacDonald"
-      },
-      "description": "A layered coleslaw salad with shredded carrots, snow peas, and a creamy Miracle Whip dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1/2 head cabbage, shredded",
-        "1 pkg (8.5 oz) Oriental flavor dry noodles",
-        "4 handfuls snow peas",
-        "1 bunch chopped green onions",
-        "1 sliced red pepper",
-        "5 shredded carrots",
-        "1 cup Miracle Whip dressing",
-        "1 cup sour cream"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Shred cabbage and place in bottom of large glass bowl. Top with remaining ingredients in order given."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine Miracle Whip, sour cream, and package of noodle seasoning. Spread evenly over salad."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and let stand overnight."
-        }
-      ],
-      "keywords": "layered coleslaw, creamy dressing, overnight salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 20 minutes"
-      },
-      "url": "layered-coleslaw-salad-62",
-      "similarity": "0.7441"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Onion Salad",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Wallace Pfaff"
-        },
-        {
-          "@type": "Person",
-          "name": "Joanne Pickering"
-        }
-      ],
-      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "2 Spanish onions, thinly sliced",
-        "1 1/2 tsp salt",
-        "1/2 cup white sugar",
-        "1 cup mayonnaise or salad dressing",
-        "1/3 cup water",
-        "1/3 cup vinegar",
-        "1 tsp celery seed"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain the marinade well in the morning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until ready to serve."
-        }
-      ],
-      "keywords": "onion salad, marinated onions, sweet and tangy salad",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 10 minutes"
-      },
-      "url": "onion-salad-74",
-      "similarity": "0.7401"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Macaroni Casserole",
       "author": {
         "@type": "Person",
@@ -231,139 +126,244 @@
         "totalTime": "50 minutes"
       },
       "url": "macaroni-casserole-175",
-      "similarity": "0.7380"
+      "similarity": "0.7848"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Nacho Salad",
+      "name": "Macaroni Ham Casserole",
       "author": {
         "@type": "Person",
-        "name": "Martine Bercier"
+        "name": "Cheryl MacLeod"
       },
-      "description": "A spicy nacho salad with ground beef, lettuce, tomatoes, and nacho chips, topped with a creamy dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1/2 romaine lettuce, shredded",
-        "1/4 lb lean ground beef",
-        "1/2 onion, chopped",
-        "1 clove garlic, crushed",
-        "1/2 cup Monterey Jack cheese (or mozzarella), shredded",
-        "1/2 cup nacho chips, lightly crushed",
-        "2 tomatoes, coarsely diced",
-        "1/2 tsp cayenne pepper",
-        "1/4 cup mayonnaise",
-        "1 tsp relish",
-        "1 Tbsp ketchup",
-        "2 drops hot pepper sauce (Tabasco)",
-        "1/4 cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Drain excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add spices and water to the beef mixture. Bring to a boil, then simmer for 15 minutes. Let cool for 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large salad bowl, mix together the shredded lettuce, diced tomatoes, shredded cheese, and crushed nacho chips."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a separate bowl, mix the mayonnaise, relish, ketchup, and hot pepper sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the dressing over the salad and add the cooled meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss the salad to combine all ingredients and serve."
-        }
-      ],
-      "keywords": "nacho salad, spicy salad, ground beef salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "nacho-salad-73",
-      "similarity": "0.7171"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Noodles with Hamburg",
-      "author": {
-        "@type": "Person",
-        "name": "Carolyn Gower"
-      },
-      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
-      "recipeCategory": "Main Course",
+      "description": "A comforting macaroni and ham casserole topped with cheddar cheese and crushed sour cream and onion potato chips.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT20M",
       "totalTime": "PT40M",
       "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "¼ tsp oregano",
-        "¼ tsp garlic powder",
-        "½ cup chopped onions (optional)",
-        "1 tsp salt",
-        "⅓ cup chopped celery",
-        "¾ cup shredded cheddar cheese (optional)",
-        "2 cups canned tomatoes",
-        "2 cups cooked macaroni",
-        "1 (14 oz) can corn kernels",
-        "1 (10 oz) can tomato soup"
+        "2½ cups (625 mL) milk",
+        "2 cups (500 mL) uncooked macaroni",
+        "Salt and pepper to taste",
+        "1 to 1¼ cups (250 to 375 mL) grated cheddar cheese",
+        "1 cup (250 mL) cubed ham",
+        "¼ cup (60 mL) melted margarine",
+        "¼ cup (60 mL) flour",
+        "Crushed sour cream and onion flavoured potato chips for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+          "text": "Preheat oven to 350°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+          "text": "Cook the macaroni in boiling water, then drain and mix in cubed ham."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+          "text": "Melt margarine in a saucepan and mix in the flour. Add in the milk and stir constantly over medium heat until the mixture is thick and smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+          "text": "Mix the sauce with the macaroni and ham, then pour into a greased casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+          "text": "Add salt and pepper to taste, and stir in about ¾ of the grated cheddar cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+          "text": "Sprinkle the remaining cheddar cheese on top."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot."
+          "text": "Top with crushed sour cream and onion flavoured potato chips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for approximately 20 minutes, or until the casserole is bubbling."
         }
       ],
-      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "keywords": "macaroni casserole, ham and cheese, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "noodles-with-hamburg-166",
-      "similarity": "0.7157"
+      "url": "macaroni-ham-casserole-196",
+      "similarity": "0.7115"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Van Valkengoed"
+      },
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta according to package instructions, then drain and cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the feta cheese into the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+        }
+      ],
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "pasta-salad-85",
+      "similarity": "0.7103"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "mexican-salad-50",
+      "similarity": "0.6819"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tomato Macaroni Soup",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Linda Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Shirley Preszcator"
+        }
+      ],
+      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 Tbsp oil",
+        "1½ cups water",
+        "1 cooking onion, diced",
+        "1 cup dry macaroni",
+        "2 carrots, diced",
+        "½ tsp garlic salt",
+        "3 or 4 celery stalks, diced",
+        "½ tsp Worcestershire sauce",
+        "2 cups chicken stock",
+        "2 cups tomato juice",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute onion, celery, and carrot in oil until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, juice, and water. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add pasta and cook until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic salt and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season to taste with salt and pepper."
+        }
+      ],
+      "keywords": "tomato macaroni soup, comfort food, pasta soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "tomato-macaroni-soup-123",
+      "similarity": "0.6705"
     }
   ]
 }

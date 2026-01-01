@@ -82,57 +82,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken and Broccoli",
-      "author": {
-        "@type": "Person",
-        "name": "Marguerite Finkbeiner"
-      },
-      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 cup small shells pasta",
-        "1 can cream of mushroom soup",
-        "2 cups broccoli, cooked",
-        "1½ cups chicken, cooked and chopped",
-        "½ cup milk",
-        "½ cup Parmesan cheese",
-        "¼ tsp ground pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the small shells pasta according to package directions. Drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with a cranberry salad."
-        }
-      ],
-      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "chicken-and-broccoli-234",
-      "similarity": "0.7377"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Favourite Chicken",
       "author": {
         "@type": "Person",
@@ -187,101 +136,225 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "favourite-chicken-241",
-      "similarity": "0.7282"
+      "similarity": "0.7279"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hamburg Noodle Casserole",
+      "name": "Chicken and Broccoli",
       "author": {
         "@type": "Person",
-        "name": "Grace Yearley"
+        "name": "Marguerite Finkbeiner"
       },
-      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 cup small shells pasta",
+        "1 can cream of mushroom soup",
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the small shells pasta according to package directions. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with a cranberry salad."
+        }
+      ],
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "chicken-and-broccoli-234",
+      "similarity": "0.7242"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Breast",
+      "author": {
+        "@type": "Person",
+        "name": "Sandra Martin"
+      },
+      "description": "A simple breaded chicken breast recipe.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 chicken breasts",
+        "1 cup bread crumbs",
+        "1 tsp garlic powder",
+        "1 egg",
+        "1/2 cup milk",
+        "Salt and seasoning to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash chicken breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with garlic powder, salt, and seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip in milk, then egg mixture, then bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 9x13 inch pan at 350°F until golden."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with rice or noodles."
+        }
+      ],
+      "keywords": "chicken breast, breaded chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "chicken-breast-212",
+      "similarity": "0.7048"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Cheese Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
       "recipeCategory": "Casserole",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT30M",
       "totalTime": "PT50M",
-      "recipeYield": "Multiple servings",
+      "recipeYield": "1 casserole",
       "recipeIngredient": [
-        "2 lb ground beef",
-        "1 can cream of mushroom soup",
-        "1 medium onion",
-        "2 cans sliced mushrooms, drained",
-        "1 jar Ragu (700 mL)",
-        "1 pkg cooked elbow macaroni",
-        "1 can cream of celery soup",
-        "1 can cream of chicken soup",
-        "1 cup shredded mozzarella cheese"
+        "1½ lb diced cooked chicken",
+        "1 medium onion, finely chopped",
+        "2 cups cooked rice",
+        "¼ lb grated cheddar cheese",
+        "½ cup milk",
+        "1 can Campbell's cream of celery soup",
+        "4 Tbsp butter or margarine",
+        "¾ cup crushed corn flakes",
+        "1½ cups chopped celery",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef and onion, then add the mushrooms."
+          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
+          "text": "Put the mixture into a buttered casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
+          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake until the cheese is melted."
+          "text": "Cook until the celery is hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the corn flake and celery mixture over the chicken mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 375°F oven for about ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
         }
       ],
-      "keywords": "casserole, ground beef, noodle dish",
+      "keywords": "chicken casserole, cheesy rice bake, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "hamburg-noodle-casserole-172",
-      "similarity": "0.6881"
+      "url": "chicken-and-cheese-casserole-244",
+      "similarity": "0.6657"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken with a Chinese Accent",
+      "name": "Stuffing and Chicken",
       "author": {
         "@type": "Person",
-        "name": "Suzanne Finkbeiner"
+        "name": "Beth Clarke"
       },
-      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Chinese-American",
+      "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT35M",
-      "totalTime": "PT50M",
-      "recipeYield": "6 servings",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "6 boneless, skinless chicken breasts",
-        "1 can cream of mushroom soup",
-        "15 mL oil",
-        "50 mL vinegar",
-        "50 mL soya sauce",
-        "125 mL brown sugar",
-        "1 finely chopped onion"
+        "4 boned and skinned chicken breast halves",
+        "1⅓ cups Stove Top stuffing",
+        "1 can cream of chicken soup",
+        "4 slices Swiss cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
+          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the chicken to a casserole dish."
+          "text": "Put a slice of Swiss cheese on top of each breast."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
+          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake for 35 minutes at 350°F.",
+          "text": "Spread the cream of chicken soup over the stuffing layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350 °F for 1 hour.",
           "cookMethod": "Bake",
           "tool": "Oven",
           "temperature": {
@@ -290,78 +363,17 @@
             "value": 350,
             "unitCode": "FAR"
           },
-          "duration": "PT35M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the chicken with rice."
+          "duration": "PT1H"
         }
       ],
-      "keywords": "Chinese chicken, sweet and savory, baked chicken",
+      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "50 minutes"
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
       },
-      "url": "chicken-with-a-chinese-accent-245",
-      "similarity": "0.6785"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mushroom Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 Tbsp butter",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 cups sliced mushrooms",
-        "1/4 cup flour",
-        "2 cups stock (chicken or vegetable)",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "3 cups milk"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute butter, onion, garlic and mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add flour and stir together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, sauces and milk."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer until heated through (approximately 15 minutes)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
-        }
-      ],
-      "keywords": "mushroom soup, creamy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "mushroom-soup-113",
-      "similarity": "0.6775"
+      "url": "stuffing-and-chicken-242",
+      "similarity": "0.6585"
     }
   ]
 }

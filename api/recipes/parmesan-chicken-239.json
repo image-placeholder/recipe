@@ -63,58 +63,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Boneless Chicken Breasts",
-      "author": {
-        "@type": "Person",
-        "name": "Laura Nakamura"
-      },
-      "description": "A stuffed boneless chicken breast recipe with ham, cheese, and onions.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "4 boneless chicken breasts",
-        "1 cup fine bread crumbs",
-        "1 beaten egg",
-        "1 Tbsp milk",
-        "Ham, cut in strips",
-        "Cheese, shredded",
-        "Onions, finely chopped",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Pound chicken with a frying pan or mallet, skin side down."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Layer with ham, cheese, and onions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll up and dip in egg mixture, then coat with bread crumbs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put in a cake or casserole pan and bake at 350°F for 1/2 hour or until chicken is cooked."
-        }
-      ],
-      "keywords": "stuffed chicken breast, boneless chicken",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "boneless-chicken-breasts-213",
-      "similarity": "0.7867"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Chicken Breast",
       "author": {
         "@type": "Person",
@@ -164,216 +112,243 @@
         "totalTime": "45 minutes"
       },
       "url": "chicken-breast-212",
-      "similarity": "0.7612"
+      "similarity": "0.7232"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Thai Chicken",
+      "name": "Veal Parmigiana",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Suzanne Finkbeiner"
       },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "description": "Crispy breaded veal cutlets topped with a homemade quick tomato sauce and melted mozzarella cheese.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT30M",
+      "cookTime": "PT30M",
+      "totalTime": "PT1H",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
+        "1½ lb veal cutlets, ¼ inch thick",
+        "1 cup flour for coating",
+        "1 egg, beaten slightly with 2 to 3 tsp milk",
+        "¾ cup sifted dry bread crumbs",
+        "¾ cup fresh grated Parmesan cheese",
+        "½ to ¾ cup butter for frying",
+        "1 large can (16 oz) Italian crushed tomatoes",
+        "3 oz can tomato paste",
+        "2 Tbsp finely grated onion",
+        "2 Tbsp sugar",
+        "½ tsp salt",
+        "1 cup shredded mozzarella cheese for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+          "text": "Prepare breading station: In one bowl, mix egg and milk. In another, combine bread crumbs and Parmesan cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
+          "text": "Pound veal cutlets until thin, then coat in flour, dip in egg mixture, and finally coat with bread crumb mixture. Let sit for 15 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+          "text": "Melt butter in a frying pan and sauté veal over low heat until cooked through, flipping carefully."
         },
         {
           "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+          "text": "Combine crushed tomatoes, tomato paste, onion, sugar, and salt in a pot. Bring to a boil, then simmer gently for 15 to 20 minutes to make the quick tomato sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+          "text": "Place cooked veal in a baking pan, pour tomato sauce over the top, and sprinkle with shredded mozzarella cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+          "text": "Bake in a preheated 400°F oven until the cheese is melted and bubbly."
         }
       ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "keywords": "veal parmesan, breaded veal, Italian-American, tomato sauce",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "30 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "1 hour"
       },
-      "url": "thai-chicken-235",
-      "similarity": "0.7458"
+      "url": "veal-parmigiana-216",
+      "similarity": "0.7158"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Stuffing and Chicken",
+      "name": "Pepper Chicken Fettucini",
       "author": {
         "@type": "Person",
-        "name": "Beth Clarke"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
+      "description": "A colorful and flavorful chicken fettucini dish with sweet peppers, mushrooms, and Parmesan cheese.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Italian",
       "prepTime": "PT15M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "4 boned and skinned chicken breast halves",
-        "1⅓ cups Stove Top stuffing",
-        "1 can cream of chicken soup",
-        "4 slices Swiss cheese"
+        "1/4 cup olive oil",
+        "1 medium onion, cut into chunks",
+        "3 breasts chicken, cut in strips",
+        "2 sweet red peppers, cut in strips",
+        "1 yellow pepper, cut in strips",
+        "1 green pepper, cut in strips",
+        "2 cups sliced mushrooms",
+        "Fettucini noodles",
+        "1 tsp Italian herb seasoning",
+        "2 Tbsp grated Parmesan"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
+          "text": "Heat oil in a pan. Add chicken, peppers, onion, mushrooms, and seasoning. Stir-fry over medium heat until chicken is cooked through."
         },
         {
           "@type": "HowToStep",
-          "text": "Put a slice of Swiss cheese on top of each breast."
+          "text": "Add hot cooked fettucini noodles and toss."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the cream of chicken soup over the stuffing layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350 °F for 1 hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT1H"
+          "text": "Sprinkle with Parmesan and toss. Serve hot."
         }
       ],
-      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
+      "keywords": "chicken fettucini, pepper chicken, Italian-inspired",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes"
       },
-      "url": "stuffing-and-chicken-242",
-      "similarity": "0.7261"
+      "url": "pepper-chicken-fettucini-236",
+      "similarity": "0.6876"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Classy Chicken",
+      "name": "Boneless Chicken Breasts",
       "author": {
         "@type": "Person",
-        "name": "Ina Browning"
+        "name": "Laura Nakamura"
       },
-      "description": "A creamy, curry-flavored chicken dish with asparagus or broccoli and a cheddar cheese topping.",
+      "description": "A stuffed boneless chicken breast recipe with ham, cheese, and onions.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "4 to 6 servings",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "3 skinless, boneless chicken breasts",
-        "1 can cream of chicken soup",
-        "½ cup mayonnaise",
-        "¼ tsp pepper",
-        "1 tsp curry powder",
-        "3 Tbsp oil",
-        "1 tsp lemon juice",
-        "1 (10 oz) pkg frozen asparagus or broccoli",
-        "1 cup grated cheddar cheese"
+        "4 boneless chicken breasts",
+        "1 cup fine bread crumbs",
+        "1 beaten egg",
+        "1 Tbsp milk",
+        "Ham, cut in strips",
+        "Cheese, shredded",
+        "Onions, finely chopped",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cut the chicken into 2×4 inch pieces and sprinkle with pepper."
+          "text": "Pound chicken with a frying pan or mallet, skin side down."
         },
         {
           "@type": "HowToStep",
-          "text": "Saute the chicken slowly in oil over medium heat until white and clear, about 6 minutes. Drain."
+          "text": "Layer with ham, cheese, and onions."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook asparagus or broccoli until tender crisp, drain, and arrange in the bottom of a buttered 7-inch diameter casserole dish."
+          "text": "Roll up and dip in egg mixture, then coat with bread crumbs."
         },
         {
           "@type": "HowToStep",
-          "text": "Place the cooked chicken on top of the asparagus or broccoli layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the cream of chicken soup, mayonnaise, curry powder, and lemon juice together and pour over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle the grated cheddar cheese over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake, uncovered, at 375 °F for 30 to 35 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 375,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Put in a cake or casserole pan and bake at 350°F for 1/2 hour or until chicken is cooked."
         }
       ],
-      "keywords": "creamy chicken, curry chicken, asparagus, cheddar cheese",
+      "keywords": "stuffed chicken breast, boneless chicken",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "classy-chicken-243",
-      "similarity": "0.7261"
+      "url": "boneless-chicken-breasts-213",
+      "similarity": "0.6805"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Supreme",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4-8 servings",
+      "recipeIngredient": [
+        "8 boneless, skinless chicken breast pieces",
+        "1 (28 oz) can stewed tomatoes",
+        "1 chopped green pepper",
+        "1 chopped onion",
+        "2 generous slices of fresh Basil",
+        "2 Spanish Oregano slices",
+        "1 dozen chopped fresh Garlic",
+        "Salt and Seasoning salt",
+        "Onion powder",
+        "Grated mozzarella and cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil the chicken breasts in a separate container until pink is gone (about 1/4 of the way cooked)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a baking or roasting pan, mix together the tomato ingredients (stewed tomatoes, green pepper, onion, basil, oregano, garlic)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the partially cooked chicken breasts in the bottom of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle spices over the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the remaining tomato mixture on top of the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for approximately ½ hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese on top, cover, and bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over rice or pasta."
+        }
+      ],
+      "keywords": "chicken supreme, baked chicken, Italian-style chicken",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "chicken-supreme-238",
+      "similarity": "0.6771"
     }
   ]
 }

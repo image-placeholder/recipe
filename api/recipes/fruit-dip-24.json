@@ -88,47 +88,100 @@
         "totalTime": "5 minutes"
       },
       "url": "fluffy-fruit-dip-25",
-      "similarity": "0.8074"
+      "similarity": "0.7996"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Breakfast Orange Smoothie",
+      "name": "Yogurt Dip",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Jo Anne Pickering"
       },
-      "description": "A refreshing and healthy orange smoothie made with milk, banana, and a touch of silken tofu for creaminess.",
-      "recipeCategory": "Beverage",
+      "description": "A refreshing yogurt-based dip flavored with mayonnaise, herbs, and seasonings, perfect for vegetables.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
+      "prepTime": "PT10M",
       "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 serving",
+      "totalTime": "PT1H10M",
       "recipeIngredient": [
-        "¼ cup (or more) orange juice",
-        "1½ cups (more or less) milk or soy milk",
-        "1 banana, frozen",
-        "2 Tbsp silken tofu (optional)"
+        "½ cup sour cream or plain yogurt",
+        "2/3 cup mayonnaise",
+        "1 Tbsp dry onion flakes",
+        "1 tsp Accent",
+        "1 tsp seasoning salt",
+        "½ tsp dill weed",
+        "½ tsp Worcestershire sauce",
+        "1 Tbsp parsley",
+        "Vegetables for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Blend all ingredients together until smooth."
+          "text": "Mix all ingredients together in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour into a tall glass and serve immediately."
+          "text": "Let sit in the fridge for 1 hour to allow flavors to meld."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with vegetables."
         }
       ],
-      "keywords": "orange smoothie, breakfast drink, healthy beverage",
+      "keywords": "yogurt dip, healthy dip, vegetable dip",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
+        "prepTime": "10 minutes",
         "cookTime": "",
-        "totalTime": "5 minutes"
+        "totalTime": "1 hour 10 minutes"
       },
-      "url": "breakfast-orange-smoothie-51",
-      "similarity": "0.7158"
+      "url": "yogurt-dip-19",
+      "similarity": "0.6854"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pina Colada Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A creamy and tropical dip made with pineapple, coconut pudding, and sour cream, perfect for serving with fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PTOvernight",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 small can crushed pineapple, undrained",
+        "¾ cup milk",
+        "½ cup sour cream",
+        "3½ oz package instant coconut pudding and pie filling (or 1 vanilla pudding and ¼ cup shredded coconut with coconut extract)",
+        "½ tsp coconut extract"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together in a food processor or blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate overnight to allow flavors to meld."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve chilled with a variety of fresh fruits."
+        }
+      ],
+      "keywords": "pina colada dip, fruit dip, coconut pudding, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": null
+      },
+      "url": "pina-colada-dip-23",
+      "similarity": "0.6795"
     },
     {
       "@context": "https://schema.org/",
@@ -177,107 +230,68 @@
         "totalTime": "5 minutes"
       },
       "url": "salmon-dip-9",
-      "similarity": "0.6945"
+      "similarity": "0.6783"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Orange Julius Drink",
+      "name": "Nacho Dip",
       "author": {
         "@type": "Person",
-        "name": "Dave MacLeod"
+        "name": "Meghan Brand"
       },
-      "description": "A creamy and refreshing orange drink made with frozen orange juice concentrate, milk, and vanilla.",
-      "recipeCategory": "Beverage",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
+      "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
       "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "About 5 cups",
+      "totalTime": "PT10M",
+      "recipeYield": "1 large glass pan",
       "recipeIngredient": [
-        "3/4 cup frozen concentrated orange juice",
-        "2 Tbsp white sugar",
-        "2 tsp vanilla",
-        "1 cup milk",
-        "1 cup water",
-        "12 ice cubes"
+        "8 oz pkg cream cheese",
+        "500 g tub sour cream",
+        "¼ pkg taco seasoning mix",
+        "1 cup shredded cheddar cheese",
+        "1 small container salsa sauce",
+        "1 chopped red pepper",
+        "1 chopped green pepper",
+        "1 chopped tomato",
+        "Baked nacho chips for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Blend the orange juice concentrate, sugar, vanilla, milk, and water in a blender until smooth."
+          "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Add ice cubes just before serving and blend until the ice is fully incorporated."
+          "text": "Spread the mixture in a large glass pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve immediately and enjoy."
+          "text": "Spread salsa sauce over the cream cheese layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the salsa layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped red pepper, green pepper, and tomato on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with baked nacho chips."
         }
       ],
-      "keywords": "orange drink, creamy beverage, frozen orange juice",
+      "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
+        "prepTime": "10 minutes",
         "cookTime": "",
-        "totalTime": "5 minutes"
+        "totalTime": "10 minutes"
       },
-      "url": "orange-julius-drink-56",
-      "similarity": "0.6871"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Orange-Pineapple Jello",
-      "author": {
-        "@type": "Person",
-        "name": "Shelley Kinsman"
-      },
-      "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "1 serving",
-      "recipeIngredient": [
-        "1 package orange Jello",
-        "1 cup mini marshmallows",
-        "1 small can crushed pineapple",
-        "½ cup frozen orange juice concentrate",
-        "1 package Dream Whip",
-        "½ cup pecans"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Drain pineapple and reserve syrup. Add water to make ¾ cup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat the liquid to boiling."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place Jello in a bowl and add hot liquid, pineapple, and orange juice concentrate."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until thickish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fold in Dream Whip along with marshmallows and pecans."
-        }
-      ],
-      "keywords": "orange-pineapple Jello, fruity dessert, nuts",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "orange-pineapple-jello-76",
-      "similarity": "0.6863"
+      "url": "nacho-dip-29",
+      "similarity": "0.6658"
     }
   ]
 }

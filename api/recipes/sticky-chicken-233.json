@@ -65,6 +65,229 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Sticky Wings",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "Baked chicken wings glazed with a sweet and savory brown sugar and soy sauce mixture.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "2-3 lbs chicken wings",
+      "recipeIngredient": [
+        "2-3 lbs chicken wings",
+        "1 cup brown sugar",
+        "¼ cup soy sauce",
+        "2 tsp garlic salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 300°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Break chicken wings apart at the joints and discard tips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place wings in a roasting pan and cover with the sauce mixture (brown sugar, soy sauce, garlic salt)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the sauce evaporates and wings are sticky."
+        }
+      ],
+      "keywords": "sticky chicken wings, baked wings, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "sticky-wings-37",
+      "similarity": "0.7354"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken-Pineapple Stir-Fry",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "12 oz deboned chicken breast",
+        "2 tsp cornstarch",
+        "1 onion, chopped",
+        "¼ tsp cinnamon",
+        "1 cup diced celery",
+        "1½ tsp soya sauce",
+        "1 cup green pepper strips",
+        "2 tsp margarine",
+        "2 cups pineapple chunks (with juice reserved)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and cook until the sauce is clear and thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the stir-fry over hot rice."
+        }
+      ],
+      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "url": "chicken-pineapple-stir-fry-221",
+      "similarity": "0.6731"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Pineapple Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
+        "½ cup vinegar",
+        "2 Tbsp light brown sugar",
+        "½ tsp salt",
+        "¼ to ½ cup ketchup",
+        "¼ cup water",
+        "4 chicken breasts",
+        "1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
+        }
+      ],
+      "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "sweet-sour-pineapple-chicken-222",
+      "similarity": "0.6618"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Hawaiian",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Hawaiian",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1 can (10 oz/284 mL) chicken broth",
+        "1 Bake 'N Shake pouch",
+        "4 to 5 boneless chicken breasts",
+        "1 can (14 oz/398 mL) pineapple tidbits with juice",
+        "1 tsp ground ginger",
+        "1 garlic clove"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine rice, chicken broth, and contents of Bake 'N Shake pouch as directed on the package."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken breasts in a single layer in a 9x13 inch (2.5 L) casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Coat chicken with a mixture of ground ginger and garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top chicken with pineapple tidbits and juice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the prepared rice mixture over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake uncovered at 375°F (180°C) for 30 minutes."
+        }
+      ],
+      "keywords": "Hawaiian chicken, pineapple chicken, baked chicken and rice",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chicken-hawaiian-232",
+      "similarity": "0.6227"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Sweet and Sour Pineapple with Chicken and Ginger",
       "author": {
         "@type": "Person",
@@ -144,245 +367,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
-      "similarity": "0.8444"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sweet & Sour Pineapple Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
-        "½ cup vinegar",
-        "2 Tbsp light brown sugar",
-        "½ tsp salt",
-        "¼ to ½ cup ketchup",
-        "¼ cup water",
-        "4 chicken breasts",
-        "1 Tbsp cornstarch"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
-        }
-      ],
-      "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
-      },
-      "url": "sweet-sour-pineapple-chicken-222",
-      "similarity": "0.8059"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken-Pineapple Stir-Fry",
-      "author": {
-        "@type": "Person",
-        "name": "Louise Wein"
-      },
-      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT10M",
-      "cookTime": "PT5M",
-      "totalTime": "PT15M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "12 oz deboned chicken breast",
-        "2 tsp cornstarch",
-        "1 onion, chopped",
-        "¼ tsp cinnamon",
-        "1 cup diced celery",
-        "1½ tsp soya sauce",
-        "1 cup green pepper strips",
-        "2 tsp margarine",
-        "2 cups pineapple chunks (with juice reserved)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat and cook until the sauce is clear and thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the stir-fry over hot rice."
-        }
-      ],
-      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "15 minutes"
-      },
-      "url": "chicken-pineapple-stir-fry-221",
-      "similarity": "0.7807"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Glenda Wuerth"
-      },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
-        "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
-        }
-      ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
-      },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.7418"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Hawaiian",
-      "author": {
-        "@type": "Person",
-        "name": "Mary Kenney"
-      },
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Hawaiian",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1½ cups Minute Rice",
-        "1 can (10 oz/284 mL) chicken broth",
-        "1 Bake 'N Shake pouch",
-        "4 to 5 boneless chicken breasts",
-        "1 can (14 oz/398 mL) pineapple tidbits with juice",
-        "1 tsp ground ginger",
-        "1 garlic clove"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine rice, chicken broth, and contents of Bake 'N Shake pouch as directed on the package."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange chicken breasts in a single layer in a 9x13 inch (2.5 L) casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Coat chicken with a mixture of ground ginger and garlic."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top chicken with pineapple tidbits and juice."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle the prepared rice mixture over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake uncovered at 375°F (180°C) for 30 minutes."
-        }
-      ],
-      "keywords": "Hawaiian chicken, pineapple chicken, baked chicken and rice",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "chicken-hawaiian-232",
-      "similarity": "0.7343"
+      "similarity": "0.5937"
     }
   ]
 }

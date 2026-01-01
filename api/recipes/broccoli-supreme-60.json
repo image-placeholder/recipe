@@ -118,7 +118,7 @@
         "totalTime": "2 hours 15 minutes"
       },
       "url": "bacon-broccoli-salad-63",
-      "similarity": "0.8071"
+      "similarity": "0.7514"
     },
     {
       "@context": "https://schema.org/",
@@ -176,7 +176,7 @@
         "totalTime": "50 minutes"
       },
       "url": "supreme-broccoli-soup-casserole-128",
-      "similarity": "0.7765"
+      "similarity": "0.7514"
     },
     {
       "@context": "https://schema.org/",
@@ -242,114 +242,113 @@
         "totalTime": "30 minutes"
       },
       "url": "fresh-broccoli-mandarin-salad-64",
-      "similarity": "0.7695"
+      "similarity": "0.6929"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Caesar Dressin' Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Towton"
-      },
-      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
-      "recipeCategory": "Salad Dressing",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 batch",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
       "recipeIngredient": [
-        "½ tsp Worcestershire sauce",
-        "3 garlic cloves",
-        "½ tsp dry mustard",
-        "2 beaten egg yolks",
-        "½ tsp salt",
-        "½ cup lemon juice",
-        "Dash pepper",
-        "1 cup oil",
-        "¼ cup white sugar",
-        "1 cup Parmesan cheese"
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Can be kept in the fridge for up to 2 weeks."
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
         }
       ],
-      "keywords": "Caesar dressing, homemade salad dressing",
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
       },
-      "url": "caesar-dressin-salad-101",
-      "similarity": "0.7499"
+      "url": "broccoli-casserole-129",
+      "similarity": "0.6916"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheese & Broccoli Soup",
+      "name": "Broccoli Casserole",
       "author": {
         "@type": "Person",
-        "name": "Jeff Slaght"
+        "name": "Eleanor Beaver"
       },
-      "description": "A creamy broccoli and cheese soup with a smooth texture.",
-      "recipeCategory": "Soup",
+      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT20M",
-      "totalTime": "PT30M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "½ tsp pepper",
-        "2 Tbsp butter",
-        "Salt to taste",
-        "1 chopped onion",
-        "1½ cups milk",
-        "2 Tbsp all-purpose flour",
-        "½ cup grated cheese",
-        "½ cup chicken broth",
-        "3 cups cooked broccoli (fresh or partially aged)"
+        "2 heads broccoli, precooked",
+        "1 cup celery, precooked",
+        "1 can mushroom soup",
+        "½ cup grated cheese",
+        "1 Tbsp melted margarine",
+        "½ cup sour cream",
+        "1 cup bread crumbs"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
+          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
         },
         {
           "@type": "HowToStep",
-          "text": "Add flour mixture and cook for 3 minutes."
+          "text": "Spread the topping over the casserole."
         },
         {
           "@type": "HowToStep",
-          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Puree the mixture until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat with milk, cheese, and seasonings."
+          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
         }
       ],
-      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "30 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
       },
-      "url": "cheese-broccoli-soup-105",
-      "similarity": "0.7496"
+      "url": "broccoli-casserole-133",
+      "similarity": "0.6916"
     }
   ]
 }

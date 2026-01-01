@@ -69,68 +69,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Turkey A La King",
-      "author": {
-        "@type": "Person",
-        "name": "Jean E. Neil"
-      },
-      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "⅓ cup butter",
-        "1 tsp salt",
-        "¼ lb mushrooms, sliced",
-        "1 cup chicken broth",
-        "¼ cup chopped onion",
-        "1 cup milk",
-        "2 cups cooked diced turkey",
-        "¼ cup chopped celery",
-        "¼ cup chopped green pepper",
-        "¼ cup flour"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over hot toast, biscuits, or rice."
-        }
-      ],
-      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "turkey-a-la-king-248",
-      "similarity": "0.7996"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Hearty Chicken Pot Pie",
       "author": {
         "@type": "Person",
@@ -193,7 +131,69 @@
         "totalTime": "1 hour 30 minutes"
       },
       "url": "hearty-chicken-pot-pie-250",
-      "similarity": "0.7767"
+      "similarity": "0.7452"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey A La King",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅓ cup butter",
+        "1 tsp salt",
+        "¼ lb mushrooms, sliced",
+        "1 cup chicken broth",
+        "¼ cup chopped onion",
+        "1 cup milk",
+        "2 cups cooked diced turkey",
+        "¼ cup chopped celery",
+        "¼ cup chopped green pepper",
+        "¼ cup flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over hot toast, biscuits, or rice."
+        }
+      ],
+      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "turkey-a-la-king-248",
+      "similarity": "0.7240"
     },
     {
       "@context": "https://schema.org/",
@@ -269,7 +269,7 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "similarity": "0.7659"
+      "similarity": "0.7109"
     },
     {
       "@context": "https://schema.org/",
@@ -344,81 +344,63 @@
         "totalTime": "55 minutes"
       },
       "url": "hamburger-pie-169",
-      "similarity": "0.7653"
+      "similarity": "0.7051"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Thai Chicken",
+      "name": "Barley and Corn Casserole",
       "author": {
         "@type": "Person",
         "name": "Barbara Robertson"
       },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
+      "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
+        "1 Tbsp oil",
+        "3 cups vegetable stock",
+        "1 onion, chopped",
+        "2 cups kernel corn (fresh or canned)",
+        "3 cloves garlic, minced",
+        "2 carrots, finely chopped",
+        "Chopped fresh parsley",
+        "1 cup pearl or pot barley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+          "text": "Heat oil in a heavy casserole. Cook onion, garlic, and carrots until the onion is softened, stirring frequently."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
+          "text": "Stir in barley and cook for 1-2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+          "text": "Pour in vegetable stock, cover, and bake at 350 °F for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+          "text": "Test that barley is tender. Stir in corn and parsley."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+          "text": "Return to the oven to heat through. Season with pepper to taste."
         }
       ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "keywords": "barley casserole, corn, carrots, comforting side dish",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
-      "url": "thai-chicken-235",
-      "similarity": "0.7411"
+      "url": "barley-and-corn-casserole-132",
+      "similarity": "0.6397"
     }
   ]
 }

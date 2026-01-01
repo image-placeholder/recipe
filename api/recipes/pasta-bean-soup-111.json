@@ -64,313 +64,294 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chili Turkey",
+      "name": "Cheese & Broccoli Soup",
       "author": {
         "@type": "Person",
-        "name": "Dianne Finkbeiner"
+        "name": "Jeff Slaght"
       },
-      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
-      "recipeCategory": "Main Course",
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 tsp ground coriander",
-        "1½ tsp vegetable oil",
-        "¼ tsp salt",
-        "1 large chopped onion",
-        "½ tsp ground cumin",
-        "1 large chopped green pepper",
-        "¼ tsp cinnamon",
-        "2 chopped garlic cloves",
-        "2 to 3 Tbsp chili powder",
-        "1⅓ lb ground turkey",
-        "1 can red kidney beans",
-        "1¾ cups chicken broth",
-        "6 oz whole wheat spaghetti",
-        "3 tsp tomato paste",
-        "½ cup shredded cheese",
-        "1½ tsp dried oregano"
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic and cook for 1 minute."
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+          "text": "Add flour mixture and cook for 3 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+          "text": "Puree the mixture until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the pasta as directed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+          "text": "Heat with milk, cheese, and seasonings."
         }
       ],
-      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "cheese-broccoli-soup-105",
+      "similarity": "0.7441"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a rich, velvety texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "1½ cups grated cheese",
+        "1½ cups chicken broth",
+        "3 cups fresh broccoli, partially cooked"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onions until tender; do not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and broccoli; bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in flour and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat; cook and stir until mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and simmer for 15 minutes; do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat through with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "cheese-broccoli-soup-108",
+      "similarity": "0.7441"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Veggie Basic Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Julie-Ann Bibby"
+      },
+      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1/2 tsp ground pepper",
+        "3 Tbsp butter",
+        "1 Tbsp dried parsley",
+        "1 diced onion",
+        "3 Tbsp soya sauce",
+        "2 large diced carrots",
+        "1 Tbsp Worcestershire sauce",
+        "3 stalks diced celery",
+        "1 tsp paprika",
+        "1 can whole diced tomatoes",
+        "2 qt beef broth",
+        "1 Tbsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
+        }
+      ],
+      "keywords": "vegetable soup, beef broth, savory soup",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "chili-turkey-247",
-      "similarity": "0.8041"
+      "url": "veggie-basic-soup-120",
+      "similarity": "0.7391"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
+      "name": "Tomato Macaroni Soup",
+      "author": [
         {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+          "@type": "Person",
+          "name": "Linda Finkbeiner"
         },
         {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
+          "@type": "Person",
+          "name": "Shirley Preszcator"
         }
       ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.7897"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-187",
-      "similarity": "0.7897"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Ginger Noodle Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A flavorful and aromatic Asian-inspired soup featuring pork, ginger, and rice stick noodles in a savory chicken broth.",
+      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
       "recipeCategory": "Soup",
-      "recipeCuisine": "Asian",
+      "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 pork chop, sliced into small pieces",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 Tbsp chopped ginger root",
-        "2 Tbsp soy sauce",
-        "4 cups chicken stock",
-        "1/3 cup hoisin sauce",
-        "1 carrot, shredded",
-        "1/2 cup sliced mushrooms",
-        "1 cup rice stick noodles",
-        "1 green onion, thinly sliced",
-        "1/2 cup bean sprouts",
-        "4 sprigs coriander (cilantro)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a saucepan brown pork over medium heat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add onion, garlic, ginger, hoisin sauce and soy sauce. Cook for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add rest of ingredients, bring to a boil, reduce heat and simmer 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Garnish with green onion and coriander."
-        }
-      ],
-      "keywords": "ginger noodle soup, Asian soup, pork soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "ginger-noodle-soup-114",
-      "similarity": "0.7806"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Thai Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
+      "cookTime": "PT20M",
       "totalTime": "PT35M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
+        "1 Tbsp oil",
+        "1½ cups water",
+        "1 cooking onion, diced",
+        "1 cup dry macaroni",
+        "2 carrots, diced",
+        "½ tsp garlic salt",
+        "3 or 4 celery stalks, diced",
+        "½ tsp Worcestershire sauce",
+        "2 cups chicken stock",
+        "2 cups tomato juice",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+          "text": "Saute onion, celery, and carrot in oil until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
+          "text": "Add stock, juice, and water. Bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+          "text": "Add pasta and cook until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+          "text": "Add garlic salt and Worcestershire sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+          "text": "Season to taste with salt and pepper."
         }
       ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "keywords": "tomato macaroni soup, comfort food, pasta soup",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "thai-chicken-235",
-      "similarity": "0.7787"
+      "url": "tomato-macaroni-soup-123",
+      "similarity": "0.7368"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 Tbsp liquid sweetener",
+        "½ head cabbage",
+        "1 can French-style beans (optional)",
+        "3 cups tomato juice",
+        "4 cups water",
+        "1 large can mushrooms",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery, including leaves and tips",
+        "1 tsp lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "cabbage-soup-106",
+      "similarity": "0.7307"
     }
   ]
 }

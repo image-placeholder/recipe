@@ -123,196 +123,131 @@
         "totalTime": "6 hours 50 minutes"
       },
       "url": "roasted-lamb-218",
-      "similarity": "0.7075"
+      "similarity": "0.7622"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
+      "name": "Saucy Sausages",
       "author": {
         "@type": "Person",
-        "name": "Glenda Wuerth"
+        "name": "Lori Allen"
       },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "description": "A flavorful Oktoberfest sausage dish baked in a rich sauce made with chili sauce, salsa, and spices.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
       "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
-        "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
+        "Approximately 9 Oktoberfest sausages",
+        "1 Tbsp garlic barbecue sauce",
+        "4 Tbsp HP sauce",
+        "1 cup chili sauce",
+        "1 tsp garlic salt",
+        "1 cup salsa sauce",
+        "1 tsp seasoning salt",
+        "¼ cup ketchup",
+        "1 tsp onion powder"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
+          "text": "First, boil sausages until almost done or brown them in a frying pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+          "text": "In a separate bowl, combine the barbecue sauce, HP sauce, chili sauce, garlic salt, salsa sauce, seasoning salt, ketchup, and onion powder."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
+          "text": "Place the sausages in the bottom of a roasting pan or baking dish. Sprinkle with the three spices (garlic salt, seasoning salt, onion powder). Cover with the sauce mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
+          "text": "Cover and bake in a 350 °F oven for approximately ½ hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+          "text": "Can be served with rice."
         }
       ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "keywords": "Oktoberfest sausages, saucy sausages, baked sausages",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
       },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.6094"
+      "url": "saucy-sausages-205",
+      "similarity": "0.5751"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Nacho Salad",
+      "name": "Caesar Salad",
       "author": {
         "@type": "Person",
-        "name": "Martine Bercier"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A spicy nacho salad with ground beef, lettuce, tomatoes, and nacho chips, topped with a creamy dressing.",
+      "description": "A classic Caesar salad recipe with romaine lettuce, crumbled bacon, croutons, and a homemade dressing.",
       "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1/2 romaine lettuce, shredded",
-        "1/4 lb lean ground beef",
-        "1/2 onion, chopped",
-        "1 clove garlic, crushed",
-        "1/2 cup Monterey Jack cheese (or mozzarella), shredded",
-        "1/2 cup nacho chips, lightly crushed",
-        "2 tomatoes, coarsely diced",
-        "1/2 tsp cayenne pepper",
-        "1/4 cup mayonnaise",
-        "1 tsp relish",
-        "1 Tbsp ketchup",
-        "2 drops hot pepper sauce (Tabasco)",
-        "1/4 cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Drain excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add spices and water to the beef mixture. Bring to a boil, then simmer for 15 minutes. Let cool for 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large salad bowl, mix together the shredded lettuce, diced tomatoes, shredded cheese, and crushed nacho chips."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a separate bowl, mix the mayonnaise, relish, ketchup, and hot pepper sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the dressing over the salad and add the cooled meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss the salad to combine all ingredients and serve."
-        }
-      ],
-      "keywords": "nacho salad, spicy salad, ground beef salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "nacho-salad-73",
-      "similarity": "0.5969"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Stir-Fry Beef",
-      "author": {
-        "@type": "Person",
-        "name": "Donise Baker (Dundas)"
-      },
-      "description": "A quick and flavorful beef stir-fry with vegetables and a savory sauce, served over cooked rice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
       "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 can tomato soup",
-        "2 Tbsp vegetable oil",
-        "½ cup orange juice",
-        "2 lb boneless beef sirloin, cut into pieces",
-        "4 Tbsp soya sauce",
-        "1 large green pepper, cut into strips",
-        "2 Tbsp vinegar",
-        "8 cups cooked rice",
-        "1 large onion, sliced"
+        "1 romaine lettuce",
+        "6 slices bacon, cooked and crumbled",
+        "1 tsp wine vinegar",
+        "½ tsp Worcestershire sauce",
+        "2 shakes Tabasco sauce",
+        "Croutons",
+        "1 egg",
+        "1 tsp capers (optional)",
+        "3 to 4 mashed anchovies",
+        "Dressing (keeps 2 days):",
+        "⅓ cup olive oil",
+        "1 clove garlic, minced",
+        "2 Tbsp lemon",
+        "½ tsp dry mustard",
+        "¼ tsp salt and pepper",
+        "2 Tbsp Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat vegetable oil in a frying pan."
+          "text": "Rub salad bowl with garlic."
         },
         {
           "@type": "HowToStep",
-          "text": "Add beef and stir-fry until cooked through. Set aside."
+          "text": "Wash and tear lettuce. Dry in a tea towel."
         },
         {
           "@type": "HowToStep",
-          "text": "Add peppers and onion to the pan and stir-fry until tender."
+          "text": "Place lettuce in bowl with bacon and croutons."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in the mixture of tomato soup, soya sauce, orange juice, and vinegar. Cook until heated through."
+          "text": "Blend dressing ingredients together."
         },
         {
           "@type": "HowToStep",
-          "text": "Return beef to the pan and heat through, stirring occasionally."
+          "text": "Pour dressing over salad and toss until leaves are coated."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve the beef mixture over cooked rice."
+          "text": "Serve with freshly grated Parmesan."
         }
       ],
-      "keywords": "beef stir-fry, Asian-inspired, quick dinner",
+      "keywords": "Caesar salad, bacon, croutons, homemade dressing",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "stir-fry-beef-145",
-      "similarity": "0.5948"
+      "url": "caesar-salad-59",
+      "similarity": "0.5674"
     },
     {
       "@context": "https://schema.org/",
@@ -368,7 +303,51 @@
         "totalTime": "40 minutes"
       },
       "url": "pork-chops-with-dried-fruit-206",
-      "similarity": "0.5914"
+      "similarity": "0.5354"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Club Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "1 large bowl",
+      "recipeIngredient": [
+        "7 cups romaine lettuce",
+        "1 cup crisp cooked bacon, chopped",
+        "1 cup chopped hard-boiled eggs",
+        "¾ cup ranch or dip dressing",
+        "¾ cup grated cheese (marble, cheddar, etc.)",
+        "1 cup cooked chicken breast, diced",
+        "½ cup grated carrots",
+        "1 cup diced tomatoes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients in a large bowl, layering each ingredient to look festive."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with dressing."
+        }
+      ],
+      "keywords": "layered salad, club salad, ranch dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "url": "club-salad-68",
+      "similarity": "0.5321"
     }
   ]
 }

@@ -100,7 +100,51 @@
         "totalTime": "2 hours 35 minutes"
       },
       "url": "maple-glazed-ribs-203",
-      "similarity": "0.7932"
+      "similarity": "0.6993"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spareribs to Go",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A versatile spareribs recipe that can be broiled or heated in a glaze sauce, perfect for make-ahead meals.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeIngredient": [
+        "3 to 4 lb spareribs",
+        "1 cup ketchup",
+        "¼ cup soya sauce",
+        "Glaze: 4 crushed garlic cloves",
+        "½ cup honey"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil spareribs, cut into serving pieces, in salted water for 1½ hours. Drain and place in a shallow dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the glaze mixture (garlic and honey) over the ribs. May be frozen for later use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To finish, remove ribs from the glaze and broil 6 inches from heat in the oven or barbecue until crisp. Alternatively, baste ribs and heat in the sauce."
+        }
+      ],
+      "keywords": "spareribs, garlic honey glaze, make-ahead ribs",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "spareribs-to-go-204",
+      "similarity": "0.6897"
     },
     {
       "@context": "https://schema.org/",
@@ -158,7 +202,7 @@
         "totalTime": "1 hour"
       },
       "url": "oven-barbecued-pork-chops-210",
-      "similarity": "0.6495"
+      "similarity": "0.6351"
     },
     {
       "@context": "https://schema.org/",
@@ -225,7 +269,7 @@
         "totalTime": "2 hours"
       },
       "url": "pork-chop-rice-casserole-211",
-      "similarity": "0.6304"
+      "similarity": "0.6176"
     },
     {
       "@context": "https://schema.org/",
@@ -281,70 +325,7 @@
         "totalTime": "40 minutes"
       },
       "url": "pork-chops-with-dried-fruit-206",
-      "similarity": "0.6231"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Glenda Wuerth"
-      },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
-        "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
-        }
-      ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
-      },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.6166"
+      "similarity": "0.5921"
     }
   ]
 }

@@ -106,59 +106,7 @@
         "totalTime": "2 hours 15 minutes"
       },
       "url": "cottage-cheese-jellied-salad-66",
-      "similarity": "0.7712"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Orange Jello Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Betty Macisaac"
-      },
-      "description": "A simple orange Jello salad with mandarin oranges and Dream Whip.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT5M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 serving",
-      "recipeIngredient": [
-        "1½ cups hot water",
-        "1 small package orange Jello",
-        "1 small package Dream Whip (not pudding or instant vanilla)",
-        "1 can mandarin oranges"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Put the first 3 ingredients into a saucepan and cook until clear."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cool the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix Dream Whip according to package instructions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain oranges and add Dream Whip and oranges to the cooled mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Allow to cool completely before serving."
-        }
-      ],
-      "keywords": "orange Jello salad, mandarin oranges, Dream Whip",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "orange-jello-salad-75",
-      "similarity": "0.7460"
+      "similarity": "0.7151"
     },
     {
       "@context": "https://schema.org/",
@@ -212,7 +160,59 @@
         "totalTime": "25 minutes"
       },
       "url": "orange-pineapple-jello-76",
-      "similarity": "0.7124"
+      "similarity": "0.6976"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Strawberry Tossed Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Donelda Lewis"
+      },
+      "description": "A fresh and fruity salad with mixed greens, strawberries, and a sweet vinaigrette.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "4 cups torn Bibb or Boston lettuce",
+        "8 cups torn romaine lettuce",
+        "2½ cups sliced fresh strawberries",
+        "1 cup (4 oz) shredded Monterey Jack cheese",
+        "½ cup slivered almonds, toasted or coated with sugar",
+        "½ cup vegetable oil",
+        "⅓ cup white sugar",
+        "¼ cup cider or red wine vinegar",
+        "1 garlic clove, minced",
+        "¼ tsp salt",
+        "¼ tsp paprika",
+        "Pinch white pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the first 7 ingredients (oil, sugar, vinegar, garlic, salt, paprika, and white pepper) in a jar with a tight-fitting lid and shake well to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, toss salad greens, strawberries, cheese, and almonds in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle with the prepared dressing and toss to coat."
+        }
+      ],
+      "keywords": "strawberry salad, fruit salad, sweet salad dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "url": "strawberry-tossed-salad-96",
+      "similarity": "0.6394"
     },
     {
       "@context": "https://schema.org/",
@@ -256,72 +256,59 @@
         "totalTime": null
       },
       "url": "lemon-salad-80",
-      "similarity": "0.6957"
+      "similarity": "0.6393"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken-Pineapple Stir-Fry",
+      "name": "Orange Jello Salad",
       "author": {
         "@type": "Person",
-        "name": "Louise Wein"
+        "name": "Betty Macisaac"
       },
-      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT10M",
+      "description": "A simple orange Jello salad with mandarin oranges and Dream Whip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
       "cookTime": "PT5M",
-      "totalTime": "PT15M",
-      "recipeYield": "4 servings",
+      "totalTime": "PT20M",
+      "recipeYield": "1 serving",
       "recipeIngredient": [
-        "12 oz deboned chicken breast",
-        "2 tsp cornstarch",
-        "1 onion, chopped",
-        "¼ tsp cinnamon",
-        "1 cup diced celery",
-        "1½ tsp soya sauce",
-        "1 cup green pepper strips",
-        "2 tsp margarine",
-        "2 cups pineapple chunks (with juice reserved)"
+        "1½ cups hot water",
+        "1 small package orange Jello",
+        "1 small package Dream Whip (not pudding or instant vanilla)",
+        "1 can mandarin oranges"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
+          "text": "Put the first 3 ingredients into a saucepan and cook until clear."
         },
         {
           "@type": "HowToStep",
-          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
+          "text": "Cool the mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
+          "text": "Mix Dream Whip according to package instructions."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
+          "text": "Drain oranges and add Dream Whip and oranges to the cooled mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat and cook until the sauce is clear and thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the stir-fry over hot rice."
+          "text": "Allow to cool completely before serving."
         }
       ],
-      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
+      "keywords": "orange Jello salad, mandarin oranges, Dream Whip",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
+        "prepTime": "15 minutes",
         "cookTime": "5 minutes",
-        "totalTime": "15 minutes"
+        "totalTime": "20 minutes"
       },
-      "url": "chicken-pineapple-stir-fry-221",
-      "similarity": "0.6786"
+      "url": "orange-jello-salad-75",
+      "similarity": "0.6373"
     }
   ]
 }

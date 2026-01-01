@@ -105,7 +105,7 @@
         "totalTime": "1 hour 25 minutes"
       },
       "url": "crunchy-top-ham-and-potato-casserole-197",
-      "similarity": "0.8942"
+      "similarity": "0.8929"
     },
     {
       "@context": "https://schema.org/",
@@ -156,66 +156,7 @@
         "totalTime": "8 hours 20 minutes"
       },
       "url": "ham-potato-casserole-209",
-      "similarity": "0.7947"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheesy Ham Chowder",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A creamy, cheesy ham chowder with potatoes, carrots, and corn, finished with crispy bacon.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT40M",
-      "totalTime": "PT1H",
-      "recipeYield": "10 servings",
-      "recipeIngredient": [
-        "10 strips bacon, diced",
-        "1 large onion, chopped",
-        "2 tsp chicken bouillon granules",
-        "1 cup diced carrots",
-        "3 Tbsp all-purpose flour",
-        "3 cups (12 oz) shredded cheddar cheese",
-        "3 cups milk",
-        "1½ cups water",
-        "2 cups fully cooked, cubed ham",
-        "2½ cups cubed potatoes",
-        "1 can (15 oz) corn, drained"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large soup kettle or Dutch oven, cook the bacon over medium heat until crisp. Remove to paper towels to drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In the bacon drippings, sauté the chopped onion until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in the flour until blended. Gradually add the milk and water, bringing to a boil. Cook and stir for 2 minutes or until thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the potatoes, corn, bouillon granules, and pepper. Reduce heat and simmer, uncovered, for 20 minutes or until potatoes are tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the shredded cheese and cubed ham; heat until cheese is melted. Stir in the cooked bacon."
-        }
-      ],
-      "keywords": "ham chowder, cheesy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "40 minutes",
-        "totalTime": "1 hour"
-      },
-      "url": "cheesy-ham-chowder-116",
-      "similarity": "0.7581"
+      "similarity": "0.8725"
     },
     {
       "@context": "https://schema.org/",
@@ -283,51 +224,120 @@
         "totalTime": "40 minutes"
       },
       "url": "macaroni-ham-casserole-196",
-      "similarity": "0.7472"
+      "similarity": "0.7659"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sliced Ham",
-      "author": {
-        "@type": "Person",
-        "name": "Evelyn Pickering"
-      },
-      "description": "A simple baked ham recipe with a brown sugar, mustard, and allspice topping.",
-      "recipeCategory": "Main Course",
+      "name": "Potato Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Heather Clarke"
+        },
+        {
+          "@type": "Person",
+          "name": "M. Leanne Kenney"
+        }
+      ],
+      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT25M",
-      "totalTime": "PT30M",
-      "recipeYield": "6 slices",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 casserole",
       "recipeIngredient": [
-        "6 slices ham, about ½ inch thick",
-        "1 Tbsp dry mustard",
-        "¾ cup brown sugar",
-        "1 Tbsp allspice"
+        "1 (2 lb) bag frozen hash browns",
+        "1 can cream of celery soup",
+        "1 can cream of mushroom soup",
+        "500 mL sour cream",
+        "1 cup grated cheese",
+        "¼ cup diced onions"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Place ham slices on a cookie sheet."
+          "text": "Mix all ingredients together in a shallow pan until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix brown sugar, dry mustard, and allspice together. Sprinkle over ham slices."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in 350°F oven for 20 to 30 minutes, turning once and sprinkling additional mixture on the other side."
+          "text": "Bake at 350°F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
         }
       ],
-      "keywords": "baked ham, glazed ham, sweet ham",
+      "keywords": "potato casserole, hash browns, creamy, cheesy",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "30 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
       },
-      "url": "sliced-ham-199",
-      "similarity": "0.7221"
+      "url": "potato-casserole-141",
+      "similarity": "0.7181"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Barley and Corn Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 Tbsp oil",
+        "3 cups vegetable stock",
+        "1 onion, chopped",
+        "2 cups kernel corn (fresh or canned)",
+        "3 cloves garlic, minced",
+        "2 carrots, finely chopped",
+        "Chopped fresh parsley",
+        "1 cup pearl or pot barley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a heavy casserole. Cook onion, garlic, and carrots until the onion is softened, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in barley and cook for 1-2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour in vegetable stock, cover, and bake at 350 °F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Test that barley is tender. Stir in corn and parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to the oven to heat through. Season with pepper to taste."
+        }
+      ],
+      "keywords": "barley casserole, corn, carrots, comforting side dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "barley-and-corn-casserole-132",
+      "similarity": "0.6719"
     }
   ]
 }

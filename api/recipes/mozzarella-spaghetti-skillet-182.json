@@ -108,7 +108,7 @@
         "totalTime": "4 hours 20 minutes"
       },
       "url": "spaghetti-sauce-177",
-      "similarity": "0.8397"
+      "similarity": "0.8075"
     },
     {
       "@context": "https://schema.org/",
@@ -162,7 +162,77 @@
         "totalTime": "2 hours 20 minutes"
       },
       "url": "spaghetti-sauce-187",
-      "similarity": "0.8397"
+      "similarity": "0.8075"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 quart casserole",
+      "recipeIngredient": [
+        "½ lb spaghetti",
+        "½ lb ground beef",
+        "1 can (19 oz) diced tomatoes",
+        "½ cup chopped onion",
+        "1 can (10 oz) condensed cream of mushroom soup",
+        "1½ tsp salt",
+        "¼ tsp pepper",
+        "1 cup grated medium cheddar cheese",
+        "½ tsp garlic",
+        "1 can (10 oz) mushroom pieces, drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef and onion in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti according to package directions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour canned tomatoes over the spaghetti layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the browned meat mixture over the tomatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with cream of mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
+        }
+      ],
+      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "spaghetti-casserole-178",
+      "similarity": "0.7789"
     },
     {
       "@context": "https://schema.org/",
@@ -239,7 +309,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "baked-spaghetti-and-meatballs-176",
-      "similarity": "0.8395"
+      "similarity": "0.7579"
     },
     {
       "@context": "https://schema.org/",
@@ -316,79 +386,7 @@
         "totalTime": "50 minutes"
       },
       "url": "pizza-casserole-171",
-      "similarity": "0.8321"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Pizza Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "June Schroeder"
-      },
-      "description": "A hearty pizza casserole made with spaghetti, hamburger, pepperoni, and mozzarella cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 9x13 inch pan",
-      "recipeIngredient": [
-        "8 or 7 oz spaghetti",
-        "1 lb hamburger",
-        "1/2 cup chopped onion",
-        "2 Tbsp margarine or butter",
-        "2 eggs, beaten",
-        "1/3 cup grated Parmesan cheese",
-        "1 (32 oz) jar spaghetti sauce",
-        "1 pkg (3 oz) pepperoni, sliced",
-        "4 cups diced mozzarella cheese",
-        "1 tsp dried oregano leaves",
-        "1 tsp cooking oil or olive oil",
-        "Salt to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook spaghetti as per package instructions and drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a bowl, combine cooked spaghetti, margarine or butter, eggs, and Parmesan cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the spaghetti mixture in a greased 9x13 inch pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Brown hamburger and onion in a skillet and spoon over the spaghetti mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread spaghetti sauce over the hamburger mixture and cover with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with oregano and drizzle with oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange pepperoni slices on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated 350°F oven for 20 to 30 minutes."
-        }
-      ],
-      "keywords": "pizza casserole, spaghetti, hamburger, pepperoni",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "pizza-casserole-202",
-      "similarity": "0.8321"
+      "similarity": "0.7379"
     }
   ]
 }

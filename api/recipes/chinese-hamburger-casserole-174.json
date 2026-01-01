@@ -65,59 +65,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hamburg Noodle Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Grace Yearley"
-      },
-      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb ground beef",
-        "1 can cream of mushroom soup",
-        "1 medium onion",
-        "2 cans sliced mushrooms, drained",
-        "1 jar Ragu (700 mL)",
-        "1 pkg cooked elbow macaroni",
-        "1 can cream of celery soup",
-        "1 can cream of chicken soup",
-        "1 cup shredded mozzarella cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef and onion, then add the mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until the cheese is melted."
-        }
-      ],
-      "keywords": "casserole, ground beef, noodle dish",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "hamburg-noodle-casserole-172",
-      "similarity": "0.8070"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Noodles with Hamburg",
       "author": {
         "@type": "Person",
@@ -180,58 +127,198 @@
         "totalTime": "40 minutes"
       },
       "url": "noodles-with-hamburg-166",
-      "similarity": "0.7979"
+      "similarity": "0.7767"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken and Broccoli",
+      "name": "Chicken with a Chinese Accent",
       "author": {
         "@type": "Person",
-        "name": "Marguerite Finkbeiner"
+        "name": "Suzanne Finkbeiner"
       },
-      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Chinese-American",
       "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 cup small shells pasta",
+        "6 boneless, skinless chicken breasts",
         "1 can cream of mushroom soup",
-        "2 cups broccoli, cooked",
-        "1½ cups chicken, cooked and chopped",
-        "½ cup milk",
-        "½ cup Parmesan cheese",
-        "¼ tsp ground pepper"
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the small shells pasta according to package directions. Drain."
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+          "text": "Transfer the chicken to a casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot with a cranberry salad."
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken with rice."
         }
       ],
-      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "chicken-and-broccoli-234",
-      "similarity": "0.7927"
+      "url": "chicken-with-a-chinese-accent-245",
+      "similarity": "0.7469"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef and Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kurtis Brand"
+      },
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
+      "recipeIngredient": [
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Sauté celery and onion in butter until soft and tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place rice in a greased 1½ quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the rice with the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "beef casserole, rice casserole, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "beef-and-rice-casserole-168",
+      "similarity": "0.7464"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburg Noodle Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Grace Yearley"
+      },
+      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "1 can cream of mushroom soup",
+        "1 medium onion",
+        "2 cans sliced mushrooms, drained",
+        "1 jar Ragu (700 mL)",
+        "1 pkg cooked elbow macaroni",
+        "1 can cream of celery soup",
+        "1 can cream of chicken soup",
+        "1 cup shredded mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef and onion, then add the mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the cheese is melted."
+        }
+      ],
+      "keywords": "casserole, ground beef, noodle dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "hamburg-noodle-casserole-172",
+      "similarity": "0.7124"
     },
     {
       "@context": "https://schema.org/",
@@ -306,57 +393,7 @@
         "totalTime": "55 minutes"
       },
       "url": "hamburger-pie-169",
-      "similarity": "0.7734"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.7729"
+      "similarity": "0.6906"
     }
   ]
 }

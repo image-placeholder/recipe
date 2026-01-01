@@ -135,104 +135,61 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
-      "similarity": "0.6819"
+      "similarity": "0.5388"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Wilmar Wein Punch",
+      "name": "Orange-Pineapple Jello",
       "author": {
         "@type": "Person",
-        "name": "Wilmar Wein"
+        "name": "Shelley Kinsman"
       },
-      "description": "A sophisticated punch made with gin, grenadine, cherry brandy, and sweetened orange and grapefruit juice.",
-      "recipeCategory": "Cocktail",
-      "recipeCuisine": "Adult Beverage",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeIngredient": [
-        "1 (26 oz) orange and grapefruit juice",
-        "4 oz grenadine",
-        "4 oz cherry brandy",
-        "Gin (optional)",
-        "Slices of lemon and orange",
-        "Plenty of ice cubes"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine the juice, grenadine, and cherry brandy in a large pitcher."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add gin if desired for an adult version."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve chilled with slices of lemon and orange, and plenty of ice."
-        }
-      ],
-      "keywords": "adult punch, cocktail party, sophisticated drink",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
-      },
-      "url": "wilmar-wein-punch-55",
-      "similarity": "0.6750"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sweet & Sour Pineapple Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
-      "recipeCategory": "Main Course",
+      "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "1 serving",
       "recipeIngredient": [
-        "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
-        "½ cup vinegar",
-        "2 Tbsp light brown sugar",
-        "½ tsp salt",
-        "¼ to ½ cup ketchup",
-        "¼ cup water",
-        "4 chicken breasts",
-        "1 Tbsp cornstarch"
+        "1 package orange Jello",
+        "1 cup mini marshmallows",
+        "1 small can crushed pineapple",
+        "½ cup frozen orange juice concentrate",
+        "1 package Dream Whip",
+        "½ cup pecans"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
+          "text": "Drain pineapple and reserve syrup. Add water to make ¾ cup."
         },
         {
           "@type": "HowToStep",
-          "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
+          "text": "Heat the liquid to boiling."
         },
         {
           "@type": "HowToStep",
-          "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
+          "text": "Place Jello in a bowl and add hot liquid, pineapple, and orange juice concentrate."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
+          "text": "Chill until thickish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fold in Dream Whip along with marshmallows and pecans."
         }
       ],
-      "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
+      "keywords": "orange-pineapple Jello, fruity dessert, nuts",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "sweet-sour-pineapple-chicken-222",
-      "similarity": "0.6718"
+      "url": "orange-pineapple-jello-76",
+      "similarity": "0.5135"
     },
     {
       "@context": "https://schema.org/",
@@ -297,49 +254,108 @@
         "totalTime": "15 minutes"
       },
       "url": "chicken-pineapple-stir-fry-221",
-      "similarity": "0.6637"
+      "similarity": "0.5028"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Guacamole",
+      "name": "Punch",
       "author": {
         "@type": "Person",
-        "name": "Christopher Mullin"
+        "name": "June Schroeder"
       },
-      "description": "A fresh and simple guacamole recipe made with chilled avocado, lime juice, and minced Spanish onion.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "Mexican",
-      "prepTime": "PT5M",
+      "description": "A refreshing fruit punch made with grape juice, orange juice, ginger ale, and lemon-lime soda.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
       "cookTime": "PT0M",
-      "totalTime": "PT5M",
+      "totalTime": "PT10M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 avocado, chilled",
-        "1 tsp lime juice",
-        "2 tsp finely minced Spanish onion"
+        "1 cup frozen grape juice concentrate",
+        "2 (6 oz) cans frozen orange juice concentrate",
+        "1 qt ginger ale",
+        "1 (12 oz) can frozen pink lemonade concentrate",
+        "1 cup sugar",
+        "12 cups water",
+        "Soda water",
+        "Ice cubes"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mash the chilled avocado in a bowl."
+          "text": "Mix the first 5 ingredients in a large bowl or punch bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in lime juice and minced Spanish onion until well combined."
+          "text": "Add the remaining ingredients just before serving."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve immediately with tortilla chips."
+          "text": "Stir well and serve chilled."
         }
       ],
-      "keywords": "guacamole, avocado dip, Mexican appetizer",
+      "keywords": "fruit punch, party drink, refreshing beverage",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
+        "prepTime": "10 minutes",
         "cookTime": "",
-        "totalTime": "5 minutes"
+        "totalTime": "10 minutes"
       },
-      "url": "guacamole-15",
-      "similarity": "0.6485"
+      "url": "punch-53",
+      "similarity": "0.4949"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Plain Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A simple recipe for pickled eggs with a tangy cider vinegar brine and sliced onions.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "1 tsp pickling spice",
+        "2 cups cider vinegar",
+        "1 large onion, sliced into rings",
+        "12 hard-boiled eggs, shelled",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except eggs and onion rings in a stainless steel or enamel pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil and simmer for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large jar, alternate layers of eggs and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the heated liquid over the eggs and onions, ensuring all are covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
+        }
+      ],
+      "keywords": "pickled eggs, cider vinegar, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "url": "plain-pickled-eggs-30",
+      "similarity": "0.4948"
     }
   ]
 }

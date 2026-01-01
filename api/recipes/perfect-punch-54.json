@@ -87,7 +87,7 @@
         "totalTime": "10 minutes"
       },
       "url": "punch-53",
-      "similarity": "0.8192"
+      "similarity": "0.8486"
     },
     {
       "@context": "https://schema.org/",
@@ -132,7 +132,7 @@
         "totalTime": "10 minutes"
       },
       "url": "wilmar-wein-punch-55",
-      "similarity": "0.7101"
+      "similarity": "0.6478"
     },
     {
       "@context": "https://schema.org/",
@@ -176,7 +176,7 @@
         "totalTime": null
       },
       "url": "lemon-salad-80",
-      "similarity": "0.6760"
+      "similarity": "0.5252"
     },
     {
       "@context": "https://schema.org/",
@@ -222,61 +222,52 @@
         "totalTime": "5 minutes"
       },
       "url": "orange-julius-drink-56",
-      "similarity": "0.6593"
+      "similarity": "0.5207"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Orange-Pineapple Jello",
+      "name": "Pina Colada Dip",
       "author": {
         "@type": "Person",
-        "name": "Shelley Kinsman"
+        "name": "Betty Glanville"
       },
-      "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
-      "recipeCategory": "Salad",
+      "description": "A creamy and tropical dip made with pineapple, coconut pudding, and sour cream, perfect for serving with fresh fruit.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "1 serving",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PTOvernight",
+      "recipeYield": "1 bowl",
       "recipeIngredient": [
-        "1 package orange Jello",
-        "1 cup mini marshmallows",
-        "1 small can crushed pineapple",
-        "½ cup frozen orange juice concentrate",
-        "1 package Dream Whip",
-        "½ cup pecans"
+        "1 small can crushed pineapple, undrained",
+        "¾ cup milk",
+        "½ cup sour cream",
+        "3½ oz package instant coconut pudding and pie filling (or 1 vanilla pudding and ¼ cup shredded coconut with coconut extract)",
+        "½ tsp coconut extract"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Drain pineapple and reserve syrup. Add water to make ¾ cup."
+          "text": "Blend all ingredients together in a food processor or blender until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Heat the liquid to boiling."
+          "text": "Refrigerate overnight to allow flavors to meld."
         },
         {
           "@type": "HowToStep",
-          "text": "Place Jello in a bowl and add hot liquid, pineapple, and orange juice concentrate."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until thickish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fold in Dream Whip along with marshmallows and pecans."
+          "text": "Serve chilled with a variety of fresh fruits."
         }
       ],
-      "keywords": "orange-pineapple Jello, fruity dessert, nuts",
+      "keywords": "pina colada dip, fruit dip, coconut pudding, party appetizer",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": null
       },
-      "url": "orange-pineapple-jello-76",
-      "similarity": "0.6263"
+      "url": "pina-colada-dip-23",
+      "similarity": "0.5133"
     }
   ]
 }

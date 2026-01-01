@@ -118,7 +118,72 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "cheddar-baked-potato-slices-140",
-      "similarity": "0.7212"
+      "similarity": "0.7901"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Swedish Potatoes",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "10-12 servings",
+      "recipeIngredient": [
+        "12 large potatoes",
+        "2 slightly beaten eggs",
+        "1 cup sour cream",
+        "1 tsp salt",
+        "¾ cup bread crumbs",
+        "2 Tbsp butter",
+        "1¼ tsp butter",
+        "1 (8 oz) package cream cheese",
+        "2 tsp onion salt or chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook and mash the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dot the top with butter and sprinkle with bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, covered, at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
+        }
+      ],
+      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "swedish-potatoes-137",
+      "similarity": "0.6992"
     },
     {
       "@context": "https://schema.org/",
@@ -187,185 +252,111 @@
         "totalTime": "1 hour"
       },
       "url": "sweet-potato-casserole-149",
-      "similarity": "0.6876"
+      "similarity": "0.6759"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Ham Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Bernice Martin"
-      },
-      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "4 cups hash brown potatoes, thawed",
-        "1½ cups chopped ham",
-        "1 cup grated Cracker Barrel cheddar cheese",
-        "1 small onion, chopped",
-        "½ cup Miracle Whip salad dressing",
-        "½ cup milk",
-        "¼ tsp pepper",
-        "½ cup fresh bread crumbs",
-        "1 Tbsp butter or margarine"
-      ],
-      "recipeInstructions": [
+      "name": "Potato Casserole",
+      "author": [
         {
-          "@type": "HowToStep",
-          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
+          "@type": "Person",
+          "name": "Heather Clarke"
         },
         {
-          "@type": "HowToStep",
-          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with bread crumbs and dot with butter or margarine."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 45 minutes."
+          "@type": "Person",
+          "name": "M. Leanne Kenney"
         }
       ],
-      "keywords": "ham casserole, potato casserole, comforting main dish",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour"
-      },
-      "url": "ham-casserole-200",
-      "similarity": "0.6688"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Swedish Potatoes",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Ratz"
-      },
-      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
       "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "10-12 servings",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 casserole",
       "recipeIngredient": [
-        "12 large potatoes",
-        "2 slightly beaten eggs",
-        "1 cup sour cream",
-        "1 tsp salt",
-        "¾ cup bread crumbs",
-        "2 Tbsp butter",
-        "1¼ tsp butter",
-        "1 (8 oz) package cream cheese",
-        "2 tsp onion salt or chopped onion"
+        "1 (2 lb) bag frozen hash browns",
+        "1 can cream of celery soup",
+        "1 can cream of mushroom soup",
+        "500 mL sour cream",
+        "1 cup grated cheese",
+        "¼ cup diced onions"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook and mash the potatoes."
+          "text": "Mix all ingredients together in a shallow pan until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Dot the top with butter and sprinkle with bread crumbs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake, covered, at 350°F for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
+          "text": "Bake at 350°F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
         }
       ],
-      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+      "keywords": "potato casserole, hash browns, creamy, cheesy",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
       },
-      "url": "swedish-potatoes-137",
-      "similarity": "0.6645"
+      "url": "potato-casserole-141",
+      "similarity": "0.6620"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meat and Potato Casserole",
+      "name": "Hot Potato Salad",
       "author": {
         "@type": "Person",
-        "name": "Martine Bercier"
+        "name": "Margaret Beaver"
       },
-      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
-      "recipeCategory": "Casserole",
+      "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "1 8L casserole",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "Serves 4-6",
       "recipeIngredient": [
-        "½ lb lean ground beef",
-        "1 onion",
-        "1 clove garlic",
-        "6 medium potatoes, peeled and sliced",
-        "1 envelope (50g) gravy mix",
-        "2½ cups water",
-        "2 cups corn",
-        "Salt and pepper to taste"
+        "3 to 4 cups sliced potatoes",
+        "⅓ cup white vinegar",
+        "1 Tbsp flour",
+        "¾ cup water",
+        "1 Tbsp butter",
+        "Salt and pepper to taste",
+        "Pinch of sugar"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+          "text": "In a saucepan, combine the white vinegar, flour, and water. Heat, stirring constantly, until the mixture thickens."
         },
         {
           "@type": "HowToStep",
-          "text": "Layer sliced potatoes in an 8L casserole dish."
+          "text": "Add the butter, salt, pepper, and sugar to the vinegar mixture. Bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with corn and the browned meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and cook at 350°F for 50 minutes."
+          "text": "Pour the hot dressing over the sliced potatoes."
         }
       ],
-      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "keywords": "hot potato salad, vinegar dressing, warm salad",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
       },
-      "url": "meat-and-potato-casserole-159",
-      "similarity": "0.6629"
+      "url": "hot-potato-salad-86",
+      "similarity": "0.6490"
     }
   ]
 }

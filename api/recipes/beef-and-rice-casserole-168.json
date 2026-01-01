@@ -119,268 +119,273 @@
         "totalTime": "4 hours 20 minutes"
       },
       "url": "stewing-beef-casserole-155",
-      "similarity": "0.8456"
+      "similarity": "0.8408"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Beef & Barley Soup",
+      "name": "Meat and Potato Casserole",
       "author": {
         "@type": "Person",
-        "name": "Marjorie Johns"
+        "name": "Martine Bercier"
       },
-      "description": "A hearty beef and barley soup with vegetables and tomato, ideal for freezing and reheating.",
-      "recipeCategory": "Soup",
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H30M",
-      "recipeYield": "22 cups",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
       "recipeIngredient": [
-        "6 cups water",
-        "6 beef bouillon cubes",
-        "1 Tbsp parsley flakes",
-        "28 oz canned tomato",
-        "1 tsp sugar",
-        "10 oz condensed tomato soup",
-        "1 tsp salt",
-        "2 cups shredded carrots",
-        "¼ tsp pepper",
-        "2 cups shredded potatoes",
-        "¾ tsp thyme",
-        "1½ cups chopped onion",
-        "3 cups cooked roast beef (or 2-3 cups chopped hamburg meat)",
-        "1 cup chopped celery",
-        "½ cup pearl or pot barley"
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat water and bouillon cubes in a large pot, stirring until dissolved."
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Add remaining ingredients except beef and bring to a boil."
+          "text": "Layer sliced potatoes in an 8L casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer for 1½ hours."
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
         },
         {
           "@type": "HowToStep",
-          "text": "Add beef and simmer for an additional ½ hour."
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
         }
       ],
-      "keywords": "beef barley soup, hearty soup, freezer-friendly",
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
       "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 30 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "beef-barley-soup-100",
-      "similarity": "0.8110"
+      "url": "meat-and-potato-casserole-159",
+      "similarity": "0.7772"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Beef Porcupines",
+      "name": "Barley and Corn Casserole",
       "author": {
         "@type": "Person",
-        "name": "Bernice Martin"
+        "name": "Barbara Robertson"
       },
-      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
-      "recipeCategory": "Main Course",
+      "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT1H",
       "totalTime": "PT1H20M",
-      "recipeYield": "Multiple servings",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 lb ground beef",
-        "½ cup uncooked long-grain rice",
-        "¼ cup chopped onion",
-        "1 tsp prepared mustard",
-        "1 tsp chili powder",
-        "1 tsp salt",
-        "¼ tsp allspice",
-        "1 tsp brown sugar",
-        "1/8 tsp pepper",
-        "1 tsp Worcestershire sauce",
-        "1 tsp paprika",
-        "1 (10 oz) can tomato soup",
-        "1 soup can hot water"
+        "1 Tbsp oil",
+        "3 cups vegetable stock",
+        "1 onion, chopped",
+        "2 cups kernel corn (fresh or canned)",
+        "3 cloves garlic, minced",
+        "2 carrots, finely chopped",
+        "Chopped fresh parsley",
+        "1 cup pearl or pot barley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
+          "text": "Heat oil in a heavy casserole. Cook onion, garlic, and carrots until the onion is softened, stirring frequently."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs in a baking dish."
+          "text": "Stir in barley and cook for 1-2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
+          "text": "Pour in vegetable stock, cover, and bake at 350 °F for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover and bake at 350°F for 1 hour."
+          "text": "Test that barley is tender. Stir in corn and parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to the oven to heat through. Season with pepper to taste."
         }
       ],
-      "keywords": "beef porcupines, baked meatballs, rice",
+      "keywords": "barley casserole, corn, carrots, comforting side dish",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "url": "beef-porcupines-163",
-      "similarity": "0.7778"
+      "url": "barley-and-corn-casserole-132",
+      "similarity": "0.7516"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cabbage Rolls",
+      "name": "Chinese Hamburger Casserole",
       "author": {
         "@type": "Person",
-        "name": "Heather Clarke"
+        "name": "Meredith Mary"
       },
-      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "European",
-      "prepTime": "PT30M",
-      "cookTime": "PT3H",
-      "totalTime": "PT3H30M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 head cabbage",
-        "½ lb ground pork",
-        "1 lb ground beef",
-        "1 medium onion",
-        "2 Tbsp lard",
-        "¾ cup uncooked rice (Uncle Ben's)",
-        "1 tsp salt",
-        "½ tsp black pepper",
-        "1 (24 oz) can tomato juice"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chop the onion and fry in lard for 10 minutes until softened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
-        }
-      ],
-      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "3 hours",
-        "totalTime": "3 hours 30 minutes"
-      },
-      "url": "cabbage-rolls-167",
-      "similarity": "0.7737"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chili Turkey",
-      "author": {
-        "@type": "Person",
-        "name": "Dianne Finkbeiner"
-      },
-      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "Chinese-American",
       "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 to 8 servings",
       "recipeIngredient": [
-        "1 tsp ground coriander",
-        "1½ tsp vegetable oil",
-        "¼ tsp salt",
-        "1 large chopped onion",
-        "½ tsp ground cumin",
-        "1 large chopped green pepper",
-        "¼ tsp cinnamon",
-        "2 chopped garlic cloves",
-        "2 to 3 Tbsp chili powder",
-        "1⅓ lb ground turkey",
-        "1 can red kidney beans",
-        "1¾ cups chicken broth",
-        "6 oz whole wheat spaghetti",
-        "3 tsp tomato paste",
-        "½ cup shredded cheese",
-        "1½ tsp dried oregano"
+        "1 lb hamburger",
+        "½ cup warm water",
+        "½ cup uncooked rice",
+        "2 medium onions, chopped",
+        "1 cup sliced celery",
+        "1 can cream of mushroom soup",
+        "1 can cream of chicken soup (optional)",
+        "1 can mushrooms, drained",
+        "¼ cup soya sauce",
+        "¼ tsp pepper",
+        "1 tsp salt",
+        "1 cup bean sprouts (optional)",
+        "1 handful chow mein noodles"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic and cook for 1 minute."
+          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+          "text": "Add bean sprouts if using for a more authentic taste."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
         },
         {
           "@type": "HowToStep",
-          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the pasta as directed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
         }
       ],
-      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
-      "url": "chili-turkey-247",
-      "similarity": "0.7733"
+      "url": "chinese-hamburger-casserole-174",
+      "similarity": "0.7464"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Beef and Potato Bake",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Jefferies"
+      },
+      "description": "A layered casserole featuring ground beef, potatoes, zucchini, and a creamy cheddar sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "1 13x9 inch baking dish",
+      "recipeIngredient": [
+        "3 potatoes, peeled and thinly sliced",
+        "1 lb ground beef",
+        "¼ cup butter, divided",
+        "2 Tbsp vegetable oil",
+        "2 small zucchini, sliced",
+        "1 tsp Italian seasoning",
+        "½ cup prepared tomato pasta sauce",
+        "2 cups milk, divided",
+        "¼ cup flour",
+        "1½ cups grated cheddar cheese",
+        "1 onion, chopped",
+        "½ tsp salt",
+        "½ tsp pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt 2 tablespoons butter and oil over medium-low heat. Add potatoes and cook for 5 minutes, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add zucchini, salt, and pepper to the skillet. Cook until zucchini is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the vegetable mixture into a 13x9 inch baking dish. Set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the same skillet, cook onion and Italian seasoning until onion is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ground beef to the skillet and cook until it loses its pink color. Stir in tomato sauce and ½ cup milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the meat mixture over the vegetable layer in the baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt remaining butter in the skillet, stir in flour, and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually whisk in remaining milk. Cook and stir until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in cheddar cheese until melted. Pour the sauce over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 20 to 25 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 minutes before serving."
+        }
+      ],
+      "keywords": "beef casserole, potato bake, creamy sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "creamy-beef-and-potato-bake-158",
+      "similarity": "0.7258"
     }
   ]
 }

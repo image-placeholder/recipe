@@ -119,7 +119,7 @@
         "totalTime": "43 minutes"
       },
       "url": "pasta-bean-soup-111",
-      "similarity": "0.7534"
+      "similarity": "0.6428"
     },
     {
       "@context": "https://schema.org/",
@@ -184,173 +184,182 @@
         "totalTime": "35 minutes"
       },
       "url": "tomato-macaroni-soup-123",
-      "similarity": "0.7001"
+      "similarity": "0.5590"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chili Con Carne",
+      "name": "Veggie Basic Soup",
       "author": {
         "@type": "Person",
-        "name": "Shannon Wuerth"
+        "name": "Julie-Ann Bibby"
       },
-      "description": "A hearty and versatile chili recipe featuring ground beef, kidney beans, and a variety of vegetables, ideal for customization.",
-      "recipeCategory": "Main Course",
+      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "8 servings, 9 cups (2.25 L)",
-      "recipeIngredient": [
-        "1 lb lean ground beef",
-        "1 can (28 oz) tomatoes",
-        "1 cup chopped onion",
-        "1 can (7.5 oz) tomato sauce",
-        "1 clove garlic, crushed",
-        "1 can (19 oz) kidney beans, drained",
-        "3 cups finely shredded cabbage",
-        "1 Tbsp chili powder",
-        "2 cups thinly sliced celery",
-        "1 tsp dried oregano",
-        "1/2 cup chopped green pepper",
-        "1/2 tsp salt",
-        "1/4 tsp hot pepper sauce",
-        "Optional: additional vegetables like zucchini, carrots, mushrooms"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large nonstick skillet, cook ground beef over medium-high heat until browned and crumbly; drain off excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add onion and garlic to the skillet and cook for 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cabbage, celery, green pepper, tomatoes with juice, tomato sauce, kidney beans, chili powder, oregano, salt, and hot pepper sauce to the skillet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Optionally add other desired vegetables (e.g., zucchini, carrots, mushrooms) at this stage."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and simmer over medium heat for 45 minutes, or until vegetables are tender, stirring occasionally."
-        }
-      ],
-      "keywords": "chili con carne, ground beef chili, customizable chili",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "chili-con-carne-165",
-      "similarity": "0.6919"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
       "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
+        "1/2 tsp ground pepper",
+        "3 Tbsp butter",
+        "1 Tbsp dried parsley",
+        "1 diced onion",
+        "3 Tbsp soya sauce",
+        "2 large diced carrots",
+        "1 Tbsp Worcestershire sauce",
+        "3 stalks diced celery",
+        "1 tsp paprika",
+        "1 can whole diced tomatoes",
+        "2 qt beef broth",
+        "1 Tbsp salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
         },
         {
           "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
+          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
         }
       ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+      "keywords": "vegetable soup, beef broth, savory soup",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.6879"
+      "url": "veggie-basic-soup-120",
+      "similarity": "0.5420"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
+      "name": "Potato Soup",
       "author": {
         "@type": "Person",
-        "name": "Margaret Beaver"
+        "name": "Barbara Ratz"
       },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
+      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "8-10 servings",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
+        "6 diced and peeled potatoes",
+        "2 diced and peeled carrots",
+        "1 chopped onion",
+        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
+        "6 Tbsp butter",
+        "6 Tbsp flour",
+        "Sour cream (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
+          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
+          "text": "Microwave onions and butter until soft, about 2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
+          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
         }
       ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "keywords": "potato soup, creamy soup, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
       },
-      "url": "spaghetti-sauce-187",
-      "similarity": "0.6879"
+      "url": "potato-soup-125",
+      "similarity": "0.5359"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tortilla Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Mexican",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "Chicken (breasts or thighs)",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 can diced tomatoes",
+        "1 cup corn",
+        "1 can black beans, optional",
+        "1 bay leaf",
+        "¼ cup chopped cilantro",
+        "½ tsp chili powder",
+        "½ tsp cumin",
+        "½ tsp oregano",
+        "Salt and pepper to taste",
+        "Tortilla chips",
+        "Sour cream",
+        "Cheddar cheese, grated",
+        "1 jar salsa"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute chicken pieces with onion, garlic, and spices until chicken is cooked through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 4 cups water and boil to make stock."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove chicken and chop, discarding any bones and skin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine remaining ingredients (except tortilla chips, sour cream, and cheese) and heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, place tortilla chips in soup bowls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour soup over chips and top with sour cream, jalapenos (optional), and shredded cheddar cheese."
+        }
+      ],
+      "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "tortilla-soup-124",
+      "similarity": "0.5326"
     }
   ]
 }

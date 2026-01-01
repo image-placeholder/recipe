@@ -105,7 +105,125 @@
         "totalTime": "25 minutes"
       },
       "url": "chicken-and-broccoli-234",
-      "similarity": "0.7454"
+      "similarity": "0.7798"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken with a Chinese Accent",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the chicken to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken with rice."
+        }
+      ],
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chicken-with-a-chinese-accent-245",
+      "similarity": "0.7746"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Breast",
+      "author": {
+        "@type": "Person",
+        "name": "Sandra Martin"
+      },
+      "description": "A simple breaded chicken breast recipe.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 chicken breasts",
+        "1 cup bread crumbs",
+        "1 tsp garlic powder",
+        "1 egg",
+        "1/2 cup milk",
+        "Salt and seasoning to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash chicken breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with garlic powder, salt, and seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip in milk, then egg mixture, then bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 9x13 inch pan at 350°F until golden."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with rice or noodles."
+        }
+      ],
+      "keywords": "chicken breast, breaded chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "chicken-breast-212",
+      "similarity": "0.7695"
     },
     {
       "@context": "https://schema.org/",
@@ -187,48 +305,49 @@
         "totalTime": "1 hour 35 minutes"
       },
       "url": "chicken-and-croutons-246",
-      "similarity": "0.7282"
+      "similarity": "0.7279"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken with a Chinese Accent",
+      "name": "Stuffing and Chicken",
       "author": {
         "@type": "Person",
-        "name": "Suzanne Finkbeiner"
+        "name": "Beth Clarke"
       },
-      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Chinese-American",
+      "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT35M",
-      "totalTime": "PT50M",
-      "recipeYield": "6 servings",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "6 boneless, skinless chicken breasts",
-        "1 can cream of mushroom soup",
-        "15 mL oil",
-        "50 mL vinegar",
-        "50 mL soya sauce",
-        "125 mL brown sugar",
-        "1 finely chopped onion"
+        "4 boned and skinned chicken breast halves",
+        "1⅓ cups Stove Top stuffing",
+        "1 can cream of chicken soup",
+        "4 slices Swiss cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
+          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the chicken to a casserole dish."
+          "text": "Put a slice of Swiss cheese on top of each breast."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
+          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake for 35 minutes at 350°F.",
+          "text": "Spread the cream of chicken soup over the stuffing layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350 °F for 1 hour.",
           "cookMethod": "Bake",
           "tool": "Oven",
           "temperature": {
@@ -237,130 +356,17 @@
             "value": 350,
             "unitCode": "FAR"
           },
-          "duration": "PT35M"
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the chicken with rice."
+          "duration": "PT1H"
         }
       ],
-      "keywords": "Chinese chicken, sweet and savory, baked chicken",
+      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "50 minutes"
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
       },
-      "url": "chicken-with-a-chinese-accent-245",
-      "similarity": "0.7267"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sheila's Favourite Supper Dish",
-      "author": {
-        "@type": "Person",
-        "name": "Sheila Macgregor"
-      },
-      "description": "A layered casserole of chicken or pork chops, mushroom soup, and cheese, topped with Stove Top dressing.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
-      "recipeIngredient": [
-        "Chicken breasts or pork chops",
-        "1 can (condensed) mushroom soup",
-        "1/2 cup milk",
-        "1/2 cup shredded cheese",
-        "1 box Stove Top dressing"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place chicken or pork chops in the bottom of a pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix mushroom soup and milk. Pour over the meat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle shredded cheese on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with Stove Top dressing according to package directions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 300°F for 1 to 1 1/2 hours or until done."
-        }
-      ],
-      "keywords": "casserole, chicken or pork, mushroom soup, Stove Top dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
-      },
-      "url": "sheilas-favourite-supper-dish-253",
-      "similarity": "0.7152"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mushroom Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 Tbsp butter",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 cups sliced mushrooms",
-        "1/4 cup flour",
-        "2 cups stock (chicken or vegetable)",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "3 cups milk"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute butter, onion, garlic and mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add flour and stir together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, sauces and milk."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer until heated through (approximately 15 minutes)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
-        }
-      ],
-      "keywords": "mushroom soup, creamy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "mushroom-soup-113",
-      "similarity": "0.6960"
+      "url": "stuffing-and-chicken-242",
+      "similarity": "0.7165"
     }
   ]
 }

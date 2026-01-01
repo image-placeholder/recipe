@@ -65,6 +65,180 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Taco Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "A hearty taco salad with seasoned ground beef, crunchy taco chips, and cheddar cheese, all tossed in Catalina dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 lb ground beef (hamburg)",
+        "1 package taco seasoning mix",
+        "1 (250 g) bag crushed taco chips",
+        "1 cup shredded cheddar cheese",
+        "1 head lettuce, chopped",
+        "1 chopped tomato",
+        "Catalina dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate the cooked beef until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully add in chopped tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
+        }
+      ],
+      "keywords": "taco salad, ground beef, taco chips, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "taco-salad-89",
+      "similarity": "0.7107"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "A hearty taco salad with seasoned ground beef, lettuce, cheese, and crushed taco chips, mixed with Catalina dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 lb ground beef (hamburg)",
+        "1 pkg taco seasoning mix",
+        "1 head lettuce, chopped",
+        "1 cup shredded cheddar cheese",
+        "1 (250 g) bag cheese taco chips, crushed",
+        "1 chopped tomato",
+        "Catalina dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate the cooked beef until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully add in the chopped tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
+        }
+      ],
+      "keywords": "taco salad, ground beef, taco chips, Catalina dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "taco-salad-92",
+      "similarity": "0.7107"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A hearty taco salad with seasoned ground beef, mixed greens, and crunchy corn chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 pkg American premixed salad",
+        "1 pkg taco seasoning mix",
+        "1 green pepper, sliced thin",
+        "½ small red onion, sliced",
+        "1 lb lean ground hamburger",
+        "6 to 8 chopped mushrooms",
+        "½ pkg corn chips (large pkg)",
+        "½ to ¾ small bottle Catalina dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground hamburger in a frying pan with chopped mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add taco seasoning mix and a little water. Continue cooking until the mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the premixed salad, sliced green pepper, and red onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "When ready to serve, add the hamburger mixture, crushed corn chips, and Catalina dressing to the salad."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss everything together and serve immediately."
+        }
+      ],
+      "keywords": "taco salad, Mexican salad, ground beef salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "taco-salad-97",
+      "similarity": "0.7107"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Onion Salad",
       "author": [
         {
@@ -117,248 +291,75 @@
         "totalTime": "8 hours 10 minutes"
       },
       "url": "onion-salad-74",
-      "similarity": "0.7791"
+      "similarity": "0.6979"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sloppy Joe Squares",
+      "name": "Caesar Salad",
       "author": {
         "@type": "Person",
-        "name": "Deb (Finkbeiner) Lord"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
-      "recipeCategory": "Main Course",
+      "description": "A classic Caesar salad recipe with romaine lettuce, crumbled bacon, croutons, and a homemade dressing.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "8 servings",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 lb ground beef",
-        "1 small onion, minced",
-        "1/2 tsp Worcestershire sauce",
-        "3/4 cup ketchup",
-        "1 tsp salt",
-        "1/2 tsp pepper",
-        "1/4 tsp chili powder",
-        "2 Tbsp flour",
-        "2 packages Pillsbury crescent dinner rolls",
-        "Mozzarella cheese"
+        "1 romaine lettuce",
+        "6 slices bacon, cooked and crumbled",
+        "1 tsp wine vinegar",
+        "½ tsp Worcestershire sauce",
+        "2 shakes Tabasco sauce",
+        "Croutons",
+        "1 egg",
+        "1 tsp capers (optional)",
+        "3 to 4 mashed anchovies",
+        "Dressing (keeps 2 days):",
+        "⅓ cup olive oil",
+        "1 clove garlic, minced",
+        "2 Tbsp lemon",
+        "½ tsp dry mustard",
+        "¼ tsp salt and pepper",
+        "2 Tbsp Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
+          "text": "Rub salad bowl with garlic."
         },
         {
           "@type": "HowToStep",
-          "text": "Blend in flour to thicken the mixture."
+          "text": "Wash and tear lettuce. Dry in a tea towel."
         },
         {
           "@type": "HowToStep",
-          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
+          "text": "Place lettuce in bowl with bacon and croutons."
         },
         {
           "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
+          "text": "Blend dressing ingredients together."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the beef mixture evenly over the layer of rolls."
+          "text": "Pour dressing over salad and toss until leaves are coated."
         },
         {
           "@type": "HowToStep",
-          "text": "Top the beef mixture with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F until the crescent rolls are browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with a salad."
+          "text": "Serve with freshly grated Parmesan."
         }
       ],
-      "keywords": "sloppy joe, casserole, crescent rolls, beef",
+      "keywords": "Caesar salad, bacon, croutons, homemade dressing",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "sloppy-joe-squares-185",
-      "similarity": "0.7644"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Glenda Wuerth"
-      },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
-        "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
-        }
-      ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
-      },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.7620"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.7577"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-187",
-      "similarity": "0.7577"
+      "url": "caesar-salad-59",
+      "similarity": "0.6932"
     }
   ]
 }

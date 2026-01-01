@@ -52,300 +52,265 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Thai Chicken",
+      "name": "Cabbage Soup",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Betty Glanville"
       },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
+        "1 Tbsp liquid sweetener",
+        "½ head cabbage",
+        "1 can French-style beans (optional)",
+        "3 cups tomato juice",
+        "4 cups water",
+        "1 large can mushrooms",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery, including leaves and tips",
+        "1 tsp lemon juice"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+          "text": "Add all ingredients to a large pot."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+          "text": "Cook at low heat for 1½ hours."
         }
       ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
       },
-      "url": "thai-chicken-235",
-      "similarity": "0.7814"
+      "url": "cabbage-soup-106",
+      "similarity": "0.7892"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
+      "name": "Cabbage Soup",
       "author": {
         "@type": "Person",
-        "name": "Heather Clarke"
+        "name": "Betty Glanville"
       },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
+      "description": "A hearty cabbage soup with vegetables and optional sweetener.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
+        "½ head cabbage",
+        "1 can French-style beans, drained",
+        "3 cups tomato juice",
+        "1 large can mushrooms",
+        "4 cups water",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery leaves and tips",
+        "1 tsp lemon juice",
+        "1 Tbsp liquid sweetener (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+          "text": "Add all ingredients to a large pot."
         },
         {
           "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
+          "text": "Cook at low heat for 1½ hours."
         }
       ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
       },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.7784"
+      "url": "cabbage-soup-109",
+      "similarity": "0.7892"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
+      "name": "Beef & Barley Soup",
       "author": {
         "@type": "Person",
-        "name": "Margaret Beaver"
+        "name": "Marjorie Johns"
       },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
+      "description": "A hearty beef and barley soup with vegetables and tomato, ideal for freezing and reheating.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
       "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
+      "totalTime": "PT2H30M",
+      "recipeYield": "22 cups",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
+        "6 cups water",
+        "6 beef bouillon cubes",
+        "1 Tbsp parsley flakes",
+        "28 oz canned tomato",
+        "1 tsp sugar",
+        "10 oz condensed tomato soup",
+        "1 tsp salt",
+        "2 cups shredded carrots",
+        "¼ tsp pepper",
+        "2 cups shredded potatoes",
+        "¾ tsp thyme",
+        "1½ cups chopped onion",
+        "3 cups cooked roast beef (or 2-3 cups chopped hamburg meat)",
+        "1 cup chopped celery",
+        "½ cup pearl or pot barley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
+          "text": "Heat water and bouillon cubes in a large pot, stirring until dissolved."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
+          "text": "Add remaining ingredients except beef and bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
+          "text": "Simmer for 1½ hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add beef and simmer for an additional ½ hour."
         }
       ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "keywords": "beef barley soup, hearty soup, freezer-friendly",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
+        "prepTime": "30 minutes",
         "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
+        "totalTime": "2 hours 30 minutes"
       },
-      "url": "spaghetti-sauce-187",
-      "similarity": "0.7784"
+      "url": "beef-barley-soup-100",
+      "similarity": "0.7428"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Tomato Macaroni Soup",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Linda Finkbeiner"
-        },
-        {
-          "@type": "Person",
-          "name": "Shirley Preszcator"
-        }
-      ],
-      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 Tbsp oil",
-        "1½ cups water",
-        "1 cooking onion, diced",
-        "1 cup dry macaroni",
-        "2 carrots, diced",
-        "½ tsp garlic salt",
-        "3 or 4 celery stalks, diced",
-        "½ tsp Worcestershire sauce",
-        "2 cups chicken stock",
-        "2 cups tomato juice",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute onion, celery, and carrot in oil until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, juice, and water. Bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add pasta and cook until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic salt and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season to taste with salt and pepper."
-        }
-      ],
-      "keywords": "tomato macaroni soup, comfort food, pasta soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "tomato-macaroni-soup-123",
-      "similarity": "0.7764"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Richard's Sunday Soup",
+      "name": "Creamy Broccoli Soup",
       "author": {
         "@type": "Person",
-        "name": "Richard MacGregor"
+        "name": "Eleanor Beaver"
       },
-      "description": "A rich and comforting soup featuring carrots, potatoes, and chicken stock.",
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
       "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 tsp sugar",
-        "5 large carrots",
-        "1 large potato",
-        "1 medium onion",
-        "1 Tbsp oil",
-        "2 to 3 cups chicken stock",
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
         "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Peel and dice the carrots and potato. Combine diced onion and oil in a saucepan and cook over medium heat."
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the diced carrots and potato to the onion and cook for 3 minutes."
+          "text": "Purée the mixture in a blender until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Add chicken stock and sugar. Cook for 2 minutes."
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
         },
         {
           "@type": "HowToStep",
-          "text": "Reduce heat to simmer and cook for 10 to 15 minutes or until the vegetables are cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from heat and puree. Serve immediately with fresh bread."
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
         }
       ],
-      "keywords": "carrot soup, potato soup, chicken stock",
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "creamy-broccoli-soup-112",
+      "similarity": "0.7398"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta & Bean Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Fydenchuk"
+      },
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT15M",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
+        }
+      ],
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes"
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
       },
-      "url": "richards-sunday-soup-121",
-      "similarity": "0.7643"
+      "url": "pasta-bean-soup-111",
+      "similarity": "0.7391"
     }
   ]
 }

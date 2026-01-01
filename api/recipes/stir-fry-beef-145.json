@@ -109,7 +109,81 @@
         "totalTime": "25 minutes"
       },
       "url": "beef-broccoli-stir-fry-148",
-      "similarity": "0.7687"
+      "similarity": "0.8290"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef and Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kurtis Brand"
+      },
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
+      "recipeIngredient": [
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Sauté celery and onion in butter until soft and tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place rice in a greased 1½ quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the rice with the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "beef casserole, rice casserole, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "beef-and-rice-casserole-168",
+      "similarity": "0.6411"
     },
     {
       "@context": "https://schema.org/",
@@ -174,82 +248,7 @@
         "totalTime": "35 minutes"
       },
       "url": "nacho-salad-73",
-      "similarity": "0.7476"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Hamburger Pie",
-      "author": {
-        "@type": "Person",
-        "name": "Marguerite Finkbeiner"
-      },
-      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT30M",
-      "totalTime": "PT55M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 medium onion, sliced",
-        "1 to 1½ cups cooked green beans",
-        "1 Tbsp oil",
-        "1 lb hamburger",
-        "¼ tsp salt",
-        "⅛ tsp pepper",
-        "1 can tomato soup",
-        "5 medium potatoes",
-        "½ cup warm milk",
-        "1 beaten egg"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "hamburger pie, shepherd's pie, casserole",
-      "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "55 minutes"
-      },
-      "url": "hamburger-pie-169",
-      "similarity": "0.7187"
+      "similarity": "0.6324"
     },
     {
       "@context": "https://schema.org/",
@@ -333,69 +332,66 @@
         "totalTime": "1 hour 25 minutes"
       },
       "url": "meatball-pasta-stew-179",
-      "similarity": "0.7163"
+      "similarity": "0.6294"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Stir-Fry Chicken",
+      "name": "Beef & Barley Soup",
       "author": {
         "@type": "Person",
-        "name": "Brenda Atkinson"
+        "name": "Marjorie Johns"
       },
-      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "6 to 8 servings",
+      "description": "A hearty beef and barley soup with vegetables and tomato, ideal for freezing and reheating.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H30M",
+      "recipeYield": "22 cups",
       "recipeIngredient": [
-        "1/4 cup olive oil",
-        "2 tsp curry powder",
-        "1 crushed garlic clove",
-        "1/4 cup soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 tsp Louisiana hot sauce",
-        "1/2 tsp Tabasco",
-        "6 to 8 buns, cut in half",
-        "Mozzarella cheese and bacon bits for buns",
-        "Chicken breasts, cut in cubes",
-        "Mushrooms, sliced",
-        "Celery, chopped",
-        "1 bag Oriental Classic frozen vegetables",
-        "1 onion, chopped"
+        "6 cups water",
+        "6 beef bouillon cubes",
+        "1 Tbsp parsley flakes",
+        "28 oz canned tomato",
+        "1 tsp sugar",
+        "10 oz condensed tomato soup",
+        "1 tsp salt",
+        "2 cups shredded carrots",
+        "¼ tsp pepper",
+        "2 cups shredded potatoes",
+        "¾ tsp thyme",
+        "1½ cups chopped onion",
+        "3 cups cooked roast beef (or 2-3 cups chopped hamburg meat)",
+        "1 cup chopped celery",
+        "½ cup pearl or pot barley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
+          "text": "Heat water and bouillon cubes in a large pot, stirring until dissolved."
         },
         {
           "@type": "HowToStep",
-          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
+          "text": "Add remaining ingredients except beef and bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
+          "text": "Simmer for 1½ hours."
         },
         {
           "@type": "HowToStep",
-          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
+          "text": "Add beef and simmer for an additional ½ hour."
         }
       ],
-      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
+      "keywords": "beef barley soup, hearty soup, freezer-friendly",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "30 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 30 minutes"
       },
-      "url": "stir-fry-chicken-225",
-      "similarity": "0.6949"
+      "url": "beef-barley-soup-100",
+      "similarity": "0.6229"
     }
   ]
 }

@@ -52,6 +52,180 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Chicken Breast",
+      "author": {
+        "@type": "Person",
+        "name": "Sandra Martin"
+      },
+      "description": "A simple breaded chicken breast recipe.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 chicken breasts",
+        "1 cup bread crumbs",
+        "1 tsp garlic powder",
+        "1 egg",
+        "1/2 cup milk",
+        "Salt and seasoning to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash chicken breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with garlic powder, salt, and seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip in milk, then egg mixture, then bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 9x13 inch pan at 350°F until golden."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with rice or noodles."
+        }
+      ],
+      "keywords": "chicken breast, breaded chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "chicken-breast-212",
+      "similarity": "0.7932"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Favourite Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A simple and satisfying chicken dish baked with cheddar cheese, mushroom soup, and garlic.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "4 to 6 chicken breasts",
+        "1 cup old cheddar cheese, grated",
+        "1 can cheddar cheese soup (or other soup to taste)",
+        "1 can mushroom soup",
+        "1 Tbsp garlic powder",
+        "Salt and pepper to taste",
+        "6 to 8 fresh mushrooms, sliced"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and pat dry chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cheddar cheese soup, mushroom soup, and garlic powder. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place chicken in a 9x11 inch baking dish. Pour soup mixture over chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with grated cheese and sliced mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for about 1 hour for 4 pieces or 1½ hours for 6 pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Check to ensure chicken is cooked through, as oven temperatures may vary."
+        }
+      ],
+      "keywords": "baked chicken, cheddar cheese, mushroom soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "favourite-chicken-241",
+      "similarity": "0.6971"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stuffing and Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Beth Clarke"
+      },
+      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 boned and skinned chicken breast halves",
+        "1⅓ cups Stove Top stuffing",
+        "1 can cream of chicken soup",
+        "4 slices Swiss cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put a slice of Swiss cheese on top of each breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cream of chicken soup over the stuffing layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350 °F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
+        }
+      ],
+      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "stuffing-and-chicken-242",
+      "similarity": "0.6809"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Parmesan Chicken",
       "author": {
         "@type": "Person",
@@ -110,225 +284,71 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "parmesan-chicken-239",
-      "similarity": "0.7867"
+      "similarity": "0.6805"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken Breast",
+      "name": "Chicken with a Chinese Accent",
       "author": {
         "@type": "Person",
-        "name": "Sandra Martin"
+        "name": "Suzanne Finkbeiner"
       },
-      "description": "A simple breaded chicken breast recipe.",
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Chinese-American",
       "prepTime": "PT15M",
-      "cookTime": "PT30M",
-      "totalTime": "PT45M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
       "recipeYield": "6 servings",
       "recipeIngredient": [
-        "6 chicken breasts",
-        "1 cup bread crumbs",
-        "1 tsp garlic powder",
-        "1 egg",
-        "1/2 cup milk",
-        "Salt and seasoning to taste"
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Wash chicken breast."
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle with garlic powder, salt, and seasoning."
+          "text": "Transfer the chicken to a casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Dip in milk, then egg mixture, then bread crumbs."
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in a 9x13 inch pan at 350°F until golden."
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
         },
         {
           "@type": "HowToStep",
-          "text": "Serve with rice or noodles."
+          "text": "Serve the chicken with rice."
         }
       ],
-      "keywords": "chicken breast, breaded chicken",
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "45 minutes"
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "chicken-breast-212",
-      "similarity": "0.7739"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Fajitas",
-      "author": {
-        "@type": "Person",
-        "name": "Valorie (Finkbeiner) Mullin"
-      },
-      "description": "A flavorful Mexican-inspired dish featuring stir-fried chicken, peppers, and onions, served with tortillas and various toppings.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 green pepper, cut into strips",
-        "2 Tbsp chopped parsley",
-        "1 onion, chopped",
-        "Flour tortillas (soft)",
-        "1 tsp ground cumin",
-        "1 cup shredded cheese",
-        "1 tsp chili powder",
-        "Guacamole (see appetizers)",
-        "½ cup Catalina dressing",
-        "Salsa",
-        "4 boneless, skinless chicken breasts, cut into strips",
-        "Sour cream"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry the vegetables and chicken over high heat until the chicken is cooked through with spices."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add Catalina dressing and heat through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in parsley."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve wrapped in flour tortillas with shredded cheese, salsa, sour cream, and guacamole as garnishes."
-        }
-      ],
-      "keywords": "chicken fajitas, Mexican dish, stir-fry",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "chicken-fajitas-226",
-      "similarity": "0.7185"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Fajitas",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A classic Tex-Mex dish featuring chicken, sautéed peppers and onions, served with tortillas, cheese, and various toppings.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 green pepper, cut in strips",
-        "2 Tbsp parsley, chopped",
-        "1 onion, chopped",
-        "Flour tortillas (soft)",
-        "1 tsp ground cumin",
-        "1 cup shredded cheese",
-        "1 tsp chili powder",
-        "Guacamole (see appetizers)",
-        "Salsa",
-        "4 boneless chicken breasts",
-        "Sour cream"
-      ],
-      "recipeInstructions": [],
-      "keywords": "chicken fajitas, Tex-Mex, Mexican-American",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "chicken-fajitas-228",
-      "similarity": "0.7185"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Supreme",
-      "author": {
-        "@type": "Person",
-        "name": "Lori Allen"
-      },
-      "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "4-8 servings",
-      "recipeIngredient": [
-        "8 boneless, skinless chicken breast pieces",
-        "1 (28 oz) can stewed tomatoes",
-        "1 chopped green pepper",
-        "1 chopped onion",
-        "2 generous slices of fresh Basil",
-        "2 Spanish Oregano slices",
-        "1 dozen chopped fresh Garlic",
-        "Salt and Seasoning salt",
-        "Onion powder",
-        "Grated mozzarella and cheddar cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Boil the chicken breasts in a separate container until pink is gone (about 1/4 of the way cooked)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a baking or roasting pan, mix together the tomato ingredients (stewed tomatoes, green pepper, onion, basil, oregano, garlic)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the partially cooked chicken breasts in the bottom of the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle spices over the chicken breasts."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the remaining tomato mixture on top of the chicken breasts."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and bake at 350°F for approximately ½ hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle grated cheese on top, cover, and bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over rice or pasta."
-        }
-      ],
-      "keywords": "chicken supreme, baked chicken, Italian-style chicken",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "chicken-supreme-238",
-      "similarity": "0.7156"
+      "url": "chicken-with-a-chinese-accent-245",
+      "similarity": "0.6725"
     }
   ]
 }

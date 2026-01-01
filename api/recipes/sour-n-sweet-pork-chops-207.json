@@ -51,6 +51,62 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Pork Chops with Dried Fruit",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A savory and sweet dish featuring pork chops cooked with assorted dried fruits in a flavorful orange juice sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 pork chops",
+        "1½ cups assorted dried fruit (apples, peaches, pears, apricots, raisins)",
+        "1 Tbsp vegetable oil",
+        "2 cups orange juice, divided",
+        "1½ tsp cornstarch",
+        "¼ tsp allspice",
+        "½ tsp Worcestershire sauce",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat a large skillet over medium-high heat. Add oil and cook pork chops until golden brown on each side, about 6 to 8 minutes per side. Remove chops to a plate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat, add 1 cup orange juice to the skillet, and scrape any browned bits from the pan. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining orange juice, dried fruit, Worcestershire sauce, and allspice. Simmer for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cornstarch with a small amount of water or juice. Stir into the skillet and cook until the sauce thickens, about 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return pork chops to the skillet and cook until heated through. Serve with rice or couscous."
+        }
+      ],
+      "keywords": "pork chops, dried fruit, orange juice sauce, savory sweet dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "pork-chops-with-dried-fruit-206",
+      "similarity": "0.7085"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Oven Barbecued Pork Chops",
       "author": {
         "@type": "Person",
@@ -104,227 +160,160 @@
         "totalTime": "1 hour"
       },
       "url": "oven-barbecued-pork-chops-210",
-      "similarity": "0.7977"
+      "similarity": "0.6978"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pork Chops with Dried Fruit",
+      "name": "Pork Chop & Rice Casserole",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Bonnie McNutt"
       },
-      "description": "A savory and sweet dish featuring pork chops cooked with assorted dried fruits in a flavorful orange juice sauce.",
-      "recipeCategory": "Main Course",
+      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT25M",
-      "totalTime": "PT40M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "4 pork chops",
-        "1½ cups assorted dried fruit (apples, peaches, pears, apricots, raisins)",
-        "1 Tbsp vegetable oil",
-        "2 cups orange juice, divided",
-        "1½ tsp cornstarch",
-        "¼ tsp allspice",
-        "½ tsp Worcestershire sauce",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat a large skillet over medium-high heat. Add oil and cook pork chops until golden brown on each side, about 6 to 8 minutes per side. Remove chops to a plate."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat, add 1 cup orange juice to the skillet, and scrape any browned bits from the pan. Bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining orange juice, dried fruit, Worcestershire sauce, and allspice. Simmer for 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cornstarch with a small amount of water or juice. Stir into the skillet and cook until the sauce thickens, about 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return pork chops to the skillet and cook until heated through. Serve with rice or couscous."
-        }
-      ],
-      "keywords": "pork chops, dried fruit, orange juice sauce, savory sweet dish",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "40 minutes"
-      },
-      "url": "pork-chops-with-dried-fruit-206",
-      "similarity": "0.7315"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Glenda Wuerth"
-      },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT2H",
       "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
-        "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
+        "6 center cut pork chops",
+        "1 sliced tomato",
+        "1 cup brown rice",
+        "1 sliced onion",
+        "4 sliced green onions",
+        "1 green pepper, sliced in rings",
+        "1/2 lb sliced fresh mushrooms",
+        "1 1/2 cups beef broth or stock",
+        "Salt and pepper to taste",
+        "1 Tbsp minced garlic",
+        "4 oz margarine or butter"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
+          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+          "text": "Put raw rice in the casserole pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
+          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
+          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
         },
         {
           "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+          "text": "Pour beef broth over the casserole and cover with foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
         }
       ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "keywords": "pork chop, rice, casserole, baked",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "2 hours"
       },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.7183"
+      "url": "pork-chop-rice-casserole-211",
+      "similarity": "0.6674"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Zesty BBQ Sauce",
+      "name": "Sliced Ham",
       "author": {
         "@type": "Person",
-        "name": "Sharon Allen"
+        "name": "Evelyn Pickering"
       },
-      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
-      "recipeCategory": "Sauce",
+      "description": "A simple baked ham recipe with a brown sugar, mustard, and allspice topping.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 batch",
+      "prepTime": "PT5M",
+      "cookTime": "PT25M",
+      "totalTime": "PT30M",
+      "recipeYield": "6 slices",
       "recipeIngredient": [
-        "1 cup ketchup",
-        "1 tsp dry mustard",
-        "1/4 cup white vinegar",
-        "1/4 tsp salt",
-        "1/2 cup brown sugar",
-        "1/4 tsp cayenne pepper",
-        "1 Tbsp chili powder",
-        "2 cloves garlic, crushed",
-        "1 Tbsp Worcestershire sauce"
+        "6 slices ham, about ½ inch thick",
+        "1 Tbsp dry mustard",
+        "¾ cup brown sugar",
+        "1 Tbsp allspice"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine all ingredients in a saucepan."
+          "text": "Place ham slices on a cookie sheet."
         },
         {
           "@type": "HowToStep",
-          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
+          "text": "Mix brown sugar, dry mustard, and allspice together. Sprinkle over ham slices."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer for 10 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate or freeze for later use."
+          "text": "Bake in 350°F oven for 20 to 30 minutes, turning once and sprinkling additional mixture on the other side."
         }
       ],
-      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
+      "keywords": "baked ham, glazed ham, sweet ham",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
+        "prepTime": "5 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "30 minutes"
       },
-      "url": "zesty-bbq-sauce-136",
-      "similarity": "0.7087"
+      "url": "sliced-ham-199",
+      "similarity": "0.5806"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Yogurt Dip",
+      "name": "Sweet and Sour Chicken",
       "author": {
         "@type": "Person",
-        "name": "Jo Anne Pickering"
+        "name": "Mary Kenney"
       },
-      "description": "A refreshing yogurt-based dip flavored with mayonnaise, herbs, and seasonings, perfect for vegetables.",
-      "recipeCategory": "Appetizer",
+      "description": "A simple and flavorful sweet and sour chicken recipe using onion soup mix and apricot jam.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT1H10M",
+      "prepTime": "PT5M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H5M",
       "recipeIngredient": [
-        "½ cup sour cream or plain yogurt",
-        "2/3 cup mayonnaise",
-        "1 Tbsp dry onion flakes",
-        "1 tsp Accent",
-        "1 tsp seasoning salt",
-        "½ tsp dill weed",
-        "½ tsp Worcestershire sauce",
-        "1 Tbsp parsley",
-        "Vegetables for serving"
+        "1 pkg onion soup mix",
+        "½ cup apricot jam",
+        "1 small bottle Russian dressing"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together in a bowl."
+          "text": "Mix together onion soup mix, apricot jam, and Russian dressing in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Let sit in the fridge for 1 hour to allow flavors to meld."
+          "text": "Pour the mixture over the chicken in a baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve with vegetables."
+          "text": "Bake at 350°F for 2 hours."
         }
       ],
-      "keywords": "yogurt dip, healthy dip, vegetable dip",
+      "keywords": "sweet and sour chicken, easy chicken recipe, apricot jam chicken",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "1 hour 10 minutes"
+        "prepTime": "5 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 5 minutes"
       },
-      "url": "yogurt-dip-19",
-      "similarity": "0.6956"
+      "url": "sweet-and-sour-chicken-223",
+      "similarity": "0.5802"
     }
   ]
 }

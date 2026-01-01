@@ -116,7 +116,62 @@
         "totalTime": "8 hours 45 minutes"
       },
       "url": "bacon-wrapped-water-chestnuts-40",
-      "similarity": "0.7520"
+      "similarity": "0.7203"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Water Chestnuts Wrapped in Bacon",
+      "author": {
+        "@type": "Person",
+        "name": "Diane Dinney"
+      },
+      "description": "Bacon-wrapped water chestnuts marinated in a savory mixture of soya sauce and Worcestershire sauce, then baked until crispy.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT1H15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "2 cans water chestnuts",
+        "¼ cup soya sauce",
+        "½ lb bacon",
+        "1 tsp Worcestershire sauce",
+        "1 tsp garlic salt",
+        "2 tsp minced onions",
+        "Toothpicks"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate bacon in soya sauce, Worcestershire sauce, garlic salt, and minced onions for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap bacon around chestnuts and secure with toothpicks."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook in a 350°F oven until bacon is done.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          }
+        }
+      ],
+      "keywords": "bacon-wrapped water chestnuts, appetizer, savory snack",
+      "_naturalized_times": {
+        "prepTime": "1 hour 15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "url": "water-chestnuts-wrapped-in-bacon-39",
+      "similarity": "0.7027"
     },
     {
       "@context": "https://schema.org/",
@@ -184,175 +239,128 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "rumaki-41",
-      "similarity": "0.7189"
+      "similarity": "0.6404"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Water Chestnuts Wrapped in Bacon",
+      "name": "Roasted Carrots and Parsnips",
       "author": {
         "@type": "Person",
-        "name": "Diane Dinney"
+        "name": "Thelma Finkbeiner"
       },
-      "description": "Bacon-wrapped water chestnuts marinated in a savory mixture of soya sauce and Worcestershire sauce, then baked until crispy.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT1H15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "1 batch",
-      "recipeIngredient": [
-        "2 cans water chestnuts",
-        "¼ cup soya sauce",
-        "½ lb bacon",
-        "1 tsp Worcestershire sauce",
-        "1 tsp garlic salt",
-        "2 tsp minced onions",
-        "Toothpicks"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Marinate bacon in soya sauce, Worcestershire sauce, garlic salt, and minced onions for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap bacon around chestnuts and secure with toothpicks."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook in a 350°F oven until bacon is done.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          }
-        }
-      ],
-      "keywords": "bacon-wrapped water chestnuts, appetizer, savory snack",
-      "_naturalized_times": {
-        "prepTime": "1 hour 15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "1 hour 35 minutes"
-      },
-      "url": "water-chestnuts-wrapped-in-bacon-39",
-      "similarity": "0.7088"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spinach Dip",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Ruth Slaght"
-        },
-        {
-          "@type": "Person",
-          "name": "Jo Anne Pickering"
-        }
-      ],
-      "description": "A creamy spinach dip made with sour cream, mayonnaise, and Knorr vegetable soup mix, served in a hollowed-out pumpernickel bread loaf.",
-      "recipeCategory": "Appetizer",
+      "description": "A simple roasted vegetable dish featuring carrots, parsnips, and onions with a maple syrup and mustard glaze.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "about 4 cups of dip",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 pkg (300 g) frozen chopped spinach, thawed and drained",
-        "1 can (10 oz) water chestnuts, drained and chopped",
-        "2 cups (500 mL) sour cream",
-        "1 cup mayonnaise",
-        "1 pkg Knorr vegetable soup mix",
-        "3 green onions, chopped",
-        "1 large round pumpernickel bread loaf (optional)"
+        "1 lb parsnips, peeled and cut into 1-inch pieces",
+        "1 lb carrots, peeled and cut into 1-inch pieces",
+        "1 cup onions, cut into wedges",
+        "2 Tbsp vegetable oil",
+        "1 tsp dried thyme",
+        "2 Tbsp maple syrup",
+        "1 Tbsp Dijon mustard"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Squeeze excess moisture from the thawed spinach."
+          "text": "Preheat oven to 400°F (200°C)."
         },
         {
           "@type": "HowToStep",
-          "text": "In a bowl, combine the spinach, sour cream, mayonnaise, Knorr soup mix, water chestnuts, and green onions. Stir until well combined."
+          "text": "Place parsnips, carrots, onions, oil, and thyme in a prepared baking dish; toss until vegetables are well coated with oil."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover and refrigerate for at least 2 hours to allow flavors to blend."
+          "text": "Roast in the oven for 30 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "If using a bread loaf, scoop out a large hollow through the top and fill with the dip mixture. Serve with bread cubes cut from the centre and/or assorted fresh vegetables."
+          "text": "In a small bowl, combine maple syrup and mustard."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the maple syrup mixture over the vegetables and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roast for another 20 to 25 minutes or until vegetables are tender and golden, stirring once."
         }
       ],
-      "keywords": "spinach dip, party appetizer, pumpernickel bread",
+      "keywords": "roasted carrots, roasted parsnips, maple syrup glaze",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "spinach-dip-16",
-      "similarity": "0.5840"
+      "url": "roasted-carrots-and-parsnips-142",
+      "similarity": "0.5940"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Wassail",
+      "name": "Roasted Lamb",
       "author": {
         "@type": "Person",
-        "name": "Bonnie McNutt"
+        "name": "Christopher Mullin"
       },
-      "description": "A warm and spicy apple cider drink perfect for the holiday season, flavored with lemon, cinnamon, and pineapple juice.",
-      "recipeCategory": "Beverage",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "6 servings",
+      "description": "A slow-roasted lamb recipe with a flavorful garlic and rosemary paste, perfect for a tender and aromatic main course.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mediterranean",
+      "prepTime": "PT20M",
+      "cookTime": "PT6H30M",
+      "totalTime": "PT6H50M",
+      "recipeYield": "Serves 6-8",
       "recipeIngredient": [
-        "6 cups apple cider or juice",
-        "1 tsp grated lemon peel",
-        "1 cinnamon stick",
-        "¼ tsp nutmeg",
-        "2¼ cups unsweetened pineapple juice",
-        "3 Tbsp lemon juice",
-        "¼ cup honey",
-        "Cinnamon sticks for garnish"
+        "6 pounds lamb roast",
+        "2 Tbsp olive oil",
+        "2 Tbsp butter",
+        "2 Tbsp flour",
+        "2 cloves garlic, minced",
+        "1 tsp fresh or dried rosemary"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a large saucepan, heat the apple cider and cinnamon stick to boiling."
+          "text": "Make a paste with olive oil, butter, garlic, and rosemary."
         },
         {
           "@type": "HowToStep",
-          "text": "Reduce heat, cover, and simmer for 5 minutes."
+          "text": "Make small holes in the lamb and insert garlic cloves or pieces."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in nutmeg, honey, lemon juice, lemon peel, and pineapple juice."
+          "text": "Smear the lamb with the prepared paste."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer, uncovered, for an additional 5 minutes."
+          "text": "Sprinkle with flour and place in a roasting pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot in mugs and garnish with cinnamon sticks."
+          "text": "Add a scant amount of water to the pan and sprinkle rosemary on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roast slowly at 250°F to 300°F for 6 to 7 hours or until done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the lid near the end to brown the lamb."
         }
       ],
-      "keywords": "wassail, apple cider drink, holiday beverage, spiced drink",
+      "keywords": "roasted lamb, garlic and rosemary, slow cooking",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "6 hours 30 minutes",
+        "totalTime": "6 hours 50 minutes"
       },
-      "url": "wassail-52",
-      "similarity": "0.5645"
+      "url": "roasted-lamb-218",
+      "similarity": "0.5634"
     }
   ]
 }

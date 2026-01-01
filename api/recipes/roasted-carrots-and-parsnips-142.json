@@ -59,291 +59,313 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Freezer Cole Slaw",
-      "author": {
-        "@type": "Person",
-        "name": "Bonnie McNutt"
-      },
-      "description": "A freezer coleslaw recipe with a sweet and tangy dressing, made with grated cabbage and optional vegetables.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT5M",
-      "totalTime": "PT20M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 large cabbage, grated or chopped",
-        "1 large carrot, grated (optional)",
-        "1 onion, grated (optional)",
-        "1 cup white sugar",
-        "1 cup white vinegar",
-        "1 Tbsp salt",
-        "1 Tbsp celery seed",
-        "1 tsp mustard (optional)",
-        "¼ cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat together vinegar, sugar, salt, water, celery seed, and mustard to make the syrup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Grate or chop cabbage and other vegetables in a food processor."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the cabbage mixture with the syrup and refrigerate overnight."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place in a container, seal, and freeze."
-        }
-      ],
-      "keywords": "freezer coleslaw, slaw, salad",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "freezer-cole-slaw-58",
-      "similarity": "0.6982"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Barley and Corn Casserole",
+      "name": "Sliced Baked Potatoes",
       "author": {
         "@type": "Person",
         "name": "Barbara Robertson"
       },
-      "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
+      "description": "A simple yet elegant baked potato dish featuring thinly sliced potatoes topped with melted cheddar and Parmesan cheese, and fresh herbs.",
       "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "6 servings",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 Tbsp oil",
-        "3 cups vegetable stock",
-        "1 onion, chopped",
-        "2 cups kernel corn (fresh or canned)",
-        "3 cloves garlic, minced",
-        "2 carrots, finely chopped",
-        "Chopped fresh parsley",
-        "1 cup pearl or pot barley"
+        "4 medium baking potatoes",
+        "2-3 Tbsp melted butter",
+        "2-3 Tbsp fresh chopped herbs (such as parsley, chives, thyme, or sage)",
+        "2 Tbsp grated cheddar cheese",
+        "1½ Tbsp Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat oil in a heavy casserole. Cook onion, garlic, and carrots until the onion is softened, stirring frequently."
+          "text": "Scrub and rinse the potatoes."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in barley and cook for 1-2 minutes."
+          "text": "Cut the potatoes crosswise into thin slices, but not all the way through. Use the handle of a wooden spoon on either side of the potato to guide the knife."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour in vegetable stock, cover, and bake at 350 °F for 1 hour."
+          "text": "Place the potatoes on a baking sheet and fan them slightly."
         },
         {
           "@type": "HowToStep",
-          "text": "Test that barley is tender. Stir in corn and parsley."
+          "text": "Drizzle the potatoes with melted butter and sprinkle with fresh herbs."
         },
         {
           "@type": "HowToStep",
-          "text": "Return to the oven to heat through. Season with pepper to taste."
+          "text": "Bake at 425°F for about 50 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with cheddar and Parmesan cheese and return to the oven until the cheese is lightly browned and the potatoes are soft inside."
         }
       ],
-      "keywords": "barley casserole, corn, carrots, comforting side dish",
+      "keywords": "baked potatoes, sliced potatoes, cheesy potatoes, herbed potatoes",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "barley-and-corn-casserole-132",
-      "similarity": "0.6856"
+      "url": "sliced-baked-potatoes-138",
+      "similarity": "0.6247"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Potato Soup",
+      "name": "Roasted Chestnuts",
       "author": {
         "@type": "Person",
-        "name": "Barbara Ratz"
+        "name": "Julie-Ann Bibby"
       },
-      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
-      "recipeCategory": "Soup",
+      "description": "Tender and flavorful roasted chestnuts seasoned with butter, salt, and cinnamon.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT20M",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
       "totalTime": "PT40M",
-      "recipeYield": "8-10 servings",
+      "recipeYield": "1 lb roasted chestnuts",
       "recipeIngredient": [
-        "6 diced and peeled potatoes",
-        "2 diced and peeled carrots",
-        "1 chopped onion",
-        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
-        "6 Tbsp butter",
-        "6 Tbsp flour",
-        "Sour cream (optional)"
+        "1 lb chestnuts",
+        "¼ cup butter",
+        "Salt to taste",
+        "1 pinch cinnamon"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
+          "text": "Preheat oven to 375°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Microwave onions and butter until soft, about 2 minutes."
+          "text": "Cut a ½-inch crisscross on the flat side of each chestnut, ensuring the cut goes through the nut to prevent explosion during baking."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
+          "text": "Place the scored chestnuts in a shallow baking pan and bake for 25 to 30 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
+          "text": "Allow the chestnuts to cool, then peel off the shells."
         },
         {
           "@type": "HowToStep",
-          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
+          "text": "In a skillet, melt the butter over high heat and sauté the peeled chestnuts until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the skillet to the oven and roast until the chestnuts are golden on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with salt and cinnamon to taste before serving."
         }
       ],
-      "keywords": "potato soup, creamy soup, comfort food",
+      "keywords": "roasted chestnuts, savory snack, holiday appetizer",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "potato-soup-125",
-      "similarity": "0.6820"
+      "url": "roasted-chestnuts-26",
+      "similarity": "0.5940"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hamburger Pie",
+      "name": "Meat and Potato Casserole",
       "author": {
         "@type": "Person",
-        "name": "Marguerite Finkbeiner"
+        "name": "Martine Bercier"
       },
-      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
       "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT30M",
-      "totalTime": "PT55M",
-      "recipeYield": "1 casserole",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
       "recipeIngredient": [
-        "1 medium onion, sliced",
-        "1 to 1½ cups cooked green beans",
-        "1 Tbsp oil",
-        "1 lb hamburger",
-        "¼ tsp salt",
-        "⅛ tsp pepper",
-        "1 can tomato soup",
-        "5 medium potatoes",
-        "½ cup warm milk",
-        "1 beaten egg"
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+          "text": "Layer sliced potatoes in an 8L casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish."
+          "text": "Top with corn and the browned meat mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Cover and cook at 350°F for 50 minutes."
         }
       ],
-      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
       "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "55 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "hamburger-pie-169",
-      "similarity": "0.6768"
+      "url": "meat-and-potato-casserole-159",
+      "similarity": "0.5786"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Coleslaw Chalet Dressing",
+      "name": "Turkey or Chicken Pies",
       "author": {
         "@type": "Person",
-        "name": "Ruth Haines"
+        "name": "Shirley Preszcator"
       },
-      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
-      "recipeCategory": "Salad",
+      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "Several servings",
+      "prepTime": "PT45M",
+      "cookTime": "PT30M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "Multiple individual pies or 1 large pie",
       "recipeIngredient": [
-        "1 (medium size) head cabbage, shredded",
-        "2 carrots, finely chopped",
-        "1 Spanish onion, minced",
-        "3 stalks celery, finely chopped",
-        "¾ cup white sugar",
-        "¾ cup salad oil",
-        "1 cup white vinegar",
-        "2 tsp salt",
-        "1 tsp celery seed",
-        "1 Green pepper, finely chopped"
+        "½ cup margarine",
+        "1 tsp salt",
+        "1 Tbsp onion, chopped",
+        "1 cup flour",
+        "¼ tsp salt",
+        "1½ tsp baking powder",
+        "3 cups chicken or turkey broth",
+        "3 Tbsp butter",
+        "3 cups diced turkey or chicken",
+        "1 cup frozen peas",
+        "1 cup diced carrots",
+        "½ cup celery, chopped",
+        "⅓ cup milk"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Bring all dressing ingredients to a boil and let cool."
+          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
+          "text": "Sauté chopped onion and celery until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
+          "text": "Boil carrots until thoroughly cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cooked carrots with peas and the sauce made earlier."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the crust is golden brown."
         }
       ],
-      "keywords": "coleslaw, chalet dressing, salad",
+      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
+        "prepTime": "45 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "1 hour 15 minutes"
       },
-      "url": "coleslaw-chalet-dressing-57",
-      "similarity": "0.6723"
+      "url": "turkey-or-chicken-pies-251",
+      "similarity": "0.5769"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Rolls",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "European",
+      "prepTime": "PT30M",
+      "cookTime": "PT3H",
+      "totalTime": "PT3H30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 head cabbage",
+        "½ lb ground pork",
+        "1 lb ground beef",
+        "1 medium onion",
+        "2 Tbsp lard",
+        "¾ cup uncooked rice (Uncle Ben's)",
+        "1 tsp salt",
+        "½ tsp black pepper",
+        "1 (24 oz) can tomato juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chop the onion and fry in lard for 10 minutes until softened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
+        }
+      ],
+      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "3 hours",
+        "totalTime": "3 hours 30 minutes"
+      },
+      "url": "cabbage-rolls-167",
+      "similarity": "0.5689"
     }
   ]
 }

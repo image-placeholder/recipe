@@ -105,7 +105,7 @@
         "totalTime": "1 hour"
       },
       "url": "ham-casserole-200",
-      "similarity": "0.8942"
+      "similarity": "0.8929"
     },
     {
       "@context": "https://schema.org/",
@@ -156,66 +156,7 @@
         "totalTime": "8 hours 20 minutes"
       },
       "url": "ham-potato-casserole-209",
-      "similarity": "0.7709"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheesy Ham Chowder",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A creamy, cheesy ham chowder with potatoes, carrots, and corn, finished with crispy bacon.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT40M",
-      "totalTime": "PT1H",
-      "recipeYield": "10 servings",
-      "recipeIngredient": [
-        "10 strips bacon, diced",
-        "1 large onion, chopped",
-        "2 tsp chicken bouillon granules",
-        "1 cup diced carrots",
-        "3 Tbsp all-purpose flour",
-        "3 cups (12 oz) shredded cheddar cheese",
-        "3 cups milk",
-        "1½ cups water",
-        "2 cups fully cooked, cubed ham",
-        "2½ cups cubed potatoes",
-        "1 can (15 oz) corn, drained"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large soup kettle or Dutch oven, cook the bacon over medium heat until crisp. Remove to paper towels to drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In the bacon drippings, sauté the chopped onion until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in the flour until blended. Gradually add the milk and water, bringing to a boil. Cook and stir for 2 minutes or until thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the potatoes, corn, bouillon granules, and pepper. Reduce heat and simmer, uncovered, for 20 minutes or until potatoes are tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the shredded cheese and cubed ham; heat until cheese is melted. Stir in the cooked bacon."
-        }
-      ],
-      "keywords": "ham chowder, cheesy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "40 minutes",
-        "totalTime": "1 hour"
-      },
-      "url": "cheesy-ham-chowder-116",
-      "similarity": "0.7577"
+      "similarity": "0.8122"
     },
     {
       "@context": "https://schema.org/",
@@ -272,7 +213,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "potato-casserole-141",
-      "similarity": "0.7419"
+      "similarity": "0.7326"
     },
     {
       "@context": "https://schema.org/",
@@ -340,7 +281,63 @@
         "totalTime": "40 minutes"
       },
       "url": "macaroni-ham-casserole-196",
-      "similarity": "0.7150"
+      "similarity": "0.6994"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "similarity": "0.6494"
     }
   ]
 }

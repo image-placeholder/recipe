@@ -66,6 +66,117 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Lasagna",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x13 inch pan",
+      "recipeIngredient": [
+        "1 (15 oz) container cottage cheese",
+        "1 (16 oz) box lasagna noodles",
+        "1½ cups water",
+        "2 (15 oz) jars spaghetti sauce",
+        "8 oz mozzarella cheese, thinly sliced",
+        "½ cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cottage cheese and Parmesan cheese in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread 1½ cups of spaghetti sauce in the bottom of a 13x9x2 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange a layer of uncooked lasagna noodles on top of the sauce, overlapping slightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle half of the mozzarella cheese and half of the cottage cheese mixture over the noodles."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Repeat with another layer of sauce, noodles, and the remaining cheeses."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the top with sauce and cover tightly with heavy foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Set on a jelly roll pan and bake."
+        }
+      ],
+      "keywords": "lasagna, Italian-American, pasta bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "lasagna-192",
+      "similarity": "0.6827"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Van Valkengoed"
+      },
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta according to package instructions, then drain and cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the feta cheese into the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+        }
+      ],
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "pasta-salad-85",
+      "similarity": "0.6567"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Garfield's Lasagna",
       "author": {
         "@type": "Person",
@@ -129,192 +240,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "garfields-lasagna-195",
-      "similarity": "0.7305"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Lasagna",
-      "author": {
-        "@type": "Person",
-        "name": "Mary Kenney"
-      },
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 9x13 inch pan",
-      "recipeIngredient": [
-        "1 (15 oz) container cottage cheese",
-        "1 (16 oz) box lasagna noodles",
-        "1½ cups water",
-        "2 (15 oz) jars spaghetti sauce",
-        "8 oz mozzarella cheese, thinly sliced",
-        "½ cup grated Parmesan cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine cottage cheese and Parmesan cheese in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread 1½ cups of spaghetti sauce in the bottom of a 13x9x2 inch pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange a layer of uncooked lasagna noodles on top of the sauce, overlapping slightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle half of the mozzarella cheese and half of the cottage cheese mixture over the noodles."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Repeat with another layer of sauce, noodles, and the remaining cheeses."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the top with sauce and cover tightly with heavy foil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Set on a jelly roll pan and bake."
-        }
-      ],
-      "keywords": "lasagna, Italian-American, pasta bake",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "lasagna-192",
-      "similarity": "0.7161"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Thai Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
-        }
-      ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "thai-chicken-235",
-      "similarity": "0.6963"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Pasta Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Lorie Van Valkengoed"
-      },
-      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeIngredient": [
-        "½ bag penne or spiral pasta",
-        "1 green pepper, chopped",
-        "2 tomatoes, chopped",
-        "3 green onions, chopped",
-        "½ can black olives, sliced",
-        "1½ lb feta cheese, crumbled",
-        "1 bottle Classic Herb dressing"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the pasta according to package instructions, then drain and cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Crumble the feta cheese into the pasta mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
-        }
-      ],
-      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "pasta-salad-85",
-      "similarity": "0.6903"
+      "similarity": "0.6558"
     },
     {
       "@context": "https://schema.org/",
@@ -364,7 +290,61 @@
         "totalTime": "4 hours 20 minutes"
       },
       "url": "spaghetti-sauce-177",
-      "similarity": "0.6754"
+      "similarity": "0.6273"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-187",
+      "similarity": "0.6273"
     }
   ]
 }

@@ -42,306 +42,316 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Onion Salad",
+      "name": "Chili Con Queso (Nacho Cheese Dip)",
       "author": [
         {
           "@type": "Person",
-          "name": "Wallace Pfaff"
+          "name": "Marti Mockler"
         },
         {
           "@type": "Person",
-          "name": "Joanne Pickering"
+          "name": "Irene Haugh"
         }
       ],
-      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "2 Spanish onions, thinly sliced",
-        "1 1/2 tsp salt",
-        "1/2 cup white sugar",
-        "1 cup mayonnaise or salad dressing",
-        "1/3 cup water",
-        "1/3 cup vinegar",
-        "1 tsp celery seed"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain the marinade well in the morning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until ready to serve."
-        }
-      ],
-      "keywords": "onion salad, marinated onions, sweet and tangy salad",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 10 minutes"
-      },
-      "url": "onion-salad-74",
-      "similarity": "0.6828"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Tortilla Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Mexican",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "Chicken (breasts or thighs)",
-        "1 onion, chopped",
-        "2 cloves garlic, minced",
-        "1 can diced tomatoes",
-        "1 cup corn",
-        "1 can black beans, optional",
-        "1 bay leaf",
-        "¼ cup chopped cilantro",
-        "½ tsp chili powder",
-        "½ tsp cumin",
-        "½ tsp oregano",
-        "Salt and pepper to taste",
-        "Tortilla chips",
-        "Sour cream",
-        "Cheddar cheese, grated",
-        "1 jar salsa"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute chicken pieces with onion, garlic, and spices until chicken is cooked through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add 4 cups water and boil to make stock."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove chicken and chop, discarding any bones and skin."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine remaining ingredients (except tortilla chips, sour cream, and cheese) and heat through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To serve, place tortilla chips in soup bowls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour soup over chips and top with sour cream, jalapenos (optional), and shredded cheddar cheese."
-        }
-      ],
-      "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "tortilla-soup-124",
-      "similarity": "0.6508"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Wassail",
-      "author": {
-        "@type": "Person",
-        "name": "Bonnie McNutt"
-      },
-      "description": "A warm and spicy apple cider drink perfect for the holiday season, flavored with lemon, cinnamon, and pineapple juice.",
-      "recipeCategory": "Beverage",
+      "description": "A warm, cheesy dip made with cream cheese, cheddar cheese soup, and processed cheese, perfect for tortilla chips.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
       "prepTime": "PT10M",
       "cookTime": "PT10M",
       "totalTime": "PT20M",
-      "recipeYield": "6 servings",
+      "recipeYield": "1 saucepan",
       "recipeIngredient": [
-        "6 cups apple cider or juice",
-        "1 tsp grated lemon peel",
-        "1 cinnamon stick",
-        "¼ tsp nutmeg",
-        "2¼ cups unsweetened pineapple juice",
-        "3 Tbsp lemon juice",
-        "¼ cup honey",
-        "Cinnamon sticks for garnish"
+        "1 pkg (227 g) cream cheese",
+        "4 slices processed cheese",
+        "10 oz can (284 mL) cheddar cheese soup",
+        "¼ to ½ cup salsa",
+        "Tortilla chips for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a large saucepan, heat the apple cider and cinnamon stick to boiling."
+          "text": "Let the cream cheese stand at room temperature to warm up."
         },
         {
           "@type": "HowToStep",
-          "text": "Reduce heat, cover, and simmer for 5 minutes."
+          "text": "In a saucepan, melt the cream cheese over heat."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in nutmeg, honey, lemon juice, lemon peel, and pineapple juice."
+          "text": "Add the cheddar cheese soup, stirring constantly until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer, uncovered, for an additional 5 minutes."
+          "text": "Crumble the processed cheese into smaller pieces and melt it into the cheese mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot in mugs and garnish with cinnamon sticks."
+          "text": "Add salsa to taste, adjusting the amount based on the type of salsa used."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the Chili Con Queso hot with tortilla chips as a dip, or cold with tacos or chili."
         }
       ],
-      "keywords": "wassail, apple cider drink, holiday beverage, spiced drink",
+      "keywords": "nacho cheese dip, chili con queso, cheesy dip, tortilla chip dip",
       "_naturalized_times": {
         "prepTime": "10 minutes",
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "wassail-52",
-      "similarity": "0.6485"
+      "url": "chili-con-queso-nacho-cheese-dip-27",
+      "similarity": "0.6624"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken-Pineapple Stir-Fry",
+      "name": "Hot Taco Dip",
       "author": {
         "@type": "Person",
-        "name": "Louise Wein"
+        "name": "Brenda Martene"
       },
-      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT10M",
-      "cookTime": "PT5M",
-      "totalTime": "PT15M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "12 oz deboned chicken breast",
-        "2 tsp cornstarch",
-        "1 onion, chopped",
-        "¼ tsp cinnamon",
-        "1 cup diced celery",
-        "1½ tsp soya sauce",
-        "1 cup green pepper strips",
-        "2 tsp margarine",
-        "2 cups pineapple chunks (with juice reserved)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat and cook until the sauce is clear and thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the stir-fry over hot rice."
-        }
-      ],
-      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "15 minutes"
-      },
-      "url": "chicken-pineapple-stir-fry-221",
-      "similarity": "0.6285"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Black Bean Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Julie-Ann Bibby"
-      },
-      "description": "A fresh and vibrant salad featuring black beans, salsa, and corn kernels on a bed of romaine lettuce.",
-      "recipeCategory": "Salad",
+      "description": "A warm, layered taco dip featuring seasoned ground beef, sour cream, and melted cheddar cheese, served with tortilla chips.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "Mexican-American",
       "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "1 large serving dish",
       "recipeIngredient": [
-        "1 ripened tomato, chopped",
-        "2 cups shredded romaine lettuce",
-        "1/2 cup of your favorite salsa",
-        "1 cup fresh corn kernels",
-        "2 sliced scallions",
-        "1 can black beans (15 oz)"
+        "1 lb lean ground beef",
+        "1 package Old El Paso taco seasoning mix",
+        "2 cups grated cheddar cheese",
+        "1 chopped green onion",
+        "1 chopped green pepper",
+        "2 cups sour cream",
+        "1 (optional) 8 oz package Philadelphia cream cheese",
+        "1 jar mild El Paso salsa",
+        "1 bag tortilla chips"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine chopped tomato, salsa, and scallions in a bowl."
+          "text": "Brown the ground beef with chopped onion in a frying pan; drain excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in the black beans."
+          "text": "Add taco seasoning mix to the browned hamburger and prepare according to package directions."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread shredded romaine lettuce in a serving dish."
+          "text": "In a 13x9x2 inch baking dish, spread the prepared hamburger mixture evenly across the bottom."
         },
         {
           "@type": "HowToStep",
-          "text": "Top the lettuce with the bean and salsa mixture."
+          "text": "Sprinkle the chopped green peppers on top of the hamburger layer."
         },
         {
           "@type": "HowToStep",
-          "text": "Microwave the corn kernels on high for 30 seconds."
+          "text": "Mix together the sour cream and cream cheese (if using) until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Distribute the warmed corn over the salad and serve."
+          "text": "Spread the sour cream mixture over the top of the green peppers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread a layer of mild salsa over the sour cream layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with a layer of grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated oven at 350°F until heated through.",
+          "temperature": "350°F",
+          "cookMethod": "Bake"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with tortilla chips."
         }
       ],
-      "keywords": "black bean salad, Mexican salad, fresh corn",
+      "keywords": "hot taco dip, taco dip, Mexican appetizer, cheesy dip",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
       },
-      "url": "black-bean-salad-48",
-      "similarity": "0.6280"
+      "url": "hot-taco-dip-21",
+      "similarity": "0.6333"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "mexican-salad-50",
+      "similarity": "0.6165"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Meghan Brand"
+      },
+      "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 large glass pan",
+      "recipeIngredient": [
+        "8 oz pkg cream cheese",
+        "500 g tub sour cream",
+        "¼ pkg taco seasoning mix",
+        "1 cup shredded cheddar cheese",
+        "1 small container salsa sauce",
+        "1 chopped red pepper",
+        "1 chopped green pepper",
+        "1 chopped tomato",
+        "Baked nacho chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the mixture in a large glass pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread salsa sauce over the cream cheese layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the salsa layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped red pepper, green pepper, and tomato on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with baked nacho chips."
+        }
+      ],
+      "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "nacho-dip-29",
+      "similarity": "0.6086"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Fudge",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A warm, cheesy baked appetizer served on Triscuits.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "1 9×11 in pan",
+      "recipeIngredient": [
+        "2 cups shredded cheddar cheese",
+        "3 eggs, lightly beaten",
+        "½ cup taco or salsa sauce",
+        "2 cups shredded mozzarella cheese",
+        "Triscuits for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease a 9×11 in pan and spread the cheddar cheese evenly on the bottom."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lightly beat the eggs and mix with taco or salsa sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the egg mixture over the cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut into squares while warm and serve on Triscuits."
+        }
+      ],
+      "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "mexican-fudge-12",
+      "similarity": "0.6010"
     }
   ]
 }

@@ -133,209 +133,7 @@
         "totalTime": "1 hour 20 minutes"
       },
       "url": "english-shepherds-pie-173",
-      "similarity": "0.8435"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Beef & Barley Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Marjorie Johns"
-      },
-      "description": "A hearty beef and barley soup with vegetables and tomato, ideal for freezing and reheating.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H30M",
-      "recipeYield": "22 cups",
-      "recipeIngredient": [
-        "6 cups water",
-        "6 beef bouillon cubes",
-        "1 Tbsp parsley flakes",
-        "28 oz canned tomato",
-        "1 tsp sugar",
-        "10 oz condensed tomato soup",
-        "1 tsp salt",
-        "2 cups shredded carrots",
-        "¼ tsp pepper",
-        "2 cups shredded potatoes",
-        "¾ tsp thyme",
-        "1½ cups chopped onion",
-        "3 cups cooked roast beef (or 2-3 cups chopped hamburg meat)",
-        "1 cup chopped celery",
-        "½ cup pearl or pot barley"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat water and bouillon cubes in a large pot, stirring until dissolved."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add remaining ingredients except beef and bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer for 1½ hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add beef and simmer for an additional ½ hour."
-        }
-      ],
-      "keywords": "beef barley soup, hearty soup, freezer-friendly",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 30 minutes"
-      },
-      "url": "beef-barley-soup-100",
-      "similarity": "0.7431"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Beef and Rice Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Kurtis Brand"
-      },
-      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 1½ quart casserole",
-      "recipeIngredient": [
-        "1⅓ cups cooked rice",
-        "1 tsp salt",
-        "1 Tbsp butter",
-        "Dash pepper",
-        "1½ cups diced celery",
-        "3 Tbsp minced onion",
-        "1 can condensed tomato soup",
-        "¼ cup water",
-        "1 lb ground beef"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Sauté celery and onion in butter until soft and tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place rice in a greased 1½ quart casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the rice with the celery mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange the cooked beef on top of the celery mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the tomato soup with water and pour over the meat layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated 325°F oven for ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 325,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
-        }
-      ],
-      "keywords": "beef casserole, rice casserole, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "beef-and-rice-casserole-168",
-      "similarity": "0.7147"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cabbage Rolls",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "European",
-      "prepTime": "PT30M",
-      "cookTime": "PT3H",
-      "totalTime": "PT3H30M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 head cabbage",
-        "½ lb ground pork",
-        "1 lb ground beef",
-        "1 medium onion",
-        "2 Tbsp lard",
-        "¾ cup uncooked rice (Uncle Ben's)",
-        "1 tsp salt",
-        "½ tsp black pepper",
-        "1 (24 oz) can tomato juice"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chop the onion and fry in lard for 10 minutes until softened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
-        }
-      ],
-      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "3 hours",
-        "totalTime": "3 hours 30 minutes"
-      },
-      "url": "cabbage-rolls-167",
-      "similarity": "0.7120"
+      "similarity": "0.9149"
     },
     {
       "@context": "https://schema.org/",
@@ -410,7 +208,206 @@
         "totalTime": "55 minutes"
       },
       "url": "hamburger-pie-169",
-      "similarity": "0.7038"
+      "similarity": "0.7213"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey or Chicken Pies",
+      "author": {
+        "@type": "Person",
+        "name": "Shirley Preszcator"
+      },
+      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT45M",
+      "cookTime": "PT30M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "Multiple individual pies or 1 large pie",
+      "recipeIngredient": [
+        "½ cup margarine",
+        "1 tsp salt",
+        "1 Tbsp onion, chopped",
+        "1 cup flour",
+        "¼ tsp salt",
+        "1½ tsp baking powder",
+        "3 cups chicken or turkey broth",
+        "3 Tbsp butter",
+        "3 cups diced turkey or chicken",
+        "1 cup frozen peas",
+        "1 cup diced carrots",
+        "½ cup celery, chopped",
+        "⅓ cup milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté chopped onion and celery until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil carrots until thoroughly cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cooked carrots with peas and the sauce made earlier."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the crust is golden brown."
+        }
+      ],
+      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
+      "_naturalized_times": {
+        "prepTime": "45 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "turkey-or-chicken-pies-251",
+      "similarity": "0.6326"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef and Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kurtis Brand"
+      },
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
+      "recipeIngredient": [
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Sauté celery and onion in butter until soft and tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place rice in a greased 1½ quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the rice with the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "beef casserole, rice casserole, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "beef-and-rice-casserole-168",
+      "similarity": "0.6271"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "similarity": "0.6199"
     }
   ]
 }

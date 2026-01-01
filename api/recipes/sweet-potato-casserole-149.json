@@ -69,67 +69,59 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Swedish Potatoes",
+      "name": "Sliced Baked Potatoes",
       "author": {
         "@type": "Person",
-        "name": "Barbara Ratz"
+        "name": "Barbara Robertson"
       },
-      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+      "description": "A simple yet elegant baked potato dish featuring thinly sliced potatoes topped with melted cheddar and Parmesan cheese, and fresh herbs.",
       "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "10-12 servings",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "12 large potatoes",
-        "2 slightly beaten eggs",
-        "1 cup sour cream",
-        "1 tsp salt",
-        "¾ cup bread crumbs",
-        "2 Tbsp butter",
-        "1¼ tsp butter",
-        "1 (8 oz) package cream cheese",
-        "2 tsp onion salt or chopped onion"
+        "4 medium baking potatoes",
+        "2-3 Tbsp melted butter",
+        "2-3 Tbsp fresh chopped herbs (such as parsley, chives, thyme, or sage)",
+        "2 Tbsp grated cheddar cheese",
+        "1½ Tbsp Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook and mash the potatoes."
+          "text": "Scrub and rinse the potatoes."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
+          "text": "Cut the potatoes crosswise into thin slices, but not all the way through. Use the handle of a wooden spoon on either side of the potato to guide the knife."
         },
         {
           "@type": "HowToStep",
-          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
+          "text": "Place the potatoes on a baking sheet and fan them slightly."
         },
         {
           "@type": "HowToStep",
-          "text": "Dot the top with butter and sprinkle with bread crumbs."
+          "text": "Drizzle the potatoes with melted butter and sprinkle with fresh herbs."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake, covered, at 350°F for 30 minutes."
+          "text": "Bake at 425°F for about 50 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
+          "text": "Sprinkle with cheddar and Parmesan cheese and return to the oven until the cheese is lightly browned and the potatoes are soft inside."
         }
       ],
-      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+      "keywords": "baked potatoes, sliced potatoes, cheesy potatoes, herbed potatoes",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "swedish-potatoes-137",
-      "similarity": "0.7218"
+      "url": "sliced-baked-potatoes-138",
+      "similarity": "0.6759"
     },
     {
       "@context": "https://schema.org/",
@@ -186,167 +178,186 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "potato-casserole-141",
-      "similarity": "0.7205"
+      "similarity": "0.6564"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meat and Potato Casserole",
+      "name": "Cheddar Baked Potato Slices",
       "author": {
         "@type": "Person",
-        "name": "Martine Bercier"
+        "name": "Ina Browning"
       },
-      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
-      "recipeCategory": "Casserole",
+      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "1 8L casserole",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "½ lb lean ground beef",
-        "1 onion",
-        "1 clove garlic",
-        "6 medium potatoes, peeled and sliced",
-        "1 envelope (50g) gravy mix",
-        "2½ cups water",
-        "2 cups corn",
-        "Salt and pepper to taste"
+        "4 medium baking potatoes, cut into ¼ inch slices",
+        "1 can cream of mushroom soup",
+        "½ tsp paprika",
+        "½ tsp pepper",
+        "1 cup shredded cheddar cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Layer sliced potatoes in an 8L casserole dish."
+          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+          "text": "Sprinkle shredded cheddar cheese over the potatoes."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with corn and the browned meat mixture."
+          "text": "Spoon the soup mixture evenly over the cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover and cook at 350°F for 50 minutes."
+          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 400,
+            "unitCode": "FAR"
+          },
+          "duration": "PT45M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
         }
       ],
-      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
       },
-      "url": "meat-and-potato-casserole-159",
-      "similarity": "0.6909"
+      "url": "cheddar-baked-potato-slices-140",
+      "similarity": "0.6482"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hot Potato Salad",
+      "name": "Ham Casserole",
       "author": {
         "@type": "Person",
-        "name": "Margaret Beaver"
+        "name": "Bernice Martin"
       },
-      "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
-      "recipeCategory": "Salad",
+      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT5M",
-      "totalTime": "PT15M",
-      "recipeYield": "Serves 4-6",
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "3 to 4 cups sliced potatoes",
-        "⅓ cup white vinegar",
-        "1 Tbsp flour",
-        "¾ cup water",
-        "1 Tbsp butter",
-        "Salt and pepper to taste",
-        "Pinch of sugar"
+        "4 cups hash brown potatoes, thawed",
+        "1½ cups chopped ham",
+        "1 cup grated Cracker Barrel cheddar cheese",
+        "1 small onion, chopped",
+        "½ cup Miracle Whip salad dressing",
+        "½ cup milk",
+        "¼ tsp pepper",
+        "½ cup fresh bread crumbs",
+        "1 Tbsp butter or margarine"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a saucepan, combine the white vinegar, flour, and water. Heat, stirring constantly, until the mixture thickens."
+          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the butter, salt, pepper, and sugar to the vinegar mixture. Bring to a boil."
+          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the hot dressing over the sliced potatoes."
+          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with bread crumbs and dot with butter or margarine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 45 minutes."
         }
       ],
-      "keywords": "hot potato salad, vinegar dressing, warm salad",
+      "keywords": "ham casserole, potato casserole, comforting main dish",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "15 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour"
       },
-      "url": "hot-potato-salad-86",
-      "similarity": "0.6884"
+      "url": "ham-casserole-200",
+      "similarity": "0.6196"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sliced Baked Potatoes",
+      "name": "Barley and Corn Casserole",
       "author": {
         "@type": "Person",
         "name": "Barbara Robertson"
       },
-      "description": "A simple yet elegant baked potato dish featuring thinly sliced potatoes topped with melted cheddar and Parmesan cheese, and fresh herbs.",
+      "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
       "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "4 medium baking potatoes",
-        "2-3 Tbsp melted butter",
-        "2-3 Tbsp fresh chopped herbs (such as parsley, chives, thyme, or sage)",
-        "2 Tbsp grated cheddar cheese",
-        "1½ Tbsp Parmesan cheese"
+        "1 Tbsp oil",
+        "3 cups vegetable stock",
+        "1 onion, chopped",
+        "2 cups kernel corn (fresh or canned)",
+        "3 cloves garlic, minced",
+        "2 carrots, finely chopped",
+        "Chopped fresh parsley",
+        "1 cup pearl or pot barley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Scrub and rinse the potatoes."
+          "text": "Heat oil in a heavy casserole. Cook onion, garlic, and carrots until the onion is softened, stirring frequently."
         },
         {
           "@type": "HowToStep",
-          "text": "Cut the potatoes crosswise into thin slices, but not all the way through. Use the handle of a wooden spoon on either side of the potato to guide the knife."
+          "text": "Stir in barley and cook for 1-2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Place the potatoes on a baking sheet and fan them slightly."
+          "text": "Pour in vegetable stock, cover, and bake at 350 °F for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Drizzle the potatoes with melted butter and sprinkle with fresh herbs."
+          "text": "Test that barley is tender. Stir in corn and parsley."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 425°F for about 50 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle with cheddar and Parmesan cheese and return to the oven until the cheese is lightly browned and the potatoes are soft inside."
+          "text": "Return to the oven to heat through. Season with pepper to taste."
         }
       ],
-      "keywords": "baked potatoes, sliced potatoes, cheesy potatoes, herbed potatoes",
+      "keywords": "barley casserole, corn, carrots, comforting side dish",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
-      "url": "sliced-baked-potatoes-138",
-      "similarity": "0.6876"
+      "url": "barley-and-corn-casserole-132",
+      "similarity": "0.6171"
     }
   ]
 }

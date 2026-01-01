@@ -55,337 +55,243 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sloppy Joe Squares",
+      "name": "Pina Colada Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A creamy and tropical dip made with pineapple, coconut pudding, and sour cream, perfect for serving with fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PTOvernight",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 small can crushed pineapple, undrained",
+        "¾ cup milk",
+        "½ cup sour cream",
+        "3½ oz package instant coconut pudding and pie filling (or 1 vanilla pudding and ¼ cup shredded coconut with coconut extract)",
+        "½ tsp coconut extract"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together in a food processor or blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate overnight to allow flavors to meld."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve chilled with a variety of fresh fruits."
+        }
+      ],
+      "keywords": "pina colada dip, fruit dip, coconut pudding, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": null
+      },
+      "url": "pina-colada-dip-23",
+      "similarity": "0.5773"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab Dip",
       "author": {
         "@type": "Person",
         "name": "Deb (Finkbeiner) Lord"
       },
-      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "8 servings",
-      "recipeIngredient": [
-        "1 lb ground beef",
-        "1 small onion, minced",
-        "1/2 tsp Worcestershire sauce",
-        "3/4 cup ketchup",
-        "1 tsp salt",
-        "1/2 tsp pepper",
-        "1/4 tsp chili powder",
-        "2 Tbsp flour",
-        "2 packages Pillsbury crescent dinner rolls",
-        "Mozzarella cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Blend in flour to thicken the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the beef mixture evenly over the layer of rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top the beef mixture with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F until the crescent rolls are browned."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with a salad."
-        }
-      ],
-      "keywords": "sloppy joe, casserole, crescent rolls, beef",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
-      },
-      "url": "sloppy-joe-squares-185",
-      "similarity": "0.6042"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Veggie Pizza",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Linda Nakamura"
-        },
-        {
-          "@type": "Person",
-          "name": "Teena Houston"
-        }
-      ],
-      "description": "A simple and customizable veggie pizza using crescent rolls as the crust, topped with a cream cheese mixture and various vegetables.",
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
       "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
       "recipeIngredient": [
-        "2 pkg Pillsbury crescent rolls",
-        "1 cup sour cream",
-        "1/2 cup mayonnaise",
-        "2 large cream cheese",
-        "2 pkg Hidden Valley ranch dressing",
-        "Grated cheddar cheese",
-        "Veggies (broccoli, cauliflower, carrots, celery, red or green peppers, green onions)"
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Roll out crescent rolls on a cookie sheet and a small cake pan. Bake until golden brown. Cool."
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix sour cream, mayonnaise, cream cheese, and ranch dressing to make the cream mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread cream mixture on cooled rolls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with finely chopped vegetables of your choice."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with grated cheddar cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill and cut into small pieces. Serve as hors d'oeuvres."
+          "text": "Serve with crackers."
         }
       ],
-      "keywords": "veggie pizza, appetizer, crescent rolls",
+      "keywords": "crab dip, seafood dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
       },
-      "url": "veggie-pizza-47",
-      "similarity": "0.5976"
+      "url": "crab-dip-20",
+      "similarity": "0.5519"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Veggie Pizza",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Kelly Haines"
-        },
-        {
-          "@type": "Person",
-          "name": "Kim MacDonald"
-        }
-      ],
-      "description": "A simple veggie pizza made with a crescent roll crust, cream cheese, ranch dressing, and various chopped vegetables.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "1 pizza",
-      "recipeIngredient": [
-        "1 roll Pillsbury crescent rolls",
-        "1 (8 oz) pkg cream cheese",
-        "1/2 cup ranch dressing",
-        "1 cup finely chopped broccoli",
-        "1/2 cup finely chopped red onion",
-        "1/2 cup finely chopped green or red pepper",
-        "1 cup finely chopped cauliflower"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 375°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll out crescent roll dough on a flat cookie sheet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until golden brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cream cheese with ranch dressing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the cream cheese mixture onto the cooled crust."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with chopped vegetables."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Keep refrigerated before serving."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cut with pizza cutter or knife."
-        }
-      ],
-      "keywords": "veggie pizza, crescent roll crust, cream cheese, ranch dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "veggie-pizza-201",
-      "similarity": "0.5976"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Stuffing and Chicken",
+      "name": "Nacho Fiesta Dip",
       "author": {
         "@type": "Person",
-        "name": "Beth Clarke"
+        "name": "Chris Dinney"
       },
-      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "description": "A layered dip featuring cottage cheese, cream cheese, and taco seasoning, topped with lettuce, tomatoes, and cheddar cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
       "prepTime": "PT15M",
-      "cookTime": "PT1H",
+      "cookTime": "PT0M",
       "totalTime": "PT1H15M",
-      "recipeYield": "4 servings",
+      "recipeYield": "1 large bowl",
       "recipeIngredient": [
-        "4 boned and skinned chicken breast halves",
-        "1⅓ cups Stove Top stuffing",
-        "1 can cream of chicken soup",
-        "4 slices Swiss cheese"
+        "2 cups cottage cheese",
+        "1 pkg taco seasoning",
+        "2 cups cream cheese",
+        "1½ to 2 cups grated cheddar cheese",
+        "½ small head lettuce, shredded",
+        "3 medium tomatoes, diced",
+        "Large bag tortilla chips for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
+          "text": "Mix cottage cheese, cream cheese, and taco seasoning together in a blender until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Put a slice of Swiss cheese on top of each breast."
+          "text": "Place the mixture in a large bowl lined with Saran Wrap and refrigerate covered for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
+          "text": "Remove the dip from the bowl by tipping it onto a platter or large plate and peeling off the Saran Wrap."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the cream of chicken soup over the stuffing layer."
+          "text": "Cover the dip with shredded lettuce, then diced tomatoes, and finally grated cheddar cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350 °F for 1 hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT1H"
+          "text": "Surround with tortilla chips and serve."
         }
       ],
-      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
+      "keywords": "layered dip, nacho fiesta, taco seasoning, cheesy dip",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "1 hour",
+        "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
-      "url": "stuffing-and-chicken-242",
-      "similarity": "0.5908"
+      "url": "nacho-fiesta-dip-28",
+      "similarity": "0.5384"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Parmesan Chicken",
+      "name": "Club Salad",
       "author": {
         "@type": "Person",
-        "name": "Lorraine Bowers"
+        "name": "Linda Finkbeiner"
       },
-      "description": "A crispy Parmesan-crusted chicken dish baked with spaghetti sauce and mozzarella cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
+      "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "1 large bowl",
       "recipeIngredient": [
-        "Boneless chicken breasts",
-        "1/3 cup Parmesan cheese",
-        "1 1/3 cups dry bread crumbs",
-        "3 beaten eggs",
-        "1 tsp salt",
-        "1/4 tsp pepper",
-        "Spaghetti sauce",
-        "Grated mozzarella cheese"
+        "7 cups romaine lettuce",
+        "1 cup crisp cooked bacon, chopped",
+        "1 cup chopped hard-boiled eggs",
+        "¾ cup ranch or dip dressing",
+        "¾ cup grated cheese (marble, cheddar, etc.)",
+        "1 cup cooked chicken breast, diced",
+        "½ cup grated carrots",
+        "1 cup diced tomatoes"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix Parmesan cheese with bread crumbs and set aside."
+          "text": "Mix all ingredients in a large bowl, layering each ingredient to look festive."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix eggs, salt, and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Dip boneless chicken breasts in egg mixture, then coat with bread crumb mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange coated chicken breasts in a baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with tinfoil and bake at 350°F for 45 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour spaghetti sauce over the chicken and continue baking."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Before serving, sprinkle grated mozzarella cheese on top and bake for an additional 10 minutes until browned."
+          "text": "Top with dressing."
         }
       ],
-      "keywords": "Parmesan chicken, breaded chicken, Italian-American cuisine",
+      "keywords": "layered salad, club salad, ranch dressing",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 10 minutes"
+        "cookTime": "",
+        "totalTime": "15 minutes"
       },
-      "url": "parmesan-chicken-239",
-      "similarity": "0.5875"
+      "url": "club-salad-68",
+      "similarity": "0.5374"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Fudge",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A warm, cheesy baked appetizer served on Triscuits.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "1 9×11 in pan",
+      "recipeIngredient": [
+        "2 cups shredded cheddar cheese",
+        "3 eggs, lightly beaten",
+        "½ cup taco or salsa sauce",
+        "2 cups shredded mozzarella cheese",
+        "Triscuits for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease a 9×11 in pan and spread the cheddar cheese evenly on the bottom."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lightly beat the eggs and mix with taco or salsa sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the egg mixture over the cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut into squares while warm and serve on Triscuits."
+        }
+      ],
+      "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "mexican-fudge-12",
+      "similarity": "0.5289"
     }
   ]
 }

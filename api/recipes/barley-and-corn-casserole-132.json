@@ -56,246 +56,182 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meat and Potato Casserole",
+      "name": "Beef and Rice Casserole",
       "author": {
         "@type": "Person",
-        "name": "Martine Bercier"
+        "name": "Kurtis Brand"
       },
-      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
       "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "1 8L casserole",
-      "recipeIngredient": [
-        "½ lb lean ground beef",
-        "1 onion",
-        "1 clove garlic",
-        "6 medium potatoes, peeled and sliced",
-        "1 envelope (50g) gravy mix",
-        "2½ cups water",
-        "2 cups corn",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Layer sliced potatoes in an 8L casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with corn and the browned meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and cook at 350°F for 50 minutes."
-        }
-      ],
-      "keywords": "meat casserole, potato and corn dish, gravy topping",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "meat-and-potato-casserole-159",
-      "similarity": "0.7565"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chili Turkey",
-      "author": {
-        "@type": "Person",
-        "name": "Dianne Finkbeiner"
-      },
-      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
-      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT30M",
       "totalTime": "PT50M",
-      "recipeYield": "4 servings",
+      "recipeYield": "1 1½ quart casserole",
       "recipeIngredient": [
-        "1 tsp ground coriander",
-        "1½ tsp vegetable oil",
-        "¼ tsp salt",
-        "1 large chopped onion",
-        "½ tsp ground cumin",
-        "1 large chopped green pepper",
-        "¼ tsp cinnamon",
-        "2 chopped garlic cloves",
-        "2 to 3 Tbsp chili powder",
-        "1⅓ lb ground turkey",
-        "1 can red kidney beans",
-        "1¾ cups chicken broth",
-        "6 oz whole wheat spaghetti",
-        "3 tsp tomato paste",
-        "½ cup shredded cheese",
-        "1½ tsp dried oregano"
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+          "text": "Sauté celery and onion in butter until soft and tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic and cook for 1 minute."
+          "text": "Place rice in a greased 1½ quart casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+          "text": "Top the rice with the celery mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
         },
         {
           "@type": "HowToStep",
-          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+          "text": "Arrange the cooked beef on top of the celery mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+          "text": "Combine the tomato soup with water and pour over the meat layer."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook the pasta as directed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
         }
       ],
-      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "keywords": "beef casserole, rice casserole, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "chili-turkey-247",
-      "similarity": "0.7377"
+      "url": "beef-and-rice-casserole-168",
+      "similarity": "0.7516"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Stewing Beef Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Kelly Haines"
-      },
-      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "1 casserole",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
       "recipeIngredient": [
-        "1 lb stewing beef",
-        "1 tsp salt",
-        "Dash pepper",
-        "1¼ cups diced potatoes",
-        "1¼ cups diced carrots",
-        "1 tsp sugar",
-        "2 Tbsp Minit Tapioca",
-        "½ cup diced onions",
-        "1 cup V8 juice",
-        "½ cup diced celery"
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients lightly in a bowl."
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 250°F for 4 hours without uncovering."
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
         }
       ],
-      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
       },
-      "url": "stewing-beef-casserole-155",
-      "similarity": "0.7195"
+      "url": "broccoli-casserole-129",
+      "similarity": "0.7443"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cornbread Salad",
+      "name": "Broccoli Casserole",
       "author": {
         "@type": "Person",
-        "name": "Lorna Finkbeiner"
+        "name": "Eleanor Beaver"
       },
-      "description": "A layered salad with crumbled cornbread, black beans, corn, cheese, and a creamy dressing, perfect for chilling before serving.",
-      "recipeCategory": "Salad",
+      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 (9 oz) package cornbread mix",
-        "1 (11 oz) can whole kernel corn, drained",
-        "1 (8 oz) package cheddar cheese, shredded",
-        "1 (15 oz) can black beans, rinsed and drained",
-        "½ cup salad dressing or mayonnaise",
-        "¼ cup lime juice",
-        "1 tsp ground cumin",
-        "½ tsp salt",
-        "½ cup chopped fresh cilantro or parsley",
-        "1 large red bell pepper, chopped",
-        "1 bunch green onions, chopped",
-        "6 plum or tiny tim tomatoes, shredded",
-        "1 head iceberg lettuce, chopped",
-        "Onion curls for garnish"
+        "2 heads broccoli, precooked",
+        "1 cup celery, precooked",
+        "1 can mushroom soup",
+        "½ cup grated cheese",
+        "1 Tbsp melted margarine",
+        "½ cup sour cream",
+        "1 cup bread crumbs"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Prepare cornbread mix according to package directions and let cool. Crumble into pieces."
+          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "In a food processor or blender, combine salad dressing (or mayonnaise), lime juice, cumin, and salt. Process until smooth."
+          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
         },
         {
           "@type": "HowToStep",
-          "text": "Layer half of the lettuce, cornbread, dressing mixture, beans, corn, cheese, red bell pepper, green onions, and tomatoes in a 4-quart bowl."
+          "text": "Spread the topping over the casserole."
         },
         {
           "@type": "HowToStep",
-          "text": "Repeat the layers, finishing with the remaining dressing on top. Garnish as desired with cilantro or onion curls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and chill for 1 to 2 hours before serving."
+          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
         }
       ],
-      "keywords": "Cornbread salad, layered salad, Southwestern salad",
+      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "1 hour 35 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
       },
-      "url": "cornbread-salad-71",
-      "similarity": "0.7184"
+      "url": "broccoli-casserole-133",
+      "similarity": "0.7443"
     },
     {
       "@context": "https://schema.org/",
@@ -366,7 +302,62 @@
         "totalTime": "50 minutes"
       },
       "url": "chicken-and-cheese-casserole-244",
-      "similarity": "0.7155"
+      "similarity": "0.7112"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Atkinson"
+      },
+      "description": "A creamy cabbage casserole with a crunchy bread crumb topping, baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H10M",
+      "recipeIngredient": [
+        "Cabbage, cut into wedges",
+        "2 Tbsp butter",
+        "2 Tbsp flour",
+        "1 cup milk",
+        "Salt to taste",
+        "Grated cheese",
+        "8 oz Cheez Whiz",
+        "2 slices buttered bread"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook cabbage wedges until tender, then drain and cut into large pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a white sauce with butter, flour, and milk. Season with salt, grated cheese, and Cheez Whiz."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked cabbage with the white sauce mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with crumbled buttered bread."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 45 minutes."
+        }
+      ],
+      "keywords": "cabbage casserole, creamy vegetable dish, comforting main course",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "cabbage-casserole-130",
+      "similarity": "0.7052"
     }
   ]
 }

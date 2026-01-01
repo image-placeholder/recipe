@@ -146,71 +146,7 @@
         "totalTime": "40 minutes"
       },
       "url": "baked-cauliflower-143",
-      "similarity": "0.7032"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Microwave Corn Chowder",
-      "author": {
-        "@type": "Person",
-        "name": "Brenda Martene"
-      },
-      "description": "A creamy corn chowder made in the microwave with potatoes, carrots, celery, and cheddar cheese.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "10 servings",
-      "recipeIngredient": [
-        "2 cups water",
-        "¼ cup butter or margarine",
-        "2 cups diced peeled potatoes",
-        "¼ cup all-purpose flour",
-        "2 cups milk",
-        "½ cup sliced carrots",
-        "½ cup sliced celery",
-        "¼ cup chopped onion",
-        "1 tsp salt",
-        "¼ tsp pepper",
-        "3 cups (12 oz) shredded cheddar cheese",
-        "2 cans (14¾ oz each) cream style corn"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place water in a 2-quart microwave-safe dish; cover and heat until boiling."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add potatoes, carrots, celery, onion, salt, and pepper. Cook, uncovered, on high for 8 to 10 minutes or until vegetables are crisp-tender; set aside (do not drain)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a 3-quart dish, microwave butter on high for 50 to 60 seconds or until melted."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in flour until smooth. Gradually stir in milk. Cook, uncovered, on high for 6 to 7 minutes or until thickened, stirring every 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cheese. Heat for 1 to 1½ minutes or until the cheese is melted."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in corn and reserved vegetables. Cook on high for 2 to 3 minutes or until heated through."
-        }
-      ],
-      "keywords": "microwave corn chowder, creamy soup, cheddar cheese",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "microwave-corn-chowder-118",
-      "similarity": "0.6893"
+      "similarity": "0.7533"
     },
     {
       "@context": "https://schema.org/",
@@ -274,7 +210,7 @@
         "totalTime": "50 minutes"
       },
       "url": "cauliflower-broccoli-casserole-144",
-      "similarity": "0.6862"
+      "similarity": "0.7531"
     },
     {
       "@context": "https://schema.org/",
@@ -329,7 +265,7 @@
         "totalTime": "55 minutes"
       },
       "url": "broccoli-casserole-129",
-      "similarity": "0.6676"
+      "similarity": "0.5928"
     },
     {
       "@context": "https://schema.org/",
@@ -380,7 +316,84 @@
         "totalTime": "40 minutes"
       },
       "url": "broccoli-casserole-133",
-      "similarity": "0.6676"
+      "similarity": "0.5928"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Ann Haist"
+      },
+      "description": "A hearty pizza-inspired casserole with pasta, pepperoni, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeIngredient": [
+        "2 tsp margarine",
+        "2 cups tiny shell pasta",
+        "1 medium onion, chopped",
+        "2 1/2 qt boiling water",
+        "1 Tbsp oil",
+        "2 tsp salt",
+        "2 (7 1/2 oz) cans tomato sauce",
+        "10 oz can mushrooms, drained",
+        "3 Tbsp Parmesan cheese",
+        "1 tsp oregano",
+        "1 tsp basil",
+        "1 1/2 cups pepperoni slices",
+        "3 cups mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine and sauté chopped onion until soft."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomato sauce, mushrooms, oregano, and basil. Stir and remove from heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta in boiling water with oil and salt for 8 to 10 minutes until tender but firm. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked pasta with Parmesan cheese and 1 cup mozzarella cheese in a 3-quart casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scatter pepperoni slices over the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the tomato-onion sauce and sprinkle with remaining mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, in a 350°F oven for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "pizza-casserole-171",
+      "similarity": "0.5387"
     }
   ]
 }

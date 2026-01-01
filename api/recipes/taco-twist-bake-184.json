@@ -133,7 +133,7 @@
         "totalTime": "45 minutes"
       },
       "url": "beef-taco-bake-186",
-      "similarity": "0.8413"
+      "similarity": "0.8817"
     },
     {
       "@context": "https://schema.org/",
@@ -211,65 +211,77 @@
         "totalTime": "36 minutes"
       },
       "url": "taco-ring-183",
-      "similarity": "0.7588"
+      "similarity": "0.7634"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Zippy Spaghetti Sauce",
+      "name": "Spaghetti Casserole",
       "author": {
         "@type": "Person",
-        "name": "Kate Cunningham"
+        "name": "Janet Dearing"
       },
-      "description": "A flavorful and spicy spaghetti sauce with sausage, hamburger, and taco seasoning.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
+      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT30M",
       "totalTime": "PT50M",
-      "recipeYield": "Several servings",
+      "recipeYield": "1 quart casserole",
       "recipeIngredient": [
-        "1 lb lean ground hamburger",
-        "2 jumbo summer sausage slices",
-        "1/2 onion, chopped",
-        "1 tsp garlic",
-        "1 tsp oregano flakes",
-        "1 tsp salt",
-        "1/4 tsp pepper",
-        "1 envelope regular taco seasoning (El Paso)",
-        "1 jar Ragu spaghetti sauce (700 mL)",
-        "1 can sliced mushrooms, drained"
+        "½ lb spaghetti",
+        "½ lb ground beef",
+        "1 can (19 oz) diced tomatoes",
+        "½ cup chopped onion",
+        "1 can (10 oz) condensed cream of mushroom soup",
+        "1½ tsp salt",
+        "¼ tsp pepper",
+        "1 cup grated medium cheddar cheese",
+        "½ tsp garlic",
+        "1 can (10 oz) mushroom pieces, drained"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the hamburger and chopped onion."
+          "text": "Brown the ground beef and onion in a frying pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic, oregano, salt, pepper, and taco seasoning."
+          "text": "Cook spaghetti according to package directions."
         },
         {
           "@type": "HowToStep",
-          "text": "Chop the summer sausage into 1/4 inch pieces and add to the mixture."
+          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the Ragu spaghetti sauce and drained mushrooms."
+          "text": "Pour canned tomatoes over the spaghetti layer."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer for 10 minutes."
+          "text": "Spoon the browned meat mixture over the tomatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with cream of mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
         }
       ],
-      "keywords": "spaghetti sauce, zippy sauce, sausage, taco seasoning",
+      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "zippy-spaghetti-sauce-188",
-      "similarity": "0.7103"
+      "url": "spaghetti-casserole-178",
+      "similarity": "0.7089"
     },
     {
       "@context": "https://schema.org/",
@@ -328,7 +340,7 @@
         "totalTime": "25 minutes"
       },
       "url": "taco-salad-89",
-      "similarity": "0.7094"
+      "similarity": "0.7076"
     },
     {
       "@context": "https://schema.org/",
@@ -387,7 +399,7 @@
         "totalTime": "25 minutes"
       },
       "url": "taco-salad-92",
-      "similarity": "0.7094"
+      "similarity": "0.7076"
     }
   ]
 }

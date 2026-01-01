@@ -57,73 +57,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pork Chop & Rice Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Bonnie McNutt"
-      },
-      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT2H",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "6 center cut pork chops",
-        "1 sliced tomato",
-        "1 cup brown rice",
-        "1 sliced onion",
-        "4 sliced green onions",
-        "1 green pepper, sliced in rings",
-        "1/2 lb sliced fresh mushrooms",
-        "1 1/2 cups beef broth or stock",
-        "Salt and pepper to taste",
-        "1 Tbsp minced garlic",
-        "4 oz margarine or butter"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Put raw rice in the casserole pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour beef broth over the casserole and cover with foil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
-        }
-      ],
-      "keywords": "pork chop, rice, casserole, baked",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "2 hours"
-      },
-      "url": "pork-chop-rice-casserole-211",
-      "similarity": "0.7963"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Ken Noodle Supper",
       "author": {
         "@type": "Person",
@@ -186,7 +119,7 @@
         "totalTime": "45 minutes"
       },
       "url": "ken-noodle-supper-240",
-      "similarity": "0.7893"
+      "similarity": "0.6744"
     },
     {
       "@context": "https://schema.org/",
@@ -250,7 +183,74 @@
         "totalTime": "43 minutes"
       },
       "url": "pasta-bean-soup-111",
-      "similarity": "0.7806"
+      "similarity": "0.6678"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pork Chop & Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT2H",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "6 center cut pork chops",
+        "1 sliced tomato",
+        "1 cup brown rice",
+        "1 sliced onion",
+        "4 sliced green onions",
+        "1 green pepper, sliced in rings",
+        "1/2 lb sliced fresh mushrooms",
+        "1 1/2 cups beef broth or stock",
+        "Salt and pepper to taste",
+        "1 Tbsp minced garlic",
+        "4 oz margarine or butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put raw rice in the casserole pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour beef broth over the casserole and cover with foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
+        }
+      ],
+      "keywords": "pork chop, rice, casserole, baked",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "2 hours"
+      },
+      "url": "pork-chop-rice-casserole-211",
+      "similarity": "0.6524"
     },
     {
       "@context": "https://schema.org/",
@@ -307,83 +307,59 @@
         "totalTime": "25 minutes"
       },
       "url": "mushroom-soup-113",
-      "similarity": "0.7542"
+      "similarity": "0.6488"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chili Turkey",
+      "name": "Veggie Basic Soup",
       "author": {
         "@type": "Person",
-        "name": "Dianne Finkbeiner"
+        "name": "Julie-Ann Bibby"
       },
-      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
-      "recipeCategory": "Main Course",
+      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT30M",
       "totalTime": "PT50M",
-      "recipeYield": "4 servings",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 tsp ground coriander",
-        "1½ tsp vegetable oil",
-        "¼ tsp salt",
-        "1 large chopped onion",
-        "½ tsp ground cumin",
-        "1 large chopped green pepper",
-        "¼ tsp cinnamon",
-        "2 chopped garlic cloves",
-        "2 to 3 Tbsp chili powder",
-        "1⅓ lb ground turkey",
-        "1 can red kidney beans",
-        "1¾ cups chicken broth",
-        "6 oz whole wheat spaghetti",
-        "3 tsp tomato paste",
-        "½ cup shredded cheese",
-        "1½ tsp dried oregano"
+        "1/2 tsp ground pepper",
+        "3 Tbsp butter",
+        "1 Tbsp dried parsley",
+        "1 diced onion",
+        "3 Tbsp soya sauce",
+        "2 large diced carrots",
+        "1 Tbsp Worcestershire sauce",
+        "3 stalks diced celery",
+        "1 tsp paprika",
+        "1 can whole diced tomatoes",
+        "2 qt beef broth",
+        "1 Tbsp salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic and cook for 1 minute."
+          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the pasta as directed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
         }
       ],
-      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "keywords": "vegetable soup, beef broth, savory soup",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "chili-turkey-247",
-      "similarity": "0.7513"
+      "url": "veggie-basic-soup-120",
+      "similarity": "0.6481"
     }
   ]
 }

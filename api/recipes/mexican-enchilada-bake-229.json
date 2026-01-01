@@ -73,110 +73,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.7589"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-187",
-      "similarity": "0.7589"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Tortilla Soup",
       "author": {
         "@type": "Person",
@@ -240,62 +136,64 @@
         "totalTime": "50 minutes"
       },
       "url": "tortilla-soup-124",
-      "similarity": "0.7443"
+      "similarity": "0.6706"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Nacho Fiesta Dip",
+      "name": "Mexican Fudge",
       "author": {
         "@type": "Person",
-        "name": "Chris Dinney"
+        "name": "Linda Finkbeiner"
       },
-      "description": "A layered dip featuring cottage cheese, cream cheese, and taco seasoning, topped with lettuce, tomatoes, and cheddar cheese.",
+      "description": "A warm, cheesy baked appetizer served on Triscuits.",
       "recipeCategory": "Appetizer",
       "recipeCuisine": "Mexican-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT1H15M",
-      "recipeYield": "1 large bowl",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "1 9×11 in pan",
       "recipeIngredient": [
-        "2 cups cottage cheese",
-        "1 pkg taco seasoning",
-        "2 cups cream cheese",
-        "1½ to 2 cups grated cheddar cheese",
-        "½ small head lettuce, shredded",
-        "3 medium tomatoes, diced",
-        "Large bag tortilla chips for serving"
+        "2 cups shredded cheddar cheese",
+        "3 eggs, lightly beaten",
+        "½ cup taco or salsa sauce",
+        "2 cups shredded mozzarella cheese",
+        "Triscuits for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix cottage cheese, cream cheese, and taco seasoning together in a blender until well combined."
+          "text": "Grease a 9×11 in pan and spread the cheddar cheese evenly on the bottom."
         },
         {
           "@type": "HowToStep",
-          "text": "Place the mixture in a large bowl lined with Saran Wrap and refrigerate covered for 1 hour."
+          "text": "Lightly beat the eggs and mix with taco or salsa sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove the dip from the bowl by tipping it onto a platter or large plate and peeling off the Saran Wrap."
+          "text": "Pour the egg mixture over the cheddar cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover the dip with shredded lettuce, then diced tomatoes, and finally grated cheddar cheese."
+          "text": "Top with the shredded mozzarella cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Surround with tortilla chips and serve."
+          "text": "Bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut into squares while warm and serve on Triscuits."
         }
       ],
-      "keywords": "layered dip, nacho fiesta, taco seasoning, cheesy dip",
+      "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "1 hour 15 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
       },
-      "url": "nacho-fiesta-dip-28",
-      "similarity": "0.7423"
+      "url": "mexican-fudge-12",
+      "similarity": "0.6638"
     },
     {
       "@context": "https://schema.org/",
@@ -360,7 +258,116 @@
         "totalTime": "1 hour 20 minutes"
       },
       "url": "chinese-hamburger-casserole-174",
-      "similarity": "0.7282"
+      "similarity": "0.6450"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "mexican-salad-50",
+      "similarity": "0.6419"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Fiesta Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A layered dip featuring cottage cheese, cream cheese, and taco seasoning, topped with lettuce, tomatoes, and cheddar cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "1 large bowl",
+      "recipeIngredient": [
+        "2 cups cottage cheese",
+        "1 pkg taco seasoning",
+        "2 cups cream cheese",
+        "1½ to 2 cups grated cheddar cheese",
+        "½ small head lettuce, shredded",
+        "3 medium tomatoes, diced",
+        "Large bag tortilla chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix cottage cheese, cream cheese, and taco seasoning together in a blender until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the mixture in a large bowl lined with Saran Wrap and refrigerate covered for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the dip from the bowl by tipping it onto a platter or large plate and peeling off the Saran Wrap."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dip with shredded lettuce, then diced tomatoes, and finally grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Surround with tortilla chips and serve."
+        }
+      ],
+      "keywords": "layered dip, nacho fiesta, taco seasoning, cheesy dip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "nacho-fiesta-dip-28",
+      "similarity": "0.6280"
     }
   ]
 }

@@ -88,7 +88,7 @@
         "totalTime": "13 minutes"
       },
       "url": "salad-dressing-102",
-      "similarity": "0.7107"
+      "similarity": "0.5971"
     },
     {
       "@context": "https://schema.org/",
@@ -135,7 +135,7 @@
         "totalTime": "20 minutes"
       },
       "url": "salad-dressing-103",
-      "similarity": "0.7107"
+      "similarity": "0.5971"
     },
     {
       "@context": "https://schema.org/",
@@ -186,135 +186,125 @@
         "totalTime": "20 minutes"
       },
       "url": "salad-dressing-104",
-      "similarity": "0.7107"
+      "similarity": "0.5971"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sliced Bean Salad",
+      "name": "Fresh Fruit Platter with Dip",
       "author": {
         "@type": "Person",
-        "name": "Phyllis Lightfoot"
+        "name": "Donelda Lewis"
       },
-      "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
-      "recipeCategory": "Salad",
+      "description": "A colorful and refreshing fruit platter served with a creamy vanilla pudding dip, optionally flavored with Grand Marnier.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeYield": "2 to 3 quarts",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 large platter",
       "recipeIngredient": [
-        "Yellow or green beans",
-        "2 cups white vinegar",
-        "2 cups white sugar",
-        "1 tsp salt",
-        "1½ cups water",
-        "Onion and cream for serving"
+        "1 small (113g) pkg vanilla instant pudding",
+        "1½ cups milk (or a combination of 1 cup milk and ½ cup sour cream)",
+        "1 tub (500 mL) Cool Whip",
+        "1 Tbsp Grand Marnier (or other favorite liquor/liqueur), optional",
+        "Assorted fresh fruit (e.g., strawberries, bananas, grapes, apple slices, orange slices, melon)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Slice the beans and cook until tender enough to pierce with a fork."
+          "text": "Prepare the vanilla pudding according to the package instructions using either 1½ cups of milk or the specified combination of milk and sour cream."
         },
         {
           "@type": "HowToStep",
-          "text": "Drain the cooked beans and pack them into jars."
+          "text": "Mix equal parts of the prepared pudding and Cool Whip until well blended."
         },
         {
           "@type": "HowToStep",
-          "text": "In a saucepan, bring the sugar, water, vinegar, and salt to a boil to make the syrup."
+          "text": "If using, add Grand Marnier or other liquor/liqueur and blend well into the pudding mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the hot syrup over the beans in the jars."
+          "text": "Chill the dip in the refrigerator until ready to serve."
         },
         {
           "@type": "HowToStep",
-          "text": "To serve, pour off the liquid and add chopped onion and cream."
+          "text": "Arrange a selection of fresh fruit on a platter, alternating between contrasting colors for visual appeal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chilled dip alongside the fresh fruit platter."
         }
       ],
-      "keywords": "pickled bean salad, sweet and tangy, preserved beans",
+      "keywords": "fresh fruit platter, vanilla pudding dip, Cool Whip, Grand Marnier, healthy appetizer",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
       },
-      "url": "sliced-bean-salad-49",
-      "similarity": "0.6730"
+      "url": "fresh-fruit-platter-with-dip-22",
+      "similarity": "0.5901"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Beef and Rice Casserole",
+      "name": "Nacho Dip",
       "author": {
         "@type": "Person",
-        "name": "Kurtis Brand"
+        "name": "Meghan Brand"
       },
-      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "1 1½ quart casserole",
+      "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 large glass pan",
       "recipeIngredient": [
-        "1⅓ cups cooked rice",
-        "1 tsp salt",
-        "1 Tbsp butter",
-        "Dash pepper",
-        "1½ cups diced celery",
-        "3 Tbsp minced onion",
-        "1 can condensed tomato soup",
-        "¼ cup water",
-        "1 lb ground beef"
+        "8 oz pkg cream cheese",
+        "500 g tub sour cream",
+        "¼ pkg taco seasoning mix",
+        "1 cup shredded cheddar cheese",
+        "1 small container salsa sauce",
+        "1 chopped red pepper",
+        "1 chopped green pepper",
+        "1 chopped tomato",
+        "Baked nacho chips for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Sauté celery and onion in butter until soft and tender."
+          "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Place rice in a greased 1½ quart casserole dish."
+          "text": "Spread the mixture in a large glass pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Top the rice with the celery mixture."
+          "text": "Spread salsa sauce over the cream cheese layer."
         },
         {
           "@type": "HowToStep",
-          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+          "text": "Sprinkle shredded cheddar cheese over the salsa layer."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange the cooked beef on top of the celery mixture."
+          "text": "Add chopped red pepper, green pepper, and tomato on top."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine the tomato soup with water and pour over the meat layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated 325°F oven for ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 325,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Serve with baked nacho chips."
         }
       ],
-      "keywords": "beef casserole, rice casserole, comfort food",
+      "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
       },
-      "url": "beef-and-rice-casserole-168",
-      "similarity": "0.6625"
+      "url": "nacho-dip-29",
+      "similarity": "0.5692"
     }
   ]
 }

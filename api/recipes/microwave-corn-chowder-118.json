@@ -121,7 +121,7 @@
         "totalTime": "40 minutes"
       },
       "url": "corn-chowder-107",
-      "similarity": "0.8394"
+      "similarity": "0.8048"
     },
     {
       "@context": "https://schema.org/",
@@ -183,193 +183,190 @@
         "totalTime": "40 minutes"
       },
       "url": "corn-chowder-110",
-      "similarity": "0.8394"
+      "similarity": "0.8048"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cornbread Salad",
+      "name": "Seafood Chowder",
       "author": {
         "@type": "Person",
-        "name": "Lorna Finkbeiner"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A layered salad with crumbled cornbread, black beans, corn, cheese, and a creamy dressing, perfect for chilling before serving.",
-      "recipeCategory": "Salad",
+      "description": "A hearty seafood chowder featuring shrimp, clams, potatoes, and creamed corn in a flavorful broth.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
+      "prepTime": "PT15M",
       "cookTime": "PT15M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "Multiple servings",
+      "totalTime": "PT30M",
       "recipeIngredient": [
-        "1 (9 oz) package cornbread mix",
-        "1 (11 oz) can whole kernel corn, drained",
-        "1 (8 oz) package cheddar cheese, shredded",
-        "1 (15 oz) can black beans, rinsed and drained",
-        "½ cup salad dressing or mayonnaise",
-        "¼ cup lime juice",
-        "1 tsp ground cumin",
-        "½ tsp salt",
-        "½ cup chopped fresh cilantro or parsley",
-        "1 large red bell pepper, chopped",
-        "1 bunch green onions, chopped",
-        "6 plum or tiny tim tomatoes, shredded",
-        "1 head iceberg lettuce, chopped",
-        "Onion curls for garnish"
+        "1 can shrimp",
+        "1 can clams with juice",
+        "6 slices bacon, chopped",
+        "2 large potatoes, peeled and cubed",
+        "1 onion, chopped",
+        "2 cups skim milk (or 2%)",
+        "1 can creamed corn",
+        "2 cups chicken broth",
+        "1 tsp Worcestershire sauce",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Prepare cornbread mix according to package directions and let cool. Crumble into pieces."
+          "text": "Sauté chopped bacon in a saucepan until cooked, then drain off excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "In a food processor or blender, combine salad dressing (or mayonnaise), lime juice, cumin, and salt. Process until smooth."
+          "text": "Sauté the chopped onion and cubed potatoes in the bacon fat until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Layer half of the lettuce, cornbread, dressing mixture, beans, corn, cheese, red bell pepper, green onions, and tomatoes in a 4-quart bowl."
+          "text": "Add the remaining ingredients (shrimp, clams, milk, creamed corn, broth, Worcestershire sauce) to the saucepan."
         },
         {
           "@type": "HowToStep",
-          "text": "Repeat the layers, finishing with the remaining dressing on top. Garnish as desired with cilantro or onion curls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and chill for 1 to 2 hours before serving."
+          "text": "Heat through and simmer on low heat for 15 minutes."
         }
       ],
-      "keywords": "Cornbread salad, layered salad, Southwestern salad",
+      "keywords": "seafood chowder, shrimp and clam soup, creamy chowder",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
+        "prepTime": "15 minutes",
         "cookTime": "15 minutes",
-        "totalTime": "1 hour 35 minutes"
+        "totalTime": "30 minutes"
       },
-      "url": "cornbread-salad-71",
-      "similarity": "0.7297"
+      "url": "seafood-chowder-127",
+      "similarity": "0.6353"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Noodles with Hamburg",
+      "name": "Cheesy Ham Chowder",
       "author": {
         "@type": "Person",
-        "name": "Carolyn Gower"
+        "name": "Ruth Haines"
       },
-      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
-      "recipeCategory": "Main Course",
+      "description": "A creamy, cheesy ham chowder with potatoes, carrots, and corn, finished with crispy bacon.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
+      "cookTime": "PT40M",
+      "totalTime": "PT1H",
+      "recipeYield": "10 servings",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "¼ tsp oregano",
-        "¼ tsp garlic powder",
-        "½ cup chopped onions (optional)",
-        "1 tsp salt",
-        "⅓ cup chopped celery",
-        "¾ cup shredded cheddar cheese (optional)",
-        "2 cups canned tomatoes",
-        "2 cups cooked macaroni",
-        "1 (14 oz) can corn kernels",
-        "1 (10 oz) can tomato soup"
+        "10 strips bacon, diced",
+        "1 large onion, chopped",
+        "2 tsp chicken bouillon granules",
+        "1 cup diced carrots",
+        "3 Tbsp all-purpose flour",
+        "3 cups (12 oz) shredded cheddar cheese",
+        "3 cups milk",
+        "1½ cups water",
+        "2 cups fully cooked, cubed ham",
+        "2½ cups cubed potatoes",
+        "1 can (15 oz) corn, drained"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+          "text": "In a large soup kettle or Dutch oven, cook the bacon over medium heat until crisp. Remove to paper towels to drain."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+          "text": "In the bacon drippings, sauté the chopped onion until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+          "text": "Stir in the flour until blended. Gradually add the milk and water, bringing to a boil. Cook and stir for 2 minutes or until thickened."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+          "text": "Add the potatoes, corn, bouillon granules, and pepper. Reduce heat and simmer, uncovered, for 20 minutes or until potatoes are tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
+          "text": "Add the shredded cheese and cubed ham; heat until cheese is melted. Stir in the cooked bacon."
         }
       ],
-      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "keywords": "ham chowder, cheesy soup, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
+        "cookTime": "40 minutes",
+        "totalTime": "1 hour"
       },
-      "url": "noodles-with-hamburg-166",
-      "similarity": "0.7028"
+      "url": "cheesy-ham-chowder-116",
+      "similarity": "0.6227"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Potato Casserole",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Heather Clarke"
-        },
-        {
-          "@type": "Person",
-          "name": "M. Leanne Kenney"
-        }
-      ],
-      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
-      "recipeCategory": "Side Dish",
+      "name": "Chicken and Cheese Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
       "recipeYield": "1 casserole",
       "recipeIngredient": [
-        "1 (2 lb) bag frozen hash browns",
-        "1 can cream of celery soup",
-        "1 can cream of mushroom soup",
-        "500 mL sour cream",
-        "1 cup grated cheese",
-        "¼ cup diced onions"
+        "1½ lb diced cooked chicken",
+        "1 medium onion, finely chopped",
+        "2 cups cooked rice",
+        "¼ lb grated cheddar cheese",
+        "½ cup milk",
+        "1 can Campbell's cream of celery soup",
+        "4 Tbsp butter or margarine",
+        "¾ cup crushed corn flakes",
+        "1½ cups chopped celery",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together in a shallow pan until well combined."
+          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour.",
+          "text": "Put the mixture into a buttered casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook until the celery is hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the corn flake and celery mixture over the chicken mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 375°F oven for about ½ hour.",
           "cookMethod": "Bake",
           "tool": "Oven",
           "temperature": {
             "@type": "Temperature",
             "name": "oven",
-            "value": 350,
+            "value": 375,
             "unitCode": "FAR"
           },
-          "duration": "PT1H"
+          "duration": "PT30M"
         }
       ],
-      "keywords": "potato casserole, hash browns, creamy, cheesy",
+      "keywords": "chicken casserole, cheesy rice bake, comfort food",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "potato-casserole-141",
-      "similarity": "0.7010"
+      "url": "chicken-and-cheese-casserole-244",
+      "similarity": "0.6092"
     }
   ]
 }

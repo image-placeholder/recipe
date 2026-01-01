@@ -76,80 +76,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Thai Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
-        }
-      ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "thai-chicken-235",
-      "similarity": "0.8355"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Chili Con Carne",
       "author": {
         "@type": "Person",
@@ -207,175 +133,282 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "chili-con-carne-165",
-      "similarity": "0.8248"
+      "similarity": "0.7198"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
+      "name": "Turkey or Chicken Pies",
       "author": {
         "@type": "Person",
-        "name": "Heather Clarke"
+        "name": "Shirley Preszcator"
       },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.8228"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
+      "recipeCuisine": "American",
+      "prepTime": "PT45M",
+      "cookTime": "PT30M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "Multiple individual pies or 1 large pie",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
+        "½ cup margarine",
+        "1 tsp salt",
+        "1 Tbsp onion, chopped",
+        "1 cup flour",
+        "¼ tsp salt",
+        "1½ tsp baking powder",
+        "3 cups chicken or turkey broth",
+        "3 Tbsp butter",
+        "3 cups diced turkey or chicken",
+        "1 cup frozen peas",
+        "1 cup diced carrots",
+        "½ cup celery, chopped",
+        "⅓ cup milk"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
+          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
+          "text": "Sauté chopped onion and celery until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
+          "text": "Boil carrots until thoroughly cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cooked carrots with peas and the sauce made earlier."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the crust is golden brown."
         }
       ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
+        "prepTime": "45 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "1 hour 15 minutes"
       },
-      "url": "spaghetti-sauce-187",
-      "similarity": "0.8228"
+      "url": "turkey-or-chicken-pies-251",
+      "similarity": "0.7109"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pasta & Bean Soup",
+      "name": "Beef and Rice Casserole",
       "author": {
         "@type": "Person",
-        "name": "Marie Fydenchuk"
+        "name": "Kurtis Brand"
       },
-      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT15M",
-      "cookTime": "PT28M",
-      "totalTime": "PT43M",
-      "recipeYield": "4-6 servings",
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
       "recipeIngredient": [
-        "1 Tbsp olive oil",
-        "1 onion, finely chopped",
-        "2 carrots, finely chopped",
-        "2 celery sticks, finely chopped",
-        "3 crushed garlic cloves",
-        "1/4 tsp oregano",
-        "1/2 tsp salt",
-        "1/4 tsp pepper",
-        "19 oz can white kidney or romano beans, drained",
-        "10 oz can chicken broth, diluted with 1 cup water",
-        "28 oz can tomatoes with juice",
-        "3 cups small shell pasta or macaroni",
-        "1 1/2 tsp dried basil",
-        "1/4 tsp dried rosemary",
-        "1/2 cup chopped fresh basil",
-        "1/2 cup grated Parmesan cheese"
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
+          "text": "Sauté celery and onion in butter until soft and tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
+          "text": "Place rice in a greased 1½ quart casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+          "text": "Top the rice with the celery mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
         },
         {
           "@type": "HowToStep",
-          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
         }
       ],
-      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
+      "keywords": "beef casserole, rice casserole, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "beef-and-rice-casserole-168",
+      "similarity": "0.6900"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 quart casserole",
+      "recipeIngredient": [
+        "½ lb spaghetti",
+        "½ lb ground beef",
+        "1 can (19 oz) diced tomatoes",
+        "½ cup chopped onion",
+        "1 can (10 oz) condensed cream of mushroom soup",
+        "1½ tsp salt",
+        "¼ tsp pepper",
+        "1 cup grated medium cheddar cheese",
+        "½ tsp garlic",
+        "1 can (10 oz) mushroom pieces, drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef and onion in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti according to package directions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour canned tomatoes over the spaghetti layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the browned meat mixture over the tomatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with cream of mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
+        }
+      ],
+      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "spaghetti-casserole-178",
+      "similarity": "0.6692"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey A La King",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅓ cup butter",
+        "1 tsp salt",
+        "¼ lb mushrooms, sliced",
+        "1 cup chicken broth",
+        "¼ cup chopped onion",
+        "1 cup milk",
+        "2 cups cooked diced turkey",
+        "¼ cup chopped celery",
+        "¼ cup chopped green pepper",
+        "¼ cup flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over hot toast, biscuits, or rice."
+        }
+      ],
+      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "28 minutes",
-        "totalTime": "43 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
       },
-      "url": "pasta-bean-soup-111",
-      "similarity": "0.8041"
+      "url": "turkey-a-la-king-248",
+      "similarity": "0.6653"
     }
   ]
 }

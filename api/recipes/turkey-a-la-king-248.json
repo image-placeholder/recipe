@@ -126,7 +126,7 @@
         "totalTime": "1 hour 15 minutes"
       },
       "url": "turkey-or-chicken-pies-251",
-      "similarity": "0.7996"
+      "similarity": "0.7240"
     },
     {
       "@context": "https://schema.org/",
@@ -202,161 +202,204 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "similarity": "0.7615"
+      "similarity": "0.6653"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spaghetti Sauce",
+      "name": "Thai Chicken",
       "author": {
         "@type": "Person",
-        "name": "Heather Clarke"
+        "name": "Barbara Robertson"
       },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.7597"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
+      "recipeCuisine": "Thai",
       "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
         }
       ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
       },
-      "url": "spaghetti-sauce-187",
-      "similarity": "0.7597"
+      "url": "thai-chicken-235",
+      "similarity": "0.6399"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Stewing Beef Casserole",
+      "name": "Stuffing and Chicken",
       "author": {
         "@type": "Person",
-        "name": "Kelly Haines"
+        "name": "Beth Clarke"
       },
-      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "1 casserole",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 lb stewing beef",
-        "1 tsp salt",
-        "Dash pepper",
-        "1¼ cups diced potatoes",
-        "1¼ cups diced carrots",
-        "1 tsp sugar",
-        "2 Tbsp Minit Tapioca",
-        "½ cup diced onions",
-        "1 cup V8 juice",
-        "½ cup diced celery"
+        "4 boned and skinned chicken breast halves",
+        "1⅓ cups Stove Top stuffing",
+        "1 can cream of chicken soup",
+        "4 slices Swiss cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients lightly in a bowl."
+          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+          "text": "Put a slice of Swiss cheese on top of each breast."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 250°F for 4 hours without uncovering."
+          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cream of chicken soup over the stuffing layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350 °F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
         }
       ],
-      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
       },
-      "url": "stewing-beef-casserole-155",
-      "similarity": "0.7597"
+      "url": "stuffing-and-chicken-242",
+      "similarity": "0.6037"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stir-Fry Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Atkinson"
+      },
+      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "6 to 8 servings",
+      "recipeIngredient": [
+        "1/4 cup olive oil",
+        "2 tsp curry powder",
+        "1 crushed garlic clove",
+        "1/4 cup soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 tsp Louisiana hot sauce",
+        "1/2 tsp Tabasco",
+        "6 to 8 buns, cut in half",
+        "Mozzarella cheese and bacon bits for buns",
+        "Chicken breasts, cut in cubes",
+        "Mushrooms, sliced",
+        "Celery, chopped",
+        "1 bag Oriental Classic frozen vegetables",
+        "1 onion, chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
+        }
+      ],
+      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "stir-fry-chicken-225",
+      "similarity": "0.5947"
     }
   ]
 }

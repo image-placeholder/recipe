@@ -65,225 +65,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Noodles with Hamburg",
+      "name": "Pasta & Bean Soup",
       "author": {
         "@type": "Person",
-        "name": "Carolyn Gower"
+        "name": "Marie Fydenchuk"
       },
-      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "¼ tsp oregano",
-        "¼ tsp garlic powder",
-        "½ cup chopped onions (optional)",
-        "1 tsp salt",
-        "⅓ cup chopped celery",
-        "¾ cup shredded cheddar cheese (optional)",
-        "2 cups canned tomatoes",
-        "2 cups cooked macaroni",
-        "1 (14 oz) can corn kernels",
-        "1 (10 oz) can tomato soup"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
-        }
-      ],
-      "keywords": "hamburger casserole, noodle dish, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
-      },
-      "url": "noodles-with-hamburg-166",
-      "similarity": "0.7921"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.7800"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-187",
-      "similarity": "0.7800"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Veggie Basic Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Julie-Ann Bibby"
-      },
-      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
       "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "Multiple servings",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT15M",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
       "recipeIngredient": [
-        "1/2 tsp ground pepper",
-        "3 Tbsp butter",
-        "1 Tbsp dried parsley",
-        "1 diced onion",
-        "3 Tbsp soya sauce",
-        "2 large diced carrots",
-        "1 Tbsp Worcestershire sauce",
-        "3 stalks diced celery",
-        "1 tsp paprika",
-        "1 can whole diced tomatoes",
-        "2 qt beef broth",
-        "1 Tbsp salt"
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
         }
       ],
-      "keywords": "vegetable soup, beef broth, savory soup",
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
       },
-      "url": "veggie-basic-soup-120",
-      "similarity": "0.7764"
+      "url": "pasta-bean-soup-111",
+      "similarity": "0.7368"
     },
     {
       "@context": "https://schema.org/",
@@ -352,7 +193,199 @@
         "totalTime": "50 minutes"
       },
       "url": "macaroni-casserole-175",
-      "similarity": "0.7641"
+      "similarity": "0.7263"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour mixture and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree the mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "cheese-broccoli-soup-105",
+      "similarity": "0.6759"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a rich, velvety texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "1½ cups grated cheese",
+        "1½ cups chicken broth",
+        "3 cups fresh broccoli, partially cooked"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onions until tender; do not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and broccoli; bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in flour and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat; cook and stir until mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and simmer for 15 minutes; do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat through with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "cheese-broccoli-soup-108",
+      "similarity": "0.6759"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Macaroni Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Theresa Finkbeiner"
+      },
+      "description": "A classic macaroni salad with tuna, ham, and cheddar cheese, mixed with Miracle Whip and spices.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT8M",
+      "totalTime": "PT23M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups macaroni",
+        "1 can (drained) white solid tuna",
+        "1 cup cubed cheddar cheese",
+        "1 cup cubed ham",
+        "1/2 cup cubed celery",
+        "1/4 cup chopped onion",
+        "1 tsp parsley flakes",
+        "1/2 tsp paprika",
+        "Salt to taste",
+        "Miracle Whip (enough to moisten)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package directions. Let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut up celery, cheese, tuna, and ham into small pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooled macaroni with the tuna mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add enough Miracle Whip to moisten the salad."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with parsley flakes and paprika."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix well and serve."
+        }
+      ],
+      "keywords": "macaroni salad, tuna salad, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "8 minutes",
+        "totalTime": "23 minutes"
+      },
+      "url": "macaroni-salad-72",
+      "similarity": "0.6705"
     }
   ]
 }

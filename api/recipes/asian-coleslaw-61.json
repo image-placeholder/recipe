@@ -90,7 +90,7 @@
         "totalTime": "8 hours 20 minutes"
       },
       "url": "layered-coleslaw-salad-62",
-      "similarity": "0.8834"
+      "similarity": "0.8442"
     },
     {
       "@context": "https://schema.org/",
@@ -140,7 +140,7 @@
         "totalTime": "25 minutes"
       },
       "url": "coleslaw-chalet-dressing-57",
-      "similarity": "0.8121"
+      "similarity": "0.7885"
     },
     {
       "@context": "https://schema.org/",
@@ -193,7 +193,73 @@
         "totalTime": "20 minutes"
       },
       "url": "freezer-cole-slaw-58",
-      "similarity": "0.7464"
+      "similarity": "0.7396"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fresh Broccoli Mandarin Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sandra Vandeworp (Finkbeiner)"
+      },
+      "description": "A refreshing salad featuring fresh broccoli, mandarin oranges, mushrooms, and a rich, creamy dressing with a hint of mustard.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeYield": "10 to 12 servings",
+      "recipeIngredient": [
+        "1 egg plus 1 egg yolk, slightly beaten",
+        "½ cup sugar",
+        "1½ tsp cornstarch",
+        "1 tsp mustard",
+        "¼ cup vinegar",
+        "¼ cup water",
+        "3 Tbsp softened butter",
+        "½ cup mayonnaise",
+        "6 bacon strips, cooked and crumbled",
+        "2 cups sliced fresh mushrooms",
+        "½ cup slivered almonds, toasted",
+        "1 cup drained mandarin oranges",
+        "½ medium red onion, sliced into rings",
+        "4 cups fresh broccoli florets"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In the top of a double boiler, whisk together the egg, egg yolk, sugar, cornstarch, and mustard."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slowly whisk in the vinegar and water mixture, then cook over hot water, stirring constantly, until the dressing thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from heat and stir in the softened butter and mayonnaise. Chill the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, combine the crumbled bacon, mushrooms, almonds, mandarin oranges, red onion, and broccoli in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the chilled dressing and toss to coat the salad ingredients evenly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate any leftovers."
+        }
+      ],
+      "keywords": "broccoli mandarin salad, creamy dressing, fresh salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "fresh-broccoli-mandarin-salad-64",
+      "similarity": "0.6199"
     },
     {
       "@context": "https://schema.org/",
@@ -248,60 +314,7 @@
         "totalTime": "15 minutes"
       },
       "url": "chinese-rice-salad-81",
-      "similarity": "0.7412"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Caribbean Chicken Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Chris Dinney"
-      },
-      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Caribbean-inspired",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1½ cups Minute Rice",
-        "1½ cups chicken broth",
-        "2 cups cut up chicken breast",
-        "1 green pepper, diced",
-        "1 small red onion, chopped fine",
-        "1 mango, thinly sliced",
-        "1 small can pineapple, diced and drained",
-        "2 celery stalks, diced",
-        "⅓ cup Kraft Italian dressing"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the Minute Rice in chicken broth according to package instructions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the chicken breast meat in a little oil until fully cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
-        }
-      ],
-      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "caribbean-chicken-salad-70",
-      "similarity": "0.7403"
+      "similarity": "0.6175"
     }
   ]
 }

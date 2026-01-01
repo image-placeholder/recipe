@@ -45,235 +45,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cabbage Rolls",
+      "name": "Chicken with a Chinese Accent",
       "author": {
         "@type": "Person",
-        "name": "Heather Clarke"
+        "name": "Suzanne Finkbeiner"
       },
-      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "European",
-      "prepTime": "PT30M",
-      "cookTime": "PT3H",
-      "totalTime": "PT3H30M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 head cabbage",
-        "½ lb ground pork",
-        "1 lb ground beef",
-        "1 medium onion",
-        "2 Tbsp lard",
-        "¾ cup uncooked rice (Uncle Ben's)",
-        "1 tsp salt",
-        "½ tsp black pepper",
-        "1 (24 oz) can tomato juice"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chop the onion and fry in lard for 10 minutes until softened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
-        }
-      ],
-      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "3 hours",
-        "totalTime": "3 hours 30 minutes"
-      },
-      "url": "cabbage-rolls-167",
-      "similarity": "0.7168"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sweet and Sour Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Mary Kenney"
-      },
-      "description": "A simple and flavorful sweet and sour chicken recipe using onion soup mix and apricot jam.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H5M",
-      "recipeIngredient": [
-        "1 pkg onion soup mix",
-        "½ cup apricot jam",
-        "1 small bottle Russian dressing"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix together onion soup mix, apricot jam, and Russian dressing in a bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the mixture over the chicken in a baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 2 hours."
-        }
-      ],
-      "keywords": "sweet and sour chicken, easy chicken recipe, apricot jam chicken",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 5 minutes"
-      },
-      "url": "sweet-and-sour-chicken-223",
-      "similarity": "0.7099"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Potato Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Ratz"
-      },
-      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "8-10 servings",
-      "recipeIngredient": [
-        "6 diced and peeled potatoes",
-        "2 diced and peeled carrots",
-        "1 chopped onion",
-        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
-        "6 Tbsp butter",
-        "6 Tbsp flour",
-        "Sour cream (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Microwave onions and butter until soft, about 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
-        }
-      ],
-      "keywords": "potato soup, creamy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
-      },
-      "url": "potato-soup-125",
-      "similarity": "0.7059"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Noodles with Hamburg",
-      "author": {
-        "@type": "Person",
-        "name": "Carolyn Gower"
-      },
-      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
       "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 lb ground hamburger",
-        "¼ tsp oregano",
-        "¼ tsp garlic powder",
-        "½ cup chopped onions (optional)",
-        "1 tsp salt",
-        "⅓ cup chopped celery",
-        "¾ cup shredded cheddar cheese (optional)",
-        "2 cups canned tomatoes",
-        "2 cups cooked macaroni",
-        "1 (14 oz) can corn kernels",
-        "1 (10 oz) can tomato soup"
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+          "text": "Transfer the chicken to a casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
         },
         {
           "@type": "HowToStep",
-          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
+          "text": "Serve the chicken with rice."
         }
       ],
-      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "noodles-with-hamburg-166",
-      "similarity": "0.7042"
+      "url": "chicken-with-a-chinese-accent-245",
+      "similarity": "0.6496"
     },
     {
       "@context": "https://schema.org/",
@@ -347,7 +178,193 @@
         "totalTime": "55 minutes"
       },
       "url": "classy-chicken-243",
-      "similarity": "0.7027"
+      "similarity": "0.6478"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stir-Fry Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Atkinson"
+      },
+      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "6 to 8 servings",
+      "recipeIngredient": [
+        "1/4 cup olive oil",
+        "2 tsp curry powder",
+        "1 crushed garlic clove",
+        "1/4 cup soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 tsp Louisiana hot sauce",
+        "1/2 tsp Tabasco",
+        "6 to 8 buns, cut in half",
+        "Mozzarella cheese and bacon bits for buns",
+        "Chicken breasts, cut in cubes",
+        "Mushrooms, sliced",
+        "Celery, chopped",
+        "1 bag Oriental Classic frozen vegetables",
+        "1 onion, chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
+        }
+      ],
+      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "stir-fry-chicken-225",
+      "similarity": "0.6267"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Supreme",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4-8 servings",
+      "recipeIngredient": [
+        "8 boneless, skinless chicken breast pieces",
+        "1 (28 oz) can stewed tomatoes",
+        "1 chopped green pepper",
+        "1 chopped onion",
+        "2 generous slices of fresh Basil",
+        "2 Spanish Oregano slices",
+        "1 dozen chopped fresh Garlic",
+        "Salt and Seasoning salt",
+        "Onion powder",
+        "Grated mozzarella and cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil the chicken breasts in a separate container until pink is gone (about 1/4 of the way cooked)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a baking or roasting pan, mix together the tomato ingredients (stewed tomatoes, green pepper, onion, basil, oregano, garlic)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the partially cooked chicken breasts in the bottom of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle spices over the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the remaining tomato mixture on top of the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for approximately ½ hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese on top, cover, and bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over rice or pasta."
+        }
+      ],
+      "keywords": "chicken supreme, baked chicken, Italian-style chicken",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "chicken-supreme-238",
+      "similarity": "0.6130"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Breast",
+      "author": {
+        "@type": "Person",
+        "name": "Sandra Martin"
+      },
+      "description": "A simple breaded chicken breast recipe.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 chicken breasts",
+        "1 cup bread crumbs",
+        "1 tsp garlic powder",
+        "1 egg",
+        "1/2 cup milk",
+        "Salt and seasoning to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash chicken breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with garlic powder, salt, and seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip in milk, then egg mixture, then bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 9x13 inch pan at 350°F until golden."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with rice or noodles."
+        }
+      ],
+      "keywords": "chicken breast, breaded chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "chicken-breast-212",
+      "similarity": "0.6118"
     }
   ]
 }

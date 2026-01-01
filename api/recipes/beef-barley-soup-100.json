@@ -59,6 +59,165 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Veggie Basic Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Julie-Ann Bibby"
+      },
+      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1/2 tsp ground pepper",
+        "3 Tbsp butter",
+        "1 Tbsp dried parsley",
+        "1 diced onion",
+        "3 Tbsp soya sauce",
+        "2 large diced carrots",
+        "1 Tbsp Worcestershire sauce",
+        "3 stalks diced celery",
+        "1 tsp paprika",
+        "1 can whole diced tomatoes",
+        "2 qt beef broth",
+        "1 Tbsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
+        }
+      ],
+      "keywords": "vegetable soup, beef broth, savory soup",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "veggie-basic-soup-120",
+      "similarity": "0.7428"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mushroom Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp butter",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 cups sliced mushrooms",
+        "1/4 cup flour",
+        "2 cups stock (chicken or vegetable)",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "3 cups milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute butter, onion, garlic and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, sauces and milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until heated through (approximately 15 minutes)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "mushroom soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "mushroom-soup-113",
+      "similarity": "0.6774"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
+        }
+      ],
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "creamy-broccoli-soup-112",
+      "similarity": "0.6769"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Beef and Rice Casserole",
       "author": {
         "@type": "Person",
@@ -128,252 +287,68 @@
         "totalTime": "50 minutes"
       },
       "url": "beef-and-rice-casserole-168",
-      "similarity": "0.8110"
+      "similarity": "0.6761"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meatball Pasta Stew",
+      "name": "Cheese & Broccoli Soup",
       "author": {
         "@type": "Person",
-        "name": "Grace Morlock"
+        "name": "Jeff Slaght"
       },
-      "description": "A savory stew with homemade meatballs, pasta, and a rich tomato-based sauce.",
-      "recipeCategory": "Stew",
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H25M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 Tbsp tomato paste",
-        "1 lb hamburger",
-        "1 can (14 oz) diced tomatoes, undrained",
-        "2 eggs",
-        "¼ to ⅛ cup dry bread crumbs",
-        "1 cup chopped green onion",
-        "¾ tsp thyme",
-        "½ tsp salt",
-        "1½ cups sliced carrots",
-        "1½ cups chopped zucchini",
-        "½ tsp ground mustard",
-        "¼ tsp pepper",
-        "1 cup chopped green pepper",
-        "1 cup chopped red pepper",
-        "1 cup chopped onion",
-        "2 cloves garlic, minced",
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
         "2 Tbsp all-purpose flour",
-        "1½ cups canned beef broth",
-        "2 cups cooked spiral pasta",
-        "1 Tbsp parsley"
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine hamburger, egg, bread crumbs, onion, salt, mustard, and pepper to make meatballs. Shape into 1-inch balls."
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs on a greased baking sheet and bake at 350°F for 10 to 15 minutes, or until browned."
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large pot, cook onion and garlic until tender."
+          "text": "Add flour mixture and cook for 3 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add flour and stir constantly for 1 minute."
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Gradually add beef broth, stirring constantly until boiling."
+          "text": "Puree the mixture until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Add tomato paste, undrained tomatoes, bay leaf, and thyme. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add meatballs, carrots, zucchini, peppers, and parsley. Simmer for 40 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cooked pasta and heat until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove bay leaf before serving."
+          "text": "Heat with milk, cheese, and seasonings."
         }
       ],
-      "keywords": "meatball stew, pasta stew, tomato-based sauce",
+      "keywords": "broccoli soup, cheese soup, creamy soup",
       "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 25 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
       },
-      "url": "meatball-pasta-stew-179",
-      "similarity": "0.7704"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
-      "recipeCategory": "Sauce",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT20M",
-      "cookTime": "PT4H",
-      "totalTime": "PT4H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 large onion, chopped",
-        "1 bunch celery, finely chopped",
-        "1 green pepper, chopped",
-        "2 cloves garlic, finely chopped",
-        "1 (369 mL) tin tomato paste",
-        "1 (680 mL) tin tomato sauce",
-        "2 (796 mL) tins tomatoes",
-        "2 lb hamburg (ground beef)",
-        "Chili powder to taste",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Continue cooking gently for another 2 hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "4 hours",
-        "totalTime": "4 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-177",
-      "similarity": "0.7537"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Spaghetti Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Margaret Beaver"
-      },
-      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H",
-      "totalTime": "PT2H20M",
-      "recipeYield": "Several servings",
-      "recipeIngredient": [
-        "1 lb ground hamburger",
-        "2 cups chopped onions",
-        "2 cups chopped celery",
-        "2 large cloves garlic",
-        "1 can (28 oz) diced tomatoes",
-        "2 cups tomato juice",
-        "3 Oxo cubes",
-        "1 small can tomato paste",
-        "3 cups boiling water",
-        "2 cups sliced mushrooms",
-        "1/2 tsp dried basil",
-        "1/2 tsp dried oregano",
-        "1/4 tsp red pepper",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute the onion, celery, and garlic until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the ground hamburger and brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining ingredients and simmer for several hours."
-        }
-      ],
-      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours",
-        "totalTime": "2 hours 20 minutes"
-      },
-      "url": "spaghetti-sauce-187",
-      "similarity": "0.7537"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Beef Porcupines",
-      "author": {
-        "@type": "Person",
-        "name": "Bernice Martin"
-      },
-      "description": "Baked meatballs with rice, served in a tangy tomato-based sauce.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 lb ground beef",
-        "½ cup uncooked long-grain rice",
-        "¼ cup chopped onion",
-        "1 tsp prepared mustard",
-        "1 tsp chili powder",
-        "1 tsp salt",
-        "¼ tsp allspice",
-        "1 tsp brown sugar",
-        "1/8 tsp pepper",
-        "1 tsp Worcestershire sauce",
-        "1 tsp paprika",
-        "1 (10 oz) can tomato soup",
-        "1 soup can hot water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix ground beef, rice, onion, mustard, chili powder, salt, allspice, brown sugar, pepper, Worcestershire sauce, and paprika. Form into balls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place meatballs in a baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine tomato soup and hot water to make the sauce. Pour over meatballs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and bake at 350°F for 1 hour."
-        }
-      ],
-      "keywords": "beef porcupines, baked meatballs, rice",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "url": "beef-porcupines-163",
-      "similarity": "0.7523"
+      "url": "cheese-broccoli-soup-105",
+      "similarity": "0.6644"
     }
   ]
 }

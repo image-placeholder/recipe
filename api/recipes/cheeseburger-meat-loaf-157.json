@@ -85,6 +85,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Delicious Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A classic meatloaf with a cheddar cheese and carrot mixture, topped with a sweet ketchup-mustard glaze.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H50M",
+      "recipeYield": "1 meatloaf",
+      "recipeIngredient": [
+        "1½ lb lean ground beef",
+        "2 eggs",
+        "⅔ cup milk",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "1 cup shredded cheddar cheese",
+        "¼ cup brown sugar",
+        "3 slices fresh bread, crumbled",
+        "¼ cup ketchup",
+        "1 onion, chopped",
+        "4 Tbsp prepared mustard",
+        "½ cup shredded raw carrot"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat eggs in a bowl with a fork, then add milk, salt, pepper, and crumbled bread. Beat until the bread disintegrates."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped onion, shredded carrot, cheddar cheese, and ground beef to the bowl. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack the mixture into a loaf pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine brown sugar, ketchup, and prepared mustard in a small bowl. Spread this glaze over the meatloaf."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for approximately 1½ hours."
+        }
+      ],
+      "keywords": "meatloaf, cheddar cheese, ketchup glaze, classic American",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 50 minutes"
+      },
+      "url": "delicious-meat-loaf-156",
+      "similarity": "0.8739"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Jelly Roll Style Meat Loaf",
       "author": {
         "@type": "Person",
@@ -158,67 +218,7 @@
         "totalTime": "1 hour 35 minutes"
       },
       "url": "jelly-roll-style-meat-loaf-154",
-      "similarity": "0.8374"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Delicious Meat Loaf",
-      "author": {
-        "@type": "Person",
-        "name": "Suzanne Finkbeiner"
-      },
-      "description": "A classic meatloaf with a cheddar cheese and carrot mixture, topped with a sweet ketchup-mustard glaze.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H50M",
-      "recipeYield": "1 meatloaf",
-      "recipeIngredient": [
-        "1½ lb lean ground beef",
-        "2 eggs",
-        "⅔ cup milk",
-        "1 tsp salt",
-        "¼ tsp pepper",
-        "1 cup shredded cheddar cheese",
-        "¼ cup brown sugar",
-        "3 slices fresh bread, crumbled",
-        "¼ cup ketchup",
-        "1 onion, chopped",
-        "4 Tbsp prepared mustard",
-        "½ cup shredded raw carrot"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Beat eggs in a bowl with a fork, then add milk, salt, pepper, and crumbled bread. Beat until the bread disintegrates."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chopped onion, shredded carrot, cheddar cheese, and ground beef to the bowl. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pack the mixture into a loaf pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine brown sugar, ketchup, and prepared mustard in a small bowl. Spread this glaze over the meatloaf."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for approximately 1½ hours."
-        }
-      ],
-      "keywords": "meatloaf, cheddar cheese, ketchup glaze, classic American",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 50 minutes"
-      },
-      "url": "delicious-meat-loaf-156",
-      "similarity": "0.8369"
+      "similarity": "0.7661"
     },
     {
       "@context": "https://schema.org/",
@@ -264,70 +264,74 @@
         "totalTime": "1 hour 15 minutes"
       },
       "url": "cheesy-meat-loaf-153",
-      "similarity": "0.8136"
+      "similarity": "0.7517"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
+      "name": "Noodles with Hamburg",
       "author": {
         "@type": "Person",
-        "name": "Glenda Wuerth"
+        "name": "Carolyn Gower"
       },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
         "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
         },
         {
           "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
         }
       ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "keywords": "hamburger casserole, noodle dish, comfort food",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
       },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.7544"
+      "url": "noodles-with-hamburg-166",
+      "similarity": "0.7024"
     },
     {
       "@context": "https://schema.org/",
@@ -402,7 +406,7 @@
         "totalTime": "55 minutes"
       },
       "url": "hamburger-pie-169",
-      "similarity": "0.7510"
+      "similarity": "0.6908"
     }
   ]
 }

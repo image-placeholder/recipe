@@ -114,164 +114,7 @@
         "totalTime": "20 minutes"
       },
       "url": "creamy-broccoli-soup-112",
-      "similarity": "0.8572"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Broccoli Casserole",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Nola Lewis"
-        },
-        {
-          "@type": "Person",
-          "name": "Tanya Allen"
-        }
-      ],
-      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeIngredient": [
-        "2 lb broccoli, fresh or frozen",
-        "1 can cream of chicken soup",
-        "8 oz Cheez Whiz",
-        "1 cup cooked rice",
-        "1 can mushroom soup",
-        "Butter and bread crumbs or fried onions for topping"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 to 40 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
-        }
-      ],
-      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
-      },
-      "url": "broccoli-casserole-129",
-      "similarity": "0.8278"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Broccoli Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Eleanor Beaver"
-      },
-      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT25M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "2 heads broccoli, precooked",
-        "1 cup celery, precooked",
-        "1 can mushroom soup",
-        "½ cup grated cheese",
-        "1 Tbsp melted margarine",
-        "½ cup sour cream",
-        "1 cup bread crumbs"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the topping over the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
-        }
-      ],
-      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "40 minutes"
-      },
-      "url": "broccoli-casserole-133",
-      "similarity": "0.8278"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken and Broccoli",
-      "author": {
-        "@type": "Person",
-        "name": "Marguerite Finkbeiner"
-      },
-      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 cup small shells pasta",
-        "1 can cream of mushroom soup",
-        "2 cups broccoli, cooked",
-        "1½ cups chicken, cooked and chopped",
-        "½ cup milk",
-        "½ cup Parmesan cheese",
-        "¼ tsp ground pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook the small shells pasta according to package directions. Drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with a cranberry salad."
-        }
-      ],
-      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "chicken-and-broccoli-234",
-      "similarity": "0.8193"
+      "similarity": "0.8730"
     },
     {
       "@context": "https://schema.org/",
@@ -329,7 +172,161 @@
         "totalTime": "50 minutes"
       },
       "url": "supreme-broccoli-soup-casserole-128",
-      "similarity": "0.8155"
+      "similarity": "0.7699"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 Tbsp liquid sweetener",
+        "½ head cabbage",
+        "1 can French-style beans (optional)",
+        "3 cups tomato juice",
+        "4 cups water",
+        "1 large can mushrooms",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery, including leaves and tips",
+        "1 tsp lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "cabbage-soup-106",
+      "similarity": "0.7548"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and optional sweetener.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "½ head cabbage",
+        "1 can French-style beans, drained",
+        "3 cups tomato juice",
+        "1 large can mushrooms",
+        "4 cups water",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery leaves and tips",
+        "1 tsp lemon juice",
+        "1 Tbsp liquid sweetener (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "cabbage-soup-109",
+      "similarity": "0.7548"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta & Bean Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Fydenchuk"
+      },
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT15M",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
+        }
+      ],
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
+      },
+      "url": "pasta-bean-soup-111",
+      "similarity": "0.7441"
     }
   ]
 }

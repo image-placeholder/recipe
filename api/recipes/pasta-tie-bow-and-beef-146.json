@@ -57,357 +57,287 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Beef Broccoli Stir-Fry",
+      "name": "Pasta Salad",
       "author": {
         "@type": "Person",
-        "name": "Suzanne Finkbeiner"
+        "name": "Lorie Van Valkengoed"
       },
-      "description": "A quick and flavorful stir-fry of beef sirloin and broccoli in a savory soy and oyster sauce mixture.",
-      "recipeCategory": "Main Dish",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT15M",
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
       "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "3½ cups, serves 4",
+      "totalTime": "PT30M",
       "recipeIngredient": [
-        "1 Tbsp soy sauce",
-        "1 tsp cornstarch",
-        "3 cups broccoli florets, sliced",
-        "2 Tbsp oyster sauce",
-        "1 Tbsp cooking oil (first amount)",
-        "1 Tbsp cooking oil (second amount)",
-        "¾ lb sirloin steak, sliced into 1/8 inch thin strips",
-        "½ tsp salt",
-        "¼ tsp pepper"
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Stir soy sauce into cornstarch in a small cup. Add oyster sauce, salt, and pepper. Stir and set aside."
+          "text": "Cook the pasta according to package instructions, then drain and cool."
         },
         {
           "@type": "HowToStep",
-          "text": "Heat wok to medium-high. Add the first amount of cooking oil. Add broccoli and stir-fry for 4 minutes until tender-crisp. Transfer to a bowl."
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the second amount of cooking oil to the hot wok. Add beef strips and stir-fry until desired doneness."
+          "text": "Crumble the feta cheese into the pasta mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Add broccoli back into the wok. Stir the cornstarch mixture and pour into the beef mixture. Cook until boiling and thickened."
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
         }
       ],
-      "keywords": "beef stir-fry, broccoli, soy sauce, oyster sauce",
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "pasta-salad-85",
+      "similarity": "0.6163"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 quart casserole",
+      "recipeIngredient": [
+        "½ lb spaghetti",
+        "½ lb ground beef",
+        "1 can (19 oz) diced tomatoes",
+        "½ cup chopped onion",
+        "1 can (10 oz) condensed cream of mushroom soup",
+        "1½ tsp salt",
+        "¼ tsp pepper",
+        "1 cup grated medium cheddar cheese",
+        "½ tsp garlic",
+        "1 can (10 oz) mushroom pieces, drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef and onion in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti according to package directions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour canned tomatoes over the spaghetti layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the browned meat mixture over the tomatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with cream of mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
+        }
+      ],
+      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "spaghetti-casserole-178",
+      "similarity": "0.6131"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Broccoli",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 cup small shells pasta",
+        "1 can cream of mushroom soup",
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the small shells pasta according to package directions. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with a cranberry salad."
+        }
+      ],
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
       "_naturalized_times": {
         "prepTime": "15 minutes",
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "beef-broccoli-stir-fry-148",
-      "similarity": "0.7468"
+      "url": "chicken-and-broccoli-234",
+      "similarity": "0.5908"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Stir-Fry Beef",
+      "name": "Pasta & Bean Soup",
       "author": {
         "@type": "Person",
-        "name": "Donise Baker (Dundas)"
+        "name": "Marie Fydenchuk"
       },
-      "description": "A quick and flavorful beef stir-fry with vegetables and a savory sauce, served over cooked rice.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Italian",
       "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
       "recipeIngredient": [
-        "1 can tomato soup",
-        "2 Tbsp vegetable oil",
-        "½ cup orange juice",
-        "2 lb boneless beef sirloin, cut into pieces",
-        "4 Tbsp soya sauce",
-        "1 large green pepper, cut into strips",
-        "2 Tbsp vinegar",
-        "8 cups cooked rice",
-        "1 large onion, sliced"
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat vegetable oil in a frying pan."
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add beef and stir-fry until cooked through. Set aside."
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Add peppers and onion to the pan and stir-fry until tender."
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in the mixture of tomato soup, soya sauce, orange juice, and vinegar. Cook until heated through."
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Return beef to the pan and heat through, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the beef mixture over cooked rice."
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
         }
       ],
-      "keywords": "beef stir-fry, Asian-inspired, quick dinner",
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
       },
-      "url": "stir-fry-beef-145",
-      "similarity": "0.6729"
+      "url": "pasta-bean-soup-111",
+      "similarity": "0.5850"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Creamy Beef and Potato Bake",
+      "name": "Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "Mary Jefferies"
+        "name": "Heather Clarke"
       },
-      "description": "A layered casserole featuring ground beef, potatoes, zucchini, and a creamy cheddar sauce.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
       "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "1 13x9 inch baking dish",
-      "recipeIngredient": [
-        "3 potatoes, peeled and thinly sliced",
-        "1 lb ground beef",
-        "¼ cup butter, divided",
-        "2 Tbsp vegetable oil",
-        "2 small zucchini, sliced",
-        "1 tsp Italian seasoning",
-        "½ cup prepared tomato pasta sauce",
-        "2 cups milk, divided",
-        "¼ cup flour",
-        "1½ cups grated cheddar cheese",
-        "1 onion, chopped",
-        "½ tsp salt",
-        "½ tsp pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F to 375°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a skillet, melt 2 tablespoons butter and oil over medium-low heat. Add potatoes and cook for 5 minutes, stirring frequently."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add zucchini, salt, and pepper to the skillet. Cook until zucchini is tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the vegetable mixture into a 13x9 inch baking dish. Set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In the same skillet, cook onion and Italian seasoning until onion is tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add ground beef to the skillet and cook until it loses its pink color. Stir in tomato sauce and ½ cup milk."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the meat mixture over the vegetable layer in the baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Melt remaining butter in the skillet, stir in flour, and cook for 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gradually whisk in remaining milk. Cook and stir until the sauce thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in cheddar cheese until melted. Pour the sauce over the meat layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 20 to 25 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for 10 minutes before serving."
-        }
-      ],
-      "keywords": "beef casserole, potato bake, creamy sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
-      },
-      "url": "creamy-beef-and-potato-bake-158",
-      "similarity": "0.6724"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meatball Pasta Stew",
-      "author": {
-        "@type": "Person",
-        "name": "Grace Morlock"
-      },
-      "description": "A savory stew with homemade meatballs, pasta, and a rich tomato-based sauce.",
-      "recipeCategory": "Stew",
-      "recipeCuisine": "American",
-      "prepTime": "PT30M",
-      "cookTime": "PT55M",
-      "totalTime": "PT1H25M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
       "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "2 Tbsp tomato paste",
-        "1 lb hamburger",
-        "1 can (14 oz) diced tomatoes, undrained",
-        "2 eggs",
-        "¼ to ⅛ cup dry bread crumbs",
-        "1 cup chopped green onion",
-        "¾ tsp thyme",
-        "½ tsp salt",
-        "1½ cups sliced carrots",
-        "1½ cups chopped zucchini",
-        "½ tsp ground mustard",
-        "¼ tsp pepper",
-        "1 cup chopped green pepper",
-        "1 cup chopped red pepper",
-        "1 cup chopped onion",
-        "2 cloves garlic, minced",
-        "2 Tbsp all-purpose flour",
-        "1½ cups canned beef broth",
-        "2 cups cooked spiral pasta",
-        "1 Tbsp parsley"
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine hamburger, egg, bread crumbs, onion, salt, mustard, and pepper to make meatballs. Shape into 1-inch balls."
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs on a greased baking sheet and bake at 350°F for 10 to 15 minutes, or until browned."
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large pot, cook onion and garlic until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add flour and stir constantly for 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gradually add beef broth, stirring constantly until boiling."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add tomato paste, undrained tomatoes, bay leaf, and thyme. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add meatballs, carrots, zucchini, peppers, and parsley. Simmer for 40 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cooked pasta and heat until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove bay leaf before serving."
+          "text": "Continue cooking gently for another 2 hours."
         }
       ],
-      "keywords": "meatball stew, pasta stew, tomato-based sauce",
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
       "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "55 minutes",
-        "totalTime": "1 hour 25 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
       },
-      "url": "meatball-pasta-stew-179",
-      "similarity": "0.6443"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Garfield's Lasagna",
-      "author": {
-        "@type": "Person",
-        "name": "Dave MacLeod"
-      },
-      "description": "A hearty layered lasagna with ground beef, cottage cheese, and mozzarella, perfect for a crowd.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT25M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "8 to 10 servings",
-      "recipeIngredient": [
-        "1 lb ground beef (lean)",
-        "1/2 tsp oregano",
-        "3/4 cup chopped onions",
-        "1/2 tsp salt",
-        "1 clove garlic, finely chopped",
-        "12 to 15 lasagna noodles",
-        "24 oz can spaghetti sauce",
-        "28 oz can diced tomatoes",
-        "10 oz can mushroom pieces and stems",
-        "1 1/2 cups cottage cheese",
-        "3 cups mozzarella cheese",
-        "1/4 cup Parmesan cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Thoroughly brown the ground beef in a frying pan. Add onions and garlic; cook until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, oregano, and salt. Simmer for 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook lasagna noodles as directed on the package. Rinse noodles in cold water using a colander."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Blend cottage cheese with approximately 2 cups of the mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread a thin layer of sauce in a greased 9x13 inch pan. Alternately layer 1/3 each of the noodles, sauce, and cheese mixture. Repeat 2 times until you have 3 layers."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle remaining mozzarella cheese on top. Bake at 350°F for 45 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for 10 minutes before serving."
-        }
-      ],
-      "keywords": "lasagna, ground beef, cottage cheese, mozzarella, layered pasta",
-      "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "url": "garfields-lasagna-195",
-      "similarity": "0.6362"
+      "url": "spaghetti-sauce-177",
+      "similarity": "0.5810"
     }
   ]
 }

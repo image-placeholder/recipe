@@ -68,178 +68,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Veggie Basic Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Julie-Ann Bibby"
-      },
-      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1/2 tsp ground pepper",
-        "3 Tbsp butter",
-        "1 Tbsp dried parsley",
-        "1 diced onion",
-        "3 Tbsp soya sauce",
-        "2 large diced carrots",
-        "1 Tbsp Worcestershire sauce",
-        "3 stalks diced celery",
-        "1 tsp paprika",
-        "1 can whole diced tomatoes",
-        "2 qt beef broth",
-        "1 Tbsp salt"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
-        }
-      ],
-      "keywords": "vegetable soup, beef broth, savory soup",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "veggie-basic-soup-120",
-      "similarity": "0.7429"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Thai Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
-        }
-      ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "thai-chicken-235",
-      "similarity": "0.7373"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Caesar Dressin' Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Towton"
-      },
-      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
-      "recipeCategory": "Salad Dressing",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 batch",
-      "recipeIngredient": [
-        "½ tsp Worcestershire sauce",
-        "3 garlic cloves",
-        "½ tsp dry mustard",
-        "2 beaten egg yolks",
-        "½ tsp salt",
-        "½ cup lemon juice",
-        "Dash pepper",
-        "1 cup oil",
-        "¼ cup white sugar",
-        "1 cup Parmesan cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Can be kept in the fridge for up to 2 weeks."
-        }
-      ],
-      "keywords": "Caesar dressing, homemade salad dressing",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "url": "caesar-dressin-salad-101",
-      "similarity": "0.7068"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Pasta Salad",
       "author": {
         "@type": "Person",
@@ -285,73 +113,205 @@
         "totalTime": "30 minutes"
       },
       "url": "pasta-salad-85",
-      "similarity": "0.7067"
+      "similarity": "0.6928"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Fresh Broccoli Mandarin Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Sandra Vandeworp (Finkbeiner)"
-      },
-      "description": "A refreshing salad featuring fresh broccoli, mandarin oranges, mushrooms, and a rich, creamy dressing with a hint of mustard.",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
       "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeYield": "10 to 12 servings",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 egg plus 1 egg yolk, slightly beaten",
-        "½ cup sugar",
-        "1½ tsp cornstarch",
-        "1 tsp mustard",
-        "¼ cup vinegar",
-        "¼ cup water",
-        "3 Tbsp softened butter",
-        "½ cup mayonnaise",
-        "6 bacon strips, cooked and crumbled",
-        "2 cups sliced fresh mushrooms",
-        "½ cup slivered almonds, toasted",
-        "1 cup drained mandarin oranges",
-        "½ medium red onion, sliced into rings",
-        "4 cups fresh broccoli florets"
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In the top of a double boiler, whisk together the egg, egg yolk, sugar, cornstarch, and mustard."
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
         },
         {
           "@type": "HowToStep",
-          "text": "Slowly whisk in the vinegar and water mixture, then cook over hot water, stirring constantly, until the dressing thickens."
+          "text": "Drain the marinade well in the morning."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove from heat and stir in the softened butter and mayonnaise. Chill the dressing."
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
         },
         {
           "@type": "HowToStep",
-          "text": "Just before serving, combine the crumbled bacon, mushrooms, almonds, mandarin oranges, red onion, and broccoli in a large salad bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the chilled dressing and toss to coat the salad ingredients evenly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate any leftovers."
+          "text": "Chill until ready to serve."
         }
       ],
-      "keywords": "broccoli mandarin salad, creamy dressing, fresh salad",
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
       },
-      "url": "fresh-broccoli-mandarin-salad-64",
-      "similarity": "0.6980"
+      "url": "onion-salad-74",
+      "similarity": "0.6551"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Dinney"
+      },
+      "description": "A cooked salad dressing made with eggs, sugar, mustard, and vinegar, thickened with cornstarch.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT8M",
+      "totalTime": "PT13M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 tsp salt",
+        "2 eggs",
+        "1 cup white sugar",
+        "2 tsp dry mustard",
+        "1 cup vinegar",
+        "3 Tbsp cornstarch",
+        "1 cup 2% milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook in the microwave for approximately 8 minutes."
+        }
+      ],
+      "keywords": "cooked salad dressing, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "8 minutes",
+        "totalTime": "13 minutes"
+      },
+      "url": "salad-dressing-102",
+      "similarity": "0.6546"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Doris Ohmayer"
+      },
+      "description": "A creamy salad dressing cooked over boiling water, made with eggs, sugar, mustard, and vinegar.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "2 well-beaten eggs",
+        "2 tsp flour",
+        "½ cup white sugar",
+        "¾ cup white vinegar",
+        "1 heaping tsp dry mustard",
+        "¼ cup boiling water",
+        "Pinch of salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix eggs, sugar, mustard, and salt together with flour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add vinegar and boiling water to the egg mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook over boiling water until creamy."
+        }
+      ],
+      "keywords": "creamy salad dressing, cooked dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "salad-dressing-103",
+      "similarity": "0.6546"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Evelyn Pickering"
+      },
+      "description": "A thickened salad dressing made by boiling a mixture of eggs, sugar, flour, mustard, water, and vinegar, finished with butter.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "3 Tbsp flour",
+        "3 eggs",
+        "1 cup white sugar",
+        "1½ cups water",
+        "1 Tbsp dry mustard",
+        "1 cup vinegar",
+        "1 Tbsp butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat eggs and add sugar and dry ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil water and vinegar together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour egg mixture into vinegar-water mixture and boil until it thickens, stirring continually."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Take off heat and stir in 1 Tbsp butter."
+        }
+      ],
+      "keywords": "thickened salad dressing, boiled dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "salad-dressing-104",
+      "similarity": "0.6546"
     }
   ]
 }

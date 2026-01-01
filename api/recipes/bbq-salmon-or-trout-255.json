@@ -66,61 +66,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Richard's Sunday Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Richard MacGregor"
-      },
-      "description": "A rich and comforting soup featuring carrots, potatoes, and chicken stock.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 tsp sugar",
-        "5 large carrots",
-        "1 large potato",
-        "1 medium onion",
-        "1 Tbsp oil",
-        "2 to 3 cups chicken stock",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Peel and dice the carrots and potato. Combine diced onion and oil in a saucepan and cook over medium heat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the diced carrots and potato to the onion and cook for 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chicken stock and sugar. Cook for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat to simmer and cook for 10 to 15 minutes or until the vegetables are cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from heat and puree. Serve immediately with fresh bread."
-        }
-      ],
-      "keywords": "carrot soup, potato soup, chicken stock",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "richards-sunday-soup-121",
-      "similarity": "0.6636"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Seafood Chowder",
       "author": {
         "@type": "Person",
@@ -169,72 +114,178 @@
         "totalTime": "30 minutes"
       },
       "url": "seafood-chowder-127",
-      "similarity": "0.6459"
+      "similarity": "0.6098"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Tomato Macaroni Soup",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Linda Finkbeiner"
-        },
-        {
-          "@type": "Person",
-          "name": "Shirley Preszcator"
-        }
-      ],
-      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
-      "recipeCategory": "Soup",
+      "name": "Baked Striped Bass (Or White Fish)",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A whole striped bass or white fish baked with garlic, mushrooms, and herbs, served with a rich butter sauce.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT40M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 Tbsp oil",
-        "1½ cups water",
-        "1 cooking onion, diced",
-        "1 cup dry macaroni",
-        "2 carrots, diced",
-        "½ tsp garlic salt",
-        "3 or 4 celery stalks, diced",
-        "½ tsp Worcestershire sauce",
-        "2 cups chicken stock",
-        "2 cups tomato juice",
-        "Salt and pepper to taste"
+        "3 to 4 lb whole striped bass, dressed and boned",
+        "2 cloves garlic",
+        "1 cup sliced mushrooms",
+        "½ cup parsley sprigs",
+        "½ tsp salt",
+        "⅛ tsp pepper",
+        "2 celery stalks, with leaves",
+        "3 cups dry white wine",
+        "1 green onion (or shallot), sliced",
+        "1 cup thinly sliced onion",
+        "2 bay leaves",
+        "1 tsp dried thyme",
+        "½ cup butter",
+        "1 tsp flour"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute onion, celery, and carrot in oil until tender."
+          "text": "Preheat oven to 400°F and lightly butter a large, shallow baking pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Add stock, juice, and water. Bring to a boil."
+          "text": "Wash and pat dry the fish with paper towels. Sprinkle inside and outside with salt and pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Add pasta and cook until tender."
+          "text": "Place the fish in the baking pan and add the remaining ingredients except for the sauce ingredients."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic salt and Worcestershire sauce."
+          "text": "Bake, basting frequently with the liquid in the pan, for 40 minutes or until the fish flakes easily with a fork."
         },
         {
           "@type": "HowToStep",
-          "text": "Season to taste with salt and pepper."
+          "text": "Carefully remove the fish to a heated serving platter, cover, and keep warm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, cook the pan liquid over medium heat until it reduces to 1 cup, about 15 to 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend 1 teaspoon of butter with flour and stir into the hot liquid. Bring to a boil and cook for 2 minutes, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and add the remaining butter, shaking the pan until melted. Remove from heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the sauce with the fish."
         }
       ],
-      "keywords": "tomato macaroni soup, comfort food, pasta soup",
+      "keywords": "baked fish, striped bass, white fish, herb butter sauce",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "40 minutes",
+        "totalTime": "1 hour"
       },
-      "url": "tomato-macaroni-soup-123",
-      "similarity": "0.6437"
+      "url": "baked-striped-bass-or-white-fish-254",
+      "similarity": "0.6035"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Zesty BBQ Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 cup ketchup",
+        "1 tsp dry mustard",
+        "1/4 cup white vinegar",
+        "1/4 tsp salt",
+        "1/2 cup brown sugar",
+        "1/4 tsp cayenne pepper",
+        "1 Tbsp chili powder",
+        "2 cloves garlic, crushed",
+        "1 Tbsp Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 10 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate or freeze for later use."
+        }
+      ],
+      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "zesty-bbq-sauce-136",
+      "similarity": "0.5887"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers."
+        }
+      ],
+      "keywords": "crab dip, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-dip-20",
+      "similarity": "0.5873"
     },
     {
       "@context": "https://schema.org/",
@@ -283,52 +334,7 @@
         "totalTime": "5 minutes"
       },
       "url": "salmon-dip-9",
-      "similarity": "0.6350"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Celebrity",
-      "author": {
-        "@type": "Person",
-        "name": "Rosemary Stewart"
-      },
-      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "2 to 3 lb chicken parts",
-        "1/4 cup brown sugar",
-        "1 package dry onion soup mix",
-        "1/2 cup ketchup",
-        "1/4 cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Arrange chicken parts in a small roaster or casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 350°F oven for 1 hour or until tender."
-        }
-      ],
-      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "url": "chicken-celebrity-237",
-      "similarity": "0.6342"
+      "similarity": "0.5607"
     }
   ]
 }

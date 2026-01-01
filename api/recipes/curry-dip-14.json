@@ -90,7 +90,7 @@
         "totalTime": "10 minutes"
       },
       "url": "vegetable-dip-17",
-      "similarity": "0.7962"
+      "similarity": "0.7094"
     },
     {
       "@context": "https://schema.org/",
@@ -133,122 +133,55 @@
         "totalTime": "5 minutes"
       },
       "url": "vegetable-dip-18",
-      "similarity": "0.7962"
+      "similarity": "0.7094"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Stir-Fry Chicken",
+      "name": "Yogurt Dip",
       "author": {
         "@type": "Person",
-        "name": "Brenda Atkinson"
+        "name": "Jo Anne Pickering"
       },
-      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "6 to 8 servings",
-      "recipeIngredient": [
-        "1/4 cup olive oil",
-        "2 tsp curry powder",
-        "1 crushed garlic clove",
-        "1/4 cup soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 tsp Louisiana hot sauce",
-        "1/2 tsp Tabasco",
-        "6 to 8 buns, cut in half",
-        "Mozzarella cheese and bacon bits for buns",
-        "Chicken breasts, cut in cubes",
-        "Mushrooms, sliced",
-        "Celery, chopped",
-        "1 bag Oriental Classic frozen vegetables",
-        "1 onion, chopped"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
-        }
-      ],
-      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "stir-fry-chicken-225",
-      "similarity": "0.7297"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Zesty BBQ Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Sharon Allen"
-      },
-      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
-      "recipeCategory": "Sauce",
+      "description": "A refreshing yogurt-based dip flavored with mayonnaise, herbs, and seasonings, perfect for vegetables.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
       "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 batch",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H10M",
       "recipeIngredient": [
-        "1 cup ketchup",
-        "1 tsp dry mustard",
-        "1/4 cup white vinegar",
-        "1/4 tsp salt",
-        "1/2 cup brown sugar",
-        "1/4 tsp cayenne pepper",
-        "1 Tbsp chili powder",
-        "2 cloves garlic, crushed",
-        "1 Tbsp Worcestershire sauce"
+        "½ cup sour cream or plain yogurt",
+        "2/3 cup mayonnaise",
+        "1 Tbsp dry onion flakes",
+        "1 tsp Accent",
+        "1 tsp seasoning salt",
+        "½ tsp dill weed",
+        "½ tsp Worcestershire sauce",
+        "1 Tbsp parsley",
+        "Vegetables for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine all ingredients in a saucepan."
+          "text": "Mix all ingredients together in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
+          "text": "Let sit in the fridge for 1 hour to allow flavors to meld."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer for 10 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate or freeze for later use."
+          "text": "Serve with vegetables."
         }
       ],
-      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
+      "keywords": "yogurt dip, healthy dip, vegetable dip",
       "_naturalized_times": {
         "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
+        "cookTime": "",
+        "totalTime": "1 hour 10 minutes"
       },
-      "url": "zesty-bbq-sauce-136",
-      "similarity": "0.7272"
+      "url": "yogurt-dip-19",
+      "similarity": "0.6983"
     },
     {
       "@context": "https://schema.org/",
@@ -306,7 +239,47 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "curry-chicken-230",
-      "similarity": "0.7268"
+      "similarity": "0.6793"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cold Meat Mustard",
+      "author": {
+        "@type": "Person",
+        "name": "Alwinna Galloway"
+      },
+      "description": "A tangy mustard sauce for cold meats.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "totalTime": "PT5M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 tsp vinegar",
+        "3 heaping tsp mustard",
+        "4 heaping tsp Miracle Whip",
+        "8 tsp white sugar",
+        "2 tsp flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put in fridge."
+        }
+      ],
+      "keywords": "mustard sauce, cold meat, condiment",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": null,
+        "totalTime": "5 minutes"
+      },
+      "url": "cold-meat-mustard-122",
+      "similarity": "0.6590"
     }
   ]
 }

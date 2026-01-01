@@ -102,7 +102,7 @@
         "totalTime": "50 minutes"
       },
       "url": "veggie-basic-soup-120",
-      "similarity": "0.7643"
+      "similarity": "0.7247"
     },
     {
       "@context": "https://schema.org/",
@@ -157,7 +157,97 @@
         "totalTime": "40 minutes"
       },
       "url": "potato-soup-125",
-      "similarity": "0.7618"
+      "similarity": "0.6999"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 Tbsp liquid sweetener",
+        "½ head cabbage",
+        "1 can French-style beans (optional)",
+        "3 cups tomato juice",
+        "4 cups water",
+        "1 large can mushrooms",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery, including leaves and tips",
+        "1 tsp lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "cabbage-soup-106",
+      "similarity": "0.6964"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and optional sweetener.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "½ head cabbage",
+        "1 can French-style beans, drained",
+        "3 cups tomato juice",
+        "1 large can mushrooms",
+        "4 cups water",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery leaves and tips",
+        "1 tsp lemon juice",
+        "1 Tbsp liquid sweetener (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "cabbage-soup-109",
+      "similarity": "0.6964"
     },
     {
       "@context": "https://schema.org/",
@@ -207,117 +297,7 @@
         "totalTime": "20 minutes"
       },
       "url": "creamy-broccoli-soup-112",
-      "similarity": "0.7575"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Tomato Macaroni Soup",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Linda Finkbeiner"
-        },
-        {
-          "@type": "Person",
-          "name": "Shirley Preszcator"
-        }
-      ],
-      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 Tbsp oil",
-        "1½ cups water",
-        "1 cooking onion, diced",
-        "1 cup dry macaroni",
-        "2 carrots, diced",
-        "½ tsp garlic salt",
-        "3 or 4 celery stalks, diced",
-        "½ tsp Worcestershire sauce",
-        "2 cups chicken stock",
-        "2 cups tomato juice",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute onion, celery, and carrot in oil until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, juice, and water. Bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add pasta and cook until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add garlic salt and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Season to taste with salt and pepper."
-        }
-      ],
-      "keywords": "tomato macaroni soup, comfort food, pasta soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "tomato-macaroni-soup-123",
-      "similarity": "0.7287"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cabbage Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Betty Glanville"
-      },
-      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
-      "recipeYield": "6 servings",
-      "recipeIngredient": [
-        "1 Tbsp liquid sweetener",
-        "½ head cabbage",
-        "1 can French-style beans (optional)",
-        "3 cups tomato juice",
-        "4 cups water",
-        "1 large can mushrooms",
-        "Salt, garlic pepper to taste",
-        "6 stalks celery, including leaves and tips",
-        "1 tsp lemon juice"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Add all ingredients to a large pot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook at low heat for 1½ hours."
-        }
-      ],
-      "keywords": "cabbage soup, vegetable soup, hearty soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
-      },
-      "url": "cabbage-soup-106",
-      "similarity": "0.7196"
+      "similarity": "0.6916"
     }
   ]
 }

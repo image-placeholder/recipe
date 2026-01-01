@@ -53,52 +53,50 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Coleslaw Chalet Dressing",
+      "name": "Layered Coleslaw Salad",
       "author": {
         "@type": "Person",
-        "name": "Ruth Haines"
+        "name": "Kim MacDonald"
       },
-      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
+      "description": "A layered coleslaw salad with shredded carrots, snow peas, and a creamy Miracle Whip dressing.",
       "recipeCategory": "Salad",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "Several servings",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H20M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 (medium size) head cabbage, shredded",
-        "2 carrots, finely chopped",
-        "1 Spanish onion, minced",
-        "3 stalks celery, finely chopped",
-        "¾ cup white sugar",
-        "¾ cup salad oil",
-        "1 cup white vinegar",
-        "2 tsp salt",
-        "1 tsp celery seed",
-        "1 Green pepper, finely chopped"
+        "1/2 head cabbage, shredded",
+        "1 pkg (8.5 oz) Oriental flavor dry noodles",
+        "4 handfuls snow peas",
+        "1 bunch chopped green onions",
+        "1 sliced red pepper",
+        "5 shredded carrots",
+        "1 cup Miracle Whip dressing",
+        "1 cup sour cream"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Bring all dressing ingredients to a boil and let cool."
+          "text": "Shred cabbage and place in bottom of large glass bowl. Top with remaining ingredients in order given."
         },
         {
           "@type": "HowToStep",
-          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
+          "text": "Combine Miracle Whip, sour cream, and package of noodle seasoning. Spread evenly over salad."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
+          "text": "Cover and let stand overnight."
         }
       ],
-      "keywords": "coleslaw, chalet dressing, salad",
+      "keywords": "layered coleslaw, creamy dressing, overnight salad",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
+        "cookTime": "",
+        "totalTime": "8 hours 20 minutes"
       },
-      "url": "coleslaw-chalet-dressing-57",
-      "similarity": "0.7622"
+      "url": "layered-coleslaw-salad-62",
+      "similarity": "0.7540"
     },
     {
       "@context": "https://schema.org/",
@@ -145,55 +143,57 @@
         "totalTime": "20 minutes"
       },
       "url": "asian-coleslaw-61",
-      "similarity": "0.7464"
+      "similarity": "0.7396"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Layered Coleslaw Salad",
+      "name": "Coleslaw Chalet Dressing",
       "author": {
         "@type": "Person",
-        "name": "Kim MacDonald"
+        "name": "Ruth Haines"
       },
-      "description": "A layered coleslaw salad with shredded carrots, snow peas, and a creamy Miracle Whip dressing.",
+      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
       "recipeCategory": "Salad",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT0M",
-      "totalTime": "PT8H20M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
       "recipeIngredient": [
-        "1/2 head cabbage, shredded",
-        "1 pkg (8.5 oz) Oriental flavor dry noodles",
-        "4 handfuls snow peas",
-        "1 bunch chopped green onions",
-        "1 sliced red pepper",
-        "5 shredded carrots",
-        "1 cup Miracle Whip dressing",
-        "1 cup sour cream"
+        "1 (medium size) head cabbage, shredded",
+        "2 carrots, finely chopped",
+        "1 Spanish onion, minced",
+        "3 stalks celery, finely chopped",
+        "¾ cup white sugar",
+        "¾ cup salad oil",
+        "1 cup white vinegar",
+        "2 tsp salt",
+        "1 tsp celery seed",
+        "1 Green pepper, finely chopped"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Shred cabbage and place in bottom of large glass bowl. Top with remaining ingredients in order given."
+          "text": "Bring all dressing ingredients to a boil and let cool."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine Miracle Whip, sour cream, and package of noodle seasoning. Spread evenly over salad."
+          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover and let stand overnight."
+          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
         }
       ],
-      "keywords": "layered coleslaw, creamy dressing, overnight salad",
+      "keywords": "coleslaw, chalet dressing, salad",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "",
-        "totalTime": "8 hours 20 minutes"
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "layered-coleslaw-salad-62",
-      "similarity": "0.7432"
+      "url": "coleslaw-chalet-dressing-57",
+      "similarity": "0.7242"
     },
     {
       "@context": "https://schema.org/",
@@ -262,66 +262,63 @@
         "totalTime": "3 hours 30 minutes"
       },
       "url": "cabbage-rolls-167",
-      "similarity": "0.7134"
+      "similarity": "0.5985"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Roasted Carrots and Parsnips",
+      "name": "Sauerkraut Salad",
       "author": {
         "@type": "Person",
-        "name": "Thelma Finkbeiner"
+        "name": "Lorna Finkbeiner"
       },
-      "description": "A simple roasted vegetable dish featuring carrots, parsnips, and onions with a maple syrup and mustard glaze.",
-      "recipeCategory": "Side Dish",
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
       "recipeIngredient": [
-        "1 lb parsnips, peeled and cut into 1-inch pieces",
-        "1 lb carrots, peeled and cut into 1-inch pieces",
-        "1 cup onions, cut into wedges",
-        "2 Tbsp vegetable oil",
-        "1 tsp dried thyme",
-        "2 Tbsp maple syrup",
-        "1 Tbsp Dijon mustard"
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Preheat oven to 400°F (200°C)."
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
         },
         {
           "@type": "HowToStep",
-          "text": "Place parsnips, carrots, onions, oil, and thyme in a prepared baking dish; toss until vegetables are well coated with oil."
+          "text": "Let the dressing cool to room temperature."
         },
         {
           "@type": "HowToStep",
-          "text": "Roast in the oven for 30 minutes."
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "In a small bowl, combine maple syrup and mustard."
+          "text": "Pour the cooled dressing over the salad and toss to coat."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the maple syrup mixture over the vegetables and toss to coat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roast for another 20 to 25 minutes or until vegetables are tender and golden, stirring once."
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
         }
       ],
-      "keywords": "roasted carrots, roasted parsnips, maple syrup glaze",
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "roasted-carrots-and-parsnips-142",
-      "similarity": "0.6982"
+      "url": "sauerkraut-salad-82",
+      "similarity": "0.5797"
     }
   ]
 }

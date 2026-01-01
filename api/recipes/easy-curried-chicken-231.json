@@ -109,69 +109,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "curry-chicken-230",
-      "similarity": "0.7600"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Stir-Fry Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Brenda Atkinson"
-      },
-      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "6 to 8 servings",
-      "recipeIngredient": [
-        "1/4 cup olive oil",
-        "2 tsp curry powder",
-        "1 crushed garlic clove",
-        "1/4 cup soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 tsp Louisiana hot sauce",
-        "1/2 tsp Tabasco",
-        "6 to 8 buns, cut in half",
-        "Mozzarella cheese and bacon bits for buns",
-        "Chicken breasts, cut in cubes",
-        "Mushrooms, sliced",
-        "Celery, chopped",
-        "1 bag Oriental Classic frozen vegetables",
-        "1 onion, chopped"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
-        }
-      ],
-      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "stir-fry-chicken-225",
-      "similarity": "0.7477"
+      "similarity": "0.8071"
     },
     {
       "@context": "https://schema.org/",
@@ -245,50 +183,71 @@
         "totalTime": "55 minutes"
       },
       "url": "classy-chicken-243",
-      "similarity": "0.7476"
+      "similarity": "0.7701"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Curry Dip",
+      "name": "Chicken with a Chinese Accent",
       "author": {
         "@type": "Person",
-        "name": "Linda Finkbeiner"
+        "name": "Suzanne Finkbeiner"
       },
-      "description": "A flavorful and spicy dip made with mayonnaise, curry powder, and chili sauce, perfect for serving with snacks.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "1 bowl",
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 cup mayonnaise",
-        "1/2 tsp Worcestershire sauce",
-        "1/4 cup chili sauce",
-        "1 tsp curry powder",
-        "1/4 tsp Tabasco",
-        "1/2 tsp chopped onion (optional)",
-        "1 tsp lemon juice"
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together in a bowl until well combined."
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
         },
         {
           "@type": "HowToStep",
-          "text": "Let stand in the fridge for 1 to 2 hours before serving to allow flavors to meld."
+          "text": "Transfer the chicken to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken with rice."
         }
       ],
-      "keywords": "curry dip, spicy dip, party appetizer",
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "1 hour 10 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "curry-dip-14",
-      "similarity": "0.7018"
+      "url": "chicken-with-a-chinese-accent-245",
+      "similarity": "0.7006"
     },
     {
       "@context": "https://schema.org/",
@@ -357,7 +316,66 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "creamy-chicken-stew-252",
-      "similarity": "0.6796"
+      "similarity": "0.7005"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Favourite Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A simple and satisfying chicken dish baked with cheddar cheese, mushroom soup, and garlic.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "4 to 6 chicken breasts",
+        "1 cup old cheddar cheese, grated",
+        "1 can cheddar cheese soup (or other soup to taste)",
+        "1 can mushroom soup",
+        "1 Tbsp garlic powder",
+        "Salt and pepper to taste",
+        "6 to 8 fresh mushrooms, sliced"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and pat dry chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cheddar cheese soup, mushroom soup, and garlic powder. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place chicken in a 9x11 inch baking dish. Pour soup mixture over chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with grated cheese and sliced mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for about 1 hour for 4 pieces or 1½ hours for 6 pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Check to ensure chicken is cooked through, as oven temperatures may vary."
+        }
+      ],
+      "keywords": "baked chicken, cheddar cheese, mushroom soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "favourite-chicken-241",
+      "similarity": "0.6996"
     }
   ]
 }

@@ -102,155 +102,7 @@
         "totalTime": "15 minutes"
       },
       "url": "cheese-ball-2",
-      "similarity": "0.7075"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Fruit Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Suzanne Finkbeiner"
-      },
-      "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 cup",
-      "recipeIngredient": [
-        "8 oz package cream cheese",
-        "2 tsp frozen orange juice concentrate",
-        "½ cup marshmallow creme",
-        "1 tsp grated orange rind"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine all ingredients in a dish and beat until smooth and well blended."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve immediately with fresh cut-up fruit."
-        }
-      ],
-      "keywords": "fruit dip, orange cream cheese, marshmallow dip",
-      "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
-      },
-      "url": "fruit-dip-24",
-      "similarity": "0.6739"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cottage Cheese Jellied Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Jean E. Neil"
-      },
-      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 oz package orange or lemon flavored gelatin",
-        "1 cup boiling water",
-        "1 cup drained crushed pineapple",
-        "½ cup chopped walnuts (optional)",
-        "½ cup mayonnaise",
-        "1 cup cottage cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Dissolve gelatin in boiling water."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mayonnaise and whisk to blend."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until the mixture starts to set."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
-        }
-      ],
-      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
-      },
-      "url": "cottage-cheese-jellied-salad-66",
-      "similarity": "0.6662"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Orange-Pineapple Jello",
-      "author": {
-        "@type": "Person",
-        "name": "Shelley Kinsman"
-      },
-      "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT5M",
-      "totalTime": "PT25M",
-      "recipeYield": "1 serving",
-      "recipeIngredient": [
-        "1 package orange Jello",
-        "1 cup mini marshmallows",
-        "1 small can crushed pineapple",
-        "½ cup frozen orange juice concentrate",
-        "1 package Dream Whip",
-        "½ cup pecans"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Drain pineapple and reserve syrup. Add water to make ¾ cup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat the liquid to boiling."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place Jello in a bowl and add hot liquid, pineapple, and orange juice concentrate."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until thickish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fold in Dream Whip along with marshmallows and pecans."
-        }
-      ],
-      "keywords": "orange-pineapple Jello, fruity dessert, nuts",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "orange-pineapple-jello-76",
-      "similarity": "0.6536"
+      "similarity": "0.7452"
     },
     {
       "@context": "https://schema.org/",
@@ -301,7 +153,149 @@
         "totalTime": "8 hours 15 minutes"
       },
       "url": "party-salmon-ball-8",
-      "similarity": "0.6497"
+      "similarity": "0.6261"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "cheese-dip-in-a-bread-bowl-4",
+      "similarity": "0.5656"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stuffed Mushrooms",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A savory appetizer of mushroom caps filled with a creamy mixture of bacon, cream cheese, and Parmesan.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "15 to 20 stuffed mushrooms",
+      "recipeIngredient": [
+        "15 to 20 large mushrooms, stems removed",
+        "3 slices bacon, cooked and crumbled",
+        "¼ pkg cream cheese",
+        "¼ cup Parmesan cheese",
+        "1 tsp Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the crumbled bacon, cream cheese, Parmesan cheese, and Worcestershire sauce together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stuff the mixture into the mushroom caps."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes."
+        }
+      ],
+      "keywords": "stuffed mushrooms, appetizer, bacon, cream cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "stuffed-mushrooms-32",
+      "similarity": "0.5616"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fruit Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 cup",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 tsp frozen orange juice concentrate",
+        "½ cup marshmallow creme",
+        "1 tsp grated orange rind"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a dish and beat until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with fresh cut-up fruit."
+        }
+      ],
+      "keywords": "fruit dip, orange cream cheese, marshmallow dip",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "fruit-dip-24",
+      "similarity": "0.5557"
     }
   ]
 }

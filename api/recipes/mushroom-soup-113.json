@@ -57,98 +57,50 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken and Broccoli",
+      "name": "Cream of Potato Soup",
       "author": {
         "@type": "Person",
-        "name": "Marguerite Finkbeiner"
+        "name": "Lori Allen"
       },
-      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
-      "recipeCategory": "Main Course",
+      "description": "A rich and creamy potato soup enhanced with Campbell's soup base, leeks, and mushrooms, topped with shredded cheddar cheese.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT2H30M",
+      "totalTime": "PT2H45M",
+      "recipeYield": "8-10 servings",
       "recipeIngredient": [
-        "1 cup small shells pasta",
-        "1 can cream of mushroom soup",
-        "2 cups broccoli, cooked",
-        "1½ cups chicken, cooked and chopped",
-        "½ cup milk",
-        "½ cup Parmesan cheese",
-        "¼ tsp ground pepper"
+        "4 to 6 cups cooked potatoes, cubed",
+        "1 square Campbell's potato soup base",
+        "Salt and pepper to taste",
+        "Garlic salt to taste",
+        "1 to 2 cups finely chopped mushrooms",
+        "2 to 3 leeks, chopped fine",
+        "Shredded cheddar cheese (amount desired)",
+        "Water or milk (as needed for consistency)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the small shells pasta according to package directions. Drain."
+          "text": "In a large pot, combine all ingredients except cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+          "text": "Bring to a boil, stirring often, then simmer for 2 to 3 hours, adding more liquid if necessary."
         },
         {
           "@type": "HowToStep",
-          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with a cranberry salad."
+          "text": "Add shredded cheddar cheese during the last 30 minutes of simmering."
         }
       ],
-      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "keywords": "cream of potato soup, cheesy soup, slow-cooked soup",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
+        "cookTime": "2 hours 30 minutes",
+        "totalTime": "2 hours 45 minutes"
       },
-      "url": "chicken-and-broccoli-234",
-      "similarity": "0.8166"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Stuffed Mushrooms",
-      "author": {
-        "@type": "Person",
-        "name": "Suzanne Finkbeiner"
-      },
-      "description": "A savory appetizer of mushroom caps filled with a creamy mixture of bacon, cream cheese, and Parmesan.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT30M",
-      "totalTime": "PT45M",
-      "recipeYield": "15 to 20 stuffed mushrooms",
-      "recipeIngredient": [
-        "15 to 20 large mushrooms, stems removed",
-        "3 slices bacon, cooked and crumbled",
-        "¼ pkg cream cheese",
-        "¼ cup Parmesan cheese",
-        "1 tsp Worcestershire sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix the crumbled bacon, cream cheese, Parmesan cheese, and Worcestershire sauce together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stuff the mixture into the mushroom caps."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes."
-        }
-      ],
-      "keywords": "stuffed mushrooms, appetizer, bacon, cream cheese",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "45 minutes"
-      },
-      "url": "stuffed-mushrooms-32",
-      "similarity": "0.7548"
+      "url": "cream-of-potato-soup-126",
+      "similarity": "0.7393"
     },
     {
       "@context": "https://schema.org/",
@@ -193,7 +145,7 @@
         "totalTime": "1 hour 45 minutes"
       },
       "url": "cabbage-soup-106",
-      "similarity": "0.7544"
+      "similarity": "0.7386"
     },
     {
       "@context": "https://schema.org/",
@@ -238,64 +190,112 @@
         "totalTime": "1 hour 45 minutes"
       },
       "url": "cabbage-soup-109",
-      "similarity": "0.7544"
+      "similarity": "0.7386"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Ginger Noodle Soup",
+      "name": "Potato Soup",
       "author": {
         "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
+        "name": "Barbara Ratz"
       },
-      "description": "A flavorful and aromatic Asian-inspired soup featuring pork, ginger, and rice stick noodles in a savory chicken broth.",
+      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
       "recipeCategory": "Soup",
-      "recipeCuisine": "Asian",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "8-10 servings",
       "recipeIngredient": [
-        "1 pork chop, sliced into small pieces",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 Tbsp chopped ginger root",
-        "2 Tbsp soy sauce",
-        "4 cups chicken stock",
-        "1/3 cup hoisin sauce",
-        "1 carrot, shredded",
-        "1/2 cup sliced mushrooms",
-        "1 cup rice stick noodles",
-        "1 green onion, thinly sliced",
-        "1/2 cup bean sprouts",
-        "4 sprigs coriander (cilantro)"
+        "6 diced and peeled potatoes",
+        "2 diced and peeled carrots",
+        "1 chopped onion",
+        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
+        "6 Tbsp butter",
+        "6 Tbsp flour",
+        "Sour cream (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a saucepan brown pork over medium heat."
+          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add onion, garlic, ginger, hoisin sauce and soy sauce. Cook for 2 minutes."
+          "text": "Microwave onions and butter until soft, about 2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add rest of ingredients, bring to a boil, reduce heat and simmer 10 minutes."
+          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
         },
         {
           "@type": "HowToStep",
-          "text": "Garnish with green onion and coriander."
+          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
         }
       ],
-      "keywords": "ginger noodle soup, Asian soup, pork soup",
+      "keywords": "potato soup, creamy soup, comfort food",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
       },
-      "url": "ginger-noodle-soup-114",
-      "similarity": "0.7542"
+      "url": "potato-soup-125",
+      "similarity": "0.7386"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
+        }
+      ],
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "creamy-broccoli-soup-112",
+      "similarity": "0.7265"
     }
   ]
 }

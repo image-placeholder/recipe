@@ -109,64 +109,81 @@
         "totalTime": "35 minutes"
       },
       "url": "stir-fry-beef-145",
-      "similarity": "0.7687"
+      "similarity": "0.8290"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pasta Tie Bow and Beef",
+      "name": "Beef and Rice Casserole",
       "author": {
         "@type": "Person",
-        "name": "Suzanne Finkbeiner"
+        "name": "Kurtis Brand"
       },
-      "description": "A hearty pasta dish with sautéed beef, mushrooms, and red peppers, topped with Parmesan cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-inspired",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
       "recipeIngredient": [
-        "1 tsp (5 mL) cooking oil",
-        "8 oz (225 g) pasta bow tie",
-        "2 cups (500 mL) boiling water",
-        "3 Tbsp (45 mL) cooking oil (divided)",
-        "1 Tbsp (15 mL) salt",
-        "¾ lb (340 g) sirloin steak, sliced into thin strips",
-        "2 tsp (10 mL) dried crushed chilies",
-        "1 red pepper, cut into ¾ inch squares",
-        "Parmesan cheese for serving"
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook pasta in boiling water with 1 tsp cooking oil and salt for about 12 minutes. Drain and keep warm."
+          "text": "Sauté celery and onion in butter until soft and tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Heat wok on medium-high. Add 1 Tbsp cooking oil and stir-fry beef strips until desired doneness. Transfer to bowl."
+          "text": "Place rice in a greased 1½ quart casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Add another 1 Tbsp cooking oil to the wok. Stir-fry mushrooms, red pepper, and crushed chilies for 2 to 3 minutes until tender."
+          "text": "Top the rice with the celery mixture."
         },
         {
           "@type": "HowToStep",
-          "text": "Add beef back into the wok and heat through. Stir in Parmesan cheese."
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread cooked pasta on a plate and spoon the beef mixture over top. Sprinkle with additional Parmesan cheese."
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
         }
       ],
-      "keywords": "pasta, beef, Italian-inspired, Parmesan cheese",
+      "keywords": "beef casserole, rice casserole, comfort food",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "pasta-tie-bow-and-beef-146",
-      "similarity": "0.7468"
+      "url": "beef-and-rice-casserole-168",
+      "similarity": "0.6687"
     },
     {
       "@context": "https://schema.org/",
@@ -250,147 +267,132 @@
         "totalTime": "1 hour 25 minutes"
       },
       "url": "meatball-pasta-stew-179",
-      "similarity": "0.7061"
+      "similarity": "0.6678"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Creamy Beef and Potato Bake",
+      "name": "Hawaiian Meatballs",
       "author": {
         "@type": "Person",
-        "name": "Mary Jefferies"
+        "name": "Heather Clarke"
       },
-      "description": "A layered casserole featuring ground beef, potatoes, zucchini, and a creamy cheddar sauce.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
+      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
+      "recipeCategory": "Meat",
+      "recipeCuisine": "Hawaiian-American",
       "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "1 13x9 inch baking dish",
-      "recipeIngredient": [
-        "3 potatoes, peeled and thinly sliced",
-        "1 lb ground beef",
-        "¼ cup butter, divided",
-        "2 Tbsp vegetable oil",
-        "2 small zucchini, sliced",
-        "1 tsp Italian seasoning",
-        "½ cup prepared tomato pasta sauce",
-        "2 cups milk, divided",
-        "¼ cup flour",
-        "1½ cups grated cheddar cheese",
-        "1 onion, chopped",
-        "½ tsp salt",
-        "½ tsp pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F to 375°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a skillet, melt 2 tablespoons butter and oil over medium-low heat. Add potatoes and cook for 5 minutes, stirring frequently."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add zucchini, salt, and pepper to the skillet. Cook until zucchini is tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the vegetable mixture into a 13x9 inch baking dish. Set aside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In the same skillet, cook onion and Italian seasoning until onion is tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add ground beef to the skillet and cook until it loses its pink color. Stir in tomato sauce and ½ cup milk."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the meat mixture over the vegetable layer in the baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Melt remaining butter in the skillet, stir in flour, and cook for 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Gradually whisk in remaining milk. Cook and stir until the sauce thickens."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in cheddar cheese until melted. Pour the sauce over the meat layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 20 to 25 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for 10 minutes before serving."
-        }
-      ],
-      "keywords": "beef casserole, potato bake, creamy sauce",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
-      },
-      "url": "creamy-beef-and-potato-bake-158",
-      "similarity": "0.6933"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Broccoli Supreme",
-      "author": {
-        "@type": "Person",
-        "name": "Louise Wein"
-      },
-      "description": "A chilled broccoli salad with raisins, bacon, and a creamy cheese dressing.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT3H25M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
       "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "6 cups fresh broccoli",
-        "2 Tbsp vinegar",
-        "2 Tbsp vegetable oil",
-        "1/3 cup raisins",
-        "2 tsp white sugar",
-        "2 Tbsp chopped onion",
-        "1 Tbsp prepared mustard",
-        "6 or 8 slices bacon, cooled and crumbled",
-        "1/4 tsp salt",
-        "1/8 tsp garlic powder",
-        "1 small pkg cream cheese"
+        "2 lb ground beef",
+        "2 eggs",
+        "½ cup chopped onion",
+        "¾ cup bread crumbs",
+        "¼ tsp salt",
+        "¼ tsp garlic salt",
+        "½ tsp salt",
+        "¼ tsp ginger",
+        "¼ tsp dry mustard",
+        "2 Tbsp soya sauce",
+        "¼ cup vinegar",
+        "6 Tbsp brown sugar",
+        "6 Tbsp ketchup",
+        "2 Tbsp shortening",
+        "1 (10 oz) can crushed pineapple",
+        "1 cup water",
+        "2 Tbsp cornstarch"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Beat dressing ingredients until smooth."
+          "text": "Mix the meat mixture together and shape into balls."
         },
         {
           "@type": "HowToStep",
-          "text": "Add dressing to broccoli, raisins, and onion. Cover and chill at least 3 hours."
+          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle with bacon and serve."
+          "text": "Remove the meatballs from the pan and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
         }
       ],
-      "keywords": "broccoli salad, bacon, creamy dressing",
+      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "3 hours 25 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "broccoli-supreme-60",
-      "similarity": "0.6844"
+      "url": "hawaiian-meatballs-152",
+      "similarity": "0.6469"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Vegetable Fried Rice",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A simple and flavorful fried rice dish made with cooked rice, beaten egg, soya sauce, and mixed vegetables.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "Chinese-Canadian",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "3 Tbsp vegetable oil",
+        "575 mL cold water",
+        "1 chicken Oxo cube or pouch",
+        "1 egg, beaten",
+        "1 Tbsp soya sauce",
+        "250 mL cooked rice",
+        "125 mL cooked vegetables",
+        "Salt and pepper to taste",
+        "15 mL butter or margarine"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring water to a boil. Dissolve chicken Oxo cube in water. Add rice, salt, and butter. Cover and simmer for 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain rice in a strainer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a wok or frying pan. Add beaten egg and soya sauce. Cook until just setting."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked rice and vegetables to the egg mixture. Stir continuously until combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Adjust seasoning with salt, pepper, and additional soya sauce if needed."
+        }
+      ],
+      "keywords": "chicken fried rice, vegetable fried rice, Chinese-Canadian side dish",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "chicken-vegetable-fried-rice-220",
+      "similarity": "0.6377"
     }
   ]
 }

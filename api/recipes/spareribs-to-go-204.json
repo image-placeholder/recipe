@@ -44,314 +44,270 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Meat Balls and Sour And Sweet Sauce",
+      "name": "Yummy Country-Style Ribs",
       "author": {
         "@type": "Person",
-        "name": "Glenda Wuerth"
+        "name": "Leanne M. Kenney"
       },
-      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "description": "A flavorful and tender country-style ribs recipe marinated in a mixture of soy sauce, orange juice, and spices, then grilled to perfection.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT1H",
+      "totalTime": "PT24H20M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 lb hamburger",
-        "1 slice dry bread (crumbs)",
-        "1 Tbsp cornstarch",
-        "¼ cup milk",
-        "1 tsp onion flakes or 1 tsp real onion",
-        "1 (19 oz) can pineapple, crushed",
-        "⅓ cup vinegar",
-        "1 tsp salt",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 egg"
+        "2 lb (1 kg) country-style pork ribs",
+        "⅔ cup orange juice",
+        "2 Tbsp dry mustard",
+        "1 Tbsp coarsely ground pepper",
+        "1½ cups vegetable oil",
+        "¾ cup soy sauce",
+        "2 tsp salt",
+        "2 Tbsp chopped parsley",
+        "½ cup vinegar",
+        "1 clove garlic, minced",
+        "¼ cup Worcestershire sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together and form into 1½ inch balls."
+          "text": "Combine all marinade ingredients except the ribs in a bowl. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+          "text": "Place ribs in a shallow dish and cover with the marinade. Refrigerate for 24 hours, turning meat occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove from oven and drain grease."
+          "text": "Remove ribs from marinade and place on barbecue grill. Cook over low heat for about 1 hour, brushing with marinade occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Place meatballs in a large casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+          "text": "Close barbecue hood and continue cooking until done, about 15 minutes more."
         }
       ],
-      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "keywords": "country-style ribs, marinated ribs, BBQ ribs",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
+        "cookTime": "1 hour",
+        "totalTime": "24 hours 20 minutes"
       },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.6407"
+      "url": "yummy-country-style-ribs-208",
+      "similarity": "0.6897"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chili Turkey",
+      "name": "Maple Glazed Ribs",
       "author": {
         "@type": "Person",
-        "name": "Dianne Finkbeiner"
+        "name": "Evelyn Pickering"
       },
-      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
+      "description": "A sweet and savory pork spare ribs recipe glazed with a maple syrup-based sauce.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT2H15M",
+      "totalTime": "PT2H35M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 tsp ground coriander",
-        "1½ tsp vegetable oil",
-        "¼ tsp salt",
-        "1 large chopped onion",
-        "½ tsp ground cumin",
-        "1 large chopped green pepper",
-        "¼ tsp cinnamon",
-        "2 chopped garlic cloves",
-        "2 to 3 Tbsp chili powder",
-        "1⅓ lb ground turkey",
-        "1 can red kidney beans",
-        "1¾ cups chicken broth",
-        "6 oz whole wheat spaghetti",
-        "3 tsp tomato paste",
-        "½ cup shredded cheese",
-        "1½ tsp dried oregano"
+        "3 lb pork spare ribs",
+        "1 Tbsp Dijon mustard",
+        "1 cup maple syrup",
+        "1 Tbsp Worcestershire sauce",
+        "3 Tbsp orange juice",
+        "1 tsp curry powder concentrate",
+        "1 garlic clove, minced",
+        "3 Tbsp ketchup",
+        "2 green onions",
+        "2 Tbsp soya sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+          "text": "Cut ribs into serving-size pieces and place in a roasting pan. Cover and bake for 1½ hours or until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic and cook for 1 minute."
+          "text": "Meanwhile, combine the Dijon mustard, maple syrup, Worcestershire sauce, orange juice, curry powder, garlic, ketchup, green onions, and soya sauce in a saucepan. Bring to a boil, then reduce heat and simmer for 15 minutes, stirring occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook the pasta as directed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+          "text": "Drain the ribs and pour the sauce over them. Bake uncovered for an additional ½ hour, stirring occasionally."
         }
       ],
-      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "keywords": "maple glazed ribs, pork spare ribs, sweet and savory",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "cookTime": "2 hours 15 minutes",
+        "totalTime": "2 hours 35 minutes"
       },
-      "url": "chili-turkey-247",
-      "similarity": "0.6396"
+      "url": "maple-glazed-ribs-203",
+      "similarity": "0.6768"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Thai Chicken",
+      "name": "Crab & Cheese Platter",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Dob (Finkboiner) Lord"
       },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
-        }
-      ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "thai-chicken-235",
-      "similarity": "0.6380"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Zesty BBQ Sauce",
-      "author": {
-        "@type": "Person",
-        "name": "Sharon Allen"
-      },
-      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
-      "recipeCategory": "Sauce",
+      "description": "A layered seafood appetizer featuring a creamy cheese base topped with cocktail sauce and crab meat.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
       "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 batch",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 platter",
       "recipeIngredient": [
-        "1 cup ketchup",
-        "1 tsp dry mustard",
-        "1/4 cup white vinegar",
-        "1/4 tsp salt",
-        "1/2 cup brown sugar",
-        "1/4 tsp cayenne pepper",
-        "1 Tbsp chili powder",
-        "2 cloves garlic, crushed",
-        "1 Tbsp Worcestershire sauce"
+        "2 large packages (8 oz each) cream cheese",
+        "2 Tbsp onion flakes",
+        "1 large bottle seafood cocktail sauce",
+        "2 Tbsp lemon juice",
+        "2 Tbsp Worcestershire sauce",
+        "1 can crab meat",
+        "2 Tbsp mayonnaise"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine all ingredients in a saucepan."
+          "text": "Mix together the cream cheese, lemon juice, Worcestershire sauce, mayonnaise and onion flakes in a blender, or beat with an electric mixer, until smooth and creamy."
         },
         {
           "@type": "HowToStep",
-          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
+          "text": "Spread cheese mixture evenly over the surface of a large round platter, leaving room around the outside for a row of crackers."
         },
         {
           "@type": "HowToStep",
-          "text": "Simmer for 10 minutes, stirring occasionally."
+          "text": "Press the centre of the cheese mixture down lightly to make a slightly raised border, about ½ to 1 in wide, around the outer edge."
         },
         {
           "@type": "HowToStep",
-          "text": "Refrigerate or freeze for later use."
+          "text": "Spread seafood cocktail sauce over the cheese layer within this border, leaving an outside rim of the cheese layer showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the crab meat and spread it over the sauce layer, again leaving a border of seafood sauce showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers or vegetables."
         }
       ],
-      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
+      "keywords": "crab dip, layered platter, seafood appetizer",
       "_naturalized_times": {
         "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
+        "cookTime": "",
+        "totalTime": "10 minutes"
       },
-      "url": "zesty-bbq-sauce-136",
-      "similarity": "0.6341"
+      "url": "crab-cheese-platter-7",
+      "similarity": "0.5869"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Caesar Dressin' Salad",
+      "name": "Crab Dip",
       "author": {
         "@type": "Person",
-        "name": "Linda Towton"
+        "name": "Deb (Finkbeiner) Lord"
       },
-      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
-      "recipeCategory": "Salad Dressing",
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
+      "prepTime": "PT10M",
       "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 batch",
+      "totalTime": "PT10M",
       "recipeIngredient": [
-        "½ tsp Worcestershire sauce",
-        "3 garlic cloves",
-        "½ tsp dry mustard",
-        "2 beaten egg yolks",
-        "½ tsp salt",
-        "½ cup lemon juice",
-        "Dash pepper",
-        "1 cup oil",
-        "¼ cup white sugar",
-        "1 cup Parmesan cheese"
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Can be kept in the fridge for up to 2 weeks."
+          "text": "Serve with crackers."
         }
       ],
-      "keywords": "Caesar dressing, homemade salad dressing",
+      "keywords": "crab dip, seafood dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
+        "prepTime": "10 minutes",
         "cookTime": "",
-        "totalTime": "5 minutes"
+        "totalTime": "10 minutes"
       },
-      "url": "caesar-dressin-salad-101",
-      "similarity": "0.6241"
+      "url": "crab-dip-20",
+      "similarity": "0.5815"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab-Stuffed Mushrooms",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A savory appetizer featuring large mushrooms filled with a crab meat and cheese mixture, baked until golden.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT12M",
+      "totalTime": "PT32M",
+      "recipeYield": "12 appetizers",
+      "recipeIngredient": [
+        "12 extra large mushrooms",
+        "2 Tbsp butter, divided",
+        "1/4 cup chopped green onion",
+        "1 Tbsp mayonnaise",
+        "1 can (170 g) crab meat, drained",
+        "Salt and pepper to taste",
+        "1/2 lemon for juice",
+        "1/2 cup grated Emmenthal or Gruyère cheese, divided"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wipe mushrooms with lemon juice. Remove stems for stuffing and set caps aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Trim and chop stems. In a saucepan, melt butter. Add onion and chopped mushroom stems. Cook until mushroom stems are tender and moisture has evaporated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in drained crab meat, 1/4 cup cheese, 1 tablespoon cracker crumbs, mayonnaise, salt, and pepper to taste. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon stuffing into mushroom caps and place on greased baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine remaining 1/4 cup cheese and 1 teaspoon cracker crumbs. Sprinkle evenly over stuffed mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate until ready to serve."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in 400°F oven for 10 to 12 minutes. Serve hot."
+        }
+      ],
+      "keywords": "crab stuffed mushrooms, appetizer, seafood",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "12 minutes",
+        "totalTime": "32 minutes"
+      },
+      "url": "crab-stuffed-mushrooms-46",
+      "similarity": "0.5680"
     }
   ]
 }

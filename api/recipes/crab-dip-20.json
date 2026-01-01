@@ -94,7 +94,7 @@
         "totalTime": "10 minutes"
       },
       "url": "crab-cheese-platter-7",
-      "similarity": "0.7853"
+      "similarity": "0.8988"
     },
     {
       "@context": "https://schema.org/",
@@ -158,52 +158,64 @@
         "totalTime": "32 minutes"
       },
       "url": "crab-stuffed-mushrooms-46",
-      "similarity": "0.7200"
+      "similarity": "0.7168"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Shrimp Spread",
+      "name": "Cheese Dip in a Bread Bowl",
       "author": {
         "@type": "Person",
-        "name": "Janet Dearing"
+        "name": "Sherri Haugh"
       },
-      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
       "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "recipeYield": "1 bowl",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
       "recipeIngredient": [
-        "1 can shrimp cocktail",
-        "3 green onions, finely chopped",
-        "1 tsp garlic powder",
-        "1 (8 oz) package cream cheese, softened",
-        "1 tsp Worcestershire sauce",
-        "1½ cups shredded cheddar cheese",
-        "Miracle Whip (as needed for consistency)"
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together in a medium bowl."
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
         },
         {
           "@type": "HowToStep",
-          "text": "Mash the shrimp with a fork until well blended."
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Refrigerate before serving with crackers."
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
         }
       ],
-      "keywords": "shrimp spread, seafood dip, party appetizer",
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": null,
-        "totalTime": null
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
-      "url": "shrimp-spread-10",
-      "similarity": "0.7088"
+      "url": "cheese-dip-in-a-bread-bowl-4",
+      "similarity": "0.7156"
     },
     {
       "@context": "https://schema.org/",
@@ -267,68 +279,56 @@
         "totalTime": null
       },
       "url": "surprise-spread-11",
-      "similarity": "0.6661"
+      "similarity": "0.7128"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Nacho Dip",
+      "name": "Salmon Dip",
       "author": {
         "@type": "Person",
-        "name": "Meghan Brand"
+        "name": "Jo Anne Pickering"
       },
-      "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+      "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
       "recipeCategory": "Appetizer",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
       "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "1 large glass pan",
+      "totalTime": "PT5M",
       "recipeIngredient": [
-        "8 oz pkg cream cheese",
-        "500 g tub sour cream",
-        "¼ pkg taco seasoning mix",
-        "1 cup shredded cheddar cheese",
-        "1 small container salsa sauce",
-        "1 chopped red pepper",
-        "1 chopped green pepper",
-        "1 chopped tomato",
-        "Baked nacho chips for serving"
+        "1 (8 oz) package cream cheese, softened",
+        "1 can red salmon",
+        "1 tsp garlic powder or 1 fresh garlic clove, minced",
+        "2 tsp lemon juice",
+        "2 Tbsp onion, minced",
+        "1 Tbsp fresh or dry parsley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
+          "text": "Drain the salmon and remove any bones."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the mixture in a large glass pan."
+          "text": "Use a fork to flake the salmon before adding other ingredients."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread salsa sauce over the cream cheese layer."
+          "text": "Combine the softened cream cheese with the salmon and all remaining ingredients."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese over the salsa layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chopped red pepper, green pepper, and tomato on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with baked nacho chips."
+          "text": "Mix well and serve with crackers or as a spread."
         }
       ],
-      "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
+      "keywords": "salmon dip, salmon spread, red salmon",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
+        "prepTime": "5 minutes",
         "cookTime": "",
-        "totalTime": "10 minutes"
+        "totalTime": "5 minutes"
       },
-      "url": "nacho-dip-29",
-      "similarity": "0.6659"
+      "url": "salmon-dip-9",
+      "similarity": "0.7128"
     }
   ]
 }

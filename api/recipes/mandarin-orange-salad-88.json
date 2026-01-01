@@ -119,7 +119,7 @@
         "totalTime": "15 minutes"
       },
       "url": "tossed-berry-mandarin-salad-87",
-      "similarity": "0.8714"
+      "similarity": "0.8682"
     },
     {
       "@context": "https://schema.org/",
@@ -172,7 +172,7 @@
         "totalTime": "15 minutes"
       },
       "url": "romaine-salad-with-orange-84",
-      "similarity": "0.8293"
+      "similarity": "0.8101"
     },
     {
       "@context": "https://schema.org/",
@@ -238,7 +238,59 @@
         "totalTime": "30 minutes"
       },
       "url": "fresh-broccoli-mandarin-salad-64",
-      "similarity": "0.7560"
+      "similarity": "0.8074"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange Jello Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Macisaac"
+      },
+      "description": "A simple orange Jello salad with mandarin oranges and Dream Whip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1½ cups hot water",
+        "1 small package orange Jello",
+        "1 small package Dream Whip (not pudding or instant vanilla)",
+        "1 can mandarin oranges"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put the first 3 ingredients into a saucepan and cook until clear."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cool the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix Dream Whip according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain oranges and add Dream Whip and oranges to the cooled mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Allow to cool completely before serving."
+        }
+      ],
+      "keywords": "orange Jello salad, mandarin oranges, Dream Whip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "orange-jello-salad-75",
+      "similarity": "0.7573"
     },
     {
       "@context": "https://schema.org/",
@@ -290,59 +342,7 @@
         "totalTime": "20 minutes"
       },
       "url": "spinach-lettuce-salad-83",
-      "similarity": "0.7555"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Strawberry Tossed Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Donelda Lewis"
-      },
-      "description": "A fresh and fruity salad with mixed greens, strawberries, and a sweet vinaigrette.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeYield": "4-6 servings",
-      "recipeIngredient": [
-        "4 cups torn Bibb or Boston lettuce",
-        "8 cups torn romaine lettuce",
-        "2½ cups sliced fresh strawberries",
-        "1 cup (4 oz) shredded Monterey Jack cheese",
-        "½ cup slivered almonds, toasted or coated with sugar",
-        "½ cup vegetable oil",
-        "⅓ cup white sugar",
-        "¼ cup cider or red wine vinegar",
-        "1 garlic clove, minced",
-        "¼ tsp salt",
-        "¼ tsp paprika",
-        "Pinch white pepper"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Combine the first 7 ingredients (oil, sugar, vinegar, garlic, salt, paprika, and white pepper) in a jar with a tight-fitting lid and shake well to make the dressing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Just before serving, toss salad greens, strawberries, cheese, and almonds in a large salad bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drizzle with the prepared dressing and toss to coat."
-        }
-      ],
-      "keywords": "strawberry salad, fruit salad, sweet salad dressing",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
-      },
-      "url": "strawberry-tossed-salad-96",
-      "similarity": "0.7373"
+      "similarity": "0.7342"
     }
   ]
 }

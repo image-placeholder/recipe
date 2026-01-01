@@ -119,7 +119,205 @@
         "totalTime": "50 minutes"
       },
       "url": "tortilla-soup-124",
-      "similarity": "0.7629"
+      "similarity": "0.6301"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ken Noodle Supper",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Jefferies"
+      },
+      "description": "A hearty chicken and noodle supper with a creamy sauce, mixed vegetables, and a blend of herbs.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 lb boneless, skinless chicken breasts",
+        "½ tsp salt",
+        "½ tsp pepper",
+        "3 Tbsp flour",
+        "1 Tbsp butter",
+        "3 cups milk",
+        "1 Tbsp vegetable oil",
+        "1 Tbsp Dijon mustard",
+        "1 large onion, chopped",
+        "3 cups uncooked egg noodles",
+        "1 cup sliced mushrooms",
+        "1 pkg (10 oz/300 g) frozen mixed vegetables",
+        "1 clove garlic",
+        "½ tsp dried basil",
+        "½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut chicken into 1 inch cubes. Cook in butter in a large skillet over medium heat for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion, mushrooms, and garlic. Cook until onion is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, pepper, and herbs. Cook until thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add milk, stirring constantly. Bring to a boil and simmer for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mustard and noodles. Return to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add frozen vegetables. Stir and cook for 10 minutes before serving."
+        }
+      ],
+      "keywords": "chicken noodle supper, creamy sauce, comfort food",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "ken-noodle-supper-240",
+      "similarity": "0.6161"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "thai-chicken-235",
+      "similarity": "0.6094"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Fudge",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A warm, cheesy baked appetizer served on Triscuits.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "1 9×11 in pan",
+      "recipeIngredient": [
+        "2 cups shredded cheddar cheese",
+        "3 eggs, lightly beaten",
+        "½ cup taco or salsa sauce",
+        "2 cups shredded mozzarella cheese",
+        "Triscuits for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease a 9×11 in pan and spread the cheddar cheese evenly on the bottom."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lightly beat the eggs and mix with taco or salsa sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the egg mixture over the cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut into squares while warm and serve on Triscuits."
+        }
+      ],
+      "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "mexican-fudge-12",
+      "similarity": "0.6067"
     },
     {
       "@context": "https://schema.org/",
@@ -169,202 +367,7 @@
         "totalTime": "30 minutes"
       },
       "url": "pepper-chicken-fettucini-236",
-      "similarity": "0.7531"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Stir-Fry Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Brenda Atkinson"
-      },
-      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Asian-inspired",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "6 to 8 servings",
-      "recipeIngredient": [
-        "1/4 cup olive oil",
-        "2 tsp curry powder",
-        "1 crushed garlic clove",
-        "1/4 cup soya sauce",
-        "1 tsp Worcestershire sauce",
-        "1 tsp Louisiana hot sauce",
-        "1/2 tsp Tabasco",
-        "6 to 8 buns, cut in half",
-        "Mozzarella cheese and bacon bits for buns",
-        "Chicken breasts, cut in cubes",
-        "Mushrooms, sliced",
-        "Celery, chopped",
-        "1 bag Oriental Classic frozen vegetables",
-        "1 onion, chopped"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
-        }
-      ],
-      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "stir-fry-chicken-225",
-      "similarity": "0.7382"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Lemon Chicken With Thyme",
-      "author": {
-        "@type": "Person",
-        "name": "Karen Schwartzentruber"
-      },
-      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 Tbsp flour",
-        "1 Tbsp margarine",
-        "1 cup chicken broth",
-        "1/2 tsp salt",
-        "1/4 tsp pepper",
-        "3 Tbsp lemon juice",
-        "1/2 tsp thyme",
-        "4 boneless skinless chicken breasts",
-        "2 Tbsp olive oil",
-        "1 medium onion (optional)",
-        "Lemon halves and chopped parsley for garnish (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
-        }
-      ],
-      "keywords": "lemon chicken, thyme, chicken breast",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "lemon-chicken-with-thyme-224",
-      "similarity": "0.7339"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chicken Supreme",
-      "author": {
-        "@type": "Person",
-        "name": "Lori Allen"
-      },
-      "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "4-8 servings",
-      "recipeIngredient": [
-        "8 boneless, skinless chicken breast pieces",
-        "1 (28 oz) can stewed tomatoes",
-        "1 chopped green pepper",
-        "1 chopped onion",
-        "2 generous slices of fresh Basil",
-        "2 Spanish Oregano slices",
-        "1 dozen chopped fresh Garlic",
-        "Salt and Seasoning salt",
-        "Onion powder",
-        "Grated mozzarella and cheddar cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Boil the chicken breasts in a separate container until pink is gone (about 1/4 of the way cooked)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a baking or roasting pan, mix together the tomato ingredients (stewed tomatoes, green pepper, onion, basil, oregano, garlic)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the partially cooked chicken breasts in the bottom of the pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle spices over the chicken breasts."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the remaining tomato mixture on top of the chicken breasts."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and bake at 350°F for approximately ½ hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle grated cheese on top, cover, and bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over rice or pasta."
-        }
-      ],
-      "keywords": "chicken supreme, baked chicken, Italian-style chicken",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "chicken-supreme-238",
-      "similarity": "0.7315"
+      "similarity": "0.6020"
     }
   ]
 }

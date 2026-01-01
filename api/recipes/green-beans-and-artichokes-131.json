@@ -110,125 +110,7 @@
         "totalTime": "35 minutes"
       },
       "url": "artichoke-appetizer-1",
-      "similarity": "0.6726"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sliced Bean Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Phyllis Lightfoot"
-      },
-      "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeYield": "2 to 3 quarts",
-      "recipeIngredient": [
-        "Yellow or green beans",
-        "2 cups white vinegar",
-        "2 cups white sugar",
-        "1 tsp salt",
-        "1½ cups water",
-        "Onion and cream for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Slice the beans and cook until tender enough to pierce with a fork."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain the cooked beans and pack them into jars."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a saucepan, bring the sugar, water, vinegar, and salt to a boil to make the syrup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the hot syrup over the beans in the jars."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To serve, pour off the liquid and add chopped onion and cream."
-        }
-      ],
-      "keywords": "pickled bean salad, sweet and tangy, preserved beans",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
-      },
-      "url": "sliced-bean-salad-49",
-      "similarity": "0.6072"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Pasta & Bean Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Marie Fydenchuk"
-      },
-      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Italian",
-      "prepTime": "PT15M",
-      "cookTime": "PT28M",
-      "totalTime": "PT43M",
-      "recipeYield": "4-6 servings",
-      "recipeIngredient": [
-        "1 Tbsp olive oil",
-        "1 onion, finely chopped",
-        "2 carrots, finely chopped",
-        "2 celery sticks, finely chopped",
-        "3 crushed garlic cloves",
-        "1/4 tsp oregano",
-        "1/2 tsp salt",
-        "1/4 tsp pepper",
-        "19 oz can white kidney or romano beans, drained",
-        "10 oz can chicken broth, diluted with 1 cup water",
-        "28 oz can tomatoes with juice",
-        "3 cups small shell pasta or macaroni",
-        "1 1/2 tsp dried basil",
-        "1/4 tsp dried rosemary",
-        "1/2 cup chopped fresh basil",
-        "1/2 cup grated Parmesan cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
-        }
-      ],
-      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "28 minutes",
-        "totalTime": "43 minutes"
-      },
-      "url": "pasta-bean-soup-111",
-      "similarity": "0.6050"
+      "similarity": "0.6494"
     },
     {
       "@context": "https://schema.org/",
@@ -303,65 +185,169 @@
         "totalTime": "55 minutes"
       },
       "url": "hamburger-pie-169",
-      "similarity": "0.6041"
+      "similarity": "0.5233"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Black Bean Salad",
+      "name": "Pasta & Bean Soup",
       "author": {
         "@type": "Person",
-        "name": "Julie-Ann Bibby"
+        "name": "Marie Fydenchuk"
       },
-      "description": "A fresh and vibrant salad featuring black beans, salsa, and corn kernels on a bed of romaine lettuce.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Mexican-American",
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Italian",
       "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
       "recipeIngredient": [
-        "1 ripened tomato, chopped",
-        "2 cups shredded romaine lettuce",
-        "1/2 cup of your favorite salsa",
-        "1 cup fresh corn kernels",
-        "2 sliced scallions",
-        "1 can black beans (15 oz)"
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine chopped tomato, salsa, and scallions in a bowl."
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in the black beans."
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread shredded romaine lettuce in a serving dish."
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
         },
         {
           "@type": "HowToStep",
-          "text": "Top the lettuce with the bean and salsa mixture."
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Microwave the corn kernels on high for 30 seconds."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Distribute the warmed corn over the salad and serve."
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
         }
       ],
-      "keywords": "black bean salad, Mexican salad, fresh corn",
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "15 minutes"
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
       },
-      "url": "black-bean-salad-48",
-      "similarity": "0.5983"
+      "url": "pasta-bean-soup-111",
+      "similarity": "0.5192"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sliced Bean Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Phyllis Lightfoot"
+      },
+      "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeYield": "2 to 3 quarts",
+      "recipeIngredient": [
+        "Yellow or green beans",
+        "2 cups white vinegar",
+        "2 cups white sugar",
+        "1 tsp salt",
+        "1½ cups water",
+        "Onion and cream for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Slice the beans and cook until tender enough to pierce with a fork."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the cooked beans and pack them into jars."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, bring the sugar, water, vinegar, and salt to a boil to make the syrup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot syrup over the beans in the jars."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, pour off the liquid and add chopped onion and cream."
+        }
+      ],
+      "keywords": "pickled bean salad, sweet and tangy, preserved beans",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "sliced-bean-salad-49",
+      "similarity": "0.5170"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spareribs to Go",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A versatile spareribs recipe that can be broiled or heated in a glaze sauce, perfect for make-ahead meals.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeIngredient": [
+        "3 to 4 lb spareribs",
+        "1 cup ketchup",
+        "¼ cup soya sauce",
+        "Glaze: 4 crushed garlic cloves",
+        "½ cup honey"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil spareribs, cut into serving pieces, in salted water for 1½ hours. Drain and place in a shallow dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the glaze mixture (garlic and honey) over the ribs. May be frozen for later use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To finish, remove ribs from the glaze and broil 6 inches from heat in the oven or barbecue until crisp. Alternatively, baste ribs and heat in the sauce."
+        }
+      ],
+      "keywords": "spareribs, garlic honey glaze, make-ahead ribs",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "spareribs-to-go-204",
+      "similarity": "0.4963"
     }
   ]
 }

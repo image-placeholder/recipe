@@ -57,55 +57,178 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hamburg Noodle Casserole",
+      "name": "Crunchy Top Ham and Potato Casserole",
       "author": {
         "@type": "Person",
-        "name": "Grace Yearley"
+        "name": "Norma Fahner"
       },
-      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
+      "description": "A hearty ham and potato casserole with a crunchy corn flake topping.",
       "recipeCategory": "Casserole",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT25M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H25M",
+      "recipeYield": "10 servings",
       "recipeIngredient": [
-        "2 lb ground beef",
-        "1 can cream of mushroom soup",
-        "1 medium onion",
-        "2 cans sliced mushrooms, drained",
-        "1 jar Ragu (700 mL)",
-        "1 pkg cooked elbow macaroni",
-        "1 can cream of celery soup",
-        "1 can cream of chicken soup",
-        "1 cup shredded mozzarella cheese"
+        "2 lb frozen hash brown potatoes, thawed",
+        "1½ cups shredded cheddar cheese",
+        "1 (10 oz) can cream of chicken soup, undiluted",
+        "½ tsp ground pepper",
+        "⅔ cup chopped green onion",
+        "2 cups cubed, cooked ham",
+        "2 cups sour cream",
+        "Topping: ½ cup butter, melted",
+        "2 cups crushed corn flakes"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the ground beef and onion, then add the mushrooms."
+          "text": "Combine all casserole ingredients and mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
+          "text": "Place the mixture in a 13x9 inch baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
+          "text": "Combine topping ingredients (melted butter and crushed corn flakes) and sprinkle on top of the casserole."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake until the cheese is melted."
+          "text": "Bake at 350°F for 1 hour."
         }
       ],
-      "keywords": "casserole, ground beef, noodle dish",
+      "keywords": "ham and potato casserole, crunchy topping, comforting casserole",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "25 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 25 minutes"
       },
-      "url": "hamburg-noodle-casserole-172",
-      "similarity": "0.8143"
+      "url": "crunchy-top-ham-and-potato-casserole-197",
+      "similarity": "0.7326"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ham Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "4 cups hash brown potatoes, thawed",
+        "1½ cups chopped ham",
+        "1 cup grated Cracker Barrel cheddar cheese",
+        "1 small onion, chopped",
+        "½ cup Miracle Whip salad dressing",
+        "½ cup milk",
+        "¼ tsp pepper",
+        "½ cup fresh bread crumbs",
+        "1 Tbsp butter or margarine"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with bread crumbs and dot with butter or margarine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 45 minutes."
+        }
+      ],
+      "keywords": "ham casserole, potato casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "ham-casserole-200",
+      "similarity": "0.7181"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheddar Baked Potato Slices",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 medium baking potatoes, cut into ¼ inch slices",
+        "1 can cream of mushroom soup",
+        "½ tsp paprika",
+        "½ tsp pepper",
+        "1 cup shredded cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the soup mixture evenly over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 400,
+            "unitCode": "FAR"
+          },
+          "duration": "PT45M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+        }
+      ],
+      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "cheddar-baked-potato-slices-140",
+      "similarity": "0.7098"
     },
     {
       "@context": "https://schema.org/",
@@ -160,7 +283,7 @@
         "totalTime": "55 minutes"
       },
       "url": "broccoli-casserole-129",
-      "similarity": "0.7732"
+      "similarity": "0.7029"
     },
     {
       "@context": "https://schema.org/",
@@ -211,130 +334,7 @@
         "totalTime": "40 minutes"
       },
       "url": "broccoli-casserole-133",
-      "similarity": "0.7732"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Rosemary Shipwreck Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Stewart"
-      },
-      "description": "A hearty casserole featuring ground beef, potatoes, and a tomato-based sauce.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 lb lean ground beef",
-        "1 onion, peeled and chopped",
-        "¼ tsp salt",
-        "1 (8 oz) can pork and beans",
-        "1¼ tsp pepper",
-        "1 (10 oz) can tomato soup",
-        "4 potatoes, pared and sliced"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 375°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large bowl, combine beef, salt, and pepper. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place potatoes in the bottom of a greased 2-quart casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top potatoes with chopped onion."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover onion layer with the beef mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon pork and beans over the beef layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour tomato soup over the pork and beans."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover the casserole and bake for 1 hour or until done."
-        }
-      ],
-      "keywords": "shipwreck casserole, ground beef, potato casserole",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "url": "rosemary-shipwreck-casserole-180",
-      "similarity": "0.7447"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Meat and Potato Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Martine Bercier"
-      },
-      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT50M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "1 8L casserole",
-      "recipeIngredient": [
-        "½ lb lean ground beef",
-        "1 onion",
-        "1 clove garlic",
-        "6 medium potatoes, peeled and sliced",
-        "1 envelope (50g) gravy mix",
-        "2½ cups water",
-        "2 cups corn",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Layer sliced potatoes in an 8L casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with corn and the browned meat mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and cook at 350°F for 50 minutes."
-        }
-      ],
-      "keywords": "meat casserole, potato and corn dish, gravy topping",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "50 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "meat-and-potato-casserole-159",
-      "similarity": "0.7434"
+      "similarity": "0.7029"
     }
   ]
 }

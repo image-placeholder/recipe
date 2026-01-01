@@ -62,97 +62,171 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Caesar Dressin' Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Towton"
-      },
-      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
-      "recipeCategory": "Salad Dressing",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
-      "recipeYield": "1 batch",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
       "recipeIngredient": [
-        "½ tsp Worcestershire sauce",
-        "3 garlic cloves",
-        "½ tsp dry mustard",
-        "2 beaten egg yolks",
-        "½ tsp salt",
-        "½ cup lemon juice",
-        "Dash pepper",
-        "1 cup oil",
-        "¼ cup white sugar",
-        "1 cup Parmesan cheese"
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Can be kept in the fridge for up to 2 weeks."
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
         }
       ],
-      "keywords": "Caesar dressing, homemade salad dressing",
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
       },
-      "url": "caesar-dressin-salad-101",
-      "similarity": "0.6893"
+      "url": "broccoli-casserole-129",
+      "similarity": "0.5613"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Salmon Dip",
+      "name": "Broccoli Casserole",
       "author": {
         "@type": "Person",
-        "name": "Jo Anne Pickering"
+        "name": "Eleanor Beaver"
       },
-      "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
-      "recipeCategory": "Appetizer",
+      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT0M",
-      "totalTime": "PT5M",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 (8 oz) package cream cheese, softened",
-        "1 can red salmon",
-        "1 tsp garlic powder or 1 fresh garlic clove, minced",
-        "2 tsp lemon juice",
-        "2 Tbsp onion, minced",
-        "1 Tbsp fresh or dry parsley"
+        "2 heads broccoli, precooked",
+        "1 cup celery, precooked",
+        "1 can mushroom soup",
+        "½ cup grated cheese",
+        "1 Tbsp melted margarine",
+        "½ cup sour cream",
+        "1 cup bread crumbs"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Drain the salmon and remove any bones."
+          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Use a fork to flake the salmon before adding other ingredients."
+          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine the softened cream cheese with the salmon and all remaining ingredients."
+          "text": "Spread the topping over the casserole."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix well and serve with crackers or as a spread."
+          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
         }
       ],
-      "keywords": "salmon dip, salmon spread, red salmon",
+      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "",
-        "totalTime": "5 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
       },
-      "url": "salmon-dip-9",
-      "similarity": "0.6789"
+      "url": "broccoli-casserole-133",
+      "similarity": "0.5613"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mozzarella Spaghetti Skillet",
+      "author": {
+        "@type": "Person",
+        "name": "Yvonne Lotz"
+      },
+      "description": "A one-pot spaghetti dish cooked with hamburger, tomatoes, and mozzarella cheese.",
+      "recipeCategory": "Pasta",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 lb hamburger",
+        "½ cup chopped onion",
+        "½ cup chopped green pepper",
+        "3 splashes Worcestershire sauce",
+        "1 tsp salt",
+        "½ tsp oregano",
+        "½ tsp black pepper",
+        "½ can water",
+        "1 (796 mL) can tomatoes",
+        "1½ cups shredded mozzarella cheese",
+        "Broken spaghetti to feed your family"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In an electric skillet, brown the hamburger, onion, and green peppers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season with Worcestershire sauce, salt, black pepper, and oregano."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomatoes, water, and broken spaghetti to the skillet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bring to a boil, stirring frequently to prevent the spaghetti from sticking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until the pasta is cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shortly before serving, add shredded mozzarella cheese and continue heating until melted."
+        }
+      ],
+      "keywords": "spaghetti skillet, one-pot pasta, mozzarella cheese",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "mozzarella-spaghetti-skillet-182",
+      "similarity": "0.5578"
     },
     {
       "@context": "https://schema.org/",
@@ -209,136 +283,64 @@
         "totalTime": "1 hour 20 minutes"
       },
       "url": "cheese-dip-in-a-bread-bowl-4",
-      "similarity": "0.6715"
+      "similarity": "0.5388"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pizza",
-      "author": {
-        "@type": "Person",
-        "name": "Alan Dick"
-      },
-      "description": "A homemade pizza recipe with a yeast-based crust, topped with spaghetti sauce, various meats, and mozzarella cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT1H",
-      "cookTime": "PT20M",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 pizza",
-      "recipeIngredient": [
-        "1 to 2 Tbsp yeast",
-        "1 tsp sugar",
-        "3½ cups flour",
-        "½ tsp salt",
-        "¾ cup vegetable oil",
-        "1¼ cups warm water",
-        "1¾ cups spaghetti sauce",
-        "Sliced pepperoni",
-        "Salami",
-        "Mushrooms",
-        "Bacon",
-        "Ground beef",
-        "Pineapple",
-        "Mozzarella cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Dissolve yeast in warm water with sugar. Let stand in a warm place for 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Measure flour and salt into a large bowl. Make a well and pour in the yeast mixture. Stir and add oil gradually, working the dough until thoroughly mixed."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Knead the dough, form into a ball, and let stand in a warm place for approximately 45 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 400°F."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll out the dough on a floured pastry board to an even thickness. Transfer to a pizza pan or cookie sheet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with spaghetti sauce, meats, mushrooms, and other toppings. Finish with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for approximately 20 minutes or until the crust is golden brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for 3 to 5 minutes before cutting and serving."
-        }
-      ],
-      "keywords": "homemade pizza, Italian-American, yeast crust",
-      "_naturalized_times": {
-        "prepTime": "1 hour",
-        "cookTime": "20 minutes",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "url": "pizza-190",
-      "similarity": "0.6610"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Broccoli Casserole",
+      "name": "Spinach Dip",
       "author": [
         {
           "@type": "Person",
-          "name": "Nola Lewis"
+          "name": "Ruth Slaght"
         },
         {
           "@type": "Person",
-          "name": "Tanya Allen"
+          "name": "Jo Anne Pickering"
         }
       ],
-      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
-      "recipeCategory": "Main Course",
+      "description": "A creamy spinach dip made with sour cream, mayonnaise, and Knorr vegetable soup mix, served in a hollowed-out pumpernickel bread loaf.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "about 4 cups of dip",
       "recipeIngredient": [
-        "2 lb broccoli, fresh or frozen",
-        "1 can cream of chicken soup",
-        "8 oz Cheez Whiz",
-        "1 cup cooked rice",
-        "1 can mushroom soup",
-        "Butter and bread crumbs or fried onions for topping"
+        "1 pkg (300 g) frozen chopped spinach, thawed and drained",
+        "1 can (10 oz) water chestnuts, drained and chopped",
+        "2 cups (500 mL) sour cream",
+        "1 cup mayonnaise",
+        "1 pkg Knorr vegetable soup mix",
+        "3 green onions, chopped",
+        "1 large round pumpernickel bread loaf (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+          "text": "Squeeze excess moisture from the thawed spinach."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+          "text": "In a bowl, combine the spinach, sour cream, mayonnaise, Knorr soup mix, water chestnuts, and green onions. Stir until well combined."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 to 40 minutes."
+          "text": "Cover and refrigerate for at least 2 hours to allow flavors to blend."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+          "text": "If using a bread loaf, scoop out a large hollow through the top and fill with the dip mixture. Serve with bread cubes cut from the centre and/or assorted fresh vegetables."
         }
       ],
-      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+      "keywords": "spinach dip, party appetizer, pumpernickel bread",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
       },
-      "url": "broccoli-casserole-129",
-      "similarity": "0.6602"
+      "url": "spinach-dip-16",
+      "similarity": "0.5375"
     }
   ]
 }

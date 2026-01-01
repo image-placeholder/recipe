@@ -98,7 +98,114 @@
         "totalTime": "40 minutes"
       },
       "url": "potato-soup-125",
-      "similarity": "0.7905"
+      "similarity": "0.8881"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mushroom Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp butter",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 cups sliced mushrooms",
+        "1/4 cup flour",
+        "2 cups stock (chicken or vegetable)",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "3 cups milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute butter, onion, garlic and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, sauces and milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until heated through (approximately 15 minutes)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "mushroom soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "mushroom-soup-113",
+      "similarity": "0.7393"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
+        }
+      ],
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "creamy-broccoli-soup-112",
+      "similarity": "0.7065"
     },
     {
       "@context": "https://schema.org/",
@@ -164,64 +271,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "cheddar-baked-potato-slices-140",
-      "similarity": "0.7464"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mushroom Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 Tbsp butter",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 cups sliced mushrooms",
-        "1/4 cup flour",
-        "2 cups stock (chicken or vegetable)",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "3 cups milk"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute butter, onion, garlic and mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add flour and stir together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, sauces and milk."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer until heated through (approximately 15 minutes)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
-        }
-      ],
-      "keywords": "mushroom soup, creamy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "mushroom-soup-113",
-      "similarity": "0.7342"
+      "similarity": "0.6854"
     },
     {
       "@context": "https://schema.org/",
@@ -278,57 +328,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "potato-casserole-141",
-      "similarity": "0.7140"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Creamy Broccoli Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Eleanor Beaver"
-      },
-      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "2 cups chicken broth",
-        "1 cup cubed peeled potatoes",
-        "4 cups broccoli",
-        "1/2 cup Miracle Whip",
-        "1/2 tsp cumin (optional)",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Purée the mixture in a blender until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
-        }
-      ],
-      "keywords": "creamy broccoli soup, potato soup, comforting soup",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "creamy-broccoli-soup-112",
-      "similarity": "0.6800"
+      "similarity": "0.6808"
     }
   ]
 }

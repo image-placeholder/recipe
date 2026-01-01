@@ -128,7 +128,7 @@
         "totalTime": "50 minutes"
       },
       "url": "spaghetti-casserole-178",
-      "similarity": "0.7670"
+      "similarity": "0.6819"
     },
     {
       "@context": "https://schema.org/",
@@ -185,84 +185,7 @@
         "totalTime": "25 minutes"
       },
       "url": "mushroom-soup-113",
-      "similarity": "0.7395"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Baked Spaghetti and Meatballs",
-      "author": {
-        "@type": "Person",
-        "name": "Dave MacLeod"
-      },
-      "description": "A hearty baked pasta dish featuring meatballs, spaghetti, and a rich tomato-based sauce topped with melted mozzarella cheese.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
-      "prepTime": "PT30M",
-      "cookTime": "PT35M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "4 to 6 servings",
-      "recipeIngredient": [
-        "1 to 1½ lb lean ground beef",
-        "1 cooking onion, finely chopped",
-        "1 egg",
-        "3 splashes Worcestershire sauce",
-        "½ tsp black pepper",
-        "28 oz can diced tomatoes",
-        "10 oz can chopped mushrooms",
-        "½ cup chopped green pepper (optional)",
-        "½ tsp oregano",
-        "1 cup sour cream",
-        "Broken spaghetti (4 to 6 servings)",
-        "1½ cups grated mozzarella cheese",
-        "24 oz can spaghetti sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and start boiling water for cooking spaghetti."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large bowl, mix ground beef, chopped onion, egg, Worcestershire sauce, and black pepper. Form into meatballs."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fry the meatballs in a skillet until completely cooked, turning gently with tongs. Drain off excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, green pepper, and oregano to the skillet. Simmer for approximately 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook spaghetti until 'al dente', then rinse and drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Combine cooked spaghetti with sour cream."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the spaghetti mixture into a greased 6-cup casserole dish. Sprinkle with half of the shredded mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the sauce and meatball mixture. Bake, uncovered, at 350°F for approximately 20 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with remaining cheese and bake for an additional 5 to 10 minutes, or until the cheese is melted."
-        }
-      ],
-      "keywords": "baked spaghetti, meatballs, Italian-American casserole",
-      "_naturalized_times": {
-        "prepTime": "30 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "baked-spaghetti-and-meatballs-176",
-      "similarity": "0.7343"
+      "similarity": "0.6709"
     },
     {
       "@context": "https://schema.org/",
@@ -313,65 +236,111 @@
         "totalTime": "25 minutes"
       },
       "url": "chicken-and-broccoli-234",
-      "similarity": "0.7229"
+      "similarity": "0.6598"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Zippy Spaghetti Sauce",
+      "name": "Spaghetti Sauce",
       "author": {
         "@type": "Person",
-        "name": "Kate Cunningham"
+        "name": "Heather Clarke"
       },
-      "description": "A flavorful and spicy spaghetti sauce with sausage, hamburger, and taco seasoning.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Italian-American",
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
       "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "Several servings",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 lb lean ground hamburger",
-        "2 jumbo summer sausage slices",
-        "1/2 onion, chopped",
-        "1 tsp garlic",
-        "1 tsp oregano flakes",
-        "1 tsp salt",
-        "1/4 tsp pepper",
-        "1 envelope regular taco seasoning (El Paso)",
-        "1 jar Ragu spaghetti sauce (700 mL)",
-        "1 can sliced mushrooms, drained"
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the hamburger and chopped onion."
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic, oregano, salt, pepper, and taco seasoning."
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Chop the summer sausage into 1/4 inch pieces and add to the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the Ragu spaghetti sauce and drained mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer for 10 minutes."
+          "text": "Continue cooking gently for another 2 hours."
         }
       ],
-      "keywords": "spaghetti sauce, zippy sauce, sausage, taco seasoning",
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
       },
-      "url": "zippy-spaghetti-sauce-188",
-      "similarity": "0.6983"
+      "url": "spaghetti-sauce-177",
+      "similarity": "0.6565"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-187",
+      "similarity": "0.6565"
     }
   ]
 }

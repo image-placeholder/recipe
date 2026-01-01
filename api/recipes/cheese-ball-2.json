@@ -50,63 +50,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheese Dip in a Bread Bowl",
-      "author": {
-        "@type": "Person",
-        "name": "Sherri Haugh"
-      },
-      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 bread bowl",
-      "recipeIngredient": [
-        "1 round bread loaf",
-        "1½ cups chopped ham",
-        "1 (8 oz) package cream cheese",
-        "1½ cups sour cream",
-        "½ cup chopped green pepper",
-        "½ cup chopped green onion",
-        "2 cups shredded cheddar cheese",
-        "1 shake Tabasco sauce",
-        "1 shake Worcestershire sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
-        }
-      ],
-      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "url": "cheese-dip-in-a-bread-bowl-4",
-      "similarity": "0.7127"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Layered Cheese Ball",
       "author": {
         "@type": "Person",
@@ -159,123 +102,7 @@
         "totalTime": null
       },
       "url": "layered-cheese-ball-3",
-      "similarity": "0.7075"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheesy Ham Chowder",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A creamy, cheesy ham chowder with potatoes, carrots, and corn, finished with crispy bacon.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT40M",
-      "totalTime": "PT1H",
-      "recipeYield": "10 servings",
-      "recipeIngredient": [
-        "10 strips bacon, diced",
-        "1 large onion, chopped",
-        "2 tsp chicken bouillon granules",
-        "1 cup diced carrots",
-        "3 Tbsp all-purpose flour",
-        "3 cups (12 oz) shredded cheddar cheese",
-        "3 cups milk",
-        "1½ cups water",
-        "2 cups fully cooked, cubed ham",
-        "2½ cups cubed potatoes",
-        "1 can (15 oz) corn, drained"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large soup kettle or Dutch oven, cook the bacon over medium heat until crisp. Remove to paper towels to drain."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In the bacon drippings, sauté the chopped onion until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in the flour until blended. Gradually add the milk and water, bringing to a boil. Cook and stir for 2 minutes or until thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the potatoes, corn, bouillon granules, and pepper. Reduce heat and simmer, uncovered, for 20 minutes or until potatoes are tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the shredded cheese and cubed ham; heat until cheese is melted. Stir in the cooked bacon."
-        }
-      ],
-      "keywords": "ham chowder, cheesy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "40 minutes",
-        "totalTime": "1 hour"
-      },
-      "url": "cheesy-ham-chowder-116",
-      "similarity": "0.6890"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Hot Cheese Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Heather Clarke"
-      },
-      "description": "A creamy bacon and cheddar dip baked inside a pumpernickel bread shell.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H30M",
-      "totalTime": "PT1H45M",
-      "recipeYield": "1 bread bowl",
-      "recipeIngredient": [
-        "1 round pumpernickel bread loaf",
-        "1 (8 oz) package cream cheese",
-        "1 cup Hellmann's mayonnaise",
-        "½ cup grated cheddar cheese",
-        "½ cup bacon bits"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cut the top off the pumpernickel loaf and hollow it out, leaving a thick shell."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix the cream cheese, mayonnaise, cheddar cheese, and bacon bits until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the mixture into the hollowed-out bread."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap the loaf in tinfoil, leaving the hole with the cheese mixture uncovered."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 325°F for 1½ hours."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with the bread pieces."
-        }
-      ],
-      "keywords": "pumpernickel dip, hot bacon dip, cheddar dip",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour 30 minutes",
-        "totalTime": "1 hour 45 minutes"
-      },
-      "url": "hot-cheese-dip-5",
-      "similarity": "0.6865"
+      "similarity": "0.7452"
     },
     {
       "@context": "https://schema.org/",
@@ -326,7 +153,163 @@
         "totalTime": "8 hours 15 minutes"
       },
       "url": "party-salmon-ball-8",
-      "similarity": "0.6794"
+      "similarity": "0.7271"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "cheese-dip-in-a-bread-bowl-4",
+      "similarity": "0.6663"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers."
+        }
+      ],
+      "keywords": "crab dip, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-dip-20",
+      "similarity": "0.6143"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab & Cheese Platter",
+      "author": {
+        "@type": "Person",
+        "name": "Dob (Finkboiner) Lord"
+      },
+      "description": "A layered seafood appetizer featuring a creamy cheese base topped with cocktail sauce and crab meat.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 platter",
+      "recipeIngredient": [
+        "2 large packages (8 oz each) cream cheese",
+        "2 Tbsp onion flakes",
+        "1 large bottle seafood cocktail sauce",
+        "2 Tbsp lemon juice",
+        "2 Tbsp Worcestershire sauce",
+        "1 can crab meat",
+        "2 Tbsp mayonnaise"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, lemon juice, Worcestershire sauce, mayonnaise and onion flakes in a blender, or beat with an electric mixer, until smooth and creamy."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cheese mixture evenly over the surface of a large round platter, leaving room around the outside for a row of crackers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Press the centre of the cheese mixture down lightly to make a slightly raised border, about ½ to 1 in wide, around the outer edge."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread seafood cocktail sauce over the cheese layer within this border, leaving an outside rim of the cheese layer showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the crab meat and spread it over the sauce layer, again leaving a border of seafood sauce showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers or vegetables."
+        }
+      ],
+      "keywords": "crab dip, layered platter, seafood appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-cheese-platter-7",
+      "similarity": "0.6073"
     }
   ]
 }

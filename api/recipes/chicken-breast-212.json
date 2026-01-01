@@ -101,7 +101,114 @@
         "totalTime": "50 minutes"
       },
       "url": "boneless-chicken-breasts-213",
-      "similarity": "0.7739"
+      "similarity": "0.7932"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Favourite Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A simple and satisfying chicken dish baked with cheddar cheese, mushroom soup, and garlic.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "4 to 6 chicken breasts",
+        "1 cup old cheddar cheese, grated",
+        "1 can cheddar cheese soup (or other soup to taste)",
+        "1 can mushroom soup",
+        "1 Tbsp garlic powder",
+        "Salt and pepper to taste",
+        "6 to 8 fresh mushrooms, sliced"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and pat dry chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cheddar cheese soup, mushroom soup, and garlic powder. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place chicken in a 9x11 inch baking dish. Pour soup mixture over chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with grated cheese and sliced mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for about 1 hour for 4 pieces or 1½ hours for 6 pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Check to ensure chicken is cooked through, as oven temperatures may vary."
+        }
+      ],
+      "keywords": "baked chicken, cheddar cheese, mushroom soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "favourite-chicken-241",
+      "similarity": "0.7695"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crispy Chicken Coating Mix",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A dry mix for coating chicken, made with bread crumbs, spices, and herbs.",
+      "recipeCategory": "Ingredient",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 container of mix",
+      "recipeIngredient": [
+        "500 mL fine dry bread crumbs",
+        "2 mL celery salt",
+        "1 mL garlic powder",
+        "30 mL vegetable oil (not used in mix, possibly for instructions not given)",
+        "Dash pepper",
+        "4 mL ground sage",
+        "2 mL paprika",
+        "3 mL ground thyme"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all dry ingredients (bread crumbs, celery salt, garlic powder, pepper, sage, paprika, thyme) in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Rub the mixture together well to ensure even distribution of ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store the mix in a tightly sealed container."
+        }
+      ],
+      "keywords": "chicken coating, crispy chicken, breading mix",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "crispy-chicken-coating-mix-249",
+      "similarity": "0.7259"
     },
     {
       "@context": "https://schema.org/",
@@ -164,70 +271,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "parmesan-chicken-239",
-      "similarity": "0.7612"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Lemon Chicken With Thyme",
-      "author": {
-        "@type": "Person",
-        "name": "Karen Schwartzentruber"
-      },
-      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 Tbsp flour",
-        "1 Tbsp margarine",
-        "1 cup chicken broth",
-        "1/2 tsp salt",
-        "1/4 tsp pepper",
-        "3 Tbsp lemon juice",
-        "1/2 tsp thyme",
-        "4 boneless skinless chicken breasts",
-        "2 Tbsp olive oil",
-        "1 medium onion (optional)",
-        "Lemon halves and chopped parsley for garnish (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
-        }
-      ],
-      "keywords": "lemon chicken, thyme, chicken breast",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "lemon-chicken-with-thyme-224",
-      "similarity": "0.7406"
+      "similarity": "0.7232"
     },
     {
       "@context": "https://schema.org/",
@@ -301,81 +345,7 @@
         "totalTime": "55 minutes"
       },
       "url": "classy-chicken-243",
-      "similarity": "0.7130"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Thai Chicken",
-      "author": {
-        "@type": "Person",
-        "name": "Barbara Robertson"
-      },
-      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Thai",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 package spaghetti",
-        "1 sweet red pepper",
-        "2 tsp sesame oil",
-        "1 onion",
-        "2 to 3 limes",
-        "4 stalks celery",
-        "4 Tbsp soya sauce",
-        "2 to 3 carrots",
-        "1 lb snow peas",
-        "2 tsp Sambal Oelek or hot pepper sauce",
-        "1 tsp each salt and sugar",
-        "2 crushed cloves garlic",
-        "4 chicken breasts",
-        "1/4 cup water"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir pasta in a large bowl to coat with sesame oil."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add snow peas and stir about 1 minute."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
-        }
-      ],
-      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "35 minutes"
-      },
-      "url": "thai-chicken-235",
-      "similarity": "0.7107"
+      "similarity": "0.7203"
     }
   ]
 }

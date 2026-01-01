@@ -131,63 +131,48 @@
         "totalTime": "1 hour 15 minutes"
       },
       "url": "turkey-or-chicken-pies-251",
-      "similarity": "0.7767"
+      "similarity": "0.7452"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Hamburger Pie",
+      "name": "Chicken with a Chinese Accent",
       "author": {
         "@type": "Person",
-        "name": "Marguerite Finkbeiner"
+        "name": "Suzanne Finkbeiner"
       },
-      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT30M",
-      "totalTime": "PT55M",
-      "recipeYield": "1 casserole",
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 medium onion, sliced",
-        "1 to 1½ cups cooked green beans",
-        "1 Tbsp oil",
-        "1 lb hamburger",
-        "¼ tsp salt",
-        "⅛ tsp pepper",
-        "1 can tomato soup",
-        "5 medium potatoes",
-        "½ cup warm milk",
-        "1 beaten egg"
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+          "text": "Transfer the chicken to a casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
         },
         {
           "@type": "HowToStep",
-          "text": "Transfer the mixture to a casserole dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes.",
+          "text": "Bake for 35 minutes at 350°F.",
           "cookMethod": "Bake",
           "tool": "Oven",
           "temperature": {
@@ -196,86 +181,79 @@
             "value": 350,
             "unitCode": "FAR"
           },
-          "duration": "PT30M"
+          "duration": "PT35M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken with rice."
         }
       ],
-      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
       "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "55 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "hamburger-pie-169",
-      "similarity": "0.7195"
+      "url": "chicken-with-a-chinese-accent-245",
+      "similarity": "0.6271"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Creamy Chicken Stew",
+      "name": "Chicken Hawaiian",
       "author": {
         "@type": "Person",
-        "name": "Anne Cottel"
+        "name": "Mary Kenney"
       },
-      "description": "A hearty and comforting chicken stew with vegetables in a creamy sauce.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
+      "recipeCuisine": "Hawaiian",
       "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "8 to 10 servings",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "3 lb boneless, skinless chicken breasts, cut into 1-inch cubes",
-        "2 Tbsp cooking oil",
-        "1 medium onion, diced",
-        "1 cup sliced celery",
-        "2 cups peeled and cubed potatoes",
-        "3 large carrots, cut into coins",
-        "1 tsp salt",
-        "1/2 tsp dried basil",
-        "1/2 tsp paprika",
-        "1/4 tsp celery salt",
-        "1 bay leaf",
-        "7 cups chicken broth, divided",
-        "1 can (14 oz) corn kernels, drained",
-        "1 can (14 oz) peas",
-        "1 can (14 oz) lima beans",
-        "1/2 cup butter or margarine",
-        "3/4 cup all-purpose flour"
+        "1½ cups Minute Rice",
+        "1 can (10 oz/284 mL) chicken broth",
+        "1 Bake 'N Shake pouch",
+        "4 to 5 boneless chicken breasts",
+        "1 can (14 oz/398 mL) pineapple tidbits with juice",
+        "1 tsp ground ginger",
+        "1 garlic clove"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat oil in a Dutch oven. Sprinkle chicken with salt, pepper, and paprika. Cook and stir until the chicken is browned. Drain."
+          "text": "Combine rice, chicken broth, and contents of Bake 'N Shake pouch as directed on the package."
         },
         {
           "@type": "HowToStep",
-          "text": "Add raw vegetables, basil, bay leaf, celery salt, and 5 cups broth; bring to a boil. Reduce heat. Cover and simmer for 30 minutes or until vegetables are tender."
+          "text": "Arrange chicken breasts in a single layer in a 9x13 inch (2.5 L) casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove bay leaf. Add canned vegetables. Cook and stir for 2 minutes."
+          "text": "Coat chicken with a mixture of ground ginger and garlic."
         },
         {
           "@type": "HowToStep",
-          "text": "In a saucepan, mix flour and butter or margarine until smooth. Gradually whisk in remaining 2 cups broth. Bring to a boil. Cook and stir for 2 minutes or until thickened."
+          "text": "Top chicken with pineapple tidbits and juice."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the sauce into the Dutch oven. Stir and bring to a boil. Reduce heat. Simmer, uncovered, for 5 minutes."
+          "text": "Sprinkle the prepared rice mixture over the chicken."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot with rolls or biscuits."
+          "text": "Bake uncovered at 375°F (180°C) for 30 minutes."
         }
       ],
-      "keywords": "chicken stew, creamy stew, comfort food",
+      "keywords": "Hawaiian chicken, pineapple chicken, baked chicken and rice",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "creamy-chicken-stew-252",
-      "similarity": "0.7124"
+      "url": "chicken-hawaiian-232",
+      "similarity": "0.6119"
     },
     {
       "@context": "https://schema.org/",
@@ -349,58 +327,76 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "similarity": "0.7066"
+      "similarity": "0.6112"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken and Broccoli",
+      "name": "Creamy Chicken Stew",
       "author": {
         "@type": "Person",
-        "name": "Marguerite Finkbeiner"
+        "name": "Anne Cottel"
       },
-      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "description": "A hearty and comforting chicken stew with vegetables in a creamy sauce.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 to 10 servings",
       "recipeIngredient": [
-        "1 cup small shells pasta",
-        "1 can cream of mushroom soup",
-        "2 cups broccoli, cooked",
-        "1½ cups chicken, cooked and chopped",
-        "½ cup milk",
-        "½ cup Parmesan cheese",
-        "¼ tsp ground pepper"
+        "3 lb boneless, skinless chicken breasts, cut into 1-inch cubes",
+        "2 Tbsp cooking oil",
+        "1 medium onion, diced",
+        "1 cup sliced celery",
+        "2 cups peeled and cubed potatoes",
+        "3 large carrots, cut into coins",
+        "1 tsp salt",
+        "1/2 tsp dried basil",
+        "1/2 tsp paprika",
+        "1/4 tsp celery salt",
+        "1 bay leaf",
+        "7 cups chicken broth, divided",
+        "1 can (14 oz) corn kernels, drained",
+        "1 can (14 oz) peas",
+        "1 can (14 oz) lima beans",
+        "1/2 cup butter or margarine",
+        "3/4 cup all-purpose flour"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the small shells pasta according to package directions. Drain."
+          "text": "Heat oil in a Dutch oven. Sprinkle chicken with salt, pepper, and paprika. Cook and stir until the chicken is browned. Drain."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+          "text": "Add raw vegetables, basil, bay leaf, celery salt, and 5 cups broth; bring to a boil. Reduce heat. Cover and simmer for 30 minutes or until vegetables are tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+          "text": "Remove bay leaf. Add canned vegetables. Cook and stir for 2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve hot with a cranberry salad."
+          "text": "In a saucepan, mix flour and butter or margarine until smooth. Gradually whisk in remaining 2 cups broth. Bring to a boil. Cook and stir for 2 minutes or until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce into the Dutch oven. Stir and bring to a boil. Reduce heat. Simmer, uncovered, for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with rolls or biscuits."
         }
       ],
-      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "keywords": "chicken stew, creamy stew, comfort food",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "chicken-and-broccoli-234",
-      "similarity": "0.7054"
+      "url": "creamy-chicken-stew-252",
+      "similarity": "0.6100"
     }
   ]
 }

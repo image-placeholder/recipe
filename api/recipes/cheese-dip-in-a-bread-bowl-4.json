@@ -109,188 +109,47 @@
         "totalTime": "1 hour 45 minutes"
       },
       "url": "hot-cheese-dip-5",
-      "similarity": "0.8358"
+      "similarity": "0.7359"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheeseburger Meat Loaf",
+      "name": "Crab Dip",
       "author": {
         "@type": "Person",
-        "name": "Lori Allen"
+        "name": "Deb (Finkbeiner) Lord"
       },
-      "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT25M",
-      "cookTime": "PT1H15M",
-      "totalTime": "PT1H40M",
-      "recipeYield": "1 meatloaf",
-      "recipeIngredient": [
-        "1½ lb lean ground hamburger",
-        "½ tsp garlic salt",
-        "½ cup fine bread crumbs",
-        "1 tsp onion powder",
-        "1 egg",
-        "1 can (8 oz) tomato sauce",
-        "¼ cup parsley flakes",
-        "½ cup finely chopped onion",
-        "1 tsp salt",
-        "1 cup shredded cheddar cheese",
-        "⅛ tsp pepper",
-        "½ tsp seasoning salt",
-        "½ cup sweet pickle relish"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a mixing bowl, combine ground beef, egg, bread crumbs, garlic salt, onion powder, salt, pepper, and seasoning salt. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix chopped onion and tomato sauce together in a separate bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add half of the tomato sauce and onion mixture to the beef mixture and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pack half of the beef mixture into a loaf pan."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese and sweet pickle relish evenly over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pack the remaining beef mixture on top and press firmly."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a preheated oven at 350°F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Carefully spoon off excess fat from the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the remaining tomato sauce and onion mixture over the meatloaf."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
-        }
-      ],
-      "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
-      "_naturalized_times": {
-        "prepTime": "25 minutes",
-        "cookTime": "1 hour 15 minutes",
-        "totalTime": "1 hour 40 minutes"
-      },
-      "url": "cheeseburger-meat-loaf-157",
-      "similarity": "0.7490"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheesy Meat Loaf",
-      "author": {
-        "@type": "Person",
-        "name": "Pam Allen"
-      },
-      "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
-      "recipeYield": "1 loaf",
-      "recipeIngredient": [
-        "1 lb ground beef",
-        "¾ cup bread crumbs",
-        "1 beaten egg",
-        "½ cup chopped onions",
-        "¼ cup chopped green pepper",
-        "¼ cup ketchup",
-        "¾ tsp salt",
-        "1 cup cheese, cut into small cubes",
-        "⅛ tsp pepper",
-        "Chili sauce (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour."
-        }
-      ],
-      "keywords": "meat loaf, cheesy, ground beef, baked",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
-      },
-      "url": "cheesy-meat-loaf-153",
-      "similarity": "0.7244"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheese Ball",
-      "author": {
-        "@type": "Person",
-        "name": "Loma Finkbeiner"
-      },
-      "description": "A classic cheese ball made with grated cheese, Cheez Whiz, and deviled ham, perfect for a quick appetizer.",
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
       "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
+      "prepTime": "PT10M",
       "cookTime": "PT0M",
-      "totalTime": "PT15M",
-      "recipeYield": "2 cheese balls",
+      "totalTime": "PT10M",
       "recipeIngredient": [
-        "2 cups grated old cheese",
-        "1 tsp Worcestershire sauce",
-        "1/2 cup butter",
-        "1 cup Cheez Whiz",
-        "1 (3 oz) can deviled ham",
-        "Chopped pecans or parsley flakes for coating"
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Beat all ingredients in a mixer until creamed."
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Form into 2 balls and wrap in Saran Wrap."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Refrigerate until firm."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll into chopped pecans or parsley flakes to coat."
+          "text": "Serve with crackers."
         }
       ],
-      "keywords": "cheese ball, party appetizer, easy snack",
+      "keywords": "crab dip, seafood dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
+        "prepTime": "10 minutes",
         "cookTime": "",
-        "totalTime": "15 minutes"
+        "totalTime": "10 minutes"
       },
-      "url": "cheese-ball-2",
-      "similarity": "0.7127"
+      "url": "crab-dip-20",
+      "similarity": "0.7156"
     },
     {
       "@context": "https://schema.org/",
@@ -351,7 +210,121 @@
         "totalTime": "10 minutes"
       },
       "url": "nacho-dip-29",
-      "similarity": "0.7113"
+      "similarity": "0.6972"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Fiesta Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A layered dip featuring cottage cheese, cream cheese, and taco seasoning, topped with lettuce, tomatoes, and cheddar cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "1 large bowl",
+      "recipeIngredient": [
+        "2 cups cottage cheese",
+        "1 pkg taco seasoning",
+        "2 cups cream cheese",
+        "1½ to 2 cups grated cheddar cheese",
+        "½ small head lettuce, shredded",
+        "3 medium tomatoes, diced",
+        "Large bag tortilla chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix cottage cheese, cream cheese, and taco seasoning together in a blender until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the mixture in a large bowl lined with Saran Wrap and refrigerate covered for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the dip from the bowl by tipping it onto a platter or large plate and peeling off the Saran Wrap."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dip with shredded lettuce, then diced tomatoes, and finally grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Surround with tortilla chips and serve."
+        }
+      ],
+      "keywords": "layered dip, nacho fiesta, taco seasoning, cheesy dip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "nacho-fiesta-dip-28",
+      "similarity": "0.6880"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab & Cheese Platter",
+      "author": {
+        "@type": "Person",
+        "name": "Dob (Finkboiner) Lord"
+      },
+      "description": "A layered seafood appetizer featuring a creamy cheese base topped with cocktail sauce and crab meat.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 platter",
+      "recipeIngredient": [
+        "2 large packages (8 oz each) cream cheese",
+        "2 Tbsp onion flakes",
+        "1 large bottle seafood cocktail sauce",
+        "2 Tbsp lemon juice",
+        "2 Tbsp Worcestershire sauce",
+        "1 can crab meat",
+        "2 Tbsp mayonnaise"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, lemon juice, Worcestershire sauce, mayonnaise and onion flakes in a blender, or beat with an electric mixer, until smooth and creamy."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cheese mixture evenly over the surface of a large round platter, leaving room around the outside for a row of crackers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Press the centre of the cheese mixture down lightly to make a slightly raised border, about ½ to 1 in wide, around the outer edge."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread seafood cocktail sauce over the cheese layer within this border, leaving an outside rim of the cheese layer showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the crab meat and spread it over the sauce layer, again leaving a border of seafood sauce showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers or vegetables."
+        }
+      ],
+      "keywords": "crab dip, layered platter, seafood appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-cheese-platter-7",
+      "similarity": "0.6764"
     }
   ]
 }

@@ -125,7 +125,7 @@
         "totalTime": "1 hour 30 minutes"
       },
       "url": "sweet-sour-meatballs-161",
-      "similarity": "0.8517"
+      "similarity": "0.8335"
     },
     {
       "@context": "https://schema.org/",
@@ -188,7 +188,7 @@
         "totalTime": "55 minutes"
       },
       "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.8404"
+      "similarity": "0.8249"
     },
     {
       "@context": "https://schema.org/",
@@ -260,7 +260,7 @@
         "totalTime": "45 minutes"
       },
       "url": "swedish-meatballs-162",
-      "similarity": "0.8311"
+      "similarity": "0.7849"
     },
     {
       "@context": "https://schema.org/",
@@ -344,81 +344,84 @@
         "totalTime": "1 hour 25 minutes"
       },
       "url": "meatball-pasta-stew-179",
-      "similarity": "0.8010"
+      "similarity": "0.7400"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sloppy Joe Squares",
+      "name": "Baked Spaghetti and Meatballs",
       "author": {
         "@type": "Person",
-        "name": "Deb (Finkbeiner) Lord"
+        "name": "Dave MacLeod"
       },
-      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
+      "description": "A hearty baked pasta dish featuring meatballs, spaghetti, and a rich tomato-based sauce topped with melted mozzarella cheese.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT25M",
-      "totalTime": "PT45M",
-      "recipeYield": "8 servings",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT30M",
+      "cookTime": "PT35M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 to 6 servings",
       "recipeIngredient": [
-        "1 lb ground beef",
-        "1 small onion, minced",
-        "1/2 tsp Worcestershire sauce",
-        "3/4 cup ketchup",
-        "1 tsp salt",
-        "1/2 tsp pepper",
-        "1/4 tsp chili powder",
-        "2 Tbsp flour",
-        "2 packages Pillsbury crescent dinner rolls",
-        "Mozzarella cheese"
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, finely chopped",
+        "1 egg",
+        "3 splashes Worcestershire sauce",
+        "½ tsp black pepper",
+        "28 oz can diced tomatoes",
+        "10 oz can chopped mushrooms",
+        "½ cup chopped green pepper (optional)",
+        "½ tsp oregano",
+        "1 cup sour cream",
+        "Broken spaghetti (4 to 6 servings)",
+        "1½ cups grated mozzarella cheese",
+        "24 oz can spaghetti sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
+          "text": "Preheat oven to 350°F and start boiling water for cooking spaghetti."
         },
         {
           "@type": "HowToStep",
-          "text": "Blend in flour to thicken the mixture."
+          "text": "In a large bowl, mix ground beef, chopped onion, egg, Worcestershire sauce, and black pepper. Form into meatballs."
         },
         {
           "@type": "HowToStep",
-          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
+          "text": "Fry the meatballs in a skillet until completely cooked, turning gently with tongs. Drain off excess fat."
         },
         {
           "@type": "HowToStep",
-          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
+          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, green pepper, and oregano to the skillet. Simmer for approximately 15 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the beef mixture evenly over the layer of rolls."
+          "text": "Cook spaghetti until 'al dente', then rinse and drain."
         },
         {
           "@type": "HowToStep",
-          "text": "Top the beef mixture with mozzarella cheese."
+          "text": "Combine cooked spaghetti with sour cream."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
+          "text": "Pour the spaghetti mixture into a greased 6-cup casserole dish. Sprinkle with half of the shredded mozzarella cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F until the crescent rolls are browned."
+          "text": "Cover with the sauce and meatball mixture. Bake, uncovered, at 350°F for approximately 20 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Serve with a salad."
+          "text": "Top with remaining cheese and bake for an additional 5 to 10 minutes, or until the cheese is melted."
         }
       ],
-      "keywords": "sloppy joe, casserole, crescent rolls, beef",
+      "keywords": "baked spaghetti, meatballs, Italian-American casserole",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "45 minutes"
+        "prepTime": "30 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "1 hour 5 minutes"
       },
-      "url": "sloppy-joe-squares-185",
-      "similarity": "0.7576"
+      "url": "baked-spaghetti-and-meatballs-176",
+      "similarity": "0.7164"
     }
   ]
 }

@@ -60,52 +60,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheesy Meat Loaf",
-      "author": {
-        "@type": "Person",
-        "name": "Pam Allen"
-      },
-      "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
-      "recipeYield": "1 loaf",
-      "recipeIngredient": [
-        "1 lb ground beef",
-        "¾ cup bread crumbs",
-        "1 beaten egg",
-        "½ cup chopped onions",
-        "¼ cup chopped green pepper",
-        "¼ cup ketchup",
-        "¾ tsp salt",
-        "1 cup cheese, cut into small cubes",
-        "⅛ tsp pepper",
-        "Chili sauce (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour."
-        }
-      ],
-      "keywords": "meat loaf, cheesy, ground beef, baked",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
-      },
-      "url": "cheesy-meat-loaf-153",
-      "similarity": "0.8569"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Cheeseburger Meat Loaf",
       "author": {
         "@type": "Person",
@@ -186,7 +140,53 @@
         "totalTime": "1 hour 40 minutes"
       },
       "url": "cheeseburger-meat-loaf-157",
-      "similarity": "0.8369"
+      "similarity": "0.8739"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheesy Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Pam Allen"
+      },
+      "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "1 loaf",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "¾ cup bread crumbs",
+        "1 beaten egg",
+        "½ cup chopped onions",
+        "¼ cup chopped green pepper",
+        "¼ cup ketchup",
+        "¾ tsp salt",
+        "1 cup cheese, cut into small cubes",
+        "⅛ tsp pepper",
+        "Chili sauce (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "meat loaf, cheesy, ground beef, baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "cheesy-meat-loaf-153",
+      "similarity": "0.8498"
     },
     {
       "@context": "https://schema.org/",
@@ -264,64 +264,7 @@
         "totalTime": "1 hour 35 minutes"
       },
       "url": "jelly-roll-style-meat-loaf-154",
-      "similarity": "0.8335"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cheese Dip in a Bread Bowl",
-      "author": {
-        "@type": "Person",
-        "name": "Sherri Haugh"
-      },
-      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "1 bread bowl",
-      "recipeIngredient": [
-        "1 round bread loaf",
-        "1½ cups chopped ham",
-        "1 (8 oz) package cream cheese",
-        "1½ cups sour cream",
-        "½ cup chopped green pepper",
-        "½ cup chopped green onion",
-        "2 cups shredded cheddar cheese",
-        "1 shake Tabasco sauce",
-        "1 shake Worcestershire sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
-        }
-      ],
-      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
-      },
-      "url": "cheese-dip-in-a-bread-bowl-4",
-      "similarity": "0.6814"
+      "similarity": "0.8075"
     },
     {
       "@context": "https://schema.org/",
@@ -384,7 +327,82 @@
         "totalTime": "55 minutes"
       },
       "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "similarity": "0.6773"
+      "similarity": "0.6205"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburger Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "hamburger-pie-169",
+      "similarity": "0.5970"
     }
   ]
 }

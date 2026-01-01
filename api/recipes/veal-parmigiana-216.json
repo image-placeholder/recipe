@@ -122,234 +122,203 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "parmesan-chicken-239",
-      "similarity": "0.7171"
+      "similarity": "0.7158"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Jelly Roll Style Meat Loaf",
+      "name": "Lasagna",
       "author": {
         "@type": "Person",
-        "name": "Barbara Ratz"
+        "name": "Mary Kenney"
       },
-      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H15M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "1 loaf",
-      "recipeIngredient": [
-        "½ lb ground beef",
-        "3 cups shredded mozzarella cheese",
-        "1 beaten egg",
-        "½ cup cracker crumbs or dry bread crumbs",
-        "½ tsp basil",
-        "1 clove garlic, minced",
-        "½ cup minced onion",
-        "1 tsp salt",
-        "⅛ tsp pepper",
-        "2 (8 oz) cans tomato sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add ground beef and mix thoroughly with hands until just combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain off fat and pour reserved tomato sauce on the roll."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for an additional 15 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand for 10 to 15 minutes before slicing."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Decorate with tomato slices and green parsley on a serving tray."
-        }
-      ],
-      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour 15 minutes",
-        "totalTime": "1 hour 35 minutes"
-      },
-      "url": "jelly-roll-style-meat-loaf-154",
-      "similarity": "0.6701"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Pizza Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Ann Haist"
-      },
-      "description": "A hearty pizza-inspired casserole with pasta, pepperoni, and mozzarella cheese.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "Italian-American",
       "prepTime": "PT20M",
       "cookTime": "PT30M",
       "totalTime": "PT50M",
+      "recipeYield": "1 9x13 inch pan",
       "recipeIngredient": [
-        "2 tsp margarine",
-        "2 cups tiny shell pasta",
-        "1 medium onion, chopped",
-        "2 1/2 qt boiling water",
-        "1 Tbsp oil",
-        "2 tsp salt",
-        "2 (7 1/2 oz) cans tomato sauce",
-        "10 oz can mushrooms, drained",
-        "3 Tbsp Parmesan cheese",
-        "1 tsp oregano",
-        "1 tsp basil",
-        "1 1/2 cups pepperoni slices",
-        "3 cups mozzarella cheese"
+        "1 (15 oz) container cottage cheese",
+        "1 (16 oz) box lasagna noodles",
+        "1½ cups water",
+        "2 (15 oz) jars spaghetti sauce",
+        "8 oz mozzarella cheese, thinly sliced",
+        "½ cup grated Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Melt margarine and sauté chopped onion until soft."
+          "text": "Combine cottage cheese and Parmesan cheese in a bowl."
         },
         {
           "@type": "HowToStep",
-          "text": "Add tomato sauce, mushrooms, oregano, and basil. Stir and remove from heat."
+          "text": "Spread 1½ cups of spaghetti sauce in the bottom of a 13x9x2 inch pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook pasta in boiling water with oil and salt for 8 to 10 minutes until tender but firm. Drain."
+          "text": "Arrange a layer of uncooked lasagna noodles on top of the sauce, overlapping slightly."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine cooked pasta with Parmesan cheese and 1 cup mozzarella cheese in a 3-quart casserole."
+          "text": "Sprinkle half of the mozzarella cheese and half of the cottage cheese mixture over the noodles."
         },
         {
           "@type": "HowToStep",
-          "text": "Scatter pepperoni slices over the pasta mixture."
+          "text": "Repeat with another layer of sauce, noodles, and the remaining cheeses."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover with the tomato-onion sauce and sprinkle with remaining mozzarella cheese."
+          "text": "Cover the top with sauce and cover tightly with heavy foil."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake, uncovered, in a 350°F oven for 30 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Set on a jelly roll pan and bake."
         }
       ],
-      "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese",
+      "keywords": "lasagna, Italian-American, pasta bake",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "pizza-casserole-171",
-      "similarity": "0.6528"
+      "url": "lasagna-192",
+      "similarity": "0.5866"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Pizza Casserole",
+      "name": "Greek Salad",
       "author": {
         "@type": "Person",
-        "name": "June Schroeder"
+        "name": "Barbara Robertson"
       },
-      "description": "A hearty pizza casserole made with spaghetti, hamburger, pepperoni, and mozzarella cheese.",
+      "description": "A refreshing Greek salad with marinated tomatoes, mixed greens, feta cheese, and a homemade dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Greek",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "Marinated Tomatoes:",
+        "¼ cup olive oil",
+        "2 Tbsp red wine vinegar",
+        "1 tsp anchovy paste",
+        "Salt, pepper, pinch of cayenne",
+        "1 clove garlic, crushed",
+        "4 large ripe tomatoes",
+        "Salad:",
+        "6 cups greens",
+        "2 green onions, sliced",
+        "⅓ cup black olives",
+        "1 green pepper",
+        "1 cup feta cheese",
+        "Dressing:",
+        "1 clove garlic, minced",
+        "1 Tbsp red wine vinegar",
+        "¼ cup olive oil",
+        "½ tsp granulated sugar",
+        "1 tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "To Marinate Tomatoes: Cut tomatoes in halves or quarters. Squeeze out seeds and juice and cut into bite-size pieces. Whisk marinade together, stir in tomatoes, and let stand for at least 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To Make Dressing: Place garlic, vinegar, and seasonings in a blender and whirl to blend. While still whirling, gradually drizzle in the oil. Add anchovies. Can be used immediately or covered and refrigerated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To Complete Salad: Mix greens, onions, olives, pepper, and cheese. Add marinated tomatoes. Toss and drizzle dressing over salad. Add croutons if desired."
+        }
+      ],
+      "keywords": "Greek salad, marinated tomatoes, feta cheese, homemade dressing",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "greek-salad-69",
+      "similarity": "0.5729"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Turkey",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
       "recipeCategory": "Main Course",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT30M",
       "totalTime": "PT50M",
-      "recipeYield": "1 9x13 inch pan",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "8 or 7 oz spaghetti",
-        "1 lb hamburger",
-        "1/2 cup chopped onion",
-        "2 Tbsp margarine or butter",
-        "2 eggs, beaten",
-        "1/3 cup grated Parmesan cheese",
-        "1 (32 oz) jar spaghetti sauce",
-        "1 pkg (3 oz) pepperoni, sliced",
-        "4 cups diced mozzarella cheese",
-        "1 tsp dried oregano leaves",
-        "1 tsp cooking oil or olive oil",
-        "Salt to taste"
+        "1 tsp ground coriander",
+        "1½ tsp vegetable oil",
+        "¼ tsp salt",
+        "1 large chopped onion",
+        "½ tsp ground cumin",
+        "1 large chopped green pepper",
+        "¼ tsp cinnamon",
+        "2 chopped garlic cloves",
+        "2 to 3 Tbsp chili powder",
+        "1⅓ lb ground turkey",
+        "1 can red kidney beans",
+        "1¾ cups chicken broth",
+        "6 oz whole wheat spaghetti",
+        "3 tsp tomato paste",
+        "½ cup shredded cheese",
+        "1½ tsp dried oregano"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook spaghetti as per package instructions and drain."
+          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "In a bowl, combine cooked spaghetti, margarine or butter, eggs, and Parmesan cheese."
+          "text": "Add garlic and cook for 1 minute."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the spaghetti mixture in a greased 9x13 inch pan."
+          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Brown hamburger and onion in a skillet and spoon over the spaghetti mixture."
+          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread spaghetti sauce over the hamburger mixture and cover with mozzarella cheese."
+          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle with oregano and drizzle with oil."
+          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange pepperoni slices on top."
+          "text": "Cook the pasta as directed."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in a preheated 350°F oven for 20 to 30 minutes."
+          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
         }
       ],
-      "keywords": "pizza casserole, spaghetti, hamburger, pepperoni",
+      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "pizza-casserole-202",
-      "similarity": "0.6528"
+      "url": "chili-turkey-247",
+      "similarity": "0.5571"
     },
     {
       "@context": "https://schema.org/",
@@ -413,7 +382,7 @@
         "totalTime": "30 minutes"
       },
       "url": "veggie-pizza-47",
-      "similarity": "0.6452"
+      "similarity": "0.5560"
     }
   ]
 }

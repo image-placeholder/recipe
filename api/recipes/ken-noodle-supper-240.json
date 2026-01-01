@@ -67,63 +67,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Ginger Noodle Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A flavorful and aromatic Asian-inspired soup featuring pork, ginger, and rice stick noodles in a savory chicken broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Asian",
-      "prepTime": "PT15M",
-      "cookTime": "PT10M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 pork chop, sliced into small pieces",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 Tbsp chopped ginger root",
-        "2 Tbsp soy sauce",
-        "4 cups chicken stock",
-        "1/3 cup hoisin sauce",
-        "1 carrot, shredded",
-        "1/2 cup sliced mushrooms",
-        "1 cup rice stick noodles",
-        "1 green onion, thinly sliced",
-        "1/2 cup bean sprouts",
-        "4 sprigs coriander (cilantro)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a saucepan brown pork over medium heat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add onion, garlic, ginger, hoisin sauce and soy sauce. Cook for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add rest of ingredients, bring to a boil, reduce heat and simmer 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Garnish with green onion and coriander."
-        }
-      ],
-      "keywords": "ginger noodle soup, Asian soup, pork soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "ginger-noodle-soup-114",
-      "similarity": "0.7893"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Noodles with Hamburg",
       "author": {
         "@type": "Person",
@@ -186,7 +129,7 @@
         "totalTime": "40 minutes"
       },
       "url": "noodles-with-hamburg-166",
-      "similarity": "0.7808"
+      "similarity": "0.7265"
     },
     {
       "@context": "https://schema.org/",
@@ -260,72 +203,64 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "similarity": "0.7770"
+      "similarity": "0.6756"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chinese Hamburger Casserole",
+      "name": "Ginger Noodle Soup",
       "author": {
         "@type": "Person",
-        "name": "Meredith Mary"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "Chinese-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H20M",
-      "recipeYield": "6 to 8 servings",
+      "description": "A flavorful and aromatic Asian-inspired soup featuring pork, ginger, and rice stick noodles in a savory chicken broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Asian",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "1 lb hamburger",
-        "½ cup warm water",
-        "½ cup uncooked rice",
-        "2 medium onions, chopped",
-        "1 cup sliced celery",
-        "1 can cream of mushroom soup",
-        "1 can cream of chicken soup (optional)",
-        "1 can mushrooms, drained",
-        "¼ cup soya sauce",
-        "¼ tsp pepper",
-        "1 tsp salt",
-        "1 cup bean sprouts (optional)",
-        "1 handful chow mein noodles"
+        "1 pork chop, sliced into small pieces",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 Tbsp chopped ginger root",
+        "2 Tbsp soy sauce",
+        "4 cups chicken stock",
+        "1/3 cup hoisin sauce",
+        "1 carrot, shredded",
+        "1/2 cup sliced mushrooms",
+        "1 cup rice stick noodles",
+        "1 green onion, thinly sliced",
+        "1/2 cup bean sprouts",
+        "4 sprigs coriander (cilantro)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
+          "text": "In a saucepan brown pork over medium heat."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
+          "text": "Add onion, garlic, ginger, hoisin sauce and soy sauce. Cook for 2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Add bean sprouts if using for a more authentic taste."
+          "text": "Add rest of ingredients, bring to a boil, reduce heat and simmer 10 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
+          "text": "Garnish with green onion and coriander."
         }
       ],
-      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
+      "keywords": "ginger noodle soup, Asian soup, pork soup",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 20 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "chinese-hamburger-casserole-174",
-      "similarity": "0.7651"
+      "url": "ginger-noodle-soup-114",
+      "similarity": "0.6744"
     },
     {
       "@context": "https://schema.org/",
@@ -394,7 +329,60 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "creamy-chicken-stew-252",
-      "similarity": "0.7563"
+      "similarity": "0.6570"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburg Noodle Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Grace Yearley"
+      },
+      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "1 can cream of mushroom soup",
+        "1 medium onion",
+        "2 cans sliced mushrooms, drained",
+        "1 jar Ragu (700 mL)",
+        "1 pkg cooked elbow macaroni",
+        "1 can cream of celery soup",
+        "1 can cream of chicken soup",
+        "1 cup shredded mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef and onion, then add the mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the cheese is melted."
+        }
+      ],
+      "keywords": "casserole, ground beef, noodle dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "hamburg-noodle-casserole-172",
+      "similarity": "0.6331"
     }
   ]
 }

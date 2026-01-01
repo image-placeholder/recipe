@@ -96,66 +96,113 @@
         "totalTime": "1 hour"
       },
       "url": "ham-casserole-200",
-      "similarity": "0.7221"
+      "similarity": "0.6569"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheesy Ham Chowder",
+      "name": "Ham & Potato Casserole",
       "author": {
         "@type": "Person",
-        "name": "Ruth Haines"
+        "name": "Shelley Kinsman"
       },
-      "description": "A creamy, cheesy ham chowder with potatoes, carrots, and corn, finished with crispy bacon.",
-      "recipeCategory": "Soup",
+      "description": "A layered ham, potato, and cheese casserole cooked in a slow cooker.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT40M",
-      "totalTime": "PT1H",
-      "recipeYield": "10 servings",
+      "cookTime": "PT8H",
+      "totalTime": "PT8H20M",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "10 strips bacon, diced",
-        "1 large onion, chopped",
-        "2 tsp chicken bouillon granules",
-        "1 cup diced carrots",
-        "3 Tbsp all-purpose flour",
-        "3 cups (12 oz) shredded cheddar cheese",
-        "3 cups milk",
-        "1½ cups water",
-        "2 cups fully cooked, cubed ham",
-        "2½ cups cubed potatoes",
-        "1 can (15 oz) corn, drained"
+        "8 slices ham",
+        "8 to 10 medium potatoes, sliced",
+        "2 onions, sliced thin",
+        "1 cup grated cheese",
+        "Salt and pepper to taste",
+        "Cream of mushroom or celery soup",
+        "Paprika"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a large soup kettle or Dutch oven, cook the bacon over medium heat until crisp. Remove to paper towels to drain."
+          "text": "Put half of the ham, potatoes, onions, cheese, salt, and pepper in a slow cooker."
         },
         {
           "@type": "HowToStep",
-          "text": "In the bacon drippings, sauté the chopped onion until tender."
+          "text": "Add the remaining half of the ingredients for the second layer."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in the flour until blended. Gradually add the milk and water, bringing to a boil. Cook and stir for 2 minutes or until thickened."
+          "text": "Top with soup and sprinkle with paprika."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the potatoes, corn, bouillon granules, and pepper. Reduce heat and simmer, uncovered, for 20 minutes or until potatoes are tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the shredded cheese and cubed ham; heat until cheese is melted. Stir in the cooked bacon."
+          "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
         }
       ],
-      "keywords": "ham chowder, cheesy soup, comfort food",
+      "keywords": "ham, potato, casserole, slow cooker",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "40 minutes",
-        "totalTime": "1 hour"
+        "cookTime": "8 hours",
+        "totalTime": "8 hours 20 minutes"
       },
-      "url": "cheesy-ham-chowder-116",
-      "similarity": "0.7049"
+      "url": "ham-potato-casserole-209",
+      "similarity": "0.6514"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Glazed Cottage Roll",
+      "author": {
+        "@type": "Person",
+        "name": "Rosemary Stewart"
+      },
+      "description": "A sweet and savory glazed cottage roll baked with a mustard and brown sugar crust.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H15M",
+      "totalTime": "PT2H35M",
+      "recipeYield": "1 glazed cottage roll",
+      "recipeIngredient": [
+        "1 sweet pickled cottage roll",
+        "1 clove garlic, crushed",
+        "1 bay leaf",
+        "3 Tsp prepared mustard",
+        "6 whole cloves",
+        "3 Tbsp brown sugar",
+        "1 onion, quartered"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Remove outer wrapper from cottage roll. Place in large saucepan and cover with water. Add bay leaf, cloves, garlic and onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, cover pan and reduce heat to simmer. Cook for 1½ to 2 hours or until meat thermometer registers 170°F (75°C)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lift meat from water and remove netting. Place in shallow pan or casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend mustard and brown sugar together. Spread over cottage roll."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in 425°F (220°C) oven for 15 minutes, basting occasionally, until glaze is set."
+        }
+      ],
+      "keywords": "glazed cottage roll, baked ham, sweet glaze",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours 15 minutes",
+        "totalTime": "2 hours 35 minutes"
+      },
+      "url": "glazed-cottage-roll-198",
+      "similarity": "0.6374"
     },
     {
       "@context": "https://schema.org/",
@@ -208,58 +255,7 @@
         "totalTime": "1 hour 25 minutes"
       },
       "url": "crunchy-top-ham-and-potato-casserole-197",
-      "similarity": "0.7035"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Ham & Potato Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Shelley Kinsman"
-      },
-      "description": "A layered ham, potato, and cheese casserole cooked in a slow cooker.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT8H",
-      "totalTime": "PT8H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "8 slices ham",
-        "8 to 10 medium potatoes, sliced",
-        "2 onions, sliced thin",
-        "1 cup grated cheese",
-        "Salt and pepper to taste",
-        "Cream of mushroom or celery soup",
-        "Paprika"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Put half of the ham, potatoes, onions, cheese, salt, and pepper in a slow cooker."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining half of the ingredients for the second layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with soup and sprinkle with paprika."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
-        }
-      ],
-      "keywords": "ham, potato, casserole, slow cooker",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "8 hours",
-        "totalTime": "8 hours 20 minutes"
-      },
-      "url": "ham-potato-casserole-209",
-      "similarity": "0.6789"
+      "similarity": "0.6281"
     },
     {
       "@context": "https://schema.org/",
@@ -326,7 +322,7 @@
         "totalTime": "2 hours"
       },
       "url": "pork-chop-rice-casserole-211",
-      "similarity": "0.6540"
+      "similarity": "0.6033"
     }
   ]
 }

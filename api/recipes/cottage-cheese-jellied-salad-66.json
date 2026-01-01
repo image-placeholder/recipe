@@ -106,103 +106,7 @@
         "totalTime": "20 minutes"
       },
       "url": "party-time-salad-77",
-      "similarity": "0.7712"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Orange Jello Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Betty Macisaac"
-      },
-      "description": "A simple orange Jello salad with mandarin oranges and Dream Whip.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT5M",
-      "totalTime": "PT20M",
-      "recipeYield": "1 serving",
-      "recipeIngredient": [
-        "1½ cups hot water",
-        "1 small package orange Jello",
-        "1 small package Dream Whip (not pudding or instant vanilla)",
-        "1 can mandarin oranges"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Put the first 3 ingredients into a saucepan and cook until clear."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cool the mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix Dream Whip according to package instructions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Drain oranges and add Dream Whip and oranges to the cooled mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Allow to cool completely before serving."
-        }
-      ],
-      "keywords": "orange Jello salad, mandarin oranges, Dream Whip",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "orange-jello-salad-75",
-      "similarity": "0.7489"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Lemon Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Mona Hamilton"
-      },
-      "description": "A light and fluffy lemon Jello dessert mixed with whipped Dream Whip.",
-      "recipeCategory": "Dessert",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "recipeYield": "1 serving",
-      "recipeIngredient": [
-        "1 package lemon Jello (85g)",
-        "1 small can frozen lemonade",
-        "1 cup hot water",
-        "¼ cup water",
-        "¼ cup sugar",
-        "1 package Dream Whip Mix"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Dissolve the lemon Jello in hot water with sugar."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add frozen lemonade and ¼ cup water to the Jello mixture and let set."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Whip the Dream Whip Mix and combine with the set Jello."
-        }
-      ],
-      "keywords": "lemon Jello, whipped dessert, Dream Whip",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": null,
-        "totalTime": null
-      },
-      "url": "lemon-salad-80",
-      "similarity": "0.7121"
+      "similarity": "0.7151"
     },
     {
       "@context": "https://schema.org/",
@@ -254,71 +158,167 @@
         "totalTime": "15 minutes"
       },
       "url": "strawberry-tossed-salad-96",
-      "similarity": "0.7072"
+      "similarity": "0.6690"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Surprise Spread",
+      "name": "Club Salad",
       "author": {
         "@type": "Person",
-        "name": "Lori Allen"
+        "name": "Linda Finkbeiner"
       },
-      "description": "A layered seafood dip with shrimp, cocktail sauce, and cheese.",
-      "recipeCategory": "Appetizer",
+      "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "recipeYield": "1 large platter",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "1 large bowl",
       "recipeIngredient": [
-        "8 oz cream cheese, softened",
-        "½ cup sour cream",
-        "¼ cup mayonnaise",
-        "3 (4 oz) cans small shrimp, rinsed and drained",
-        "2 cups seafood cocktail sauce",
-        "2 cups shredded mozzarella cheese",
-        "1 green pepper, chopped",
-        "3 green onions, chopped",
-        "1 tomato, diced (optional)",
-        "Tortilla chips or assorted crackers for serving"
+        "7 cups romaine lettuce",
+        "1 cup crisp cooked bacon, chopped",
+        "1 cup chopped hard-boiled eggs",
+        "¾ cup ranch or dip dressing",
+        "¾ cup grated cheese (marble, cheddar, etc.)",
+        "1 cup cooked chicken breast, diced",
+        "½ cup grated carrots",
+        "1 cup diced tomatoes"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix the cream cheese, sour cream, and mayonnaise together until smooth."
+          "text": "Mix all ingredients in a large bowl, layering each ingredient to look festive."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread this mixture in the bottom of a deep pie plate, pizza pan, or shallow baking dish."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Scatter the shrimp over the top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover with the seafood cocktail sauce."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add layers of mozzarella cheese, green pepper, and green onions."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with diced tomatoes if desired."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until ready to serve with tortilla chips or crackers."
+          "text": "Top with dressing."
         }
       ],
-      "keywords": "layered shrimp dip, seafood spread, party dip",
+      "keywords": "layered salad, club salad, ranch dressing",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "url": "club-salad-68",
+      "similarity": "0.6399"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lemon Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Mona Hamilton"
+      },
+      "description": "A light and fluffy lemon Jello dessert mixed with whipped Dream Whip.",
+      "recipeCategory": "Dessert",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1 package lemon Jello (85g)",
+        "1 small can frozen lemonade",
+        "1 cup hot water",
+        "¼ cup water",
+        "¼ cup sugar",
+        "1 package Dream Whip Mix"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve the lemon Jello in hot water with sugar."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add frozen lemonade and ¼ cup water to the Jello mixture and let set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whip the Dream Whip Mix and combine with the set Jello."
+        }
+      ],
+      "keywords": "lemon Jello, whipped dessert, Dream Whip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
         "cookTime": null,
         "totalTime": null
       },
-      "url": "surprise-spread-11",
-      "similarity": "0.6812"
+      "url": "lemon-salad-80",
+      "similarity": "0.6355"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Bacon Broccoli Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Meghan Brand"
+        },
+        {
+          "@type": "Person",
+          "name": "Mona Hamilton"
+        },
+        {
+          "@type": "Person",
+          "name": "Alwinna Galloway"
+        },
+        {
+          "@type": "Person",
+          "name": "Thelma Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Linda Nakamura"
+        }
+      ],
+      "description": "A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "3 cups broccoli florets",
+        "½ cup low-fat yogurt",
+        "½ cup chopped red onion",
+        "¼ cup light mayonnaise",
+        "¼ cup sunflower seeds",
+        "½ cup raisins",
+        "2 Tbsp sugar",
+        "1 Tbsp lemon juice",
+        "½ cup crumbled feta cheese",
+        "4 slices cooked bacon, crumbled"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the broccoli, red onion, sunflower seeds, raisins, and crumbled bacon in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the yogurt, mayonnaise, sugar, and lemon juice to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad ingredients and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 2 hours to allow the flavors to meld."
+        }
+      ],
+      "keywords": "broccoli salad, bacon salad, yogurt dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "url": "bacon-broccoli-salad-63",
+      "similarity": "0.6311"
     }
   ]
 }

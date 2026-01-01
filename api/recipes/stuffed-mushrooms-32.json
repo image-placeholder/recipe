@@ -45,63 +45,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Mushroom Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
-      },
-      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT15M",
-      "totalTime": "PT25M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 Tbsp butter",
-        "1 onion, chopped",
-        "3 cloves garlic, minced",
-        "2 cups sliced mushrooms",
-        "1/4 cup flour",
-        "2 cups stock (chicken or vegetable)",
-        "1 Tbsp soya sauce",
-        "1 tsp Worcestershire sauce",
-        "3 cups milk"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Saute butter, onion, garlic and mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add flour and stir together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add stock, sauces and milk."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Simmer until heated through (approximately 15 minutes)."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve hot."
-        }
-      ],
-      "keywords": "mushroom soup, creamy soup, comfort food",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "25 minutes"
-      },
-      "url": "mushroom-soup-113",
-      "similarity": "0.7548"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Crab-Stuffed Mushrooms",
       "author": {
         "@type": "Person",
@@ -161,69 +104,191 @@
         "totalTime": "32 minutes"
       },
       "url": "crab-stuffed-mushrooms-46",
-      "similarity": "0.7192"
+      "similarity": "0.8178"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Turkey A La King",
+      "name": "Mushroom Soup",
       "author": {
         "@type": "Person",
-        "name": "Jean E. Neil"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
-      "recipeCategory": "Main Course",
+      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "⅓ cup butter",
-        "1 tsp salt",
-        "¼ lb mushrooms, sliced",
-        "1 cup chicken broth",
-        "¼ cup chopped onion",
-        "1 cup milk",
-        "2 cups cooked diced turkey",
-        "¼ cup chopped celery",
-        "¼ cup chopped green pepper",
-        "¼ cup flour"
+        "3 Tbsp butter",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 cups sliced mushrooms",
+        "1/4 cup flour",
+        "2 cups stock (chicken or vegetable)",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "3 cups milk"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
+          "text": "Saute butter, onion, garlic and mushrooms."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
+          "text": "Add flour and stir together."
         },
         {
           "@type": "HowToStep",
-          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
+          "text": "Add stock, sauces and milk."
         },
         {
           "@type": "HowToStep",
-          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
+          "text": "Simmer until heated through (approximately 15 minutes)."
         },
         {
           "@type": "HowToStep",
-          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over hot toast, biscuits, or rice."
+          "text": "Serve hot."
         }
       ],
-      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
+      "keywords": "mushroom soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "mushroom-soup-113",
+      "similarity": "0.6435"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheddar Baked Potato Slices",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 medium baking potatoes, cut into ¼ inch slices",
+        "1 can cream of mushroom soup",
+        "½ tsp paprika",
+        "½ tsp pepper",
+        "1 cup shredded cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the soup mixture evenly over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 400,
+            "unitCode": "FAR"
+          },
+          "duration": "PT45M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+        }
+      ],
+      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
       },
-      "url": "turkey-a-la-king-248",
-      "similarity": "0.6947"
+      "url": "cheddar-baked-potato-slices-140",
+      "similarity": "0.6356"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stuffing and Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Beth Clarke"
+      },
+      "description": "A comforting chicken breast casserole with Stove Top stuffing, Swiss cheese, and cream of chicken soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 boned and skinned chicken breast halves",
+        "1⅓ cups Stove Top stuffing",
+        "1 can cream of chicken soup",
+        "4 slices Swiss cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place chicken breasts in a sprayed 8×8 inch casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put a slice of Swiss cheese on top of each breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread 1⅓ cups of dry Stove Top stuffing over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cream of chicken soup over the stuffing layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350 °F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
+        }
+      ],
+      "keywords": "chicken casserole, stuffing, Swiss cheese, comfort food",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "stuffing-and-chicken-242",
+      "similarity": "0.6207"
     },
     {
       "@context": "https://schema.org/",
@@ -274,60 +339,7 @@
         "totalTime": "25 minutes"
       },
       "url": "chicken-and-broccoli-234",
-      "similarity": "0.6840"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Hamburg Noodle Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Grace Yearley"
-      },
-      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "2 lb ground beef",
-        "1 can cream of mushroom soup",
-        "1 medium onion",
-        "2 cans sliced mushrooms, drained",
-        "1 jar Ragu (700 mL)",
-        "1 pkg cooked elbow macaroni",
-        "1 can cream of celery soup",
-        "1 can cream of chicken soup",
-        "1 cup shredded mozzarella cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the ground beef and onion, then add the mushrooms."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake until the cheese is melted."
-        }
-      ],
-      "keywords": "casserole, ground beef, noodle dish",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
-      },
-      "url": "hamburg-noodle-casserole-172",
-      "similarity": "0.6817"
+      "similarity": "0.6068"
     }
   ]
 }

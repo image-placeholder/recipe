@@ -58,6 +58,62 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Easy Curried Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "International",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeIngredient": [
+        "Chicken pieces",
+        "2 cans cream of chicken soup",
+        "¾ cup mayonnaise",
+        "1 tsp curry powder (or to taste)",
+        "Broccoli and carrots, cut into bite-size pieces",
+        "Bread crumbs for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease the bottom of a pan and layer with vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken pieces on top of the vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cream of chicken soup, mayonnaise, and curry powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the soup mixture over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle bread crumbs on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 375°F for 1 hour."
+        }
+      ],
+      "keywords": "curried chicken, creamy chicken, baked chicken casserole",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "easy-curried-chicken-231",
+      "similarity": "0.8071"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Classy Chicken",
       "author": {
         "@type": "Person",
@@ -127,7 +183,61 @@
         "totalTime": "55 minutes"
       },
       "url": "classy-chicken-243",
-      "similarity": "0.7885"
+      "similarity": "0.7689"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Breast",
+      "author": {
+        "@type": "Person",
+        "name": "Sandra Martin"
+      },
+      "description": "A simple breaded chicken breast recipe.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 chicken breasts",
+        "1 cup bread crumbs",
+        "1 tsp garlic powder",
+        "1 egg",
+        "1/2 cup milk",
+        "Salt and seasoning to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash chicken breast."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with garlic powder, salt, and seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip in milk, then egg mixture, then bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 9x13 inch pan at 350°F until golden."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with rice or noodles."
+        }
+      ],
+      "keywords": "chicken breast, breaded chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "chicken-breast-212",
+      "similarity": "0.6982"
     },
     {
       "@context": "https://schema.org/",
@@ -190,156 +300,71 @@
         "totalTime": "25 minutes"
       },
       "url": "lemon-chicken-with-thyme-224",
-      "similarity": "0.7637"
+      "similarity": "0.6975"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Easy Curried Chicken",
+      "name": "Chicken with a Chinese Accent",
       "author": {
         "@type": "Person",
-        "name": "Barbara Robertson"
+        "name": "Suzanne Finkbeiner"
       },
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
       "recipeCategory": "Main Course",
-      "recipeCuisine": "International",
+      "recipeCuisine": "Chinese-American",
       "prepTime": "PT15M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H15M",
-      "recipeIngredient": [
-        "Chicken pieces",
-        "2 cans cream of chicken soup",
-        "¾ cup mayonnaise",
-        "1 tsp curry powder (or to taste)",
-        "Broccoli and carrots, cut into bite-size pieces",
-        "Bread crumbs for topping"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Grease the bottom of a pan and layer with vegetables."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Arrange chicken pieces on top of the vegetables."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Mix cream of chicken soup, mayonnaise, and curry powder."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the soup mixture over the chicken."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Sprinkle bread crumbs on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 375°F for 1 hour."
-        }
-      ],
-      "keywords": "curried chicken, creamy chicken, baked chicken casserole",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 15 minutes"
-      },
-      "url": "easy-curried-chicken-231",
-      "similarity": "0.7600"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Maple Glazed Ribs",
-      "author": {
-        "@type": "Person",
-        "name": "Evelyn Pickering"
-      },
-      "description": "A sweet and savory pork spare ribs recipe glazed with a maple syrup-based sauce.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT2H15M",
-      "totalTime": "PT2H35M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
       "recipeYield": "6 servings",
       "recipeIngredient": [
-        "3 lb pork spare ribs",
-        "1 Tbsp Dijon mustard",
-        "1 cup maple syrup",
-        "1 Tbsp Worcestershire sauce",
-        "3 Tbsp orange juice",
-        "1 tsp curry powder concentrate",
-        "1 garlic clove, minced",
-        "3 Tbsp ketchup",
-        "2 green onions",
-        "2 Tbsp soya sauce"
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cut ribs into serving-size pieces and place in a roasting pan. Cover and bake for 1½ hours or until tender."
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
         },
         {
           "@type": "HowToStep",
-          "text": "Meanwhile, combine the Dijon mustard, maple syrup, Worcestershire sauce, orange juice, curry powder, garlic, ketchup, green onions, and soya sauce in a saucepan. Bring to a boil, then reduce heat and simmer for 15 minutes, stirring occasionally."
+          "text": "Transfer the chicken to a casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Drain the ribs and pour the sauce over them. Bake uncovered for an additional ½ hour, stirring occasionally."
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken with rice."
         }
       ],
-      "keywords": "maple glazed ribs, pork spare ribs, sweet and savory",
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "2 hours 15 minutes",
-        "totalTime": "2 hours 35 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
       },
-      "url": "maple-glazed-ribs-203",
-      "similarity": "0.7295"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Curry Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Linda Finkbeiner"
-      },
-      "description": "A flavorful and spicy dip made with mayonnaise, curry powder, and chili sauce, perfect for serving with snacks.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT1H10M",
-      "recipeYield": "1 bowl",
-      "recipeIngredient": [
-        "1 cup mayonnaise",
-        "1/2 tsp Worcestershire sauce",
-        "1/4 cup chili sauce",
-        "1 tsp curry powder",
-        "1/4 tsp Tabasco",
-        "1/2 tsp chopped onion (optional)",
-        "1 tsp lemon juice"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together in a bowl until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let stand in the fridge for 1 to 2 hours before serving to allow flavors to meld."
-        }
-      ],
-      "keywords": "curry dip, spicy dip, party appetizer",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "url": "curry-dip-14",
-      "similarity": "0.7268"
+      "url": "chicken-with-a-chinese-accent-245",
+      "similarity": "0.6958"
     }
   ]
 }

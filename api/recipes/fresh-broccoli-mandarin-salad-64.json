@@ -125,7 +125,122 @@
         "totalTime": "15 minutes"
       },
       "url": "tossed-berry-mandarin-salad-87",
-      "similarity": "0.7976"
+      "similarity": "0.8242"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mandarin Orange Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic spinach and lettuce salad with mandarin oranges and toasted almonds, dressed with a sweet and tangy homemade vinaigrette.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 bunch romaine lettuce",
+        "1 leaf red tip lettuce",
+        "1 pkg fresh spinach",
+        "4 (10 oz) cans mandarin oranges, drained",
+        "1 cup slivered almonds, toasted",
+        "½ small red onion, chopped",
+        "Dressing:",
+        "½ cup sugar",
+        "¼ cup vinegar",
+        "1 tsp dry mustard",
+        "1 tsp salt",
+        "1 cup vegetable oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and clean the romaine lettuce, red tip lettuce, and spinach. Dry thoroughly and rip into bite-sized pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, combine sugar, vinegar, mustard, and salt. Bring to a boil, then allow to cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Once cooled, blend the dressing mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the prepared lettuce mixture about 10 minutes before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, add the drained mandarin oranges and toasted slivered almonds."
+        }
+      ],
+      "keywords": "mandarin orange salad, spinach salad, homemade dressing",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "url": "mandarin-orange-salad-88",
+      "similarity": "0.8074"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chinese Rice Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A flavorful salad made with Minute Rice, frozen peas, chopped celery, and a savory dressing, optionally garnished with chow mein noodles and shrimp.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeIngredient": [
+        "1⅓ cups cooked Minute Rice",
+        "1 (10 oz) package frozen peas",
+        "1½ cups chopped celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "1 Tbsp soy sauce",
+        "3 tsp malt vinegar",
+        "2 tsp curry powder",
+        "½ tsp sugar",
+        "Dressing: ½ cup oil",
+        "Chow mein noodles for garnish (optional)",
+        "1 can drained shrimp (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked rice, frozen peas, chopped celery, and onion in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the dressing ingredients (oil, soy sauce, malt vinegar, curry powder, salt, and sugar)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the rice mixture and toss to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with chow mein noodles and/or add drained shrimp if desired."
+        }
+      ],
+      "keywords": "Chinese rice salad, savory salad, Minute Rice",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "url": "chinese-rice-salad-81",
+      "similarity": "0.7013"
     },
     {
       "@context": "https://schema.org/",
@@ -197,7 +312,7 @@
         "totalTime": "2 hours 15 minutes"
       },
       "url": "bacon-broccoli-salad-63",
-      "similarity": "0.7778"
+      "similarity": "0.6956"
     },
     {
       "@context": "https://schema.org/",
@@ -248,114 +363,7 @@
         "totalTime": "3 hours 25 minutes"
       },
       "url": "broccoli-supreme-60",
-      "similarity": "0.7695"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mandarin Orange Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Ruth Haines"
-      },
-      "description": "A classic spinach and lettuce salad with mandarin oranges and toasted almonds, dressed with a sweet and tangy homemade vinaigrette.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT0M",
-      "totalTime": "PT20M",
-      "recipeYield": "4-6 servings",
-      "recipeIngredient": [
-        "1 bunch romaine lettuce",
-        "1 leaf red tip lettuce",
-        "1 pkg fresh spinach",
-        "4 (10 oz) cans mandarin oranges, drained",
-        "1 cup slivered almonds, toasted",
-        "½ small red onion, chopped",
-        "Dressing:",
-        "½ cup sugar",
-        "¼ cup vinegar",
-        "1 tsp dry mustard",
-        "1 tsp salt",
-        "1 cup vegetable oil"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Wash and clean the romaine lettuce, red tip lettuce, and spinach. Dry thoroughly and rip into bite-sized pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a saucepan, combine sugar, vinegar, mustard, and salt. Bring to a boil, then allow to cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Once cooled, blend the dressing mixture in a blender until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the dressing over the prepared lettuce mixture about 10 minutes before serving."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Just before serving, add the drained mandarin oranges and toasted slivered almonds."
-        }
-      ],
-      "keywords": "mandarin orange salad, spinach salad, homemade dressing",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "",
-        "totalTime": "20 minutes"
-      },
-      "url": "mandarin-orange-salad-88",
-      "similarity": "0.7560"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Asian Coleslaw",
-      "author": {
-        "@type": "Person",
-        "name": "Dianne Finkbeiner"
-      },
-      "description": "A crunchy Asian-inspired coleslaw with toasted nuts and noodles.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "Asian-American",
-      "prepTime": "PT15M",
-      "cookTime": "PT5M",
-      "totalTime": "PT20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 bag cabbage salad",
-        "1/2 to 6 green onions, chopped",
-        "1/4 cup slivered almonds",
-        "1/4 cup sesame seeds",
-        "1 tsp soya sauce",
-        "1 pkg Mr. Noodle (just noodles)",
-        "2 to 3 Tbsp butter",
-        "Salt and pepper",
-        "1/2 cup canola oil",
-        "1/2 cup red wine vinegar",
-        "1/2 cup sugar"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Brown the first 6 ingredients in a frying pan. Let cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add dressing 1/2 hour before serving."
-        }
-      ],
-      "keywords": "Asian coleslaw, toasted nuts, noodles",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "5 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "asian-coleslaw-61",
-      "similarity": "0.7088"
+      "similarity": "0.6929"
     }
   ]
 }

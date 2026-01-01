@@ -119,7 +119,7 @@
         "totalTime": "50 minutes"
       },
       "url": "beef-and-rice-casserole-168",
-      "similarity": "0.8456"
+      "similarity": "0.8408"
     },
     {
       "@context": "https://schema.org/",
@@ -175,223 +175,236 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "meat-and-potato-casserole-159",
-      "similarity": "0.8034"
+      "similarity": "0.8211"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chili Turkey",
+      "name": "Meatball Pasta Stew",
       "author": {
         "@type": "Person",
-        "name": "Dianne Finkbeiner"
+        "name": "Grace Morlock"
       },
-      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
-      "recipeCategory": "Main Course",
+      "description": "A savory stew with homemade meatballs, pasta, and a rich tomato-based sauce.",
+      "recipeCategory": "Stew",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 Tbsp tomato paste",
+        "1 lb hamburger",
+        "1 can (14 oz) diced tomatoes, undrained",
+        "2 eggs",
+        "¼ to ⅛ cup dry bread crumbs",
+        "1 cup chopped green onion",
+        "¾ tsp thyme",
+        "½ tsp salt",
+        "1½ cups sliced carrots",
+        "1½ cups chopped zucchini",
+        "½ tsp ground mustard",
+        "¼ tsp pepper",
+        "1 cup chopped green pepper",
+        "1 cup chopped red pepper",
+        "1 cup chopped onion",
+        "2 cloves garlic, minced",
+        "2 Tbsp all-purpose flour",
+        "1½ cups canned beef broth",
+        "2 cups cooked spiral pasta",
+        "1 Tbsp parsley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine hamburger, egg, bread crumbs, onion, salt, mustard, and pepper to make meatballs. Shape into 1-inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs on a greased baking sheet and bake at 350°F for 10 to 15 minutes, or until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, cook onion and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir constantly for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add beef broth, stirring constantly until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomato paste, undrained tomatoes, bay leaf, and thyme. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add meatballs, carrots, zucchini, peppers, and parsley. Simmer for 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked pasta and heat until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bay leaf before serving."
+        }
+      ],
+      "keywords": "meatball stew, pasta stew, tomato-based sauce",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 25 minutes"
+      },
+      "url": "meatball-pasta-stew-179",
+      "similarity": "0.7344"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Beef and Potato Bake",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Jefferies"
+      },
+      "description": "A layered casserole featuring ground beef, potatoes, zucchini, and a creamy cheddar sauce.",
+      "recipeCategory": "Casserole",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "1 13x9 inch baking dish",
       "recipeIngredient": [
-        "1 tsp ground coriander",
-        "1½ tsp vegetable oil",
-        "¼ tsp salt",
-        "1 large chopped onion",
-        "½ tsp ground cumin",
-        "1 large chopped green pepper",
-        "¼ tsp cinnamon",
-        "2 chopped garlic cloves",
-        "2 to 3 Tbsp chili powder",
-        "1⅓ lb ground turkey",
-        "1 can red kidney beans",
-        "1¾ cups chicken broth",
-        "6 oz whole wheat spaghetti",
-        "3 tsp tomato paste",
-        "½ cup shredded cheese",
-        "1½ tsp dried oregano"
+        "3 potatoes, peeled and thinly sliced",
+        "1 lb ground beef",
+        "¼ cup butter, divided",
+        "2 Tbsp vegetable oil",
+        "2 small zucchini, sliced",
+        "1 tsp Italian seasoning",
+        "½ cup prepared tomato pasta sauce",
+        "2 cups milk, divided",
+        "¼ cup flour",
+        "1½ cups grated cheddar cheese",
+        "1 onion, chopped",
+        "½ tsp salt",
+        "½ tsp pepper"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+          "text": "Preheat oven to 350°F to 375°F."
         },
         {
           "@type": "HowToStep",
-          "text": "Add garlic and cook for 1 minute."
+          "text": "In a skillet, melt 2 tablespoons butter and oil over medium-low heat. Add potatoes and cook for 5 minutes, stirring frequently."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+          "text": "Add zucchini, salt, and pepper to the skillet. Cook until zucchini is tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+          "text": "Spoon the vegetable mixture into a 13x9 inch baking dish. Set aside."
         },
         {
           "@type": "HowToStep",
-          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+          "text": "In the same skillet, cook onion and Italian seasoning until onion is tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+          "text": "Add ground beef to the skillet and cook until it loses its pink color. Stir in tomato sauce and ½ cup milk."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook the pasta as directed."
+          "text": "Spoon the meat mixture over the vegetable layer in the baking dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+          "text": "Melt remaining butter in the skillet, stir in flour, and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually whisk in remaining milk. Cook and stir until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in cheddar cheese until melted. Pour the sauce over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 20 to 25 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 minutes before serving."
         }
       ],
-      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "keywords": "beef casserole, potato bake, creamy sauce",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
       },
-      "url": "chili-turkey-247",
-      "similarity": "0.7980"
+      "url": "creamy-beef-and-potato-bake-158",
+      "similarity": "0.7153"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Taco Ring",
+      "name": "Barley and Corn Casserole",
       "author": {
         "@type": "Person",
-        "name": "Lorie Valkengoed"
+        "name": "Barbara Robertson"
       },
-      "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT20M",
-      "cookTime": "PT16M",
-      "totalTime": "PT36M",
-      "recipeYield": "1 ring",
-      "recipeIngredient": [
-        "1 lb lean ground hamburger",
-        "1 cup water",
-        "1 packet taco seasoning mix",
-        "2 cups shredded lettuce",
-        "1 cup grated mild cheddar cheese",
-        "1 cup salsa dip",
-        "2 packages Pillsbury crescent rolls",
-        "1 tomato, diced",
-        "1 green pepper (optional)",
-        "Sour cream for serving"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Fry the hamburger and let it cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add shredded cheese on top of the hamburger mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Let cool slightly before serving."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
-        }
-      ],
-      "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "16 minutes",
-        "totalTime": "36 minutes"
-      },
-      "url": "taco-ring-183",
-      "similarity": "0.7706"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Turkey A La King",
-      "author": {
-        "@type": "Person",
-        "name": "Jean E. Neil"
-      },
-      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
-      "recipeCategory": "Main Course",
+      "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
+      "recipeCategory": "Side Dish",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT20M",
-      "totalTime": "PT35M",
-      "recipeYield": "4 servings",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "⅓ cup butter",
-        "1 tsp salt",
-        "¼ lb mushrooms, sliced",
-        "1 cup chicken broth",
-        "¼ cup chopped onion",
-        "1 cup milk",
-        "2 cups cooked diced turkey",
-        "¼ cup chopped celery",
-        "¼ cup chopped green pepper",
-        "¼ cup flour"
+        "1 Tbsp oil",
+        "3 cups vegetable stock",
+        "1 onion, chopped",
+        "2 cups kernel corn (fresh or canned)",
+        "3 cloves garlic, minced",
+        "2 carrots, finely chopped",
+        "Chopped fresh parsley",
+        "1 cup pearl or pot barley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
+          "text": "Heat oil in a heavy casserole. Cook onion, garlic, and carrots until the onion is softened, stirring frequently."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
+          "text": "Stir in barley and cook for 1-2 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
+          "text": "Pour in vegetable stock, cover, and bake at 350 °F for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
+          "text": "Test that barley is tender. Stir in corn and parsley."
         },
         {
           "@type": "HowToStep",
-          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve over hot toast, biscuits, or rice."
+          "text": "Return to the oven to heat through. Season with pepper to taste."
         }
       ],
-      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
+      "keywords": "barley casserole, corn, carrots, comforting side dish",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "35 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
-      "url": "turkey-a-la-king-248",
-      "similarity": "0.7597"
+      "url": "barley-and-corn-casserole-132",
+      "similarity": "0.6841"
     }
   ]
 }

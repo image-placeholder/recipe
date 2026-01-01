@@ -88,7 +88,7 @@
         "totalTime": "5 minutes"
       },
       "url": "caesar-dressin-salad-101",
-      "similarity": "0.7796"
+      "similarity": "0.8293"
     },
     {
       "@context": "https://schema.org/",
@@ -145,158 +145,171 @@
         "totalTime": "8 hours 10 minutes"
       },
       "url": "onion-salad-74",
-      "similarity": "0.7669"
+      "similarity": "0.7606"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Sliced Bean Salad",
+      "name": "Caesar Salad",
       "author": {
         "@type": "Person",
-        "name": "Phyllis Lightfoot"
+        "name": "Valerie (Finkbeiner) Mullin"
       },
-      "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
+      "description": "A classic Caesar salad recipe with romaine lettuce, crumbled bacon, croutons, and a homemade dressing.",
       "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
+      "prepTime": "PT15M",
       "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeYield": "2 to 3 quarts",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "Yellow or green beans",
-        "2 cups white vinegar",
-        "2 cups white sugar",
-        "1 tsp salt",
-        "1½ cups water",
-        "Onion and cream for serving"
+        "1 romaine lettuce",
+        "6 slices bacon, cooked and crumbled",
+        "1 tsp wine vinegar",
+        "½ tsp Worcestershire sauce",
+        "2 shakes Tabasco sauce",
+        "Croutons",
+        "1 egg",
+        "1 tsp capers (optional)",
+        "3 to 4 mashed anchovies",
+        "Dressing (keeps 2 days):",
+        "⅓ cup olive oil",
+        "1 clove garlic, minced",
+        "2 Tbsp lemon",
+        "½ tsp dry mustard",
+        "¼ tsp salt and pepper",
+        "2 Tbsp Parmesan cheese"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Slice the beans and cook until tender enough to pierce with a fork."
+          "text": "Rub salad bowl with garlic."
         },
         {
           "@type": "HowToStep",
-          "text": "Drain the cooked beans and pack them into jars."
+          "text": "Wash and tear lettuce. Dry in a tea towel."
         },
         {
           "@type": "HowToStep",
-          "text": "In a saucepan, bring the sugar, water, vinegar, and salt to a boil to make the syrup."
+          "text": "Place lettuce in bowl with bacon and croutons."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the hot syrup over the beans in the jars."
+          "text": "Blend dressing ingredients together."
         },
         {
           "@type": "HowToStep",
-          "text": "To serve, pour off the liquid and add chopped onion and cream."
+          "text": "Pour dressing over salad and toss until leaves are coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with freshly grated Parmesan."
         }
       ],
-      "keywords": "pickled bean salad, sweet and tangy, preserved beans",
+      "keywords": "Caesar salad, bacon, croutons, homemade dressing",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
+        "prepTime": "15 minutes",
         "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
+        "totalTime": "25 minutes"
       },
-      "url": "sliced-bean-salad-49",
-      "similarity": "0.7343"
+      "url": "caesar-salad-59",
+      "similarity": "0.7385"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Asian Coleslaw",
+      "name": "Spinach Lettuce Salad",
       "author": {
         "@type": "Person",
-        "name": "Dianne Finkbeiner"
+        "name": "Jo Anne Pickering"
       },
-      "description": "A crunchy Asian-inspired coleslaw with toasted nuts and noodles.",
+      "description": "A fresh and versatile green salad with a homemade balsamic dressing and a crunchy topping made from toasted almonds, sesame seeds, and noodle soup mix.",
       "recipeCategory": "Salad",
-      "recipeCuisine": "Asian-American",
+      "recipeCuisine": "American",
       "prepTime": "PT15M",
       "cookTime": "PT5M",
       "totalTime": "PT20M",
-      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1 bag cabbage salad",
-        "1/2 to 6 green onions, chopped",
-        "1/4 cup slivered almonds",
-        "1/4 cup sesame seeds",
-        "1 tsp soya sauce",
-        "1 pkg Mr. Noodle (just noodles)",
-        "2 to 3 Tbsp butter",
-        "Salt and pepper",
-        "1/2 cup canola oil",
-        "1/2 cup red wine vinegar",
-        "1/2 cup sugar"
+        "Dressing: ½ cup balsamic vinegar",
+        "½ cup olive oil",
+        "¼ cup white sugar",
+        "1½ cup soya sauce",
+        "Toppings: 1 Tbsp butter",
+        "1 pkg noodle soup mix (without seasoning packet)",
+        "1 pkg slivered almonds",
+        "1 pkg sesame seeds",
+        "Any type of green leafy vegetable (spinach, lettuce, broccoli, coleslaw)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Brown the first 6 ingredients in a frying pan. Let cool."
+          "text": "Mix the dressing ingredients together and refrigerate until ready to use."
         },
         {
           "@type": "HowToStep",
-          "text": "Add dressing 1/2 hour before serving."
+          "text": "Melt butter in a pan and add almonds, noodle soup mix (without spice packet), and sesame seeds. Toast until lightly browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the salad greens and store in the refrigerator."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, pour the dressing over the salad and top with the toasted almond mixture."
         }
       ],
-      "keywords": "Asian coleslaw, toasted nuts, noodles",
+      "keywords": "spinach salad, lettuce salad, homemade dressing, crunchy topping",
       "_naturalized_times": {
         "prepTime": "15 minutes",
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "asian-coleslaw-61",
-      "similarity": "0.7126"
+      "url": "spinach-lettuce-salad-83",
+      "similarity": "0.7375"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Plum Pudding Sauce",
+      "name": "Club Salad",
       "author": {
         "@type": "Person",
-        "name": "Donna Greb"
+        "name": "Linda Finkbeiner"
       },
-      "description": "A sweet sauce made with brown sugar and vanilla, perfect for plum pudding.",
-      "recipeCategory": "Sauce",
+      "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
+      "recipeCategory": "Salad",
       "recipeCuisine": "American",
-      "prepTime": "PT5M",
-      "cookTime": "PT10M",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
       "totalTime": "PT15M",
-      "recipeYield": "2 cups",
+      "recipeYield": "1 large bowl",
       "recipeIngredient": [
-        "2 cups brown sugar",
-        "2 cups boiling water",
-        "2 Tbsp cornstarch",
-        "2 tsp butter",
-        "1/4 cup cold water",
-        "1 tsp vanilla"
+        "7 cups romaine lettuce",
+        "1 cup crisp cooked bacon, chopped",
+        "1 cup chopped hard-boiled eggs",
+        "¾ cup ranch or dip dressing",
+        "¾ cup grated cheese (marble, cheddar, etc.)",
+        "1 cup cooked chicken breast, diced",
+        "½ cup grated carrots",
+        "1 cup diced tomatoes"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix brown sugar and cornstarch in a saucepan."
+          "text": "Mix all ingredients in a large bowl, layering each ingredient to look festive."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cold water and mix until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add boiling water and cook until thickened."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add butter and vanilla."
+          "text": "Top with dressing."
         }
       ],
-      "keywords": "plum pudding sauce, dessert sauce, brown sugar sauce",
+      "keywords": "layered salad, club salad, ranch dressing",
       "_naturalized_times": {
-        "prepTime": "5 minutes",
-        "cookTime": "10 minutes",
+        "prepTime": "15 minutes",
+        "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "url": "plum-pudding-sauce-134",
-      "similarity": "0.7107"
+      "url": "club-salad-68",
+      "similarity": "0.7162"
     }
   ]
 }

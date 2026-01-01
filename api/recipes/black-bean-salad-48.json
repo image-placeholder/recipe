@@ -107,69 +107,7 @@
         "totalTime": "30 minutes"
       },
       "url": "sliced-bean-salad-49",
-      "similarity": "0.7830"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Cornbread Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Lorna Finkbeiner"
-      },
-      "description": "A layered salad with crumbled cornbread, black beans, corn, cheese, and a creamy dressing, perfect for chilling before serving.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT15M",
-      "totalTime": "PT1H35M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "1 (9 oz) package cornbread mix",
-        "1 (11 oz) can whole kernel corn, drained",
-        "1 (8 oz) package cheddar cheese, shredded",
-        "1 (15 oz) can black beans, rinsed and drained",
-        "½ cup salad dressing or mayonnaise",
-        "¼ cup lime juice",
-        "1 tsp ground cumin",
-        "½ tsp salt",
-        "½ cup chopped fresh cilantro or parsley",
-        "1 large red bell pepper, chopped",
-        "1 bunch green onions, chopped",
-        "6 plum or tiny tim tomatoes, shredded",
-        "1 head iceberg lettuce, chopped",
-        "Onion curls for garnish"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Prepare cornbread mix according to package directions and let cool. Crumble into pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a food processor or blender, combine salad dressing (or mayonnaise), lime juice, cumin, and salt. Process until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Layer half of the lettuce, cornbread, dressing mixture, beans, corn, cheese, red bell pepper, green onions, and tomatoes in a 4-quart bowl."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Repeat the layers, finishing with the remaining dressing on top. Garnish as desired with cilantro or onion curls."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and chill for 1 to 2 hours before serving."
-        }
-      ],
-      "keywords": "Cornbread salad, layered salad, Southwestern salad",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "1 hour 35 minutes"
-      },
-      "url": "cornbread-salad-71",
-      "similarity": "0.7485"
+      "similarity": "0.7657"
     },
     {
       "@context": "https://schema.org/",
@@ -223,7 +161,7 @@
         "totalTime": "10 minutes"
       },
       "url": "mexican-salad-50",
-      "similarity": "0.7380"
+      "similarity": "0.7527"
     },
     {
       "@context": "https://schema.org/",
@@ -280,75 +218,125 @@
         "totalTime": "8 hours 10 minutes"
       },
       "url": "onion-salad-74",
-      "similarity": "0.7261"
+      "similarity": "0.6944"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Tortilla Soup",
+      "name": "Taco Salad",
       "author": {
         "@type": "Person",
-        "name": "Valerie (Finkbeiner) Mullin"
+        "name": "Deb Hodge"
       },
-      "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "Mexican",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
+      "description": "A hearty taco salad with seasoned ground beef, crunchy taco chips, and cheddar cheese, all tossed in Catalina dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
       "recipeYield": "4 servings",
       "recipeIngredient": [
-        "Chicken (breasts or thighs)",
-        "1 onion, chopped",
-        "2 cloves garlic, minced",
-        "1 can diced tomatoes",
-        "1 cup corn",
-        "1 can black beans, optional",
-        "1 bay leaf",
-        "¼ cup chopped cilantro",
-        "½ tsp chili powder",
-        "½ tsp cumin",
-        "½ tsp oregano",
-        "Salt and pepper to taste",
-        "Tortilla chips",
-        "Sour cream",
-        "Cheddar cheese, grated",
-        "1 jar salsa"
+        "1 lb ground beef (hamburg)",
+        "1 package taco seasoning mix",
+        "1 (250 g) bag crushed taco chips",
+        "1 cup shredded cheddar cheese",
+        "1 head lettuce, chopped",
+        "1 chopped tomato",
+        "Catalina dressing"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Saute chicken pieces with onion, garlic, and spices until chicken is cooked through."
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
         },
         {
           "@type": "HowToStep",
-          "text": "Add 4 cups water and boil to make stock."
+          "text": "Refrigerate the cooked beef until ready to use."
         },
         {
           "@type": "HowToStep",
-          "text": "Remove chicken and chop, discarding any bones and skin."
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine remaining ingredients (except tortilla chips, sour cream, and cheese) and heat through."
+          "text": "Mix in Catalina dressing until well coated."
         },
         {
           "@type": "HowToStep",
-          "text": "To serve, place tortilla chips in soup bowls."
+          "text": "Carefully add in chopped tomato."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour soup over chips and top with sour cream, jalapenos (optional), and shredded cheddar cheese."
+          "text": "Serve immediately."
         }
       ],
-      "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup",
+      "keywords": "taco salad, ground beef, taco chips, cheddar cheese",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "tortilla-soup-124",
-      "similarity": "0.7175"
+      "url": "taco-salad-89",
+      "similarity": "0.6812"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "A hearty taco salad with seasoned ground beef, lettuce, cheese, and crushed taco chips, mixed with Catalina dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 lb ground beef (hamburg)",
+        "1 pkg taco seasoning mix",
+        "1 head lettuce, chopped",
+        "1 cup shredded cheddar cheese",
+        "1 (250 g) bag cheese taco chips, crushed",
+        "1 chopped tomato",
+        "Catalina dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate the cooked beef until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully add in the chopped tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
+        }
+      ],
+      "keywords": "taco salad, ground beef, taco chips, Catalina dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "taco-salad-92",
+      "similarity": "0.6812"
     }
   ]
 }

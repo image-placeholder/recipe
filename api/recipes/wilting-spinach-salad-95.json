@@ -105,7 +105,64 @@
         "totalTime": "20 minutes"
       },
       "url": "spinach-lettuce-salad-83",
-      "similarity": "0.6934"
+      "similarity": "0.7798"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the marinade well in the morning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve."
+        }
+      ],
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
+      },
+      "url": "onion-salad-74",
+      "similarity": "0.6881"
     },
     {
       "@context": "https://schema.org/",
@@ -157,178 +214,106 @@
         "totalTime": "15 minutes"
       },
       "url": "strawberry-tossed-salad-96",
-      "similarity": "0.6643"
+      "similarity": "0.6714"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Spinach Dip",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Ruth Slaght"
-        },
-        {
-          "@type": "Person",
-          "name": "Jo Anne Pickering"
-        }
-      ],
-      "description": "A creamy spinach dip made with sour cream, mayonnaise, and Knorr vegetable soup mix, served in a hollowed-out pumpernickel bread loaf.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "about 4 cups of dip",
-      "recipeIngredient": [
-        "1 pkg (300 g) frozen chopped spinach, thawed and drained",
-        "1 can (10 oz) water chestnuts, drained and chopped",
-        "2 cups (500 mL) sour cream",
-        "1 cup mayonnaise",
-        "1 pkg Knorr vegetable soup mix",
-        "3 green onions, chopped",
-        "1 large round pumpernickel bread loaf (optional)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Squeeze excess moisture from the thawed spinach."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a bowl, combine the spinach, sour cream, mayonnaise, Knorr soup mix, water chestnuts, and green onions. Stir until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and refrigerate for at least 2 hours to allow flavors to blend."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "If using a bread loaf, scoop out a large hollow through the top and fill with the dip mixture. Serve with bread cubes cut from the centre and/or assorted fresh vegetables."
-        }
-      ],
-      "keywords": "spinach dip, party appetizer, pumpernickel bread",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
-      },
-      "url": "spinach-dip-16",
-      "similarity": "0.6498"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Mandarin Orange Salad",
+      "name": "Sauerkraut Salad",
       "author": {
         "@type": "Person",
-        "name": "Ruth Haines"
+        "name": "Lorna Finkbeiner"
       },
-      "description": "A classic spinach and lettuce salad with mandarin oranges and toasted almonds, dressed with a sweet and tangy homemade vinaigrette.",
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
       "recipeCategory": "Salad",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
-      "cookTime": "PT0M",
-      "totalTime": "PT20M",
-      "recipeYield": "4-6 servings",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
       "recipeIngredient": [
-        "1 bunch romaine lettuce",
-        "1 leaf red tip lettuce",
-        "1 pkg fresh spinach",
-        "4 (10 oz) cans mandarin oranges, drained",
-        "1 cup slivered almonds, toasted",
-        "½ small red onion, chopped",
-        "Dressing:",
-        "½ cup sugar",
-        "¼ cup vinegar",
-        "1 tsp dry mustard",
-        "1 tsp salt",
-        "1 cup vegetable oil"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Wash and clean the romaine lettuce, red tip lettuce, and spinach. Dry thoroughly and rip into bite-sized pieces."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a saucepan, combine sugar, vinegar, mustard, and salt. Bring to a boil, then allow to cool."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Once cooled, blend the dressing mixture in a blender until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the dressing over the prepared lettuce mixture about 10 minutes before serving."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Just before serving, add the drained mandarin oranges and toasted slivered almonds."
-        }
-      ],
-      "keywords": "mandarin orange salad, spinach salad, homemade dressing",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "",
-        "totalTime": "20 minutes"
-      },
-      "url": "mandarin-orange-salad-88",
-      "similarity": "0.6418"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Sliced Bean Salad",
-      "author": {
-        "@type": "Person",
-        "name": "Phyllis Lightfoot"
-      },
-      "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT10M",
-      "totalTime": "PT30M",
-      "recipeYield": "2 to 3 quarts",
-      "recipeIngredient": [
-        "Yellow or green beans",
-        "2 cups white vinegar",
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
         "2 cups white sugar",
-        "1 tsp salt",
-        "1½ cups water",
-        "Onion and cream for serving"
+        "1 cup white vinegar",
+        "1 tsp salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Slice the beans and cook until tender enough to pierce with a fork."
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
         },
         {
           "@type": "HowToStep",
-          "text": "Drain the cooked beans and pack them into jars."
+          "text": "Let the dressing cool to room temperature."
         },
         {
           "@type": "HowToStep",
-          "text": "In a saucepan, bring the sugar, water, vinegar, and salt to a boil to make the syrup."
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Pour the hot syrup over the beans in the jars."
+          "text": "Pour the cooled dressing over the salad and toss to coat."
         },
         {
           "@type": "HowToStep",
-          "text": "To serve, pour off the liquid and add chopped onion and cream."
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
         }
       ],
-      "keywords": "pickled bean salad, sweet and tangy, preserved beans",
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
       "_naturalized_times": {
         "prepTime": "20 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "30 minutes"
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
       },
-      "url": "sliced-bean-salad-49",
-      "similarity": "0.6322"
+      "url": "sauerkraut-salad-82",
+      "similarity": "0.6620"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Dinney"
+      },
+      "description": "A cooked salad dressing made with eggs, sugar, mustard, and vinegar, thickened with cornstarch.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT8M",
+      "totalTime": "PT13M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 tsp salt",
+        "2 eggs",
+        "1 cup white sugar",
+        "2 tsp dry mustard",
+        "1 cup vinegar",
+        "3 Tbsp cornstarch",
+        "1 cup 2% milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook in the microwave for approximately 8 minutes."
+        }
+      ],
+      "keywords": "cooked salad dressing, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "8 minutes",
+        "totalTime": "13 minutes"
+      },
+      "url": "salad-dressing-102",
+      "similarity": "0.6416"
     }
   ]
 }

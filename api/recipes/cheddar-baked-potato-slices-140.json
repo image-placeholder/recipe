@@ -66,105 +66,6 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cream of Potato Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Lori Allen"
-      },
-      "description": "A rich and creamy potato soup enhanced with Campbell's soup base, leeks, and mushrooms, topped with shredded cheddar cheese.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT2H30M",
-      "totalTime": "PT2H45M",
-      "recipeYield": "8-10 servings",
-      "recipeIngredient": [
-        "4 to 6 cups cooked potatoes, cubed",
-        "1 square Campbell's potato soup base",
-        "Salt and pepper to taste",
-        "Garlic salt to taste",
-        "1 to 2 cups finely chopped mushrooms",
-        "2 to 3 leeks, chopped fine",
-        "Shredded cheddar cheese (amount desired)",
-        "Water or milk (as needed for consistency)"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large pot, combine all ingredients except cheese."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bring to a boil, stirring often, then simmer for 2 to 3 hours, adding more liquid if necessary."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add shredded cheddar cheese during the last 30 minutes of simmering."
-        }
-      ],
-      "keywords": "cream of potato soup, cheesy soup, slow-cooked soup",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "2 hours 30 minutes",
-        "totalTime": "2 hours 45 minutes"
-      },
-      "url": "cream-of-potato-soup-126",
-      "similarity": "0.7464"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Ham & Potato Casserole",
-      "author": {
-        "@type": "Person",
-        "name": "Shelley Kinsman"
-      },
-      "description": "A layered ham, potato, and cheese casserole cooked in a slow cooker.",
-      "recipeCategory": "Casserole",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT8H",
-      "totalTime": "PT8H20M",
-      "recipeYield": "Multiple servings",
-      "recipeIngredient": [
-        "8 slices ham",
-        "8 to 10 medium potatoes, sliced",
-        "2 onions, sliced thin",
-        "1 cup grated cheese",
-        "Salt and pepper to taste",
-        "Cream of mushroom or celery soup",
-        "Paprika"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Put half of the ham, potatoes, onions, cheese, salt, and pepper in a slow cooker."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the remaining half of the ingredients for the second layer."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Top with soup and sprinkle with paprika."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
-        }
-      ],
-      "keywords": "ham, potato, casserole, slow cooker",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "8 hours",
-        "totalTime": "8 hours 20 minutes"
-      },
-      "url": "ham-potato-casserole-209",
-      "similarity": "0.7409"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
       "name": "Sliced Baked Potatoes",
       "author": {
         "@type": "Person",
@@ -217,7 +118,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "sliced-baked-potatoes-138",
-      "similarity": "0.7212"
+      "similarity": "0.7901"
     },
     {
       "@context": "https://schema.org/",
@@ -282,7 +183,7 @@
         "totalTime": "50 minutes"
       },
       "url": "swedish-potatoes-137",
-      "similarity": "0.6870"
+      "similarity": "0.7303"
     },
     {
       "@context": "https://schema.org/",
@@ -339,7 +240,106 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "potato-casserole-141",
-      "similarity": "0.6842"
+      "similarity": "0.7098"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cream of Potato Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A rich and creamy potato soup enhanced with Campbell's soup base, leeks, and mushrooms, topped with shredded cheddar cheese.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT2H30M",
+      "totalTime": "PT2H45M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "4 to 6 cups cooked potatoes, cubed",
+        "1 square Campbell's potato soup base",
+        "Salt and pepper to taste",
+        "Garlic salt to taste",
+        "1 to 2 cups finely chopped mushrooms",
+        "2 to 3 leeks, chopped fine",
+        "Shredded cheddar cheese (amount desired)",
+        "Water or milk (as needed for consistency)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, combine all ingredients except cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, stirring often, then simmer for 2 to 3 hours, adding more liquid if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add shredded cheddar cheese during the last 30 minutes of simmering."
+        }
+      ],
+      "keywords": "cream of potato soup, cheesy soup, slow-cooked soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "2 hours 30 minutes",
+        "totalTime": "2 hours 45 minutes"
+      },
+      "url": "cream-of-potato-soup-126",
+      "similarity": "0.6854"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ham & Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Shelley Kinsman"
+      },
+      "description": "A layered ham, potato, and cheese casserole cooked in a slow cooker.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT8H",
+      "totalTime": "PT8H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "8 slices ham",
+        "8 to 10 medium potatoes, sliced",
+        "2 onions, sliced thin",
+        "1 cup grated cheese",
+        "Salt and pepper to taste",
+        "Cream of mushroom or celery soup",
+        "Paprika"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put half of the ham, potatoes, onions, cheese, salt, and pepper in a slow cooker."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining half of the ingredients for the second layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with soup and sprinkle with paprika."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
+        }
+      ],
+      "keywords": "ham, potato, casserole, slow cooker",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "8 hours",
+        "totalTime": "8 hours 20 minutes"
+      },
+      "url": "ham-potato-casserole-209",
+      "similarity": "0.6711"
     }
   ]
 }

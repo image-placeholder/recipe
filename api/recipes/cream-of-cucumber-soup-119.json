@@ -56,297 +56,270 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Creamy Broccoli Soup",
+      "name": "Cabbage Soup",
       "author": {
         "@type": "Person",
-        "name": "Eleanor Beaver"
+        "name": "Betty Glanville"
       },
-      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
-      "recipeCategory": "Soup",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT10M",
-      "totalTime": "PT20M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "2 cups chicken broth",
-        "1 cup cubed peeled potatoes",
-        "4 cups broccoli",
-        "1/2 cup Miracle Whip",
-        "1/2 tsp cumin (optional)",
-        "Salt and pepper to taste"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Purée the mixture in a blender until smooth."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
-        }
-      ],
-      "keywords": "creamy broccoli soup, potato soup, comforting soup",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "10 minutes",
-        "totalTime": "20 minutes"
-      },
-      "url": "creamy-broccoli-soup-112",
-      "similarity": "0.6608"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Richard's Sunday Soup",
-      "author": {
-        "@type": "Person",
-        "name": "Richard MacGregor"
-      },
-      "description": "A rich and comforting soup featuring carrots, potatoes, and chicken stock.",
+      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
       "recipeCategory": "Soup",
       "recipeCuisine": "American",
       "prepTime": "PT15M",
-      "cookTime": "PT15M",
-      "totalTime": "PT30M",
-      "recipeYield": "Multiple servings",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "1 tsp sugar",
-        "5 large carrots",
-        "1 large potato",
-        "1 medium onion",
-        "1 Tbsp oil",
-        "2 to 3 cups chicken stock",
-        "Salt and pepper to taste"
+        "1 Tbsp liquid sweetener",
+        "½ head cabbage",
+        "1 can French-style beans (optional)",
+        "3 cups tomato juice",
+        "4 cups water",
+        "1 large can mushrooms",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery, including leaves and tips",
+        "1 tsp lemon juice"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Peel and dice the carrots and potato. Combine diced onion and oil in a saucepan and cook over medium heat."
+          "text": "Add all ingredients to a large pot."
         },
         {
           "@type": "HowToStep",
-          "text": "Add the diced carrots and potato to the onion and cook for 3 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add chicken stock and sugar. Cook for 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Reduce heat to simmer and cook for 10 to 15 minutes or until the vegetables are cooked."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Remove from heat and puree. Serve immediately with fresh bread."
+          "text": "Cook at low heat for 1½ hours."
         }
       ],
-      "keywords": "carrot soup, potato soup, chicken stock",
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
       "_naturalized_times": {
         "prepTime": "15 minutes",
-        "cookTime": "15 minutes",
-        "totalTime": "30 minutes"
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
       },
-      "url": "richards-sunday-soup-121",
-      "similarity": "0.6476"
+      "url": "cabbage-soup-106",
+      "similarity": "0.6946"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Potato Soup",
+      "name": "Cabbage Soup",
       "author": {
         "@type": "Person",
-        "name": "Barbara Ratz"
+        "name": "Betty Glanville"
       },
-      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+      "description": "A hearty cabbage soup with vegetables and optional sweetener.",
       "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT20M",
-      "totalTime": "PT40M",
-      "recipeYield": "8-10 servings",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
       "recipeIngredient": [
-        "6 diced and peeled potatoes",
-        "2 diced and peeled carrots",
-        "1 chopped onion",
-        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
-        "6 Tbsp butter",
-        "6 Tbsp flour",
-        "Sour cream (optional)"
+        "½ head cabbage",
+        "1 can French-style beans, drained",
+        "3 cups tomato juice",
+        "1 large can mushrooms",
+        "4 cups water",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery leaves and tips",
+        "1 tsp lemon juice",
+        "1 Tbsp liquid sweetener (optional)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
+          "text": "Add all ingredients to a large pot."
         },
         {
           "@type": "HowToStep",
-          "text": "Microwave onions and butter until soft, about 2 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
+          "text": "Cook at low heat for 1½ hours."
         }
       ],
-      "keywords": "potato soup, creamy soup, comfort food",
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "20 minutes",
-        "totalTime": "40 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
       },
-      "url": "potato-soup-125",
-      "similarity": "0.6454"
+      "url": "cabbage-soup-109",
+      "similarity": "0.6946"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Chicken and Cheese Casserole",
+      "name": "Veggie Basic Soup",
       "author": {
         "@type": "Person",
-        "name": "June Schroeder"
+        "name": "Julie-Ann Bibby"
       },
-      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
-      "recipeCategory": "Casserole",
+      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT30M",
       "totalTime": "PT50M",
-      "recipeYield": "1 casserole",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "1½ lb diced cooked chicken",
-        "1 medium onion, finely chopped",
-        "2 cups cooked rice",
-        "¼ lb grated cheddar cheese",
-        "½ cup milk",
-        "1 can Campbell's cream of celery soup",
-        "4 Tbsp butter or margarine",
-        "¾ cup crushed corn flakes",
-        "1½ cups chopped celery",
-        "Salt and pepper to taste"
+        "1/2 tsp ground pepper",
+        "3 Tbsp butter",
+        "1 Tbsp dried parsley",
+        "1 diced onion",
+        "3 Tbsp soya sauce",
+        "2 large diced carrots",
+        "1 Tbsp Worcestershire sauce",
+        "3 stalks diced celery",
+        "1 tsp paprika",
+        "1 can whole diced tomatoes",
+        "2 qt beef broth",
+        "1 Tbsp salt"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
+          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
         },
         {
           "@type": "HowToStep",
-          "text": "Put the mixture into a buttered casserole dish."
+          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cook until the celery is hot."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Spread the corn flake and celery mixture over the chicken mixture."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake in a 375°F oven for about ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 375,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
         }
       ],
-      "keywords": "chicken casserole, cheesy rice bake, comfort food",
+      "keywords": "vegetable soup, beef broth, savory soup",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "chicken-and-cheese-casserole-244",
-      "similarity": "0.6414"
+      "url": "veggie-basic-soup-120",
+      "similarity": "0.6815"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cauliflower Broccoli Casserole",
+      "name": "Cream of Asparagus Soup",
       "author": {
         "@type": "Person",
-        "name": "Heather Clarke"
+        "name": "Bonnie McNutt"
       },
-      "description": "A versatile casserole recipe that can use either cauliflower or broccoli, topped with croutons and Parmesan cheese.",
-      "recipeCategory": "Side Dish",
+      "description": "A creamy and smooth asparagus soup made with canned asparagus, perfect for serving year-round with optional fresh garnishes.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT10M",
+      "prepTime": "PT20M",
       "cookTime": "PT40M",
-      "totalTime": "PT50M",
-      "recipeYield": "4 servings",
+      "totalTime": "PT1H",
+      "recipeYield": "Multiple servings",
       "recipeIngredient": [
-        "Cauliflower or broccoli",
-        "1 can cream of celery soup",
-        "2 Tbsp mayonnaise",
-        "1/4 cup shredded Colby cheese",
-        "1/4 cup Parmesan cheese",
-        "1/2 cup croutons",
-        "Some cracker crumbs",
-        "A little butter"
+        "2 medium onions, chopped",
+        "6 chicken bouillon cubes",
+        "2 (12 oz) cans asparagus tips or cuttings",
+        "4 celery sticks, chopped",
+        "¼ cup (125 mL) butter",
+        "6 Tbsp (90 mL) flour",
+        "1 cup (250 mL) whipping cream",
+        "6 cups (1½ L) water",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Cook the chosen vegetable in the microwave for 2 minutes."
+          "text": "Chop onions and celery medium fine and sauté in butter until limp but not brown."
         },
         {
           "@type": "HowToStep",
-          "text": "Add cream of celery soup, mayonnaise, and cheese to the cooked vegetable. Mix well."
+          "text": "Add flour and stir for 1 minute."
         },
         {
           "@type": "HowToStep",
-          "text": "Add croutons to the mixture."
+          "text": "Gradually add chicken stock (dissolve bouillon cubes in water) and stir until smooth."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread cracker crumbs on top of the casserole."
+          "text": "Bring to a boil, then add canned asparagus including liquid and simmer for 30 to 40 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle Parmesan cheese over the mixture."
+          "text": "Purée the soup in a blender and press through a sieve for a smooth texture."
         },
         {
           "@type": "HowToStep",
-          "text": "Put butter pieces on top of the mixture."
+          "text": "To serve, bring soup to a boil, remove from heat, and stir in whipping cream."
         },
         {
           "@type": "HowToStep",
-          "text": "Cook at 350°F for 40 minutes."
+          "text": "Season to taste and keep warm over low heat without boiling."
         }
       ],
-      "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake",
+      "keywords": "asparagus soup, creamy soup, canned asparagus",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "40 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "cream-of-asparagus-soup-99",
+      "similarity": "0.6796"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour mixture and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree the mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
       "_naturalized_times": {
         "prepTime": "10 minutes",
-        "cookTime": "40 minutes",
-        "totalTime": "50 minutes"
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
       },
-      "url": "cauliflower-broccoli-casserole-144",
-      "similarity": "0.6401"
+      "url": "cheese-broccoli-soup-105",
+      "similarity": "0.6683"
     }
   ]
 }

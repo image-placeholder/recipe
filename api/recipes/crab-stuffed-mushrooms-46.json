@@ -64,6 +64,51 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
+      "name": "Stuffed Mushrooms",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A savory appetizer of mushroom caps filled with a creamy mixture of bacon, cream cheese, and Parmesan.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "15 to 20 stuffed mushrooms",
+      "recipeIngredient": [
+        "15 to 20 large mushrooms, stems removed",
+        "3 slices bacon, cooked and crumbled",
+        "¼ pkg cream cheese",
+        "¼ cup Parmesan cheese",
+        "1 tsp Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the crumbled bacon, cream cheese, Parmesan cheese, and Worcestershire sauce together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stuff the mixture into the mushroom caps."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes."
+        }
+      ],
+      "keywords": "stuffed mushrooms, appetizer, bacon, cream cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "stuffed-mushrooms-32",
+      "similarity": "0.8178"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
       "name": "Crab & Cheese Platter",
       "author": {
         "@type": "Person",
@@ -118,7 +163,7 @@
         "totalTime": "10 minutes"
       },
       "url": "crab-cheese-platter-7",
-      "similarity": "0.7604"
+      "similarity": "0.7695"
     },
     {
       "@context": "https://schema.org/",
@@ -158,52 +203,7 @@
         "totalTime": "10 minutes"
       },
       "url": "crab-dip-20",
-      "similarity": "0.7200"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Stuffed Mushrooms",
-      "author": {
-        "@type": "Person",
-        "name": "Suzanne Finkbeiner"
-      },
-      "description": "A savory appetizer of mushroom caps filled with a creamy mixture of bacon, cream cheese, and Parmesan.",
-      "recipeCategory": "Appetizer",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT30M",
-      "totalTime": "PT45M",
-      "recipeYield": "15 to 20 stuffed mushrooms",
-      "recipeIngredient": [
-        "15 to 20 large mushrooms, stems removed",
-        "3 slices bacon, cooked and crumbled",
-        "¼ pkg cream cheese",
-        "¼ cup Parmesan cheese",
-        "1 tsp Worcestershire sauce"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix the crumbled bacon, cream cheese, Parmesan cheese, and Worcestershire sauce together."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Stuff the mixture into the mushroom caps."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 minutes."
-        }
-      ],
-      "keywords": "stuffed mushrooms, appetizer, bacon, cream cheese",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "45 minutes"
-      },
-      "url": "stuffed-mushrooms-32",
-      "similarity": "0.7192"
+      "similarity": "0.7168"
     },
     {
       "@context": "https://schema.org/",
@@ -260,73 +260,66 @@
         "totalTime": "25 minutes"
       },
       "url": "mushroom-soup-113",
-      "similarity": "0.6773"
+      "similarity": "0.6474"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cheddar Baked Potato Slices",
+      "name": "Favourite Chicken",
       "author": {
         "@type": "Person",
-        "name": "Ina Browning"
+        "name": "Jo Anne Pickering"
       },
-      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
-      "recipeCategory": "Side Dish",
+      "description": "A simple and satisfying chicken dish baked with cheddar cheese, mushroom soup, and garlic.",
+      "recipeCategory": "Main Course",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT55M",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
       "totalTime": "PT1H10M",
-      "recipeYield": "4 servings",
+      "recipeYield": "4 to 6 servings",
       "recipeIngredient": [
-        "4 medium baking potatoes, cut into ¼ inch slices",
-        "1 can cream of mushroom soup",
-        "½ tsp paprika",
-        "½ tsp pepper",
-        "1 cup shredded cheddar cheese"
+        "4 to 6 chicken breasts",
+        "1 cup old cheddar cheese, grated",
+        "1 can cheddar cheese soup (or other soup to taste)",
+        "1 can mushroom soup",
+        "1 Tbsp garlic powder",
+        "Salt and pepper to taste",
+        "6 to 8 fresh mushrooms, sliced"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+          "text": "Wash and pat dry chicken breasts."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
+          "text": "Combine cheddar cheese soup, mushroom soup, and garlic powder. Mix well."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese over the potatoes."
+          "text": "Place chicken in a 9x11 inch baking dish. Pour soup mixture over chicken."
         },
         {
           "@type": "HowToStep",
-          "text": "Spoon the soup mixture evenly over the cheese."
+          "text": "Top with grated cheese and sliced mushrooms."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 400,
-            "unitCode": "FAR"
-          },
-          "duration": "PT45M"
+          "text": "Bake at 350°F for about 1 hour for 4 pieces or 1½ hours for 6 pieces."
         },
         {
           "@type": "HowToStep",
-          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+          "text": "Check to ensure chicken is cooked through, as oven temperatures may vary."
         }
       ],
-      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
+      "keywords": "baked chicken, cheddar cheese, mushroom soup, comfort food",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "55 minutes",
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "cheddar-baked-potato-slices-140",
-      "similarity": "0.6543"
+      "url": "favourite-chicken-241",
+      "similarity": "0.6377"
     }
   ]
 }

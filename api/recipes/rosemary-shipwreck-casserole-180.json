@@ -118,7 +118,131 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "meat-and-potato-casserole-159",
-      "similarity": "0.8118"
+      "similarity": "0.6796"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef and Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kurtis Brand"
+      },
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
+      "recipeIngredient": [
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Sauté celery and onion in butter until soft and tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place rice in a greased 1½ quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the rice with the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "beef casserole, rice casserole, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "beef-and-rice-casserole-168",
+      "similarity": "0.6778"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stewing Beef Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kelly Haines"
+      },
+      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 lb stewing beef",
+        "1 tsp salt",
+        "Dash pepper",
+        "1¼ cups diced potatoes",
+        "1¼ cups diced carrots",
+        "1 tsp sugar",
+        "2 Tbsp Minit Tapioca",
+        "½ cup diced onions",
+        "1 cup V8 juice",
+        "½ cup diced celery"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients lightly in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 250°F for 4 hours without uncovering."
+        }
+      ],
+      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "stewing-beef-casserole-155",
+      "similarity": "0.6321"
     },
     {
       "@context": "https://schema.org/",
@@ -194,200 +318,77 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "similarity": "0.7725"
+      "similarity": "0.6185"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Potato Casserole",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Heather Clarke"
-        },
-        {
-          "@type": "Person",
-          "name": "M. Leanne Kenney"
-        }
-      ],
-      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT1H",
-      "totalTime": "PT1H10M",
-      "recipeYield": "1 casserole",
-      "recipeIngredient": [
-        "1 (2 lb) bag frozen hash browns",
-        "1 can cream of celery soup",
-        "1 can cream of mushroom soup",
-        "500 mL sour cream",
-        "1 cup grated cheese",
-        "¼ cup diced onions"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Mix all ingredients together in a shallow pan until well combined."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake at 350°F for 1 hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 350,
-            "unitCode": "FAR"
-          },
-          "duration": "PT1H"
-        }
-      ],
-      "keywords": "potato casserole, hash browns, creamy, cheesy",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "1 hour",
-        "totalTime": "1 hour 10 minutes"
-      },
-      "url": "potato-casserole-141",
-      "similarity": "0.7447"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Beef and Rice Casserole",
+      "name": "Spaghetti Casserole",
       "author": {
         "@type": "Person",
-        "name": "Kurtis Brand"
+        "name": "Janet Dearing"
       },
-      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
       "recipeCategory": "Casserole",
       "recipeCuisine": "American",
       "prepTime": "PT20M",
       "cookTime": "PT30M",
       "totalTime": "PT50M",
-      "recipeYield": "1 1½ quart casserole",
+      "recipeYield": "1 quart casserole",
       "recipeIngredient": [
-        "1⅓ cups cooked rice",
-        "1 tsp salt",
-        "1 Tbsp butter",
-        "Dash pepper",
-        "1½ cups diced celery",
-        "3 Tbsp minced onion",
-        "1 can condensed tomato soup",
-        "¼ cup water",
-        "1 lb ground beef"
+        "½ lb spaghetti",
+        "½ lb ground beef",
+        "1 can (19 oz) diced tomatoes",
+        "½ cup chopped onion",
+        "1 can (10 oz) condensed cream of mushroom soup",
+        "1½ tsp salt",
+        "¼ tsp pepper",
+        "1 cup grated medium cheddar cheese",
+        "½ tsp garlic",
+        "1 can (10 oz) mushroom pieces, drained"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Sauté celery and onion in butter until soft and tender."
+          "text": "Brown the ground beef and onion in a frying pan."
         },
         {
           "@type": "HowToStep",
-          "text": "Place rice in a greased 1½ quart casserole dish."
+          "text": "Cook spaghetti according to package directions."
         },
         {
           "@type": "HowToStep",
-          "text": "Top the rice with the celery mixture."
+          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
         },
         {
           "@type": "HowToStep",
-          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+          "text": "Pour canned tomatoes over the spaghetti layer."
         },
         {
           "@type": "HowToStep",
-          "text": "Arrange the cooked beef on top of the celery mixture."
+          "text": "Spoon the browned meat mixture over the tomatoes."
         },
         {
           "@type": "HowToStep",
-          "text": "Combine the tomato soup with water and pour over the meat layer."
+          "text": "Cover with cream of mushroom soup."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake in a preheated 325°F oven for ½ hour.",
-          "cookMethod": "Bake",
-          "tool": "Oven",
-          "temperature": {
-            "@type": "Temperature",
-            "name": "oven",
-            "value": 325,
-            "unitCode": "FAR"
-          },
-          "duration": "PT30M"
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
         }
       ],
-      "keywords": "beef casserole, rice casserole, comfort food",
+      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
       "_naturalized_times": {
         "prepTime": "20 minutes",
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "beef-and-rice-casserole-168",
-      "similarity": "0.7338"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Chili Con Carne",
-      "author": {
-        "@type": "Person",
-        "name": "Shannon Wuerth"
-      },
-      "description": "A hearty and versatile chili recipe featuring ground beef, kidney beans, and a variety of vegetables, ideal for customization.",
-      "recipeCategory": "Main Course",
-      "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT45M",
-      "totalTime": "PT1H5M",
-      "recipeYield": "8 servings, 9 cups (2.25 L)",
-      "recipeIngredient": [
-        "1 lb lean ground beef",
-        "1 can (28 oz) tomatoes",
-        "1 cup chopped onion",
-        "1 can (7.5 oz) tomato sauce",
-        "1 clove garlic, crushed",
-        "1 can (19 oz) kidney beans, drained",
-        "3 cups finely shredded cabbage",
-        "1 Tbsp chili powder",
-        "2 cups thinly sliced celery",
-        "1 tsp dried oregano",
-        "1/2 cup chopped green pepper",
-        "1/2 tsp salt",
-        "1/4 tsp hot pepper sauce",
-        "Optional: additional vegetables like zucchini, carrots, mushrooms"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "In a large nonstick skillet, cook ground beef over medium-high heat until browned and crumbly; drain off excess fat."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add onion and garlic to the skillet and cook for 5 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cabbage, celery, green pepper, tomatoes with juice, tomato sauce, kidney beans, chili powder, oregano, salt, and hot pepper sauce to the skillet."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Optionally add other desired vegetables (e.g., zucchini, carrots, mushrooms) at this stage."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Cover and simmer over medium heat for 45 minutes, or until vegetables are tender, stirring occasionally."
-        }
-      ],
-      "keywords": "chili con carne, ground beef chili, customizable chili",
-      "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes"
-      },
-      "url": "chili-con-carne-165",
-      "similarity": "0.7330"
+      "url": "spaghetti-casserole-178",
+      "similarity": "0.6012"
     }
   ]
 }

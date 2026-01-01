@@ -38,160 +38,248 @@
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Veggie Basic Soup",
+      "name": "Sausage Balls",
       "author": {
         "@type": "Person",
-        "name": "Julie-Ann Bibby"
+        "name": "Irene Haugh"
       },
-      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
-      "recipeCategory": "Soup",
+      "description": "Crispy sausage and cheddar balls perfect for snacking or parties, made with biscuit mix and baked until golden.",
+      "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT30M",
-      "totalTime": "PT50M",
-      "recipeYield": "Multiple servings",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeYield": "About 50 balls",
       "recipeIngredient": [
-        "1/2 tsp ground pepper",
-        "3 Tbsp butter",
-        "1 Tbsp dried parsley",
-        "1 diced onion",
-        "3 Tbsp soya sauce",
-        "2 large diced carrots",
-        "1 Tbsp Worcestershire sauce",
-        "3 stalks diced celery",
-        "1 tsp paprika",
-        "1 can whole diced tomatoes",
-        "2 qt beef broth",
-        "1 Tbsp salt"
+        "1 can Campbell's cheddar soup",
+        "3 cups biscuit mix",
+        "1 lb bulk sausage meat (ground)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
+          "text": "Brown the sausage in a frying pan until fully cooked."
         },
         {
           "@type": "HowToStep",
-          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
+          "text": "Add the cheddar soup to the browned sausage and stir until well mixed."
         },
         {
           "@type": "HowToStep",
-          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
+          "text": "Combine the sausage mixture with the biscuit mix and blend until a dough forms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Form the dough into small balls (about 50 total)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the sausage balls on a cookie sheet and bake in a preheated 450°F oven for 15 to 20 minutes, or until golden brown."
         }
       ],
-      "keywords": "vegetable soup, beef broth, savory soup",
+      "keywords": "sausage balls, cheddar soup, biscuit mix, party snack",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "50 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes"
       },
-      "url": "veggie-basic-soup-120",
-      "similarity": "0.6337"
+      "url": "sausage-balls-44",
+      "similarity": "0.6372"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Broccoli Casserole",
+      "name": "Tomato Macaroni Soup",
       "author": [
         {
           "@type": "Person",
-          "name": "Nola Lewis"
+          "name": "Linda Finkbeiner"
         },
         {
           "@type": "Person",
-          "name": "Tanya Allen"
+          "name": "Shirley Preszcator"
         }
       ],
-      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
-      "recipeCategory": "Main Course",
+      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT20M",
-      "cookTime": "PT35M",
-      "totalTime": "PT55M",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 lb broccoli, fresh or frozen",
-        "1 can cream of chicken soup",
-        "8 oz Cheez Whiz",
-        "1 cup cooked rice",
-        "1 can mushroom soup",
-        "Butter and bread crumbs or fried onions for topping"
+        "1 Tbsp oil",
+        "1½ cups water",
+        "1 cooking onion, diced",
+        "1 cup dry macaroni",
+        "2 carrots, diced",
+        "½ tsp garlic salt",
+        "3 or 4 celery stalks, diced",
+        "½ tsp Worcestershire sauce",
+        "2 cups chicken stock",
+        "2 cups tomato juice",
+        "Salt and pepper to taste"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+          "text": "Saute onion, celery, and carrot in oil until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+          "text": "Add stock, juice, and water. Bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 350°F for 30 to 40 minutes."
+          "text": "Add pasta and cook until tender."
         },
         {
           "@type": "HowToStep",
-          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+          "text": "Add garlic salt and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season to taste with salt and pepper."
         }
       ],
-      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+      "keywords": "tomato macaroni soup, comfort food, pasta soup",
       "_naturalized_times": {
-        "prepTime": "20 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "55 minutes"
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
       },
-      "url": "broccoli-casserole-129",
-      "similarity": "0.6102"
+      "url": "tomato-macaroni-soup-123",
+      "similarity": "0.5827"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Broccoli Casserole",
+      "name": "Cheese & Broccoli Soup",
       "author": {
         "@type": "Person",
-        "name": "Eleanor Beaver"
+        "name": "Jeff Slaght"
       },
-      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
-      "recipeCategory": "Side Dish",
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT25M",
-      "totalTime": "PT40M",
-      "recipeYield": "6 servings",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
       "recipeIngredient": [
-        "2 heads broccoli, precooked",
-        "1 cup celery, precooked",
-        "1 can mushroom soup",
-        "½ cup grated cheese",
-        "1 Tbsp melted margarine",
-        "½ cup sour cream",
-        "1 cup bread crumbs"
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
         },
         {
           "@type": "HowToStep",
-          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the topping over the casserole."
+          "text": "Add flour mixture and cook for 3 minutes."
         },
         {
           "@type": "HowToStep",
-          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree the mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat with milk, cheese, and seasonings."
         }
       ],
-      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
+      "keywords": "broccoli soup, cheese soup, creamy soup",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "25 minutes",
-        "totalTime": "40 minutes"
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
       },
-      "url": "broccoli-casserole-133",
-      "similarity": "0.6102"
+      "url": "cheese-broccoli-soup-105",
+      "similarity": "0.5763"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a rich, velvety texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "1½ cups grated cheese",
+        "1½ cups chicken broth",
+        "3 cups fresh broccoli, partially cooked"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onions until tender; do not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and broccoli; bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in flour and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat; cook and stir until mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and simmer for 15 minutes; do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat through with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "cheese-broccoli-soup-108",
+      "similarity": "0.5763"
     },
     {
       "@context": "https://schema.org/",
@@ -236,69 +324,7 @@
         "totalTime": null
       },
       "url": "shrimp-spread-10",
-      "similarity": "0.6053"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Baked Cauliflower",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "June Schroeder"
-        },
-        {
-          "@type": "Person",
-          "name": "Marie Dinney"
-        }
-      ],
-      "description": "A creamy baked cauliflower casserole with cheese, mayonnaise, and curry powder.",
-      "recipeCategory": "Side Dish",
-      "recipeCuisine": "American",
-      "prepTime": "PT10M",
-      "cookTime": "PT30M",
-      "totalTime": "PT40M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "1 large cauliflower, broken apart",
-        "1 (10 oz) can cream of chicken soup",
-        "1 cup shredded cheese",
-        "1/3 cup mayonnaise",
-        "1/2 tsp salt",
-        "1/2 tsp curry powder",
-        "1/4 cup bread crumbs",
-        "2 Tbsp melted butter"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Cook cauliflower in boiling water and salt for 10 minutes."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "In a casserole dish, stir together undiluted soup, cheese, mayonnaise, and curry powder."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cauliflower and mix well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Toss bread crumbs in melted butter and sprinkle on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Bake for 30 minutes at 250°F until bubbly."
-        }
-      ],
-      "keywords": "baked cauliflower, cheesy casserole",
-      "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "30 minutes",
-        "totalTime": "40 minutes"
-      },
-      "url": "baked-cauliflower-143",
-      "similarity": "0.5951"
+      "similarity": "0.5731"
     }
   ]
 }

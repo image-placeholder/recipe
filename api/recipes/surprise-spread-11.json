@@ -104,7 +104,47 @@
         "totalTime": null
       },
       "url": "shrimp-spread-10",
-      "similarity": "0.7861"
+      "similarity": "0.8146"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers."
+        }
+      ],
+      "keywords": "crab dip, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-dip-20",
+      "similarity": "0.7128"
     },
     {
       "@context": "https://schema.org/",
@@ -163,173 +203,113 @@
         "totalTime": "10 minutes"
       },
       "url": "crab-cheese-platter-7",
-      "similarity": "0.7347"
+      "similarity": "0.6856"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Party Salmon Ball",
+      "name": "Salmon Dip",
       "author": {
         "@type": "Person",
-        "name": "Tanya Allen"
+        "name": "Jo Anne Pickering"
       },
-      "description": "A classic chilled salmon and cream cheese ball coated in crunchy nuts and parsley.",
+      "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
       "recipeCategory": "Appetizer",
       "recipeCuisine": "American",
-      "prepTime": "PT15M",
+      "prepTime": "PT5M",
       "cookTime": "PT0M",
-      "totalTime": "PT8H15M",
-      "recipeYield": "1 cheese ball",
+      "totalTime": "PT5M",
       "recipeIngredient": [
-        "1 (8 oz) pkg cream cheese, softened",
-        "1 (16 oz) can salmon, drained and flaked",
-        "¼ tsp Liquid Smoke",
-        "¼ tsp salt",
-        "1 Tbsp finely chopped onion",
-        "⅓ cup nuts",
-        "¼ cup parsley flakes"
+        "1 (8 oz) package cream cheese, softened",
+        "1 can red salmon",
+        "1 tsp garlic powder or 1 fresh garlic clove, minced",
+        "2 tsp lemon juice",
+        "2 Tbsp onion, minced",
+        "1 Tbsp fresh or dry parsley"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Mix all ingredients together except for the nuts and parsley."
+          "text": "Drain the salmon and remove any bones."
         },
         {
           "@type": "HowToStep",
-          "text": "Shape the mixture into a ball."
+          "text": "Use a fork to flake the salmon before adding other ingredients."
         },
         {
           "@type": "HowToStep",
-          "text": "Cover and refrigerate for at least 8 hours (but no longer than 4 days)."
+          "text": "Combine the softened cream cheese with the salmon and all remaining ingredients."
         },
         {
           "@type": "HowToStep",
-          "text": "Roll the ball in a mixture of nuts and parsley to coat evenly before serving."
+          "text": "Mix well and serve with crackers or as a spread."
         }
       ],
-      "keywords": "salmon ball, cheese ball, party dip, holiday appetizer",
+      "keywords": "salmon dip, salmon spread, red salmon",
       "_naturalized_times": {
-        "prepTime": "15 minutes",
+        "prepTime": "5 minutes",
         "cookTime": "",
-        "totalTime": "8 hours 15 minutes"
+        "totalTime": "5 minutes"
       },
-      "url": "party-salmon-ball-8",
-      "similarity": "0.6938"
+      "url": "salmon-dip-9",
+      "similarity": "0.6568"
     },
     {
       "@context": "https://schema.org/",
       "@type": "Recipe",
-      "name": "Cottage Cheese Jellied Salad",
+      "name": "Cheese Dip in a Bread Bowl",
       "author": {
         "@type": "Person",
-        "name": "Jean E. Neil"
+        "name": "Sherri Haugh"
       },
-      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
-      "recipeCategory": "Salad",
-      "recipeCuisine": "American",
-      "prepTime": "PT15M",
-      "cookTime": "PT0M",
-      "totalTime": "PT2H15M",
-      "recipeYield": "4 servings",
-      "recipeIngredient": [
-        "3 oz package orange or lemon flavored gelatin",
-        "1 cup boiling water",
-        "1 cup drained crushed pineapple",
-        "½ cup chopped walnuts (optional)",
-        "½ cup mayonnaise",
-        "1 cup cottage cheese"
-      ],
-      "recipeInstructions": [
-        {
-          "@type": "HowToStep",
-          "text": "Dissolve gelatin in boiling water."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add mayonnaise and whisk to blend."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Chill until the mixture starts to set."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
-        }
-      ],
-      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
-      "_naturalized_times": {
-        "prepTime": "15 minutes",
-        "cookTime": "",
-        "totalTime": "2 hours 15 minutes"
-      },
-      "url": "cottage-cheese-jellied-salad-66",
-      "similarity": "0.6812"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "Recipe",
-      "name": "Nacho Dip",
-      "author": {
-        "@type": "Person",
-        "name": "Meghan Brand"
-      },
-      "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
       "recipeCategory": "Appetizer",
-      "recipeCuisine": "Mexican-American",
-      "prepTime": "PT10M",
-      "cookTime": "PT0M",
-      "totalTime": "PT10M",
-      "recipeYield": "1 large glass pan",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
       "recipeIngredient": [
-        "8 oz pkg cream cheese",
-        "500 g tub sour cream",
-        "¼ pkg taco seasoning mix",
-        "1 cup shredded cheddar cheese",
-        "1 small container salsa sauce",
-        "1 chopped red pepper",
-        "1 chopped green pepper",
-        "1 chopped tomato",
-        "Baked nacho chips for serving"
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
       ],
       "recipeInstructions": [
         {
           "@type": "HowToStep",
-          "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread the mixture in a large glass pan."
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
         },
         {
           "@type": "HowToStep",
-          "text": "Spread salsa sauce over the cream cheese layer."
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
         },
         {
           "@type": "HowToStep",
-          "text": "Sprinkle shredded cheddar cheese over the salsa layer."
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
         },
         {
           "@type": "HowToStep",
-          "text": "Add chopped red pepper, green pepper, and tomato on top."
-        },
-        {
-          "@type": "HowToStep",
-          "text": "Serve with baked nacho chips."
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
         }
       ],
-      "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
       "_naturalized_times": {
-        "prepTime": "10 minutes",
-        "cookTime": "",
-        "totalTime": "10 minutes"
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
       },
-      "url": "nacho-dip-29",
-      "similarity": "0.6765"
+      "url": "cheese-dip-in-a-bread-bowl-4",
+      "similarity": "0.6202"
     }
   ]
 }
