@@ -46,7 +46,7 @@ module Jekyll
           schema = data.dup
 
           # 🔥 Remove persisted build-time fields to be removed from recipe schemas.
-          ["_naturalized_times", "_url", "_similar"].each do |field|
+          ["_naturalized_times", "url", "_similar"].each do |field|
             schema.delete(field) if schema.key?(field)
           end
           
@@ -75,8 +75,8 @@ module Jekyll
           end
           
           # 🔥 Remove persisted build-time field
-          if data.key?("_url")
-            data.delete("_url")
+          if data.key?("url")
+            data.delete("url")
           end
           
           # 🔥 Remove persisted build-time field
