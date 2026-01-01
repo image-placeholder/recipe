@@ -2,8 +2,7 @@ import { pipeline } from '@xenova/transformers';
 import path from "path";
 import fs from "fs";
 
-import { pipeline } from 'https://esm.sh/@huggingface/transformers';
-import fs from 'fs';
+
 
 class RecipeEngine {
   constructor(storagePath = './embeddings.json') {
