@@ -61,7 +61,7 @@ export class RecipeEngine {
     return v1.reduce((acc, val, i) => acc + val * v2[i], 0);
   }
 
-  getRecommendations(targetId, allRecipes, topN = 3) {
+  async getRecommendations(targetId, allRecipes, topN = 3) {
     const targetVec = this.cache[targetId];
     if (!targetVec) return [];
 
