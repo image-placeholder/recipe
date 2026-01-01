@@ -1,6 +1,6 @@
-const { pipeline } = require('@huggingface/transformers');
-const fs = require('fs');
-const path = require('path');
+import { pipeline } from '@huggingface/transformers';
+import path from "path";
+import fs from "fs";
 
  export class RecipeEngine {
   constructor(storagePath = './embeddings.json') {
