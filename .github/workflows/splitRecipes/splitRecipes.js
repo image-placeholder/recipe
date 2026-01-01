@@ -124,14 +124,14 @@ const generateRecipes = async () => {
     const recipes = JSON.parse(rawData);
     console.log(`Processing ${recipes.length} recipes...`);
 
-    // First pass: Pre-assign URLs so recommendations have valid links
+    // First pass: Pre-assign URLs so recommendations have valid links when rendered in JEKYLL. 
     const recipesWithUrls = recipes.map((recipe, index) => {
       const id = recipe.id || (index + 1);
       const baseSlug = slugify(recipe.name || 'untitled-recipe');
       const fileName = `${baseSlug}-${id}`;
       return {
         ...recipe,
-        url: fileName
+        _url: fileName
       };
     });
 
