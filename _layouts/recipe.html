@@ -121,6 +121,102 @@
             {{ recipe.name }}   {{ recipe.description }}  {{ recipe.url }}  {{ recipe.similarity }}
     {{ recipe.similarity }}
 {% endfor %}
+
+
+{% assign recommendations = page._similar %}
+
+
+{% if recommendations and recommendations.size > 0 %}
+<section class="max-w-7xl mx-auto px-6 py-20 border-t border-stone-200 mt-20">
+  <h3 class="serif text-3xl mb-12">
+    Similar Recipes
+  </h3>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    {% for recipe in page._similar %}
+      <a href="/{{ recipe.url }}"
+         class="group border border-stone-200 p-8 bg-white hover:shadow-lg transition-all duration-500">
+
+        <span class="text-xs uppercase tracking-widest text-stone-400 mb-4 block">
+          Recommended
+        </span>
+
+        <h4 class="text-2xl mb-4 group-hover:text-amber-900 transition-colors">
+          {{ recipe.name }}
+        </h4>
+
+        <p class="text-sm text-stone-500 leading-relaxed mb-6">
+          {{ recipe.description }}
+        </p>
+
+        <div class="flex items-center justify-between text-xs uppercase tracking-widest font-bold">
+          <span class="border-b border-stone-900">
+            View Recipe
+          </span>
+
+          {% if recipe.similarity %}
+          <span class="text-stone-400">
+            Match {{ recipe.similarity | times: 100 | round }}%
+          </span>
+          {% endif %}
+        </div>
+
+      </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+
+    
+{% if recommendations and recommendations.size > 0 %}
+<section class="max-w-7xl mx-auto px-6 py-20 border-t border-stone-200 mt-20">
+  <h3 class="serif text-3xl mb-12">
+    Explore Similar Recipes
+  </h3>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    {% for recipe in recommendations %}
+      <a href="/{{ recipe.url }}"
+         class="group border border-stone-200 p-8 bg-white
+                hover:shadow-lg transition-all duration-500
+                opacity-0 translate-y-6 animate-fade-up"
+         style="animation-delay: {{ forloop.index0 | times: 120 }}ms">
+
+        <span class="text-xs uppercase tracking-widest text-stone-400 mb-4 block">
+          {% if page._similar and page._similar.size > 0 %}
+            Recommended
+          {% else %}
+            From the Archive
+          {% endif %}
+        </span>
+
+        <h4 class="text-2xl mb-4 group-hover:text-amber-900 transition-colors">
+          {{ recipe.name }}
+        </h4>
+
+        <p class="text-sm text-stone-500 leading-relaxed mb-6">
+          {{ recipe.description }}
+        </p>
+
+        <div class="flex items-center justify-between text-xs uppercase tracking-widest font-bold">
+          <span class="border-b border-stone-900">
+            View Recipe
+          </span>
+
+          {% if recipe.similarity %}
+          <span class="text-stone-400">
+            Match {{ recipe.similarity | times: 100 | round }}%
+          </span>
+          {% endif %}
+        </div>
+
+      </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
     
 {% include social_share.html %} 
     
