@@ -122,7 +122,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "recipes/favourite-chicken-241",
+      "url": "favourite-chicken-241",
       "similarity": "0.43"
     },
     {
@@ -176,7 +176,7 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "url": "recipes/spaghetti-sauce-187",
+      "url": "spaghetti-sauce-187",
       "similarity": "0.36"
     },
     {
@@ -230,7 +230,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "recipes/chicken-breast-212",
+      "url": "chicken-breast-212",
       "similarity": "0.34"
     },
     {
@@ -304,7 +304,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "url": "recipes/classy-chicken-243",
+      "url": "classy-chicken-243",
       "similarity": "0.34"
     },
     {
@@ -367,9 +367,8 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "recipes/parmesan-chicken-239",
+      "url": "parmesan-chicken-239",
       "similarity": "0.33"
     }
-  ],
-  "url": "chicken-supreme-238.json"
+  ]
 }

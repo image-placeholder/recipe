@@ -126,7 +126,7 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 30 minutes"
       },
-      "url": "recipes/beef-barley-soup-100",
+      "url": "beef-barley-soup-100",
       "similarity": "0.30"
     },
     {
@@ -186,7 +186,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "recipes/minestrone-soup-with-shells-117",
+      "url": "minestrone-soup-with-shells-117",
       "similarity": "0.28"
     },
     {
@@ -238,7 +238,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "recipes/veggie-basic-soup-120",
+      "url": "veggie-basic-soup-120",
       "similarity": "0.27"
     },
     {
@@ -286,7 +286,7 @@
         "cookTime": "2 hours 30 minutes",
         "totalTime": "2 hours 45 minutes"
       },
-      "url": "recipes/cream-of-potato-soup-126",
+      "url": "cream-of-potato-soup-126",
       "similarity": "0.26"
     },
     {
@@ -354,9 +354,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "recipes/tortilla-soup-124",
+      "url": "tortilla-soup-124",
       "similarity": "0.26"
     }
-  ],
-  "url": "beef-borsch-with-sour-cream-98.json"
+  ]
 }

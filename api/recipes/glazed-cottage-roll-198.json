@@ -92,7 +92,7 @@
         "cookTime": "25 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "recipes/sliced-ham-199",
+      "url": "sliced-ham-199",
       "similarity": "0.44"
     },
     {
@@ -137,7 +137,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "recipes/chicken-celebrity-237",
+      "url": "chicken-celebrity-237",
       "similarity": "0.29"
     },
     {
@@ -197,7 +197,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "url": "recipes/delicious-meat-loaf-156",
+      "url": "delicious-meat-loaf-156",
       "similarity": "0.29"
     },
     {
@@ -255,7 +255,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "url": "recipes/oven-barbecued-pork-chops-210",
+      "url": "oven-barbecued-pork-chops-210",
       "similarity": "0.27"
     },
     {
@@ -299,9 +299,8 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "url": "recipes/spareribs-to-go-204",
+      "url": "spareribs-to-go-204",
       "similarity": "0.26"
     }
-  ],
-  "url": "glazed-cottage-roll-198.json"
+  ]
 }

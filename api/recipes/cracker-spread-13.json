@@ -81,7 +81,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "url": "recipes/cheese-ball-2",
+      "url": "cheese-ball-2",
       "similarity": "0.35"
     },
     {
@@ -126,7 +126,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "url": "recipes/shrimp-spread-10",
+      "url": "shrimp-spread-10",
       "similarity": "0.32"
     },
     {
@@ -177,7 +177,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "recipes/sausage-balls-44",
+      "url": "sausage-balls-44",
       "similarity": "0.31"
     },
     {
@@ -241,7 +241,7 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "recipes/artichoke-appetizer-1",
+      "url": "artichoke-appetizer-1",
       "similarity": "0.30"
     },
     {
@@ -309,9 +309,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "recipes/rumaki-41",
+      "url": "rumaki-41",
       "similarity": "0.28"
     }
-  ],
-  "url": "cracker-spread-13.json"
+  ]
 }

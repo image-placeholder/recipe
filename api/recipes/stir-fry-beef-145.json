@@ -119,7 +119,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "url": "recipes/chicken-pineapple-stir-fry-221",
+      "url": "chicken-pineapple-stir-fry-221",
       "similarity": "0.41"
     },
     {
@@ -177,7 +177,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "recipes/beef-taco-bake-186",
+      "url": "beef-taco-bake-186",
       "similarity": "0.37"
     },
     {
@@ -227,7 +227,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "recipes/pepper-chicken-fettucini-236",
+      "url": "pepper-chicken-fettucini-236",
       "similarity": "0.33"
     },
     {
@@ -289,7 +289,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "recipes/stir-fry-chicken-225",
+      "url": "stir-fry-chicken-225",
       "similarity": "0.33"
     },
     {
@@ -346,9 +346,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "url": "recipes/beef-porcupines-163",
+      "url": "beef-porcupines-163",
       "similarity": "0.33"
     }
-  ],
-  "url": "stir-fry-beef-145.json"
+  ]
 }

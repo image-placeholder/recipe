@@ -103,7 +103,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "recipes/tomato-macaroni-soup-123",
+      "url": "tomato-macaroni-soup-123",
       "similarity": "0.44"
     },
     {
@@ -151,7 +151,7 @@
         "cookTime": "2 hours 30 minutes",
         "totalTime": "2 hours 45 minutes"
       },
-      "url": "recipes/cream-of-potato-soup-126",
+      "url": "cream-of-potato-soup-126",
       "similarity": "0.38"
     },
     {
@@ -201,7 +201,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "recipes/creamy-broccoli-soup-112",
+      "url": "creamy-broccoli-soup-112",
       "similarity": "0.37"
     },
     {
@@ -256,7 +256,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "recipes/richards-sunday-soup-121",
+      "url": "richards-sunday-soup-121",
       "similarity": "0.36"
     },
     {
@@ -321,9 +321,8 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour"
       },
-      "url": "recipes/cream-of-asparagus-soup-99",
+      "url": "cream-of-asparagus-soup-99",
       "similarity": "0.35"
     }
-  ],
-  "url": "cabbage-soup-106.json"
+  ]
 }

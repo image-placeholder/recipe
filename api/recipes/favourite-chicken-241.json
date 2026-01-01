@@ -106,7 +106,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "recipes/chicken-breast-212",
+      "url": "chicken-breast-212",
       "similarity": "0.48"
     },
     {
@@ -176,7 +176,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "url": "recipes/chicken-supreme-238",
+      "url": "chicken-supreme-238",
       "similarity": "0.43"
     },
     {
@@ -250,7 +250,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "url": "recipes/classy-chicken-243",
+      "url": "classy-chicken-243",
       "similarity": "0.42"
     },
     {
@@ -311,7 +311,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "url": "recipes/stuffing-and-chicken-242",
+      "url": "stuffing-and-chicken-242",
       "similarity": "0.41"
     },
     {
@@ -369,9 +369,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "recipes/supreme-broccoli-soup-casserole-128",
+      "url": "supreme-broccoli-soup-casserole-128",
       "similarity": "0.41"
     }
-  ],
-  "url": "favourite-chicken-241.json"
+  ]
 }

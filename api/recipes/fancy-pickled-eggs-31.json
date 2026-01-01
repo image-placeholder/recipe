@@ -104,7 +104,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "url": "recipes/plain-pickled-eggs-30",
+      "url": "plain-pickled-eggs-30",
       "similarity": "0.58"
     },
     {
@@ -172,7 +172,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "recipes/rumaki-41",
+      "url": "rumaki-41",
       "similarity": "0.29"
     },
     {
@@ -215,7 +215,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "url": "recipes/vegetable-dip-18",
+      "url": "vegetable-dip-18",
       "similarity": "0.26"
     },
     {
@@ -263,7 +263,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "recipes/sticky-wings-37",
+      "url": "sticky-wings-37",
       "similarity": "0.26"
     },
     {
@@ -327,9 +327,8 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "recipes/artichoke-appetizer-1",
+      "url": "artichoke-appetizer-1",
       "similarity": "0.26"
     }
-  ],
-  "url": "fancy-pickled-eggs-31.json"
+  ]
 }

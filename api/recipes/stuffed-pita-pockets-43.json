@@ -98,7 +98,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "recipes/cheese-english-muffins-38",
+      "url": "cheese-english-muffins-38",
       "similarity": "0.34"
     },
     {
@@ -138,7 +138,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "url": "recipes/fruit-dip-24",
+      "url": "fruit-dip-24",
       "similarity": "0.32"
     },
     {
@@ -202,7 +202,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "recipes/veggie-pizza-47",
+      "url": "veggie-pizza-47",
       "similarity": "0.31"
     },
     {
@@ -247,7 +247,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "recipes/stuffed-mushrooms-32",
+      "url": "stuffed-mushrooms-32",
       "similarity": "0.31"
     },
     {
@@ -311,9 +311,8 @@
         "cookTime": null,
         "totalTime": null
       },
-      "url": "recipes/surprise-spread-11",
+      "url": "surprise-spread-11",
       "similarity": "0.29"
     }
-  ],
-  "url": "stuffed-pita-pockets-43.json"
+  ]
 }

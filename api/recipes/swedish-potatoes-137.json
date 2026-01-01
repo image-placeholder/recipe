@@ -120,7 +120,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "recipes/baked-cauliflower-143",
+      "url": "baked-cauliflower-143",
       "similarity": "0.41"
     },
     {
@@ -171,7 +171,7 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "recipes/broccoli-casserole-133",
+      "url": "broccoli-casserole-133",
       "similarity": "0.38"
     },
     {
@@ -235,7 +235,7 @@
         "cookTime": "40 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "recipes/cauliflower-broccoli-casserole-144",
+      "url": "cauliflower-broccoli-casserole-144",
       "similarity": "0.38"
     },
     {
@@ -292,7 +292,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "url": "recipes/sliced-baked-potatoes-138",
+      "url": "sliced-baked-potatoes-138",
       "similarity": "0.36"
     },
     {
@@ -349,9 +349,8 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "recipes/potato-casserole-141",
+      "url": "potato-casserole-141",
       "similarity": "0.30"
     }
-  ],
-  "url": "swedish-potatoes-137.json"
+  ]
 }

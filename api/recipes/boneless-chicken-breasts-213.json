@@ -99,7 +99,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "recipes/chicken-breast-212",
+      "url": "chicken-breast-212",
       "similarity": "0.60"
     },
     {
@@ -162,7 +162,7 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "recipes/lemon-chicken-with-thyme-224",
+      "url": "lemon-chicken-with-thyme-224",
       "similarity": "0.41"
     },
     {
@@ -221,7 +221,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "recipes/favourite-chicken-241",
+      "url": "favourite-chicken-241",
       "similarity": "0.41"
     },
     {
@@ -284,7 +284,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "recipes/parmesan-chicken-239",
+      "url": "parmesan-chicken-239",
       "similarity": "0.40"
     },
     {
@@ -344,9 +344,8 @@
         "cookTime": null,
         "totalTime": null
       },
-      "url": "recipes/chicken-glazed-with-basil-balsamic-vinegar-214",
+      "url": "chicken-glazed-with-basil-balsamic-vinegar-214",
       "similarity": "0.38"
     }
-  ],
-  "url": "boneless-chicken-breasts-213.json"
+  ]
 }

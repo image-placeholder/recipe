@@ -104,7 +104,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "recipes/stir-fry-beef-145",
+      "url": "stir-fry-beef-145",
       "similarity": "0.33"
     },
     {
@@ -161,7 +161,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "recipes/pasta-tie-bow-and-beef-146",
+      "url": "pasta-tie-bow-and-beef-146",
       "similarity": "0.32"
     },
     {
@@ -224,7 +224,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "recipes/parmesan-chicken-239",
+      "url": "parmesan-chicken-239",
       "similarity": "0.32"
     },
     {
@@ -262,7 +262,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "recipes/chicken-fajitas-228",
+      "url": "chicken-fajitas-228",
       "similarity": "0.32"
     },
     {
@@ -318,9 +318,8 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "recipes/chicken-fajitas-226",
+      "url": "chicken-fajitas-226",
       "similarity": "0.29"
     }
-  ],
-  "url": "pepper-chicken-fettucini-236.json"
+  ]
 }

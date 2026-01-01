@@ -105,7 +105,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "recipes/cabbage-casserole-130",
+      "url": "cabbage-casserole-130",
       "similarity": "0.38"
     },
     {
@@ -165,7 +165,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "url": "recipes/delicious-meat-loaf-156",
+      "url": "delicious-meat-loaf-156",
       "similarity": "0.37"
     },
     {
@@ -220,7 +220,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "url": "recipes/broccoli-casserole-129",
+      "url": "broccoli-casserole-129",
       "similarity": "0.36"
     },
     {
@@ -289,7 +289,7 @@
         "cookTime": "30 minutes",
         "totalTime": "1 hour 15 minutes"
       },
-      "url": "recipes/turkey-or-chicken-pies-251",
+      "url": "turkey-or-chicken-pies-251",
       "similarity": "0.35"
     },
     {
@@ -355,9 +355,8 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "recipes/florentine-lasagna-rolls-194",
+      "url": "florentine-lasagna-rolls-194",
       "similarity": "0.33"
     }
-  ],
-  "url": "ham-casserole-200.json"
+  ]
 }
