@@ -131,7 +131,7 @@ const generateRecipes = async () => {
       const fileName = `${baseSlug}-${id}`;
       return {
         ...recipe,
-        _url: fileName
+        url: fileName
       };
     });
 
