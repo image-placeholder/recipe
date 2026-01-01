@@ -1,0 +1,337 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Layered Coleslaw Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Kim MacDonald"
+  },
+  "description": "A layered coleslaw salad with shredded carrots, snow peas, and a creamy Miracle Whip dressing.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT8H20M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "1/2 head cabbage, shredded",
+    "1 pkg (8.5 oz) Oriental flavor dry noodles",
+    "4 handfuls snow peas",
+    "1 bunch chopped green onions",
+    "1 sliced red pepper",
+    "5 shredded carrots",
+    "1 cup Miracle Whip dressing",
+    "1 cup sour cream"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Shred cabbage and place in bottom of large glass bowl. Top with remaining ingredients in order given."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine Miracle Whip, sour cream, and package of noodle seasoning. Spread evenly over salad."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover and let stand overnight."
+    }
+  ],
+  "keywords": "layered coleslaw, creamy dressing, overnight salad",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "",
+    "totalTime": "8 hours 20 minutes"
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Coleslaw Chalet Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (medium size) head cabbage, shredded",
+        "2 carrots, finely chopped",
+        "1 Spanish onion, minced",
+        "3 stalks celery, finely chopped",
+        "¾ cup white sugar",
+        "¾ cup salad oil",
+        "1 cup white vinegar",
+        "2 tsp salt",
+        "1 tsp celery seed",
+        "1 Green pepper, finely chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring all dressing ingredients to a boil and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
+        }
+      ],
+      "keywords": "coleslaw, chalet dressing, salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "coleslaw-chalet-dressing-57",
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mandarin Orange Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic spinach and lettuce salad with mandarin oranges and toasted almonds, dressed with a sweet and tangy homemade vinaigrette.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 bunch romaine lettuce",
+        "1 leaf red tip lettuce",
+        "1 pkg fresh spinach",
+        "4 (10 oz) cans mandarin oranges, drained",
+        "1 cup slivered almonds, toasted",
+        "½ small red onion, chopped",
+        "Dressing:",
+        "½ cup sugar",
+        "¼ cup vinegar",
+        "1 tsp dry mustard",
+        "1 tsp salt",
+        "1 cup vegetable oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and clean the romaine lettuce, red tip lettuce, and spinach. Dry thoroughly and rip into bite-sized pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, combine sugar, vinegar, mustard, and salt. Bring to a boil, then allow to cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Once cooled, blend the dressing mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the prepared lettuce mixture about 10 minutes before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, add the drained mandarin oranges and toasted slivered almonds."
+        }
+      ],
+      "keywords": "mandarin orange salad, spinach salad, homemade dressing",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "url": "mandarin-orange-salad-88",
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "A hearty taco salad with seasoned ground beef, lettuce, cheese, and crushed taco chips, mixed with Catalina dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 lb ground beef (hamburg)",
+        "1 pkg taco seasoning mix",
+        "1 head lettuce, chopped",
+        "1 cup shredded cheddar cheese",
+        "1 (250 g) bag cheese taco chips, crushed",
+        "1 chopped tomato",
+        "Catalina dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate the cooked beef until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully add in the chopped tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
+        }
+      ],
+      "keywords": "taco salad, ground beef, taco chips, Catalina dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "taco-salad-92",
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sauerkraut Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the dressing cool to room temperature."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the cooled dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+        }
+      ],
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "sauerkraut-salad-82",
+      "similarity": "0.31"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Marinated Vegetable Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A colorful salad of marinated vegetables including cauliflower, broccoli, carrots, and radishes, dressed with Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT0M",
+      "totalTime": "PT30M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 medium cauliflower",
+        "1 bunch broccoli",
+        "3 celery stalks",
+        "1/2 English cucumber",
+        "1/2 bunch radishes",
+        "Baby carrots",
+        "Cherry tomatoes",
+        "1 bottle Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and clean all the vegetables, then drain well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Break cauliflower and broccoli into bite-sized pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Trim radishes and carrots; leave whole or cut into bite-sized pieces if large."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut celery into 3-inch pieces and slice cucumber into 1/2-inch slices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Leave cherry tomatoes whole and place all vegetables in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour Italian dressing over the vegetables and let set for a few hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve as finger food or as a salad."
+        }
+      ],
+      "keywords": "marinated vegetables, vegetable salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "",
+        "totalTime": "30 minutes"
+      },
+      "url": "marinated-vegetable-salad-94",
+      "similarity": "0.31"
+    }
+  ]
+}

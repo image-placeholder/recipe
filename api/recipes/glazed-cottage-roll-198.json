@@ -1,0 +1,306 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Glazed Cottage Roll",
+  "author": {
+    "@type": "Person",
+    "name": "Rosemary Stewart"
+  },
+  "description": "A sweet and savory glazed cottage roll baked with a mustard and brown sugar crust.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT2H15M",
+  "totalTime": "PT2H35M",
+  "recipeYield": "1 glazed cottage roll",
+  "recipeIngredient": [
+    "1 sweet pickled cottage roll",
+    "1 clove garlic, crushed",
+    "1 bay leaf",
+    "3 Tsp prepared mustard",
+    "6 whole cloves",
+    "3 Tbsp brown sugar",
+    "1 onion, quartered"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Remove outer wrapper from cottage roll. Place in large saucepan and cover with water. Add bay leaf, cloves, garlic and onion."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to a boil, cover pan and reduce heat to simmer. Cook for 1½ to 2 hours or until meat thermometer registers 170°F (75°C)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lift meat from water and remove netting. Place in shallow pan or casserole dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blend mustard and brown sugar together. Spread over cottage roll."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in 425°F (220°C) oven for 15 minutes, basting occasionally, until glaze is set."
+    }
+  ],
+  "keywords": "glazed cottage roll, baked ham, sweet glaze",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "2 hours 15 minutes",
+    "totalTime": "2 hours 35 minutes"
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sliced Ham",
+      "author": {
+        "@type": "Person",
+        "name": "Evelyn Pickering"
+      },
+      "description": "A simple baked ham recipe with a brown sugar, mustard, and allspice topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT25M",
+      "totalTime": "PT30M",
+      "recipeYield": "6 slices",
+      "recipeIngredient": [
+        "6 slices ham, about ½ inch thick",
+        "1 Tbsp dry mustard",
+        "¾ cup brown sugar",
+        "1 Tbsp allspice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place ham slices on a cookie sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix brown sugar, dry mustard, and allspice together. Sprinkle over ham slices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in 350°F oven for 20 to 30 minutes, turning once and sprinkling additional mixture on the other side."
+        }
+      ],
+      "keywords": "baked ham, glazed ham, sweet ham",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "sliced-ham-199",
+      "similarity": "0.44"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Celebrity",
+      "author": {
+        "@type": "Person",
+        "name": "Rosemary Stewart"
+      },
+      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 to 3 lb chicken parts",
+        "1/4 cup brown sugar",
+        "1 package dry onion soup mix",
+        "1/2 cup ketchup",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken parts in a small roaster or casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 350°F oven for 1 hour or until tender."
+        }
+      ],
+      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "chicken-celebrity-237",
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Delicious Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A classic meatloaf with a cheddar cheese and carrot mixture, topped with a sweet ketchup-mustard glaze.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H50M",
+      "recipeYield": "1 meatloaf",
+      "recipeIngredient": [
+        "1½ lb lean ground beef",
+        "2 eggs",
+        "⅔ cup milk",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "1 cup shredded cheddar cheese",
+        "¼ cup brown sugar",
+        "3 slices fresh bread, crumbled",
+        "¼ cup ketchup",
+        "1 onion, chopped",
+        "4 Tbsp prepared mustard",
+        "½ cup shredded raw carrot"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat eggs in a bowl with a fork, then add milk, salt, pepper, and crumbled bread. Beat until the bread disintegrates."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped onion, shredded carrot, cheddar cheese, and ground beef to the bowl. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack the mixture into a loaf pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine brown sugar, ketchup, and prepared mustard in a small bowl. Spread this glaze over the meatloaf."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for approximately 1½ hours."
+        }
+      ],
+      "keywords": "meatloaf, cheddar cheese, ketchup glaze, classic American",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 50 minutes"
+      },
+      "url": "delicious-meat-loaf-156",
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Oven Barbecued Pork Chops",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Dinney"
+      },
+      "description": "Pork chops marinated in a barbecue sauce and baked in the oven.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 pork loin chops (about 2 lb)",
+        "2 Tbsp packed brown sugar",
+        "3/4 cup ketchup",
+        "1 Tbsp Worcestershire sauce",
+        "1/3 cup chopped onion",
+        "1 tsp chili powder",
+        "1 clove minced garlic",
+        "1/2 tsp dried mustard",
+        "1/4 cup vinegar",
+        "1/2 tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Trim fat from pork chops and place in a single layer in a 13x9 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine ketchup, onions, garlic, vinegar, sugar, Worcestershire sauce, chili powder, mustard, and oregano in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the chops and marinate in the refrigerator for at least 1 hour or up to 8 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with foil and bake in a 350°F oven for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and bake, spooning sauce over chops occasionally, for 15 to 30 minutes or until tender."
+        }
+      ],
+      "keywords": "pork chops, barbecue, oven baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "oven-barbecued-pork-chops-210",
+      "similarity": "0.27"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spareribs to Go",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A versatile spareribs recipe that can be broiled or heated in a glaze sauce, perfect for make-ahead meals.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeIngredient": [
+        "3 to 4 lb spareribs",
+        "1 cup ketchup",
+        "¼ cup soya sauce",
+        "Glaze: 4 crushed garlic cloves",
+        "½ cup honey"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil spareribs, cut into serving pieces, in salted water for 1½ hours. Drain and place in a shallow dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the glaze mixture (garlic and honey) over the ribs. May be frozen for later use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To finish, remove ribs from the glaze and broil 6 inches from heat in the oven or barbecue until crisp. Alternatively, baste ribs and heat in the sauce."
+        }
+      ],
+      "keywords": "spareribs, garlic honey glaze, make-ahead ribs",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "spareribs-to-go-204",
+      "similarity": "0.26"
+    }
+  ]
+}

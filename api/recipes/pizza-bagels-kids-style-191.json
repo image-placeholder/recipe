@@ -1,0 +1,383 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Pizza Bagels (Kids Style)",
+  "author": {
+    "@type": "Person",
+    "name": "Ryan Van Valkengoed"
+  },
+  "description": "A quick and easy microwave pizza bagel recipe perfect for kids, topped with pizza sauce, mozzarella, and favorite toppings.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian-American",
+  "prepTime": "PT5M",
+  "cookTime": "PT1M",
+  "totalTime": "PT6M",
+  "recipeYield": "1 bagel",
+  "recipeIngredient": [
+    "1 bagel",
+    "Pizza sauce",
+    "Mozzarella cheese",
+    "Favorite pizza toppings"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cut the bagel in half and spoon pizza sauce on each half."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle mozzarella cheese over the sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add your favorite pizza toppings."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Microwave for 1 to 2 minutes until the cheese melts. Be careful as they can be hot."
+    }
+  ],
+  "keywords": "pizza bagel, microwave recipe, kids meal",
+  "_naturalized_times": {
+    "prepTime": "5 minutes",
+    "cookTime": "1 minute",
+    "totalTime": "6 minutes"
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza Meatball",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "1 (12 inch) baked pizza crust",
+        "12 oz frozen meatballs, thawed and cut in half",
+        "14 oz pizza sauce, divided",
+        "1¼ tsp dried Italian seasoning",
+        "1½ cups shredded mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place pizza crust in a pizza pan or on a baking sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle 1 cup of shredded mozzarella cheese over the crust."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs on top of the cheese, cut side down."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread remaining pizza sauce over the meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with remaining cheese and Italian seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 400°F oven for approximately 20 minutes, or until cheese is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut into pizza wheels and serve."
+        }
+      ],
+      "keywords": "pizza, meatball, Italian-American, baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "pizza-meatball-193",
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza",
+      "author": {
+        "@type": "Person",
+        "name": "Alan Dick"
+      },
+      "description": "A homemade pizza recipe with a yeast-based crust, topped with spaghetti sauce, various meats, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT1H",
+      "cookTime": "PT20M",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 pizza",
+      "recipeIngredient": [
+        "1 to 2 Tbsp yeast",
+        "1 tsp sugar",
+        "3½ cups flour",
+        "½ tsp salt",
+        "¾ cup vegetable oil",
+        "1¼ cups warm water",
+        "1¾ cups spaghetti sauce",
+        "Sliced pepperoni",
+        "Salami",
+        "Mushrooms",
+        "Bacon",
+        "Ground beef",
+        "Pineapple",
+        "Mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve yeast in warm water with sugar. Let stand in a warm place for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Measure flour and salt into a large bowl. Make a well and pour in the yeast mixture. Stir and add oil gradually, working the dough until thoroughly mixed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Knead the dough, form into a ball, and let stand in a warm place for approximately 45 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll out the dough on a floured pastry board to an even thickness. Transfer to a pizza pan or cookie sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with spaghetti sauce, meats, mushrooms, and other toppings. Finish with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for approximately 20 minutes or until the crust is golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 3 to 5 minutes before cutting and serving."
+        }
+      ],
+      "keywords": "homemade pizza, Italian-American, yeast crust",
+      "_naturalized_times": {
+        "prepTime": "1 hour",
+        "cookTime": "20 minutes",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "pizza-190",
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Ann Haist"
+      },
+      "description": "A hearty pizza-inspired casserole with pasta, pepperoni, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeIngredient": [
+        "2 tsp margarine",
+        "2 cups tiny shell pasta",
+        "1 medium onion, chopped",
+        "2 1/2 qt boiling water",
+        "1 Tbsp oil",
+        "2 tsp salt",
+        "2 (7 1/2 oz) cans tomato sauce",
+        "10 oz can mushrooms, drained",
+        "3 Tbsp Parmesan cheese",
+        "1 tsp oregano",
+        "1 tsp basil",
+        "1 1/2 cups pepperoni slices",
+        "3 cups mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine and sauté chopped onion until soft."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomato sauce, mushrooms, oregano, and basil. Stir and remove from heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta in boiling water with oil and salt for 8 to 10 minutes until tender but firm. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked pasta with Parmesan cheese and 1 cup mozzarella cheese in a 3-quart casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scatter pepperoni slices over the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the tomato-onion sauce and sprinkle with remaining mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, in a 350°F oven for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "pizza-casserole-171",
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Parmesan Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Lorraine Bowers"
+      },
+      "description": "A crispy Parmesan-crusted chicken dish baked with spaghetti sauce and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeIngredient": [
+        "Boneless chicken breasts",
+        "1/3 cup Parmesan cheese",
+        "1 1/3 cups dry bread crumbs",
+        "3 beaten eggs",
+        "1 tsp salt",
+        "1/4 tsp pepper",
+        "Spaghetti sauce",
+        "Grated mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix Parmesan cheese with bread crumbs and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix eggs, salt, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip boneless chicken breasts in egg mixture, then coat with bread crumb mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange coated chicken breasts in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with tinfoil and bake at 350°F for 45 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour spaghetti sauce over the chicken and continue baking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Before serving, sprinkle grated mozzarella cheese on top and bake for an additional 10 minutes until browned."
+        }
+      ],
+      "keywords": "Parmesan chicken, breaded chicken, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "parmesan-chicken-239",
+      "similarity": "0.27"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lasagna",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x13 inch pan",
+      "recipeIngredient": [
+        "1 (15 oz) container cottage cheese",
+        "1 (16 oz) box lasagna noodles",
+        "1½ cups water",
+        "2 (15 oz) jars spaghetti sauce",
+        "8 oz mozzarella cheese, thinly sliced",
+        "½ cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cottage cheese and Parmesan cheese in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread 1½ cups of spaghetti sauce in the bottom of a 13x9x2 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange a layer of uncooked lasagna noodles on top of the sauce, overlapping slightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle half of the mozzarella cheese and half of the cottage cheese mixture over the noodles."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Repeat with another layer of sauce, noodles, and the remaining cheeses."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the top with sauce and cover tightly with heavy foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Set on a jelly roll pan and bake."
+        }
+      ],
+      "keywords": "lasagna, Italian-American, pasta bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "lasagna-192",
+      "similarity": "0.27"
+    }
+  ]
+}

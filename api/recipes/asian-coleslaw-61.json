@@ -1,0 +1,313 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Asian Coleslaw",
+  "author": {
+    "@type": "Person",
+    "name": "Dianne Finkbeiner"
+  },
+  "description": "A crunchy Asian-inspired coleslaw with toasted nuts and noodles.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "Asian-American",
+  "prepTime": "PT15M",
+  "cookTime": "PT5M",
+  "totalTime": "PT20M",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "1 bag cabbage salad",
+    "1/2 to 6 green onions, chopped",
+    "1/4 cup slivered almonds",
+    "1/4 cup sesame seeds",
+    "1 tsp soya sauce",
+    "1 pkg Mr. Noodle (just noodles)",
+    "2 to 3 Tbsp butter",
+    "Salt and pepper",
+    "1/2 cup canola oil",
+    "1/2 cup red wine vinegar",
+    "1/2 cup sugar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown the first 6 ingredients in a frying pan. Let cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add dressing 1/2 hour before serving."
+    }
+  ],
+  "keywords": "Asian coleslaw, toasted nuts, noodles",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "5 minutes",
+    "totalTime": "20 minutes"
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Coleslaw Chalet Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (medium size) head cabbage, shredded",
+        "2 carrots, finely chopped",
+        "1 Spanish onion, minced",
+        "3 stalks celery, finely chopped",
+        "¾ cup white sugar",
+        "¾ cup salad oil",
+        "1 cup white vinegar",
+        "2 tsp salt",
+        "1 tsp celery seed",
+        "1 Green pepper, finely chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring all dressing ingredients to a boil and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
+        }
+      ],
+      "keywords": "coleslaw, chalet dressing, salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "coleslaw-chalet-dressing-57",
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spinach Lettuce Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A fresh and versatile green salad with a homemade balsamic dressing and a crunchy topping made from toasted almonds, sesame seeds, and noodle soup mix.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeIngredient": [
+        "Dressing: ½ cup balsamic vinegar",
+        "½ cup olive oil",
+        "¼ cup white sugar",
+        "1½ cup soya sauce",
+        "Toppings: 1 Tbsp butter",
+        "1 pkg noodle soup mix (without seasoning packet)",
+        "1 pkg slivered almonds",
+        "1 pkg sesame seeds",
+        "Any type of green leafy vegetable (spinach, lettuce, broccoli, coleslaw)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dressing ingredients together and refrigerate until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a pan and add almonds, noodle soup mix (without spice packet), and sesame seeds. Toast until lightly browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the salad greens and store in the refrigerator."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, pour the dressing over the salad and top with the toasted almond mixture."
+        }
+      ],
+      "keywords": "spinach salad, lettuce salad, homemade dressing, crunchy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "spinach-lettuce-salad-83",
+      "similarity": "0.34"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tomato Chickpea Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jennifer Morlock"
+      },
+      "description": "A refreshing salad featuring chickpeas, diced tomatoes, cucumber, and feta cheese, dressed with a tangy vinaigrette.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mediterranean",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 (28 oz) can chickpeas, rinsed and drained",
+        "3 large tomatoes, diced",
+        "1 large cucumber, diced",
+        "6 green onions, chopped",
+        "1 cup crumbled feta cheese",
+        "1/3 cup olive oil",
+        "3 Tbsp white wine vinegar",
+        "1 clove garlic, crushed",
+        "1 tsp dried tarragon",
+        "1 Tbsp parsley",
+        "1/2 tsp dry mustard",
+        "1/4 tsp pepper",
+        "Pinch cayenne pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine chickpeas, diced tomatoes, cucumber, green onions, and feta cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, whisk together olive oil, vinegar, garlic, tarragon, parsley, mustard, pepper, and cayenne pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the dressing with the salad ingredients until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate for several hours before serving."
+        }
+      ],
+      "keywords": "chickpea salad, tomato salad, Mediterranean salad, vinaigrette dressing",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "url": "tomato-chickpea-salad-93",
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sauerkraut Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the dressing cool to room temperature."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the cooled dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+        }
+      ],
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "sauerkraut-salad-82",
+      "similarity": "0.30"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Supreme",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "A chilled broccoli salad with raisins, bacon, and a creamy cheese dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT3H25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "6 cups fresh broccoli",
+        "2 Tbsp vinegar",
+        "2 Tbsp vegetable oil",
+        "1/3 cup raisins",
+        "2 tsp white sugar",
+        "2 Tbsp chopped onion",
+        "1 Tbsp prepared mustard",
+        "6 or 8 slices bacon, cooled and crumbled",
+        "1/4 tsp salt",
+        "1/8 tsp garlic powder",
+        "1 small pkg cream cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat dressing ingredients until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add dressing to broccoli, raisins, and onion. Cover and chill at least 3 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with bacon and serve."
+        }
+      ],
+      "keywords": "broccoli salad, bacon, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "3 hours 25 minutes"
+      },
+      "url": "broccoli-supreme-60",
+      "similarity": "0.30"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Pina Colada Dip",
+  "author": {
+    "@type": "Person",
+    "name": "Betty Glanville"
+  },
+  "description": "A creamy and tropical dip made with pineapple, coconut pudding, and sour cream, perfect for serving with fresh fruit.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PTOvernight",
+  "recipeYield": "1 bowl",
+  "recipeIngredient": [
+    "1 small can crushed pineapple, undrained",
+    "¾ cup milk",
+    "½ cup sour cream",
+    "3½ oz package instant coconut pudding and pie filling (or 1 vanilla pudding and ¼ cup shredded coconut with coconut extract)",
+    "½ tsp coconut extract"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Blend all ingredients together in a food processor or blender until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate overnight to allow flavors to meld."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve chilled with a variety of fresh fruits."
+    }
+  ],
+  "keywords": "pina colada dip, fruit dip, coconut pudding, party appetizer",
+  "_naturalized_times": {
+    "prepTime": "10 minutes",
+    "cookTime": "",
+    "totalTime": null
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fresh Fruit Platter with Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Donelda Lewis"
+      },
+      "description": "A colorful and refreshing fruit platter served with a creamy vanilla pudding dip, optionally flavored with Grand Marnier.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 large platter",
+      "recipeIngredient": [
+        "1 small (113g) pkg vanilla instant pudding",
+        "1½ cups milk (or a combination of 1 cup milk and ½ cup sour cream)",
+        "1 tub (500 mL) Cool Whip",
+        "1 Tbsp Grand Marnier (or other favorite liquor/liqueur), optional",
+        "Assorted fresh fruit (e.g., strawberries, bananas, grapes, apple slices, orange slices, melon)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the vanilla pudding according to the package instructions using either 1½ cups of milk or the specified combination of milk and sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix equal parts of the prepared pudding and Cool Whip until well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using, add Grand Marnier or other liquor/liqueur and blend well into the pudding mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill the dip in the refrigerator until ready to serve."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange a selection of fresh fruit on a platter, alternating between contrasting colors for visual appeal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chilled dip alongside the fresh fruit platter."
+        }
+      ],
+      "keywords": "fresh fruit platter, vanilla pudding dip, Cool Whip, Grand Marnier, healthy appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "fresh-fruit-platter-with-dip-22",
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "cheese-dip-in-a-bread-bowl-4",
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fluffy Fruit Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Lorie Van Volkengoed"
+        },
+        {
+          "@type": "Person",
+          "name": "Kim MacDonald"
+        }
+      ],
+      "description": "A light and airy fruit dip made with softened cream cheese, marshmallow creme, and vanilla extract.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "3 oz cream cheese, softened",
+        "1 tsp vanilla extract",
+        "1 (7 oz) jar marshmallow creme",
+        "Fresh fruit for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, combine the softened cream cheese, marshmallow creme, and vanilla extract."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with your choice of fresh fruit."
+        }
+      ],
+      "keywords": "fluffy fruit dip, marshmallow dip, sweet appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "fluffy-fruit-dip-25",
+      "similarity": "0.29"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Party Salmon Ball",
+      "author": {
+        "@type": "Person",
+        "name": "Tanya Allen"
+      },
+      "description": "A classic chilled salmon and cream cheese ball coated in crunchy nuts and parsley.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H15M",
+      "recipeYield": "1 cheese ball",
+      "recipeIngredient": [
+        "1 (8 oz) pkg cream cheese, softened",
+        "1 (16 oz) can salmon, drained and flaked",
+        "¼ tsp Liquid Smoke",
+        "¼ tsp salt",
+        "1 Tbsp finely chopped onion",
+        "⅓ cup nuts",
+        "¼ cup parsley flakes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together except for the nuts and parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into a ball."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate for at least 8 hours (but no longer than 4 days)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll the ball in a mixture of nuts and parsley to coat evenly before serving."
+        }
+      ],
+      "keywords": "salmon ball, cheese ball, party dip, holiday appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 15 minutes"
+      },
+      "url": "party-salmon-ball-8",
+      "similarity": "0.27"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Louise Wein"
+        }
+      ],
+      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 serving dish",
+      "recipeIngredient": [
+        "1 tsp Accent",
+        "1 cup sour cream",
+        "¼ tsp salt",
+        "1 cup mayonnaise",
+        "¼ tsp celery salt",
+        "1 tsp parsley flakes",
+        "2 drops Tabasco sauce (can be omitted)",
+        "½ tsp dill weed",
+        "1 tsp garlic salt",
+        "Assorted vegetables or crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill before serving with chips, crackers, or vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, sour cream dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "vegetable-dip-17",
+      "similarity": "0.27"
+    }
+  ]
+}

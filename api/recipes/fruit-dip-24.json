@@ -1,0 +1,302 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Fruit Dip",
+  "author": {
+    "@type": "Person",
+    "name": "Suzanne Finkbeiner"
+  },
+  "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "recipeYield": "1 cup",
+  "recipeIngredient": [
+    "8 oz package cream cheese",
+    "2 tsp frozen orange juice concentrate",
+    "½ cup marshmallow creme",
+    "1 tsp grated orange rind"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all ingredients in a dish and beat until smooth and well blended."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately with fresh cut-up fruit."
+    }
+  ],
+  "keywords": "fruit dip, orange cream cheese, marshmallow dip",
+  "_naturalized_times": {
+    "prepTime": "5 minutes",
+    "cookTime": "",
+    "totalTime": "5 minutes"
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fluffy Fruit Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Lorie Van Volkengoed"
+        },
+        {
+          "@type": "Person",
+          "name": "Kim MacDonald"
+        }
+      ],
+      "description": "A light and airy fruit dip made with softened cream cheese, marshmallow creme, and vanilla extract.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "3 oz cream cheese, softened",
+        "1 tsp vanilla extract",
+        "1 (7 oz) jar marshmallow creme",
+        "Fresh fruit for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, combine the softened cream cheese, marshmallow creme, and vanilla extract."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with your choice of fresh fruit."
+        }
+      ],
+      "keywords": "fluffy fruit dip, marshmallow dip, sweet appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "fluffy-fruit-dip-25",
+      "similarity": "0.40"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hot Cheese Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A creamy bacon and cheddar dip baked inside a pumpernickel bread shell.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round pumpernickel bread loaf",
+        "1 (8 oz) package cream cheese",
+        "1 cup Hellmann's mayonnaise",
+        "½ cup grated cheddar cheese",
+        "½ cup bacon bits"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the pumpernickel loaf and hollow it out, leaving a thick shell."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream cheese, mayonnaise, cheddar cheese, and bacon bits until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mixture into the hollowed-out bread."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil, leaving the hole with the cheese mixture uncovered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325°F for 1½ hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the bread pieces."
+        }
+      ],
+      "keywords": "pumpernickel dip, hot bacon dip, cheddar dip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "hot-cheese-dip-5",
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "cheese-dip-in-a-bread-bowl-4",
+      "similarity": "0.33"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers."
+        }
+      ],
+      "keywords": "crab dip, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-dip-20",
+      "similarity": "0.32"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stuffed Pita Pockets",
+      "author": {
+        "@type": "Person",
+        "name": "Jordan Slaght"
+      },
+      "description": "A refreshing appetizer featuring mini pita pockets filled with a creamy ranch and feta cheese mixture, topped with cucumbers and tomatoes.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 bags mini pita pockets",
+        "8 oz cream cheese, softened",
+        "½ cup mayonnaise",
+        "1 pkg powdered ranch dressing mix",
+        "Feta cheese, crumbled",
+        "Cucumbers, diced",
+        "Tomatoes, diced"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the softened cream cheese, mayonnaise, and powdered ranch dressing mix until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble feta cheese into the cream cheese mixture and stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut the mini pita pockets in half and fill with the cheese mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with diced cucumbers and tomatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve and enjoy."
+        }
+      ],
+      "keywords": "pita pockets, ranch dip, feta cheese, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "stuffed-pita-pockets-43",
+      "similarity": "0.32"
+    }
+  ]
+}

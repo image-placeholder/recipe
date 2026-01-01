@@ -1,0 +1,362 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Ham Casserole",
+  "author": {
+    "@type": "Person",
+    "name": "Bernice Martin"
+  },
+  "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT45M",
+  "totalTime": "PT1H",
+  "recipeYield": "6 servings",
+  "recipeIngredient": [
+    "4 cups hash brown potatoes, thawed",
+    "1½ cups chopped ham",
+    "1 cup grated Cracker Barrel cheddar cheese",
+    "1 small onion, chopped",
+    "½ cup Miracle Whip salad dressing",
+    "½ cup milk",
+    "¼ tsp pepper",
+    "½ cup fresh bread crumbs",
+    "1 Tbsp butter or margarine"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with bread crumbs and dot with butter or margarine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F for 45 minutes."
+    }
+  ],
+  "keywords": "ham casserole, potato casserole, comforting main dish",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "45 minutes",
+    "totalTime": "1 hour"
+  },
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Atkinson"
+      },
+      "description": "A creamy cabbage casserole with a crunchy bread crumb topping, baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H10M",
+      "recipeIngredient": [
+        "Cabbage, cut into wedges",
+        "2 Tbsp butter",
+        "2 Tbsp flour",
+        "1 cup milk",
+        "Salt to taste",
+        "Grated cheese",
+        "8 oz Cheez Whiz",
+        "2 slices buttered bread"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook cabbage wedges until tender, then drain and cut into large pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a white sauce with butter, flour, and milk. Season with salt, grated cheese, and Cheez Whiz."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked cabbage with the white sauce mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with crumbled buttered bread."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 45 minutes."
+        }
+      ],
+      "keywords": "cabbage casserole, creamy vegetable dish, comforting main course",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "cabbage-casserole-130",
+      "similarity": "0.38"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Delicious Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A classic meatloaf with a cheddar cheese and carrot mixture, topped with a sweet ketchup-mustard glaze.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H50M",
+      "recipeYield": "1 meatloaf",
+      "recipeIngredient": [
+        "1½ lb lean ground beef",
+        "2 eggs",
+        "⅔ cup milk",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "1 cup shredded cheddar cheese",
+        "¼ cup brown sugar",
+        "3 slices fresh bread, crumbled",
+        "¼ cup ketchup",
+        "1 onion, chopped",
+        "4 Tbsp prepared mustard",
+        "½ cup shredded raw carrot"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat eggs in a bowl with a fork, then add milk, salt, pepper, and crumbled bread. Beat until the bread disintegrates."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped onion, shredded carrot, cheddar cheese, and ground beef to the bowl. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack the mixture into a loaf pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine brown sugar, ketchup, and prepared mustard in a small bowl. Spread this glaze over the meatloaf."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for approximately 1½ hours."
+        }
+      ],
+      "keywords": "meatloaf, cheddar cheese, ketchup glaze, classic American",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 50 minutes"
+      },
+      "url": "delicious-meat-loaf-156",
+      "similarity": "0.37"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeIngredient": [
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "broccoli-casserole-129",
+      "similarity": "0.36"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey or Chicken Pies",
+      "author": {
+        "@type": "Person",
+        "name": "Shirley Preszcator"
+      },
+      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT45M",
+      "cookTime": "PT30M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "Multiple individual pies or 1 large pie",
+      "recipeIngredient": [
+        "½ cup margarine",
+        "1 tsp salt",
+        "1 Tbsp onion, chopped",
+        "1 cup flour",
+        "¼ tsp salt",
+        "1½ tsp baking powder",
+        "3 cups chicken or turkey broth",
+        "3 Tbsp butter",
+        "3 cups diced turkey or chicken",
+        "1 cup frozen peas",
+        "1 cup diced carrots",
+        "½ cup celery, chopped",
+        "⅓ cup milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté chopped onion and celery until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil carrots until thoroughly cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cooked carrots with peas and the sauce made earlier."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the crust is golden brown."
+        }
+      ],
+      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
+      "_naturalized_times": {
+        "prepTime": "45 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "turkey-or-chicken-pies-251",
+      "similarity": "0.35"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Florentine Lasagna Rolls",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "Lasagna noodles rolled with a spinach and ricotta cheese mixture, baked in a creamy Alfredo sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 to 12 servings",
+      "recipeIngredient": [
+        "12 lasagna noodles",
+        "2 packages frozen chopped spinach, thawed",
+        "2 packages Alfredo sauce mix",
+        "4 cups milk",
+        "1 cup ricotta cheese",
+        "2 Tbsp butter or margarine",
+        "1 cup grated mozzarella cheese",
+        "1/2 cup diced red pepper",
+        "2 eggs",
+        "1/2 tsp ground nutmeg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook lasagna noodles according to package directions. Drain and plunge into cold water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a medium saucepan, combine Alfredo sauce mix, milk, and butter. Bring to a boil over medium heat, stirring constantly with a whisk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to medium-low. Add red peppers and simmer for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour half of the sauce into a greased large square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain spinach, pressing out extra moisture. Combine with ricotta cheese, mozzarella cheese, eggs, and nutmeg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain noodles and pat dry. Spread spinach mixture evenly over noodles. Roll up and place seam-down in the baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining sauce. Cover and bake in a 350°F oven for 30 to 40 minutes or until the sauce is bubbling."
+        }
+      ],
+      "keywords": "lasagna rolls, Florentine, spinach, ricotta, Alfredo sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "florentine-lasagna-rolls-194",
+      "similarity": "0.33"
+    }
+  ]
+}
