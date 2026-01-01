@@ -4,6 +4,11 @@ const { isoDuration, en } = require("@musement/iso-duration");
 const _fs = require('fs').promises;
 const {getSimilarRecipes} = require("./similarRecipes.js");
 const humanizeDuration = require('humanize-duration');
+const {RecipeEngine} = require('./RecipeEngine.js');
+// Initialize with a custom filename
+const engine = new RecipeEngine('./recipe-vectors.json');
+
+
 
 
 // ----------------------------------
@@ -67,12 +72,12 @@ async function naturalizeRecipeTimes(recipes) {
 
 
 
-function similarRecipes(recipe, recipes, amount=5) {
+async function similarRecipes(recipe, recipes, amount=5) {
   if (!recipe || typeof recipe !== 'object') return recipe;
 
   return {
     ...recipe,
-    _similar: getSimilarRecipes(recipe, recipes, amount),
+    _similar: await engine.getRecommendations(recipe, recipes, amount),
   };
 }
 
@@ -150,7 +155,7 @@ const generateRecipes = async () => {
       ensureDir(filePath);
 
       // Run Recommendation System
-      const _recipe = similarRecipes(recipe, recipesWithUrls, 5);
+      const _recipe = await similarRecipes(recipe, recipesWithUrls, 5);
       
       // Write individual recipe file
       fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2));
