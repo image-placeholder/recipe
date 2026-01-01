@@ -127,7 +127,7 @@
         "totalTime": "1 hour 20 minutes"
       },
       "url": "bake-sausage-southwest-217",
-      "score": 0.704131131652721
+      "similarity": "0.7041"
     },
     {
       "@context": "https://schema.org/",
@@ -180,7 +180,7 @@
         "totalTime": "20 minutes"
       },
       "url": "zesty-bbq-sauce-136",
-      "score": 0.7006654668215043
+      "similarity": "0.7007"
     },
     {
       "@context": "https://schema.org/",
@@ -238,7 +238,7 @@
         "totalTime": "50 minutes"
       },
       "url": "zippy-spaghetti-sauce-188",
-      "score": 0.6926905685225078
+      "similarity": "0.6927"
     },
     {
       "@context": "https://schema.org/",
@@ -301,7 +301,7 @@
         "totalTime": "55 minutes"
       },
       "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "score": 0.6707899751677658
+      "similarity": "0.6708"
     },
     {
       "@context": "https://schema.org/",
@@ -370,7 +370,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "hawaiian-meatballs-152",
-      "score": 0.6561951495378805
+      "similarity": "0.6562"
     }
   ]
 }

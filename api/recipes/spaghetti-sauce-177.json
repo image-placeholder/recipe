@@ -122,7 +122,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "baked-spaghetti-and-meatballs-176",
-      "score": 0.879889761273051
+      "similarity": "0.8799"
     },
     {
       "@context": "https://schema.org/",
@@ -199,7 +199,7 @@
         "totalTime": "50 minutes"
       },
       "url": "pizza-casserole-171",
-      "score": 0.8510971250125154
+      "similarity": "0.8511"
     },
     {
       "@context": "https://schema.org/",
@@ -271,7 +271,7 @@
         "totalTime": "50 minutes"
       },
       "url": "pizza-casserole-202",
-      "score": 0.8510971250125154
+      "similarity": "0.8511"
     },
     {
       "@context": "https://schema.org/",
@@ -341,7 +341,7 @@
         "totalTime": "50 minutes"
       },
       "url": "spaghetti-casserole-178",
-      "score": 0.8403442150520689
+      "similarity": "0.8403"
     },
     {
       "@context": "https://schema.org/",
@@ -404,7 +404,7 @@
         "totalTime": "30 minutes"
       },
       "url": "mozzarella-spaghetti-skillet-182",
-      "score": 0.8396580007729171
+      "similarity": "0.8397"
     }
   ]
 }

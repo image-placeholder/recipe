@@ -139,7 +139,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "mock-cabbage-rolls-164",
-      "score": 0.6936882531211397
+      "similarity": "0.6937"
     },
     {
       "@context": "https://schema.org/",
@@ -215,7 +215,7 @@
         "totalTime": "50 minutes"
       },
       "url": "chili-turkey-247",
-      "score": 0.6925263164882802
+      "similarity": "0.6925"
     },
     {
       "@context": "https://schema.org/",
@@ -278,7 +278,7 @@
         "totalTime": "55 minutes"
       },
       "url": "meat-balls-and-sour-and-sweet-sauce-160",
-      "score": 0.6922304134587132
+      "similarity": "0.6922"
     },
     {
       "@context": "https://schema.org/",
@@ -340,7 +340,7 @@
         "totalTime": "35 minutes"
       },
       "url": "stir-fry-chicken-225",
-      "score": 0.69035303795111
+      "similarity": "0.6904"
     },
     {
       "@context": "https://schema.org/",
@@ -380,7 +380,7 @@
         "totalTime": "5 minutes"
       },
       "url": "cold-meat-mustard-122",
-      "score": 0.6846824118815109
+      "similarity": "0.6847"
     }
   ]
 }

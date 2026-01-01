@@ -86,7 +86,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "yogurt-dip-19",
-      "score": 0.8033034978999988
+      "similarity": "0.8033"
     },
     {
       "@context": "https://schema.org/",
@@ -129,7 +129,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "curry-dip-14",
-      "score": 0.7961993826331686
+      "similarity": "0.7962"
     },
     {
       "@context": "https://schema.org/",
@@ -175,7 +175,7 @@
         "totalTime": "5 minutes"
       },
       "url": "caesar-dressin-salad-101",
-      "score": 0.7804465960656193
+      "similarity": "0.7804"
     },
     {
       "@context": "https://schema.org/",
@@ -237,7 +237,7 @@
         "totalTime": "35 minutes"
       },
       "url": "stir-fry-chicken-225",
-      "score": 0.7643409740233481
+      "similarity": "0.7643"
     },
     {
       "@context": "https://schema.org/",
@@ -294,7 +294,7 @@
         "totalTime": "8 hours 10 minutes"
       },
       "url": "onion-salad-74",
-      "score": 0.7584349955222331
+      "similarity": "0.7584"
     }
   ]
 }

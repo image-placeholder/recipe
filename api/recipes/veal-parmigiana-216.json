@@ -122,7 +122,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "parmesan-chicken-239",
-      "score": 0.717058090486611
+      "similarity": "0.7171"
     },
     {
       "@context": "https://schema.org/",
@@ -200,7 +200,7 @@
         "totalTime": "1 hour 35 minutes"
       },
       "url": "jelly-roll-style-meat-loaf-154",
-      "score": 0.6700828959798439
+      "similarity": "0.6701"
     },
     {
       "@context": "https://schema.org/",
@@ -277,7 +277,7 @@
         "totalTime": "50 minutes"
       },
       "url": "pizza-casserole-171",
-      "score": 0.6527859551459747
+      "similarity": "0.6528"
     },
     {
       "@context": "https://schema.org/",
@@ -349,7 +349,7 @@
         "totalTime": "50 minutes"
       },
       "url": "pizza-casserole-202",
-      "score": 0.6527859551459747
+      "similarity": "0.6528"
     },
     {
       "@context": "https://schema.org/",
@@ -413,7 +413,7 @@
         "totalTime": "30 minutes"
       },
       "url": "veggie-pizza-47",
-      "score": 0.6451945600114279
+      "similarity": "0.6452"
     }
   ]
 }

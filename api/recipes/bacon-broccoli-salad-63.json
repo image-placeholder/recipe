@@ -118,7 +118,7 @@
         "totalTime": "3 hours 25 minutes"
       },
       "url": "broccoli-supreme-60",
-      "score": 0.8071379751998148
+      "similarity": "0.8071"
     },
     {
       "@context": "https://schema.org/",
@@ -184,7 +184,7 @@
         "totalTime": "30 minutes"
       },
       "url": "fresh-broccoli-mandarin-salad-64",
-      "score": 0.7778475163578779
+      "similarity": "0.7778"
     },
     {
       "@context": "https://schema.org/",
@@ -228,7 +228,7 @@
         "totalTime": "15 minutes"
       },
       "url": "club-salad-68",
-      "score": 0.7591815879740977
+      "similarity": "0.7592"
     },
     {
       "@context": "https://schema.org/",
@@ -293,7 +293,7 @@
         "totalTime": "35 minutes"
       },
       "url": "nacho-salad-73",
-      "score": 0.7185307348179956
+      "similarity": "0.7185"
     },
     {
       "@context": "https://schema.org/",
@@ -361,7 +361,7 @@
         "totalTime": "25 minutes"
       },
       "url": "caesar-salad-59",
-      "score": 0.7055011967234679
+      "similarity": "0.7055"
     }
   ]
 }

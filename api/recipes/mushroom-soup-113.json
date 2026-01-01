@@ -103,7 +103,7 @@
         "totalTime": "25 minutes"
       },
       "url": "chicken-and-broccoli-234",
-      "score": 0.8166398840660728
+      "similarity": "0.8166"
     },
     {
       "@context": "https://schema.org/",
@@ -148,7 +148,7 @@
         "totalTime": "45 minutes"
       },
       "url": "stuffed-mushrooms-32",
-      "score": 0.7548259176384895
+      "similarity": "0.7548"
     },
     {
       "@context": "https://schema.org/",
@@ -193,7 +193,7 @@
         "totalTime": "1 hour 45 minutes"
       },
       "url": "cabbage-soup-106",
-      "score": 0.7544215940196194
+      "similarity": "0.7544"
     },
     {
       "@context": "https://schema.org/",
@@ -238,7 +238,7 @@
         "totalTime": "1 hour 45 minutes"
       },
       "url": "cabbage-soup-109",
-      "score": 0.7544215940196194
+      "similarity": "0.7544"
     },
     {
       "@context": "https://schema.org/",
@@ -295,7 +295,7 @@
         "totalTime": "25 minutes"
       },
       "url": "ginger-noodle-soup-114",
-      "score": 0.7541791767613613
+      "similarity": "0.7542"
     }
   ]
 }

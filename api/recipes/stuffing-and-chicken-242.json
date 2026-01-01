@@ -119,7 +119,7 @@
         "totalTime": "1 hour 10 minutes"
       },
       "url": "parmesan-chicken-239",
-      "score": 0.726092502255964
+      "similarity": "0.7261"
     },
     {
       "@context": "https://schema.org/",
@@ -183,7 +183,7 @@
         "totalTime": "50 minutes"
       },
       "url": "chicken-with-a-chinese-accent-245",
-      "score": 0.6922205390358233
+      "similarity": "0.6922"
     },
     {
       "@context": "https://schema.org/",
@@ -257,7 +257,7 @@
         "totalTime": "55 minutes"
       },
       "url": "classy-chicken-243",
-      "score": 0.6813453500758474
+      "similarity": "0.6813"
     },
     {
       "@context": "https://schema.org/",
@@ -319,7 +319,7 @@
         "totalTime": "35 minutes"
       },
       "url": "turkey-a-la-king-248",
-      "score": 0.6783844622586238
+      "similarity": "0.6784"
     },
     {
       "@context": "https://schema.org/",
@@ -370,7 +370,7 @@
         "totalTime": "25 minutes"
       },
       "url": "chicken-and-broccoli-234",
-      "score": 0.6720349098856289
+      "similarity": "0.6720"
     }
   ]
 }

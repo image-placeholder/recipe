@@ -100,7 +100,7 @@
         "totalTime": "15 minutes"
       },
       "url": "plain-pickled-eggs-30",
-      "score": 0.9007146920917332
+      "similarity": "0.9007"
     },
     {
       "@context": "https://schema.org/",
@@ -158,7 +158,7 @@
         "totalTime": "20 minutes"
       },
       "url": "fancy-pickled-eggs-31",
-      "score": 0.882986928380926
+      "similarity": "0.8830"
     },
     {
       "@context": "https://schema.org/",
@@ -229,7 +229,7 @@
         "totalTime": "35 minutes"
       },
       "url": "hard-boiled-eggsdevilled-eggs-34",
-      "score": 0.757696220395948
+      "similarity": "0.7577"
     },
     {
       "@context": "https://schema.org/",
@@ -281,7 +281,7 @@
         "totalTime": "10 minutes"
       },
       "url": "vegetable-dip-17",
-      "score": 0.7455599399909388
+      "similarity": "0.7456"
     },
     {
       "@context": "https://schema.org/",
@@ -324,7 +324,7 @@
         "totalTime": "5 minutes"
       },
       "url": "vegetable-dip-18",
-      "score": 0.7455599399909388
+      "similarity": "0.7456"
     }
   ]
 }

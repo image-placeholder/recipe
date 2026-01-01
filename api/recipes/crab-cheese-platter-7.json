@@ -94,7 +94,7 @@
         "totalTime": "10 minutes"
       },
       "url": "crab-dip-20",
-      "score": 0.7852911234487125
+      "similarity": "0.7853"
     },
     {
       "@context": "https://schema.org/",
@@ -139,7 +139,7 @@
         "totalTime": null
       },
       "url": "shrimp-spread-10",
-      "score": 0.763398913215463
+      "similarity": "0.7634"
     },
     {
       "@context": "https://schema.org/",
@@ -203,7 +203,7 @@
         "totalTime": "32 minutes"
       },
       "url": "crab-stuffed-mushrooms-46",
-      "score": 0.7604219226063238
+      "similarity": "0.7604"
     },
     {
       "@context": "https://schema.org/",
@@ -277,7 +277,7 @@
         "totalTime": "45 minutes"
       },
       "url": "sloppy-joe-squares-185",
-      "score": 0.7357745421008568
+      "similarity": "0.7358"
     },
     {
       "@context": "https://schema.org/",
@@ -341,7 +341,7 @@
         "totalTime": null
       },
       "url": "surprise-spread-11",
-      "score": 0.7347249044539352
+      "similarity": "0.7347"
     }
   ]
 }

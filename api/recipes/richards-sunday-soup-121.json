@@ -102,7 +102,7 @@
         "totalTime": "50 minutes"
       },
       "url": "veggie-basic-soup-120",
-      "score": 0.7643094451872509
+      "similarity": "0.7643"
     },
     {
       "@context": "https://schema.org/",
@@ -157,7 +157,7 @@
         "totalTime": "40 minutes"
       },
       "url": "potato-soup-125",
-      "score": 0.7617901834236348
+      "similarity": "0.7618"
     },
     {
       "@context": "https://schema.org/",
@@ -207,7 +207,7 @@
         "totalTime": "20 minutes"
       },
       "url": "creamy-broccoli-soup-112",
-      "score": 0.7574665814725616
+      "similarity": "0.7575"
     },
     {
       "@context": "https://schema.org/",
@@ -272,7 +272,7 @@
         "totalTime": "35 minutes"
       },
       "url": "tomato-macaroni-soup-123",
-      "score": 0.7286768497048656
+      "similarity": "0.7287"
     },
     {
       "@context": "https://schema.org/",
@@ -317,7 +317,7 @@
         "totalTime": "1 hour 45 minutes"
       },
       "url": "cabbage-soup-106",
-      "score": 0.719595389156377
+      "similarity": "0.7196"
     }
   ]
 }

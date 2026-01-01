@@ -96,7 +96,7 @@
         "totalTime": "30 minutes"
       },
       "url": "pasta-salad-85",
-      "score": 0.7341786292041976
+      "similarity": "0.7342"
     },
     {
       "@context": "https://schema.org/",
@@ -148,7 +148,7 @@
         "totalTime": "50 minutes"
       },
       "url": "veggie-basic-soup-120",
-      "score": 0.7090038731087437
+      "similarity": "0.7090"
     },
     {
       "@context": "https://schema.org/",
@@ -201,7 +201,7 @@
         "totalTime": "25 minutes"
       },
       "url": "caribbean-chicken-salad-70",
-      "score": 0.7089549535735977
+      "similarity": "0.7090"
     },
     {
       "@context": "https://schema.org/",
@@ -266,7 +266,7 @@
         "totalTime": "35 minutes"
       },
       "url": "nacho-salad-73",
-      "score": 0.703278436027168
+      "similarity": "0.7033"
     },
     {
       "@context": "https://schema.org/",
@@ -328,7 +328,7 @@
         "totalTime": "1 hour 5 minutes"
       },
       "url": "chili-con-carne-165",
-      "score": 0.6920431820625255
+      "similarity": "0.6920"
     }
   ]
 }

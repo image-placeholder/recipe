@@ -98,7 +98,7 @@
         "totalTime": "30 minutes"
       },
       "url": "pasta-salad-85",
-      "score": 0.780025649150089
+      "similarity": "0.7800"
     },
     {
       "@context": "https://schema.org/",
@@ -172,7 +172,7 @@
         "totalTime": "35 minutes"
       },
       "url": "thai-chicken-235",
-      "score": 0.77194132339698
+      "similarity": "0.7719"
     },
     {
       "@context": "https://schema.org/",
@@ -229,7 +229,7 @@
         "totalTime": "8 hours 10 minutes"
       },
       "url": "onion-salad-74",
-      "score": 0.7638221883977977
+      "similarity": "0.7638"
     },
     {
       "@context": "https://schema.org/",
@@ -284,7 +284,7 @@
         "totalTime": "15 minutes"
       },
       "url": "chinese-rice-salad-81",
-      "score": 0.7455912859910505
+      "similarity": "0.7456"
     },
     {
       "@context": "https://schema.org/",
@@ -343,7 +343,7 @@
         "totalTime": "25 minutes"
       },
       "url": "taco-salad-89",
-      "score": 0.7409145624950273
+      "similarity": "0.7409"
     }
   ]
 }
