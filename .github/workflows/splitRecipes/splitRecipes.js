@@ -65,24 +65,14 @@ async function naturalizeRecipeTimes(recipes) {
 }
 
 
-// ----------------------------------
-// Main
-// ----------------------------------
-function similarRecipes(recipe, recipes, recipeUrlMap, amount = 5) {
-  if (!recipe || typeof recipe !== 'object') return recipe;
 
-  const similar = getSimilarRecipes(recipe, recipes, amount).map(sim => {
-    const simId = sim.id || recipes.indexOf(sim) + 1;
-    return {
-      ...sim,
-      url: recipeUrlMap[simId] || null
-    };
-  });
+
+function similarRecipes(recipe, recipes, amount=5) {
+  if (!recipe || typeof recipe !== 'object') return recipe;
 
   return {
     ...recipe,
-    _similar: similar,
-    url: recipeUrlMap[recipe.id || recipes.indexOf(recipe) + 1] || null
+    _similar: getSimilarRecipes(recipe, recipes, amount),
   };
 }
 
@@ -99,22 +89,23 @@ function naturalizeRecipeTimes(recipe) {
   };
 }
 
-// ----------------------------------
-// Configuration
-// ----------------------------------
+
+// 1. Configuration
 const DATA_FILE = path.join(process.cwd(), '_data', 'recipes.json');
 const OUTPUT_DIR = path.join(process.cwd(), 'api');
 
+// Utility to create a URL-friendly slug
 const slugify = (text) => {
   return text
     .toString()
     .toLowerCase()
     .trim()
-    .replace(/\s+/g, '-')
-    .replace(/[^\w-]+/g, '')
-    .replace(/--+/g, '-');
+    .replace(/\s+/g, '-')     // Replace spaces with -
+    .replace(/[^\w-]+/g, '')  // Remove all non-word chars
+    .replace(/--+/g, '-');    // Replace multiple - with single -
 };
 
+// Ensure directory exists
 const ensureDir = (dir) => {
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
@@ -126,16 +117,23 @@ const generateRecipes = async () => {
     ensureDir(OUTPUT_DIR);
     const rawData = fs.readFileSync(DATA_FILE, 'utf8');
     const recipes = JSON.parse(rawData);
+    //await naturalizeRecipeTimes(recipes);
     console.log(`Processing ${recipes.length} recipes...`);
 
-    // --- Step 1: create URL map for all recipes ---
-    const recipeUrlMap = {};
-    recipes.forEach((recipe, index) => {
+    // First pass: clone recipes and assign URLs
+    const recipesWithUrls = recipes.map((recipe, index) => {
       const id = recipe.id || (index + 1);
       const baseSlug = slugify(recipe.name || 'untitled-recipe');
-      recipeUrlMap[id] = `recipes/${baseSlug}-${id}`;
+      const fileName = `${baseSlug}-${id}.json`;
+    
+      // Clone object and assign URL
+      return {
+        ...recipe,
+        url: `recipes/${fileName.replace('.json', '')}`
+      };
     });
 
+    
     const searchIndex = [];
     const categoriesMap = {};
     const categorySlugMap = {};
@@ -151,13 +149,14 @@ const generateRecipes = async () => {
       const filePath = path.join(OUTPUT_DIR, 'recipes');
       ensureDir(filePath);
 
-      // --- Step 2: add _similar with URLs ---
-      const _recipe = similarRecipes(recipe, recipes, recipeUrlMap, 5);
+      // Run Recommendation System
+      const _recipe = similarRecipes(recipe, recipesWithUrls, 5);
 
-      // --- Step 3: write individual recipe file ---
+      _recipe.url = `/recipes/${fileName}`;
+      // Write individual recipe file
       fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2));
 
-      // --- Authors handling ---
+      // Handle authors (array or single object)
       let authors = [];
       if (Array.isArray(recipe.author)) {
         authors = recipe.author.map(a => a.name);
@@ -165,7 +164,7 @@ const generateRecipes = async () => {
         authors = [recipe.author.name];
       }
 
-      // --- Build minimal search index ---
+      // Build minimal search index
       const searchItem = {
         name: recipe.name,
         author: authors.join(', '),
@@ -173,11 +172,11 @@ const generateRecipes = async () => {
         description: recipe.description || '',
         category: recipe.recipeCategory || '',
         cuisine: recipe.recipeCuisine || '',
-        url: recipeUrlMap[id]
+        url: `recipes/${fileName.replace('.json', '')}`
       };
       searchIndex.push(searchItem);
 
-      // --- Categories ---
+      // Categories
       const category = recipe.recipeCategory || 'Uncategorized';
       if (!categoriesMap[category]) {
         categoriesMap[category] = [];
@@ -185,7 +184,7 @@ const generateRecipes = async () => {
       }
       categoriesMap[category].push(searchItem);
 
-      // --- Cuisines ---
+      // Cuisines
       const cuisine = recipe.recipeCuisine || 'Unspecified';
       if (!cuisinesMap[cuisine]) {
         cuisinesMap[cuisine] = [];
@@ -193,7 +192,7 @@ const generateRecipes = async () => {
       }
       cuisinesMap[cuisine].push(searchItem);
 
-      // --- Authors ---
+      // Authors
       authors.forEach(author => {
         if (!authorsMap[author]) {
           authorsMap[author] = [];
@@ -203,10 +202,10 @@ const generateRecipes = async () => {
       });
     });
 
-    // --- Write search index ---
+    // Write search index
     fs.writeFileSync(path.join(OUTPUT_DIR, 'search.json'), JSON.stringify(searchIndex, null, 2));
 
-    // --- Write categories list & per-category files ---
+    // Write categories list
     const categoriesList = Object.keys(categoriesMap).map(cat => ({
       name: cat,
       slug: categorySlugMap[cat],
@@ -214,6 +213,7 @@ const generateRecipes = async () => {
     }));
     fs.writeFileSync(path.join(OUTPUT_DIR, 'categories.json'), JSON.stringify(categoriesList, null, 2));
 
+    // Write per-category recipes
     const categoryDir = path.join(OUTPUT_DIR, 'categories');
     ensureDir(categoryDir);
     Object.entries(categoriesMap).forEach(([category, items]) => {
@@ -221,7 +221,7 @@ const generateRecipes = async () => {
       fs.writeFileSync(path.join(categoryDir, `${catSlug}.json`), JSON.stringify(items, null, 2));
     });
 
-    // --- Write cuisines list & per-cuisine files ---
+    // Write cuisines list
     const cuisinesList = Object.keys(cuisinesMap).map(c => ({
       name: c,
       slug: cuisineSlugMap[c],
@@ -229,6 +229,7 @@ const generateRecipes = async () => {
     }));
     fs.writeFileSync(path.join(OUTPUT_DIR, 'cuisines.json'), JSON.stringify(cuisinesList, null, 2));
 
+    // Write per-cuisine recipes
     const cuisineDir = path.join(OUTPUT_DIR, 'cuisines');
     ensureDir(cuisineDir);
     Object.entries(cuisinesMap).forEach(([cuisine, items]) => {
@@ -236,7 +237,7 @@ const generateRecipes = async () => {
       fs.writeFileSync(path.join(cuisineDir, `${cuisineSlug}.json`), JSON.stringify(items, null, 2));
     });
 
-    // --- Write authors list & per-author files ---
+    // Write authors list
     const authorsList = Object.keys(authorsMap).map(a => ({
       name: a,
       slug: authorSlugMap[a],
@@ -244,6 +245,7 @@ const generateRecipes = async () => {
     }));
     fs.writeFileSync(path.join(OUTPUT_DIR, 'authors.json'), JSON.stringify(authorsList, null, 2));
 
+    // Write per-author recipes
     const authorDir = path.join(OUTPUT_DIR, 'authors');
     ensureDir(authorDir);
     Object.entries(authorsMap).forEach(([author, items]) => {
@@ -251,7 +253,7 @@ const generateRecipes = async () => {
       fs.writeFileSync(path.join(authorDir, `${authorSlug}.json`), JSON.stringify(items, null, 2));
     });
 
-    // --- Write stats ---
+    // Write stats
     const stats = {
       totalRecipes: recipes.length,
       totalAuthors: Object.keys(authorsMap).length,
