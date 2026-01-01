@@ -1,80 +1,101 @@
+
 import { pipeline } from '@xenova/transformers';
 import path from "path";
 import fs from "fs";
 
-
-export class RecipeEngine {
-  constructor(storagePath = './recipe-vectors.json') {
-    this.storagePath = path.resolve(storagePath);
+ export class RecipeEngine {
+  constructor(storagePath = './embeddings.json') {
     this.extractor = null;
-    this.cache = this._loadCache();
+    this.storagePath = path.resolve(storagePath);
+    this.embeddingCache = new Map();
+    
+    // Load existing embeddings from disk immediately
+    this._loadFromDisk();
   }
 
   async init() {
     if (!this.extractor) {
+      // Note: In CommonJS, we use the standard package name
       this.extractor = await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2', {
         dtype: 'q8', 
       });
     }
   }
 
-  _loadCache() {
-    if (fs.existsSync(this.storagePath)) {
-      try {
-        return JSON.parse(fs.readFileSync(this.storagePath, 'utf8'));
-      } catch (e) {
-        console.error("Malformed cache file, resetting.");
-        return {};
+  _loadFromDisk() {
+    try {
+      if (fs.existsSync(this.storagePath)) {
+        const data = JSON.parse(fs.readFileSync(this.storagePath, 'utf8'));
+        // Convert plain object back to Map
+        this.embeddingCache = new Map(Object.entries(data));
+        console.log(`💾 Loaded ${this.embeddingCache.size} embeddings from cache.`);
       }
+    } catch (err) {
+      console.error("⚠️ Could not load cache file, starting fresh:", err.message);
     }
-    return {};
   }
 
-  async buildIndex(recipes, batchSize = 5) {
-    await this.init();
-    const toProcess = recipes.filter(r => !this.cache[r.id || r.name]);
-    
-    if (toProcess.length === 0) return;
-
-    for (let i = 0; i < toProcess.length; i += batchSize) {
-      const batch = toProcess.slice(i, i + batchSize);
-      const texts = batch.map(r => `${r.name} ${r.recipeIngredient?.join(' ') || ''}`);
-      
-      const output = await this.extractor(texts, { pooling: 'mean', normalize: true });
-
-      batch.forEach((recipe, idx) => {
-        this.cache[recipe.id || recipe.name] = Array.from(output[idx].data);
-      });
-
-      fs.writeFileSync(this.storagePath, JSON.stringify(this.cache));
-      await new Promise(resolve => setTimeout(resolve, 50));
+  _saveToDisk() {
+    try {
+      const data = Object.fromEntries(this.embeddingCache);
+      fs.writeFileSync(this.storagePath, JSON.stringify(data), 'utf8');
+    } catch (err) {
+      console.error("⚠️ Failed to save embeddings to disk:", err);
     }
+  }
+
+  _prepareText(recipe) {
+    const ingredients = recipe.recipeIngredient?.join(', ') || '';
+    const keywords = Array.isArray(recipe.keywords) ? recipe.keywords.join(', ') : (recipe.keywords || '');
+    return `Recipe: ${recipe.name}. Ingredients: ${ingredients}. Keywords: ${keywords}.`
+      .toLowerCase()
+      .replace(/\s+/g, ' ');
   }
 
   _similarity(v1, v2) {
-    if (!v1 || !v2) return 0;
     return v1.reduce((acc, val, i) => acc + val * v2[i], 0);
   }
 
-  async getRecommendations(targetRecipe, allRecipes, topN = 3) {
-    const targetId = targetRecipe.id || targetRecipe.name;
+  async precomputeEmbeddings(recipes) {
+    // Only process recipes that don't have a cached ID
+    const toProcess = recipes.filter(r => !this.embeddingCache.has(r.id || r.name));
     
-    // CRITICAL FIX: Ensure all recipes (including target) are in cache
-    await this.buildIndex([targetRecipe, ...allRecipes]);
+    if (toProcess.length > 0) {
+      await this.init();
+      const texts = toProcess.map(r => this._prepareText(r));
+      const output = await this.extractor(texts, { pooling: 'mean', normalize: true });
 
-    const targetVec = this.cache[targetId];
-    if (!targetVec) return [];
+      toProcess.forEach((recipe, i) => {
+        const vector = Array.from(output[i].data);
+        const key = recipe.id || recipe.name;
+        this.embeddingCache.set(key, vector);
+      });
+
+      // Persist new embeddings to JSON
+      this._saveToDisk();
+    }
+  }
+
+  async getRecommendations(targetRecipe, allRecipes, topN = 3) {
+    const targetKey = targetRecipe.id || targetRecipe.name;
+
+    // Ensure target and pool are embedded (checks cache first)
+    await this.precomputeEmbeddings([targetRecipe, ...allRecipes]);
+
+    const targetVec = this.embeddingCache.get(targetKey);
 
     return allRecipes
-      .filter(r => (r.id || r.name) !== targetId)
-      .map(r => {
-        const score = this._similarity(targetVec, this.cache[r.id || r.name]);
-        return { ...r, score };
-      })
-      .sort((a, b) => b.score - a.score)
-      .slice(0, topN);
+      .filter(r => (r.id || r.name) !== targetKey)
+      .map(r => ({
+        ...r,
+        similarity: this._similarity(targetVec, this.embeddingCache.get(r.id || r.name))
+      }))
+      .sort((a, b) => b.similarity - a.similarity)
+      .slice(0, topN)
+      .map(r => ({ ...r, similarity: r.similarity.toFixed(4) }));
   }
 }
+
 // --- Example Usage ---
 
 const recipes = [
