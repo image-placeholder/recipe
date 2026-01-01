@@ -122,23 +122,19 @@ const generateRecipes = async () => {
     ensureDir(OUTPUT_DIR);
     const rawData = fs.readFileSync(DATA_FILE, 'utf8');
     const recipes = JSON.parse(rawData);
-    //await naturalizeRecipeTimes(recipes);
     console.log(`Processing ${recipes.length} recipes...`);
 
-    // First pass: clone recipes and assign URLs
+    // First pass: Pre-assign URLs so recommendations have valid links
     const recipesWithUrls = recipes.map((recipe, index) => {
       const id = recipe.id || (index + 1);
       const baseSlug = slugify(recipe.name || 'untitled-recipe');
-      const fileName = `${baseSlug}-${id}.json`;
-    
-      // Clone object and assign URL
+      const fileName = `${baseSlug}-${id}`;
       return {
         ...recipe,
-        url: `${fileName.replace('.json', '')}`
+        url: fileName
       };
     });
 
-    
     const searchIndex = [];
     const categoriesMap = {};
     const categorySlugMap = {};
@@ -147,20 +143,26 @@ const generateRecipes = async () => {
     const authorsMap = {};
     const authorSlugMap = {};
 
-    recipes.forEach(async (recipe, index) => {
+    // FIX: Use for...of instead of forEach to respect await
+    for (const [index, recipe] of recipesWithUrls.entries()) {
       const id = recipe.id || (index + 1);
       const baseSlug = slugify(recipe.name || 'untitled-recipe');
       const fileName = `${baseSlug}-${id}.json`;
       const filePath = path.join(OUTPUT_DIR, 'recipes');
       ensureDir(filePath);
 
-      // Run Recommendation System
-      const _recipe = await similarRecipes(recipe, recipesWithUrls, 5);
-      console.log(_recipe);
-      // Write individual recipe file
-      fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2));
+      console.log(`Processing AI for: ${recipe.name}`);
 
-      // Handle authors (array or single object)
+      // Run Recommendation System (Await now works correctly)
+      const recipeWithRecs = await similarRecipes(recipe, recipesWithUrls, 5);
+      
+      // Write individual recipe file
+      fs.writeFileSync(
+        path.join(filePath, fileName), 
+        JSON.stringify(naturalizeRecipeTimes(recipeWithRecs), null, 2)
+      );
+
+      // Handle authors
       let authors = [];
       if (Array.isArray(recipe.author)) {
         authors = recipe.author.map(a => a.name);
@@ -180,7 +182,7 @@ const generateRecipes = async () => {
       };
       searchIndex.push(searchItem);
 
-      // Categories
+      // Map categories
       const category = recipe.recipeCategory || 'Uncategorized';
       if (!categoriesMap[category]) {
         categoriesMap[category] = [];
@@ -188,7 +190,7 @@ const generateRecipes = async () => {
       }
       categoriesMap[category].push(searchItem);
 
-      // Cuisines
+      // Map cuisines
       const cuisine = recipe.recipeCuisine || 'Unspecified';
       if (!cuisinesMap[cuisine]) {
         cuisinesMap[cuisine] = [];
@@ -196,7 +198,7 @@ const generateRecipes = async () => {
       }
       cuisinesMap[cuisine].push(searchItem);
 
-      // Authors
+      // Map authors
       authors.forEach(author => {
         if (!authorsMap[author]) {
           authorsMap[author] = [];
@@ -204,7 +206,10 @@ const generateRecipes = async () => {
         }
         authorsMap[author].push(searchItem);
       });
-    });
+    }
+
+    // ALL aggregate file writes below now wait until the loop above is 100% finished
+    console.log('Finalizing aggregate files...');
 
     // Write search index
     fs.writeFileSync(path.join(OUTPUT_DIR, 'search.json'), JSON.stringify(searchIndex, null, 2));
@@ -266,9 +271,9 @@ const generateRecipes = async () => {
     };
     fs.writeFileSync(path.join(OUTPUT_DIR, 'stats.json'), JSON.stringify(stats, null, 2));
 
-    console.log('Generation complete!');
+    console.log('✅ Generation complete!');
   } catch (error) {
-    console.error('Error processing recipes:', error.message);
+    console.error('❌ Error processing recipes:', error);
   }
 };
 
