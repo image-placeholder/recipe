@@ -37,7 +37,7 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "url": "teriyaki-sauce-135",
+  "_url": "teriyaki-sauce-135",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -86,7 +86,7 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
-      "url": "spaghetti-sauce-177",
+      "_url": "spaghetti-sauce-177",
       "similarity": "0.5834"
     },
     {
@@ -140,7 +140,7 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
-      "url": "spaghetti-sauce-187",
+      "_url": "spaghetti-sauce-187",
       "similarity": "0.5834"
     },
     {
@@ -214,7 +214,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "thai-chicken-235",
+      "_url": "thai-chicken-235",
       "similarity": "0.5831"
     },
     {
@@ -254,7 +254,7 @@
         "cookTime": null,
         "totalTime": "5 minutes"
       },
-      "url": "cold-meat-mustard-122",
+      "_url": "cold-meat-mustard-122",
       "similarity": "0.5623"
     },
     {
@@ -313,7 +313,7 @@
         "cookTime": "",
         "totalTime": "1 hour 20 minutes"
       },
-      "url": "greek-salad-69",
+      "_url": "greek-salad-69",
       "similarity": "0.5613"
     }
   ]

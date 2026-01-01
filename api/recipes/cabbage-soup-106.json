@@ -40,7 +40,7 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
   },
-  "url": "cabbage-soup-106",
+  "_url": "cabbage-soup-106",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -91,7 +91,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "veggie-basic-soup-120",
+      "_url": "veggie-basic-soup-120",
       "similarity": "0.7892"
     },
     {
@@ -152,7 +152,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "cheese-broccoli-soup-105",
+      "_url": "cheese-broccoli-soup-105",
       "similarity": "0.7548"
     },
     {
@@ -221,7 +221,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "cheese-broccoli-soup-108",
+      "_url": "cheese-broccoli-soup-108",
       "similarity": "0.7548"
     },
     {
@@ -271,7 +271,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "creamy-broccoli-soup-112",
+      "_url": "creamy-broccoli-soup-112",
       "similarity": "0.7530"
     },
     {
@@ -328,7 +328,7 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "mushroom-soup-113",
+      "_url": "mushroom-soup-113",
       "similarity": "0.7386"
     }
   ]

@@ -62,7 +62,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
   },
-  "url": "rosemary-shipwreck-casserole-180",
+  "_url": "rosemary-shipwreck-casserole-180",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -117,7 +117,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "url": "meat-and-potato-casserole-159",
+      "_url": "meat-and-potato-casserole-159",
       "similarity": "0.6796"
     },
     {
@@ -191,7 +191,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "beef-and-rice-casserole-168",
+      "_url": "beef-and-rice-casserole-168",
       "similarity": "0.6778"
     },
     {
@@ -241,7 +241,7 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
-      "url": "stewing-beef-casserole-155",
+      "_url": "stewing-beef-casserole-155",
       "similarity": "0.6321"
     },
     {
@@ -317,7 +317,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "chili-turkey-247",
+      "_url": "chili-turkey-247",
       "similarity": "0.6185"
     },
     {
@@ -387,7 +387,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "spaghetti-casserole-178",
+      "_url": "spaghetti-casserole-178",
       "similarity": "0.6012"
     }
   ]

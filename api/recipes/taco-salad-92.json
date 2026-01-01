@@ -54,7 +54,7 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "url": "taco-salad-92",
+  "_url": "taco-salad-92",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -107,7 +107,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "url": "mexican-salad-50",
+      "_url": "mexican-salad-50",
       "similarity": "0.8162"
     },
     {
@@ -185,7 +185,7 @@
         "cookTime": "16 minutes",
         "totalTime": "36 minutes"
       },
-      "url": "taco-ring-183",
+      "_url": "taco-ring-183",
       "similarity": "0.7543"
     },
     {
@@ -243,7 +243,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "beef-taco-bake-186",
+      "_url": "beef-taco-bake-186",
       "similarity": "0.7195"
     },
     {
@@ -308,7 +308,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "nacho-salad-73",
+      "_url": "nacho-salad-73",
       "similarity": "0.7107"
     },
     {
@@ -365,7 +365,7 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "url": "onion-salad-74",
+      "_url": "onion-salad-74",
       "similarity": "0.7083"
     }
   ]

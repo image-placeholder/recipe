@@ -45,7 +45,7 @@
     "cookTime": "",
     "totalTime": "15 minutes"
   },
-  "url": "cheese-ball-2",
+  "_url": "cheese-ball-2",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -101,7 +101,7 @@
         "cookTime": "",
         "totalTime": null
       },
-      "url": "layered-cheese-ball-3",
+      "_url": "layered-cheese-ball-3",
       "similarity": "0.7452"
     },
     {
@@ -152,7 +152,7 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
-      "url": "party-salmon-ball-8",
+      "_url": "party-salmon-ball-8",
       "similarity": "0.7271"
     },
     {
@@ -209,7 +209,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "url": "cheese-dip-in-a-bread-bowl-4",
+      "_url": "cheese-dip-in-a-bread-bowl-4",
       "similarity": "0.6663"
     },
     {
@@ -249,7 +249,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "url": "crab-dip-20",
+      "_url": "crab-dip-20",
       "similarity": "0.6143"
     },
     {
@@ -308,7 +308,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "url": "crab-cheese-platter-7",
+      "_url": "crab-cheese-platter-7",
       "similarity": "0.6073"
     }
   ]

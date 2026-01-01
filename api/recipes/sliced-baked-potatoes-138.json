@@ -52,7 +52,7 @@
     "cookTime": "50 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "url": "sliced-baked-potatoes-138",
+  "_url": "sliced-baked-potatoes-138",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -117,7 +117,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "cheddar-baked-potato-slices-140",
+      "_url": "cheddar-baked-potato-slices-140",
       "similarity": "0.7901"
     },
     {
@@ -182,7 +182,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "swedish-potatoes-137",
+      "_url": "swedish-potatoes-137",
       "similarity": "0.6992"
     },
     {
@@ -251,7 +251,7 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour"
       },
-      "url": "sweet-potato-casserole-149",
+      "_url": "sweet-potato-casserole-149",
       "similarity": "0.6759"
     },
     {
@@ -308,7 +308,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "potato-casserole-141",
+      "_url": "potato-casserole-141",
       "similarity": "0.6620"
     },
     {
@@ -355,7 +355,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "url": "hot-potato-salad-86",
+      "_url": "hot-potato-salad-86",
       "similarity": "0.6490"
     }
   ]

@@ -45,7 +45,7 @@
     "cookTime": "4 hours",
     "totalTime": "4 hours 20 minutes"
   },
-  "url": "spaghetti-sauce-177",
+  "_url": "spaghetti-sauce-177",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -121,7 +121,7 @@
         "cookTime": "35 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "url": "baked-spaghetti-and-meatballs-176",
+      "_url": "baked-spaghetti-and-meatballs-176",
       "similarity": "0.8381"
     },
     {
@@ -191,7 +191,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "spaghetti-casserole-178",
+      "_url": "spaghetti-casserole-178",
       "similarity": "0.8167"
     },
     {
@@ -254,7 +254,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "mozzarella-spaghetti-skillet-182",
+      "_url": "mozzarella-spaghetti-skillet-182",
       "similarity": "0.8075"
     },
     {
@@ -331,7 +331,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "pizza-casserole-171",
+      "_url": "pizza-casserole-171",
       "similarity": "0.7853"
     },
     {
@@ -403,7 +403,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "pizza-casserole-202",
+      "_url": "pizza-casserole-202",
       "similarity": "0.7853"
     }
   ]

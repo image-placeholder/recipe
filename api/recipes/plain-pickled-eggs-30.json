@@ -48,7 +48,7 @@
     "cookTime": "5 minutes",
     "totalTime": "15 minutes"
   },
-  "url": "plain-pickled-eggs-30",
+  "_url": "plain-pickled-eggs-30",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -99,7 +99,7 @@
         "cookTime": "5 minutes",
         "totalTime": null
       },
-      "url": "pickled-eggs-35",
+      "_url": "pickled-eggs-35",
       "similarity": "0.8994"
     },
     {
@@ -157,7 +157,7 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "fancy-pickled-eggs-31",
+      "_url": "fancy-pickled-eggs-31",
       "similarity": "0.8297"
     },
     {
@@ -214,7 +214,7 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "url": "onion-salad-74",
+      "_url": "onion-salad-74",
       "similarity": "0.6320"
     },
     {
@@ -285,7 +285,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "hard-boiled-eggsdevilled-eggs-34",
+      "_url": "hard-boiled-eggsdevilled-eggs-34",
       "similarity": "0.6208"
     },
     {
@@ -337,7 +337,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "url": "vegetable-dip-17",
+      "_url": "vegetable-dip-17",
       "similarity": "0.5752"
     }
   ]

@@ -57,7 +57,7 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "url": "chili-con-carne-165",
+  "_url": "chili-con-carne-165",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -132,7 +132,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "chili-turkey-247",
+      "_url": "chili-turkey-247",
       "similarity": "0.7198"
     },
     {
@@ -195,7 +195,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "chili-con-queso-nacho-cheese-dip-27",
+      "_url": "chili-con-queso-nacho-cheese-dip-27",
       "similarity": "0.6405"
     },
     {
@@ -251,7 +251,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "url": "meat-and-potato-casserole-159",
+      "_url": "meat-and-potato-casserole-159",
       "similarity": "0.6090"
     },
     {
@@ -325,7 +325,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "beef-and-rice-casserole-168",
+      "_url": "beef-and-rice-casserole-168",
       "similarity": "0.6080"
     },
     {
@@ -390,7 +390,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "nacho-salad-73",
+      "_url": "nacho-salad-73",
       "similarity": "0.5838"
     }
   ]

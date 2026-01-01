@@ -39,7 +39,7 @@
     "cookTime": "25 minutes",
     "totalTime": "30 minutes"
   },
-  "url": "sliced-ham-199",
+  "_url": "sliced-ham-199",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -95,7 +95,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
-      "url": "ham-casserole-200",
+      "_url": "ham-casserole-200",
       "similarity": "0.6569"
     },
     {
@@ -146,7 +146,7 @@
         "cookTime": "8 hours",
         "totalTime": "8 hours 20 minutes"
       },
-      "url": "ham-potato-casserole-209",
+      "_url": "ham-potato-casserole-209",
       "similarity": "0.6514"
     },
     {
@@ -201,7 +201,7 @@
         "cookTime": "2 hours 15 minutes",
         "totalTime": "2 hours 35 minutes"
       },
-      "url": "glazed-cottage-roll-198",
+      "_url": "glazed-cottage-roll-198",
       "similarity": "0.6374"
     },
     {
@@ -254,7 +254,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 25 minutes"
       },
-      "url": "crunchy-top-ham-and-potato-casserole-197",
+      "_url": "crunchy-top-ham-and-potato-casserole-197",
       "similarity": "0.6281"
     },
     {
@@ -321,7 +321,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "2 hours"
       },
-      "url": "pork-chop-rice-casserole-211",
+      "_url": "pork-chop-rice-casserole-211",
       "similarity": "0.6033"
     }
   ]

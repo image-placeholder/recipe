@@ -49,7 +49,7 @@
     "cookTime": "30 minutes",
     "totalTime": "45 minutes"
   },
-  "url": "chicken-breast-212",
+  "_url": "chicken-breast-212",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -100,7 +100,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "boneless-chicken-breasts-213",
+      "_url": "boneless-chicken-breasts-213",
       "similarity": "0.7932"
     },
     {
@@ -159,7 +159,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "favourite-chicken-241",
+      "_url": "favourite-chicken-241",
       "similarity": "0.7695"
     },
     {
@@ -207,7 +207,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "url": "crispy-chicken-coating-mix-249",
+      "_url": "crispy-chicken-coating-mix-249",
       "similarity": "0.7259"
     },
     {
@@ -270,7 +270,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "parmesan-chicken-239",
+      "_url": "parmesan-chicken-239",
       "similarity": "0.7232"
     },
     {
@@ -344,7 +344,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "url": "classy-chicken-243",
+      "_url": "classy-chicken-243",
       "similarity": "0.7203"
     }
   ]

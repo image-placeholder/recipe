@@ -45,7 +45,7 @@
     "cookTime": "4 hours",
     "totalTime": "4 hours 20 minutes"
   },
-  "url": "stewing-beef-casserole-155",
+  "_url": "stewing-beef-casserole-155",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -118,7 +118,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "beef-and-rice-casserole-168",
+      "_url": "beef-and-rice-casserole-168",
       "similarity": "0.8408"
     },
     {
@@ -174,7 +174,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "url": "meat-and-potato-casserole-159",
+      "_url": "meat-and-potato-casserole-159",
       "similarity": "0.8211"
     },
     {
@@ -258,7 +258,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 25 minutes"
       },
-      "url": "meatball-pasta-stew-179",
+      "_url": "meatball-pasta-stew-179",
       "similarity": "0.7344"
     },
     {
@@ -347,7 +347,7 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "creamy-beef-and-potato-bake-158",
+      "_url": "creamy-beef-and-potato-bake-158",
       "similarity": "0.7153"
     },
     {
@@ -403,7 +403,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "url": "barley-and-corn-casserole-132",
+      "_url": "barley-and-corn-casserole-132",
       "similarity": "0.6841"
     }
   ]

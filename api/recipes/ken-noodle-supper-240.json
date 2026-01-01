@@ -62,7 +62,7 @@
     "cookTime": "30 minutes",
     "totalTime": "45 minutes"
   },
-  "url": "ken-noodle-supper-240",
+  "_url": "ken-noodle-supper-240",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -128,7 +128,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "noodles-with-hamburg-166",
+      "_url": "noodles-with-hamburg-166",
       "similarity": "0.7265"
     },
     {
@@ -202,7 +202,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "thai-chicken-235",
+      "_url": "thai-chicken-235",
       "similarity": "0.6756"
     },
     {
@@ -259,7 +259,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "ginger-noodle-soup-114",
+      "_url": "ginger-noodle-soup-114",
       "similarity": "0.6744"
     },
     {
@@ -328,7 +328,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "url": "creamy-chicken-stew-252",
+      "_url": "creamy-chicken-stew-252",
       "similarity": "0.6570"
     },
     {
@@ -381,7 +381,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "hamburg-noodle-casserole-172",
+      "_url": "hamburg-noodle-casserole-172",
       "similarity": "0.6331"
     }
   ]

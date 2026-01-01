@@ -58,7 +58,7 @@
     "cookTime": "15 minutes",
     "totalTime": "25 minutes"
   },
-  "url": "lemon-chicken-with-thyme-224",
+  "_url": "lemon-chicken-with-thyme-224",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -131,7 +131,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "url": "classy-chicken-243",
+      "_url": "classy-chicken-243",
       "similarity": "0.7101"
     },
     {
@@ -189,7 +189,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "curry-chicken-230",
+      "_url": "curry-chicken-230",
       "similarity": "0.6975"
     },
     {
@@ -243,7 +243,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "chicken-breast-212",
+      "_url": "chicken-breast-212",
       "similarity": "0.6867"
     },
     {
@@ -307,7 +307,7 @@
         "cookTime": "35 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "chicken-with-a-chinese-accent-245",
+      "_url": "chicken-with-a-chinese-accent-245",
       "similarity": "0.6716"
     },
     {
@@ -367,7 +367,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "url": "chicken-glazed-with-basil-balsamic-vinegar-214",
+      "_url": "chicken-glazed-with-basil-balsamic-vinegar-214",
       "similarity": "0.6592"
     }
   ]

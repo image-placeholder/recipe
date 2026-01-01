@@ -56,7 +56,7 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
-  "url": "stir-fry-beef-145",
+  "_url": "stir-fry-beef-145",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -108,7 +108,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "beef-broccoli-stir-fry-148",
+      "_url": "beef-broccoli-stir-fry-148",
       "similarity": "0.8290"
     },
     {
@@ -182,7 +182,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "beef-and-rice-casserole-168",
+      "_url": "beef-and-rice-casserole-168",
       "similarity": "0.6411"
     },
     {
@@ -247,7 +247,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "nacho-salad-73",
+      "_url": "nacho-salad-73",
       "similarity": "0.6324"
     },
     {
@@ -331,7 +331,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 25 minutes"
       },
-      "url": "meatball-pasta-stew-179",
+      "_url": "meatball-pasta-stew-179",
       "similarity": "0.6294"
     },
     {
@@ -390,7 +390,7 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 30 minutes"
       },
-      "url": "beef-barley-soup-100",
+      "_url": "beef-barley-soup-100",
       "similarity": "0.6229"
     }
   ]

@@ -41,7 +41,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 15 minutes"
   },
-  "url": "cheesy-meat-loaf-153",
+  "_url": "cheesy-meat-loaf-153",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -100,7 +100,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "url": "delicious-meat-loaf-156",
+      "_url": "delicious-meat-loaf-156",
       "similarity": "0.8498"
     },
     {
@@ -185,7 +185,7 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 40 minutes"
       },
-      "url": "cheeseburger-meat-loaf-157",
+      "_url": "cheeseburger-meat-loaf-157",
       "similarity": "0.7517"
     },
     {
@@ -263,7 +263,7 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "url": "jelly-roll-style-meat-loaf-154",
+      "_url": "jelly-roll-style-meat-loaf-154",
       "similarity": "0.7206"
     },
     {
@@ -322,7 +322,7 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour"
       },
-      "url": "cheesy-ham-chowder-116",
+      "_url": "cheesy-ham-chowder-116",
       "similarity": "0.6557"
     },
     {
@@ -380,7 +380,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "beef-taco-bake-186",
+      "_url": "beef-taco-bake-186",
       "similarity": "0.6054"
     }
   ]

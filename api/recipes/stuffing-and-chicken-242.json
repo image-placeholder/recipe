@@ -56,7 +56,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 15 minutes"
   },
-  "url": "stuffing-and-chicken-242",
+  "_url": "stuffing-and-chicken-242",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -114,7 +114,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "favourite-chicken-241",
+      "_url": "favourite-chicken-241",
       "similarity": "0.7165"
     },
     {
@@ -168,7 +168,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "chicken-breast-212",
+      "_url": "chicken-breast-212",
       "similarity": "0.7004"
     },
     {
@@ -220,7 +220,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "boneless-chicken-breasts-213",
+      "_url": "boneless-chicken-breasts-213",
       "similarity": "0.6809"
     },
     {
@@ -271,7 +271,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "chicken-and-broccoli-234",
+      "_url": "chicken-and-broccoli-234",
       "similarity": "0.6790"
     },
     {
@@ -342,7 +342,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "chicken-and-cheese-casserole-244",
+      "_url": "chicken-and-cheese-casserole-244",
       "similarity": "0.6652"
     }
   ]

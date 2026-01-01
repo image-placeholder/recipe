@@ -52,7 +52,7 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
   },
-  "url": "hot-cheese-dip-5",
+  "_url": "hot-cheese-dip-5",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -108,7 +108,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
-      "url": "cheese-dip-in-a-bread-bowl-4",
+      "_url": "cheese-dip-in-a-bread-bowl-4",
       "similarity": "0.7359"
     },
     {
@@ -165,7 +165,7 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "url": "spinach-dip-16",
+      "_url": "spinach-dip-16",
       "similarity": "0.7045"
     },
     {
@@ -226,7 +226,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "url": "nacho-dip-29",
+      "_url": "nacho-dip-29",
       "similarity": "0.6265"
     },
     {
@@ -281,7 +281,7 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
-      "url": "nacho-fiesta-dip-28",
+      "_url": "nacho-fiesta-dip-28",
       "similarity": "0.6160"
     },
     {
@@ -321,7 +321,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "url": "crab-dip-20",
+      "_url": "crab-dip-20",
       "similarity": "0.5869"
     }
   ]

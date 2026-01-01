@@ -48,7 +48,7 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
-  "url": "seafood-chowder-127",
+  "_url": "seafood-chowder-127",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -109,7 +109,7 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "corn-chowder-107",
+      "_url": "corn-chowder-107",
       "similarity": "0.7118"
     },
     {
@@ -171,7 +171,7 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "corn-chowder-110",
+      "_url": "corn-chowder-110",
       "similarity": "0.7118"
     },
     {
@@ -230,7 +230,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "url": "crab-cheese-platter-7",
+      "_url": "crab-cheese-platter-7",
       "similarity": "0.6728"
     },
     {
@@ -275,7 +275,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "url": "shrimp-spread-10",
+      "_url": "shrimp-spread-10",
       "similarity": "0.6515"
     },
     {
@@ -339,7 +339,7 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "microwave-corn-chowder-118",
+      "_url": "microwave-corn-chowder-118",
       "similarity": "0.6353"
     }
   ]

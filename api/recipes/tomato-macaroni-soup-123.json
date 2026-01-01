@@ -60,7 +60,7 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
-  "url": "tomato-macaroni-soup-123",
+  "_url": "tomato-macaroni-soup-123",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -123,7 +123,7 @@
         "cookTime": "28 minutes",
         "totalTime": "43 minutes"
       },
-      "url": "pasta-bean-soup-111",
+      "_url": "pasta-bean-soup-111",
       "similarity": "0.7368"
     },
     {
@@ -192,7 +192,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "macaroni-casserole-175",
+      "_url": "macaroni-casserole-175",
       "similarity": "0.7263"
     },
     {
@@ -253,7 +253,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "cheese-broccoli-soup-105",
+      "_url": "cheese-broccoli-soup-105",
       "similarity": "0.6759"
     },
     {
@@ -322,7 +322,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "cheese-broccoli-soup-108",
+      "_url": "cheese-broccoli-soup-108",
       "similarity": "0.6759"
     },
     {
@@ -384,7 +384,7 @@
         "cookTime": "8 minutes",
         "totalTime": "23 minutes"
       },
-      "url": "macaroni-salad-72",
+      "_url": "macaroni-salad-72",
       "similarity": "0.6705"
     }
   ]

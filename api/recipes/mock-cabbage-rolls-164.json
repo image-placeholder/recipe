@@ -65,7 +65,7 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "url": "mock-cabbage-rolls-164",
+  "_url": "mock-cabbage-rolls-164",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -133,7 +133,7 @@
         "cookTime": "3 hours",
         "totalTime": "3 hours 30 minutes"
       },
-      "url": "cabbage-rolls-167",
+      "_url": "cabbage-rolls-167",
       "similarity": "0.7196"
     },
     {
@@ -188,7 +188,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "cabbage-casserole-130",
+      "_url": "cabbage-casserole-130",
       "similarity": "0.7024"
     },
     {
@@ -243,7 +243,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "url": "broccoli-casserole-129",
+      "_url": "broccoli-casserole-129",
       "similarity": "0.6432"
     },
     {
@@ -294,7 +294,7 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "broccoli-casserole-133",
+      "_url": "broccoli-casserole-133",
       "similarity": "0.6432"
     },
     {
@@ -368,7 +368,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 40 minutes"
       },
-      "url": "tv-mix-45",
+      "_url": "tv-mix-45",
       "similarity": "0.6250"
     }
   ]

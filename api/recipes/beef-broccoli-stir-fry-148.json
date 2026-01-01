@@ -48,7 +48,7 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "url": "beef-broccoli-stir-fry-148",
+  "_url": "beef-broccoli-stir-fry-148",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -108,7 +108,7 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "stir-fry-beef-145",
+      "_url": "stir-fry-beef-145",
       "similarity": "0.8290"
     },
     {
@@ -182,7 +182,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "beef-and-rice-casserole-168",
+      "_url": "beef-and-rice-casserole-168",
       "similarity": "0.6687"
     },
     {
@@ -266,7 +266,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 25 minutes"
       },
-      "url": "meatball-pasta-stew-179",
+      "_url": "meatball-pasta-stew-179",
       "similarity": "0.6678"
     },
     {
@@ -335,7 +335,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "url": "hawaiian-meatballs-152",
+      "_url": "hawaiian-meatballs-152",
       "similarity": "0.6469"
     },
     {
@@ -391,7 +391,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "chicken-vegetable-fried-rice-220",
+      "_url": "chicken-vegetable-fried-rice-220",
       "similarity": "0.6377"
     }
   ]

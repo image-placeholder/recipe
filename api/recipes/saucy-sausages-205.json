@@ -51,7 +51,7 @@
     "cookTime": "30 minutes",
     "totalTime": "40 minutes"
   },
-  "url": "saucy-sausages-205",
+  "_url": "saucy-sausages-205",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -90,7 +90,7 @@
         "cookTime": null,
         "totalTime": "5 minutes"
       },
-      "url": "cold-meat-mustard-122",
+      "_url": "cold-meat-mustard-122",
       "similarity": "0.6607"
     },
     {
@@ -143,7 +143,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "zesty-bbq-sauce-136",
+      "_url": "zesty-bbq-sauce-136",
       "similarity": "0.6249"
     },
     {
@@ -219,7 +219,7 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 20 minutes"
       },
-      "url": "bake-sausage-southwest-217",
+      "_url": "bake-sausage-southwest-217",
       "similarity": "0.6223"
     },
     {
@@ -282,7 +282,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "_url": "meat-balls-and-sour-and-sweet-sauce-160",
       "similarity": "0.6094"
     },
     {
@@ -348,7 +348,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "url": "south-african-lamb-215",
+      "_url": "south-african-lamb-215",
       "similarity": "0.5751"
     }
   ]

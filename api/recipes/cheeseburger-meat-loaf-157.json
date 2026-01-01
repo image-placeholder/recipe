@@ -80,7 +80,7 @@
     "cookTime": "1 hour 15 minutes",
     "totalTime": "1 hour 40 minutes"
   },
-  "url": "cheeseburger-meat-loaf-157",
+  "_url": "cheeseburger-meat-loaf-157",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -139,7 +139,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
-      "url": "delicious-meat-loaf-156",
+      "_url": "delicious-meat-loaf-156",
       "similarity": "0.8739"
     },
     {
@@ -217,7 +217,7 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "url": "jelly-roll-style-meat-loaf-154",
+      "_url": "jelly-roll-style-meat-loaf-154",
       "similarity": "0.7661"
     },
     {
@@ -263,7 +263,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "url": "cheesy-meat-loaf-153",
+      "_url": "cheesy-meat-loaf-153",
       "similarity": "0.7517"
     },
     {
@@ -330,7 +330,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "noodles-with-hamburg-166",
+      "_url": "noodles-with-hamburg-166",
       "similarity": "0.7024"
     },
     {
@@ -405,7 +405,7 @@
         "cookTime": "30 minutes",
         "totalTime": "55 minutes"
       },
-      "url": "hamburger-pie-169",
+      "_url": "hamburger-pie-169",
       "similarity": "0.6908"
     }
   ]

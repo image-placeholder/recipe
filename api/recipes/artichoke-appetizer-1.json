@@ -59,7 +59,7 @@
     "cookTime": "25 minutes",
     "totalTime": "35 minutes"
   },
-  "url": "artichoke-appetizer-1",
+  "_url": "artichoke-appetizer-1",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -109,7 +109,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "green-beans-and-artichokes-131",
+      "_url": "green-beans-and-artichokes-131",
       "similarity": "0.6494"
     },
     {
@@ -149,7 +149,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "url": "crab-dip-20",
+      "_url": "crab-dip-20",
       "similarity": "0.6308"
     },
     {
@@ -208,7 +208,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
-      "url": "crab-cheese-platter-7",
+      "_url": "crab-cheese-platter-7",
       "similarity": "0.6153"
     },
     {
@@ -272,7 +272,7 @@
         "cookTime": "12 minutes",
         "totalTime": "32 minutes"
       },
-      "url": "crab-stuffed-mushrooms-46",
+      "_url": "crab-stuffed-mushrooms-46",
       "similarity": "0.5910"
     },
     {
@@ -317,7 +317,7 @@
         "cookTime": null,
         "totalTime": null
       },
-      "url": "shrimp-spread-10",
+      "_url": "shrimp-spread-10",
       "similarity": "0.5690"
     }
   ]

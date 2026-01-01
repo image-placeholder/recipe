@@ -38,7 +38,7 @@
     "cookTime": "8 minutes",
     "totalTime": "13 minutes"
   },
-  "url": "salad-dressing-102",
+  "_url": "salad-dressing-102",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -83,7 +83,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
-      "url": "caesar-dressin-salad-101",
+      "_url": "caesar-dressin-salad-101",
       "similarity": "0.8293"
     },
     {
@@ -140,7 +140,7 @@
         "cookTime": "",
         "totalTime": "8 hours 10 minutes"
       },
-      "url": "onion-salad-74",
+      "_url": "onion-salad-74",
       "similarity": "0.7606"
     },
     {
@@ -208,7 +208,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "caesar-salad-59",
+      "_url": "caesar-salad-59",
       "similarity": "0.7385"
     },
     {
@@ -260,7 +260,7 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "spinach-lettuce-salad-83",
+      "_url": "spinach-lettuce-salad-83",
       "similarity": "0.7375"
     },
     {
@@ -304,7 +304,7 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
-      "url": "club-salad-68",
+      "_url": "club-salad-68",
       "similarity": "0.7162"
     }
   ]

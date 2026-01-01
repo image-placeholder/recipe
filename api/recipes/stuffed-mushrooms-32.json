@@ -40,7 +40,7 @@
     "cookTime": "30 minutes",
     "totalTime": "45 minutes"
   },
-  "url": "stuffed-mushrooms-32",
+  "_url": "stuffed-mushrooms-32",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,7 +103,7 @@
         "cookTime": "12 minutes",
         "totalTime": "32 minutes"
       },
-      "url": "crab-stuffed-mushrooms-46",
+      "_url": "crab-stuffed-mushrooms-46",
       "similarity": "0.8178"
     },
     {
@@ -160,7 +160,7 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "mushroom-soup-113",
+      "_url": "mushroom-soup-113",
       "similarity": "0.6435"
     },
     {
@@ -226,7 +226,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "cheddar-baked-potato-slices-140",
+      "_url": "cheddar-baked-potato-slices-140",
       "similarity": "0.6356"
     },
     {
@@ -287,7 +287,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
-      "url": "stuffing-and-chicken-242",
+      "_url": "stuffing-and-chicken-242",
       "similarity": "0.6207"
     },
     {
@@ -338,7 +338,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "chicken-and-broccoli-234",
+      "_url": "chicken-and-broccoli-234",
       "similarity": "0.6068"
     }
   ]

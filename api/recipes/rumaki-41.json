@@ -63,7 +63,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
-  "url": "rumaki-41",
+  "_url": "rumaki-41",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -123,7 +123,7 @@
         "cookTime": "30 minutes",
         "totalTime": "8 hours 45 minutes"
       },
-      "url": "bacon-wrapped-water-chestnuts-40",
+      "_url": "bacon-wrapped-water-chestnuts-40",
       "similarity": "0.7827"
     },
     {
@@ -178,7 +178,7 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 35 minutes"
       },
-      "url": "water-chestnuts-wrapped-in-bacon-39",
+      "_url": "water-chestnuts-wrapped-in-bacon-39",
       "similarity": "0.7635"
     },
     {
@@ -238,7 +238,7 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "roasted-chestnuts-26",
+      "_url": "roasted-chestnuts-26",
       "similarity": "0.6404"
     },
     {
@@ -295,7 +295,7 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
-      "url": "spinach-dip-16",
+      "_url": "spinach-dip-16",
       "similarity": "0.5328"
     },
     {
@@ -340,7 +340,7 @@
         "cookTime": "",
         "totalTime": null
       },
-      "url": "pina-colada-dip-23",
+      "_url": "pina-colada-dip-23",
       "similarity": "0.5110"
     }
   ]

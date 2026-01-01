@@ -57,7 +57,7 @@
     "cookTime": "25 minutes",
     "totalTime": "40 minutes"
   },
-  "url": "corn-chowder-110",
+  "_url": "corn-chowder-110",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -120,7 +120,7 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "microwave-corn-chowder-118",
+      "_url": "microwave-corn-chowder-118",
       "similarity": "0.8048"
     },
     {
@@ -173,7 +173,7 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "seafood-chowder-127",
+      "_url": "seafood-chowder-127",
       "similarity": "0.7118"
     },
     {
@@ -232,7 +232,7 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour"
       },
-      "url": "cheesy-ham-chowder-116",
+      "_url": "cheesy-ham-chowder-116",
       "similarity": "0.6822"
     },
     {
@@ -287,7 +287,7 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "potato-soup-125",
+      "_url": "potato-soup-125",
       "similarity": "0.6797"
     },
     {
@@ -339,7 +339,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "veggie-basic-soup-120",
+      "_url": "veggie-basic-soup-120",
       "similarity": "0.6709"
     }
   ]

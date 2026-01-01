@@ -46,7 +46,7 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "url": "chicken-and-broccoli-234",
+  "_url": "chicken-and-broccoli-234",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,7 +104,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "favourite-chicken-241",
+      "_url": "favourite-chicken-241",
       "similarity": "0.7798"
     },
     {
@@ -154,7 +154,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "creamy-broccoli-soup-112",
+      "_url": "creamy-broccoli-soup-112",
       "similarity": "0.7580"
     },
     {
@@ -212,7 +212,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "supreme-broccoli-soup-casserole-128",
+      "_url": "supreme-broccoli-soup-casserole-128",
       "similarity": "0.7539"
     },
     {
@@ -267,7 +267,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
-      "url": "broccoli-casserole-129",
+      "_url": "broccoli-casserole-129",
       "similarity": "0.7514"
     },
     {
@@ -318,7 +318,7 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
-      "url": "broccoli-casserole-133",
+      "_url": "broccoli-casserole-133",
       "similarity": "0.7514"
     }
   ]

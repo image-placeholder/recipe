@@ -54,7 +54,7 @@
     "cookTime": "2 hours",
     "totalTime": "2 hours 30 minutes"
   },
-  "url": "beef-barley-soup-100",
+  "_url": "beef-barley-soup-100",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -105,7 +105,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "veggie-basic-soup-120",
+      "_url": "veggie-basic-soup-120",
       "similarity": "0.7428"
     },
     {
@@ -162,7 +162,7 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "mushroom-soup-113",
+      "_url": "mushroom-soup-113",
       "similarity": "0.6774"
     },
     {
@@ -212,7 +212,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "creamy-broccoli-soup-112",
+      "_url": "creamy-broccoli-soup-112",
       "similarity": "0.6769"
     },
     {
@@ -286,7 +286,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "beef-and-rice-casserole-168",
+      "_url": "beef-and-rice-casserole-168",
       "similarity": "0.6761"
     },
     {
@@ -347,7 +347,7 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
-      "url": "cheese-broccoli-soup-105",
+      "_url": "cheese-broccoli-soup-105",
       "similarity": "0.6644"
     }
   ]

@@ -47,7 +47,7 @@
     "cookTime": "5 minutes",
     "totalTime": null
   },
-  "url": "pickled-eggs-35",
+  "_url": "pickled-eggs-35",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -99,7 +99,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
-      "url": "plain-pickled-eggs-30",
+      "_url": "plain-pickled-eggs-30",
       "similarity": "0.8994"
     },
     {
@@ -157,7 +157,7 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "fancy-pickled-eggs-31",
+      "_url": "fancy-pickled-eggs-31",
       "similarity": "0.8741"
     },
     {
@@ -228,7 +228,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "hard-boiled-eggsdevilled-eggs-34",
+      "_url": "hard-boiled-eggsdevilled-eggs-34",
       "similarity": "0.6409"
     },
     {
@@ -271,7 +271,7 @@
         "cookTime": "8 minutes",
         "totalTime": "13 minutes"
       },
-      "url": "salad-dressing-102",
+      "_url": "salad-dressing-102",
       "similarity": "0.5926"
     },
     {
@@ -318,7 +318,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "salad-dressing-103",
+      "_url": "salad-dressing-103",
       "similarity": "0.5926"
     }
   ]

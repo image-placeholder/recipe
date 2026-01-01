@@ -47,7 +47,7 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
   },
-  "url": "sheilas-favourite-supper-dish-253",
+  "_url": "sheilas-favourite-supper-dish-253",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -105,7 +105,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
-      "url": "favourite-chicken-241",
+      "_url": "favourite-chicken-241",
       "similarity": "0.7054"
     },
     {
@@ -159,7 +159,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
-      "url": "chicken-breast-212",
+      "_url": "chicken-breast-212",
       "similarity": "0.6566"
     },
     {
@@ -228,7 +228,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "url": "creamy-chicken-stew-252",
+      "_url": "creamy-chicken-stew-252",
       "similarity": "0.6138"
     },
     {
@@ -295,7 +295,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "2 hours"
       },
-      "url": "pork-chop-rice-casserole-211",
+      "_url": "pork-chop-rice-casserole-211",
       "similarity": "0.6128"
     },
     {
@@ -346,7 +346,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
-      "url": "chicken-and-broccoli-234",
+      "_url": "chicken-and-broccoli-234",
       "similarity": "0.6051"
     }
   ]

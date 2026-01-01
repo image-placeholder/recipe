@@ -64,7 +64,7 @@
     "cookTime": "20 minutes",
     "totalTime": "30 minutes"
   },
-  "url": "cheese-broccoli-soup-108",
+  "_url": "cheese-broccoli-soup-108",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -113,7 +113,7 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
-      "url": "creamy-broccoli-soup-112",
+      "_url": "creamy-broccoli-soup-112",
       "similarity": "0.8730"
     },
     {
@@ -171,7 +171,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "supreme-broccoli-soup-casserole-128",
+      "_url": "supreme-broccoli-soup-casserole-128",
       "similarity": "0.7699"
     },
     {
@@ -216,7 +216,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "url": "cabbage-soup-106",
+      "_url": "cabbage-soup-106",
       "similarity": "0.7548"
     },
     {
@@ -261,7 +261,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
-      "url": "cabbage-soup-109",
+      "_url": "cabbage-soup-109",
       "similarity": "0.7548"
     },
     {
@@ -325,7 +325,7 @@
         "cookTime": "28 minutes",
         "totalTime": "43 minutes"
       },
-      "url": "pasta-bean-soup-111",
+      "_url": "pasta-bean-soup-111",
       "similarity": "0.7441"
     }
   ]

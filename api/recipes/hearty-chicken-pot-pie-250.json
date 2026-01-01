@@ -62,7 +62,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 30 minutes"
   },
-  "url": "hearty-chicken-pot-pie-250",
+  "_url": "hearty-chicken-pot-pie-250",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -130,7 +130,7 @@
         "cookTime": "30 minutes",
         "totalTime": "1 hour 15 minutes"
       },
-      "url": "turkey-or-chicken-pies-251",
+      "_url": "turkey-or-chicken-pies-251",
       "similarity": "0.7452"
     },
     {
@@ -194,7 +194,7 @@
         "cookTime": "35 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "chicken-with-a-chinese-accent-245",
+      "_url": "chicken-with-a-chinese-accent-245",
       "similarity": "0.6271"
     },
     {
@@ -252,7 +252,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
-      "url": "chicken-hawaiian-232",
+      "_url": "chicken-hawaiian-232",
       "similarity": "0.6119"
     },
     {
@@ -326,7 +326,7 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
-      "url": "thai-chicken-235",
+      "_url": "thai-chicken-235",
       "similarity": "0.6112"
     },
     {
@@ -395,7 +395,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
-      "url": "creamy-chicken-stew-252",
+      "_url": "creamy-chicken-stew-252",
       "similarity": "0.6100"
     }
   ]
