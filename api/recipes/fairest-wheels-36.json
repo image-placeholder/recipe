@@ -72,5 +72,321 @@
     "cookTime": "",
     "totalTime": "2 hours 15 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Macaroni Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Theresa Finkbeiner"
+      },
+      "description": "A classic macaroni salad with tuna, ham, and cheddar cheese, mixed with Miracle Whip and spices.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT8M",
+      "totalTime": "PT23M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups macaroni",
+        "1 can (drained) white solid tuna",
+        "1 cup cubed cheddar cheese",
+        "1 cup cubed ham",
+        "1/2 cup cubed celery",
+        "1/4 cup chopped onion",
+        "1 tsp parsley flakes",
+        "1/2 tsp paprika",
+        "Salt to taste",
+        "Miracle Whip (enough to moisten)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package directions. Let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut up celery, cheese, tuna, and ham into small pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooled macaroni with the tuna mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add enough Miracle Whip to moisten the salad."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with parsley flakes and paprika."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix well and serve."
+        }
+      ],
+      "keywords": "macaroni salad, tuna salad, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "8 minutes",
+        "totalTime": "23 minutes"
+      },
+      "url": "macaroni-salad-72",
+      "score": 0.6554639024044029
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cornbread Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A layered salad with crumbled cornbread, black beans, corn, cheese, and a creamy dressing, perfect for chilling before serving.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 (9 oz) package cornbread mix",
+        "1 (11 oz) can whole kernel corn, drained",
+        "1 (8 oz) package cheddar cheese, shredded",
+        "1 (15 oz) can black beans, rinsed and drained",
+        "½ cup salad dressing or mayonnaise",
+        "¼ cup lime juice",
+        "1 tsp ground cumin",
+        "½ tsp salt",
+        "½ cup chopped fresh cilantro or parsley",
+        "1 large red bell pepper, chopped",
+        "1 bunch green onions, chopped",
+        "6 plum or tiny tim tomatoes, shredded",
+        "1 head iceberg lettuce, chopped",
+        "Onion curls for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Prepare cornbread mix according to package directions and let cool. Crumble into pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a food processor or blender, combine salad dressing (or mayonnaise), lime juice, cumin, and salt. Process until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer half of the lettuce, cornbread, dressing mixture, beans, corn, cheese, red bell pepper, green onions, and tomatoes in a 4-quart bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Repeat the layers, finishing with the remaining dressing on top. Garnish as desired with cilantro or onion curls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and chill for 1 to 2 hours before serving."
+        }
+      ],
+      "keywords": "Cornbread salad, layered salad, Southwestern salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "url": "cornbread-salad-71",
+      "score": 0.6232468147688587
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Veggie Pizza",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Linda Nakamura"
+        },
+        {
+          "@type": "Person",
+          "name": "Teena Houston"
+        }
+      ],
+      "description": "A simple and customizable veggie pizza using crescent rolls as the crust, topped with a cream cheese mixture and various vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "2 pkg Pillsbury crescent rolls",
+        "1 cup sour cream",
+        "1/2 cup mayonnaise",
+        "2 large cream cheese",
+        "2 pkg Hidden Valley ranch dressing",
+        "Grated cheddar cheese",
+        "Veggies (broccoli, cauliflower, carrots, celery, red or green peppers, green onions)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Roll out crescent rolls on a cookie sheet and a small cake pan. Bake until golden brown. Cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix sour cream, mayonnaise, cream cheese, and ranch dressing to make the cream mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cream mixture on cooled rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with finely chopped vegetables of your choice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill and cut into small pieces. Serve as hors d'oeuvres."
+        }
+      ],
+      "keywords": "veggie pizza, appetizer, crescent rolls",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "veggie-pizza-47",
+      "score": 0.6214706591790998
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Veggie Pizza",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Kelly Haines"
+        },
+        {
+          "@type": "Person",
+          "name": "Kim MacDonald"
+        }
+      ],
+      "description": "A simple veggie pizza made with a crescent roll crust, cream cheese, ranch dressing, and various chopped vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeYield": "1 pizza",
+      "recipeIngredient": [
+        "1 roll Pillsbury crescent rolls",
+        "1 (8 oz) pkg cream cheese",
+        "1/2 cup ranch dressing",
+        "1 cup finely chopped broccoli",
+        "1/2 cup finely chopped red onion",
+        "1/2 cup finely chopped green or red pepper",
+        "1 cup finely chopped cauliflower"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll out crescent roll dough on a flat cookie sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cream cheese with ranch dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cream cheese mixture onto the cooled crust."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with chopped vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep refrigerated before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut with pizza cutter or knife."
+        }
+      ],
+      "keywords": "veggie pizza, crescent roll crust, cream cheese, ranch dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "veggie-pizza-201",
+      "score": 0.6214706591790998
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cottage Cheese Jellied Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 oz package orange or lemon flavored gelatin",
+        "1 cup boiling water",
+        "1 cup drained crushed pineapple",
+        "½ cup chopped walnuts (optional)",
+        "½ cup mayonnaise",
+        "1 cup cottage cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve gelatin in boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise and whisk to blend."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until the mixture starts to set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
+        }
+      ],
+      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "url": "cottage-cheese-jellied-salad-66",
+      "score": 0.620883595224355
+    }
+  ]
 }

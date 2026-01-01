@@ -84,5 +84,313 @@
     "cookTime": "25 minutes",
     "totalTime": "45 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Microwave Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Martene"
+      },
+      "description": "A creamy corn chowder made in the microwave with potatoes, carrots, celery, and cheddar cheese.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "2 cups water",
+        "¼ cup butter or margarine",
+        "2 cups diced peeled potatoes",
+        "¼ cup all-purpose flour",
+        "2 cups milk",
+        "½ cup sliced carrots",
+        "½ cup sliced celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "3 cups (12 oz) shredded cheddar cheese",
+        "2 cans (14¾ oz each) cream style corn"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place water in a 2-quart microwave-safe dish; cover and heat until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add potatoes, carrots, celery, onion, salt, and pepper. Cook, uncovered, on high for 8 to 10 minutes or until vegetables are crisp-tender; set aside (do not drain)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a 3-quart dish, microwave butter on high for 50 to 60 seconds or until melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour until smooth. Gradually stir in milk. Cook, uncovered, on high for 6 to 7 minutes or until thickened, stirring every 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cheese. Heat for 1 to 1½ minutes or until the cheese is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in corn and reserved vegetables. Cook on high for 2 to 3 minutes or until heated through."
+        }
+      ],
+      "keywords": "microwave corn chowder, creamy soup, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "microwave-corn-chowder-118",
+      "score": 0.7099893625251111
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Baked Cauliflower",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "June Schroeder"
+        },
+        {
+          "@type": "Person",
+          "name": "Marie Dinney"
+        }
+      ],
+      "description": "A creamy baked cauliflower casserole with cheese, mayonnaise, and curry powder.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 large cauliflower, broken apart",
+        "1 (10 oz) can cream of chicken soup",
+        "1 cup shredded cheese",
+        "1/3 cup mayonnaise",
+        "1/2 tsp salt",
+        "1/2 tsp curry powder",
+        "1/4 cup bread crumbs",
+        "2 Tbsp melted butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook cauliflower in boiling water and salt for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a casserole dish, stir together undiluted soup, cheese, mayonnaise, and curry powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cauliflower and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss bread crumbs in melted butter and sprinkle on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 30 minutes at 250°F until bubbly."
+        }
+      ],
+      "keywords": "baked cauliflower, cheesy casserole",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "baked-cauliflower-143",
+      "score": 0.7099782919595585
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cauliflower Broccoli Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A versatile casserole recipe that can use either cauliflower or broccoli, topped with croutons and Parmesan cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT40M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "Cauliflower or broccoli",
+        "1 can cream of celery soup",
+        "2 Tbsp mayonnaise",
+        "1/4 cup shredded Colby cheese",
+        "1/4 cup Parmesan cheese",
+        "1/2 cup croutons",
+        "Some cracker crumbs",
+        "A little butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chosen vegetable in the microwave for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cream of celery soup, mayonnaise, and cheese to the cooked vegetable. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add croutons to the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cracker crumbs on top of the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle Parmesan cheese over the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put butter pieces on top of the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at 350°F for 40 minutes."
+        }
+      ],
+      "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "40 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "cauliflower-broccoli-casserole-144",
+      "score": 0.7011326866408212
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey A La King",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅓ cup butter",
+        "1 tsp salt",
+        "¼ lb mushrooms, sliced",
+        "1 cup chicken broth",
+        "¼ cup chopped onion",
+        "1 cup milk",
+        "2 cups cooked diced turkey",
+        "¼ cup chopped celery",
+        "¼ cup chopped green pepper",
+        "¼ cup flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over hot toast, biscuits, or rice."
+        }
+      ],
+      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "turkey-a-la-king-248",
+      "score": 0.6862883143623059
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeIngredient": [
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "broccoli-casserole-129",
+      "score": 0.6848815312435891
+    }
+  ]
 }

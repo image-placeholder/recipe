@@ -45,5 +45,296 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Fajitas",
+      "author": {
+        "@type": "Person",
+        "name": "Valorie (Finkbeiner) Mullin"
+      },
+      "description": "A flavorful Mexican-inspired dish featuring stir-fried chicken, peppers, and onions, served with tortillas and various toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 green pepper, cut into strips",
+        "2 Tbsp chopped parsley",
+        "1 onion, chopped",
+        "Flour tortillas (soft)",
+        "1 tsp ground cumin",
+        "1 cup shredded cheese",
+        "1 tsp chili powder",
+        "Guacamole (see appetizers)",
+        "½ cup Catalina dressing",
+        "Salsa",
+        "4 boneless, skinless chicken breasts, cut into strips",
+        "Sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry the vegetables and chicken over high heat until the chicken is cooked through with spices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add Catalina dressing and heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve wrapped in flour tortillas with shredded cheese, salsa, sour cream, and guacamole as garnishes."
+        }
+      ],
+      "keywords": "chicken fajitas, Mexican dish, stir-fry",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "chicken-fajitas-226",
+      "score": 0.7674825652662155
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Fajitas",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A classic Tex-Mex dish featuring chicken, sautéed peppers and onions, served with tortillas, cheese, and various toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 green pepper, cut in strips",
+        "2 Tbsp parsley, chopped",
+        "1 onion, chopped",
+        "Flour tortillas (soft)",
+        "1 tsp ground cumin",
+        "1 cup shredded cheese",
+        "1 tsp chili powder",
+        "Guacamole (see appetizers)",
+        "Salsa",
+        "4 boneless chicken breasts",
+        "Sour cream"
+      ],
+      "recipeInstructions": [],
+      "keywords": "chicken fajitas, Tex-Mex, Mexican-American",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "chicken-fajitas-228",
+      "score": 0.7674825652662155
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "thai-chicken-235",
+      "score": 0.7550393169230989
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caribbean Chicken Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Caribbean-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1½ cups chicken broth",
+        "2 cups cut up chicken breast",
+        "1 green pepper, diced",
+        "1 small red onion, chopped fine",
+        "1 mango, thinly sliced",
+        "1 small can pineapple, diced and drained",
+        "2 celery stalks, diced",
+        "⅓ cup Kraft Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the Minute Rice in chicken broth according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chicken breast meat in a little oil until fully cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
+        }
+      ],
+      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "caribbean-chicken-salad-70",
+      "score": 0.7314513590467274
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Chicken Stew",
+      "author": {
+        "@type": "Person",
+        "name": "Anne Cottel"
+      },
+      "description": "A hearty and comforting chicken stew with vegetables in a creamy sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 to 10 servings",
+      "recipeIngredient": [
+        "3 lb boneless, skinless chicken breasts, cut into 1-inch cubes",
+        "2 Tbsp cooking oil",
+        "1 medium onion, diced",
+        "1 cup sliced celery",
+        "2 cups peeled and cubed potatoes",
+        "3 large carrots, cut into coins",
+        "1 tsp salt",
+        "1/2 tsp dried basil",
+        "1/2 tsp paprika",
+        "1/4 tsp celery salt",
+        "1 bay leaf",
+        "7 cups chicken broth, divided",
+        "1 can (14 oz) corn kernels, drained",
+        "1 can (14 oz) peas",
+        "1 can (14 oz) lima beans",
+        "1/2 cup butter or margarine",
+        "3/4 cup all-purpose flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a Dutch oven. Sprinkle chicken with salt, pepper, and paprika. Cook and stir until the chicken is browned. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add raw vegetables, basil, bay leaf, celery salt, and 5 cups broth; bring to a boil. Reduce heat. Cover and simmer for 30 minutes or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bay leaf. Add canned vegetables. Cook and stir for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, mix flour and butter or margarine until smooth. Gradually whisk in remaining 2 cups broth. Bring to a boil. Cook and stir for 2 minutes or until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce into the Dutch oven. Stir and bring to a boil. Reduce heat. Simmer, uncovered, for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with rolls or biscuits."
+        }
+      ],
+      "keywords": "chicken stew, creamy stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "creamy-chicken-stew-252",
+      "score": 0.7294193406875699
+    }
+  ]
 }

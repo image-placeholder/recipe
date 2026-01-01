@@ -50,5 +50,287 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 10 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Cheese Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1½ lb diced cooked chicken",
+        "1 medium onion, finely chopped",
+        "2 cups cooked rice",
+        "¼ lb grated cheddar cheese",
+        "½ cup milk",
+        "1 can Campbell's cream of celery soup",
+        "4 Tbsp butter or margarine",
+        "¾ cup crushed corn flakes",
+        "1½ cups chopped celery",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mixture into a buttered casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook until the celery is hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the corn flake and celery mixture over the chicken mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 375°F oven for about ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "chicken casserole, cheesy rice bake, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chicken-and-cheese-casserole-244",
+      "score": 0.6839839468187532
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeIngredient": [
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "broccoli-casserole-129",
+      "score": 0.6785207297096167
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 heads broccoli, precooked",
+        "1 cup celery, precooked",
+        "1 can mushroom soup",
+        "½ cup grated cheese",
+        "1 Tbsp melted margarine",
+        "½ cup sour cream",
+        "1 cup bread crumbs"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the topping over the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "broccoli-casserole-133",
+      "score": 0.6785207297096167
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Freezer Cole Slaw",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A freezer coleslaw recipe with a sweet and tangy dressing, made with grated cabbage and optional vegetables.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 large cabbage, grated or chopped",
+        "1 large carrot, grated (optional)",
+        "1 onion, grated (optional)",
+        "1 cup white sugar",
+        "1 cup white vinegar",
+        "1 Tbsp salt",
+        "1 Tbsp celery seed",
+        "1 tsp mustard (optional)",
+        "¼ cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat together vinegar, sugar, salt, water, celery seed, and mustard to make the syrup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Grate or chop cabbage and other vegetables in a food processor."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the cabbage mixture with the syrup and refrigerate overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place in a container, seal, and freeze."
+        }
+      ],
+      "keywords": "freezer coleslaw, slaw, salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "freezer-cole-slaw-58",
+      "score": 0.6732141913760203
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ham & Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Shelley Kinsman"
+      },
+      "description": "A layered ham, potato, and cheese casserole cooked in a slow cooker.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT8H",
+      "totalTime": "PT8H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "8 slices ham",
+        "8 to 10 medium potatoes, sliced",
+        "2 onions, sliced thin",
+        "1 cup grated cheese",
+        "Salt and pepper to taste",
+        "Cream of mushroom or celery soup",
+        "Paprika"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put half of the ham, potatoes, onions, cheese, salt, and pepper in a slow cooker."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining half of the ingredients for the second layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with soup and sprinkle with paprika."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
+        }
+      ],
+      "keywords": "ham, potato, casserole, slow cooker",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "8 hours",
+        "totalTime": "8 hours 20 minutes"
+      },
+      "url": "ham-potato-casserole-209",
+      "score": 0.6714612916444703
+    }
+  ]
 }

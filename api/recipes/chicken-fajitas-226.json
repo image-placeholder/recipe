@@ -51,5 +51,323 @@
     "cookTime": "15 minutes",
     "totalTime": "25 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pepper Chicken Fettucini",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A colorful and flavorful chicken fettucini dish with sweet peppers, mushrooms, and Parmesan cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1/4 cup olive oil",
+        "1 medium onion, cut into chunks",
+        "3 breasts chicken, cut in strips",
+        "2 sweet red peppers, cut in strips",
+        "1 yellow pepper, cut in strips",
+        "1 green pepper, cut in strips",
+        "2 cups sliced mushrooms",
+        "Fettucini noodles",
+        "1 tsp Italian herb seasoning",
+        "2 Tbsp grated Parmesan"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a pan. Add chicken, peppers, onion, mushrooms, and seasoning. Stir-fry over medium heat until chicken is cooked through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add hot cooked fettucini noodles and toss."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with Parmesan and toss. Serve hot."
+        }
+      ],
+      "keywords": "chicken fettucini, pepper chicken, Italian-inspired",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "pepper-chicken-fettucini-236",
+      "score": 0.7628761713304667
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tortilla Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Mexican",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "Chicken (breasts or thighs)",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 can diced tomatoes",
+        "1 cup corn",
+        "1 can black beans, optional",
+        "1 bay leaf",
+        "¼ cup chopped cilantro",
+        "½ tsp chili powder",
+        "½ tsp cumin",
+        "½ tsp oregano",
+        "Salt and pepper to taste",
+        "Tortilla chips",
+        "Sour cream",
+        "Cheddar cheese, grated",
+        "1 jar salsa"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute chicken pieces with onion, garlic, and spices until chicken is cooked through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 4 cups water and boil to make stock."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove chicken and chop, discarding any bones and skin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine remaining ingredients (except tortilla chips, sour cream, and cheese) and heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, place tortilla chips in soup bowls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour soup over chips and top with sour cream, jalapenos (optional), and shredded cheddar cheese."
+        }
+      ],
+      "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "tortilla-soup-124",
+      "score": 0.7618059719443363
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stir-Fry Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Atkinson"
+      },
+      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "6 to 8 servings",
+      "recipeIngredient": [
+        "1/4 cup olive oil",
+        "2 tsp curry powder",
+        "1 crushed garlic clove",
+        "1/4 cup soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 tsp Louisiana hot sauce",
+        "1/2 tsp Tabasco",
+        "6 to 8 buns, cut in half",
+        "Mozzarella cheese and bacon bits for buns",
+        "Chicken breasts, cut in cubes",
+        "Mushrooms, sliced",
+        "Celery, chopped",
+        "1 bag Oriental Classic frozen vegetables",
+        "1 onion, chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
+        }
+      ],
+      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "stir-fry-chicken-225",
+      "score": 0.7394985786153828
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Supreme",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4-8 servings",
+      "recipeIngredient": [
+        "8 boneless, skinless chicken breast pieces",
+        "1 (28 oz) can stewed tomatoes",
+        "1 chopped green pepper",
+        "1 chopped onion",
+        "2 generous slices of fresh Basil",
+        "2 Spanish Oregano slices",
+        "1 dozen chopped fresh Garlic",
+        "Salt and Seasoning salt",
+        "Onion powder",
+        "Grated mozzarella and cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil the chicken breasts in a separate container until pink is gone (about 1/4 of the way cooked)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a baking or roasting pan, mix together the tomato ingredients (stewed tomatoes, green pepper, onion, basil, oregano, garlic)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the partially cooked chicken breasts in the bottom of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle spices over the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the remaining tomato mixture on top of the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for approximately ½ hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese on top, cover, and bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over rice or pasta."
+        }
+      ],
+      "keywords": "chicken supreme, baked chicken, Italian-style chicken",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "chicken-supreme-238",
+      "score": 0.7259562605029929
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ken Noodle Supper",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Jefferies"
+      },
+      "description": "A hearty chicken and noodle supper with a creamy sauce, mixed vegetables, and a blend of herbs.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 lb boneless, skinless chicken breasts",
+        "½ tsp salt",
+        "½ tsp pepper",
+        "3 Tbsp flour",
+        "1 Tbsp butter",
+        "3 cups milk",
+        "1 Tbsp vegetable oil",
+        "1 Tbsp Dijon mustard",
+        "1 large onion, chopped",
+        "3 cups uncooked egg noodles",
+        "1 cup sliced mushrooms",
+        "1 pkg (10 oz/300 g) frozen mixed vegetables",
+        "1 clove garlic",
+        "½ tsp dried basil",
+        "½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut chicken into 1 inch cubes. Cook in butter in a large skillet over medium heat for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion, mushrooms, and garlic. Cook until onion is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, pepper, and herbs. Cook until thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add milk, stirring constantly. Bring to a boil and simmer for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mustard and noodles. Return to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add frozen vegetables. Stir and cook for 10 minutes before serving."
+        }
+      ],
+      "keywords": "chicken noodle supper, creamy sauce, comfort food",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "ken-noodle-supper-240",
+      "score": 0.719872165972777
+    }
+  ]
 }

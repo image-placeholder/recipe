@@ -61,5 +61,261 @@
     "cookTime": "25 minutes",
     "totalTime": "35 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Richard's Sunday Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Richard MacGregor"
+      },
+      "description": "A rich and comforting soup featuring carrots, potatoes, and chicken stock.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 tsp sugar",
+        "5 large carrots",
+        "1 large potato",
+        "1 medium onion",
+        "1 Tbsp oil",
+        "2 to 3 cups chicken stock",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Peel and dice the carrots and potato. Combine diced onion and oil in a saucepan and cook over medium heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the diced carrots and potato to the onion and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and sugar. Cook for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to simmer and cook for 10 to 15 minutes or until the vegetables are cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from heat and puree. Serve immediately with fresh bread."
+        }
+      ],
+      "keywords": "carrot soup, potato soup, chicken stock",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "richards-sunday-soup-121",
+      "score": 0.6594740992427185
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Veggie Basic Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Julie-Ann Bibby"
+      },
+      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1/2 tsp ground pepper",
+        "3 Tbsp butter",
+        "1 Tbsp dried parsley",
+        "1 diced onion",
+        "3 Tbsp soya sauce",
+        "2 large diced carrots",
+        "1 Tbsp Worcestershire sauce",
+        "3 stalks diced celery",
+        "1 tsp paprika",
+        "1 can whole diced tomatoes",
+        "2 qt beef broth",
+        "1 Tbsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
+        }
+      ],
+      "keywords": "vegetable soup, beef broth, savory soup",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "veggie-basic-soup-120",
+      "score": 0.6530597594975158
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Seafood Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A hearty seafood chowder featuring shrimp, clams, potatoes, and creamed corn in a flavorful broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "1 can shrimp",
+        "1 can clams with juice",
+        "6 slices bacon, chopped",
+        "2 large potatoes, peeled and cubed",
+        "1 onion, chopped",
+        "2 cups skim milk (or 2%)",
+        "1 can creamed corn",
+        "2 cups chicken broth",
+        "1 tsp Worcestershire sauce",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Sauté chopped bacon in a saucepan until cooked, then drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté the chopped onion and cubed potatoes in the bacon fat until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients (shrimp, clams, milk, creamed corn, broth, Worcestershire sauce) to the saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat through and simmer on low heat for 15 minutes."
+        }
+      ],
+      "keywords": "seafood chowder, shrimp and clam soup, creamy chowder",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "seafood-chowder-127",
+      "score": 0.6528951813016113
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Celebrity",
+      "author": {
+        "@type": "Person",
+        "name": "Rosemary Stewart"
+      },
+      "description": "A sweet and savory chicken dish with a ketchup-based sauce, perfect for baking.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 to 3 lb chicken parts",
+        "1/4 cup brown sugar",
+        "1 package dry onion soup mix",
+        "1/2 cup ketchup",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken parts in a small roaster or casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the rest of the ingredients together. Spoon over chicken, covering all pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 350°F oven for 1 hour or until tender."
+        }
+      ],
+      "keywords": "baked chicken, sweet and savory, ketchup-based sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "chicken-celebrity-237",
+      "score": 0.651702396234381
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
+        }
+      ],
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "creamy-broccoli-soup-112",
+      "score": 0.649073916836064
+    }
+  ]
 }

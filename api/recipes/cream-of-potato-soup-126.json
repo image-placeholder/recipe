@@ -43,5 +43,291 @@
     "cookTime": "2 hours 30 minutes",
     "totalTime": "2 hours 45 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Potato Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "6 diced and peeled potatoes",
+        "2 diced and peeled carrots",
+        "1 chopped onion",
+        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
+        "6 Tbsp butter",
+        "6 Tbsp flour",
+        "Sour cream (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Microwave onions and butter until soft, about 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
+        }
+      ],
+      "keywords": "potato soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "potato-soup-125",
+      "score": 0.7878808162481727
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheddar Baked Potato Slices",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 medium baking potatoes, cut into ¼ inch slices",
+        "1 can cream of mushroom soup",
+        "½ tsp paprika",
+        "½ tsp pepper",
+        "1 cup shredded cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the soup mixture evenly over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 400,
+            "unitCode": "FAR"
+          },
+          "duration": "PT45M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+        }
+      ],
+      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "cheddar-baked-potato-slices-140",
+      "score": 0.7536907086380759
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mushroom Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp butter",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 cups sliced mushrooms",
+        "1/4 cup flour",
+        "2 cups stock (chicken or vegetable)",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "3 cups milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute butter, onion, garlic and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, sauces and milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until heated through (approximately 15 minutes)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "mushroom soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "mushroom-soup-113",
+      "score": 0.7281406804415752
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Potato Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Heather Clarke"
+        },
+        {
+          "@type": "Person",
+          "name": "M. Leanne Kenney"
+        }
+      ],
+      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 (2 lb) bag frozen hash browns",
+        "1 can cream of celery soup",
+        "1 can cream of mushroom soup",
+        "500 mL sour cream",
+        "1 cup grated cheese",
+        "¼ cup diced onions"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a shallow pan until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
+        }
+      ],
+      "keywords": "potato casserole, hash browns, creamy, cheesy",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "potato-casserole-141",
+      "score": 0.7197346951625446
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
+        }
+      ],
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "creamy-broccoli-soup-112",
+      "score": 0.6901861902752097
+    }
+  ]
 }

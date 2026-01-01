@@ -49,5 +49,255 @@
     "cookTime": "5 minutes",
     "totalTime": "25 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange Jello Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Macisaac"
+      },
+      "description": "A simple orange Jello salad with mandarin oranges and Dream Whip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1½ cups hot water",
+        "1 small package orange Jello",
+        "1 small package Dream Whip (not pudding or instant vanilla)",
+        "1 can mandarin oranges"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put the first 3 ingredients into a saucepan and cook until clear."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cool the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix Dream Whip according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain oranges and add Dream Whip and oranges to the cooled mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Allow to cool completely before serving."
+        }
+      ],
+      "keywords": "orange Jello salad, mandarin oranges, Dream Whip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "orange-jello-salad-75",
+      "score": 0.8217513116947166
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lemon Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Mona Hamilton"
+      },
+      "description": "A light and fluffy lemon Jello dessert mixed with whipped Dream Whip.",
+      "recipeCategory": "Dessert",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1 package lemon Jello (85g)",
+        "1 small can frozen lemonade",
+        "1 cup hot water",
+        "¼ cup water",
+        "¼ cup sugar",
+        "1 package Dream Whip Mix"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve the lemon Jello in hot water with sugar."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add frozen lemonade and ¼ cup water to the Jello mixture and let set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whip the Dream Whip Mix and combine with the set Jello."
+        }
+      ],
+      "keywords": "lemon Jello, whipped dessert, Dream Whip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "url": "lemon-salad-80",
+      "score": 0.7753926613874648
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cranberry Mold",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Kenney"
+      },
+      "description": "A festive cranberry salad molded with cherry-flavored gelatin, celery, and nuts, perfect as a side dish for turkey.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "1 1½ quart mold",
+      "recipeIngredient": [
+        "2 (3 oz) packages cherry flavored gelatin",
+        "1 cup boiling water",
+        "1 cup cold water",
+        "1 lb can whole cranberry sauce",
+        "1 cup chopped celery",
+        "½ cup chopped nuts"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve gelatin in boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cold water and chill until the mixture thickens but is not set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in cranberry sauce, celery, and nuts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a 1½ quart mold and chill until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Unmold before serving."
+        }
+      ],
+      "keywords": "cranberry mold, gelatin salad, holiday side dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "url": "cranberry-mold-67",
+      "score": 0.7307893372259597
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cranberry Mold",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Macisaac"
+      },
+      "description": "A simple cranberry mold dessert made with raspberry Jello, sugar, and whole orange.",
+      "recipeCategory": "Dessert",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "recipeYield": "1 mold",
+      "recipeIngredient": [
+        "1 cup white sugar",
+        "2 cups cranberries",
+        "1 package raspberry Jello powder",
+        "1 whole orange"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put the cranberries and whole orange through a food chopper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the chopped cranberries and orange with sugar and raspberry Jello powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mixture in a mold and set."
+        }
+      ],
+      "keywords": "cranberry mold, raspberry Jello, dessert",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "url": "cranberry-mold-78",
+      "score": 0.7307893372259597
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Party-Time Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Phyllis Bender"
+      },
+      "description": "A creamy lime Jello salad with pineapple, cream cheese, and celery.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 1½ quart mould",
+      "recipeIngredient": [
+        "1 can crushed pineapple",
+        "1 (8 oz) package cream cheese",
+        "1 (3 oz) package lime flavoured Jello",
+        "1 cup celery, diced",
+        "1½ cups whipped cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat pineapple juice and hot water to measure 1 cup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve Jello powder in hot liquid and stir, then add ¾ cup cold water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let partially set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cream cheese and mix with beaters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add crushed pineapple, whipped cream, and celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour into a 1½ quart mould and chill until firm."
+        }
+      ],
+      "keywords": "party-time salad, lime Jello, cream cheese, pineapple",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "url": "party-time-salad-77",
+      "score": 0.6999910954233348
+    }
+  ]
 }

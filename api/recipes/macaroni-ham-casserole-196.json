@@ -63,5 +63,295 @@
     "cookTime": "20 minutes",
     "totalTime": "40 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Macaroni Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A comforting macaroni and meat casserole topped with cheese and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeIngredient": [
+        "2 cups macaroni",
+        "1½ lb hamburger",
+        "1 medium onion, chopped",
+        "½ green pepper, chopped",
+        "1 can stewed tomatoes",
+        "1 can mushrooms",
+        "1 can mushroom soup",
+        "½ cup ketchup",
+        "1 tsp oregano",
+        "1 tsp basil",
+        "½ tsp onion powder",
+        "½ tsp garlic powder",
+        "Dash salt and pepper",
+        "1 to 2 cups grated cheese (e.g., cheddar, mozzarella, Monterey Jack)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the macaroni, drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown hamburger, adding onions, green pepper and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the spices, ketchup and tomatoes. Reduce heat and simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the macaroni and meat mixture in a large casserole dish and mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mushroom soup across the top, covering the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the cheese on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake in 350°F oven for ½ hour."
+        }
+      ],
+      "keywords": "macaroni casserole, cheesy pasta bake, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "macaroni-casserole-175",
+      "score": 0.7618984856514955
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ham Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "4 cups hash brown potatoes, thawed",
+        "1½ cups chopped ham",
+        "1 cup grated Cracker Barrel cheddar cheese",
+        "1 small onion, chopped",
+        "½ cup Miracle Whip salad dressing",
+        "½ cup milk",
+        "¼ tsp pepper",
+        "½ cup fresh bread crumbs",
+        "1 Tbsp butter or margarine"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with bread crumbs and dot with butter or margarine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 45 minutes."
+        }
+      ],
+      "keywords": "ham casserole, potato casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "ham-casserole-200",
+      "score": 0.741214109145287
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ham & Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Shelley Kinsman"
+      },
+      "description": "A layered ham, potato, and cheese casserole cooked in a slow cooker.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT8H",
+      "totalTime": "PT8H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "8 slices ham",
+        "8 to 10 medium potatoes, sliced",
+        "2 onions, sliced thin",
+        "1 cup grated cheese",
+        "Salt and pepper to taste",
+        "Cream of mushroom or celery soup",
+        "Paprika"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put half of the ham, potatoes, onions, cheese, salt, and pepper in a slow cooker."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining half of the ingredients for the second layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with soup and sprinkle with paprika."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
+        }
+      ],
+      "keywords": "ham, potato, casserole, slow cooker",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "8 hours",
+        "totalTime": "8 hours 20 minutes"
+      },
+      "url": "ham-potato-casserole-209",
+      "score": 0.7293008952491233
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crunchy Top Ham and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Norma Fahner"
+      },
+      "description": "A hearty ham and potato casserole with a crunchy corn flake topping.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H25M",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "2 lb frozen hash brown potatoes, thawed",
+        "1½ cups shredded cheddar cheese",
+        "1 (10 oz) can cream of chicken soup, undiluted",
+        "½ tsp ground pepper",
+        "⅔ cup chopped green onion",
+        "2 cups cubed, cooked ham",
+        "2 cups sour cream",
+        "Topping: ½ cup butter, melted",
+        "2 cups crushed corn flakes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all casserole ingredients and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the mixture in a 13x9 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine topping ingredients (melted butter and crushed corn flakes) and sprinkle on top of the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "ham and potato casserole, crunchy topping, comforting casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 25 minutes"
+      },
+      "url": "crunchy-top-ham-and-potato-casserole-197",
+      "score": 0.710149265241496
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheesy Ham Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A creamy, cheesy ham chowder with potatoes, carrots, and corn, finished with crispy bacon.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT40M",
+      "totalTime": "PT1H",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "10 strips bacon, diced",
+        "1 large onion, chopped",
+        "2 tsp chicken bouillon granules",
+        "1 cup diced carrots",
+        "3 Tbsp all-purpose flour",
+        "3 cups (12 oz) shredded cheddar cheese",
+        "3 cups milk",
+        "1½ cups water",
+        "2 cups fully cooked, cubed ham",
+        "2½ cups cubed potatoes",
+        "1 can (15 oz) corn, drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large soup kettle or Dutch oven, cook the bacon over medium heat until crisp. Remove to paper towels to drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the bacon drippings, sauté the chopped onion until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the flour until blended. Gradually add the milk and water, bringing to a boil. Cook and stir for 2 minutes or until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the potatoes, corn, bouillon granules, and pepper. Reduce heat and simmer, uncovered, for 20 minutes or until potatoes are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the shredded cheese and cubed ham; heat until cheese is melted. Stir in the cooked bacon."
+        }
+      ],
+      "keywords": "ham chowder, cheesy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "40 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "cheesy-ham-chowder-116",
+      "score": 0.6492947798677953
+    }
+  ]
 }

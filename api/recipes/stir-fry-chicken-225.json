@@ -57,5 +57,296 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Easy Curried Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "International",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeIngredient": [
+        "Chicken pieces",
+        "2 cans cream of chicken soup",
+        "¾ cup mayonnaise",
+        "1 tsp curry powder (or to taste)",
+        "Broccoli and carrots, cut into bite-size pieces",
+        "Bread crumbs for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease the bottom of a pan and layer with vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken pieces on top of the vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cream of chicken soup, mayonnaise, and curry powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the soup mixture over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle bread crumbs on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 375°F for 1 hour."
+        }
+      ],
+      "keywords": "curried chicken, creamy chicken, baked chicken casserole",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "easy-curried-chicken-231",
+      "score": 0.7599749666162375
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Louise Wein"
+        }
+      ],
+      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 serving dish",
+      "recipeIngredient": [
+        "1 tsp Accent",
+        "1 cup sour cream",
+        "¼ tsp salt",
+        "1 cup mayonnaise",
+        "¼ tsp celery salt",
+        "1 tsp parsley flakes",
+        "2 drops Tabasco sauce (can be omitted)",
+        "½ tsp dill weed",
+        "1 tsp garlic salt",
+        "Assorted vegetables or crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill before serving with chips, crackers, or vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, sour cream dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "vegetable-dip-17",
+      "score": 0.7504578746018986
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "vegetable-dip-18",
+      "score": 0.7504578746018986
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "thai-chicken-235",
+      "score": 0.7488746559917273
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken-Pineapple Stir-Fry",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "12 oz deboned chicken breast",
+        "2 tsp cornstarch",
+        "1 onion, chopped",
+        "¼ tsp cinnamon",
+        "1 cup diced celery",
+        "1½ tsp soya sauce",
+        "1 cup green pepper strips",
+        "2 tsp margarine",
+        "2 cups pineapple chunks (with juice reserved)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and cook until the sauce is clear and thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the stir-fry over hot rice."
+        }
+      ],
+      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "url": "chicken-pineapple-stir-fry-221",
+      "score": 0.7479224484538225
+    }
+  ]
 }

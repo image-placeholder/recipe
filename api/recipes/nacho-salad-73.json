@@ -60,5 +60,304 @@
     "cookTime": "15 minutes",
     "totalTime": "35 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the marinade well in the morning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve."
+        }
+      ],
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
+      },
+      "url": "onion-salad-74",
+      "score": 0.7791059811449937
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sloppy Joe Squares",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "1 small onion, minced",
+        "1/2 tsp Worcestershire sauce",
+        "3/4 cup ketchup",
+        "1 tsp salt",
+        "1/2 tsp pepper",
+        "1/4 tsp chili powder",
+        "2 Tbsp flour",
+        "2 packages Pillsbury crescent dinner rolls",
+        "Mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend in flour to thicken the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the beef mixture evenly over the layer of rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the beef mixture with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F until the crescent rolls are browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with a salad."
+        }
+      ],
+      "keywords": "sloppy joe, casserole, crescent rolls, beef",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "sloppy-joe-squares-185",
+      "score": 0.7717468476277164
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat Balls and Sour And Sweet Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Glenda Wuerth"
+      },
+      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb hamburger",
+        "1 slice dry bread (crumbs)",
+        "1 Tbsp cornstarch",
+        "¼ cup milk",
+        "1 tsp onion flakes or 1 tsp real onion",
+        "1 (19 oz) can pineapple, crushed",
+        "⅓ cup vinegar",
+        "1 tsp salt",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together and form into 1½ inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from oven and drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a large casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+        }
+      ],
+      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "score": 0.768993793156896
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Continue cooking gently for another 2 hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-177",
+      "score": 0.7586283764647079
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-187",
+      "score": 0.7586283764647079
+    }
+  ]
 }

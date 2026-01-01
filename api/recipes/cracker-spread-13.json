@@ -33,5 +33,280 @@
     "cookTime": "5 minutes",
     "totalTime": "10 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Veggie Basic Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Julie-Ann Bibby"
+      },
+      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1/2 tsp ground pepper",
+        "3 Tbsp butter",
+        "1 Tbsp dried parsley",
+        "1 diced onion",
+        "3 Tbsp soya sauce",
+        "2 large diced carrots",
+        "1 Tbsp Worcestershire sauce",
+        "3 stalks diced celery",
+        "1 tsp paprika",
+        "1 can whole diced tomatoes",
+        "2 qt beef broth",
+        "1 Tbsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
+        }
+      ],
+      "keywords": "vegetable soup, beef broth, savory soup",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "veggie-basic-soup-120",
+      "score": 0.6431134496268273
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Shrimp Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 can shrimp cocktail",
+        "3 green onions, finely chopped",
+        "1 tsp garlic powder",
+        "1 (8 oz) package cream cheese, softened",
+        "1 tsp Worcestershire sauce",
+        "1½ cups shredded cheddar cheese",
+        "Miracle Whip (as needed for consistency)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a medium bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mash the shrimp with a fork until well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate before serving with crackers."
+        }
+      ],
+      "keywords": "shrimp spread, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "url": "shrimp-spread-10",
+      "score": 0.6053477152342039
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Baked Cauliflower",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "June Schroeder"
+        },
+        {
+          "@type": "Person",
+          "name": "Marie Dinney"
+        }
+      ],
+      "description": "A creamy baked cauliflower casserole with cheese, mayonnaise, and curry powder.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 large cauliflower, broken apart",
+        "1 (10 oz) can cream of chicken soup",
+        "1 cup shredded cheese",
+        "1/3 cup mayonnaise",
+        "1/2 tsp salt",
+        "1/2 tsp curry powder",
+        "1/4 cup bread crumbs",
+        "2 Tbsp melted butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook cauliflower in boiling water and salt for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a casserole dish, stir together undiluted soup, cheese, mayonnaise, and curry powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cauliflower and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss bread crumbs in melted butter and sprinkle on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 30 minutes at 250°F until bubbly."
+        }
+      ],
+      "keywords": "baked cauliflower, cheesy casserole",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "baked-cauliflower-143",
+      "score": 0.5937924770303822
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Van Valkengoed"
+      },
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta according to package instructions, then drain and cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the feta cheese into the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+        }
+      ],
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "pasta-salad-85",
+      "score": 0.5845730442696649
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tomato Macaroni Soup",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Linda Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Shirley Preszcator"
+        }
+      ],
+      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 Tbsp oil",
+        "1½ cups water",
+        "1 cooking onion, diced",
+        "1 cup dry macaroni",
+        "2 carrots, diced",
+        "½ tsp garlic salt",
+        "3 or 4 celery stalks, diced",
+        "½ tsp Worcestershire sauce",
+        "2 cups chicken stock",
+        "2 cups tomato juice",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute onion, celery, and carrot in oil until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, juice, and water. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add pasta and cook until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic salt and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season to taste with salt and pepper."
+        }
+      ],
+      "keywords": "tomato macaroni soup, comfort food, pasta soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "tomato-macaroni-soup-123",
+      "score": 0.5792594117205536
+    }
+  ]
 }

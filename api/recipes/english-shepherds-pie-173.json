@@ -63,5 +63,344 @@
     "cookTime": "50 minutes",
     "totalTime": "1 hour 20 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Shepherd's Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A classic shepherd's pie made with ground beef, mixed vegetables, and topped with mashed potatoes.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 can (10 oz/284 mL) beef broth",
+        "1 lb (454 g) lean ground beef",
+        "1 beef cube (Oxo)",
+        "1/2 tsp salt",
+        "3/4 tsp black pepper",
+        "1 pouch onion soup mix",
+        "1 cup (250 mL) frozen mixed vegetables",
+        "2 cups (500 mL) mashed potatoes",
+        "Paprika (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef in an electric skillet. Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion soup mix, frozen vegetables, beef cube, salt, and pepper. Simmer for approximately 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a 6-cup (1.5 L) casserole dish or square baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with mashed potatoes and sprinkle with paprika if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 400°F for 15 to 20 minutes, until the potatoes are firm and golden brown.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 400,
+            "unitCode": "FAR"
+          },
+          "duration": "PT15M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 5 minutes before serving."
+        }
+      ],
+      "keywords": "shepherd's pie, ground beef, mashed potatoes, casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "shepherds-pie-170",
+      "score": 0.8464386413578565
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburger Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "hamburger-pie-169",
+      "score": 0.7705383300581538
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hawaiian Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
+      "recipeCategory": "Meat",
+      "recipeCuisine": "Hawaiian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "2 eggs",
+        "½ cup chopped onion",
+        "¾ cup bread crumbs",
+        "¼ tsp salt",
+        "¼ tsp garlic salt",
+        "½ tsp salt",
+        "¼ tsp ginger",
+        "¼ tsp dry mustard",
+        "2 Tbsp soya sauce",
+        "¼ cup vinegar",
+        "6 Tbsp brown sugar",
+        "6 Tbsp ketchup",
+        "2 Tbsp shortening",
+        "1 (10 oz) can crushed pineapple",
+        "1 cup water",
+        "2 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the meat mixture together and shape into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the meatballs from the pan and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
+        }
+      ],
+      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "hawaiian-meatballs-152",
+      "score": 0.7389104512482637
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat Balls and Sour And Sweet Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Glenda Wuerth"
+      },
+      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb hamburger",
+        "1 slice dry bread (crumbs)",
+        "1 Tbsp cornstarch",
+        "¼ cup milk",
+        "1 tsp onion flakes or 1 tsp real onion",
+        "1 (19 oz) can pineapple, crushed",
+        "⅓ cup vinegar",
+        "1 tsp salt",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together and form into 1½ inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from oven and drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a large casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+        }
+      ],
+      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "score": 0.7337590325411242
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "2 Tbsp chopped onion",
+        "½ cup cracker crumbs",
+        "1 Tbsp crushed garlic",
+        "¼ tsp pepper",
+        "1 egg",
+        "1½ tsp soya sauce",
+        "⅔ cup milk",
+        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Broil to brown on all sides, watching carefully."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 30 minutes"
+      },
+      "url": "sweet-sour-meatballs-161",
+      "score": 0.7207932926476158
+    }
+  ]
 }

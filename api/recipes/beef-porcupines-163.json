@@ -52,5 +52,358 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef and Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kurtis Brand"
+      },
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
+      "recipeIngredient": [
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Sauté celery and onion in butter until soft and tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place rice in a greased 1½ quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the rice with the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "beef casserole, rice casserole, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "beef-and-rice-casserole-168",
+      "score": 0.7712790351816667
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef & Barley Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Marjorie Johns"
+      },
+      "description": "A hearty beef and barley soup with vegetables and tomato, ideal for freezing and reheating.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H30M",
+      "recipeYield": "22 cups",
+      "recipeIngredient": [
+        "6 cups water",
+        "6 beef bouillon cubes",
+        "1 Tbsp parsley flakes",
+        "28 oz canned tomato",
+        "1 tsp sugar",
+        "10 oz condensed tomato soup",
+        "1 tsp salt",
+        "2 cups shredded carrots",
+        "¼ tsp pepper",
+        "2 cups shredded potatoes",
+        "¾ tsp thyme",
+        "1½ cups chopped onion",
+        "3 cups cooked roast beef (or 2-3 cups chopped hamburg meat)",
+        "1 cup chopped celery",
+        "½ cup pearl or pot barley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat water and bouillon cubes in a large pot, stirring until dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add remaining ingredients except beef and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 1½ hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add beef and simmer for an additional ½ hour."
+        }
+      ],
+      "keywords": "beef barley soup, hearty soup, freezer-friendly",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 30 minutes"
+      },
+      "url": "beef-barley-soup-100",
+      "score": 0.7511803072487496
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Turkey",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 tsp ground coriander",
+        "1½ tsp vegetable oil",
+        "¼ tsp salt",
+        "1 large chopped onion",
+        "½ tsp ground cumin",
+        "1 large chopped green pepper",
+        "¼ tsp cinnamon",
+        "2 chopped garlic cloves",
+        "2 to 3 Tbsp chili powder",
+        "1⅓ lb ground turkey",
+        "1 can red kidney beans",
+        "1¾ cups chicken broth",
+        "6 oz whole wheat spaghetti",
+        "3 tsp tomato paste",
+        "½ cup shredded cheese",
+        "1½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta as directed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+        }
+      ],
+      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chili-turkey-247",
+      "score": 0.738295812717353
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sloppy Joe Squares",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "1 small onion, minced",
+        "1/2 tsp Worcestershire sauce",
+        "3/4 cup ketchup",
+        "1 tsp salt",
+        "1/2 tsp pepper",
+        "1/4 tsp chili powder",
+        "2 Tbsp flour",
+        "2 packages Pillsbury crescent dinner rolls",
+        "Mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend in flour to thicken the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the beef mixture evenly over the layer of rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the beef mixture with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F until the crescent rolls are browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with a salad."
+        }
+      ],
+      "keywords": "sloppy joe, casserole, crescent rolls, beef",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "sloppy-joe-squares-185",
+      "score": 0.7251857086221842
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hawaiian Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
+      "recipeCategory": "Meat",
+      "recipeCuisine": "Hawaiian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "2 eggs",
+        "½ cup chopped onion",
+        "¾ cup bread crumbs",
+        "¼ tsp salt",
+        "¼ tsp garlic salt",
+        "½ tsp salt",
+        "¼ tsp ginger",
+        "¼ tsp dry mustard",
+        "2 Tbsp soya sauce",
+        "¼ cup vinegar",
+        "6 Tbsp brown sugar",
+        "6 Tbsp ketchup",
+        "2 Tbsp shortening",
+        "1 (10 oz) can crushed pineapple",
+        "1 cup water",
+        "2 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the meat mixture together and shape into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the meatballs from the pan and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
+        }
+      ],
+      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "hawaiian-meatballs-152",
+      "score": 0.7226993508120741
+    }
+  ]
 }

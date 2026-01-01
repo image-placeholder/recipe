@@ -51,5 +51,326 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 20 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "score": 0.769524939877858
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Turkey",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 tsp ground coriander",
+        "1½ tsp vegetable oil",
+        "¼ tsp salt",
+        "1 large chopped onion",
+        "½ tsp ground cumin",
+        "1 large chopped green pepper",
+        "¼ tsp cinnamon",
+        "2 chopped garlic cloves",
+        "2 to 3 Tbsp chili powder",
+        "1⅓ lb ground turkey",
+        "1 can red kidney beans",
+        "1¾ cups chicken broth",
+        "6 oz whole wheat spaghetti",
+        "3 tsp tomato paste",
+        "½ cup shredded cheese",
+        "1½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta as directed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+        }
+      ],
+      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chili-turkey-247",
+      "score": 0.7334406603583395
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stewing Beef Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kelly Haines"
+      },
+      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 lb stewing beef",
+        "1 tsp salt",
+        "Dash pepper",
+        "1¼ cups diced potatoes",
+        "1¼ cups diced carrots",
+        "1 tsp sugar",
+        "2 Tbsp Minit Tapioca",
+        "½ cup diced onions",
+        "1 cup V8 juice",
+        "½ cup diced celery"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients lightly in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 250°F for 4 hours without uncovering."
+        }
+      ],
+      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "stewing-beef-casserole-155",
+      "score": 0.7250510759489415
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Cheese Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1½ lb diced cooked chicken",
+        "1 medium onion, finely chopped",
+        "2 cups cooked rice",
+        "¼ lb grated cheddar cheese",
+        "½ cup milk",
+        "1 can Campbell's cream of celery soup",
+        "4 Tbsp butter or margarine",
+        "¾ cup crushed corn flakes",
+        "1½ cups chopped celery",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mixture into a buttered casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook until the celery is hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the corn flake and celery mixture over the chicken mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 375°F oven for about ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "chicken casserole, cheesy rice bake, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chicken-and-cheese-casserole-244",
+      "score": 0.7196040298657573
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pork Chop & Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT2H",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "6 center cut pork chops",
+        "1 sliced tomato",
+        "1 cup brown rice",
+        "1 sliced onion",
+        "4 sliced green onions",
+        "1 green pepper, sliced in rings",
+        "1/2 lb sliced fresh mushrooms",
+        "1 1/2 cups beef broth or stock",
+        "Salt and pepper to taste",
+        "1 Tbsp minced garlic",
+        "4 oz margarine or butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put raw rice in the casserole pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour beef broth over the casserole and cover with foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
+        }
+      ],
+      "keywords": "pork chop, rice, casserole, baked",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "2 hours"
+      },
+      "url": "pork-chop-rice-casserole-211",
+      "score": 0.7140218233451121
+    }
+  ]
 }

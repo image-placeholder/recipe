@@ -35,5 +35,292 @@
     "cookTime": null,
     "totalTime": "5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Louise Wein"
+        }
+      ],
+      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 serving dish",
+      "recipeIngredient": [
+        "1 tsp Accent",
+        "1 cup sour cream",
+        "¼ tsp salt",
+        "1 cup mayonnaise",
+        "¼ tsp celery salt",
+        "1 tsp parsley flakes",
+        "2 drops Tabasco sauce (can be omitted)",
+        "½ tsp dill weed",
+        "1 tsp garlic salt",
+        "Assorted vegetables or crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill before serving with chips, crackers, or vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, sour cream dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "vegetable-dip-17",
+      "score": 0.7435269169289876
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "vegetable-dip-18",
+      "score": 0.7435269169289876
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sloppy Joe Squares",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "1 small onion, minced",
+        "1/2 tsp Worcestershire sauce",
+        "3/4 cup ketchup",
+        "1 tsp salt",
+        "1/2 tsp pepper",
+        "1/4 tsp chili powder",
+        "2 Tbsp flour",
+        "2 packages Pillsbury crescent dinner rolls",
+        "Mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend in flour to thicken the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the beef mixture evenly over the layer of rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the beef mixture with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F until the crescent rolls are browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with a salad."
+        }
+      ],
+      "keywords": "sloppy joe, casserole, crescent rolls, beef",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "sloppy-joe-squares-185",
+      "score": 0.7260475369831783
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Curry Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A flavorful and spicy dip made with mayonnaise, curry powder, and chili sauce, perfect for serving with snacks.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 cup mayonnaise",
+        "1/2 tsp Worcestershire sauce",
+        "1/4 cup chili sauce",
+        "1 tsp curry powder",
+        "1/4 tsp Tabasco",
+        "1/2 tsp chopped onion (optional)",
+        "1 tsp lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a bowl until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand in the fridge for 1 to 2 hours before serving to allow flavors to meld."
+        }
+      ],
+      "keywords": "curry dip, spicy dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "curry-dip-14",
+      "score": 0.6968505327126245
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "T.V. Mix",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Donald Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Margaret Beaver"
+        },
+        {
+          "@type": "Person",
+          "name": "Brenda Martene"
+        },
+        {
+          "@type": "Person",
+          "name": "Phyllis Lightfoot"
+        }
+      ],
+      "description": "A savory and crunchy snack mix featuring pretzels, Chex cereals, nuts, and a blend of seasonings, perfect for munching.",
+      "recipeCategory": "Snack",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H40M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 pkg pretzel sticks, broken into pieces",
+        "1 pkg rice Chex (or Cheerios)",
+        "1 pkg wheat Chex (or Shreddies)",
+        "1 lb salted peanuts",
+        "1 cup salad oil",
+        "½ cup butter",
+        "1 tsp Worcestershire sauce",
+        "1 tsp celery salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt the butter in a saucepan or microwave-safe bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the salad oil, Worcestershire sauce, and celery salt to the melted butter and stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large roasting pan, combine the broken pretzels, Chex cereals, and salted peanuts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the butter and oil mixture over the cereal and nut mixture, stirring until everything is evenly coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 200°F oven for 1½ hours, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep the roasting pan covered during baking, stirring every 15-20 minutes to ensure even toasting."
+        }
+      ],
+      "keywords": "snack mix, Chex mix, party snack, savory snack",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 40 minutes"
+      },
+      "url": "tv-mix-45",
+      "score": 0.6939623383648007
+    }
+  ]
 }

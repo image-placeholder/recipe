@@ -73,5 +73,309 @@
     "cookTime": "40 minutes",
     "totalTime": "1 hour"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab-Stuffed Mushrooms",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A savory appetizer featuring large mushrooms filled with a crab meat and cheese mixture, baked until golden.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT12M",
+      "totalTime": "PT32M",
+      "recipeYield": "12 appetizers",
+      "recipeIngredient": [
+        "12 extra large mushrooms",
+        "2 Tbsp butter, divided",
+        "1/4 cup chopped green onion",
+        "1 Tbsp mayonnaise",
+        "1 can (170 g) crab meat, drained",
+        "Salt and pepper to taste",
+        "1/2 lemon for juice",
+        "1/2 cup grated Emmenthal or Gruyère cheese, divided"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wipe mushrooms with lemon juice. Remove stems for stuffing and set caps aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Trim and chop stems. In a saucepan, melt butter. Add onion and chopped mushroom stems. Cook until mushroom stems are tender and moisture has evaporated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in drained crab meat, 1/4 cup cheese, 1 tablespoon cracker crumbs, mayonnaise, salt, and pepper to taste. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon stuffing into mushroom caps and place on greased baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine remaining 1/4 cup cheese and 1 teaspoon cracker crumbs. Sprinkle evenly over stuffed mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate until ready to serve."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in 400°F oven for 10 to 12 minutes. Serve hot."
+        }
+      ],
+      "keywords": "crab stuffed mushrooms, appetizer, seafood",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "12 minutes",
+        "totalTime": "32 minutes"
+      },
+      "url": "crab-stuffed-mushrooms-46",
+      "score": 0.6186612993783212
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pork Chop & Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT2H",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "6 center cut pork chops",
+        "1 sliced tomato",
+        "1 cup brown rice",
+        "1 sliced onion",
+        "4 sliced green onions",
+        "1 green pepper, sliced in rings",
+        "1/2 lb sliced fresh mushrooms",
+        "1 1/2 cups beef broth or stock",
+        "Salt and pepper to taste",
+        "1 Tbsp minced garlic",
+        "4 oz margarine or butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put raw rice in the casserole pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour beef broth over the casserole and cover with foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
+        }
+      ],
+      "keywords": "pork chop, rice, casserole, baked",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "2 hours"
+      },
+      "url": "pork-chop-rice-casserole-211",
+      "score": 0.5957920049227794
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "score": 0.5774483436501084
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hearty Chicken Pot Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A comforting chicken pot pie filled with vegetables and chicken in a creamy sauce, topped with a pie crust.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H30M",
+      "recipeYield": "Multiple pies",
+      "recipeIngredient": [
+        "1 cup mixed vegetables (corn, carrots, leeks, mushrooms)",
+        "2 cups cooked, cubed chicken",
+        "1¼ tsp dried tarragon",
+        "1 cup chicken stock",
+        "¼ tsp grated lemon rind",
+        "½ cup butter",
+        "¼ tsp salt and pepper",
+        "⅓ cup flour",
+        "¾ cup milk",
+        "1 cup red wine or soya sauce",
+        "Pie crust (top and bottom)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, simmer the mixed vegetables in chicken stock for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In another saucepan, melt butter over medium heat. Stir in flour and cook for 1 minute, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in milk and red wine (or soya sauce). Bring to a boil and thicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked chicken, tarragon, lemon rind, salt, and pepper to the sauce. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the filling into unbaked pie shells."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with top crust and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot. Note that the filling freezes well for later use."
+        }
+      ],
+      "keywords": "chicken pot pie, comfort food, savory pie",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 30 minutes"
+      },
+      "url": "hearty-chicken-pot-pie-250",
+      "score": 0.5696299245831152
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salmon Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 (8 oz) package cream cheese, softened",
+        "1 can red salmon",
+        "1 tsp garlic powder or 1 fresh garlic clove, minced",
+        "2 tsp lemon juice",
+        "2 Tbsp onion, minced",
+        "1 Tbsp fresh or dry parsley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain the salmon and remove any bones."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Use a fork to flake the salmon before adding other ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the softened cream cheese with the salmon and all remaining ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix well and serve with crackers or as a spread."
+        }
+      ],
+      "keywords": "salmon dip, salmon spread, red salmon",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "salmon-dip-9",
+      "score": 0.5689998898476466
+    }
+  ]
 }

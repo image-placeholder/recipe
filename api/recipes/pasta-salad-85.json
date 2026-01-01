@@ -45,5 +45,294 @@
     "cookTime": "10 minutes",
     "totalTime": "30 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caribbean Chicken Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Caribbean-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1½ cups chicken broth",
+        "2 cups cut up chicken breast",
+        "1 green pepper, diced",
+        "1 small red onion, chopped fine",
+        "1 mango, thinly sliced",
+        "1 small can pineapple, diced and drained",
+        "2 celery stalks, diced",
+        "⅓ cup Kraft Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the Minute Rice in chicken broth according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chicken breast meat in a little oil until fully cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
+        }
+      ],
+      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "caribbean-chicken-salad-70",
+      "score": 0.7735842522052604
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "thai-chicken-235",
+      "score": 0.7565192954706474
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Continue cooking gently for another 2 hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-177",
+      "score": 0.7523632892796221
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-187",
+      "score": 0.7523632892796221
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the marinade well in the morning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve."
+        }
+      ],
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
+      },
+      "url": "onion-salad-74",
+      "score": 0.7398680714871955
+    }
+  ]
 }

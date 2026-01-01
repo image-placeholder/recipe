@@ -52,5 +52,283 @@
     "cookTime": "",
     "totalTime": "20 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Van Valkengoed"
+      },
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta according to package instructions, then drain and cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the feta cheese into the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+        }
+      ],
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "pasta-salad-85",
+      "score": 0.7341786292041976
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Veggie Basic Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Julie-Ann Bibby"
+      },
+      "description": "A hearty vegetable soup made with a variety of vegetables and flavorful broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1/2 tsp ground pepper",
+        "3 Tbsp butter",
+        "1 Tbsp dried parsley",
+        "1 diced onion",
+        "3 Tbsp soya sauce",
+        "2 large diced carrots",
+        "1 Tbsp Worcestershire sauce",
+        "3 stalks diced celery",
+        "1 tsp paprika",
+        "1 can whole diced tomatoes",
+        "2 qt beef broth",
+        "1 Tbsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, melt butter over medium heat. Cook onions, carrots, and celery until the onion is translucent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in tomatoes, beef broth, soya sauce, Worcestershire sauce, parsley, paprika, salt, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, then reduce heat and simmer for 30 minutes or until the vegetables are tender and flavors are well blended."
+        }
+      ],
+      "keywords": "vegetable soup, beef broth, savory soup",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "veggie-basic-soup-120",
+      "score": 0.7090038731087437
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caribbean Chicken Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Caribbean-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1½ cups chicken broth",
+        "2 cups cut up chicken breast",
+        "1 green pepper, diced",
+        "1 small red onion, chopped fine",
+        "1 mango, thinly sliced",
+        "1 small can pineapple, diced and drained",
+        "2 celery stalks, diced",
+        "⅓ cup Kraft Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the Minute Rice in chicken broth according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chicken breast meat in a little oil until fully cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
+        }
+      ],
+      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "caribbean-chicken-salad-70",
+      "score": 0.7089549535735977
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A spicy nacho salad with ground beef, lettuce, tomatoes, and nacho chips, topped with a creamy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1/2 romaine lettuce, shredded",
+        "1/4 lb lean ground beef",
+        "1/2 onion, chopped",
+        "1 clove garlic, crushed",
+        "1/2 cup Monterey Jack cheese (or mozzarella), shredded",
+        "1/2 cup nacho chips, lightly crushed",
+        "2 tomatoes, coarsely diced",
+        "1/2 tsp cayenne pepper",
+        "1/4 cup mayonnaise",
+        "1 tsp relish",
+        "1 Tbsp ketchup",
+        "2 drops hot pepper sauce (Tabasco)",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spices and water to the beef mixture. Bring to a boil, then simmer for 15 minutes. Let cool for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large salad bowl, mix together the shredded lettuce, diced tomatoes, shredded cheese, and crushed nacho chips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix the mayonnaise, relish, ketchup, and hot pepper sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad and add the cooled meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad to combine all ingredients and serve."
+        }
+      ],
+      "keywords": "nacho salad, spicy salad, ground beef salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "nacho-salad-73",
+      "score": 0.703278436027168
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the marinade well in the morning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve."
+        }
+      ],
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
+      },
+      "url": "onion-salad-74",
+      "score": 0.6902645413713308
+    }
+  ]
 }

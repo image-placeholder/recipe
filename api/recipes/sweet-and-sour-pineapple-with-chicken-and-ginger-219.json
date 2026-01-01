@@ -79,5 +79,320 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Pineapple Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
+        "½ cup vinegar",
+        "2 Tbsp light brown sugar",
+        "½ tsp salt",
+        "¼ to ½ cup ketchup",
+        "¼ cup water",
+        "4 chicken breasts",
+        "1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
+        }
+      ],
+      "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "sweet-sour-pineapple-chicken-222",
+      "score": 0.8800769238450097
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sticky Chicken",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Meghan Brand"
+        },
+        {
+          "@type": "Person",
+          "name": "Kurtis Brand"
+        }
+      ],
+      "description": "A sweet and savory chicken dish baked in a sticky sauce with pineapple and mushrooms.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 lb chicken, cut up",
+        "1 cup liquid (water + pineapple juice)",
+        "½ cup flour",
+        "¾ cup brown sugar",
+        "¼ tsp paprika",
+        "1 tsp Worcestershire sauce",
+        "1 tsp ground ginger",
+        "¼ cup soya sauce",
+        "1 tsp garlic powder",
+        "1 can drained mushrooms",
+        "28 oz can pineapple tidbits"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Shake chicken pieces in a bag with flour, paprika, ginger, and garlic powder to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine pineapple juice and water to make 1 cup. Add brown sugar, Worcestershire sauce, soya sauce, and drained mushrooms. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the coated chicken in a pan, skin side down. Pour the sauce over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F, uncovered, for 1 hour. Baste often and turn the chicken at 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "During the last 5 minutes, add drained pineapple tidbits and an additional can of drained mushrooms."
+        }
+      ],
+      "keywords": "sticky chicken, baked chicken, pineapple chicken",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "sticky-chicken-233",
+      "score": 0.8287950714497017
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken-Pineapple Stir-Fry",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "A quick and flavorful stir-fry made with chicken breast, pineapple, and vegetables, served over hot rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "12 oz deboned chicken breast",
+        "2 tsp cornstarch",
+        "1 onion, chopped",
+        "¼ tsp cinnamon",
+        "1 cup diced celery",
+        "1½ tsp soya sauce",
+        "1 cup green pepper strips",
+        "2 tsp margarine",
+        "2 cups pineapple chunks (with juice reserved)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine chopped onion, diced celery, green pepper strips, and pineapple chunks in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In another bowl, mix together cornstarch, reserved pineapple juice, cinnamon, and soya sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet over high heat, add margarine and cook chicken strips for 3 minutes, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the onion mixture to the skillet and continue cooking for 2 minutes, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cornstarch mixture to the skillet, stir well, and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and cook until the sauce is clear and thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the stir-fry over hot rice."
+        }
+      ],
+      "keywords": "chicken stir-fry, pineapple chicken, quick dinner",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "url": "chicken-pineapple-stir-fry-221",
+      "score": 0.7951428821111934
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat Balls and Sour And Sweet Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Glenda Wuerth"
+      },
+      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb hamburger",
+        "1 slice dry bread (crumbs)",
+        "1 Tbsp cornstarch",
+        "¼ cup milk",
+        "1 tsp onion flakes or 1 tsp real onion",
+        "1 (19 oz) can pineapple, crushed",
+        "⅓ cup vinegar",
+        "1 tsp salt",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together and form into 1½ inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from oven and drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a large casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+        }
+      ],
+      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "score": 0.7527560052576155
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hawaiian Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
+      "recipeCategory": "Meat",
+      "recipeCuisine": "Hawaiian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "2 eggs",
+        "½ cup chopped onion",
+        "¾ cup bread crumbs",
+        "¼ tsp salt",
+        "¼ tsp garlic salt",
+        "½ tsp salt",
+        "¼ tsp ginger",
+        "¼ tsp dry mustard",
+        "2 Tbsp soya sauce",
+        "¼ cup vinegar",
+        "6 Tbsp brown sugar",
+        "6 Tbsp ketchup",
+        "2 Tbsp shortening",
+        "1 (10 oz) can crushed pineapple",
+        "1 cup water",
+        "2 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the meat mixture together and shape into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the meatballs from the pan and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
+        }
+      ],
+      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "hawaiian-meatballs-152",
+      "score": 0.7263977748658045
+    }
+  ]
 }

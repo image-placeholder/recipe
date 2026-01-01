@@ -45,5 +45,252 @@
     "cookTime": "5 minutes",
     "totalTime": "25 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Asian Coleslaw",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A crunchy Asian-inspired coleslaw with toasted nuts and noodles.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Asian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 bag cabbage salad",
+        "1/2 to 6 green onions, chopped",
+        "1/4 cup slivered almonds",
+        "1/4 cup sesame seeds",
+        "1 tsp soya sauce",
+        "1 pkg Mr. Noodle (just noodles)",
+        "2 to 3 Tbsp butter",
+        "Salt and pepper",
+        "1/2 cup canola oil",
+        "1/2 cup red wine vinegar",
+        "1/2 cup sugar"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the first 6 ingredients in a frying pan. Let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add dressing 1/2 hour before serving."
+        }
+      ],
+      "keywords": "Asian coleslaw, toasted nuts, noodles",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "asian-coleslaw-61",
+      "score": 0.8062733321008124
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Layered Coleslaw Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Kim MacDonald"
+      },
+      "description": "A layered coleslaw salad with shredded carrots, snow peas, and a creamy Miracle Whip dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1/2 head cabbage, shredded",
+        "1 pkg (8.5 oz) Oriental flavor dry noodles",
+        "4 handfuls snow peas",
+        "1 bunch chopped green onions",
+        "1 sliced red pepper",
+        "5 shredded carrots",
+        "1 cup Miracle Whip dressing",
+        "1 cup sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Shred cabbage and place in bottom of large glass bowl. Top with remaining ingredients in order given."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine Miracle Whip, sour cream, and package of noodle seasoning. Spread evenly over salad."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and let stand overnight."
+        }
+      ],
+      "keywords": "layered coleslaw, creamy dressing, overnight salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 20 minutes"
+      },
+      "url": "layered-coleslaw-salad-62",
+      "score": 0.7920555215831039
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Freezer Cole Slaw",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A freezer coleslaw recipe with a sweet and tangy dressing, made with grated cabbage and optional vegetables.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 large cabbage, grated or chopped",
+        "1 large carrot, grated (optional)",
+        "1 onion, grated (optional)",
+        "1 cup white sugar",
+        "1 cup white vinegar",
+        "1 Tbsp salt",
+        "1 Tbsp celery seed",
+        "1 tsp mustard (optional)",
+        "¼ cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat together vinegar, sugar, salt, water, celery seed, and mustard to make the syrup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Grate or chop cabbage and other vegetables in a food processor."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the cabbage mixture with the syrup and refrigerate overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place in a container, seal, and freeze."
+        }
+      ],
+      "keywords": "freezer coleslaw, slaw, salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "freezer-cole-slaw-58",
+      "score": 0.7352783621736277
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spinach Lettuce Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A fresh and versatile green salad with a homemade balsamic dressing and a crunchy topping made from toasted almonds, sesame seeds, and noodle soup mix.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeIngredient": [
+        "Dressing: ½ cup balsamic vinegar",
+        "½ cup olive oil",
+        "¼ cup white sugar",
+        "1½ cup soya sauce",
+        "Toppings: 1 Tbsp butter",
+        "1 pkg noodle soup mix (without seasoning packet)",
+        "1 pkg slivered almonds",
+        "1 pkg sesame seeds",
+        "Any type of green leafy vegetable (spinach, lettuce, broccoli, coleslaw)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dressing ingredients together and refrigerate until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a pan and add almonds, noodle soup mix (without spice packet), and sesame seeds. Toast until lightly browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the salad greens and store in the refrigerator."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, pour the dressing over the salad and top with the toasted almond mixture."
+        }
+      ],
+      "keywords": "spinach salad, lettuce salad, homemade dressing, crunchy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "spinach-lettuce-salad-83",
+      "score": 0.7006760287071719
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caesar Dressin' Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Towton"
+      },
+      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "½ tsp Worcestershire sauce",
+        "3 garlic cloves",
+        "½ tsp dry mustard",
+        "2 beaten egg yolks",
+        "½ tsp salt",
+        "½ cup lemon juice",
+        "Dash pepper",
+        "1 cup oil",
+        "¼ cup white sugar",
+        "1 cup Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Can be kept in the fridge for up to 2 weeks."
+        }
+      ],
+      "keywords": "Caesar dressing, homemade salad dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "caesar-dressin-salad-101",
+      "score": 0.6964923259070652
+    }
+  ]
 }

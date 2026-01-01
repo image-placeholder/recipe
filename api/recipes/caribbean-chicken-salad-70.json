@@ -48,5 +48,301 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Van Valkengoed"
+      },
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta according to package instructions, then drain and cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the feta cheese into the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+        }
+      ],
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "pasta-salad-85",
+      "score": 0.780025649150089
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "thai-chicken-235",
+      "score": 0.774760853320412
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the marinade well in the morning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve."
+        }
+      ],
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
+      },
+      "url": "onion-salad-74",
+      "score": 0.7638221883977977
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chinese Rice Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A flavorful salad made with Minute Rice, frozen peas, chopped celery, and a savory dressing, optionally garnished with chow mein noodles and shrimp.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeIngredient": [
+        "1⅓ cups cooked Minute Rice",
+        "1 (10 oz) package frozen peas",
+        "1½ cups chopped celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "1 Tbsp soy sauce",
+        "3 tsp malt vinegar",
+        "2 tsp curry powder",
+        "½ tsp sugar",
+        "Dressing: ½ cup oil",
+        "Chow mein noodles for garnish (optional)",
+        "1 can drained shrimp (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked rice, frozen peas, chopped celery, and onion in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the dressing ingredients (oil, soy sauce, malt vinegar, curry powder, salt, and sugar)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the rice mixture and toss to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with chow mein noodles and/or add drained shrimp if desired."
+        }
+      ],
+      "keywords": "Chinese rice salad, savory salad, Minute Rice",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "url": "chinese-rice-salad-81",
+      "score": 0.7455912859910505
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Deb Hodge"
+      },
+      "description": "A hearty taco salad with seasoned ground beef, crunchy taco chips, and cheddar cheese, all tossed in Catalina dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 lb ground beef (hamburg)",
+        "1 package taco seasoning mix",
+        "1 (250 g) bag crushed taco chips",
+        "1 cup shredded cheddar cheese",
+        "1 head lettuce, chopped",
+        "1 chopped tomato",
+        "Catalina dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook ground beef until crumbly, drain off fat, and season with taco seasoning mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate the cooked beef until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss together the cooled beef, chopped lettuce, crushed taco chips, and shredded cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully add in chopped tomato."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately."
+        }
+      ],
+      "keywords": "taco salad, ground beef, taco chips, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "taco-salad-89",
+      "score": 0.7409145624950273
+    }
+  ]
 }

@@ -45,5 +45,300 @@
     "cookTime": "10 minutes",
     "totalTime": "20 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a smooth texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "½ cup grated cheese",
+        "½ cup chicken broth",
+        "3 cups cooked broccoli (fresh or partially aged)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan and cook onions until tender, but not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in chicken broth and broccoli. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour mixture and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat and simmer for 15 minutes, reducing heat. Do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree the mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "cheese-broccoli-soup-105",
+      "score": 0.8508651238270499
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese & Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Slaght"
+      },
+      "description": "A creamy broccoli and cheese soup with a rich, velvety texture.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "½ tsp pepper",
+        "2 Tbsp butter",
+        "Salt to taste",
+        "1 chopped onion",
+        "1½ cups milk",
+        "2 Tbsp all-purpose flour",
+        "1½ cups grated cheese",
+        "1½ cups chicken broth",
+        "3 cups fresh broccoli, partially cooked"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a large saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook onions until tender; do not brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chicken stock and broccoli; bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in flour and cook for 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to heat; cook and stir until mixture thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat and simmer for 15 minutes; do not boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Puree mixture until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat through with milk, cheese, and seasonings."
+        }
+      ],
+      "keywords": "broccoli soup, cheese soup, creamy soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "cheese-broccoli-soup-108",
+      "score": 0.8508651238270499
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Supreme Broccoli Soup Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Flora Hodge"
+      },
+      "description": "A creamy broccoli casserole with a crunchy crouton topping, baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x9 inch pan",
+      "recipeIngredient": [
+        "1 can mushroom soup",
+        "1 head broccoli, cooked",
+        "1/2 cup grated carrot",
+        "1 Tbsp flour",
+        "Salt and pepper to taste",
+        "1/2 cup sour cream",
+        "4 Tbsp melted butter",
+        "1 Tbsp chopped onion",
+        "1/2 cup croutons",
+        "1 cup sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place cooked broccoli in a 9x9 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together mushroom soup, flour, sour cream, and seasonings. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated carrot, chopped onion, and croutons over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle with melted butter."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325°F for 1/2 hour."
+        }
+      ],
+      "keywords": "broccoli casserole, creamy soup casserole, baked vegetable dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "supreme-broccoli-soup-casserole-128",
+      "score": 0.819343499388113
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Broccoli",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 cup small shells pasta",
+        "1 can cream of mushroom soup",
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the small shells pasta according to package directions. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with a cranberry salad."
+        }
+      ],
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "chicken-and-broccoli-234",
+      "score": 0.8064732051573581
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeIngredient": [
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "broccoli-casserole-129",
+      "score": 0.7918010363674917
+    }
+  ]
 }

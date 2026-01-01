@@ -67,5 +67,300 @@
     "cookTime": "",
     "totalTime": "2 hours 15 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Supreme",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "A chilled broccoli salad with raisins, bacon, and a creamy cheese dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT3H25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "6 cups fresh broccoli",
+        "2 Tbsp vinegar",
+        "2 Tbsp vegetable oil",
+        "1/3 cup raisins",
+        "2 tsp white sugar",
+        "2 Tbsp chopped onion",
+        "1 Tbsp prepared mustard",
+        "6 or 8 slices bacon, cooled and crumbled",
+        "1/4 tsp salt",
+        "1/8 tsp garlic powder",
+        "1 small pkg cream cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat dressing ingredients until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add dressing to broccoli, raisins, and onion. Cover and chill at least 3 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with bacon and serve."
+        }
+      ],
+      "keywords": "broccoli salad, bacon, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "3 hours 25 minutes"
+      },
+      "url": "broccoli-supreme-60",
+      "score": 0.8071379751998148
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fresh Broccoli Mandarin Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sandra Vandeworp (Finkbeiner)"
+      },
+      "description": "A refreshing salad featuring fresh broccoli, mandarin oranges, mushrooms, and a rich, creamy dressing with a hint of mustard.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeYield": "10 to 12 servings",
+      "recipeIngredient": [
+        "1 egg plus 1 egg yolk, slightly beaten",
+        "½ cup sugar",
+        "1½ tsp cornstarch",
+        "1 tsp mustard",
+        "¼ cup vinegar",
+        "¼ cup water",
+        "3 Tbsp softened butter",
+        "½ cup mayonnaise",
+        "6 bacon strips, cooked and crumbled",
+        "2 cups sliced fresh mushrooms",
+        "½ cup slivered almonds, toasted",
+        "1 cup drained mandarin oranges",
+        "½ medium red onion, sliced into rings",
+        "4 cups fresh broccoli florets"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In the top of a double boiler, whisk together the egg, egg yolk, sugar, cornstarch, and mustard."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slowly whisk in the vinegar and water mixture, then cook over hot water, stirring constantly, until the dressing thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from heat and stir in the softened butter and mayonnaise. Chill the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, combine the crumbled bacon, mushrooms, almonds, mandarin oranges, red onion, and broccoli in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the chilled dressing and toss to coat the salad ingredients evenly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate any leftovers."
+        }
+      ],
+      "keywords": "broccoli mandarin salad, creamy dressing, fresh salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "fresh-broccoli-mandarin-salad-64",
+      "score": 0.7778475163578779
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Club Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "1 large bowl",
+      "recipeIngredient": [
+        "7 cups romaine lettuce",
+        "1 cup crisp cooked bacon, chopped",
+        "1 cup chopped hard-boiled eggs",
+        "¾ cup ranch or dip dressing",
+        "¾ cup grated cheese (marble, cheddar, etc.)",
+        "1 cup cooked chicken breast, diced",
+        "½ cup grated carrots",
+        "1 cup diced tomatoes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients in a large bowl, layering each ingredient to look festive."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with dressing."
+        }
+      ],
+      "keywords": "layered salad, club salad, ranch dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "url": "club-salad-68",
+      "score": 0.7591815879740977
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A spicy nacho salad with ground beef, lettuce, tomatoes, and nacho chips, topped with a creamy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1/2 romaine lettuce, shredded",
+        "1/4 lb lean ground beef",
+        "1/2 onion, chopped",
+        "1 clove garlic, crushed",
+        "1/2 cup Monterey Jack cheese (or mozzarella), shredded",
+        "1/2 cup nacho chips, lightly crushed",
+        "2 tomatoes, coarsely diced",
+        "1/2 tsp cayenne pepper",
+        "1/4 cup mayonnaise",
+        "1 tsp relish",
+        "1 Tbsp ketchup",
+        "2 drops hot pepper sauce (Tabasco)",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spices and water to the beef mixture. Bring to a boil, then simmer for 15 minutes. Let cool for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large salad bowl, mix together the shredded lettuce, diced tomatoes, shredded cheese, and crushed nacho chips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix the mayonnaise, relish, ketchup, and hot pepper sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad and add the cooled meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad to combine all ingredients and serve."
+        }
+      ],
+      "keywords": "nacho salad, spicy salad, ground beef salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "nacho-salad-73",
+      "score": 0.7185307348179956
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caesar Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A classic Caesar salad recipe with romaine lettuce, crumbled bacon, croutons, and a homemade dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 romaine lettuce",
+        "6 slices bacon, cooked and crumbled",
+        "1 tsp wine vinegar",
+        "½ tsp Worcestershire sauce",
+        "2 shakes Tabasco sauce",
+        "Croutons",
+        "1 egg",
+        "1 tsp capers (optional)",
+        "3 to 4 mashed anchovies",
+        "Dressing (keeps 2 days):",
+        "⅓ cup olive oil",
+        "1 clove garlic, minced",
+        "2 Tbsp lemon",
+        "½ tsp dry mustard",
+        "¼ tsp salt and pepper",
+        "2 Tbsp Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Rub salad bowl with garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wash and tear lettuce. Dry in a tea towel."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place lettuce in bowl with bacon and croutons."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend dressing ingredients together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over salad and toss until leaves are coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with freshly grated Parmesan."
+        }
+      ],
+      "keywords": "Caesar salad, bacon, croutons, homemade dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "caesar-salad-59",
+      "score": 0.7055011967234679
+    }
+  ]
 }

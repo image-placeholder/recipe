@@ -84,5 +84,361 @@
     "cookTime": "25 minutes",
     "totalTime": "45 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "score": 0.7194167767616851
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburger Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "hamburger-pie-169",
+      "score": 0.6961078856275734
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meatball Pasta Stew",
+      "author": {
+        "@type": "Person",
+        "name": "Grace Morlock"
+      },
+      "description": "A savory stew with homemade meatballs, pasta, and a rich tomato-based sauce.",
+      "recipeCategory": "Stew",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 Tbsp tomato paste",
+        "1 lb hamburger",
+        "1 can (14 oz) diced tomatoes, undrained",
+        "2 eggs",
+        "¼ to ⅛ cup dry bread crumbs",
+        "1 cup chopped green onion",
+        "¾ tsp thyme",
+        "½ tsp salt",
+        "1½ cups sliced carrots",
+        "1½ cups chopped zucchini",
+        "½ tsp ground mustard",
+        "¼ tsp pepper",
+        "1 cup chopped green pepper",
+        "1 cup chopped red pepper",
+        "1 cup chopped onion",
+        "2 cloves garlic, minced",
+        "2 Tbsp all-purpose flour",
+        "1½ cups canned beef broth",
+        "2 cups cooked spiral pasta",
+        "1 Tbsp parsley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine hamburger, egg, bread crumbs, onion, salt, mustard, and pepper to make meatballs. Shape into 1-inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs on a greased baking sheet and bake at 350°F for 10 to 15 minutes, or until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, cook onion and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir constantly for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add beef broth, stirring constantly until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomato paste, undrained tomatoes, bay leaf, and thyme. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add meatballs, carrots, zucchini, peppers, and parsley. Simmer for 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked pasta and heat until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bay leaf before serving."
+        }
+      ],
+      "keywords": "meatball stew, pasta stew, tomato-based sauce",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 25 minutes"
+      },
+      "url": "meatball-pasta-stew-179",
+      "score": 0.6821837039147443
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Beef and Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kurtis Brand"
+      },
+      "description": "A hearty casserole featuring ground beef, sautéed celery and onion, and cooked rice, all baked in a tomato soup sauce.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 1½ quart casserole",
+      "recipeIngredient": [
+        "1⅓ cups cooked rice",
+        "1 tsp salt",
+        "1 Tbsp butter",
+        "Dash pepper",
+        "1½ cups diced celery",
+        "3 Tbsp minced onion",
+        "1 can condensed tomato soup",
+        "¼ cup water",
+        "1 lb ground beef"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Sauté celery and onion in butter until soft and tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place rice in a greased 1½ quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the rice with the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season the ground beef with salt and pepper, then cook in a skillet until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cooked beef on top of the celery mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the tomato soup with water and pour over the meat layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 325°F oven for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 325,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "beef casserole, rice casserole, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "beef-and-rice-casserole-168",
+      "score": 0.679995832598304
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheddar Baked Potato Slices",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 medium baking potatoes, cut into ¼ inch slices",
+        "1 can cream of mushroom soup",
+        "½ tsp paprika",
+        "½ tsp pepper",
+        "1 cup shredded cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the soup mixture evenly over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 400,
+            "unitCode": "FAR"
+          },
+          "duration": "PT45M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+        }
+      ],
+      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "cheddar-baked-potato-slices-140",
+      "score": 0.6766765171539582
+    }
+  ]
 }

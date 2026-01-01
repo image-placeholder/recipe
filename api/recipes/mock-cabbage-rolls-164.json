@@ -65,5 +65,260 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 Tbsp liquid sweetener",
+        "½ head cabbage",
+        "1 can French-style beans (optional)",
+        "3 cups tomato juice",
+        "4 cups water",
+        "1 large can mushrooms",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery, including leaves and tips",
+        "1 tsp lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "cabbage-soup-106",
+      "score": 0.7466140447787117
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and optional sweetener.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "½ head cabbage",
+        "1 can French-style beans, drained",
+        "3 cups tomato juice",
+        "1 large can mushrooms",
+        "4 cups water",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery leaves and tips",
+        "1 tsp lemon juice",
+        "1 Tbsp liquid sweetener (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "cabbage-soup-109",
+      "score": 0.7466140447787117
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Rolls",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "European",
+      "prepTime": "PT30M",
+      "cookTime": "PT3H",
+      "totalTime": "PT3H30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 head cabbage",
+        "½ lb ground pork",
+        "1 lb ground beef",
+        "1 medium onion",
+        "2 Tbsp lard",
+        "¾ cup uncooked rice (Uncle Ben's)",
+        "1 tsp salt",
+        "½ tsp black pepper",
+        "1 (24 oz) can tomato juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chop the onion and fry in lard for 10 minutes until softened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
+        }
+      ],
+      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "3 hours",
+        "totalTime": "3 hours 30 minutes"
+      },
+      "url": "cabbage-rolls-167",
+      "score": 0.7419659534356411
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Louise Wein"
+        }
+      ],
+      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 serving dish",
+      "recipeIngredient": [
+        "1 tsp Accent",
+        "1 cup sour cream",
+        "¼ tsp salt",
+        "1 cup mayonnaise",
+        "¼ tsp celery salt",
+        "1 tsp parsley flakes",
+        "2 drops Tabasco sauce (can be omitted)",
+        "½ tsp dill weed",
+        "1 tsp garlic salt",
+        "Assorted vegetables or crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill before serving with chips, crackers, or vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, sour cream dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "vegetable-dip-17",
+      "score": 0.7170137448703369
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "vegetable-dip-18",
+      "score": 0.7170137448703369
+    }
+  ]
 }

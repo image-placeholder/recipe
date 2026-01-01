@@ -62,5 +62,349 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 30 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey or Chicken Pies",
+      "author": {
+        "@type": "Person",
+        "name": "Shirley Preszcator"
+      },
+      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT45M",
+      "cookTime": "PT30M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "Multiple individual pies or 1 large pie",
+      "recipeIngredient": [
+        "½ cup margarine",
+        "1 tsp salt",
+        "1 Tbsp onion, chopped",
+        "1 cup flour",
+        "¼ tsp salt",
+        "1½ tsp baking powder",
+        "3 cups chicken or turkey broth",
+        "3 Tbsp butter",
+        "3 cups diced turkey or chicken",
+        "1 cup frozen peas",
+        "1 cup diced carrots",
+        "½ cup celery, chopped",
+        "⅓ cup milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté chopped onion and celery until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil carrots until thoroughly cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cooked carrots with peas and the sauce made earlier."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the crust is golden brown."
+        }
+      ],
+      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
+      "_naturalized_times": {
+        "prepTime": "45 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "turkey-or-chicken-pies-251",
+      "score": 0.7731706079516893
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburger Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "hamburger-pie-169",
+      "score": 0.7180616354225073
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "thai-chicken-235",
+      "score": 0.7058957967469376
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Chicken Stew",
+      "author": {
+        "@type": "Person",
+        "name": "Anne Cottel"
+      },
+      "description": "A hearty and comforting chicken stew with vegetables in a creamy sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 to 10 servings",
+      "recipeIngredient": [
+        "3 lb boneless, skinless chicken breasts, cut into 1-inch cubes",
+        "2 Tbsp cooking oil",
+        "1 medium onion, diced",
+        "1 cup sliced celery",
+        "2 cups peeled and cubed potatoes",
+        "3 large carrots, cut into coins",
+        "1 tsp salt",
+        "1/2 tsp dried basil",
+        "1/2 tsp paprika",
+        "1/4 tsp celery salt",
+        "1 bay leaf",
+        "7 cups chicken broth, divided",
+        "1 can (14 oz) corn kernels, drained",
+        "1 can (14 oz) peas",
+        "1 can (14 oz) lima beans",
+        "1/2 cup butter or margarine",
+        "3/4 cup all-purpose flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a Dutch oven. Sprinkle chicken with salt, pepper, and paprika. Cook and stir until the chicken is browned. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add raw vegetables, basil, bay leaf, celery salt, and 5 cups broth; bring to a boil. Reduce heat. Cover and simmer for 30 minutes or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bay leaf. Add canned vegetables. Cook and stir for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, mix flour and butter or margarine until smooth. Gradually whisk in remaining 2 cups broth. Bring to a boil. Cook and stir for 2 minutes or until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce into the Dutch oven. Stir and bring to a boil. Reduce heat. Simmer, uncovered, for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with rolls or biscuits."
+        }
+      ],
+      "keywords": "chicken stew, creamy stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "creamy-chicken-stew-252",
+      "score": 0.7055014230173122
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "score": 0.6900592865693859
+    }
+  ]
 }

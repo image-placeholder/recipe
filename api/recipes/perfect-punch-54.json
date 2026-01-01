@@ -39,5 +39,243 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Punch",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A refreshing fruit punch made with grape juice, orange juice, ginger ale, and lemon-lime soda.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 cup frozen grape juice concentrate",
+        "2 (6 oz) cans frozen orange juice concentrate",
+        "1 qt ginger ale",
+        "1 (12 oz) can frozen pink lemonade concentrate",
+        "1 cup sugar",
+        "12 cups water",
+        "Soda water",
+        "Ice cubes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the first 5 ingredients in a large bowl or punch bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients just before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir well and serve chilled."
+        }
+      ],
+      "keywords": "fruit punch, party drink, refreshing beverage",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "punch-53",
+      "score": 0.8191639623531837
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Wilmar Wein Punch",
+      "author": {
+        "@type": "Person",
+        "name": "Wilmar Wein"
+      },
+      "description": "A sophisticated punch made with gin, grenadine, cherry brandy, and sweetened orange and grapefruit juice.",
+      "recipeCategory": "Cocktail",
+      "recipeCuisine": "Adult Beverage",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeIngredient": [
+        "1 (26 oz) orange and grapefruit juice",
+        "4 oz grenadine",
+        "4 oz cherry brandy",
+        "Gin (optional)",
+        "Slices of lemon and orange",
+        "Plenty of ice cubes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the juice, grenadine, and cherry brandy in a large pitcher."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add gin if desired for an adult version."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve chilled with slices of lemon and orange, and plenty of ice."
+        }
+      ],
+      "keywords": "adult punch, cocktail party, sophisticated drink",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "wilmar-wein-punch-55",
+      "score": 0.7100935950279601
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lemon Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Mona Hamilton"
+      },
+      "description": "A light and fluffy lemon Jello dessert mixed with whipped Dream Whip.",
+      "recipeCategory": "Dessert",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1 package lemon Jello (85g)",
+        "1 small can frozen lemonade",
+        "1 cup hot water",
+        "¼ cup water",
+        "¼ cup sugar",
+        "1 package Dream Whip Mix"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve the lemon Jello in hot water with sugar."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add frozen lemonade and ¼ cup water to the Jello mixture and let set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whip the Dream Whip Mix and combine with the set Jello."
+        }
+      ],
+      "keywords": "lemon Jello, whipped dessert, Dream Whip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "url": "lemon-salad-80",
+      "score": 0.6760402948267504
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange Julius Drink",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A creamy and refreshing orange drink made with frozen orange juice concentrate, milk, and vanilla.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "About 5 cups",
+      "recipeIngredient": [
+        "3/4 cup frozen concentrated orange juice",
+        "2 Tbsp white sugar",
+        "2 tsp vanilla",
+        "1 cup milk",
+        "1 cup water",
+        "12 ice cubes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend the orange juice concentrate, sugar, vanilla, milk, and water in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ice cubes just before serving and blend until the ice is fully incorporated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately and enjoy."
+        }
+      ],
+      "keywords": "orange drink, creamy beverage, frozen orange juice",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "orange-julius-drink-56",
+      "score": 0.6592921703114212
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange-Pineapple Jello",
+      "author": {
+        "@type": "Person",
+        "name": "Shelley Kinsman"
+      },
+      "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1 package orange Jello",
+        "1 cup mini marshmallows",
+        "1 small can crushed pineapple",
+        "½ cup frozen orange juice concentrate",
+        "1 package Dream Whip",
+        "½ cup pecans"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain pineapple and reserve syrup. Add water to make ¾ cup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the liquid to boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place Jello in a bowl and add hot liquid, pineapple, and orange juice concentrate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until thickish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fold in Dream Whip along with marshmallows and pecans."
+        }
+      ],
+      "keywords": "orange-pineapple Jello, fruity dessert, nuts",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "orange-pineapple-jello-76",
+      "score": 0.6263172500993796
+    }
+  ]
 }

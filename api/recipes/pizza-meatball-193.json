@@ -55,5 +55,355 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Baked Spaghetti and Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A hearty baked pasta dish featuring meatballs, spaghetti, and a rich tomato-based sauce topped with melted mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT30M",
+      "cookTime": "PT35M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, finely chopped",
+        "1 egg",
+        "3 splashes Worcestershire sauce",
+        "½ tsp black pepper",
+        "28 oz can diced tomatoes",
+        "10 oz can chopped mushrooms",
+        "½ cup chopped green pepper (optional)",
+        "½ tsp oregano",
+        "1 cup sour cream",
+        "Broken spaghetti (4 to 6 servings)",
+        "1½ cups grated mozzarella cheese",
+        "24 oz can spaghetti sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and start boiling water for cooking spaghetti."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, mix ground beef, chopped onion, egg, Worcestershire sauce, and black pepper. Form into meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fry the meatballs in a skillet until completely cooked, turning gently with tongs. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, green pepper, and oregano to the skillet. Simmer for approximately 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti until 'al dente', then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked spaghetti with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the spaghetti mixture into a greased 6-cup casserole dish. Sprinkle with half of the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the sauce and meatball mixture. Bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for an additional 5 to 10 minutes, or until the cheese is melted."
+        }
+      ],
+      "keywords": "baked spaghetti, meatballs, Italian-American casserole",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "baked-spaghetti-and-meatballs-176",
+      "score": 0.7173692012669165
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meatball Pasta Stew",
+      "author": {
+        "@type": "Person",
+        "name": "Grace Morlock"
+      },
+      "description": "A savory stew with homemade meatballs, pasta, and a rich tomato-based sauce.",
+      "recipeCategory": "Stew",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 Tbsp tomato paste",
+        "1 lb hamburger",
+        "1 can (14 oz) diced tomatoes, undrained",
+        "2 eggs",
+        "¼ to ⅛ cup dry bread crumbs",
+        "1 cup chopped green onion",
+        "¾ tsp thyme",
+        "½ tsp salt",
+        "1½ cups sliced carrots",
+        "1½ cups chopped zucchini",
+        "½ tsp ground mustard",
+        "¼ tsp pepper",
+        "1 cup chopped green pepper",
+        "1 cup chopped red pepper",
+        "1 cup chopped onion",
+        "2 cloves garlic, minced",
+        "2 Tbsp all-purpose flour",
+        "1½ cups canned beef broth",
+        "2 cups cooked spiral pasta",
+        "1 Tbsp parsley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine hamburger, egg, bread crumbs, onion, salt, mustard, and pepper to make meatballs. Shape into 1-inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs on a greased baking sheet and bake at 350°F for 10 to 15 minutes, or until browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, cook onion and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir constantly for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add beef broth, stirring constantly until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomato paste, undrained tomatoes, bay leaf, and thyme. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add meatballs, carrots, zucchini, peppers, and parsley. Simmer for 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked pasta and heat until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bay leaf before serving."
+        }
+      ],
+      "keywords": "meatball stew, pasta stew, tomato-based sauce",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 25 minutes"
+      },
+      "url": "meatball-pasta-stew-179",
+      "score": 0.701489978189008
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hawaiian Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
+      "recipeCategory": "Meat",
+      "recipeCuisine": "Hawaiian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "2 eggs",
+        "½ cup chopped onion",
+        "¾ cup bread crumbs",
+        "¼ tsp salt",
+        "¼ tsp garlic salt",
+        "½ tsp salt",
+        "¼ tsp ginger",
+        "¼ tsp dry mustard",
+        "2 Tbsp soya sauce",
+        "¼ cup vinegar",
+        "6 Tbsp brown sugar",
+        "6 Tbsp ketchup",
+        "2 Tbsp shortening",
+        "1 (10 oz) can crushed pineapple",
+        "1 cup water",
+        "2 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the meat mixture together and shape into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the meatballs from the pan and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
+        }
+      ],
+      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "hawaiian-meatballs-152",
+      "score": 0.6729094132759333
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Zippy Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Kate Cunningham"
+      },
+      "description": "A flavorful and spicy spaghetti sauce with sausage, hamburger, and taco seasoning.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb lean ground hamburger",
+        "2 jumbo summer sausage slices",
+        "1/2 onion, chopped",
+        "1 tsp garlic",
+        "1 tsp oregano flakes",
+        "1 tsp salt",
+        "1/4 tsp pepper",
+        "1 envelope regular taco seasoning (El Paso)",
+        "1 jar Ragu spaghetti sauce (700 mL)",
+        "1 can sliced mushrooms, drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the hamburger and chopped onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic, oregano, salt, pepper, and taco seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chop the summer sausage into 1/4 inch pieces and add to the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the Ragu spaghetti sauce and drained mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 10 minutes."
+        }
+      ],
+      "keywords": "spaghetti sauce, zippy sauce, sausage, taco seasoning",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "zippy-spaghetti-sauce-188",
+      "score": 0.6704094996779781
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A hearty meatball dish smothered in a rich sweet and sour pineapple sauce, baked to perfection.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 lb lean ground beef",
+        "2 Tbsp chopped onion",
+        "½ cup cracker crumbs",
+        "1 Tbsp crushed garlic",
+        "¼ tsp pepper",
+        "1 egg",
+        "1½ tsp soya sauce",
+        "⅔ cup milk",
+        "For the sauce: ½ cup brown sugar, ½ cup vinegar, 19 oz pineapple tidbits (undrained), ½ tsp salt, 1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together ground beef, onion, cracker crumbs, garlic, pepper, egg, and milk. Chill until firm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape into evenly sized meatballs and place on a greased broiler pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Broil to brown on all sides, watching carefully."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, combine brown sugar, salt, and cornstarch. Gradually stir in vinegar and soya sauce. Add pineapple tidbits and bring to a boil until thickened and clear."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the meatballs and bake in the oven at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "sweet and sour meatballs, baked meatballs, pineapple sauce",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 30 minutes"
+      },
+      "url": "sweet-sour-meatballs-161",
+      "score": 0.6661350549949357
+    }
+  ]
 }

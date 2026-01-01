@@ -50,5 +50,292 @@
     "cookTime": "",
     "totalTime": "15 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "thai-chicken-235",
+      "score": 0.7582181548630377
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Asian Coleslaw",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A crunchy Asian-inspired coleslaw with toasted nuts and noodles.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Asian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 bag cabbage salad",
+        "1/2 to 6 green onions, chopped",
+        "1/4 cup slivered almonds",
+        "1/4 cup sesame seeds",
+        "1 tsp soya sauce",
+        "1 pkg Mr. Noodle (just noodles)",
+        "2 to 3 Tbsp butter",
+        "Salt and pepper",
+        "1/2 cup canola oil",
+        "1/2 cup red wine vinegar",
+        "1/2 cup sugar"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the first 6 ingredients in a frying pan. Let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add dressing 1/2 hour before serving."
+        }
+      ],
+      "keywords": "Asian coleslaw, toasted nuts, noodles",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "asian-coleslaw-61",
+      "score": 0.748870567553963
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caribbean Chicken Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Caribbean-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1½ cups chicken broth",
+        "2 cups cut up chicken breast",
+        "1 green pepper, diced",
+        "1 small red onion, chopped fine",
+        "1 mango, thinly sliced",
+        "1 small can pineapple, diced and drained",
+        "2 celery stalks, diced",
+        "⅓ cup Kraft Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the Minute Rice in chicken broth according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chicken breast meat in a little oil until fully cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
+        }
+      ],
+      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "caribbean-chicken-salad-70",
+      "score": 0.7394958673382023
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tossed Berry-Mandarin Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Anne Cotte"
+      },
+      "description": "A refreshing mixed greens salad with strawberries, mandarin oranges, sweet onion, and bacon, topped with a homemade honey-cider dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "8 cups torn mixed salad greens",
+        "2 cups fresh sliced strawberries",
+        "1 (10 oz) can mandarin oranges, drained",
+        "1 medium sweet onion, sliced and separated into rings",
+        "⅓ cup slivered almonds, toasted",
+        "4 strips cooked bacon, crumbled",
+        "¼ cup white sugar",
+        "2 Tbsp cider vinegar",
+        "2 Tbsp honey",
+        "1¼ tsp fresh lemon juice",
+        "½ tsp paprika",
+        "½ tsp ground mustard",
+        "½ tsp grated onion",
+        "¼ tsp celery seed",
+        "Dash salt",
+        "⅓ cup vegetable oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a microwave-safe bowl, combine sugar, cider vinegar, honey, lemon juice, paprika, mustard, grated onion, celery seed, and salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Microwave uncovered on high for 1½ to 2 minutes, stirring until the sugar is dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in vegetable oil until well combined. Refrigerate until chilled."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large serving bowl, combine the mixed greens, sliced strawberries, mandarin oranges, sweet onion rings, toasted almonds, and crumbled bacon."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle the chilled dressing over the salad and gently toss to coat."
+        }
+      ],
+      "keywords": "fruit salad, mixed greens, strawberry, mandarin orange, bacon",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "url": "tossed-berry-mandarin-salad-87",
+      "score": 0.718609368157893
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Layered Coleslaw Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Kim MacDonald"
+      },
+      "description": "A layered coleslaw salad with shredded carrots, snow peas, and a creamy Miracle Whip dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1/2 head cabbage, shredded",
+        "1 pkg (8.5 oz) Oriental flavor dry noodles",
+        "4 handfuls snow peas",
+        "1 bunch chopped green onions",
+        "1 sliced red pepper",
+        "5 shredded carrots",
+        "1 cup Miracle Whip dressing",
+        "1 cup sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Shred cabbage and place in bottom of large glass bowl. Top with remaining ingredients in order given."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine Miracle Whip, sour cream, and package of noodle seasoning. Spread evenly over salad."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and let stand overnight."
+        }
+      ],
+      "keywords": "layered coleslaw, creamy dressing, overnight salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 20 minutes"
+      },
+      "url": "layered-coleslaw-salad-62",
+      "score": 0.7175861041018036
+    }
+  ]
 }

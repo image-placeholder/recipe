@@ -60,5 +60,354 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 10 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ham Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "4 cups hash brown potatoes, thawed",
+        "1½ cups chopped ham",
+        "1 cup grated Cracker Barrel cheddar cheese",
+        "1 small onion, chopped",
+        "½ cup Miracle Whip salad dressing",
+        "½ cup milk",
+        "¼ tsp pepper",
+        "½ cup fresh bread crumbs",
+        "1 Tbsp butter or margarine"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with bread crumbs and dot with butter or margarine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 45 minutes."
+        }
+      ],
+      "keywords": "ham casserole, potato casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "ham-casserole-200",
+      "score": 0.7075279384161863
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Jelly Roll Style Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 loaf",
+      "recipeIngredient": [
+        "½ lb ground beef",
+        "3 cups shredded mozzarella cheese",
+        "1 beaten egg",
+        "½ cup cracker crumbs or dry bread crumbs",
+        "½ tsp basil",
+        "1 clove garlic, minced",
+        "½ cup minced onion",
+        "1 tsp salt",
+        "⅛ tsp pepper",
+        "2 (8 oz) cans tomato sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ground beef and mix thoroughly with hands until just combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain off fat and pour reserved tomato sauce on the roll."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 to 15 minutes before slicing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Decorate with tomato slices and green parsley on a serving tray."
+        }
+      ],
+      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "url": "jelly-roll-style-meat-loaf-154",
+      "score": 0.7038649400346558
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Macaroni Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A comforting macaroni and meat casserole topped with cheese and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeIngredient": [
+        "2 cups macaroni",
+        "1½ lb hamburger",
+        "1 medium onion, chopped",
+        "½ green pepper, chopped",
+        "1 can stewed tomatoes",
+        "1 can mushrooms",
+        "1 can mushroom soup",
+        "½ cup ketchup",
+        "1 tsp oregano",
+        "1 tsp basil",
+        "½ tsp onion powder",
+        "½ tsp garlic powder",
+        "Dash salt and pepper",
+        "1 to 2 cups grated cheese (e.g., cheddar, mozzarella, Monterey Jack)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the macaroni, drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown hamburger, adding onions, green pepper and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the spices, ketchup and tomatoes. Reduce heat and simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the macaroni and meat mixture in a large casserole dish and mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mushroom soup across the top, covering the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the cheese on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake in 350°F oven for ½ hour."
+        }
+      ],
+      "keywords": "macaroni casserole, cheesy pasta bake, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "macaroni-casserole-175",
+      "score": 0.6907773919036916
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey or Chicken Pies",
+      "author": {
+        "@type": "Person",
+        "name": "Shirley Preszcator"
+      },
+      "description": "Individual or large pies filled with turkey or chicken, vegetables, and a creamy sauce, topped with a homemade pastry crust or biscuits.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT45M",
+      "cookTime": "PT30M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "Multiple individual pies or 1 large pie",
+      "recipeIngredient": [
+        "½ cup margarine",
+        "1 tsp salt",
+        "1 Tbsp onion, chopped",
+        "1 cup flour",
+        "¼ tsp salt",
+        "1½ tsp baking powder",
+        "3 cups chicken or turkey broth",
+        "3 Tbsp butter",
+        "3 cups diced turkey or chicken",
+        "1 cup frozen peas",
+        "1 cup diced carrots",
+        "½ cup celery, chopped",
+        "⅓ cup milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine with salt and pepper over low heat. Add flour and gradually add broth, cooking until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté chopped onion and celery until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil carrots until thoroughly cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cooked carrots with peas and the sauce made earlier."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "For the pastry, mix flour, salt, and baking powder with butter. Add milk to form a dough."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill small pans or a large pie plate with the turkey or chicken mixture and top with pastry crust or biscuits."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the crust is golden brown."
+        }
+      ],
+      "keywords": "turkey pie, chicken pie, savory pastry, comfort food",
+      "_naturalized_times": {
+        "prepTime": "45 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "turkey-or-chicken-pies-251",
+      "score": 0.6875566346260729
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburger Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "hamburger-pie-169",
+      "score": 0.684069083991196
+    }
+  ]
 }

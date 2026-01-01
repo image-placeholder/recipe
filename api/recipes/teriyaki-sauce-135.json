@@ -37,5 +37,319 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Zesty BBQ Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 cup ketchup",
+        "1 tsp dry mustard",
+        "1/4 cup white vinegar",
+        "1/4 tsp salt",
+        "1/2 cup brown sugar",
+        "1/4 tsp cayenne pepper",
+        "1 Tbsp chili powder",
+        "2 cloves garlic, crushed",
+        "1 Tbsp Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 10 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate or freeze for later use."
+        }
+      ],
+      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "zesty-bbq-sauce-136",
+      "score": 0.6762767332472869
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "thai-chicken-235",
+      "score": 0.6623288151601362
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Vegetable Fried Rice",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A simple and flavorful fried rice dish made with cooked rice, beaten egg, soya sauce, and mixed vegetables.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "Chinese-Canadian",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "3 Tbsp vegetable oil",
+        "575 mL cold water",
+        "1 chicken Oxo cube or pouch",
+        "1 egg, beaten",
+        "1 Tbsp soya sauce",
+        "250 mL cooked rice",
+        "125 mL cooked vegetables",
+        "Salt and pepper to taste",
+        "15 mL butter or margarine"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring water to a boil. Dissolve chicken Oxo cube in water. Add rice, salt, and butter. Cover and simmer for 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain rice in a strainer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a wok or frying pan. Add beaten egg and soya sauce. Cook until just setting."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked rice and vegetables to the egg mixture. Stir continuously until combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Adjust seasoning with salt, pepper, and additional soya sauce if needed."
+        }
+      ],
+      "keywords": "chicken fried rice, vegetable fried rice, Chinese-Canadian side dish",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "chicken-vegetable-fried-rice-220",
+      "score": 0.6512442717380573
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caesar Dressin' Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Towton"
+      },
+      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "½ tsp Worcestershire sauce",
+        "3 garlic cloves",
+        "½ tsp dry mustard",
+        "2 beaten egg yolks",
+        "½ tsp salt",
+        "½ cup lemon juice",
+        "Dash pepper",
+        "1 cup oil",
+        "¼ cup white sugar",
+        "1 cup Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Can be kept in the fridge for up to 2 weeks."
+        }
+      ],
+      "keywords": "Caesar dressing, homemade salad dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "caesar-dressin-salad-101",
+      "score": 0.6488654270721207
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet and Sour Pineapple with Chicken and Ginger",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A classic sweet and sour dish featuring parboiled chicken legs in a tangy pineapple and ginger sauce, served over fried rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-Canadian",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "4 to 6 chicken legs",
+        "1 to 2 tsp ginger",
+        "1 Tbsp vegetable oil",
+        "1/2 cup chopped onions",
+        "1 tsp salt",
+        "1/4 cup sugar (white or brown)",
+        "1 cup celery slices",
+        "1/4 cup vinegar",
+        "1 can (10 oz) mushrooms, drained",
+        "1 chicken Oxo cube or pouch",
+        "1 1/2 cups hot water",
+        "1 can (19 oz) pineapple",
+        "1/4 cup cold water",
+        "4 tsp cornstarch",
+        "1/4 cup soya sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Rinse and separate chicken legs at the joint. Parboil for 15 to 20 minutes to remove excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Saute onions and celery in vegetable oil until tender. Add drained mushrooms and cook briefly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve chicken Oxo cube in hot water. Add soya sauce, ginger, salt, sugar, and vinegar. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cornstarch with cold water until smooth. Pour into boiling sauce and stir frequently until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add drained pineapple to the sauce. Adjust seasoning with pineapple juice if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lay parboiled chicken pieces in a greased casserole dish. Pour sauce over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 20 to 25 minutes until bubbling.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT20M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over Chicken Vegetable Fried Rice."
+        }
+      ],
+      "keywords": "sweet and sour chicken, pineapple chicken, ginger sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
+      "score": 0.6382081084370813
+    }
+  ]
 }

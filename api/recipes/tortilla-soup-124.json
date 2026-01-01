@@ -63,5 +63,285 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "mexican-salad-50",
+      "score": 0.7715792837429722
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Fajitas",
+      "author": {
+        "@type": "Person",
+        "name": "Valorie (Finkbeiner) Mullin"
+      },
+      "description": "A flavorful Mexican-inspired dish featuring stir-fried chicken, peppers, and onions, served with tortillas and various toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 green pepper, cut into strips",
+        "2 Tbsp chopped parsley",
+        "1 onion, chopped",
+        "Flour tortillas (soft)",
+        "1 tsp ground cumin",
+        "1 cup shredded cheese",
+        "1 tsp chili powder",
+        "Guacamole (see appetizers)",
+        "½ cup Catalina dressing",
+        "Salsa",
+        "4 boneless, skinless chicken breasts, cut into strips",
+        "Sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry the vegetables and chicken over high heat until the chicken is cooked through with spices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add Catalina dressing and heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve wrapped in flour tortillas with shredded cheese, salsa, sour cream, and guacamole as garnishes."
+        }
+      ],
+      "keywords": "chicken fajitas, Mexican dish, stir-fry",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "chicken-fajitas-226",
+      "score": 0.7618059719443363
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Fajitas",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A classic Tex-Mex dish featuring chicken, sautéed peppers and onions, served with tortillas, cheese, and various toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 green pepper, cut in strips",
+        "2 Tbsp parsley, chopped",
+        "1 onion, chopped",
+        "Flour tortillas (soft)",
+        "1 tsp ground cumin",
+        "1 cup shredded cheese",
+        "1 tsp chili powder",
+        "Guacamole (see appetizers)",
+        "Salsa",
+        "4 boneless chicken breasts",
+        "Sour cream"
+      ],
+      "recipeInstructions": [],
+      "keywords": "chicken fajitas, Tex-Mex, Mexican-American",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "chicken-fajitas-228",
+      "score": 0.7618059719443363
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta & Bean Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Fydenchuk"
+      },
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT15M",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
+        }
+      ],
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
+      },
+      "url": "pasta-bean-soup-111",
+      "score": 0.7578179494265019
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Noodles with Hamburg",
+      "author": {
+        "@type": "Person",
+        "name": "Carolyn Gower"
+      },
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
+        "1 tsp salt",
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "noodles-with-hamburg-166",
+      "score": 0.7555219254646249
+    }
+  ]
 }

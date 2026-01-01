@@ -52,5 +52,319 @@
     "cookTime": "50 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheddar Baked Potato Slices",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 medium baking potatoes, cut into ¼ inch slices",
+        "1 can cream of mushroom soup",
+        "½ tsp paprika",
+        "½ tsp pepper",
+        "1 cup shredded cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the soup mixture evenly over the cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 400,
+            "unitCode": "FAR"
+          },
+          "duration": "PT45M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+        }
+      ],
+      "keywords": "baked potatoes, cheddar cheese, creamy sauce",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "cheddar-baked-potato-slices-140",
+      "score": 0.7244737351053516
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Finkbeiner"
+      },
+      "description": "A classic sweet potato casserole with a crunchy pecan topping.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT40M",
+      "totalTime": "PT1H",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "2 large sweet potatoes",
+        "¾ cup coarsely chopped pecans",
+        "¼ cup melted butter",
+        "½ cup brown sugar",
+        "1 (16 mL) can evaporated milk",
+        "¼ cup flour",
+        "3 eggs, beaten",
+        "1 tsp vanilla"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Peel, cut up, and boil the sweet potatoes until tender. Mash to make 3 cups."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the beaten eggs, melted butter, evaporated milk, and vanilla into the mashed sweet potatoes. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sweet potato mixture into a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the topping by mixing together the pecans, brown sugar, flour, and melted butter until crumbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the topping evenly over the sweet potato mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350 °F for 40 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT40M"
+        }
+      ],
+      "keywords": "sweet potato casserole, pecan topping, holiday side dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "40 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "sweet-potato-casserole-149",
+      "score": 0.6988402134374874
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ham Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "4 cups hash brown potatoes, thawed",
+        "1½ cups chopped ham",
+        "1 cup grated Cracker Barrel cheddar cheese",
+        "1 small onion, chopped",
+        "½ cup Miracle Whip salad dressing",
+        "½ cup milk",
+        "¼ tsp pepper",
+        "½ cup fresh bread crumbs",
+        "1 Tbsp butter or margarine"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with bread crumbs and dot with butter or margarine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 45 minutes."
+        }
+      ],
+      "keywords": "ham casserole, potato casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "ham-casserole-200",
+      "score": 0.678214905095838
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Swedish Potatoes",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "10-12 servings",
+      "recipeIngredient": [
+        "12 large potatoes",
+        "2 slightly beaten eggs",
+        "1 cup sour cream",
+        "1 tsp salt",
+        "¾ cup bread crumbs",
+        "2 Tbsp butter",
+        "1¼ tsp butter",
+        "1 (8 oz) package cream cheese",
+        "2 tsp onion salt or chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook and mash the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dot the top with butter and sprinkle with bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, covered, at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
+        }
+      ],
+      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "swedish-potatoes-137",
+      "score": 0.6779897407971182
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "score": 0.6755597726999808
+    }
+  ]
 }

@@ -66,5 +66,285 @@
     "cookTime": "15 minutes",
     "totalTime": "35 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "Tangy pickled eggs made with vinegar, mustard, and spices, perfect for snacking or as a side dish.",
+      "recipeCategory": "Snack",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT5M",
+      "totalTime": "5 days",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "12 hard-boiled eggs",
+        "2 cups white vinegar",
+        "1 cup water",
+        "1 tsp dry mustard",
+        "1 tsp salt",
+        "½ tsp pepper",
+        "1 onion, cut into pieces",
+        "Pinch of sugar (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the vinegar, water, mustard, salt, pepper, and onion pieces in a saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the mixture to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot pickling liquid over the hard-boiled eggs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the eggs stand in the pickling liquid for 5 days before serving."
+        }
+      ],
+      "keywords": "pickled eggs, tangy snack, preserved eggs",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": null
+      },
+      "url": "pickled-eggs-35",
+      "score": 0.7388977414802235
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Plain Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A simple recipe for pickled eggs with a tangy cider vinegar brine and sliced onions.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "1 tsp pickling spice",
+        "2 cups cider vinegar",
+        "1 large onion, sliced into rings",
+        "12 hard-boiled eggs, shelled",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except eggs and onion rings in a stainless steel or enamel pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil and simmer for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large jar, alternate layers of eggs and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the heated liquid over the eggs and onions, ensuring all are covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
+        }
+      ],
+      "keywords": "pickled eggs, cider vinegar, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "url": "plain-pickled-eggs-30",
+      "score": 0.7084268897506768
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fancy Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A variation of pickled eggs with beets, giving them a distinctive purple color and sweet flavor.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "1 (16 oz) can sliced beets",
+        "½ tsp ground cloves",
+        "2 bay leaves",
+        "2 Tbsp sugar",
+        "½ tsp celery seed",
+        "1 large onion, sliced into rings",
+        "1 tsp salt",
+        "2 cups cider vinegar",
+        "12 large boiled eggs (shells removed)",
+        "1 cinnamon stick"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In an enamel or stainless steel saucepan, combine all ingredients except eggs and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil and simmer for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large glass jar, alternate layers of eggs, beets, and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the heated liquid into the jar, ensuring all layers are covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
+        }
+      ],
+      "keywords": "pickled eggs, beets, appetizer, purple eggs",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "fancy-pickled-eggs-31",
+      "score": 0.6788756209816056
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken with a Chinese Accent",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the chicken to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken with rice."
+        }
+      ],
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chicken-with-a-chinese-accent-245",
+      "score": 0.649475976603614
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Louise Wein"
+        }
+      ],
+      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 serving dish",
+      "recipeIngredient": [
+        "1 tsp Accent",
+        "1 cup sour cream",
+        "¼ tsp salt",
+        "1 cup mayonnaise",
+        "¼ tsp celery salt",
+        "1 tsp parsley flakes",
+        "2 drops Tabasco sauce (can be omitted)",
+        "½ tsp dill weed",
+        "1 tsp garlic salt",
+        "Assorted vegetables or crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill before serving with chips, crackers, or vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, sour cream dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "vegetable-dip-17",
+      "score": 0.6394131040195236
+    }
+  ]
 }

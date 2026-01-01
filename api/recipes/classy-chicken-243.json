@@ -69,5 +69,309 @@
     "cookTime": "35 minutes",
     "totalTime": "55 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken with a Chinese Accent",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the chicken to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken with rice."
+        }
+      ],
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chicken-with-a-chinese-accent-245",
+      "score": 0.814933656485169
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Curry Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Leslie Jenni"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "International",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "6 to 8 boneless chicken breasts",
+        "¼ cup Dijon mustard",
+        "2 Tbsp prepared mustard",
+        "1 Tbsp lime juice",
+        "¼ cup butter",
+        "1 tsp curry powder",
+        "½ cup honey"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients except chicken breasts in a microwave-safe bowl until butter is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken breasts in a shallow baking dish sprayed with nonstick spray."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the curry mixture over the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake uncovered for 1 hour, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over rice."
+        }
+      ],
+      "keywords": "curry chicken, baked chicken, honey mustard chicken",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "curry-chicken-230",
+      "score": 0.7934666789920496
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lemon Chicken With Thyme",
+      "author": {
+        "@type": "Person",
+        "name": "Karen Schwartzentruber"
+      },
+      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp flour",
+        "1 Tbsp margarine",
+        "1 cup chicken broth",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "3 Tbsp lemon juice",
+        "1/2 tsp thyme",
+        "4 boneless skinless chicken breasts",
+        "2 Tbsp olive oil",
+        "1 medium onion (optional)",
+        "Lemon halves and chopped parsley for garnish (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
+        }
+      ],
+      "keywords": "lemon chicken, thyme, chicken breast",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "lemon-chicken-with-thyme-224",
+      "score": 0.7908075016346121
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Easy Curried Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "International",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeIngredient": [
+        "Chicken pieces",
+        "2 cans cream of chicken soup",
+        "¾ cup mayonnaise",
+        "1 tsp curry powder (or to taste)",
+        "Broccoli and carrots, cut into bite-size pieces",
+        "Bread crumbs for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease the bottom of a pan and layer with vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken pieces on top of the vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cream of chicken soup, mayonnaise, and curry powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the soup mixture over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle bread crumbs on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 375°F for 1 hour."
+        }
+      ],
+      "keywords": "curried chicken, creamy chicken, baked chicken casserole",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "easy-curried-chicken-231",
+      "score": 0.7602741576253157
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stir-Fry Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Atkinson"
+      },
+      "description": "A savory stir-fry dish featuring chicken, vegetables, and a flavorful sauce, served with cheesy buns.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Asian-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "6 to 8 servings",
+      "recipeIngredient": [
+        "1/4 cup olive oil",
+        "2 tsp curry powder",
+        "1 crushed garlic clove",
+        "1/4 cup soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 tsp Louisiana hot sauce",
+        "1/2 tsp Tabasco",
+        "6 to 8 buns, cut in half",
+        "Mozzarella cheese and bacon bits for buns",
+        "Chicken breasts, cut in cubes",
+        "Mushrooms, sliced",
+        "Celery, chopped",
+        "1 bag Oriental Classic frozen vegetables",
+        "1 onion, chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil and garlic clove in a pan. Dip bun halves in hot oil, then place on a cookie sheet. Cover with mozzarella cheese and bacon bits. Broil 3 to 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cube chicken breasts and brown in the pan. Add mushrooms, celery, onion, and Oriental vegetables. Cook thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a well and add curry powder, soya sauce, Worcestershire sauce, Louisiana hot sauce, and Tabasco. Cook."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1 cup water (or more as needed) to the vegetables. Mix cornstarch with water to thicken the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken and vegetable mixture over steamed rice with the cheesy buns."
+        }
+      ],
+      "keywords": "stir-fry chicken, Asian-inspired, cheesy buns",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "stir-fry-chicken-225",
+      "score": 0.7395131832127141
+    }
+  ]
 }

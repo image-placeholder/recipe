@@ -51,5 +51,325 @@
     "cookTime": "30 minutes",
     "totalTime": "40 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Zesty BBQ Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 cup ketchup",
+        "1 tsp dry mustard",
+        "1/4 cup white vinegar",
+        "1/4 tsp salt",
+        "1/2 cup brown sugar",
+        "1/4 tsp cayenne pepper",
+        "1 Tbsp chili powder",
+        "2 cloves garlic, crushed",
+        "1 Tbsp Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 10 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate or freeze for later use."
+        }
+      ],
+      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "zesty-bbq-sauce-136",
+      "score": 0.6988560929184978
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Zippy Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Kate Cunningham"
+      },
+      "description": "A flavorful and spicy spaghetti sauce with sausage, hamburger, and taco seasoning.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb lean ground hamburger",
+        "2 jumbo summer sausage slices",
+        "1/2 onion, chopped",
+        "1 tsp garlic",
+        "1 tsp oregano flakes",
+        "1 tsp salt",
+        "1/4 tsp pepper",
+        "1 envelope regular taco seasoning (El Paso)",
+        "1 jar Ragu spaghetti sauce (700 mL)",
+        "1 can sliced mushrooms, drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the hamburger and chopped onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic, oregano, salt, pepper, and taco seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chop the summer sausage into 1/4 inch pieces and add to the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the Ragu spaghetti sauce and drained mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 10 minutes."
+        }
+      ],
+      "keywords": "spaghetti sauce, zippy sauce, sausage, taco seasoning",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "zippy-spaghetti-sauce-188",
+      "score": 0.6910040358901905
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Bake Sausage Southwest",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A layered casserole featuring sausage, tortillas, cheese, and salsa, perfect for a hearty breakfast or brunch.",
+      "recipeCategory": "Breakfast",
+      "recipeCuisine": "Southwestern",
+      "prepTime": "PT30M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H20M",
+      "recipeYield": "12 servings",
+      "recipeIngredient": [
+        "1 lb bulk pork sausage, cooked and drained",
+        "10 eggs",
+        "1/2 cup milk",
+        "1/2 tsp garlic salt",
+        "1/2 tsp cumin",
+        "1/2 tsp paprika",
+        "1/2 tsp salt and pepper",
+        "4 cans (4 oz each) green chilies, drained and chopped",
+        "2 medium tomatoes, sliced",
+        "6 flour tortillas (10 inches)",
+        "2 cups (8 oz) shredded Monterey Jack cheese",
+        "1/2 cup sour cream and salsa for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a greased 13x9x2 inch baking pan, create a layer of tortillas."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, beat eggs and milk together, then pour over tortillas."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with garlic salt, cumin, paprika, salt, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer with cooked sausage, chopped green chilies, and shredded cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Repeat layers as needed, finishing with a layer of cheese on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate overnight, covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from refrigerator 30 minutes before baking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange tomato slices on top and bake uncovered at 350°F for 50 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 minutes before cutting and serve with sour cream and salsa."
+        }
+      ],
+      "keywords": "Southwestern casserole, sausage bake, breakfast strata",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "bake-sausage-southwest-217",
+      "score": 0.6878165578453184
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat Balls and Sour And Sweet Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Glenda Wuerth"
+      },
+      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb hamburger",
+        "1 slice dry bread (crumbs)",
+        "1 Tbsp cornstarch",
+        "¼ cup milk",
+        "1 tsp onion flakes or 1 tsp real onion",
+        "1 (19 oz) can pineapple, crushed",
+        "⅓ cup vinegar",
+        "1 tsp salt",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together and form into 1½ inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from oven and drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a large casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+        }
+      ],
+      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "score": 0.670941119911606
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hawaiian Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A Hawaiian-inspired meatball recipe with a sweet and sour sauce, cooked in a pan and finished in the oven.",
+      "recipeCategory": "Meat",
+      "recipeCuisine": "Hawaiian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "2 eggs",
+        "½ cup chopped onion",
+        "¾ cup bread crumbs",
+        "¼ tsp salt",
+        "¼ tsp garlic salt",
+        "½ tsp salt",
+        "¼ tsp ginger",
+        "¼ tsp dry mustard",
+        "2 Tbsp soya sauce",
+        "¼ cup vinegar",
+        "6 Tbsp brown sugar",
+        "6 Tbsp ketchup",
+        "2 Tbsp shortening",
+        "1 (10 oz) can crushed pineapple",
+        "1 cup water",
+        "2 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the meat mixture together and shape into balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dredge the meatballs in flour and brown in shortening on both sides."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the meatballs from the pan and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dry sauce ingredients well, then stir in the wet ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the sauce mixture into the fat in the pan and cook until thick and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return the meatballs to the pan, cover, and put in the oven to cook for ½ hour."
+        }
+      ],
+      "keywords": "Hawaiian meatballs, sweet and sour sauce, oven-finished",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "hawaiian-meatballs-152",
+      "score": 0.6524229789201895
+    }
+  ]
 }

@@ -69,5 +69,336 @@
     "cookTime": "25 minutes",
     "totalTime": "45 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A spicy nacho salad with ground beef, lettuce, tomatoes, and nacho chips, topped with a creamy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1/2 romaine lettuce, shredded",
+        "1/4 lb lean ground beef",
+        "1/2 onion, chopped",
+        "1 clove garlic, crushed",
+        "1/2 cup Monterey Jack cheese (or mozzarella), shredded",
+        "1/2 cup nacho chips, lightly crushed",
+        "2 tomatoes, coarsely diced",
+        "1/2 tsp cayenne pepper",
+        "1/4 cup mayonnaise",
+        "1 tsp relish",
+        "1 Tbsp ketchup",
+        "2 drops hot pepper sauce (Tabasco)",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spices and water to the beef mixture. Bring to a boil, then simmer for 15 minutes. Let cool for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large salad bowl, mix together the shredded lettuce, diced tomatoes, shredded cheese, and crushed nacho chips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix the mayonnaise, relish, ketchup, and hot pepper sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad and add the cooled meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad to combine all ingredients and serve."
+        }
+      ],
+      "keywords": "nacho salad, spicy salad, ground beef salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "nacho-salad-73",
+      "score": 0.7697388013013514
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Ring",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Valkengoed"
+      },
+      "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT16M",
+      "totalTime": "PT36M",
+      "recipeYield": "1 ring",
+      "recipeIngredient": [
+        "1 lb lean ground hamburger",
+        "1 cup water",
+        "1 packet taco seasoning mix",
+        "2 cups shredded lettuce",
+        "1 cup grated mild cheddar cheese",
+        "1 cup salsa dip",
+        "2 packages Pillsbury crescent rolls",
+        "1 tomato, diced",
+        "1 green pepper (optional)",
+        "Sour cream for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Fry the hamburger and let it cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add shredded cheese on top of the hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let cool slightly before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
+        }
+      ],
+      "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "16 minutes",
+        "totalTime": "36 minutes"
+      },
+      "url": "taco-ring-183",
+      "score": 0.7641102619532236
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Stewing Beef Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Kelly Haines"
+      },
+      "description": "A hearty beef casserole with vegetables, slow-cooked at a low temperature for tender results.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 lb stewing beef",
+        "1 tsp salt",
+        "Dash pepper",
+        "1¼ cups diced potatoes",
+        "1¼ cups diced carrots",
+        "1 tsp sugar",
+        "2 Tbsp Minit Tapioca",
+        "½ cup diced onions",
+        "1 cup V8 juice",
+        "½ cup diced celery"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients lightly in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish or roasting pan and cover tightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 250°F for 4 hours without uncovering."
+        }
+      ],
+      "keywords": "beef casserole, slow-cooked stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "stewing-beef-casserole-155",
+      "score": 0.7629589221356599
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Veggie Pizza",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Linda Nakamura"
+        },
+        {
+          "@type": "Person",
+          "name": "Teena Houston"
+        }
+      ],
+      "description": "A simple and customizable veggie pizza using crescent rolls as the crust, topped with a cream cheese mixture and various vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "2 pkg Pillsbury crescent rolls",
+        "1 cup sour cream",
+        "1/2 cup mayonnaise",
+        "2 large cream cheese",
+        "2 pkg Hidden Valley ranch dressing",
+        "Grated cheddar cheese",
+        "Veggies (broccoli, cauliflower, carrots, celery, red or green peppers, green onions)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Roll out crescent rolls on a cookie sheet and a small cake pan. Bake until golden brown. Cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix sour cream, mayonnaise, cream cheese, and ranch dressing to make the cream mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cream mixture on cooled rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with finely chopped vegetables of your choice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill and cut into small pieces. Serve as hors d'oeuvres."
+        }
+      ],
+      "keywords": "veggie pizza, appetizer, crescent rolls",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "veggie-pizza-47",
+      "score": 0.7476879395047319
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Veggie Pizza",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Kelly Haines"
+        },
+        {
+          "@type": "Person",
+          "name": "Kim MacDonald"
+        }
+      ],
+      "description": "A simple veggie pizza made with a crescent roll crust, cream cheese, ranch dressing, and various chopped vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeYield": "1 pizza",
+      "recipeIngredient": [
+        "1 roll Pillsbury crescent rolls",
+        "1 (8 oz) pkg cream cheese",
+        "1/2 cup ranch dressing",
+        "1 cup finely chopped broccoli",
+        "1/2 cup finely chopped red onion",
+        "1/2 cup finely chopped green or red pepper",
+        "1 cup finely chopped cauliflower"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll out crescent roll dough on a flat cookie sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cream cheese with ranch dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the cream cheese mixture onto the cooled crust."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with chopped vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep refrigerated before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut with pizza cutter or knife."
+        }
+      ],
+      "keywords": "veggie pizza, crescent roll crust, cream cheese, ranch dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "veggie-pizza-201",
+      "score": 0.7476879395047319
+    }
+  ]
 }

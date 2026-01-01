@@ -35,5 +35,248 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fluffy Fruit Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Lorie Van Volkengoed"
+        },
+        {
+          "@type": "Person",
+          "name": "Kim MacDonald"
+        }
+      ],
+      "description": "A light and airy fruit dip made with softened cream cheese, marshmallow creme, and vanilla extract.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "3 oz cream cheese, softened",
+        "1 tsp vanilla extract",
+        "1 (7 oz) jar marshmallow creme",
+        "Fresh fruit for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, combine the softened cream cheese, marshmallow creme, and vanilla extract."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with your choice of fresh fruit."
+        }
+      ],
+      "keywords": "fluffy fruit dip, marshmallow dip, sweet appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "fluffy-fruit-dip-25",
+      "score": 0.807416477731714
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Breakfast Orange Smoothie",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A refreshing and healthy orange smoothie made with milk, banana, and a touch of silken tofu for creaminess.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "¼ cup (or more) orange juice",
+        "1½ cups (more or less) milk or soy milk",
+        "1 banana, frozen",
+        "2 Tbsp silken tofu (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour into a tall glass and serve immediately."
+        }
+      ],
+      "keywords": "orange smoothie, breakfast drink, healthy beverage",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "breakfast-orange-smoothie-51",
+      "score": 0.7111281874801215
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange-Pineapple Jello",
+      "author": {
+        "@type": "Person",
+        "name": "Shelley Kinsman"
+      },
+      "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1 package orange Jello",
+        "1 cup mini marshmallows",
+        "1 small can crushed pineapple",
+        "½ cup frozen orange juice concentrate",
+        "1 package Dream Whip",
+        "½ cup pecans"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain pineapple and reserve syrup. Add water to make ¾ cup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the liquid to boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place Jello in a bowl and add hot liquid, pineapple, and orange juice concentrate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until thickish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fold in Dream Whip along with marshmallows and pecans."
+        }
+      ],
+      "keywords": "orange-pineapple Jello, fruity dessert, nuts",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "orange-pineapple-jello-76",
+      "score": 0.6993443245532946
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salmon Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 (8 oz) package cream cheese, softened",
+        "1 can red salmon",
+        "1 tsp garlic powder or 1 fresh garlic clove, minced",
+        "2 tsp lemon juice",
+        "2 Tbsp onion, minced",
+        "1 Tbsp fresh or dry parsley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain the salmon and remove any bones."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Use a fork to flake the salmon before adding other ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the softened cream cheese with the salmon and all remaining ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix well and serve with crackers or as a spread."
+        }
+      ],
+      "keywords": "salmon dip, salmon spread, red salmon",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "salmon-dip-9",
+      "score": 0.6944880431175497
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange Julius Drink",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A creamy and refreshing orange drink made with frozen orange juice concentrate, milk, and vanilla.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "About 5 cups",
+      "recipeIngredient": [
+        "3/4 cup frozen concentrated orange juice",
+        "2 Tbsp white sugar",
+        "2 tsp vanilla",
+        "1 cup milk",
+        "1 cup water",
+        "12 ice cubes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend the orange juice concentrate, sugar, vanilla, milk, and water in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ice cubes just before serving and blend until the ice is fully incorporated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately and enjoy."
+        }
+      ],
+      "keywords": "orange drink, creamy beverage, frozen orange juice",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "orange-julius-drink-56",
+      "score": 0.688124983241451
+    }
+  ]
 }

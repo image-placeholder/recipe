@@ -52,5 +52,337 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pork Chop & Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT2H",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "6 center cut pork chops",
+        "1 sliced tomato",
+        "1 cup brown rice",
+        "1 sliced onion",
+        "4 sliced green onions",
+        "1 green pepper, sliced in rings",
+        "1/2 lb sliced fresh mushrooms",
+        "1 1/2 cups beef broth or stock",
+        "Salt and pepper to taste",
+        "1 Tbsp minced garlic",
+        "4 oz margarine or butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put raw rice in the casserole pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour beef broth over the casserole and cover with foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
+        }
+      ],
+      "keywords": "pork chop, rice, casserole, baked",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "2 hours"
+      },
+      "url": "pork-chop-rice-casserole-211",
+      "score": 0.794201464306453
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ken Noodle Supper",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Jefferies"
+      },
+      "description": "A hearty chicken and noodle supper with a creamy sauce, mixed vegetables, and a blend of herbs.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 lb boneless, skinless chicken breasts",
+        "½ tsp salt",
+        "½ tsp pepper",
+        "3 Tbsp flour",
+        "1 Tbsp butter",
+        "3 cups milk",
+        "1 Tbsp vegetable oil",
+        "1 Tbsp Dijon mustard",
+        "1 large onion, chopped",
+        "3 cups uncooked egg noodles",
+        "1 cup sliced mushrooms",
+        "1 pkg (10 oz/300 g) frozen mixed vegetables",
+        "1 clove garlic",
+        "½ tsp dried basil",
+        "½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut chicken into 1 inch cubes. Cook in butter in a large skillet over medium heat for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion, mushrooms, and garlic. Cook until onion is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, pepper, and herbs. Cook until thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add milk, stirring constantly. Bring to a boil and simmer for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mustard and noodles. Return to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add frozen vegetables. Stir and cook for 10 minutes before serving."
+        }
+      ],
+      "keywords": "chicken noodle supper, creamy sauce, comfort food",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "ken-noodle-supper-240",
+      "score": 0.7855438271479488
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta & Bean Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Fydenchuk"
+      },
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT15M",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
+        }
+      ],
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
+      },
+      "url": "pasta-bean-soup-111",
+      "score": 0.7820370817917877
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Turkey",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 tsp ground coriander",
+        "1½ tsp vegetable oil",
+        "¼ tsp salt",
+        "1 large chopped onion",
+        "½ tsp ground cumin",
+        "1 large chopped green pepper",
+        "¼ tsp cinnamon",
+        "2 chopped garlic cloves",
+        "2 to 3 Tbsp chili powder",
+        "1⅓ lb ground turkey",
+        "1 can red kidney beans",
+        "1¾ cups chicken broth",
+        "6 oz whole wheat spaghetti",
+        "3 tsp tomato paste",
+        "½ cup shredded cheese",
+        "1½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta as directed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+        }
+      ],
+      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chili-turkey-247",
+      "score": 0.7433888349129488
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mushroom Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp butter",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 cups sliced mushrooms",
+        "1/4 cup flour",
+        "2 cups stock (chicken or vegetable)",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "3 cups milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute butter, onion, garlic and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, sauces and milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until heated through (approximately 15 minutes)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "mushroom soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "mushroom-soup-113",
+      "score": 0.7401666478343055
+    }
+  ]
 }

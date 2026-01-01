@@ -42,5 +42,289 @@
     "cookTime": "5 minutes",
     "totalTime": "20 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Layered Coleslaw Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Kim MacDonald"
+      },
+      "description": "A layered coleslaw salad with shredded carrots, snow peas, and a creamy Miracle Whip dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1/2 head cabbage, shredded",
+        "1 pkg (8.5 oz) Oriental flavor dry noodles",
+        "4 handfuls snow peas",
+        "1 bunch chopped green onions",
+        "1 sliced red pepper",
+        "5 shredded carrots",
+        "1 cup Miracle Whip dressing",
+        "1 cup sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Shred cabbage and place in bottom of large glass bowl. Top with remaining ingredients in order given."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine Miracle Whip, sour cream, and package of noodle seasoning. Spread evenly over salad."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and let stand overnight."
+        }
+      ],
+      "keywords": "layered coleslaw, creamy dressing, overnight salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 20 minutes"
+      },
+      "url": "layered-coleslaw-salad-62",
+      "score": 0.8922197070373931
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Coleslaw Chalet Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (medium size) head cabbage, shredded",
+        "2 carrots, finely chopped",
+        "1 Spanish onion, minced",
+        "3 stalks celery, finely chopped",
+        "¾ cup white sugar",
+        "¾ cup salad oil",
+        "1 cup white vinegar",
+        "2 tsp salt",
+        "1 tsp celery seed",
+        "1 Green pepper, finely chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring all dressing ingredients to a boil and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
+        }
+      ],
+      "keywords": "coleslaw, chalet dressing, salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "coleslaw-chalet-dressing-57",
+      "score": 0.8062733321008124
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chinese Rice Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A flavorful salad made with Minute Rice, frozen peas, chopped celery, and a savory dressing, optionally garnished with chow mein noodles and shrimp.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeIngredient": [
+        "1⅓ cups cooked Minute Rice",
+        "1 (10 oz) package frozen peas",
+        "1½ cups chopped celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "1 Tbsp soy sauce",
+        "3 tsp malt vinegar",
+        "2 tsp curry powder",
+        "½ tsp sugar",
+        "Dressing: ½ cup oil",
+        "Chow mein noodles for garnish (optional)",
+        "1 can drained shrimp (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked rice, frozen peas, chopped celery, and onion in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the dressing ingredients (oil, soy sauce, malt vinegar, curry powder, salt, and sugar)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the rice mixture and toss to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with chow mein noodles and/or add drained shrimp if desired."
+        }
+      ],
+      "keywords": "Chinese rice salad, savory salad, Minute Rice",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "url": "chinese-rice-salad-81",
+      "score": 0.748870567553963
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sauerkraut Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the dressing cool to room temperature."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the cooled dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+        }
+      ],
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "sauerkraut-salad-82",
+      "score": 0.7482386759773035
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "thai-chicken-235",
+      "score": 0.7356066335475723
+    }
+  ]
 }

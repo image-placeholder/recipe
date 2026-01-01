@@ -47,5 +47,275 @@
     "cookTime": "5 minutes",
     "totalTime": "20 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lemon Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Mona Hamilton"
+      },
+      "description": "A light and fluffy lemon Jello dessert mixed with whipped Dream Whip.",
+      "recipeCategory": "Dessert",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1 package lemon Jello (85g)",
+        "1 small can frozen lemonade",
+        "1 cup hot water",
+        "¼ cup water",
+        "¼ cup sugar",
+        "1 package Dream Whip Mix"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve the lemon Jello in hot water with sugar."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add frozen lemonade and ¼ cup water to the Jello mixture and let set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whip the Dream Whip Mix and combine with the set Jello."
+        }
+      ],
+      "keywords": "lemon Jello, whipped dessert, Dream Whip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "url": "lemon-salad-80",
+      "score": 0.8518738097139408
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange-Pineapple Jello",
+      "author": {
+        "@type": "Person",
+        "name": "Shelley Kinsman"
+      },
+      "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1 package orange Jello",
+        "1 cup mini marshmallows",
+        "1 small can crushed pineapple",
+        "½ cup frozen orange juice concentrate",
+        "1 package Dream Whip",
+        "½ cup pecans"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain pineapple and reserve syrup. Add water to make ¾ cup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the liquid to boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place Jello in a bowl and add hot liquid, pineapple, and orange juice concentrate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until thickish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fold in Dream Whip along with marshmallows and pecans."
+        }
+      ],
+      "keywords": "orange-pineapple Jello, fruity dessert, nuts",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "orange-pineapple-jello-76",
+      "score": 0.8217513116947166
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cottage Cheese Jellied Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 oz package orange or lemon flavored gelatin",
+        "1 cup boiling water",
+        "1 cup drained crushed pineapple",
+        "½ cup chopped walnuts (optional)",
+        "½ cup mayonnaise",
+        "1 cup cottage cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve gelatin in boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise and whisk to blend."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until the mixture starts to set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
+        }
+      ],
+      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "url": "cottage-cheese-jellied-salad-66",
+      "score": 0.747216722124302
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mandarin Orange Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic spinach and lettuce salad with mandarin oranges and toasted almonds, dressed with a sweet and tangy homemade vinaigrette.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 bunch romaine lettuce",
+        "1 leaf red tip lettuce",
+        "1 pkg fresh spinach",
+        "4 (10 oz) cans mandarin oranges, drained",
+        "1 cup slivered almonds, toasted",
+        "½ small red onion, chopped",
+        "Dressing:",
+        "½ cup sugar",
+        "¼ cup vinegar",
+        "1 tsp dry mustard",
+        "1 tsp salt",
+        "1 cup vegetable oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and clean the romaine lettuce, red tip lettuce, and spinach. Dry thoroughly and rip into bite-sized pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, combine sugar, vinegar, mustard, and salt. Bring to a boil, then allow to cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Once cooled, blend the dressing mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the prepared lettuce mixture about 10 minutes before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, add the drained mandarin oranges and toasted slivered almonds."
+        }
+      ],
+      "keywords": "mandarin orange salad, spinach salad, homemade dressing",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "url": "mandarin-orange-salad-88",
+      "score": 0.741611691800479
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Party-Time Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Phyllis Bender"
+      },
+      "description": "A creamy lime Jello salad with pineapple, cream cheese, and celery.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 1½ quart mould",
+      "recipeIngredient": [
+        "1 can crushed pineapple",
+        "1 (8 oz) package cream cheese",
+        "1 (3 oz) package lime flavoured Jello",
+        "1 cup celery, diced",
+        "1½ cups whipped cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat pineapple juice and hot water to measure 1 cup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve Jello powder in hot liquid and stir, then add ¾ cup cold water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let partially set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cream cheese and mix with beaters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add crushed pineapple, whipped cream, and celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour into a 1½ quart mould and chill until firm."
+        }
+      ],
+      "keywords": "party-time salad, lime Jello, cream cheese, pineapple",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "url": "party-time-salad-77",
+      "score": 0.73034262919762
+    }
+  ]
 }

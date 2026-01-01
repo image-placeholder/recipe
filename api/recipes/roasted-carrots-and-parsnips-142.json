@@ -54,5 +54,295 @@
     "cookTime": "50 minutes",
     "totalTime": "1 hour 5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Freezer Cole Slaw",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A freezer coleslaw recipe with a sweet and tangy dressing, made with grated cabbage and optional vegetables.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 large cabbage, grated or chopped",
+        "1 large carrot, grated (optional)",
+        "1 onion, grated (optional)",
+        "1 cup white sugar",
+        "1 cup white vinegar",
+        "1 Tbsp salt",
+        "1 Tbsp celery seed",
+        "1 tsp mustard (optional)",
+        "¼ cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat together vinegar, sugar, salt, water, celery seed, and mustard to make the syrup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Grate or chop cabbage and other vegetables in a food processor."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the cabbage mixture with the syrup and refrigerate overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place in a container, seal, and freeze."
+        }
+      ],
+      "keywords": "freezer coleslaw, slaw, salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "freezer-cole-slaw-58",
+      "score": 0.6982258807356541
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Barley and Corn Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A hearty barley casserole with corn, carrots, and garlic, perfect as a comforting side dish.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 Tbsp oil",
+        "3 cups vegetable stock",
+        "1 onion, chopped",
+        "2 cups kernel corn (fresh or canned)",
+        "3 cloves garlic, minced",
+        "2 carrots, finely chopped",
+        "Chopped fresh parsley",
+        "1 cup pearl or pot barley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a heavy casserole. Cook onion, garlic, and carrots until the onion is softened, stirring frequently."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in barley and cook for 1-2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour in vegetable stock, cover, and bake at 350 °F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Test that barley is tender. Stir in corn and parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return to the oven to heat through. Season with pepper to taste."
+        }
+      ],
+      "keywords": "barley casserole, corn, carrots, comforting side dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "barley-and-corn-casserole-132",
+      "score": 0.6855589793902246
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Potato Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "6 diced and peeled potatoes",
+        "2 diced and peeled carrots",
+        "1 chopped onion",
+        "1 Oxo Chicken cube dissolved in 2 cups (8 oz) water + 1 cup water",
+        "6 Tbsp butter",
+        "6 Tbsp flour",
+        "Sour cream (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook vegetables (potatoes, carrots) in 6 cups water until tender, about 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Microwave onions and butter until soft, about 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked onion and butter mixture to the vegetables and stir."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a roux by stirring flour into 1 cup water until smooth, then add to the soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add more water (up to 1 more cup) to achieve desired consistency."
+        }
+      ],
+      "keywords": "potato soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "potato-soup-125",
+      "score": 0.6820172868766016
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburger Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "hamburger-pie-169",
+      "score": 0.6768395618207316
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Coleslaw Chalet Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (medium size) head cabbage, shredded",
+        "2 carrots, finely chopped",
+        "1 Spanish onion, minced",
+        "3 stalks celery, finely chopped",
+        "¾ cup white sugar",
+        "¾ cup salad oil",
+        "1 cup white vinegar",
+        "2 tsp salt",
+        "1 tsp celery seed",
+        "1 Green pepper, finely chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring all dressing ingredients to a boil and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
+        }
+      ],
+      "keywords": "coleslaw, chalet dressing, salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "coleslaw-chalet-dressing-57",
+      "score": 0.6722981719856325
+    }
+  ]
 }

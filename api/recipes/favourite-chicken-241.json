@@ -54,5 +54,312 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 10 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Broccoli",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 cup small shells pasta",
+        "1 can cream of mushroom soup",
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the small shells pasta according to package directions. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with a cranberry salad."
+        }
+      ],
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "chicken-and-broccoli-234",
+      "score": 0.7497817404608511
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Croutons",
+      "author": {
+        "@type": "Person",
+        "name": "Tanya Allen"
+      },
+      "description": "A creamy chicken casserole topped with Swiss cheese and crunchy croutons.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "8 chicken breast fillets",
+        "1 (8 oz) can mushrooms",
+        "8 slices Swiss cheese",
+        "1 (10 oz) can cream of chicken soup",
+        "½ cup milk",
+        "1 (6 oz) pkg croutons",
+        "¼ cup melted butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          }
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Rinse the chicken and pat dry, then arrange in a 9×13 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top each chicken fillet with a slice of Swiss cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cream of chicken soup, mushrooms, and milk in a bowl; mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the soup mixture over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the croutons with melted butter in a small bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the buttered croutons over the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, covered with foil, for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, for an additional 15 minutes until the top is browned.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "duration": "PT15M"
+        }
+      ],
+      "keywords": "chicken casserole, croutons, creamy chicken bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "url": "chicken-and-croutons-246",
+      "score": 0.7334197581967391
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken with a Chinese Accent",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the chicken to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken with rice."
+        }
+      ],
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chicken-with-a-chinese-accent-245",
+      "score": 0.7321836077935031
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sheila's Favourite Supper Dish",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Macgregor"
+      },
+      "description": "A layered casserole of chicken or pork chops, mushroom soup, and cheese, topped with Stove Top dressing.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeIngredient": [
+        "Chicken breasts or pork chops",
+        "1 can (condensed) mushroom soup",
+        "1/2 cup milk",
+        "1/2 cup shredded cheese",
+        "1 box Stove Top dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place chicken or pork chops in the bottom of a pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix mushroom soup and milk. Pour over the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheese on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with Stove Top dressing according to package directions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 300°F for 1 to 1 1/2 hours or until done."
+        }
+      ],
+      "keywords": "casserole, chicken or pork, mushroom soup, Stove Top dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "sheilas-favourite-supper-dish-253",
+      "score": 0.7188241059464298
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mushroom Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A creamy mushroom soup made with sautéed mushrooms, onions, and garlic in a rich milk-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp butter",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 cups sliced mushrooms",
+        "1/4 cup flour",
+        "2 cups stock (chicken or vegetable)",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "3 cups milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute butter, onion, garlic and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add flour and stir together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, sauces and milk."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until heated through (approximately 15 minutes)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "mushroom soup, creamy soup, comfort food",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "mushroom-soup-113",
+      "score": 0.709918833715546
+    }
+  ]
 }

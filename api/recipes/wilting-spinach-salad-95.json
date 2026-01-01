@@ -53,5 +53,283 @@
     "cookTime": "5 minutes",
     "totalTime": "15 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spinach Lettuce Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A fresh and versatile green salad with a homemade balsamic dressing and a crunchy topping made from toasted almonds, sesame seeds, and noodle soup mix.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeIngredient": [
+        "Dressing: ½ cup balsamic vinegar",
+        "½ cup olive oil",
+        "¼ cup white sugar",
+        "1½ cup soya sauce",
+        "Toppings: 1 Tbsp butter",
+        "1 pkg noodle soup mix (without seasoning packet)",
+        "1 pkg slivered almonds",
+        "1 pkg sesame seeds",
+        "Any type of green leafy vegetable (spinach, lettuce, broccoli, coleslaw)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dressing ingredients together and refrigerate until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a pan and add almonds, noodle soup mix (without spice packet), and sesame seeds. Toast until lightly browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the salad greens and store in the refrigerator."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, pour the dressing over the salad and top with the toasted almond mixture."
+        }
+      ],
+      "keywords": "spinach salad, lettuce salad, homemade dressing, crunchy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "spinach-lettuce-salad-83",
+      "score": 0.6932037664680205
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Strawberry Tossed Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Donelda Lewis"
+      },
+      "description": "A fresh and fruity salad with mixed greens, strawberries, and a sweet vinaigrette.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "4 cups torn Bibb or Boston lettuce",
+        "8 cups torn romaine lettuce",
+        "2½ cups sliced fresh strawberries",
+        "1 cup (4 oz) shredded Monterey Jack cheese",
+        "½ cup slivered almonds, toasted or coated with sugar",
+        "½ cup vegetable oil",
+        "⅓ cup white sugar",
+        "¼ cup cider or red wine vinegar",
+        "1 garlic clove, minced",
+        "¼ tsp salt",
+        "¼ tsp paprika",
+        "Pinch white pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the first 7 ingredients (oil, sugar, vinegar, garlic, salt, paprika, and white pepper) in a jar with a tight-fitting lid and shake well to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, toss salad greens, strawberries, cheese, and almonds in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle with the prepared dressing and toss to coat."
+        }
+      ],
+      "keywords": "strawberry salad, fruit salad, sweet salad dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "url": "strawberry-tossed-salad-96",
+      "score": 0.6611168862409947
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mandarin Orange Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic spinach and lettuce salad with mandarin oranges and toasted almonds, dressed with a sweet and tangy homemade vinaigrette.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 bunch romaine lettuce",
+        "1 leaf red tip lettuce",
+        "1 pkg fresh spinach",
+        "4 (10 oz) cans mandarin oranges, drained",
+        "1 cup slivered almonds, toasted",
+        "½ small red onion, chopped",
+        "Dressing:",
+        "½ cup sugar",
+        "¼ cup vinegar",
+        "1 tsp dry mustard",
+        "1 tsp salt",
+        "1 cup vegetable oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and clean the romaine lettuce, red tip lettuce, and spinach. Dry thoroughly and rip into bite-sized pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, combine sugar, vinegar, mustard, and salt. Bring to a boil, then allow to cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Once cooled, blend the dressing mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the prepared lettuce mixture about 10 minutes before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, add the drained mandarin oranges and toasted slivered almonds."
+        }
+      ],
+      "keywords": "mandarin orange salad, spinach salad, homemade dressing",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "url": "mandarin-orange-salad-88",
+      "score": 0.6437971108890727
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spinach Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Ruth Slaght"
+        },
+        {
+          "@type": "Person",
+          "name": "Jo Anne Pickering"
+        }
+      ],
+      "description": "A creamy spinach dip made with sour cream, mayonnaise, and Knorr vegetable soup mix, served in a hollowed-out pumpernickel bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "about 4 cups of dip",
+      "recipeIngredient": [
+        "1 pkg (300 g) frozen chopped spinach, thawed and drained",
+        "1 can (10 oz) water chestnuts, drained and chopped",
+        "2 cups (500 mL) sour cream",
+        "1 cup mayonnaise",
+        "1 pkg Knorr vegetable soup mix",
+        "3 green onions, chopped",
+        "1 large round pumpernickel bread loaf (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Squeeze excess moisture from the thawed spinach."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, combine the spinach, sour cream, mayonnaise, Knorr soup mix, water chestnuts, and green onions. Stir until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate for at least 2 hours to allow flavors to blend."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using a bread loaf, scoop out a large hollow through the top and fill with the dip mixture. Serve with bread cubes cut from the centre and/or assorted fresh vegetables."
+        }
+      ],
+      "keywords": "spinach dip, party appetizer, pumpernickel bread",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "url": "spinach-dip-16",
+      "score": 0.6414579898329772
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sauerkraut Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the dressing cool to room temperature."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the cooled dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+        }
+      ],
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "sauerkraut-salad-82",
+      "score": 0.6356959264993464
+    }
+  ]
 }

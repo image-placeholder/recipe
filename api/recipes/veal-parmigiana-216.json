@@ -59,5 +59,364 @@
     "cookTime": "30 minutes",
     "totalTime": "1 hour"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Parmesan Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Lorraine Bowers"
+      },
+      "description": "A crispy Parmesan-crusted chicken dish baked with spaghetti sauce and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT55M",
+      "totalTime": "PT1H10M",
+      "recipeIngredient": [
+        "Boneless chicken breasts",
+        "1/3 cup Parmesan cheese",
+        "1 1/3 cups dry bread crumbs",
+        "3 beaten eggs",
+        "1 tsp salt",
+        "1/4 tsp pepper",
+        "Spaghetti sauce",
+        "Grated mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix Parmesan cheese with bread crumbs and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix eggs, salt, and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dip boneless chicken breasts in egg mixture, then coat with bread crumb mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange coated chicken breasts in a baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with tinfoil and bake at 350°F for 45 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour spaghetti sauce over the chicken and continue baking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Before serving, sprinkle grated mozzarella cheese on top and bake for an additional 10 minutes until browned."
+        }
+      ],
+      "keywords": "Parmesan chicken, breaded chicken, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "55 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "parmesan-chicken-239",
+      "score": 0.7024764904928354
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Jelly Roll Style Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 loaf",
+      "recipeIngredient": [
+        "½ lb ground beef",
+        "3 cups shredded mozzarella cheese",
+        "1 beaten egg",
+        "½ cup cracker crumbs or dry bread crumbs",
+        "½ tsp basil",
+        "1 clove garlic, minced",
+        "½ cup minced onion",
+        "1 tsp salt",
+        "⅛ tsp pepper",
+        "2 (8 oz) cans tomato sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ground beef and mix thoroughly with hands until just combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain off fat and pour reserved tomato sauce on the roll."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 10 to 15 minutes before slicing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Decorate with tomato slices and green parsley on a serving tray."
+        }
+      ],
+      "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "url": "jelly-roll-style-meat-loaf-154",
+      "score": 0.6527351112628106
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta & Bean Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Fydenchuk"
+      },
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT15M",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
+        }
+      ],
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
+      },
+      "url": "pasta-bean-soup-111",
+      "score": 0.6523747486652436
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Turkey",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 tsp ground coriander",
+        "1½ tsp vegetable oil",
+        "¼ tsp salt",
+        "1 large chopped onion",
+        "½ tsp ground cumin",
+        "1 large chopped green pepper",
+        "¼ tsp cinnamon",
+        "2 chopped garlic cloves",
+        "2 to 3 Tbsp chili powder",
+        "1⅓ lb ground turkey",
+        "1 can red kidney beans",
+        "1¾ cups chicken broth",
+        "6 oz whole wheat spaghetti",
+        "3 tsp tomato paste",
+        "½ cup shredded cheese",
+        "1½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta as directed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+        }
+      ],
+      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chili-turkey-247",
+      "score": 0.6482891968295023
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Ann Haist"
+      },
+      "description": "A hearty pizza-inspired casserole with pasta, pepperoni, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeIngredient": [
+        "2 tsp margarine",
+        "2 cups tiny shell pasta",
+        "1 medium onion, chopped",
+        "2 1/2 qt boiling water",
+        "1 Tbsp oil",
+        "2 tsp salt",
+        "2 (7 1/2 oz) cans tomato sauce",
+        "10 oz can mushrooms, drained",
+        "3 Tbsp Parmesan cheese",
+        "1 tsp oregano",
+        "1 tsp basil",
+        "1 1/2 cups pepperoni slices",
+        "3 cups mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt margarine and sauté chopped onion until soft."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomato sauce, mushrooms, oregano, and basil. Stir and remove from heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta in boiling water with oil and salt for 8 to 10 minutes until tender but firm. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked pasta with Parmesan cheese and 1 cup mozzarella cheese in a 3-quart casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scatter pepperoni slices over the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the tomato-onion sauce and sprinkle with remaining mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, in a 350°F oven for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "pizza casserole, pasta bake, pepperoni, mozzarella cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "pizza-casserole-171",
+      "score": 0.6409550802577174
+    }
+  ]
 }

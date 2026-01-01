@@ -69,5 +69,306 @@
     "cookTime": "15 minutes",
     "totalTime": "35 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Continue cooking gently for another 2 hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-177",
+      "score": 0.8251730583595509
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-187",
+      "score": 0.8251730583595509
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Turkey",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 tsp ground coriander",
+        "1½ tsp vegetable oil",
+        "¼ tsp salt",
+        "1 large chopped onion",
+        "½ tsp ground cumin",
+        "1 large chopped green pepper",
+        "¼ tsp cinnamon",
+        "2 chopped garlic cloves",
+        "2 to 3 Tbsp chili powder",
+        "1⅓ lb ground turkey",
+        "1 can red kidney beans",
+        "1¾ cups chicken broth",
+        "6 oz whole wheat spaghetti",
+        "3 tsp tomato paste",
+        "½ cup shredded cheese",
+        "1½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta as directed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+        }
+      ],
+      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chili-turkey-247",
+      "score": 0.8162845068205047
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caribbean Chicken Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Caribbean-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1½ cups chicken broth",
+        "2 cups cut up chicken breast",
+        "1 green pepper, diced",
+        "1 small red onion, chopped fine",
+        "1 mango, thinly sliced",
+        "1 small can pineapple, diced and drained",
+        "2 celery stalks, diced",
+        "⅓ cup Kraft Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the Minute Rice in chicken broth according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chicken breast meat in a little oil until fully cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
+        }
+      ],
+      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "caribbean-chicken-salad-70",
+      "score": 0.7756759109389825
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ken Noodle Supper",
+      "author": {
+        "@type": "Person",
+        "name": "Mary Jefferies"
+      },
+      "description": "A hearty chicken and noodle supper with a creamy sauce, mixed vegetables, and a blend of herbs.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 lb boneless, skinless chicken breasts",
+        "½ tsp salt",
+        "½ tsp pepper",
+        "3 Tbsp flour",
+        "1 Tbsp butter",
+        "3 cups milk",
+        "1 Tbsp vegetable oil",
+        "1 Tbsp Dijon mustard",
+        "1 large onion, chopped",
+        "3 cups uncooked egg noodles",
+        "1 cup sliced mushrooms",
+        "1 pkg (10 oz/300 g) frozen mixed vegetables",
+        "1 clove garlic",
+        "½ tsp dried basil",
+        "½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut chicken into 1 inch cubes. Cook in butter in a large skillet over medium heat for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion, mushrooms, and garlic. Cook until onion is tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, pepper, and herbs. Cook until thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually add milk, stirring constantly. Bring to a boil and simmer for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mustard and noodles. Return to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add frozen vegetables. Stir and cook for 10 minutes before serving."
+        }
+      ],
+      "keywords": "chicken noodle supper, creamy sauce, comfort food",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "ken-noodle-supper-240",
+      "score": 0.7739962014748402
+    }
+  ]
 }

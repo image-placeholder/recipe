@@ -47,5 +47,283 @@
     "cookTime": "5 minutes",
     "totalTime": null
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Plain Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A simple recipe for pickled eggs with a tangy cider vinegar brine and sliced onions.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "1 tsp pickling spice",
+        "2 cups cider vinegar",
+        "1 large onion, sliced into rings",
+        "12 hard-boiled eggs, shelled",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except eggs and onion rings in a stainless steel or enamel pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil and simmer for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large jar, alternate layers of eggs and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the heated liquid over the eggs and onions, ensuring all are covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
+        }
+      ],
+      "keywords": "pickled eggs, cider vinegar, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "url": "plain-pickled-eggs-30",
+      "score": 0.8840363948558908
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fancy Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A variation of pickled eggs with beets, giving them a distinctive purple color and sweet flavor.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "1 (16 oz) can sliced beets",
+        "½ tsp ground cloves",
+        "2 bay leaves",
+        "2 Tbsp sugar",
+        "½ tsp celery seed",
+        "1 large onion, sliced into rings",
+        "1 tsp salt",
+        "2 cups cider vinegar",
+        "12 large boiled eggs (shells removed)",
+        "1 cinnamon stick"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In an enamel or stainless steel saucepan, combine all ingredients except eggs and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil and simmer for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large glass jar, alternate layers of eggs, beets, and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the heated liquid into the jar, ensuring all layers are covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
+        }
+      ],
+      "keywords": "pickled eggs, beets, appetizer, purple eggs",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "fancy-pickled-eggs-31",
+      "score": 0.868577309842958
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hard Boiled Eggs/Devilled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Missy MacLeod"
+      },
+      "description": "A classic deviled egg recipe with a creamy yolk filling, garnished with paprika and optional olive slices.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "24 deviled eggs",
+      "recipeIngredient": [
+        "1 dozen (12) eggs, hard-boiled and peeled",
+        "Mayonnaise",
+        "Mustard (optional)",
+        "Chives (optional)",
+        "Pickle relish (optional)",
+        "Paprika",
+        "Olive slices (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place the eggs in a covered saucepan with enough cold water to cover them. Bring to a rapid boil, then turn off the heat and let stand for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cool the eggs by filling the pot with cold water and changing it frequently until the eggs are cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the shells and rinse the eggs to remove any bits of shell."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice the eggs in half lengthwise and carefully scoop out the yolks into a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mash the yolks with a fork or pastry blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise and mix until the yolks reach a creamy consistency. Optionally add mustard, chives, and pickle relish to taste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scoop the yolk mixture back into the egg white halves."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with paprika and/or olive slices as desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill the deviled eggs until ready to serve."
+        }
+      ],
+      "keywords": "deviled eggs, hard-boiled eggs, appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "hard-boiled-eggsdevilled-eggs-34",
+      "score": 0.7388977414802235
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Louise Wein"
+        }
+      ],
+      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 serving dish",
+      "recipeIngredient": [
+        "1 tsp Accent",
+        "1 cup sour cream",
+        "¼ tsp salt",
+        "1 cup mayonnaise",
+        "¼ tsp celery salt",
+        "1 tsp parsley flakes",
+        "2 drops Tabasco sauce (can be omitted)",
+        "½ tsp dill weed",
+        "1 tsp garlic salt",
+        "Assorted vegetables or crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill before serving with chips, crackers, or vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, sour cream dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "vegetable-dip-17",
+      "score": 0.7261525560375138
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "vegetable-dip-18",
+      "score": 0.7261525560375138
+    }
+  ]
 }

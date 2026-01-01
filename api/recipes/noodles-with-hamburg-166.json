@@ -62,5 +62,309 @@
     "cookTime": "20 minutes",
     "totalTime": "40 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Continue cooking gently for another 2 hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-177",
+      "score": 0.8260180449993053
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-187",
+      "score": 0.8260180449993053
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburg Noodle Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Grace Yearley"
+      },
+      "description": "A hearty casserole made with ground beef, noodles, and a blend of creamy soups and cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb ground beef",
+        "1 can cream of mushroom soup",
+        "1 medium onion",
+        "2 cans sliced mushrooms, drained",
+        "1 jar Ragu (700 mL)",
+        "1 pkg cooked elbow macaroni",
+        "1 can cream of celery soup",
+        "1 can cream of chicken soup",
+        "1 cup shredded mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef and onion, then add the mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the cooked ground beef mixture, soups, noodles, and Ragu. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to casserole dishes and top with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until the cheese is melted."
+        }
+      ],
+      "keywords": "casserole, ground beef, noodle dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "hamburg-noodle-casserole-172",
+      "score": 0.8149121335071556
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Macaroni Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A comforting macaroni and meat casserole topped with cheese and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeIngredient": [
+        "2 cups macaroni",
+        "1½ lb hamburger",
+        "1 medium onion, chopped",
+        "½ green pepper, chopped",
+        "1 can stewed tomatoes",
+        "1 can mushrooms",
+        "1 can mushroom soup",
+        "½ cup ketchup",
+        "1 tsp oregano",
+        "1 tsp basil",
+        "½ tsp onion powder",
+        "½ tsp garlic powder",
+        "Dash salt and pepper",
+        "1 to 2 cups grated cheese (e.g., cheddar, mozzarella, Monterey Jack)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the macaroni, drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown hamburger, adding onions, green pepper and mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the spices, ketchup and tomatoes. Reduce heat and simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the macaroni and meat mixture in a large casserole dish and mix."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mushroom soup across the top, covering the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the cheese on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake in 350°F oven for ½ hour."
+        }
+      ],
+      "keywords": "macaroni casserole, cheesy pasta bake, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "macaroni-casserole-175",
+      "score": 0.8118498842244131
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Baked Spaghetti and Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A hearty baked pasta dish featuring meatballs, spaghetti, and a rich tomato-based sauce topped with melted mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT30M",
+      "cookTime": "PT35M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, finely chopped",
+        "1 egg",
+        "3 splashes Worcestershire sauce",
+        "½ tsp black pepper",
+        "28 oz can diced tomatoes",
+        "10 oz can chopped mushrooms",
+        "½ cup chopped green pepper (optional)",
+        "½ tsp oregano",
+        "1 cup sour cream",
+        "Broken spaghetti (4 to 6 servings)",
+        "1½ cups grated mozzarella cheese",
+        "24 oz can spaghetti sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and start boiling water for cooking spaghetti."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, mix ground beef, chopped onion, egg, Worcestershire sauce, and black pepper. Form into meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fry the meatballs in a skillet until completely cooked, turning gently with tongs. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, green pepper, and oregano to the skillet. Simmer for approximately 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti until 'al dente', then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked spaghetti with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the spaghetti mixture into a greased 6-cup casserole dish. Sprinkle with half of the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the sauce and meatball mixture. Bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for an additional 5 to 10 minutes, or until the cheese is melted."
+        }
+      ],
+      "keywords": "baked spaghetti, meatballs, Italian-American casserole",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "baked-spaghetti-and-meatballs-176",
+      "score": 0.8068256075928519
+    }
+  ]
 }

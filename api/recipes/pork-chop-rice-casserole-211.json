@@ -62,5 +62,295 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "2 hours"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ginger Noodle Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A flavorful and aromatic Asian-inspired soup featuring pork, ginger, and rice stick noodles in a savory chicken broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Asian",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 pork chop, sliced into small pieces",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 Tbsp chopped ginger root",
+        "2 Tbsp soy sauce",
+        "4 cups chicken stock",
+        "1/3 cup hoisin sauce",
+        "1 carrot, shredded",
+        "1/2 cup sliced mushrooms",
+        "1 cup rice stick noodles",
+        "1 green onion, thinly sliced",
+        "1/2 cup bean sprouts",
+        "4 sprigs coriander (cilantro)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan brown pork over medium heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion, garlic, ginger, hoisin sauce and soy sauce. Cook for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add rest of ingredients, bring to a boil, reduce heat and simmer 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with green onion and coriander."
+        }
+      ],
+      "keywords": "ginger noodle soup, Asian soup, pork soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "ginger-noodle-soup-114",
+      "score": 0.7962789652432993
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Oven Barbecued Pork Chops",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Dinney"
+      },
+      "description": "Pork chops marinated in a barbecue sauce and baked in the oven.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 pork loin chops (about 2 lb)",
+        "2 Tbsp packed brown sugar",
+        "3/4 cup ketchup",
+        "1 Tbsp Worcestershire sauce",
+        "1/3 cup chopped onion",
+        "1 tsp chili powder",
+        "1 clove minced garlic",
+        "1/2 tsp dried mustard",
+        "1/4 cup vinegar",
+        "1/2 tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Trim fat from pork chops and place in a single layer in a 13x9 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine ketchup, onions, garlic, vinegar, sugar, Worcestershire sauce, chili powder, mustard, and oregano in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the chops and marinate in the refrigerator for at least 1 hour or up to 8 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with foil and bake in a 350°F oven for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and bake, spooning sauce over chops occasionally, for 15 to 30 minutes or until tender."
+        }
+      ],
+      "keywords": "pork chops, barbecue, oven baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "oven-barbecued-pork-chops-210",
+      "score": 0.7926553392840537
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Turkey A La King",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A creamy turkey dish made with mushrooms, celery, and green pepper, served over toast or rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅓ cup butter",
+        "1 tsp salt",
+        "¼ lb mushrooms, sliced",
+        "1 cup chicken broth",
+        "¼ cup chopped onion",
+        "1 cup milk",
+        "2 cups cooked diced turkey",
+        "¼ cup chopped celery",
+        "¼ cup chopped green pepper",
+        "¼ cup flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt butter over medium heat. Add mushrooms, onion, celery, and green pepper. Cook until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove vegetables from skillet with a slotted spoon and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In the same skillet, blend flour into the butter to make a roux. Gradually add chicken broth and milk, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring mixture to a boil and cook for 2 minutes, or until it thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add reserved turkey and vegetables to the sauce. Heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over hot toast, biscuits, or rice."
+        }
+      ],
+      "keywords": "turkey a la king, creamy turkey, mushrooms, celery, green pepper",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "turkey-a-la-king-248",
+      "score": 0.7452346230616197
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "score": 0.7408396662492179
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pork Chops with Dried Fruit",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A savory and sweet dish featuring pork chops cooked with assorted dried fruits in a flavorful orange juice sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 pork chops",
+        "1½ cups assorted dried fruit (apples, peaches, pears, apricots, raisins)",
+        "1 Tbsp vegetable oil",
+        "2 cups orange juice, divided",
+        "1½ tsp cornstarch",
+        "¼ tsp allspice",
+        "½ tsp Worcestershire sauce",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat a large skillet over medium-high heat. Add oil and cook pork chops until golden brown on each side, about 6 to 8 minutes per side. Remove chops to a plate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat, add 1 cup orange juice to the skillet, and scrape any browned bits from the pan. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining orange juice, dried fruit, Worcestershire sauce, and allspice. Simmer for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cornstarch with a small amount of water or juice. Stir into the skillet and cook until the sauce thickens, about 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return pork chops to the skillet and cook until heated through. Serve with rice or couscous."
+        }
+      ],
+      "keywords": "pork chops, dried fruit, orange juice sauce, savory sweet dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "pork-chops-with-dried-fruit-206",
+      "score": 0.7372292997844583
+    }
+  ]
 }

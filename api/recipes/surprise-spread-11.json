@@ -59,5 +59,276 @@
     "cookTime": null,
     "totalTime": null
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Shrimp Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 can shrimp cocktail",
+        "3 green onions, finely chopped",
+        "1 tsp garlic powder",
+        "1 (8 oz) package cream cheese, softened",
+        "1 tsp Worcestershire sauce",
+        "1½ cups shredded cheddar cheese",
+        "Miracle Whip (as needed for consistency)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a medium bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mash the shrimp with a fork until well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate before serving with crackers."
+        }
+      ],
+      "keywords": "shrimp spread, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "url": "shrimp-spread-10",
+      "score": 0.7860839731430701
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab & Cheese Platter",
+      "author": {
+        "@type": "Person",
+        "name": "Dob (Finkboiner) Lord"
+      },
+      "description": "A layered seafood appetizer featuring a creamy cheese base topped with cocktail sauce and crab meat.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 platter",
+      "recipeIngredient": [
+        "2 large packages (8 oz each) cream cheese",
+        "2 Tbsp onion flakes",
+        "1 large bottle seafood cocktail sauce",
+        "2 Tbsp lemon juice",
+        "2 Tbsp Worcestershire sauce",
+        "1 can crab meat",
+        "2 Tbsp mayonnaise"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, lemon juice, Worcestershire sauce, mayonnaise and onion flakes in a blender, or beat with an electric mixer, until smooth and creamy."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cheese mixture evenly over the surface of a large round platter, leaving room around the outside for a row of crackers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Press the centre of the cheese mixture down lightly to make a slightly raised border, about ½ to 1 in wide, around the outer edge."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread seafood cocktail sauce over the cheese layer within this border, leaving an outside rim of the cheese layer showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the crab meat and spread it over the sauce layer, again leaving a border of seafood sauce showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers or vegetables."
+        }
+      ],
+      "keywords": "crab dip, layered platter, seafood appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-cheese-platter-7",
+      "score": 0.7347249044539352
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Party Salmon Ball",
+      "author": {
+        "@type": "Person",
+        "name": "Tanya Allen"
+      },
+      "description": "A classic chilled salmon and cream cheese ball coated in crunchy nuts and parsley.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H15M",
+      "recipeYield": "1 cheese ball",
+      "recipeIngredient": [
+        "1 (8 oz) pkg cream cheese, softened",
+        "1 (16 oz) can salmon, drained and flaked",
+        "¼ tsp Liquid Smoke",
+        "¼ tsp salt",
+        "1 Tbsp finely chopped onion",
+        "⅓ cup nuts",
+        "¼ cup parsley flakes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together except for the nuts and parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into a ball."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate for at least 8 hours (but no longer than 4 days)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll the ball in a mixture of nuts and parsley to coat evenly before serving."
+        }
+      ],
+      "keywords": "salmon ball, cheese ball, party dip, holiday appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 15 minutes"
+      },
+      "url": "party-salmon-ball-8",
+      "score": 0.6937514526503132
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cottage Cheese Jellied Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jean E. Neil"
+      },
+      "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 oz package orange or lemon flavored gelatin",
+        "1 cup boiling water",
+        "1 cup drained crushed pineapple",
+        "½ cup chopped walnuts (optional)",
+        "½ cup mayonnaise",
+        "1 cup cottage cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve gelatin in boiling water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise and whisk to blend."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until the mixture starts to set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
+        }
+      ],
+      "keywords": "cottage cheese salad, jellied salad, pineapple salad",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "url": "cottage-cheese-jellied-salad-66",
+      "score": 0.6797822346773349
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Meghan Brand"
+      },
+      "description": "A creamy and flavorful dip made with cream cheese, sour cream, and taco seasoning, topped with salsa, cheese, and chopped vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 large glass pan",
+      "recipeIngredient": [
+        "8 oz pkg cream cheese",
+        "500 g tub sour cream",
+        "¼ pkg taco seasoning mix",
+        "1 cup shredded cheddar cheese",
+        "1 small container salsa sauce",
+        "1 chopped red pepper",
+        "1 chopped green pepper",
+        "1 chopped tomato",
+        "Baked nacho chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cream cheese, sour cream, and taco seasoning mix until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the mixture in a large glass pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread salsa sauce over the cream cheese layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese over the salsa layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped red pepper, green pepper, and tomato on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with baked nacho chips."
+        }
+      ],
+      "keywords": "nacho dip, creamy dip, taco seasoning, salsa dip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "nacho-dip-29",
+      "score": 0.6764797614808064
+    }
+  ]
 }

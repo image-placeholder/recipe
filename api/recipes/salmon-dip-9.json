@@ -44,5 +44,240 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Party Salmon Ball",
+      "author": {
+        "@type": "Person",
+        "name": "Tanya Allen"
+      },
+      "description": "A classic chilled salmon and cream cheese ball coated in crunchy nuts and parsley.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H15M",
+      "recipeYield": "1 cheese ball",
+      "recipeIngredient": [
+        "1 (8 oz) pkg cream cheese, softened",
+        "1 (16 oz) can salmon, drained and flaked",
+        "¼ tsp Liquid Smoke",
+        "¼ tsp salt",
+        "1 Tbsp finely chopped onion",
+        "⅓ cup nuts",
+        "¼ cup parsley flakes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together except for the nuts and parsley."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shape the mixture into a ball."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate for at least 8 hours (but no longer than 4 days)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll the ball in a mixture of nuts and parsley to coat evenly before serving."
+        }
+      ],
+      "keywords": "salmon ball, cheese ball, party dip, holiday appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 15 minutes"
+      },
+      "url": "party-salmon-ball-8",
+      "score": 0.7713919223855796
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Louise Wein"
+        }
+      ],
+      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 serving dish",
+      "recipeIngredient": [
+        "1 tsp Accent",
+        "1 cup sour cream",
+        "¼ tsp salt",
+        "1 cup mayonnaise",
+        "¼ tsp celery salt",
+        "1 tsp parsley flakes",
+        "2 drops Tabasco sauce (can be omitted)",
+        "½ tsp dill weed",
+        "1 tsp garlic salt",
+        "Assorted vegetables or crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill before serving with chips, crackers, or vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, sour cream dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "vegetable-dip-17",
+      "score": 0.7214078625130574
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "vegetable-dip-18",
+      "score": 0.7214078625130574
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Yogurt Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A refreshing yogurt-based dip flavored with mayonnaise, herbs, and seasonings, perfect for vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H10M",
+      "recipeIngredient": [
+        "½ cup sour cream or plain yogurt",
+        "2/3 cup mayonnaise",
+        "1 Tbsp dry onion flakes",
+        "1 tsp Accent",
+        "1 tsp seasoning salt",
+        "½ tsp dill weed",
+        "½ tsp Worcestershire sauce",
+        "1 Tbsp parsley",
+        "Vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let sit in the fridge for 1 hour to allow flavors to meld."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with vegetables."
+        }
+      ],
+      "keywords": "yogurt dip, healthy dip, vegetable dip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "yogurt-dip-19",
+      "score": 0.7094978459610849
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fruit Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 cup",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 tsp frozen orange juice concentrate",
+        "½ cup marshmallow creme",
+        "1 tsp grated orange rind"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a dish and beat until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with fresh cut-up fruit."
+        }
+      ],
+      "keywords": "fruit dip, orange cream cheese, marshmallow dip",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "fruit-dip-24",
+      "score": 0.6944880431175497
+    }
+  ]
 }

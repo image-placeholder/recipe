@@ -35,5 +35,243 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fruit Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 cup",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 tsp frozen orange juice concentrate",
+        "½ cup marshmallow creme",
+        "1 tsp grated orange rind"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a dish and beat until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with fresh cut-up fruit."
+        }
+      ],
+      "keywords": "fruit dip, orange cream cheese, marshmallow dip",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "fruit-dip-24",
+      "score": 0.7111281874801215
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange Julius Drink",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A creamy and refreshing orange drink made with frozen orange juice concentrate, milk, and vanilla.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "About 5 cups",
+      "recipeIngredient": [
+        "3/4 cup frozen concentrated orange juice",
+        "2 Tbsp white sugar",
+        "2 tsp vanilla",
+        "1 cup milk",
+        "1 cup water",
+        "12 ice cubes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend the orange juice concentrate, sugar, vanilla, milk, and water in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ice cubes just before serving and blend until the ice is fully incorporated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately and enjoy."
+        }
+      ],
+      "keywords": "orange drink, creamy beverage, frozen orange juice",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "orange-julius-drink-56",
+      "score": 0.6697877788589519
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange Jello Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Macisaac"
+      },
+      "description": "A simple orange Jello salad with mandarin oranges and Dream Whip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1½ cups hot water",
+        "1 small package orange Jello",
+        "1 small package Dream Whip (not pudding or instant vanilla)",
+        "1 can mandarin oranges"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put the first 3 ingredients into a saucepan and cook until clear."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cool the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix Dream Whip according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain oranges and add Dream Whip and oranges to the cooled mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Allow to cool completely before serving."
+        }
+      ],
+      "keywords": "orange Jello salad, mandarin oranges, Dream Whip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "orange-jello-salad-75",
+      "score": 0.6502861414112271
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pina Colada Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A creamy and tropical dip made with pineapple, coconut pudding, and sour cream, perfect for serving with fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PTOvernight",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 small can crushed pineapple, undrained",
+        "¾ cup milk",
+        "½ cup sour cream",
+        "3½ oz package instant coconut pudding and pie filling (or 1 vanilla pudding and ¼ cup shredded coconut with coconut extract)",
+        "½ tsp coconut extract"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together in a food processor or blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate overnight to allow flavors to meld."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve chilled with a variety of fresh fruits."
+        }
+      ],
+      "keywords": "pina colada dip, fruit dip, coconut pudding, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": null
+      },
+      "url": "pina-colada-dip-23",
+      "score": 0.6409854188930129
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange-Pineapple Jello",
+      "author": {
+        "@type": "Person",
+        "name": "Shelley Kinsman"
+      },
+      "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1 package orange Jello",
+        "1 cup mini marshmallows",
+        "1 small can crushed pineapple",
+        "½ cup frozen orange juice concentrate",
+        "1 package Dream Whip",
+        "½ cup pecans"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain pineapple and reserve syrup. Add water to make ¾ cup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the liquid to boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place Jello in a bowl and add hot liquid, pineapple, and orange juice concentrate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until thickish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fold in Dream Whip along with marshmallows and pecans."
+        }
+      ],
+      "keywords": "orange-pineapple Jello, fruity dessert, nuts",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "orange-pineapple-jello-76",
+      "score": 0.6232307105757329
+    }
+  ]
 }

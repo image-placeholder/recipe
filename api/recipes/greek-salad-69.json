@@ -54,5 +54,287 @@
     "cookTime": "",
     "totalTime": "1 hour 20 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caesar Dressin' Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Towton"
+      },
+      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "½ tsp Worcestershire sauce",
+        "3 garlic cloves",
+        "½ tsp dry mustard",
+        "2 beaten egg yolks",
+        "½ tsp salt",
+        "½ cup lemon juice",
+        "Dash pepper",
+        "1 cup oil",
+        "¼ cup white sugar",
+        "1 cup Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Can be kept in the fridge for up to 2 weeks."
+        }
+      ],
+      "keywords": "Caesar dressing, homemade salad dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "caesar-dressin-salad-101",
+      "score": 0.7253853300511761
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caesar Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A classic Caesar salad recipe with romaine lettuce, crumbled bacon, croutons, and a homemade dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 romaine lettuce",
+        "6 slices bacon, cooked and crumbled",
+        "1 tsp wine vinegar",
+        "½ tsp Worcestershire sauce",
+        "2 shakes Tabasco sauce",
+        "Croutons",
+        "1 egg",
+        "1 tsp capers (optional)",
+        "3 to 4 mashed anchovies",
+        "Dressing (keeps 2 days):",
+        "⅓ cup olive oil",
+        "1 clove garlic, minced",
+        "2 Tbsp lemon",
+        "½ tsp dry mustard",
+        "¼ tsp salt and pepper",
+        "2 Tbsp Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Rub salad bowl with garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wash and tear lettuce. Dry in a tea towel."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place lettuce in bowl with bacon and croutons."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend dressing ingredients together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over salad and toss until leaves are coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with freshly grated Parmesan."
+        }
+      ],
+      "keywords": "Caesar salad, bacon, croutons, homemade dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "caesar-salad-59",
+      "score": 0.7112555985683877
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Van Valkengoed"
+      },
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta according to package instructions, then drain and cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the feta cheese into the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+        }
+      ],
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "pasta-salad-85",
+      "score": 0.698867351659118
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Grape Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A refreshing salad made with cooked chicken, green grapes, celery, and toasted almonds, mixed with a creamy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1½ cups cooked chicken, cubed",
+        "1½ cups green grapes, halved",
+        "½ cup celery, thinly sliced",
+        "Toasted almonds",
+        "¼ cup mayonnaise",
+        "1 Tbsp milk or cream",
+        "½ tsp salt",
+        "¼ tsp dry mustard",
+        "⅛ tsp pepper",
+        "½ tsp lemon juice",
+        "Lettuce for serving",
+        "Parsley for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine dressing ingredients in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss chicken, grapes, celery, and almonds together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken mixture on lettuce and garnish with parsley."
+        }
+      ],
+      "keywords": "chicken salad, grape salad, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "chicken-grape-salad-65",
+      "score": 0.6842547856508181
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tomato Macaroni Soup",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Linda Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Shirley Preszcator"
+        }
+      ],
+      "description": "A hearty and comforting soup featuring macaroni, vegetables, and a rich tomato broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 Tbsp oil",
+        "1½ cups water",
+        "1 cooking onion, diced",
+        "1 cup dry macaroni",
+        "2 carrots, diced",
+        "½ tsp garlic salt",
+        "3 or 4 celery stalks, diced",
+        "½ tsp Worcestershire sauce",
+        "2 cups chicken stock",
+        "2 cups tomato juice",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute onion, celery, and carrot in oil until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add stock, juice, and water. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add pasta and cook until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic salt and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season to taste with salt and pepper."
+        }
+      ],
+      "keywords": "tomato macaroni soup, comfort food, pasta soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "tomato-macaroni-soup-123",
+      "score": 0.6771585586804494
+    }
+  ]
 }

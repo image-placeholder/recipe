@@ -62,5 +62,327 @@
     "cookTime": "25 minutes",
     "totalTime": "40 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheeseburger Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H40M",
+      "recipeYield": "1 meatloaf",
+      "recipeIngredient": [
+        "1½ lb lean ground hamburger",
+        "½ tsp garlic salt",
+        "½ cup fine bread crumbs",
+        "1 tsp onion powder",
+        "1 egg",
+        "1 can (8 oz) tomato sauce",
+        "¼ cup parsley flakes",
+        "½ cup finely chopped onion",
+        "1 tsp salt",
+        "1 cup shredded cheddar cheese",
+        "⅛ tsp pepper",
+        "½ tsp seasoning salt",
+        "½ cup sweet pickle relish"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a mixing bowl, combine ground beef, egg, bread crumbs, garlic salt, onion powder, salt, pepper, and seasoning salt. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix chopped onion and tomato sauce together in a separate bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add half of the tomato sauce and onion mixture to the beef mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack half of the beef mixture into a loaf pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese and sweet pickle relish evenly over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack the remaining beef mixture on top and press firmly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated oven at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully spoon off excess fat from the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the remaining tomato sauce and onion mixture over the meatloaf."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
+        }
+      ],
+      "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 40 minutes"
+      },
+      "url": "cheeseburger-meat-loaf-157",
+      "score": 0.7040108108911096
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheesy Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Pam Allen"
+      },
+      "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "1 loaf",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "¾ cup bread crumbs",
+        "1 beaten egg",
+        "½ cup chopped onions",
+        "¼ cup chopped green pepper",
+        "¼ cup ketchup",
+        "¾ tsp salt",
+        "1 cup cheese, cut into small cubes",
+        "⅛ tsp pepper",
+        "Chili sauce (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "meat loaf, cheesy, ground beef, baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "cheesy-meat-loaf-153",
+      "score": 0.6955172560365395
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheese Dip in a Bread Bowl",
+      "author": {
+        "@type": "Person",
+        "name": "Sherri Haugh"
+      },
+      "description": "A warm cheese and ham dip served in a hollowed-out bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round bread loaf",
+        "1½ cups chopped ham",
+        "1 (8 oz) package cream cheese",
+        "1½ cups sour cream",
+        "½ cup chopped green pepper",
+        "½ cup chopped green onion",
+        "2 cups shredded cheddar cheese",
+        "1 shake Tabasco sauce",
+        "1 shake Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the bread loaf and hollow out most of the soft bread inside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, sour cream, ham, green pepper, green onion, cheddar cheese, Tabasco sauce, and Worcestershire sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fill the hollowed bread loaf with the cheese mixture and replace the lid."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil and bake at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the reserved bread chunks and fresh veggies for dipping."
+        }
+      ],
+      "keywords": "bread bowl dip, ham and cheese dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "url": "cheese-dip-in-a-bread-bowl-4",
+      "score": 0.6879101576142752
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Turkey",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 tsp ground coriander",
+        "1½ tsp vegetable oil",
+        "¼ tsp salt",
+        "1 large chopped onion",
+        "½ tsp ground cumin",
+        "1 large chopped green pepper",
+        "¼ tsp cinnamon",
+        "2 chopped garlic cloves",
+        "2 to 3 Tbsp chili powder",
+        "1⅓ lb ground turkey",
+        "1 can red kidney beans",
+        "1¾ cups chicken broth",
+        "6 oz whole wheat spaghetti",
+        "3 tsp tomato paste",
+        "½ cup shredded cheese",
+        "1½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta as directed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+        }
+      ],
+      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chili-turkey-247",
+      "score": 0.6588754059776877
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hot Cheese Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A creamy bacon and cheddar dip baked inside a pumpernickel bread shell.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round pumpernickel bread loaf",
+        "1 (8 oz) package cream cheese",
+        "1 cup Hellmann's mayonnaise",
+        "½ cup grated cheddar cheese",
+        "½ cup bacon bits"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the pumpernickel loaf and hollow it out, leaving a thick shell."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream cheese, mayonnaise, cheddar cheese, and bacon bits until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mixture into the hollowed-out bread."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil, leaving the hole with the cheese mixture uncovered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325°F for 1½ hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the bread pieces."
+        }
+      ],
+      "keywords": "pumpernickel dip, hot bacon dip, cheddar dip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "hot-cheese-dip-5",
+      "score": 0.6505619788815014
+    }
+  ]
 }

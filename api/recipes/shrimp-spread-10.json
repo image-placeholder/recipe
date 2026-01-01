@@ -40,5 +40,264 @@
     "cookTime": null,
     "totalTime": null
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Surprise Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A layered seafood dip with shrimp, cocktail sauce, and cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "recipeYield": "1 large platter",
+      "recipeIngredient": [
+        "8 oz cream cheese, softened",
+        "½ cup sour cream",
+        "¼ cup mayonnaise",
+        "3 (4 oz) cans small shrimp, rinsed and drained",
+        "2 cups seafood cocktail sauce",
+        "2 cups shredded mozzarella cheese",
+        "1 green pepper, chopped",
+        "3 green onions, chopped",
+        "1 tomato, diced (optional)",
+        "Tortilla chips or assorted crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream cheese, sour cream, and mayonnaise together until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread this mixture in the bottom of a deep pie plate, pizza pan, or shallow baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scatter the shrimp over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the seafood cocktail sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add layers of mozzarella cheese, green pepper, and green onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with diced tomatoes if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve with tortilla chips or crackers."
+        }
+      ],
+      "keywords": "layered shrimp dip, seafood spread, party dip",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "url": "surprise-spread-11",
+      "score": 0.7860839731430701
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab & Cheese Platter",
+      "author": {
+        "@type": "Person",
+        "name": "Dob (Finkboiner) Lord"
+      },
+      "description": "A layered seafood appetizer featuring a creamy cheese base topped with cocktail sauce and crab meat.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 platter",
+      "recipeIngredient": [
+        "2 large packages (8 oz each) cream cheese",
+        "2 Tbsp onion flakes",
+        "1 large bottle seafood cocktail sauce",
+        "2 Tbsp lemon juice",
+        "2 Tbsp Worcestershire sauce",
+        "1 can crab meat",
+        "2 Tbsp mayonnaise"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, lemon juice, Worcestershire sauce, mayonnaise and onion flakes in a blender, or beat with an electric mixer, until smooth and creamy."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cheese mixture evenly over the surface of a large round platter, leaving room around the outside for a row of crackers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Press the centre of the cheese mixture down lightly to make a slightly raised border, about ½ to 1 in wide, around the outer edge."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread seafood cocktail sauce over the cheese layer within this border, leaving an outside rim of the cheese layer showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the crab meat and spread it over the sauce layer, again leaving a border of seafood sauce showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers or vegetables."
+        }
+      ],
+      "keywords": "crab dip, layered platter, seafood appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-cheese-platter-7",
+      "score": 0.763398913215463
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Lori Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Louise Wein"
+        }
+      ],
+      "description": "A creamy dip made with sour cream and mayonnaise, flavored with various seasonings and herbs, served with vegetables or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 serving dish",
+      "recipeIngredient": [
+        "1 tsp Accent",
+        "1 cup sour cream",
+        "¼ tsp salt",
+        "1 cup mayonnaise",
+        "¼ tsp celery salt",
+        "1 tsp parsley flakes",
+        "2 drops Tabasco sauce (can be omitted)",
+        "½ tsp dill weed",
+        "1 tsp garlic salt",
+        "Assorted vegetables or crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill before serving with chips, crackers, or vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, sour cream dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "vegetable-dip-17",
+      "score": 0.7514412275651554
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Vegetable Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jacqui Wein"
+      },
+      "description": "A creamy and tangy dip made with Miracle Whip, perfect for serving with fresh vegetables.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 cup Miracle Whip",
+        "1/8 tsp garlic salt",
+        "1 tsp Worcestershire sauce",
+        "2 tsp minced onion",
+        "2 tsp chopped celery",
+        "2 hard-boiled eggs, finely chopped",
+        "2 tsp vinegar",
+        "Fresh vegetables for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with fresh vegetables."
+        }
+      ],
+      "keywords": "vegetable dip, Miracle Whip dip, easy appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "vegetable-dip-18",
+      "score": 0.7514412275651554
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers."
+        }
+      ],
+      "keywords": "crab dip, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-dip-20",
+      "score": 0.7087614721798601
+    }
+  ]
 }

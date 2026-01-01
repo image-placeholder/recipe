@@ -57,5 +57,339 @@
     "cookTime": "25 minutes",
     "totalTime": "40 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Microwave Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Martene"
+      },
+      "description": "A creamy corn chowder made in the microwave with potatoes, carrots, celery, and cheddar cheese.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "2 cups water",
+        "¼ cup butter or margarine",
+        "2 cups diced peeled potatoes",
+        "¼ cup all-purpose flour",
+        "2 cups milk",
+        "½ cup sliced carrots",
+        "½ cup sliced celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "3 cups (12 oz) shredded cheddar cheese",
+        "2 cans (14¾ oz each) cream style corn"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place water in a 2-quart microwave-safe dish; cover and heat until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add potatoes, carrots, celery, onion, salt, and pepper. Cook, uncovered, on high for 8 to 10 minutes or until vegetables are crisp-tender; set aside (do not drain)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a 3-quart dish, microwave butter on high for 50 to 60 seconds or until melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour until smooth. Gradually stir in milk. Cook, uncovered, on high for 6 to 7 minutes or until thickened, stirring every 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cheese. Heat for 1 to 1½ minutes or until the cheese is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in corn and reserved vegetables. Cook on high for 2 to 3 minutes or until heated through."
+        }
+      ],
+      "keywords": "microwave corn chowder, creamy soup, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "microwave-corn-chowder-118",
+      "score": 0.8444929203321725
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Cheese Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1½ lb diced cooked chicken",
+        "1 medium onion, finely chopped",
+        "2 cups cooked rice",
+        "¼ lb grated cheddar cheese",
+        "½ cup milk",
+        "1 can Campbell's cream of celery soup",
+        "4 Tbsp butter or margarine",
+        "¾ cup crushed corn flakes",
+        "1½ cups chopped celery",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mixture into a buttered casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook until the celery is hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the corn flake and celery mixture over the chicken mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 375°F oven for about ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "chicken casserole, cheesy rice bake, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chicken-and-cheese-casserole-244",
+      "score": 0.7500400788562924
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A hearty casserole with ground beef, sliced potatoes, and corn, topped with a savory gravy.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "1 8L casserole",
+      "recipeIngredient": [
+        "½ lb lean ground beef",
+        "1 onion",
+        "1 clove garlic",
+        "6 medium potatoes, peeled and sliced",
+        "1 envelope (50g) gravy mix",
+        "2½ cups water",
+        "2 cups corn",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Season with salt and pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Layer sliced potatoes in an 8L casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the gravy mix with 1 cup water and pour over the potatoes. Add remaining water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with corn and the browned meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and cook at 350°F for 50 minutes."
+        }
+      ],
+      "keywords": "meat casserole, potato and corn dish, gravy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "meat-and-potato-casserole-159",
+      "score": 0.7431224242583668
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburger Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "hamburger-pie-169",
+      "score": 0.7421684278876084
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Noodles with Hamburg",
+      "author": {
+        "@type": "Person",
+        "name": "Carolyn Gower"
+      },
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
+        "1 tsp salt",
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "noodles-with-hamburg-166",
+      "score": 0.7413938895784077
+    }
+  ]
 }

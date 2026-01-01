@@ -62,5 +62,349 @@
     "cookTime": "30 minutes",
     "totalTime": "45 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Noodles with Hamburg",
+      "author": {
+        "@type": "Person",
+        "name": "Carolyn Gower"
+      },
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
+        "1 tsp salt",
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "noodles-with-hamburg-166",
+      "score": 0.7899577825793741
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ginger Noodle Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A flavorful and aromatic Asian-inspired soup featuring pork, ginger, and rice stick noodles in a savory chicken broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Asian",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 pork chop, sliced into small pieces",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 Tbsp chopped ginger root",
+        "2 Tbsp soy sauce",
+        "4 cups chicken stock",
+        "1/3 cup hoisin sauce",
+        "1 carrot, shredded",
+        "1/2 cup sliced mushrooms",
+        "1 cup rice stick noodles",
+        "1 green onion, thinly sliced",
+        "1/2 cup bean sprouts",
+        "4 sprigs coriander (cilantro)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan brown pork over medium heat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onion, garlic, ginger, hoisin sauce and soy sauce. Cook for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add rest of ingredients, bring to a boil, reduce heat and simmer 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with green onion and coriander."
+        }
+      ],
+      "keywords": "ginger noodle soup, Asian soup, pork soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "ginger-noodle-soup-114",
+      "score": 0.7855438271479488
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "thai-chicken-235",
+      "score": 0.7739962014748402
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Chicken Stew",
+      "author": {
+        "@type": "Person",
+        "name": "Anne Cottel"
+      },
+      "description": "A hearty and comforting chicken stew with vegetables in a creamy sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "8 to 10 servings",
+      "recipeIngredient": [
+        "3 lb boneless, skinless chicken breasts, cut into 1-inch cubes",
+        "2 Tbsp cooking oil",
+        "1 medium onion, diced",
+        "1 cup sliced celery",
+        "2 cups peeled and cubed potatoes",
+        "3 large carrots, cut into coins",
+        "1 tsp salt",
+        "1/2 tsp dried basil",
+        "1/2 tsp paprika",
+        "1/4 tsp celery salt",
+        "1 bay leaf",
+        "7 cups chicken broth, divided",
+        "1 can (14 oz) corn kernels, drained",
+        "1 can (14 oz) peas",
+        "1 can (14 oz) lima beans",
+        "1/2 cup butter or margarine",
+        "3/4 cup all-purpose flour"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a Dutch oven. Sprinkle chicken with salt, pepper, and paprika. Cook and stir until the chicken is browned. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add raw vegetables, basil, bay leaf, celery salt, and 5 cups broth; bring to a boil. Reduce heat. Cover and simmer for 30 minutes or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove bay leaf. Add canned vegetables. Cook and stir for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, mix flour and butter or margarine until smooth. Gradually whisk in remaining 2 cups broth. Bring to a boil. Cook and stir for 2 minutes or until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce into the Dutch oven. Stir and bring to a boil. Reduce heat. Simmer, uncovered, for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with rolls or biscuits."
+        }
+      ],
+      "keywords": "chicken stew, creamy stew, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "creamy-chicken-stew-252",
+      "score": 0.7558014860016197
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chili Turkey",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A hearty chili turkey dish made with ground turkey, kidney beans, and whole wheat spaghetti.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 tsp ground coriander",
+        "1½ tsp vegetable oil",
+        "¼ tsp salt",
+        "1 large chopped onion",
+        "½ tsp ground cumin",
+        "1 large chopped green pepper",
+        "¼ tsp cinnamon",
+        "2 chopped garlic cloves",
+        "2 to 3 Tbsp chili powder",
+        "1⅓ lb ground turkey",
+        "1 can red kidney beans",
+        "1¾ cups chicken broth",
+        "6 oz whole wheat spaghetti",
+        "3 tsp tomato paste",
+        "½ cup shredded cheese",
+        "1½ tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat oil in a large heavy pot over medium heat. Add onion and cook, stirring occasionally, until it starts to brown, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic and cook for 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the turkey and cook, stirring to coarsely crumble until no longer pink, about 8 to 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in chili powder, tomato paste, broth, cinnamon, cumin, salt, coriander, and oregano. Bring to a simmer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Partially cover and cook, stirring occasionally, until the meat is tender and the broth is slightly thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, pour the beans (with juice) into a microwaveable bowl. Microwave on high for 1 to 2 minutes or until heated through. Drain and cover to keep warm."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta as directed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place pasta on a plate, ladle chili over pasta, and top with beans, then with cheese."
+        }
+      ],
+      "keywords": "chili turkey, ground turkey, kidney beans, whole wheat spaghetti",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chili-turkey-247",
+      "score": 0.7539655140595389
+    }
+  ]
 }

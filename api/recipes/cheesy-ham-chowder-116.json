@@ -54,5 +54,286 @@
     "cookTime": "40 minutes",
     "totalTime": "1 hour"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crunchy Top Ham and Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Norma Fahner"
+      },
+      "description": "A hearty ham and potato casserole with a crunchy corn flake topping.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H25M",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "2 lb frozen hash brown potatoes, thawed",
+        "1½ cups shredded cheddar cheese",
+        "1 (10 oz) can cream of chicken soup, undiluted",
+        "½ tsp ground pepper",
+        "⅔ cup chopped green onion",
+        "2 cups cubed, cooked ham",
+        "2 cups sour cream",
+        "Topping: ½ cup butter, melted",
+        "2 cups crushed corn flakes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all casserole ingredients and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the mixture in a 13x9 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine topping ingredients (melted butter and crushed corn flakes) and sprinkle on top of the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "ham and potato casserole, crunchy topping, comforting casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 25 minutes"
+      },
+      "url": "crunchy-top-ham-and-potato-casserole-197",
+      "score": 0.764668585286524
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ham Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Bernice Martin"
+      },
+      "description": "A hearty ham and potato casserole topped with bread crumbs and baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "4 cups hash brown potatoes, thawed",
+        "1½ cups chopped ham",
+        "1 cup grated Cracker Barrel cheddar cheese",
+        "1 small onion, chopped",
+        "½ cup Miracle Whip salad dressing",
+        "½ cup milk",
+        "¼ tsp pepper",
+        "½ cup fresh bread crumbs",
+        "1 Tbsp butter or margarine"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix potatoes, ham, cheese, and onion together in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine dressing, milk, and pepper. Add to potato mixture and mix lightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon mixture into a 1-quart (1 L) casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with bread crumbs and dot with butter or margarine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 45 minutes."
+        }
+      ],
+      "keywords": "ham casserole, potato casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "ham-casserole-200",
+      "score": 0.7618190539684347
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Nola Ratz"
+      },
+      "description": "A creamy corn chowder with bacon, potatoes, and a touch of milk.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 cups hot chicken stock",
+        "6 slices lean bacon",
+        "½ cup sliced onions",
+        "3 cups finely diced potatoes",
+        "½ cup chopped celery",
+        "1½ cups frozen or fresh corn kernels",
+        "1 Tbsp flour",
+        "¾ tsp salt",
+        "2½ cups milk",
+        "Pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Chop bacon and sauté in a large heavy pot with onions for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add celery and cook until onions are transparent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, and pepper. Cook for 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually blend in hot stock, then add potatoes. Cover and simmer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add corn and simmer for another 10 minutes, or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scald milk and add to soup for desired consistency."
+        }
+      ],
+      "keywords": "corn chowder, creamy soup, bacon soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "corn-chowder-107",
+      "score": 0.7208601145330709
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Nola Ratz"
+      },
+      "description": "A creamy corn chowder with bacon, potatoes, and celery.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 cups hot chicken stock",
+        "6 slices lean bacon",
+        "1 cup sliced onions",
+        "3 cups finely diced potatoes",
+        "½ cup chopped celery",
+        "1½ cups frozen or fresh corn kernels",
+        "1 Tbsp flour",
+        "¾ tsp salt",
+        "2½ cups milk",
+        "Pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Chop bacon and sauté for 5 minutes in a large heavy pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onions and celery; cook until transparent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, and pepper; cook for 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually blend in hot stock, then add potatoes; cover and simmer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add corn and simmer for 10 minutes, or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scald milk and add to soup for desired consistency."
+        }
+      ],
+      "keywords": "corn chowder, creamy soup, bacon soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "corn-chowder-110",
+      "score": 0.7208601145330709
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheesy Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Pam Allen"
+      },
+      "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "1 loaf",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "¾ cup bread crumbs",
+        "1 beaten egg",
+        "½ cup chopped onions",
+        "¼ cup chopped green pepper",
+        "¼ cup ketchup",
+        "¾ tsp salt",
+        "1 cup cheese, cut into small cubes",
+        "⅛ tsp pepper",
+        "Chili sauce (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "meat loaf, cheesy, ground beef, baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "url": "cheesy-meat-loaf-153",
+      "score": 0.7170057512048528
+    }
+  ]
 }

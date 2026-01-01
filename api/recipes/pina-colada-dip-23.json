@@ -40,5 +40,262 @@
     "cookTime": "",
     "totalTime": null
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Pineapple Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
+        "½ cup vinegar",
+        "2 Tbsp light brown sugar",
+        "½ tsp salt",
+        "¼ to ½ cup ketchup",
+        "¼ cup water",
+        "4 chicken breasts",
+        "1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
+        }
+      ],
+      "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "sweet-sour-pineapple-chicken-222",
+      "score": 0.6996338957049478
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Orange-Pineapple Jello",
+      "author": {
+        "@type": "Person",
+        "name": "Shelley Kinsman"
+      },
+      "description": "A fruity Jello dessert with orange, pineapple, and nuts.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1 package orange Jello",
+        "1 cup mini marshmallows",
+        "1 small can crushed pineapple",
+        "½ cup frozen orange juice concentrate",
+        "1 package Dream Whip",
+        "½ cup pecans"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain pineapple and reserve syrup. Add water to make ¾ cup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the liquid to boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place Jello in a bowl and add hot liquid, pineapple, and orange juice concentrate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until thickish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fold in Dream Whip along with marshmallows and pecans."
+        }
+      ],
+      "keywords": "orange-pineapple Jello, fruity dessert, nuts",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "orange-pineapple-jello-76",
+      "score": 0.6901148522362459
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fruit Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 cup",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 tsp frozen orange juice concentrate",
+        "½ cup marshmallow creme",
+        "1 tsp grated orange rind"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a dish and beat until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with fresh cut-up fruit."
+        }
+      ],
+      "keywords": "fruit dip, orange cream cheese, marshmallow dip",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "fruit-dip-24",
+      "score": 0.6843052316727756
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fluffy Fruit Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        },
+        {
+          "@type": "Person",
+          "name": "Lorie Van Volkengoed"
+        },
+        {
+          "@type": "Person",
+          "name": "Kim MacDonald"
+        }
+      ],
+      "description": "A light and airy fruit dip made with softened cream cheese, marshmallow creme, and vanilla extract.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "3 oz cream cheese, softened",
+        "1 tsp vanilla extract",
+        "1 (7 oz) jar marshmallow creme",
+        "Fresh fruit for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, combine the softened cream cheese, marshmallow creme, and vanilla extract."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with your choice of fresh fruit."
+        }
+      ],
+      "keywords": "fluffy fruit dip, marshmallow dip, sweet appetizer",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "fluffy-fruit-dip-25",
+      "score": 0.6696700093320264
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Party-Time Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Phyllis Bender"
+      },
+      "description": "A creamy lime Jello salad with pineapple, cream cheese, and celery.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 1½ quart mould",
+      "recipeIngredient": [
+        "1 can crushed pineapple",
+        "1 (8 oz) package cream cheese",
+        "1 (3 oz) package lime flavoured Jello",
+        "1 cup celery, diced",
+        "1½ cups whipped cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat pineapple juice and hot water to measure 1 cup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve Jello powder in hot liquid and stir, then add ¾ cup cold water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let partially set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cream cheese and mix with beaters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add crushed pineapple, whipped cream, and celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour into a 1½ quart mould and chill until firm."
+        }
+      ],
+      "keywords": "party-time salad, lime Jello, cream cheese, pineapple",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "url": "party-time-salad-77",
+      "score": 0.6681913716769903
+    }
+  ]
 }

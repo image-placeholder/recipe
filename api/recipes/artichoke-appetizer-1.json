@@ -59,5 +59,302 @@
     "cookTime": "25 minutes",
     "totalTime": "35 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Noodles with Hamburg",
+      "author": {
+        "@type": "Person",
+        "name": "Carolyn Gower"
+      },
+      "description": "A hearty casserole featuring ground hamburger, macaroni, and a blend of vegetables and cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "¼ tsp oregano",
+        "¼ tsp garlic powder",
+        "½ cup chopped onions (optional)",
+        "1 tsp salt",
+        "⅓ cup chopped celery",
+        "¾ cup shredded cheddar cheese (optional)",
+        "2 cups canned tomatoes",
+        "2 cups cooked macaroni",
+        "1 (14 oz) can corn kernels",
+        "1 (10 oz) can tomato soup"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a frying pan, brown the hamburger with celery and onions (if using). Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add garlic powder, oregano, salt, tomato soup, corn, and canned tomatoes to the browned hamburger mixture. Stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the mixture slowly for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook macaroni according to package instructions until al dente. Drain and set aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked macaroni with the hamburger and sauce mixture. Stir well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using cheese, heat it until melted and mix into the noodle and hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot."
+        }
+      ],
+      "keywords": "hamburger casserole, noodle dish, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "noodles-with-hamburg-166",
+      "score": 0.6690526480214052
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Green Beans and Artichokes",
+      "author": {
+        "@type": "Person",
+        "name": "Loma Finkbeiner"
+      },
+      "description": "A savory side dish featuring green beans and artichoke hearts mixed with garlic, onion, and Romano cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 (14 oz) can artichokes, drained and quartered",
+        "1 finely chopped onion",
+        "1 clove garlic, minced",
+        "¼ cup olive oil",
+        "½ cup freshly grated Romano cheese",
+        "½ cup Italian bread crumbs",
+        "1 (10 oz) pkg frozen french-style green beans, cooked and drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion and garlic in olive oil until the onion is softened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in bread crumbs and cook until they absorb the oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add green beans, artichoke hearts, and cheese. Combine thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat slowly to soften the cheese. Season with salt and pepper to taste."
+        }
+      ],
+      "keywords": "green beans, artichokes, Romano cheese, side dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "green-beans-and-artichokes-131",
+      "score": 0.6687250680757686
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Continue cooking gently for another 2 hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-177",
+      "score": 0.6608254389777655
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-187",
+      "score": 0.6608254389777655
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sloppy Joe Squares",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "1 small onion, minced",
+        "1/2 tsp Worcestershire sauce",
+        "3/4 cup ketchup",
+        "1 tsp salt",
+        "1/2 tsp pepper",
+        "1/4 tsp chili powder",
+        "2 Tbsp flour",
+        "2 packages Pillsbury crescent dinner rolls",
+        "Mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend in flour to thicken the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the beef mixture evenly over the layer of rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the beef mixture with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F until the crescent rolls are browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with a salad."
+        }
+      ],
+      "keywords": "sloppy joe, casserole, crescent rolls, beef",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "sloppy-joe-squares-185",
+      "score": 0.6466560594889277
+    }
+  ]
 }

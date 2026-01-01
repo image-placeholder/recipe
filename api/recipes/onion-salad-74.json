@@ -52,5 +52,278 @@
     "cookTime": "",
     "totalTime": "8 hours 10 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sliced Bean Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Phyllis Lightfoot"
+      },
+      "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeYield": "2 to 3 quarts",
+      "recipeIngredient": [
+        "Yellow or green beans",
+        "2 cups white vinegar",
+        "2 cups white sugar",
+        "1 tsp salt",
+        "1½ cups water",
+        "Onion and cream for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Slice the beans and cook until tender enough to pierce with a fork."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the cooked beans and pack them into jars."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, bring the sugar, water, vinegar, and salt to a boil to make the syrup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot syrup over the beans in the jars."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, pour off the liquid and add chopped onion and cream."
+        }
+      ],
+      "keywords": "pickled bean salad, sweet and tangy, preserved beans",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "sliced-bean-salad-49",
+      "score": 0.7815720525262426
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A spicy nacho salad with ground beef, lettuce, tomatoes, and nacho chips, topped with a creamy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1/2 romaine lettuce, shredded",
+        "1/4 lb lean ground beef",
+        "1/2 onion, chopped",
+        "1 clove garlic, crushed",
+        "1/2 cup Monterey Jack cheese (or mozzarella), shredded",
+        "1/2 cup nacho chips, lightly crushed",
+        "2 tomatoes, coarsely diced",
+        "1/2 tsp cayenne pepper",
+        "1/4 cup mayonnaise",
+        "1 tsp relish",
+        "1 Tbsp ketchup",
+        "2 drops hot pepper sauce (Tabasco)",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef with onion and garlic. Drain excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spices and water to the beef mixture. Bring to a boil, then simmer for 15 minutes. Let cool for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large salad bowl, mix together the shredded lettuce, diced tomatoes, shredded cheese, and crushed nacho chips."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix the mayonnaise, relish, ketchup, and hot pepper sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad and add the cooled meat mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad to combine all ingredients and serve."
+        }
+      ],
+      "keywords": "nacho salad, spicy salad, ground beef salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "nacho-salad-73",
+      "score": 0.7627925773648225
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "mexican-salad-50",
+      "score": 0.7556011708593001
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caesar Dressin' Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Towton"
+      },
+      "description": "A homemade Caesar salad dressing made with egg yolks, garlic, lemon juice, and Parmesan cheese.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "½ tsp Worcestershire sauce",
+        "3 garlic cloves",
+        "½ tsp dry mustard",
+        "2 beaten egg yolks",
+        "½ tsp salt",
+        "½ cup lemon juice",
+        "Dash pepper",
+        "1 cup oil",
+        "¼ cup white sugar",
+        "1 cup Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put all ingredients in a blender or food processor and blend for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Can be kept in the fridge for up to 2 weeks."
+        }
+      ],
+      "keywords": "Caesar dressing, homemade salad dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "caesar-dressin-salad-101",
+      "score": 0.7536447020456425
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caribbean Chicken Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A refreshing salad featuring chicken, mango, pineapple, and Minute Rice, all tossed in Italian dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Caribbean-inspired",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1½ cups Minute Rice",
+        "1½ cups chicken broth",
+        "2 cups cut up chicken breast",
+        "1 green pepper, diced",
+        "1 small red onion, chopped fine",
+        "1 mango, thinly sliced",
+        "1 small can pineapple, diced and drained",
+        "2 celery stalks, diced",
+        "⅓ cup Kraft Italian dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the Minute Rice in chicken broth according to package instructions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chicken breast meat in a little oil until fully cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the cooked rice, chicken, and remaining ingredients in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until served. Optional: add other fruits like grapes, mandarins, or plums for variation."
+        }
+      ],
+      "keywords": "Caribbean chicken salad, fruit and rice salad, Italian dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "caribbean-chicken-salad-70",
+      "score": 0.753043588431229
+    }
+  ]
 }

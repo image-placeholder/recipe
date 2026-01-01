@@ -54,5 +54,293 @@
     "cookTime": "",
     "totalTime": "10 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A rich and creamy crab dip made with cream cheese, crab meat, and green onions, served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 chopped green onions",
+        "8 oz can crab meat",
+        "Several dashes 'hot' sauce",
+        "Crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together, including the juice from the crab meat, until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers."
+        }
+      ],
+      "keywords": "crab dip, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-dip-20",
+      "score": 0.7852911234487125
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Shrimp Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A savory shrimp and cheddar cheese spread served with crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 can shrimp cocktail",
+        "3 green onions, finely chopped",
+        "1 tsp garlic powder",
+        "1 (8 oz) package cream cheese, softened",
+        "1 tsp Worcestershire sauce",
+        "1½ cups shredded cheddar cheese",
+        "Miracle Whip (as needed for consistency)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a medium bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mash the shrimp with a fork until well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate before serving with crackers."
+        }
+      ],
+      "keywords": "shrimp spread, seafood dip, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "url": "shrimp-spread-10",
+      "score": 0.763398913215463
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab-Stuffed Mushrooms",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A savory appetizer featuring large mushrooms filled with a crab meat and cheese mixture, baked until golden.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT12M",
+      "totalTime": "PT32M",
+      "recipeYield": "12 appetizers",
+      "recipeIngredient": [
+        "12 extra large mushrooms",
+        "2 Tbsp butter, divided",
+        "1/4 cup chopped green onion",
+        "1 Tbsp mayonnaise",
+        "1 can (170 g) crab meat, drained",
+        "Salt and pepper to taste",
+        "1/2 lemon for juice",
+        "1/2 cup grated Emmenthal or Gruyère cheese, divided"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wipe mushrooms with lemon juice. Remove stems for stuffing and set caps aside."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Trim and chop stems. In a saucepan, melt butter. Add onion and chopped mushroom stems. Cook until mushroom stems are tender and moisture has evaporated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in drained crab meat, 1/4 cup cheese, 1 tablespoon cracker crumbs, mayonnaise, salt, and pepper to taste. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon stuffing into mushroom caps and place on greased baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine remaining 1/4 cup cheese and 1 teaspoon cracker crumbs. Sprinkle evenly over stuffed mushrooms."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate until ready to serve."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in 400°F oven for 10 to 12 minutes. Serve hot."
+        }
+      ],
+      "keywords": "crab stuffed mushrooms, appetizer, seafood",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "12 minutes",
+        "totalTime": "32 minutes"
+      },
+      "url": "crab-stuffed-mushrooms-46",
+      "score": 0.7604219226063238
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Surprise Spread",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A layered seafood dip with shrimp, cocktail sauce, and cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "recipeYield": "1 large platter",
+      "recipeIngredient": [
+        "8 oz cream cheese, softened",
+        "½ cup sour cream",
+        "¼ cup mayonnaise",
+        "3 (4 oz) cans small shrimp, rinsed and drained",
+        "2 cups seafood cocktail sauce",
+        "2 cups shredded mozzarella cheese",
+        "1 green pepper, chopped",
+        "3 green onions, chopped",
+        "1 tomato, diced (optional)",
+        "Tortilla chips or assorted crackers for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream cheese, sour cream, and mayonnaise together until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread this mixture in the bottom of a deep pie plate, pizza pan, or shallow baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scatter the shrimp over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the seafood cocktail sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add layers of mozzarella cheese, green pepper, and green onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with diced tomatoes if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve with tortilla chips or crackers."
+        }
+      ],
+      "keywords": "layered shrimp dip, seafood spread, party dip",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "url": "surprise-spread-11",
+      "score": 0.7347249044539352
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sloppy Joe Squares",
+      "author": {
+        "@type": "Person",
+        "name": "Deb (Finkbeiner) Lord"
+      },
+      "description": "A layered casserole featuring a sloppy joe beef mixture between two layers of crescent roll dough, topped with mozzarella cheese and baked until golden brown.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT25M",
+      "totalTime": "PT45M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "1 small onion, minced",
+        "1/2 tsp Worcestershire sauce",
+        "3/4 cup ketchup",
+        "1 tsp salt",
+        "1/2 tsp pepper",
+        "1/4 tsp chili powder",
+        "2 Tbsp flour",
+        "2 packages Pillsbury crescent dinner rolls",
+        "Mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the beef, onions, and spices in a skillet over medium heat until the meat is no longer red."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend in flour to thicken the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 1¼ cups water, ketchup, and Worcestershire sauce. Simmer for 15 to 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and line a 9×13 inch pan with 1 package of crescent rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the beef mixture evenly over the layer of rolls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the beef mixture with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the second package of crescent dinner rolls, ensuring the dough touches the edges of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F until the crescent rolls are browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with a salad."
+        }
+      ],
+      "keywords": "sloppy joe, casserole, crescent rolls, beef",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "45 minutes"
+      },
+      "url": "sloppy-joe-squares-185",
+      "score": 0.7303524151680799
+    }
+  ]
 }

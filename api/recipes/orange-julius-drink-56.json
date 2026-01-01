@@ -41,5 +41,223 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fruit Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 cup",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 tsp frozen orange juice concentrate",
+        "½ cup marshmallow creme",
+        "1 tsp grated orange rind"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a dish and beat until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with fresh cut-up fruit."
+        }
+      ],
+      "keywords": "fruit dip, orange cream cheese, marshmallow dip",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "fruit-dip-24",
+      "score": 0.688124983241451
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Punch",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A refreshing fruit punch made with grape juice, orange juice, ginger ale, and lemon-lime soda.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 cup frozen grape juice concentrate",
+        "2 (6 oz) cans frozen orange juice concentrate",
+        "1 qt ginger ale",
+        "1 (12 oz) can frozen pink lemonade concentrate",
+        "1 cup sugar",
+        "12 cups water",
+        "Soda water",
+        "Ice cubes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the first 5 ingredients in a large bowl or punch bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients just before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir well and serve chilled."
+        }
+      ],
+      "keywords": "fruit punch, party drink, refreshing beverage",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "punch-53",
+      "score": 0.6861231986499075
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Perfect Punch",
+      "author": {
+        "@type": "Person",
+        "name": "Julie-Ann Bibby"
+      },
+      "description": "A fruity and bubbly punch made with orange juice, lemonade, and raspberry sherbet.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "Serves 14 people",
+      "recipeIngredient": [
+        "3 L lemon-lime carbonated beverage",
+        "1 can frozen orange juice concentrate",
+        "1 can frozen lemonade concentrate",
+        "1 qt raspberry sherbet"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the liquid drinks in a punch bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the raspberry sherbet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve chilled and enjoy."
+        }
+      ],
+      "keywords": "party punch, fruity drink, sherbet punch",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "perfect-punch-54",
+      "score": 0.6709169699688996
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Breakfast Orange Smoothie",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A refreshing and healthy orange smoothie made with milk, banana, and a touch of silken tofu for creaminess.",
+      "recipeCategory": "Beverage",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "¼ cup (or more) orange juice",
+        "1½ cups (more or less) milk or soy milk",
+        "1 banana, frozen",
+        "2 Tbsp silken tofu (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour into a tall glass and serve immediately."
+        }
+      ],
+      "keywords": "orange smoothie, breakfast drink, healthy beverage",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "breakfast-orange-smoothie-51",
+      "score": 0.6697877788589519
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Wilmar Wein Punch",
+      "author": {
+        "@type": "Person",
+        "name": "Wilmar Wein"
+      },
+      "description": "A sophisticated punch made with gin, grenadine, cherry brandy, and sweetened orange and grapefruit juice.",
+      "recipeCategory": "Cocktail",
+      "recipeCuisine": "Adult Beverage",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeIngredient": [
+        "1 (26 oz) orange and grapefruit juice",
+        "4 oz grenadine",
+        "4 oz cherry brandy",
+        "Gin (optional)",
+        "Slices of lemon and orange",
+        "Plenty of ice cubes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the juice, grenadine, and cherry brandy in a large pitcher."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add gin if desired for an adult version."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve chilled with slices of lemon and orange, and plenty of ice."
+        }
+      ],
+      "keywords": "adult punch, cocktail party, sophisticated drink",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "wilmar-wein-punch-55",
+      "score": 0.6660703091369089
+    }
+  ]
 }

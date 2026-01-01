@@ -46,5 +46,303 @@
     "cookTime": "30 minutes",
     "totalTime": "40 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Oven Barbecued Pork Chops",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Dinney"
+      },
+      "description": "Pork chops marinated in a barbecue sauce and baked in the oven.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 pork loin chops (about 2 lb)",
+        "2 Tbsp packed brown sugar",
+        "3/4 cup ketchup",
+        "1 Tbsp Worcestershire sauce",
+        "1/3 cup chopped onion",
+        "1 tsp chili powder",
+        "1 clove minced garlic",
+        "1/2 tsp dried mustard",
+        "1/4 cup vinegar",
+        "1/2 tsp dried oregano"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Trim fat from pork chops and place in a single layer in a 13x9 inch baking dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine ketchup, onions, garlic, vinegar, sugar, Worcestershire sauce, chili powder, mustard, and oregano in a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the chops and marinate in the refrigerator for at least 1 hour or up to 8 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with foil and bake in a 350°F oven for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover and bake, spooning sauce over chops occasionally, for 15 to 30 minutes or until tender."
+        }
+      ],
+      "keywords": "pork chops, barbecue, oven baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour"
+      },
+      "url": "oven-barbecued-pork-chops-210",
+      "score": 0.7978516594381708
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pork Chops with Dried Fruit",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A savory and sweet dish featuring pork chops cooked with assorted dried fruits in a flavorful orange juice sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 pork chops",
+        "1½ cups assorted dried fruit (apples, peaches, pears, apricots, raisins)",
+        "1 Tbsp vegetable oil",
+        "2 cups orange juice, divided",
+        "1½ tsp cornstarch",
+        "¼ tsp allspice",
+        "½ tsp Worcestershire sauce",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat a large skillet over medium-high heat. Add oil and cook pork chops until golden brown on each side, about 6 to 8 minutes per side. Remove chops to a plate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat, add 1 cup orange juice to the skillet, and scrape any browned bits from the pan. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining orange juice, dried fruit, Worcestershire sauce, and allspice. Simmer for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cornstarch with a small amount of water or juice. Stir into the skillet and cook until the sauce thickens, about 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return pork chops to the skillet and cook until heated through. Serve with rice or couscous."
+        }
+      ],
+      "keywords": "pork chops, dried fruit, orange juice sauce, savory sweet dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "pork-chops-with-dried-fruit-206",
+      "score": 0.7216952457307837
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Zesty BBQ Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Sharon Allen"
+      },
+      "description": "A tangy and spicy BBQ sauce with ketchup, vinegar, and a kick of cayenne pepper, great for grilling.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 cup ketchup",
+        "1 tsp dry mustard",
+        "1/4 cup white vinegar",
+        "1/4 tsp salt",
+        "1/2 cup brown sugar",
+        "1/4 tsp cayenne pepper",
+        "1 Tbsp chili powder",
+        "2 cloves garlic, crushed",
+        "1 Tbsp Worcestershire sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a saucepan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend and bring to a boil, stirring until sugar has dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer for 10 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate or freeze for later use."
+        }
+      ],
+      "keywords": "BBQ sauce, zesty, spicy, grilling sauce",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "url": "zesty-bbq-sauce-136",
+      "score": 0.7094841632658024
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat Balls and Sour And Sweet Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Glenda Wuerth"
+      },
+      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb hamburger",
+        "1 slice dry bread (crumbs)",
+        "1 Tbsp cornstarch",
+        "¼ cup milk",
+        "1 tsp onion flakes or 1 tsp real onion",
+        "1 (19 oz) can pineapple, crushed",
+        "⅓ cup vinegar",
+        "1 tsp salt",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together and form into 1½ inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from oven and drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a large casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+        }
+      ],
+      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "score": 0.7009417920465754
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pork Chop & Rice Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Bonnie McNutt"
+      },
+      "description": "A casserole featuring pork chops, rice, and vegetables baked in the oven.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT30M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT2H",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "6 center cut pork chops",
+        "1 sliced tomato",
+        "1 cup brown rice",
+        "1 sliced onion",
+        "4 sliced green onions",
+        "1 green pepper, sliced in rings",
+        "1/2 lb sliced fresh mushrooms",
+        "1 1/2 cups beef broth or stock",
+        "Salt and pepper to taste",
+        "1 Tbsp minced garlic",
+        "4 oz margarine or butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F and spray a 9x13 inch casserole pan with cooking spray."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put raw rice in the casserole pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter or margarine and sauté green onions and garlic in a frying pan, then mix with rice."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Brown pork chops on both sides and place evenly on top of the rice mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place a slice of tomato, onion, and green pepper on top of each pork chop."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour beef broth over the casserole and cover with foil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in the oven for 1 to 1 1/2 hours until the liquid is absorbed."
+        }
+      ],
+      "keywords": "pork chop, rice, casserole, baked",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "2 hours"
+      },
+      "url": "pork-chop-rice-casserole-211",
+      "score": 0.6820250520809594
+    }
+  ]
 }

@@ -48,5 +48,254 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fruit Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeYield": "1 cup",
+      "recipeIngredient": [
+        "8 oz package cream cheese",
+        "2 tsp frozen orange juice concentrate",
+        "½ cup marshmallow creme",
+        "1 tsp grated orange rind"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients in a dish and beat until smooth and well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with fresh cut-up fruit."
+        }
+      ],
+      "keywords": "fruit dip, orange cream cheese, marshmallow dip",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "fruit-dip-24",
+      "score": 0.807416477731714
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pina Colada Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A creamy and tropical dip made with pineapple, coconut pudding, and sour cream, perfect for serving with fresh fruit.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PTOvernight",
+      "recipeYield": "1 bowl",
+      "recipeIngredient": [
+        "1 small can crushed pineapple, undrained",
+        "¾ cup milk",
+        "½ cup sour cream",
+        "3½ oz package instant coconut pudding and pie filling (or 1 vanilla pudding and ¼ cup shredded coconut with coconut extract)",
+        "½ tsp coconut extract"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend all ingredients together in a food processor or blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate overnight to allow flavors to meld."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve chilled with a variety of fresh fruits."
+        }
+      ],
+      "keywords": "pina colada dip, fruit dip, coconut pudding, party appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": null
+      },
+      "url": "pina-colada-dip-23",
+      "score": 0.6696700093320264
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fresh Fruit Platter with Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Donelda Lewis"
+      },
+      "description": "A colorful and refreshing fruit platter served with a creamy vanilla pudding dip, optionally flavored with Grand Marnier.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 large platter",
+      "recipeIngredient": [
+        "1 small (113g) pkg vanilla instant pudding",
+        "1½ cups milk (or a combination of 1 cup milk and ½ cup sour cream)",
+        "1 tub (500 mL) Cool Whip",
+        "1 Tbsp Grand Marnier (or other favorite liquor/liqueur), optional",
+        "Assorted fresh fruit (e.g., strawberries, bananas, grapes, apple slices, orange slices, melon)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the vanilla pudding according to the package instructions using either 1½ cups of milk or the specified combination of milk and sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix equal parts of the prepared pudding and Cool Whip until well blended."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using, add Grand Marnier or other liquor/liqueur and blend well into the pudding mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill the dip in the refrigerator until ready to serve."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange a selection of fresh fruit on a platter, alternating between contrasting colors for visual appeal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chilled dip alongside the fresh fruit platter."
+        }
+      ],
+      "keywords": "fresh fruit platter, vanilla pudding dip, Cool Whip, Grand Marnier, healthy appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "fresh-fruit-platter-with-dip-22",
+      "score": 0.6560551790848319
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salmon Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A quick and flavorful red salmon spread perfect for crackers or sandwiches.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT0M",
+      "totalTime": "PT5M",
+      "recipeIngredient": [
+        "1 (8 oz) package cream cheese, softened",
+        "1 can red salmon",
+        "1 tsp garlic powder or 1 fresh garlic clove, minced",
+        "2 tsp lemon juice",
+        "2 Tbsp onion, minced",
+        "1 Tbsp fresh or dry parsley"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain the salmon and remove any bones."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Use a fork to flake the salmon before adding other ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine the softened cream cheese with the salmon and all remaining ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix well and serve with crackers or as a spread."
+        }
+      ],
+      "keywords": "salmon dip, salmon spread, red salmon",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "",
+        "totalTime": "5 minutes"
+      },
+      "url": "salmon-dip-9",
+      "score": 0.6506600502965721
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hot Cheese Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A creamy bacon and cheddar dip baked inside a pumpernickel bread shell.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "1 bread bowl",
+      "recipeIngredient": [
+        "1 round pumpernickel bread loaf",
+        "1 (8 oz) package cream cheese",
+        "1 cup Hellmann's mayonnaise",
+        "½ cup grated cheddar cheese",
+        "½ cup bacon bits"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the top off the pumpernickel loaf and hollow it out, leaving a thick shell."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream cheese, mayonnaise, cheddar cheese, and bacon bits until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mixture into the hollowed-out bread."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap the loaf in tinfoil, leaving the hole with the cheese mixture uncovered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325°F for 1½ hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with the bread pieces."
+        }
+      ],
+      "keywords": "pumpernickel dip, hot bacon dip, cheddar dip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "url": "hot-cheese-dip-5",
+      "score": 0.6450748208136012
+    }
+  ]
 }

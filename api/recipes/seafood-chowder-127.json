@@ -48,5 +48,316 @@
     "cookTime": "15 minutes",
     "totalTime": "30 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Nola Ratz"
+      },
+      "description": "A creamy corn chowder with bacon, potatoes, and a touch of milk.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 cups hot chicken stock",
+        "6 slices lean bacon",
+        "½ cup sliced onions",
+        "3 cups finely diced potatoes",
+        "½ cup chopped celery",
+        "1½ cups frozen or fresh corn kernels",
+        "1 Tbsp flour",
+        "¾ tsp salt",
+        "2½ cups milk",
+        "Pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Chop bacon and sauté in a large heavy pot with onions for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add celery and cook until onions are transparent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, and pepper. Cook for 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually blend in hot stock, then add potatoes. Cover and simmer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add corn and simmer for another 10 minutes, or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scald milk and add to soup for desired consistency."
+        }
+      ],
+      "keywords": "corn chowder, creamy soup, bacon soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "corn-chowder-107",
+      "score": 0.7185913946036285
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Nola Ratz"
+      },
+      "description": "A creamy corn chowder with bacon, potatoes, and celery.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 cups hot chicken stock",
+        "6 slices lean bacon",
+        "1 cup sliced onions",
+        "3 cups finely diced potatoes",
+        "½ cup chopped celery",
+        "1½ cups frozen or fresh corn kernels",
+        "1 Tbsp flour",
+        "¾ tsp salt",
+        "2½ cups milk",
+        "Pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Chop bacon and sauté for 5 minutes in a large heavy pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add onions and celery; cook until transparent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour, salt, and pepper; cook for 4 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Gradually blend in hot stock, then add potatoes; cover and simmer for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add corn and simmer for 10 minutes, or until vegetables are tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scald milk and add to soup for desired consistency."
+        }
+      ],
+      "keywords": "corn chowder, creamy soup, bacon soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "url": "corn-chowder-110",
+      "score": 0.7185913946036285
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat Balls and Sour And Sweet Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Glenda Wuerth"
+      },
+      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb hamburger",
+        "1 slice dry bread (crumbs)",
+        "1 Tbsp cornstarch",
+        "¼ cup milk",
+        "1 tsp onion flakes or 1 tsp real onion",
+        "1 (19 oz) can pineapple, crushed",
+        "⅓ cup vinegar",
+        "1 tsp salt",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together and form into 1½ inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from oven and drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a large casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+        }
+      ],
+      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "score": 0.710605942654515
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Crab & Cheese Platter",
+      "author": {
+        "@type": "Person",
+        "name": "Dob (Finkboiner) Lord"
+      },
+      "description": "A layered seafood appetizer featuring a creamy cheese base topped with cocktail sauce and crab meat.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 platter",
+      "recipeIngredient": [
+        "2 large packages (8 oz each) cream cheese",
+        "2 Tbsp onion flakes",
+        "1 large bottle seafood cocktail sauce",
+        "2 Tbsp lemon juice",
+        "2 Tbsp Worcestershire sauce",
+        "1 can crab meat",
+        "2 Tbsp mayonnaise"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together the cream cheese, lemon juice, Worcestershire sauce, mayonnaise and onion flakes in a blender, or beat with an electric mixer, until smooth and creamy."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cheese mixture evenly over the surface of a large round platter, leaving room around the outside for a row of crackers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Press the centre of the cheese mixture down lightly to make a slightly raised border, about ½ to 1 in wide, around the outer edge."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread seafood cocktail sauce over the cheese layer within this border, leaving an outside rim of the cheese layer showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the crab meat and spread it over the sauce layer, again leaving a border of seafood sauce showing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with crackers or vegetables."
+        }
+      ],
+      "keywords": "crab dip, layered platter, seafood appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "url": "crab-cheese-platter-7",
+      "score": 0.6973885805161244
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Microwave Corn Chowder",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Martene"
+      },
+      "description": "A creamy corn chowder made in the microwave with potatoes, carrots, celery, and cheddar cheese.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "10 servings",
+      "recipeIngredient": [
+        "2 cups water",
+        "¼ cup butter or margarine",
+        "2 cups diced peeled potatoes",
+        "¼ cup all-purpose flour",
+        "2 cups milk",
+        "½ cup sliced carrots",
+        "½ cup sliced celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "3 cups (12 oz) shredded cheddar cheese",
+        "2 cans (14¾ oz each) cream style corn"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place water in a 2-quart microwave-safe dish; cover and heat until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add potatoes, carrots, celery, onion, salt, and pepper. Cook, uncovered, on high for 8 to 10 minutes or until vegetables are crisp-tender; set aside (do not drain)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a 3-quart dish, microwave butter on high for 50 to 60 seconds or until melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in flour until smooth. Gradually stir in milk. Cook, uncovered, on high for 6 to 7 minutes or until thickened, stirring every 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cheese. Heat for 1 to 1½ minutes or until the cheese is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in corn and reserved vegetables. Cook on high for 2 to 3 minutes or until heated through."
+        }
+      ],
+      "keywords": "microwave corn chowder, creamy soup, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "microwave-corn-chowder-118",
+      "score": 0.6823578745960377
+    }
+  ]
 }

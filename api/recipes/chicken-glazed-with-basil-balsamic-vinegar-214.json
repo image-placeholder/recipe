@@ -55,5 +55,335 @@
     "cookTime": null,
     "totalTime": null
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lemon Chicken With Thyme",
+      "author": {
+        "@type": "Person",
+        "name": "Karen Schwartzentruber"
+      },
+      "description": "A flavorful chicken dish made with lemon juice, thyme, and a light flour coating, served with lemon wedges and parsley.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "3 Tbsp flour",
+        "1 Tbsp margarine",
+        "1 cup chicken broth",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "3 Tbsp lemon juice",
+        "1/2 tsp thyme",
+        "4 boneless skinless chicken breasts",
+        "2 Tbsp olive oil",
+        "1 medium onion (optional)",
+        "Lemon halves and chopped parsley for garnish (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a plastic bag, combine flour, salt, and pepper. Add chicken and shake to coat lightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large skillet, warm oil over medium heat. Brown chicken about 5 minutes each side. Transfer to a plate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Coarsely chop the onion. Add margarine to the skillet and stir until softened, 2 to 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in reserved flour and combine. Add chicken broth, lemon juice, and thyme. Bring to a boil, stirring constantly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return chicken to skillet, reduce heat to medium-low, and cover. Cook until chicken is tender, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with lemon wedges and a sprinkling of parsley, if desired."
+        }
+      ],
+      "keywords": "lemon chicken, thyme, chicken breast",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes"
+      },
+      "url": "lemon-chicken-with-thyme-224",
+      "score": 0.779980564576795
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken Supreme",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A hearty chicken dish with tomatoes, herbs, and cheese, baked to perfection and served over rice or pasta.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4-8 servings",
+      "recipeIngredient": [
+        "8 boneless, skinless chicken breast pieces",
+        "1 (28 oz) can stewed tomatoes",
+        "1 chopped green pepper",
+        "1 chopped onion",
+        "2 generous slices of fresh Basil",
+        "2 Spanish Oregano slices",
+        "1 dozen chopped fresh Garlic",
+        "Salt and Seasoning salt",
+        "Onion powder",
+        "Grated mozzarella and cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil the chicken breasts in a separate container until pink is gone (about 1/4 of the way cooked)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a baking or roasting pan, mix together the tomato ingredients (stewed tomatoes, green pepper, onion, basil, oregano, garlic)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the partially cooked chicken breasts in the bottom of the pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle spices over the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the remaining tomato mixture on top of the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake at 350°F for approximately ½ hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese on top, cover, and bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over rice or pasta."
+        }
+      ],
+      "keywords": "chicken supreme, baked chicken, Italian-style chicken",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "chicken-supreme-238",
+      "score": 0.7423054427362905
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Thai Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A Thai-inspired chicken dish with spaghetti, vegetables, and a tangy sauce, served hot or chilled.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Thai",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 package spaghetti",
+        "1 sweet red pepper",
+        "2 tsp sesame oil",
+        "1 onion",
+        "2 to 3 limes",
+        "4 stalks celery",
+        "4 Tbsp soya sauce",
+        "2 to 3 carrots",
+        "1 lb snow peas",
+        "2 tsp Sambal Oelek or hot pepper sauce",
+        "1 tsp each salt and sugar",
+        "2 crushed cloves garlic",
+        "4 chicken breasts",
+        "1/4 cup water"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook pasta according to package directions for the minimum time. Drain, rinse with cold water, and drain again."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir pasta in a large bowl to coat with sesame oil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Finely grate the peel from 1 lime and squeeze juice to measure 1/4 cup. Stir juice, peel, soya sauce, hot pepper sauce, salt, and sugar into pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice chicken into bite-size pieces, thinly slice pepper, onion, and celery, and julienne carrots."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir-fry chicken in batches and return to the pan with garlic and onions. Stir-fry about 3 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in water, peppers, celery, and carrots. Continue stirring about 3 minutes, adding a bit more water if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add snow peas and stir about 1 minute."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss with the pasta, serve right away, or chill overnight and serve cold the next day."
+        }
+      ],
+      "keywords": "Thai chicken, spaghetti, stir-fry, Asian-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "url": "thai-chicken-235",
+      "score": 0.7050346292650687
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken with a Chinese Accent",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "6 boneless, skinless chicken breasts",
+        "1 can cream of mushroom soup",
+        "15 mL oil",
+        "50 mL vinegar",
+        "50 mL soya sauce",
+        "125 mL brown sugar",
+        "1 finely chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Fry chicken breasts in a frying pan with oil and soya sauce until the outsides are done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the chicken to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the remaining ingredients with soya sauce and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for 35 minutes at 350°F.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT35M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the chicken with rice."
+        }
+      ],
+      "keywords": "Chinese chicken, sweet and savory, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "chicken-with-a-chinese-accent-245",
+      "score": 0.6996734951281751
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Curry Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Leslie Jenni"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "International",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "6 to 8 boneless chicken breasts",
+        "¼ cup Dijon mustard",
+        "2 Tbsp prepared mustard",
+        "1 Tbsp lime juice",
+        "¼ cup butter",
+        "1 tsp curry powder",
+        "½ cup honey"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients except chicken breasts in a microwave-safe bowl until butter is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken breasts in a shallow baking dish sprayed with nonstick spray."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the curry mixture over the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake uncovered for 1 hour, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over rice."
+        }
+      ],
+      "keywords": "curry chicken, baked chicken, honey mustard chicken",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "url": "curry-chicken-230",
+      "score": 0.6988950407656147
+    }
+  ]
 }

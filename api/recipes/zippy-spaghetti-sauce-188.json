@@ -53,5 +53,320 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
-  "_similar": []
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A rich and flavorful homemade spaghetti sauce made with tomato paste, tomato sauce, and ground beef, simmered for several hours.",
+      "recipeCategory": "Sauce",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT20M",
+      "cookTime": "PT4H",
+      "totalTime": "PT4H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 large onion, chopped",
+        "1 bunch celery, finely chopped",
+        "1 green pepper, chopped",
+        "2 cloves garlic, finely chopped",
+        "1 (369 mL) tin tomato paste",
+        "1 (680 mL) tin tomato sauce",
+        "2 (796 mL) tins tomatoes",
+        "2 lb hamburg (ground beef)",
+        "Chili powder to taste",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except ground beef in a large pot. Cook gently for at least 2 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sauté the ground beef until browned, drain off fat, and add to the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Continue cooking gently for another 2 hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade tomato sauce, Italian sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "4 hours",
+        "totalTime": "4 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-177",
+      "score": 0.8392799811777293
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Margaret Beaver"
+      },
+      "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 lb ground hamburger",
+        "2 cups chopped onions",
+        "2 cups chopped celery",
+        "2 large cloves garlic",
+        "1 can (28 oz) diced tomatoes",
+        "2 cups tomato juice",
+        "3 Oxo cubes",
+        "1 small can tomato paste",
+        "3 cups boiling water",
+        "2 cups sliced mushrooms",
+        "1/2 tsp dried basil",
+        "1/2 tsp dried oregano",
+        "1/4 tsp red pepper",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute the onion, celery, and garlic until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the ground hamburger and brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining ingredients and simmer for several hours."
+        }
+      ],
+      "keywords": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2 hours 20 minutes"
+      },
+      "url": "spaghetti-sauce-187",
+      "score": 0.8392799811777293
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Baked Spaghetti and Meatballs",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A hearty baked pasta dish featuring meatballs, spaghetti, and a rich tomato-based sauce topped with melted mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT30M",
+      "cookTime": "PT35M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 to 1½ lb lean ground beef",
+        "1 cooking onion, finely chopped",
+        "1 egg",
+        "3 splashes Worcestershire sauce",
+        "½ tsp black pepper",
+        "28 oz can diced tomatoes",
+        "10 oz can chopped mushrooms",
+        "½ cup chopped green pepper (optional)",
+        "½ tsp oregano",
+        "1 cup sour cream",
+        "Broken spaghetti (4 to 6 servings)",
+        "1½ cups grated mozzarella cheese",
+        "24 oz can spaghetti sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F and start boiling water for cooking spaghetti."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, mix ground beef, chopped onion, egg, Worcestershire sauce, and black pepper. Form into meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Fry the meatballs in a skillet until completely cooked, turning gently with tongs. Drain off excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add spaghetti sauce, diced tomatoes, mushrooms, green pepper, and oregano to the skillet. Simmer for approximately 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti until 'al dente', then rinse and drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked spaghetti with sour cream."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the spaghetti mixture into a greased 6-cup casserole dish. Sprinkle with half of the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with the sauce and meatball mixture. Bake, uncovered, at 350°F for approximately 20 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with remaining cheese and bake for an additional 5 to 10 minutes, or until the cheese is melted."
+        }
+      ],
+      "keywords": "baked spaghetti, meatballs, Italian-American casserole",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "url": "baked-spaghetti-and-meatballs-176",
+      "score": 0.8258136481476398
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spaghetti Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Janet Dearing"
+      },
+      "description": "A hearty spaghetti casserole with ground beef, canned tomatoes, and cheddar cheese.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 quart casserole",
+      "recipeIngredient": [
+        "½ lb spaghetti",
+        "½ lb ground beef",
+        "1 can (19 oz) diced tomatoes",
+        "½ cup chopped onion",
+        "1 can (10 oz) condensed cream of mushroom soup",
+        "1½ tsp salt",
+        "¼ tsp pepper",
+        "1 cup grated medium cheddar cheese",
+        "½ tsp garlic",
+        "1 can (10 oz) mushroom pieces, drained"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the ground beef and onion in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook spaghetti according to package directions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer cooked spaghetti to a 2-quart casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour canned tomatoes over the spaghetti layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the browned meat mixture over the tomatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with cream of mushroom soup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes, uncovered, until cheese starts to get bubbly."
+        }
+      ],
+      "keywords": "spaghetti casserole, ground beef, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "url": "spaghetti-casserole-178",
+      "score": 0.8216567834594706
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mozzarella Spaghetti Skillet",
+      "author": {
+        "@type": "Person",
+        "name": "Yvonne Lotz"
+      },
+      "description": "A one-pot spaghetti dish cooked with hamburger, tomatoes, and mozzarella cheese.",
+      "recipeCategory": "Pasta",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "1 lb hamburger",
+        "½ cup chopped onion",
+        "½ cup chopped green pepper",
+        "3 splashes Worcestershire sauce",
+        "1 tsp salt",
+        "½ tsp oregano",
+        "½ tsp black pepper",
+        "½ can water",
+        "1 (796 mL) can tomatoes",
+        "1½ cups shredded mozzarella cheese",
+        "Broken spaghetti to feed your family"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In an electric skillet, brown the hamburger, onion, and green peppers."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season with Worcestershire sauce, salt, black pepper, and oregano."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add tomatoes, water, and broken spaghetti to the skillet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bring to a boil, stirring frequently to prevent the spaghetti from sticking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Simmer until the pasta is cooked."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Shortly before serving, add shredded mozzarella cheese and continue heating until melted."
+        }
+      ],
+      "keywords": "spaghetti skillet, one-pot pasta, mozzarella cheese",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes"
+      },
+      "url": "mozzarella-spaghetti-skillet-182",
+      "score": 0.7890295854205317
+    }
+  ]
 }
