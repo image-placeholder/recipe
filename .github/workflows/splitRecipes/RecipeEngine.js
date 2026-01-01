@@ -2,7 +2,8 @@ import { pipeline } from '@xenova/transformers';
 import path from "path";
 import fs from "fs";
 
-class RecipeEngine {
+
+export class RecipeEngine {
   constructor(storagePath = './embeddings.json') {
     this.storagePath = storagePath;
     this.extractor = null;
@@ -72,7 +73,7 @@ class RecipeEngine {
       .sort((a, b) => b.score - a.score)
       .slice(0, topN);
   }
-}
+
 
   async getRecommendations(targetRecipe, allRecipes, topN = 3) {
     const targetKey = targetRecipe.id || targetRecipe.name;
