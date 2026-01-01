@@ -147,7 +147,7 @@ const generateRecipes = async () => {
     const authorsMap = {};
     const authorSlugMap = {};
 
-    recipes.forEach((recipe, index) => {
+    recipes.forEach(async (recipe, index) => {
       const id = recipe.id || (index + 1);
       const baseSlug = slugify(recipe.name || 'untitled-recipe');
       const fileName = `${baseSlug}-${id}.json`;
