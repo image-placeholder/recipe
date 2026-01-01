@@ -129,7 +129,7 @@ const generateRecipes = async () => {
       // Clone object and assign URL
       return {
         ...recipe,
-        url: `recipes/${fileName.replace('.json', '')}`
+        url: `${fileName.replace('.json', '')}`
       };
     });
 
@@ -151,8 +151,7 @@ const generateRecipes = async () => {
 
       // Run Recommendation System
       const _recipe = similarRecipes(recipe, recipesWithUrls, 5);
-
-      _recipe.url = fileName;
+      
       // Write individual recipe file
       fs.writeFileSync(path.join(filePath, fileName), JSON.stringify(naturalizeRecipeTimes(_recipe), null, 2));
 
