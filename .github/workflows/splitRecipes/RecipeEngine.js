@@ -4,7 +4,7 @@ import fs from "fs";
 
 
 
-class RecipeEngine {
+export class RecipeEngine {
   constructor(storagePath = './embeddings.json') {
     this.storagePath = storagePath;
     this.extractor = null;
