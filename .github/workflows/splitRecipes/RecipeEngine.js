@@ -3,10 +3,9 @@ import path from "path";
 import fs from "fs";
 
 
-
 export class RecipeEngine {
-  constructor(storagePath = './embeddings.json') {
-    this.storagePath = storagePath;
+  constructor(storagePath = './recipe-vectors.json') {
+    this.storagePath = path.resolve(storagePath);
     this.extractor = null;
     this.cache = this._loadCache();
   }
@@ -14,7 +13,6 @@ export class RecipeEngine {
   async init() {
     if (!this.extractor) {
       this.extractor = await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2', {
-        // q8 uses significantly less RAM than the default fp32
         dtype: 'q8', 
       });
     }
@@ -22,55 +20,57 @@ export class RecipeEngine {
 
   _loadCache() {
     if (fs.existsSync(this.storagePath)) {
-      return JSON.parse(fs.readFileSync(this.storagePath, 'utf8'));
+      try {
+        return JSON.parse(fs.readFileSync(this.storagePath, 'utf8'));
+      } catch (e) {
+        console.error("Malformed cache file, resetting.");
+        return {};
+      }
     }
     return {};
   }
 
-  /**
-   * Process in small batches to prevent Exit Code 143
-   */
   async buildIndex(recipes, batchSize = 5) {
     await this.init();
     const toProcess = recipes.filter(r => !this.cache[r.id || r.name]);
     
-    console.log(`Processing ${toProcess.length} new recipes in batches of ${batchSize}...`);
+    if (toProcess.length === 0) return;
 
     for (let i = 0; i < toProcess.length; i += batchSize) {
       const batch = toProcess.slice(i, i + batchSize);
-      const texts = batch.map(r => `${r.name} ${r.recipeIngredient.join(' ')}`);
+      const texts = batch.map(r => `${r.name} ${r.recipeIngredient?.join(' ') || ''}`);
       
-      // Compute embeddings for the batch
       const output = await this.extractor(texts, { pooling: 'mean', normalize: true });
 
-      // Save to local cache object
       batch.forEach((recipe, idx) => {
         this.cache[recipe.id || recipe.name] = Array.from(output[idx].data);
       });
 
-      // Periodic save to disk to keep memory low
       fs.writeFileSync(this.storagePath, JSON.stringify(this.cache));
-      console.log(`Buffered batch ${Math.floor(i / batchSize) + 1}`);
-      
-      // Manual delay to allow Node.js garbage collection to breathe
-      await new Promise(resolve => setTimeout(resolve, 100));
+      await new Promise(resolve => setTimeout(resolve, 50));
     }
   }
 
   _similarity(v1, v2) {
+    if (!v1 || !v2) return 0;
     return v1.reduce((acc, val, i) => acc + val * v2[i], 0);
   }
 
-  async getRecommendations(targetId, allRecipes, topN = 3) {
+  async getRecommendations(targetRecipe, allRecipes, topN = 3) {
+    const targetId = targetRecipe.id || targetRecipe.name;
+    
+    // CRITICAL FIX: Ensure all recipes (including target) are in cache
+    await this.buildIndex([targetRecipe, ...allRecipes]);
+
     const targetVec = this.cache[targetId];
     if (!targetVec) return [];
 
     return allRecipes
       .filter(r => (r.id || r.name) !== targetId)
-      .map(r => ({
-        ...r,
-        score: this._similarity(targetVec, this.cache[r.id || r.name])
-      }))
+      .map(r => {
+        const score = this._similarity(targetVec, this.cache[r.id || r.name]);
+        return { ...r, score };
+      })
       .sort((a, b) => b.score - a.score)
       .slice(0, topN);
   }
