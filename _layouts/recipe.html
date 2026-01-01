@@ -152,7 +152,7 @@
 
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
     {% for recipe in recommendations limit:3 %}
-      <a href="{{ '/recipe/' | append: recipe.url | relative_url }}"
+      <a href="{{ '/recipes/' | append: recipe.url | relative_url }}"
          class="group border border-stone-200 p-8 bg-white
                 hover:shadow-lg transition-all duration-500
                 opacity-0 translate-y-6 animate-fade-up"
