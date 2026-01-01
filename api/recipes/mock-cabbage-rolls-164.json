@@ -132,6 +132,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/macaroni-casserole-175",
       "similarity": "0.57"
     },
     {
@@ -202,6 +203,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/chicken-and-cheese-casserole-244",
       "similarity": "0.48"
     },
     {
@@ -271,6 +273,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/spaghetti-casserole-178",
       "similarity": "0.44"
     },
     {
@@ -359,6 +362,7 @@
         "cookTime": "25 minutes",
         "totalTime": "45 minutes"
       },
+      "url": "recipes/creamy-beef-and-potato-bake-158",
       "similarity": "0.40"
     },
     {
@@ -433,7 +437,9 @@
         "cookTime": "30 minutes",
         "totalTime": "55 minutes"
       },
+      "url": "recipes/hamburger-pie-169",
       "similarity": "0.40"
     }
-  ]
+  ],
+  "url": "/recipes/mock-cabbage-rolls-164.json"
 }

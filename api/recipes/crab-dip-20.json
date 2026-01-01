@@ -92,6 +92,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "url": "recipes/crab-cheese-platter-7",
       "similarity": "0.49"
     },
     {
@@ -136,6 +137,7 @@
         "cookTime": null,
         "totalTime": null
       },
+      "url": "recipes/shrimp-spread-10",
       "similarity": "0.43"
     },
     {
@@ -199,6 +201,7 @@
         "cookTime": null,
         "totalTime": null
       },
+      "url": "recipes/surprise-spread-11",
       "similarity": "0.42"
     },
     {
@@ -255,6 +258,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
+      "url": "recipes/cheese-dip-in-a-bread-bowl-4",
       "similarity": "0.38"
     },
     {
@@ -304,7 +308,9 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
+      "url": "recipes/cheese-ball-2",
       "similarity": "0.37"
     }
-  ]
+  ],
+  "url": "/recipes/crab-dip-20.json"
 }

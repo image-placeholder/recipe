@@ -127,6 +127,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/pizza-casserole-202",
       "similarity": "0.24"
     },
     {
@@ -186,6 +187,7 @@
         "cookTime": null,
         "totalTime": null
       },
+      "url": "recipes/chicken-glazed-with-basil-balsamic-vinegar-214",
       "similarity": "0.23"
     },
     {
@@ -240,6 +242,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
+      "url": "recipes/broccoli-casserole-129",
       "similarity": "0.21"
     },
     {
@@ -308,6 +311,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "url": "recipes/creamy-chicken-stew-252",
       "similarity": "0.21"
     },
     {
@@ -373,7 +377,9 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
+      "url": "recipes/south-african-lamb-215",
       "similarity": "0.21"
     }
-  ]
+  ],
+  "url": "/recipes/roasted-lamb-218.json"
 }

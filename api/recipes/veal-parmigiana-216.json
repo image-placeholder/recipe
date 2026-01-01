@@ -120,6 +120,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
+      "url": "recipes/parmesan-chicken-239",
       "similarity": "0.40"
     },
     {
@@ -197,6 +198,7 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
+      "url": "recipes/jelly-roll-style-meat-loaf-154",
       "similarity": "0.35"
     },
     {
@@ -281,6 +283,7 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 40 minutes"
       },
+      "url": "recipes/cheeseburger-meat-loaf-157",
       "similarity": "0.33"
     },
     {
@@ -341,6 +344,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/lasagna-192",
       "similarity": "0.32"
     },
     {
@@ -394,7 +398,9 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
+      "url": "recipes/spaghetti-sauce-187",
       "similarity": "0.31"
     }
-  ]
+  ],
+  "url": "/recipes/veal-parmigiana-216.json"
 }

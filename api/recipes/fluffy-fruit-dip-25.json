@@ -86,6 +86,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
+      "url": "recipes/fruit-dip-24",
       "similarity": "0.40"
     },
     {
@@ -130,6 +131,7 @@
         "cookTime": null,
         "totalTime": null
       },
+      "url": "recipes/shrimp-spread-10",
       "similarity": "0.34"
     },
     {
@@ -178,6 +180,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
+      "url": "recipes/salmon-dip-9",
       "similarity": "0.33"
     },
     {
@@ -241,6 +244,7 @@
         "cookTime": null,
         "totalTime": null
       },
+      "url": "recipes/surprise-spread-11",
       "similarity": "0.31"
     },
     {
@@ -291,7 +295,9 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
+      "url": "recipes/party-salmon-ball-8",
       "similarity": "0.29"
     }
-  ]
+  ],
+  "url": "/recipes/fluffy-fruit-dip-25.json"
 }

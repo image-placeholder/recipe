@@ -132,6 +132,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "url": "recipes/mock-cabbage-rolls-164",
       "similarity": "0.57"
     },
     {
@@ -202,6 +203,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/chicken-and-cheese-casserole-244",
       "similarity": "0.51"
     },
     {
@@ -271,6 +273,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/spaghetti-casserole-178",
       "similarity": "0.46"
     },
     {
@@ -345,6 +348,7 @@
         "cookTime": "30 minutes",
         "totalTime": "55 minutes"
       },
+      "url": "recipes/hamburger-pie-169",
       "similarity": "0.42"
     },
     {
@@ -412,7 +416,9 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
+      "url": "recipes/macaroni-ham-casserole-196",
       "similarity": "0.41"
     }
-  ]
+  ],
+  "url": "/recipes/macaroni-casserole-175.json"
 }

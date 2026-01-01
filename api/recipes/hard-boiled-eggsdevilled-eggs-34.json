@@ -117,6 +117,7 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
+      "url": "recipes/plain-pickled-eggs-30",
       "similarity": "0.33"
     },
     {
@@ -159,6 +160,7 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
+      "url": "recipes/curry-dip-14",
       "similarity": "0.28"
     },
     {
@@ -201,6 +203,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
+      "url": "recipes/vegetable-dip-18",
       "similarity": "0.25"
     },
     {
@@ -245,6 +248,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
+      "url": "recipes/stuffed-mushrooms-32",
       "similarity": "0.24"
     },
     {
@@ -301,7 +305,9 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
+      "url": "recipes/spinach-dip-16",
       "similarity": "0.23"
     }
-  ]
+  ],
+  "url": "/recipes/hard-boiled-eggsdevilled-eggs-34.json"
 }

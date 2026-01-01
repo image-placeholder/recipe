@@ -99,6 +99,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/boneless-chicken-breasts-213",
       "similarity": "0.60"
     },
     {
@@ -157,6 +158,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
+      "url": "recipes/favourite-chicken-241",
       "similarity": "0.48"
     },
     {
@@ -219,6 +221,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
+      "url": "recipes/parmesan-chicken-239",
       "similarity": "0.40"
     },
     {
@@ -281,6 +284,7 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
+      "url": "recipes/lemon-chicken-with-thyme-224",
       "similarity": "0.39"
     },
     {
@@ -336,7 +340,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
+      "url": "recipes/easy-curried-chicken-231",
       "similarity": "0.38"
     }
-  ]
+  ],
+  "url": "/recipes/chicken-breast-212.json"
 }

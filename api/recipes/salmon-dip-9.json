@@ -87,6 +87,7 @@
         "cookTime": null,
         "totalTime": null
       },
+      "url": "recipes/shrimp-spread-10",
       "similarity": "0.41"
     },
     {
@@ -137,6 +138,7 @@
         "cookTime": "",
         "totalTime": "8 hours 15 minutes"
       },
+      "url": "recipes/party-salmon-ball-8",
       "similarity": "0.40"
     },
     {
@@ -195,6 +197,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "url": "recipes/crab-cheese-platter-7",
       "similarity": "0.33"
     },
     {
@@ -247,6 +250,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
+      "url": "recipes/fluffy-fruit-dip-25",
       "similarity": "0.33"
     },
     {
@@ -310,7 +314,9 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
+      "url": "recipes/artichoke-appetizer-1",
       "similarity": "0.31"
     }
-  ]
+  ],
+  "url": "/recipes/salmon-dip-9.json"
 }

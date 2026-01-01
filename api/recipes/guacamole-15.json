@@ -78,6 +78,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
+      "url": "recipes/vegetable-dip-18",
       "similarity": "0.35"
     },
     {
@@ -136,6 +137,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "url": "recipes/crab-cheese-platter-7",
       "similarity": "0.30"
     },
     {
@@ -178,6 +180,7 @@
         "cookTime": "",
         "totalTime": "1 hour 10 minutes"
       },
+      "url": "recipes/curry-dip-14",
       "similarity": "0.29"
     },
     {
@@ -226,6 +229,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
+      "url": "recipes/salmon-dip-9",
       "similarity": "0.26"
     },
     {
@@ -289,7 +293,9 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
+      "url": "recipes/artichoke-appetizer-1",
       "similarity": "0.26"
     }
-  ]
+  ],
+  "url": "/recipes/guacamole-15.json"
 }

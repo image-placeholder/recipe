@@ -113,6 +113,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
+      "url": "recipes/favourite-chicken-241",
       "similarity": "0.41"
     },
     {
@@ -163,6 +164,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
+      "url": "recipes/chicken-and-broccoli-234",
       "similarity": "0.41"
     },
     {
@@ -214,6 +216,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
+      "url": "recipes/sheilas-favourite-supper-dish-253",
       "similarity": "0.36"
     },
     {
@@ -287,6 +290,7 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
+      "url": "recipes/classy-chicken-243",
       "similarity": "0.36"
     },
     {
@@ -342,7 +346,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
+      "url": "recipes/easy-curried-chicken-231",
       "similarity": "0.32"
     }
-  ]
+  ],
+  "url": "/recipes/stuffing-and-chicken-242.json"
 }

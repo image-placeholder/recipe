@@ -120,6 +120,7 @@
         "cookTime": "30 minutes",
         "totalTime": "1 hour"
       },
+      "url": "recipes/veal-parmigiana-216",
       "similarity": "0.40"
     },
     {
@@ -173,6 +174,7 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
+      "url": "recipes/chicken-breast-212",
       "similarity": "0.40"
     },
     {
@@ -224,6 +226,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/boneless-chicken-breasts-213",
       "similarity": "0.40"
     },
     {
@@ -284,6 +287,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/lasagna-192",
       "similarity": "0.38"
     },
     {
@@ -361,7 +365,9 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
+      "url": "recipes/jelly-roll-style-meat-loaf-154",
       "similarity": "0.37"
     }
-  ]
+  ],
+  "url": "/recipes/parmesan-chicken-239.json"
 }

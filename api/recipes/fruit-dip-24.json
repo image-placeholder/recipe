@@ -86,6 +86,7 @@
         "cookTime": "",
         "totalTime": "5 minutes"
       },
+      "url": "recipes/fluffy-fruit-dip-25",
       "similarity": "0.40"
     },
     {
@@ -142,6 +143,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
+      "url": "recipes/hot-cheese-dip-5",
       "similarity": "0.36"
     },
     {
@@ -198,6 +200,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
+      "url": "recipes/cheese-dip-in-a-bread-bowl-4",
       "similarity": "0.33"
     },
     {
@@ -237,6 +240,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "url": "recipes/crab-dip-20",
       "similarity": "0.32"
     },
     {
@@ -291,7 +295,9 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "url": "recipes/stuffed-pita-pockets-43",
       "similarity": "0.32"
     }
-  ]
+  ],
+  "url": "/recipes/fruit-dip-24.json"
 }

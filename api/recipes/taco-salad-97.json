@@ -103,6 +103,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "url": "recipes/mexican-salad-50",
       "similarity": "0.42"
     },
     {
@@ -152,6 +153,7 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
+      "url": "recipes/pasta-salad-85",
       "similarity": "0.32"
     },
     {
@@ -213,6 +215,7 @@
         "cookTime": "15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
+      "url": "recipes/cornbread-salad-71",
       "similarity": "0.29"
     },
     {
@@ -265,6 +268,7 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
+      "url": "recipes/caribbean-chicken-salad-70",
       "similarity": "0.28"
     },
     {
@@ -329,7 +333,9 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
+      "url": "recipes/nacho-salad-73",
       "similarity": "0.27"
     }
-  ]
+  ],
+  "url": "/recipes/taco-salad-97.json"
 }

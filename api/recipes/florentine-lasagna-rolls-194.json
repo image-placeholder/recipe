@@ -120,6 +120,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/lasagna-192",
       "similarity": "0.37"
     },
     {
@@ -187,6 +188,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
+      "url": "recipes/garfields-lasagna-195",
       "similarity": "0.36"
     },
     {
@@ -258,6 +260,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/pizza-casserole-202",
       "similarity": "0.35"
     },
     {
@@ -314,6 +317,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
+      "url": "recipes/ham-casserole-200",
       "similarity": "0.33"
     },
     {
@@ -376,7 +380,9 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
+      "url": "recipes/parmesan-chicken-239",
       "similarity": "0.30"
     }
-  ]
+  ],
+  "url": "/recipes/florentine-lasagna-rolls-194.json"
 }

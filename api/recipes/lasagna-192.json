@@ -128,6 +128,7 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 20 minutes"
       },
+      "url": "recipes/pizza-190",
       "similarity": "0.40"
     },
     {
@@ -195,6 +196,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
+      "url": "recipes/garfields-lasagna-195",
       "similarity": "0.39"
     },
     {
@@ -257,6 +259,7 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
+      "url": "recipes/parmesan-chicken-239",
       "similarity": "0.38"
     },
     {
@@ -322,6 +325,7 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/florentine-lasagna-rolls-194",
       "similarity": "0.37"
     },
     {
@@ -398,7 +402,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "url": "recipes/pizza-casserole-171",
       "similarity": "0.37"
     }
-  ]
+  ],
+  "url": "/recipes/lasagna-192.json"
 }

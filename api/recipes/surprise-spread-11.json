@@ -102,6 +102,7 @@
         "cookTime": null,
         "totalTime": null
       },
+      "url": "recipes/shrimp-spread-10",
       "similarity": "0.52"
     },
     {
@@ -141,6 +142,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "url": "recipes/crab-dip-20",
       "similarity": "0.42"
     },
     {
@@ -192,6 +194,7 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "url": "recipes/vegetable-dip-17",
       "similarity": "0.40"
     },
     {
@@ -248,6 +251,7 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
+      "url": "recipes/spinach-dip-16",
       "similarity": "0.39"
     },
     {
@@ -302,7 +306,9 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
+      "url": "recipes/nacho-fiesta-dip-28",
       "similarity": "0.38"
     }
-  ]
+  ],
+  "url": "/recipes/surprise-spread-11.json"
 }

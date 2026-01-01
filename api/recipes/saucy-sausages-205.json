@@ -106,6 +106,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
+      "url": "recipes/beef-porcupines-163",
       "similarity": "0.33"
     },
     {
@@ -163,6 +164,7 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
+      "url": "recipes/oven-barbecued-pork-chops-210",
       "similarity": "0.33"
     },
     {
@@ -206,6 +208,7 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
+      "url": "recipes/spareribs-to-go-204",
       "similarity": "0.33"
     },
     {
@@ -251,6 +254,7 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
+      "url": "recipes/cheesy-meat-loaf-153",
       "similarity": "0.32"
     },
     {
@@ -304,7 +308,9 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
+      "url": "recipes/chicken-breast-212",
       "similarity": "0.31"
     }
-  ]
+  ],
+  "url": "/recipes/saucy-sausages-205.json"
 }
