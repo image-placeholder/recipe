@@ -45,15 +45,11 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-
-      # Install Node as this is needed for PurgeCSS
-      - name: Setup Node
+ 
+      - name: Running Pre-build tasks
         run: |
-          npm install --save @fortawesome/fontawesome-free
-          npm install --save copy-webpack-plugin
-          npm install -g purgecss
-          npm install tailwindcss@3.4.17 postcss autoprefixer
-          npx tailwindcss -i ./assets/css/_tailwind.css -o ./assets/css/tailwind.css --minify
+          chmod +x _build/sh/preBuild.sh
+          ./_build/sh/preBuild.sh
 
 
       - name: Set up Node.js environment
@@ -77,6 +73,11 @@ jobs:
         with:
           filename: _site/assets/
           recursion: true
+
+      - name: Running Post-Build tasks
+        run: |
+          chmod +x _build/sh/postBuild.sh
+          ./_build/sh/postBuild.sh
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
