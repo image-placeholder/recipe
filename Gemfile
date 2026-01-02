@@ -21,7 +21,7 @@ gem 'httpparty'
 gem 'jekyll-paginate'
 gem 'nokogiri'  
 gem 'parallel'
- 
+gem 'uglifier'
 # Optional: Use `jekyll-asset-minifier` for asset minification.
 
 
