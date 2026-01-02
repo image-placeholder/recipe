@@ -86,6 +86,15 @@ jekyll-minifier:
   exclude: ["robots.txt", "search.json", "assets/js/pwa/manifest.json"]
 
 
+
+# -----------------------------------------------------------------------------
+# Food Recommendation System
+# -----------------------------------------------------------------------------
+
+recommendations:
+  engine: transformers   # transformers | simple
+  model: all-MiniLM-L6-v2
+
  
 
 # -----------------------------------------------------------------------------
