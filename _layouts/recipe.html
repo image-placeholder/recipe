@@ -189,7 +189,7 @@
     
     <div class="flex-1 pr-0 md:pr-12 md:border-r border-stone-100 mb-12 md:mb-0">
       {% if page.pagination.previous %}
-        <a href="{{ page.pagination.previous.url | relative_url }}" class="group block no-underline">
+        <a href="{{ page.pagination.previous.url | append: '&camefrom=pagination_recipe' | relative_url }}" class="group block no-underline">
           <span class="flex items-center gap-2 uppercase tracking-[0.4em] text-[9px] font-bold text-stone-400 mb-4 transition-transform group-hover:-translate-x-1">
             <span>&larr;</span> Previous Recipe
           </span>
@@ -202,7 +202,9 @@
 
     <div class="flex-1 pl-0 md:pl-12 text-right">
       {% if page.pagination.next %}
-        <a href="{{ page.pagination.next.url | relative_url }}" class="group block no-underline">
+
+      
+        <a href="{{ page.pagination.next.url | append: '&camefrom=pagination_recipe' | relative_url }}" class="group block no-underline">
           <span class="flex items-center justify-end gap-2 uppercase tracking-[0.4em] text-[9px] font-bold text-stone-400 mb-4 transition-transform group-hover:translate-x-1">
             Next Recipe <span>&rarr;</span>
           </span>
@@ -268,7 +270,7 @@
 <script>
   (function () {
     const params = new URLSearchParams(window.location.search);
-    const cameFromAllRecipes = params.get('camefrom') === 'allrecipes';
+    const cameFromAllRecipes = params.get('camefrom') === 'allrecipes' || params.get('camefrom') === 'pagination_recipe';
 
     if (!cameFromAllRecipes) return;
 
