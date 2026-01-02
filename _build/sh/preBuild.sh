@@ -20,5 +20,6 @@ npx tailwindcss -i ./assets/css/_tailwind.css -o ./assets/css/tailwind.min.css -
 
 echo "✔ Tailwind Compiled To /assets/css/tailwind.min.css"
 
+sudo apt-get install -y libgbm-dev
 npm install -g puppeteer
 
