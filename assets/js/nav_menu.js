@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const openMenu = () => {
     mobileMenu.classList.add('translate-x-0');
     mobileMenu.classList.remove('translate-x-full');
-
+    addMenuListeners();
     menuOverlay.classList.remove('hidden');
     requestAnimationFrame(() => menuOverlay.classList.add('opacity-100'));
     enableFocus();
