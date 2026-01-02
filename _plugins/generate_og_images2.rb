@@ -8,29 +8,36 @@ module Jekyll
     safe true
     priority :normal
 
-    def generate(site)
-      # 1. Use total processors minus 1 to avoid freezing the machine
+     def generate(site)
       workers = [Etc.nprocessors - 1, 1].max
-      
       og_folder = site.config['og_images_folder'] || 'assets/og-images'
       output_dir = File.join(site.source, og_folder)
       FileUtils.mkdir_p(output_dir)
-
-      # 2. Filter posts FIRST so we don't pass unnecessary data to threads
+    
       posts_to_process = (site.posts.docs + site.pages).reject do |post|
         post.content =~ /(?:src|href)=["']?(https?:\/\/[^"'\s]+\.(?:jpg|jpeg|png|gif|svg))/i || post.data['image']
       end
-
-      Jekyll.logger.info "OG Generation:", "Processing #{posts_to_process.size} items using #{workers} workers..."
-
-      # 3. Use Parallel with processes (forking) to avoid GVL/Thread-safety issues
+    
+      # 1. GENERATE IMAGES IN PARALLEL
+      # We don't try to update the 'post' object here.
       Parallel.each(posts_to_process, in_processes: workers) do |post|
-        process_single_post(post, site, output_dir, og_folder)
+        generate_image_file(post, site, output_dir, og_folder)
       end
-
-      Jekyll.logger.info "OG Generation:", "Complete."
+    
+      # 2. UPDATE METADATA IN SEQUENTIAL (MAIN PROCESS)
+      # Now that files exist on disk, update the actual objects Jekyll uses.
+      posts_to_process.each do |post|
+        slug = normalize_slug(post.data['slug'] || post.data['title'])
+        og_image_name = "#{slug}-og.png"
+        relative_path = File.join('/', og_folder, og_image_name)
+        
+        # Update the post data so it persists in the main build
+        post.data['image'] = relative_path
+        
+        # Ensure Jekyll knows this is a static file to be copied to _site
+        site.static_files << Jekyll::StaticFile.new(site, site.source, og_folder, og_image_name)
+      end
     end
-
     private
 
     def process_single_post(post, site, output_dir, og_folder)
