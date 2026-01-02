@@ -330,12 +330,11 @@ title: "Search Recipes"
   /* ----------------------------------
      Controller
   ---------------------------------- */
-  const handleSearch = debounce((value) => {
+  const handleSearch = debounce((value, paramSearch=false) => {
     // Update URL dynamically without reloading
     const newUrl = `${window.location.pathname}?q=${encodeURIComponent(value)}`;
     history.replaceState(null, '', newUrl);
     const query = normalize(value);
-
     observer?.disconnect();
     renderedCount = 0;
     filtered = [];
@@ -376,7 +375,10 @@ title: "Search Recipes"
   // If URL has ?q=..., pre-fill and auto-search
   const urlParams = new URLSearchParams(window.location.search);
   const queryParam = urlParams.get('q');
-  if (queryParam) handleSearch(queryParam.toLowerCase());
+  if (queryParam) {
+    DOM.input.value = queryParam;
+    handleSearch(queryParam, true);
+  }
 
   // Remove DOMContentLoaded listener after init
   document.removeEventListener('DOMContentLoaded', init);
