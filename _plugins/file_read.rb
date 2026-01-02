@@ -1,3 +1,4 @@
+require 'uglifier' # For JS minification
 module Jekyll
   class FileReadTag < Liquid::Tag
     @@cache = {}
@@ -35,6 +36,26 @@ module Jekyll
           body_content = content
         end
 
+        # MINIFICATION LOGIC
+        if @file_path.end_with?('.js')
+          begin
+            expanded_content = Uglifier.new(harmony: true).compile(expanded_content)
+          rescue => e
+            Jekyll.logger.warn "Terser Error:", "Could not minify #{@file_path}: #{e.message}"
+          end
+        end
+
+        # MINIFICATION LOGIC
+        if @file_path.end_with?('.html')
+          begin
+            put "todo add gem 'htmlcompressor'"
+            #expanded_content = Uglifier.new(harmony: true).compile(expanded_content)
+          rescue => e
+            Jekyll.logger.warn "Terser Error:", "Could not minify #{@file_path}: #{e.message}"
+          end
+        end
+
+        
         # Manually parse and render the content with the Liquid context
         template = Liquid::Template.parse(body_content)
         expanded_content = template.render(context)
