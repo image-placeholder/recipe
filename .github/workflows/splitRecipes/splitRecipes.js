@@ -5,10 +5,53 @@ const _fs = require('fs').promises;
 const {getSimilarRecipes} = require("./similarRecipes.js");
 const humanizeDuration = require('humanize-duration');
 const {RecipeEngine} = require('./RecipeEngine.js');
-// Initialize with a custom filename
-const engine = new RecipeEngine('./recipe-vectors.json');
 
 
+
+
+function loadJekyllConfig(configPath = '_config.yml') {
+  try {
+    const fullPath = path.resolve(process.cwd(), configPath);
+    if (!fs.existsSync(fullPath)) {
+      return {};
+    }
+
+    const file = fs.readFileSync(fullPath, 'utf8');
+    return yaml.load(file) || {};
+  } catch (err) {
+    console.warn('[config] Failed to load _config.yml:', err.message);
+    return {};
+  }
+}
+
+function createSimilarityEngine(settings) {
+  if (settings.engine === 'transformers') {
+    // Initialize with a custom filename
+    const engine = new RecipeEngine(settings.vector_path);
+    return {
+      type: 'transformers',
+      model: settings.model,
+      similarity: engine.getRecommendations
+    };
+  }
+
+  return {
+    type: 'simple',
+    similarity: getSimilarRecipes
+  };
+}
+
+
+function getRecommendationSettings(config) {
+  const rec = config.recommendations || {};
+
+  return {
+    engine: rec.engine === 'transformers' ? 'transformers' : 'simple',
+    model: typeof rec.model === 'string' ? rec.model : 'all-MiniLM-L6-v2',
+    vector_path: typeof rec.vector_path === 'string' ? rec.vector_path : './recipe-vectors.json'
+    
+  };
+}
 
 
 // ----------------------------------
@@ -72,12 +115,12 @@ async function naturalizeRecipeTimes(recipes) {
 
 
 
-async function similarRecipes(recipe, recipes, amount=5) {
+async function similarRecipes(recipe, recipes, amount=5, engine) {
   if (!recipe || typeof recipe !== 'object') return recipe;
 
   return {
     ...recipe,
-    _similar: await engine.getRecommendations(recipe, recipes, amount),
+    _similar: await engine(recipe, recipes, amount),
   };
 }
 
@@ -123,7 +166,10 @@ const generateRecipes = async () => {
     const rawData = fs.readFileSync(DATA_FILE, 'utf8');
     const recipes = JSON.parse(rawData);
     console.log(`Processing ${recipes.length} recipes...`);
-
+    const config = loadJekyllConfig();
+    const settings = getRecommendationSettings(config);
+    const engine = createSimilarityEngine(settings);
+    console.log(`Using ${engine.engine} for calculating similar recipes...`);
     // First pass: Pre-assign URLs so recommendations have valid links when rendered in JEKYLL. 
     const recipesWithUrls = recipes.map((recipe, index) => {
       const id = recipe.id || (index + 1);
@@ -151,10 +197,10 @@ const generateRecipes = async () => {
       const filePath = path.join(OUTPUT_DIR, 'recipes');
       ensureDir(filePath);
 
-      console.log(`Processing AI for: ${recipe.name}`);
+      console.log(`Processing similarities for: ${recipe.name}`);
 
       // Run Recommendation System (Await now works correctly)
-      const recipeWithRecs = await similarRecipes(recipe, recipesWithUrls, 5);
+      const recipeWithRecs = await similarRecipes(recipe, recipesWithUrls, 5, engine.engine);
 
       delete recipeWithRecs.url; // if you don't it will get stuck in /recipe/#id.json in Jekyll build. 
       // Write individual recipe file
