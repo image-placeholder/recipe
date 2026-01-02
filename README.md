@@ -1,3 +1,38 @@
+# Build Hooks: Pre-Build & Post-Build
+
+Our Jekyll project includes **pre-build** and **post-build** shell scripts that you can modify to customize your build process.
+
+## File Locations
+
+| Hook       | File Path                | Purpose                                                                                                                                                    |
+| ---------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-Build  | `_build/sh/preBuild.sh`  | Run any commands **before Jekyll builds**. For example: generating data files, cleaning directories, or installing dependencies like **Tailwind CSS**.     |
+| Post-Build | `_build/sh/postBuild.sh` | Run any commands **after Jekyll has built the site**. For example: installing frontend packages like Font Awesome, running PurgeCSS, or processing assets. |
+
+
+
+## Notes
+
+* Scripts are written in **POSIX shell (`sh`)** for maximum portability.
+* **Tailwind CSS is installed in `preBuild.sh`**, so your styles are compiled before Jekyll builds the site.
+* Using these hooks lets you **extend your build process without modifying core Jekyll files**.
+* Keep in mind the **order matters**:
+
+  1. `preBuild.sh` runs **before** the Jekyll build.
+  2. `postBuild.sh` runs **after** the Jekyll build completes.
+
+---
+
+## Example Use Cases
+
+* **preBuild.sh**
+
+  * Install **Tailwind CSS**
+  * Compile Sass or other assets
+
+* **postBuild.sh**
+  * Optimize images or minify assets produced by Jekyll build.
+
 # Recommendation System
 
 The `_similar` array is **generated at build time** by the recipe recommendation system and is intended for use **only inside**:
