@@ -97,6 +97,12 @@ This ensures recipe pages always feel intentional and complete.
 
 ---
 
+## Modify the default simple engine
+
+If you would like to customize, the simple recommendation simple modify the [similarRecipes.js](.github/workflows/splitRecipes/similarRecipes.js#L58) function written in JavaScript. 
+
+---
+
 ## Notes
 
 * `_similar` is **static** and generated during build
