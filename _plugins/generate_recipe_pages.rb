@@ -137,7 +137,8 @@ module Jekyll
             "current_page" => page_num,
             "total_pages"  => total_pages,
             "next_page"    => page_num < total_pages ? page_num + 1 : nil,
-            "prev_page"    => page_num > 1 ? page_num - 1 : nil
+            "prev_page"    => page_num > 1 ? page_num - 1 : nil,
+            "base_url"     => "/recipes/"
           }
         }
 
