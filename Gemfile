@@ -10,6 +10,7 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-sitemap'
     gem 'jekyll-seo-tag'
+    gem 'uglifier'
     gem 'jekyll-purge-css', :git => "https://github.com/MUmarShahbaz/jekyll-purge-css.git"
     gem 'jekyll-archives-v2'
     gem 'jekyll-minifier'
