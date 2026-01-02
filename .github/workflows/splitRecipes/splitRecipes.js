@@ -5,7 +5,7 @@ const _fs = require('fs').promises;
 const {getSimilarRecipes} = require("./similarRecipes.js");
 const humanizeDuration = require('humanize-duration');
 const {RecipeEngine} = require('./RecipeEngine.js');
-
+const yaml = require('js-yaml');
 
 
 
@@ -200,7 +200,7 @@ const generateRecipes = async () => {
       console.log(`Processing similarities for: ${recipe.name}`);
 
       // Run Recommendation System (Await now works correctly)
-      const recipeWithRecs = await similarRecipes(recipe, recipesWithUrls, 5, engine.engine);
+      const recipeWithRecs = await similarRecipes(recipe, recipesWithUrls, 5, engine.similarity);
 
       delete recipeWithRecs.url; // if you don't it will get stuck in /recipe/#id.json in Jekyll build. 
       // Write individual recipe file
