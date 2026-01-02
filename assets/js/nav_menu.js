@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
   focusables.forEach(el => el.setAttribute('tabindex', '-1'));
 
-  toggle.focus();
+  menuToggle.focus();
 }
   const toggleMenu = () => (isOpen() ? closeMenu() : openMenu());
 
