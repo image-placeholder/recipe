@@ -68,7 +68,6 @@ defaults:
 plugins:
  # - octopress-minify-html
   - jekyll-sitemap
-  - jekyll-assets
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-minifier
