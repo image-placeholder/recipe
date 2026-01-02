@@ -23,6 +23,7 @@ module Jekyll
         format: 'png',
         viewport: { width: 1200, height: 630 },
         wait_until: 'networkidle0',
+        root_path: Dir.pwd,
         launch_args: ['--no-sandbox', '--disable-setuid-sandbox', '--font-render-hinting=none']
       }
 
