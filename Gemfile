@@ -16,15 +16,13 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'mini_magick'
     gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
+    gem 'httpparty'
+    gem 'jekyll-paginate'
+    gem 'nokogiri'  
+    gem 'parallel'
 end
 
 # Optional: Use `jekyll-asset-minifier` for asset minification.
- 
-gem 'httpparty'
-gem 'jekyll-paginate'
-gem 'nokogiri'
-
-gem 'parallel'
 
 
 # If you're using any CSS preprocessors (like Sass), you can add this:
