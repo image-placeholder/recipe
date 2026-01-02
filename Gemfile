@@ -6,23 +6,22 @@ source 'https://rubygems.org' # This is where Bundler will fetch gems from.
 gem 'jekyll', '~> 4.0'
 
 # Core plugins that directly affect site building
-group :jekyll_plugins do
-    gem 'jekyll-minifier'
-    gem 'jekyll-sitemap'
-    gem 'jekyll-seo-tag'
-    gem 'uglifier'
-    gem 'jekyll-purge-css', :git => "https://github.com/MUmarShahbaz/jekyll-purge-css.git"
-    gem 'jekyll-archives-v2'
-    gem 'jekyll-minifier'
-    gem 'jekyll-sitemap'
-    gem 'mini_magick'
-    gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
-    gem 'httpparty'
-    gem 'jekyll-paginate'
-    gem 'nokogiri'  
-    gem 'parallel'
-end
-
+ 
+gem 'jekyll-minifier'
+gem 'jekyll-sitemap'
+gem 'jekyll-seo-tag'
+gem 'uglifier'
+gem 'jekyll-purge-css', :git => "https://github.com/MUmarShahbaz/jekyll-purge-css.git"
+gem 'jekyll-archives-v2'
+gem 'jekyll-minifier'
+gem 'jekyll-sitemap'
+gem 'mini_magick'
+gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
+gem 'httpparty'
+gem 'jekyll-paginate'
+gem 'nokogiri'  
+gem 'parallel'
+ 
 # Optional: Use `jekyll-asset-minifier` for asset minification.
 
 
