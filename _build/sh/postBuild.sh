@@ -4,16 +4,6 @@ set -e
 
 echo "Running post build script...."
 
-echo "▶ Installing Font Awesome"
+# put any of your post build scripts here
 
-npm install --save @fortawesome/fontawesome-free
-npm install --save copy-webpack-plugin
-
-echo "✔ Font Awesome installed"
-
-echo "▶ Installing Tailwind"
-npm install -g purgecss
-npm install tailwindcss@3.4.17 postcss autoprefixer
-npx tailwindcss -i ./assets/css/_tailwind.css -o ./assets/css/tailwind.css --minify
-
-echo "✔ Tailwind installed"
+echo "▶ Post build script finished"
