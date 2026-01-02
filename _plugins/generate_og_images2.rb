@@ -70,6 +70,22 @@ module Jekyll
       text.to_s.downcase.strip.gsub(/[^a-z0-9]+/, '-')
     end
     
-    # ... render_template logic ...
+    def render_template(site, template_path, post, blogPost = true)
+      template = File.read(File.join(site.source, template_path))
+      liquid = Liquid::Template.parse(template)
+
+      raw_excerpt = post.data['excerpt'] || post.content[0..150]
+      excerpt_content = raw_excerpt.is_a?(Jekyll::Excerpt) ? raw_excerpt.to_s : raw_excerpt.to_s
+      excerpt_content = "No preview available" if excerpt_content.strip.empty?
+
+      payload = {
+        'title' => post.data['title']&.strip || "Untitled",
+        'site' => site.config
+      }
+      payload['excerpt'] = excerpt_content.strip if blogPost
+      payload['date'] = post.date.strftime('%B %d, %Y') if blogPost && post.respond_to?(:date)
+
+      liquid.render(payload)
+    end
   end
 end
