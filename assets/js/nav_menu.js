@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const searchInput = document.getElementById('menu-search');
   const closeBtn = mobileMenu?.querySelector('[data-close-btn]');
   const body = document.body;
-
+  const focusables = mobileMenu.querySelectorAll('a, button, input, select, textarea');
   const line1 = document.getElementById('line-1');
   const line2 = document.getElementById('line-2');
   const line3 = document.getElementById('line-3');
@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     menuOverlay.classList.remove('hidden');
     requestAnimationFrame(() => menuOverlay.classList.add('opacity-100'));
-
+    enableFocus();
     body.classList.add('overflow-hidden');
 
     // Hamburger → X
@@ -70,7 +70,8 @@ document.addEventListener('DOMContentLoaded', () => {
     line2?.classList.add('opacity-0');
     line3?.classList.add('rotate-45', 'translate-y-[5px]', 'w-[20px]');
 
-    addMenuListeners();
+    
+
 
     setTimeout(() => searchInput?.focus(), 400);
   };
@@ -88,15 +89,29 @@ document.addEventListener('DOMContentLoaded', () => {
     line1?.classList.remove('-rotate-45', '-translate-y-[5px]', 'w-[20px]');
     line2?.classList.remove('opacity-0');
     line3?.classList.remove('rotate-45', 'translate-y-[5px]', 'w-[20px]');
-
+    disableFocus();
     removeMenuListeners();
   };
 
+  function enableFocus(){
+    
+    focusables.forEach(el => el.removeAttribute('tabindex'));
+
+    // Optional: move focus into menu
+    focusables[0]?.focus();
+  }
+
+  function disableFocus(){
+  
+  focusables.forEach(el => el.setAttribute('tabindex', '-1'));
+
+  toggle.focus();
+}
   const toggleMenu = () => (isOpen() ? closeMenu() : openMenu());
 
   /* ------------------------
      Base Binding (always on)
   ------------------------ */
-
+  disableFocus(); // disable focus on init
   menuToggle.addEventListener('click', toggleMenu);
 });
