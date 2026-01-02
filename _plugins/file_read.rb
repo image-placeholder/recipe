@@ -1,4 +1,5 @@
-require 'uglifier' # For JS minification
+require 'yaml'
+
 module Jekyll
   class FileReadTag < Liquid::Tag
     @@cache = {}
@@ -12,65 +13,54 @@ module Jekyll
       # Check cache first
       return @@cache[@file_path] if @@cache.key?(@file_path)
 
-      # Build the full file path relative to the Jekyll site's root directory
-      file_path = File.join(Dir.pwd, @file_path)
+      site = context.registers[:site]
+      
+      # 1. Look for the file in site.pages (for files with Front Matter) 
+      # or site.static_files (for raw assets)
+      target_file = site.pages.find { |p| p.path == @file_path } || 
+                    site.static_files.find { |f| f.relative_path == @file_path }
 
-      if File.exist?(file_path)
-        # Read the content of the file
-        content = File.read(file_path)
+      if target_file
+        # Grab the output if it's already generated, otherwise read the raw content
+        # .output is usually populated after minification/processing
+        content = target_file.respond_to?(:output) && !target_file.output.nil? ? target_file.output : nil
+        
+        # Fallback to reading the physical file if it hasn't been "rendered" yet
+        if content.nil?
+          full_path = File.join(site.source, @file_path)
+          content = File.exist?(full_path) ? File.read(full_path) : nil
+        end
 
-        # If the file contains YAML front matter (i.e., starts with '---'), parse it
+        return "Error: File content empty or unreadable." if content.nil?
+
+        # 2. Process Front Matter if it exists
         if content.start_with?('---')
-          front_matter_end_index = content.index('---', 3) # Get end of YAML front matter
-          if front_matter_end_index
-            front_matter = content[3..front_matter_end_index-1] # Extract YAML
-            body_content = content[(front_matter_end_index + 3)..] # Extract content after YAML front matter
-
-            # Parse the YAML front matter into a hash
-            front_matter_hash = YAML.load(front_matter)
-
-            # Merge the front matter hash into the context (so we can access it in Liquid)
-            context['front_matter'] = front_matter_hash
+          begin
+            if content =~ /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
+              front_matter_raw = $1
+              body_content = $' # Content after the match
+              context['front_matter'] = YAML.safe_load(front_matter_raw)
+            end
+          rescue => e
+            Jekyll.logger.warn "FileReadTag:", "Error parsing YAML in #{@file_path}: #{e.message}"
+            body_content = content
           end
         else
           body_content = content
         end
 
-        # MINIFICATION LOGIC
-        if @file_path.end_with?('.js')
-          begin
-            expanded_content = Uglifier.new(harmony: true).compile(expanded_content)
-          rescue => e
-            Jekyll.logger.warn "Terser Error:", "Could not minify #{@file_path}: #{e.message}"
-          end
-        end
-
-        # MINIFICATION LOGIC
-        if @file_path.end_with?('.html')
-          begin
-            put "todo add gem 'htmlcompressor'"
-            #expanded_content = Uglifier.new(harmony: true).compile(expanded_content)
-          rescue => e
-            Jekyll.logger.warn "Terser Error:", "Could not minify #{@file_path}: #{e.message}"
-          end
-        end
-
-        
-        # Manually parse and render the content with the Liquid context
+        # 3. Render Liquid (allows included scripts to use liquid variables)
         template = Liquid::Template.parse(body_content)
         expanded_content = template.render(context)
 
-        # Cache the result
+        # Cache and return
         @@cache[@file_path] = expanded_content
-
-        # Return the expanded content
         expanded_content
       else
-        "Error: File not found."
+        "Error: File #{@file_path} not found in site static files or pages."
       end
     end
   end
 end
 
-# Register the tag with Jekyll
 Liquid::Template.register_tag('file_read', Jekyll::FileReadTag)
