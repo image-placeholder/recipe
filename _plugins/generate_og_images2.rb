@@ -44,9 +44,9 @@ module Jekyll
         attach_to_post(post, site, og_folder, og_image_name, relative_path)
         return
       end
-
+      template_path = site.config['og_template'] || '_includes/og-template.html'
       # Render HTML directly to a variable
-      html_content = render_template(site, post)
+      html_content = render_template(post, site, template_path, false)
 
       # 4. Pipe directly to wkhtmltoimage (Avoids temp file I/O)
       cmd = "wkhtmltoimage --width 1200 --height 630 --quality 85 - - " # Dash means stdin/stdout
