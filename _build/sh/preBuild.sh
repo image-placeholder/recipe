@@ -20,6 +20,7 @@ npx tailwindcss -i ./assets/css/_tailwind.css -o ./assets/css/tailwind.min.css -
 
 echo "✔ Tailwind Compiled To /assets/css/tailwind.min.css"
 
-sudo apt-get install -y libgbm-dev
+# These are the Linux libraries Chrome needs to run in a headless environment
+sudo apt-get update
+sudo apt-get install -y libgbm-dev libnss3 libatk-bridge2.0-0 libgtk-3-0 libasound2
 npm install -g puppeteer
-
