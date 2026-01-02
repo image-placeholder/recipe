@@ -72,7 +72,6 @@ plugins:
   - jekyll-paginate
   - jekyll-minifier
   - jekyll-archives-v2
-  - jekyll-collection-pages
   - jekyll-purge-css
   - jekyll-terser
   
