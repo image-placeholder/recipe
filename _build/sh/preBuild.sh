@@ -19,3 +19,5 @@ echo "▶ Compiling Tailwind CSS"
 npx tailwindcss -i ./assets/css/_tailwind.css -o ./assets/css/tailwind.min.css --minify
 
 echo "✔ Tailwind Compiled To /assets/css/tailwind.min.css"
+
+npm install puppeteer
