@@ -46,9 +46,35 @@ module Jekyll
           schema = data.dup
 
           # 🔥 Remove persisted build-time fields to be removed from recipe schemas.
-          ["_naturalized_times", "_similar"].each do |field|
-            schema.delete(field) if schema.key?(field)
-          end
+
+          # ✅ Allowed recipe schema keys (https://schema.org/Recipe)
+          allowed_keys = %w[
+            url
+            name
+            image
+            description
+            cookTime
+            cookTimeOriginalFormat
+            prepTime
+            prepTimeOriginalFormat
+            totalTime
+            totalTimeOriginalFormat
+            recipeYield
+            recipeIngredients
+            recipeInstructions
+            recipeCategories
+            recipeCuisines
+            recipeTypes
+            keywords
+          ]
+          
+          # 🔥 Strip everything else
+          schema.select! { |key, _| allowed_keys.include?(key) }
+
+          # Old way - saved for usage later possibly. 
+          #["_naturalized_times", "_similar"].each do |field|
+          #  schema.delete(field) if schema.key?(field)
+          #end
           
           page.data = data.merge(
             "layout"    => "recipe",
