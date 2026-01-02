@@ -22,6 +22,7 @@ gem 'jekyll-paginate'
 gem 'nokogiri'  
 gem 'parallel'
 gem 'uglifier'
+gem 'grover'
 # Optional: Use `jekyll-asset-minifier` for asset minification.
 
 
