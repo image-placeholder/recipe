@@ -50,7 +50,7 @@
         {% assign href = href | append: '?camefrom=category&category=' %}
       {% endif %}
     {% endif %}
-      <a href="{{ href | relative_url }}" class="border-b border-stone-100 pb-4 group flex justify-between items-baseline">
+      <a href="{{ href }}" class="border-b border-stone-100 pb-4 group flex justify-between items-baseline">
         <span class="serif text-xl text-stone-800 group-hover:text-stone-500 transition-colors">{{ recipe.title }}</span>
         <span class="uppercase tracking-widest text-[9px] text-stone-400">View &rarr;</span>
       </a>
