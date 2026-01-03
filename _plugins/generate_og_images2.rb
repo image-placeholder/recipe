@@ -21,7 +21,7 @@ module Jekyll
       # 1. GENERATE IMAGES IN PARALLEL
       # We don't try to update the 'post' object here.
       Parallel.each(posts_to_process, in_processes: workers) do |post|
-        generate_image_file(post, site, output_dir, og_folder)
+        generate_image_file(post, site)
       end
     
       # 2. UPDATE METADATA IN SEQUENTIAL (MAIN PROCESS)
