@@ -1,3 +1,75 @@
+# Recipes Data
+
+Recipes **must be stored in `_data/recipes.json`** as an **array of Schema.org `Recipe` objects**.
+
+Each entry in the array represents **one `Recipe` entity** and must conform to the **Schema.org [`Recipe`](https://schema.org/Recipe)** specification.
+
+## Data Format
+
+* `_data/recipes.json` must contain a **JSON array**
+* Each array item must be a **valid `Recipe` object**
+* The file must be valid JSON (no trailing commas, comments, or malformed values)
+
+Example structure (simplified):
+
+```json
+[
+  { "name": "Recipe One", "...": "..." },
+  { "name": "Recipe Two", "...": "..." }
+]
+```
+
+## Supported `Recipe` Properties
+
+During the build process, recipe objects are **filtered to supported Schema.org `Recipe` properties**. Only the following properties are preserved and emitted:
+
+* `url`
+* `name`
+* `image`
+* `description`
+* `prepTime`
+* `cookTime`
+* `totalTime`
+* `recipeYield`
+* `recipeIngredient`
+* `recipeInstructions`
+* `recipeCategory`
+* `recipeCuisine`
+* `keywords`
+
+All other properties, including build-time or non-Schema.org fields, are removed.
+
+## Build Pipeline
+
+1. **Node.js preprocessing**
+
+   * Parses `_data/recipes.json`
+   * Validates and normalizes each `Recipe` object
+   * May introduce temporary, build-time–only fields
+
+2. **Jekyll generation**
+
+   * Consumes the processed recipe data
+   * Removes non-Schema.org and build-time properties
+   * Generates:
+
+     * Individual recipe pages
+     * Paginated recipe indexes
+     * Paginated `recipeCategory` and `recipeCuisine` archive pages
+
+## Slug & URL Behavior
+
+* Each recipe page is generated from its position in the array
+* Slugs are derived from recipe identifiers during generation
+* Duplicate slugs are automatically disambiguated
+
+## Data Integrity
+
+* All recipes must be valid `Recipe` objects
+* Invalid or non-conforming entries may be excluded from the build
+* Cleaned recipe data may be written back during the build process
+
+
 # Build Hooks: Pre-Build & Post-Build
 
 Our Jekyll project includes **pre-build** and **post-build** shell scripts that you can modify to customize your build process.
