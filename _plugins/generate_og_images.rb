@@ -1,5 +1,3 @@
-ENV['NODE_PATH'] = File.expand_path('node_modules', Dir.pwd)
-
 require 'grover'
 require 'fileutils'
 require 'parallel'
