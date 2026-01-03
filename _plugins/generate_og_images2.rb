@@ -27,7 +27,8 @@ module Jekyll
       # 2. UPDATE METADATA IN SEQUENTIAL (MAIN PROCESS)
       # Now that files exist on disk, update the actual objects Jekyll uses.
       posts_to_process.each do |post|
-        slug = normalize_slug(post.data['slug'] || post.data['title'])
+        title_data = post.data['slug'] || post.data['title'] || "untitled"
+        slug = normalize_slug(title_data.to_s)
         og_image_name = "#{slug}-og.png"
         relative_path = File.join('/', og_folder, og_image_name)
         
