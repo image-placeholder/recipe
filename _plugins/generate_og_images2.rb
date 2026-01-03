@@ -40,6 +40,23 @@ module Jekyll
     end
     private
 
+
+     def generate_image(html_file, output_path)
+      FileUtils.mkdir_p(File.dirname(output_path))
+      FileUtils.chmod(0755, File.dirname(output_path))
+
+      cmd = "wkhtmltoimage --width 1200 --height 630 --quality 85 '#{html_file}' '#{output_path}'"
+      stdout, stderr, status = Open3.capture3(cmd)
+
+      if status.success?
+        Jekyll.logger.info "Generated OG image: #{output_path}"
+        true
+      else
+        Jekyll.logger.error "wkhtmltoimage failed: #{stderr.strip}"
+        false
+      end
+    end   
+
     def process_single_post(post, site, output_dir, og_folder)
       slug = normalize_slug(post.data['slug'] || post.data['title'])
       og_image_name = "#{slug}-og.png"
