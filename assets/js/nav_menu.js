@@ -69,10 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
     line1?.classList.add('-rotate-45', '-translate-y-[5px]', 'w-[20px]');
     line2?.classList.add('opacity-0');
     line3?.classList.add('rotate-45', 'translate-y-[5px]', 'w-[20px]');
-
     
-
-
     setTimeout(() => searchInput?.focus(), 400);
   };
 
@@ -94,24 +91,21 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 
   function enableFocus(){
-    
     focusables.forEach(el => el.removeAttribute('tabindex'));
-
-    // Optional: move focus into menu
-    focusables[0]?.focus();
   }
 
-  function disableFocus(){
+  function disableFocus(toggleFocus=true){
   
   focusables.forEach(el => el.setAttribute('tabindex', '-1'));
-
+  if(toggleFocus){
   menuToggle.focus();
+  }
 }
   const toggleMenu = () => (isOpen() ? closeMenu() : openMenu());
 
   /* ------------------------
      Base Binding (always on)
   ------------------------ */
-  disableFocus(); // disable focus on init
+  disableFocus(false); // disable focus on init
   menuToggle.addEventListener('click', toggleMenu);
 });
