@@ -24,4 +24,4 @@ echo "✔ Tailwind Compiled To /assets/css/tailwind.min.css"
 sudo apt update
 sudo apt-get update
 sudo apt-get install -y libgbm-dev libnss3 libatk-bridge2.0-0 libgtk-3-0 libasound2t64
-npm install -g puppeteer
+npm install puppeteer
