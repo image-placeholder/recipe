@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ page.description }}">
-  <script src="https://cdn.tailwindcss.com"></script> 
   <script type="application/ld+json">
     {{ page.recipe_schema | jsonify }}
   </script>
@@ -146,7 +145,7 @@
     
 {% if recommendations and recommendations.size > 0 %}
 <section class="max-w-7xl mx-auto px-6 py-20 border-t border-stone-200 mt-20">
-  <h3 class="serif text-3xl mb-12">
+  <h3 class="font-serif italic text-3xl mb-12 text-stone-800">
     Explore Similar Recipes
   </h3>
 
@@ -158,20 +157,20 @@
                 opacity-0 translate-y-6 animate-fade-up"
          style="animation-delay: {{ forloop.index0 | times: 120 }}ms">
 
-        <span class="text-xs uppercase tracking-widest text-stone-400 mb-4 block">
+        <span class="text-xs uppercase tracking-widest text-stone-400 mb-4 block font-bold">
             Recommended
         </span>
 
-        <h4 class="text-2xl mb-4 group-hover:text-amber-900 transition-colors">
+        <h4 class="font-serif text-2xl mb-4 group-hover:text-stone-600 transition-colors">
           {{ recipe.name }}
         </h4>
 
-        <p class="text-sm text-stone-500 leading-relaxed mb-6">
+        <p class="text-sm text-stone-500 italic leading-relaxed mb-6 font-light">
           {{ recipe.description }}
         </p>
 
         <div class="flex items-center justify-between text-xs uppercase tracking-widest font-bold">
-          <span class="border-b border-stone-900">
+          <span class="border-b border-stone-900 pb-1">
             View Recipe
           </span>
 
