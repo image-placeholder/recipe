@@ -41,7 +41,7 @@ module Jekyll
     private
 
 
-     def generate_image(html_file, output_path)
+     def generate_image_file(html_file, output_path)
       FileUtils.mkdir_p(File.dirname(output_path))
       FileUtils.chmod(0755, File.dirname(output_path))
 
