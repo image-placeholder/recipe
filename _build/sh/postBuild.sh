@@ -1,7 +1,8 @@
 #!/usr/bin/env sh
 set -e
 
-OG_PATH="assets/og-images"
+SITE_OG_PATH="_site/assets/og-images"
+REPO_OG_PATH="assets/og-images"
 TARGET_BRANCH="main"
 
 echo "▶ Running post build script for OG images..."
@@ -35,17 +36,20 @@ if [ "$CURRENT_BRANCH" != "$TARGET_BRANCH" ]; then
 fi
 
 # -----------------------------
-# Check for changes
+# Ensure OG directory exists in repo
 # -----------------------------
-if [ ! -d "$OG_PATH" ]; then
-  echo "No $OG_PATH directory — nothing to commit."
+if [ ! -d "$SITE_OG_PATH" ]; then
+  echo "No generated OG images found at $SITE_OG_PATH — nothing to move."
   exit 0
 fi
 
-#if git diff --quiet -- "$OG_PATH"; then
-#  echo "No changes detected in $OG_PATH — skipping commit."
-#  exit 0
-#fi
+mkdir -p "$REPO_OG_PATH"
+
+# -----------------------------
+# Copy files from _site to repo folder
+# -----------------------------
+echo "Copying OG images from $SITE_OG_PATH to $REPO_OG_PATH..."
+cp -u "$SITE_OG_PATH"/* "$REPO_OG_PATH"/
 
 # -----------------------------
 # Configure GitHub token for push
@@ -55,13 +59,18 @@ if [ -n "$GITHUB_TOKEN" ]; then
 fi
 
 # -----------------------------
-# Commit & push
+# Commit & push changes if any
 # -----------------------------
 git config --global user.email "github-actions[bot]@users.noreply.github.com"
 git config --global user.name "github-actions[bot]"
 
-git add "$OG_PATH"
-git commit -m "Add/update generated OG images"
-git push --quiet
+if git diff --quiet "$REPO_OG_PATH"; then
+  echo "No changes detected in $REPO_OG_PATH — skipping commit."
+else
+  git add "$REPO_OG_PATH"
+  git commit -m "Add/update generated OG images"
+  git push --quiet
+  echo "▶ OG images committed and pushed."
+fi
 
 echo "▶ Post build script finished."
