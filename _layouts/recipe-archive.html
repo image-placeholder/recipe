@@ -45,9 +45,9 @@
 
         {% if page.type == 'category' %}
       {% if href contains '?' %}
-        {% assign href = href | append: '&camefrom=category&category=' %}
+        {% assign href = href | append: '&camefrom=category&category=' | append: page.title | append: '&page=' | append: page.pagination.current_page %}
       {% else %}
-        {% assign href = href | append: '?camefrom=category&category=' %}
+        {% assign href = href | append: '?camefrom=category&category=' | append: page.title | append: '&page=' | append: page.pagination.current_page %}
       {% endif %}
     {% endif %}
       <a href="{{ href }}" class="border-b border-stone-100 pb-4 group flex justify-between items-baseline">
