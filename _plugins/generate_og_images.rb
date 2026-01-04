@@ -41,6 +41,7 @@ module Jekyll
         image_path = File.join(@output_dir, image_name)
         
         source_path = item.path ? File.expand_path(item.path, site.source) : nil
+        image_mtime = File.exist?(image_path) ? File.mtime(image_path).to_i : 0
         image_exists = File.exist?(image_path) && File.size(image_path) > 0
         
         # 2. BETTER FRESHNESS CHECK
