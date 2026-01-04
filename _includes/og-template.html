@@ -59,7 +59,7 @@
         <div class="flex items-center gap-3">
             <div class="w-8 h-8 border border-stone-800 flex items-center justify-center text-[10px] font-bold">{{site.logo_text}}</div>
             <span class="sans text-xl font-bold tracking-widest text-stone-800 uppercase">
-                Recipe Archive
+                A Digitization Project
             </span>
         </div>
         <p class="sans text-stone-400 text-lg uppercase tracking-widest hidden">
@@ -69,7 +69,20 @@
 
       <div class="bg-stone-800 text-white px-10 py-5">
         <p class="sans text-sm font-bold uppercase tracking-[0.3em]">
-          View Recipe &rarr;
+             {% if page.type == "recipes" %}
+    View Recipes &rarr;
+  {% elsif page.type == "categories" %}
+    View Recipes &rarr;
+  {% elsif page.type == "cuisines-categories" %}
+    View Recipes &rarr;
+  {% elsif page.type == "category" %}
+     View Recipes &rarr;
+   {% elsif page.type == "cuisine" %}
+   View Recipe &rarr;       
+  {% else %}
+     View &rarr;
+  {% endif %}
+
         </p>
       </div>
     </div>
