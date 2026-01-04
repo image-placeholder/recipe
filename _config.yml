@@ -47,9 +47,12 @@ exclude:
   - README.md
   - requirements.txt
   - package.json
+  - package-lock.json  
+  - _config.yml
   - vendor
   - _webpack
   - postcss.config.js
+  - purgecss.config.js  
   - tailwind.config.js
   - package-lock.json
 # Timezone for timestamp conversion
@@ -92,7 +95,8 @@ jekyll-minifier:
 
 recommendations:
   engine: transformers   # transformers | simple
-  model: all-MiniLM-L6-v2
+  model: all-MiniLM-L6-v2 # default is all-MiniLM-L6-v2
+  max_recommendations: 5 # default is 5
 
  
 
