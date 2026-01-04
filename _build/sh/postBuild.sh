@@ -42,10 +42,10 @@ if [ ! -d "$OG_PATH" ]; then
   exit 0
 fi
 
-if git diff --quiet -- "$OG_PATH"; then
-  echo "No changes detected in $OG_PATH — skipping commit."
-  exit 0
-fi
+#if git diff --quiet -- "$OG_PATH"; then
+#  echo "No changes detected in $OG_PATH — skipping commit."
+#  exit 0
+#fi
 
 # -----------------------------
 # Configure GitHub token for push
