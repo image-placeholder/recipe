@@ -1,17 +1,20 @@
 module Jekyll
   module LiquidFilter
     def liquidify(input)
-      # 1. Access the global site data (everything in _config.yml)
-      setup = @context.registers[:site]
+      return "" if input.nil?
       
-      # 2. Convert the "plain text" from your front matter into a Liquid template
-      template = Liquid::Template.parse(input)
-      
-      # 3. Render that template using the site's variables and return the result
-      template.render(setup.site_payload)
+      begin
+        # Use the site object directly from the registers
+        site = @context.registers[:site]
+        # Create a new template object
+        template = Liquid::Template.parse(input)
+        # Render using the existing context to keep variables alive
+        template.render(@context)
+      rescue StandardError => e
+        "Liquidify Error: #{e.message}"
+      end
     end
   end
 end
 
-# 4. Tell Jekyll this filter is called 'liquidify'
 Liquid::Template.register_filter(Jekyll::LiquidFilter)
