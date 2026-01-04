@@ -1,7 +1,6 @@
 require 'grover'
 require 'fileutils'
 require 'parallel'
-require 'thread'
 require 'set'
 
 module Jekyll
@@ -10,146 +9,134 @@ module Jekyll
     priority :lowest
 
     def generate(site)
-      Jekyll.logger.info "Starting Grover OG image generation..."
-
-      @generated_og_images = Set.new
-      @log_mutex = Mutex.new
-      @static_mutex = Mutex.new
+      Jekyll.logger.info "OG Generation:", "Starting optimized Grover process..."
 
       @og_folder = site.config['og_images_folder'] || 'assets/og-images'
       @template_path = site.config['og_template'] || '_includes/og-template.html'
       @output_dir = File.join(site.source, @og_folder)
 
-      # Ensure Directory and Permissions
+      # Ensure Directory
       begin
         FileUtils.mkdir_p(@output_dir)
         FileUtils.chmod_R(0755, @output_dir)
-        Jekyll.logger.info "OG image directory ensured: #{@output_dir}"
       rescue Errno::EACCES => e
-        Jekyll.logger.error "Permission denied creating directory: #{e.message}"
+        Jekyll.logger.error "OG Generation:", "Permission denied: #{e.message}"
         return
       end
 
+      # Optimized Grover Options for Speed and Low RAM
       @grover_options = {
         format: 'png',
         viewport: { width: 1200, height: 630 },
-        wait_until: 'networkidle0',
+        wait_until: 'domcontentloaded', # Faster than networkidle0
         root_path: Dir.pwd,
-        launch_args: ['--no-sandbox', '--disable-setuid-sandbox', '--font-render-hinting=none']
+        launch_args: [
+          '--no-sandbox',
+          '--disable-setuid-sandbox',
+          '--disable-dev-shm-usage',
+          '--disable-gpu',
+          '--no-first-run',
+          '--no-zygote',
+          '--single-process',
+          '--font-render-hinting=none'
+        ]
       }
 
-      posts_to_process = (site.posts.docs + site.pages).reject do |p| 
+      items = (site.posts.docs + site.pages).reject do |p| 
         p.data['image'] && !p.data['image'].include?(@og_folder)
       end
 
-      Jekyll.logger.info "OG Generation:", "Processing #{posts_to_process.size} items..."
-
-      Parallel.each(posts_to_process, in_threads: 4) do |post|
-        process_post(site, post)
+      # Parallel processing with Processes instead of Threads
+      # We return the data needed to update the site object since forks can't modify the parent memory
+      results = Parallel.map(items, in_processes: Parallel.processor_count) do |item|
+        process_item_in_fork(site.source, item)
       end
 
-      Jekyll.logger.info "Open Graph image generation complete."
+      # Back in the main process: Register files and update metadata
+      results.compact.each do |result_data|
+        item = result_data[:item_ref]
+        image_name = result_data[:image_name]
+        image_path = result_data[:relative_path]
+
+        register_static_file(site, image_name)
+        set_og_meta_tags(item, image_path)
+      end
+
+      Jekyll.logger.info "OG Generation:", "Complete."
     end
 
     private
 
-    def process_post(site, post)
-      slug = normalize_slug(post.data['slug'] || post.data['title'])
+    def process_item_in_fork(site_source, item)
+      slug = normalize_slug(item.data['slug'] || item.data['title'])
       image_name = "#{slug}-og.png"
       image_path = File.join(@output_dir, image_name)
       relative_path = File.join('/', @og_folder, image_name)
 
-      return if @generated_og_images.include?(image_path)
-
-      # Cache & Freshness Check
+      # 1. Immediate Freshness Check (Speed Boost)
       if File.exist?(image_path) && File.size?(image_path).to_i > 0
-        if post.path && File.exist?(post.path) && (File.mtime(image_path) > File.mtime(post.path))
-          register_static_file(site, image_name)
-          set_og_meta_tags(post, relative_path)
-          @generated_og_images << image_path
-          return
+        if item.path && File.exist?(item.path) && (File.mtime(image_path) > File.mtime(item.path))
+          return { item_ref: item, image_name: image_name, relative_path: relative_path }
         end
       end
 
-      template_full_path = File.join(site.source, @template_path)
-      unless File.exist?(template_full_path)
-        @log_mutex.synchronize { Jekyll.logger.error "Template not found: #{template_full_path}" }
-        return
-      end
+      # 2. Render Template
+      template_full_path = File.join(site_source, @template_path)
+      return nil unless File.exist?(template_full_path)
 
-      html_content = render_template(site, post)
-      
+      html_content = render_template_content(site_source, item)
+
+      # 3. Generate Image
       begin
         grover = Grover.new(html_content, **@grover_options)
         png = grover.to_png
         
-        if png.nil? || png.empty?
-          raise "Grover returned empty binary data"
+        if png && !png.empty?
+          File.binwrite(image_path, png)
+          FileUtils.chmod(0644, image_path)
+          return { item_ref: item, image_name: image_name, relative_path: relative_path }
         end
-
-        File.binwrite(image_path, png)
-        FileUtils.chmod(0644, image_path) # Ensure file is readable
-
-        if verify_file(image_path)
-          register_static_file(site, image_name)
-          set_og_meta_tags(post, relative_path)
-          @generated_og_images << image_path
-          @log_mutex.synchronize { Jekyll.logger.info "Generated OG image: #{image_path}" }
-        else
-          raise "File verification failed for #{image_path}"
-        end
-
       rescue => e
-        @log_mutex.synchronize do
-          Jekyll.logger.error "OG Image Error:", "Failed for #{slug}: #{e.message}"
-        end
+        # Minimal logging in forks to avoid IO congestion
+        puts "OG Error for #{slug}: #{e.message}"
       end
+
+      nil
     end
 
     def register_static_file(site, name)
-      @static_mutex.synchronize do
-        site.static_files << Jekyll::StaticFile.new(site, site.source, @og_folder, name)
-      end
+      site.static_files << Jekyll::StaticFile.new(site, site.source, @og_folder, name)
     end
 
-    def render_template(site, post)
-      template = File.read(File.join(site.source, @template_path))
-      liquid = Liquid::Template.parse(template)
+    def render_template_content(site_source, item)
+      template_content = File.read(File.join(site_source, @template_path))
+      liquid = Liquid::Template.parse(template_content)
 
-      raw_excerpt = post.data['excerpt'] || post.content[0..150]
+      raw_excerpt = item.data['excerpt'] || item.content[0..150]
       excerpt_content = raw_excerpt.to_s.strip
       excerpt_content = "No preview available" if excerpt_content.empty?
 
       payload = {
-        'page' => post.data,
-        'title' => post.data['title']&.strip || "Untitled",
-        'site' => site.config,
+        'page' => item.data,
+        'title' => item.data['title']&.strip || "Untitled",
         'excerpt' => excerpt_content,
-        'date' => post.respond_to?(:date) ? post.date.strftime('%B %d, %Y') : nil
+        'date' => item.respond_to?(:date) ? item.date.strftime('%B %d, %Y') : nil
       }
 
       liquid.render(payload)
     end
 
-    def verify_file(file_path)
-      5.times do
-        return true if File.exist?(file_path) && File.size?(file_path).to_i > 0
-        sleep 0.5
-      end
-      false
-    end
-
-    def set_og_meta_tags(post, image_path)
-      raw_excerpt = post.data['excerpt'] || post.content[0..150]
+    def set_og_meta_tags(item, image_path)
+      raw_excerpt = item.data['excerpt'] || item.content[0..150]
       excerpt_content = raw_excerpt.to_s.strip
       excerpt_content = "No preview available" if excerpt_content.empty?
 
-      post.data['image'] = image_path
-      post.data['og'] ||= {}
-      post.data['og'].merge!({
+      item.data['image'] = image_path
+      item.data['og'] ||= {}
+      item.data['og'].merge!({
         'image' => image_path,
         'type' => 'article',
-        'title' => post.data['title']&.strip || "Untitled",
+        'title' => item.data['title']&.strip || "Untitled",
         'description' => excerpt_content
       })
     end
