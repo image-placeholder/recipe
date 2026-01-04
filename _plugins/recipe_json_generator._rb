@@ -1,4 +1,4 @@
-# _plugins/recipe_json_generator.rb
+# _plugins/recipe_json_generator.rb (currently disabled since build is done in node - for future inspo possible if full ruby)
 require 'json'
 
 module Jekyll
