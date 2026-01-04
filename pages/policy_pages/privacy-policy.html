@@ -1,0 +1,140 @@
+---
+title: Privacy Policy
+permalink: /privacy-policy/
+---
+{% assign base_url = site.baseurl | default: "" %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script> 
+  <title>{{page.title}} | {{site.title}}</title>
+ <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f7f2;
+    }
+
+    h1,
+    h2,
+    h3,
+    .serif {
+      font-family: 'Playfair Display', serif;
+    }
+
+    /* Premium Navigation Blur */
+    .glass-nav {
+      background-color: rgba(248, 247, 242, 0.8);
+      backdrop-filter: blur(8px);
+    }
+
+    /* Print optimization to hide URL and Page # */
+    @media print {
+      @page {
+        margin: 0;
+      }
+
+      body {
+        margin: 2cm;
+        background: white !important;
+        color: black !important;
+      }
+
+      nav,
+      footer,
+      button,
+      .no-print {
+        display: none !important;
+      }
+    }
+  </style>
+
+  
+
+ {% include head_content.html base_url=base_url %} 
+  
+</head>
+<body> 
+<!-- Navigation -->
+{% include navigation.html %}   
+
+
+<main class="max-w-4xl mx-auto px-6 py-16 md:py-24">
+  <header class="text-center mb-24 animate-fade-in">
+    <span class="text-xs uppercase tracking-[0.3em] font-bold text-stone-400 mb-4 block">
+      Transparency & Trust
+    </span>
+    <h2 class="text-5xl md:text-7xl mb-8 serif">
+      Privacy Policy<br>
+      <span class="italic font-light text-4xl md:text-6xl text-stone-600">Your Data & The Archive</span>
+    </h2>
+    <div class="w-16 h-px bg-stone-300 mx-auto mb-8"></div>
+    <p class="text-lg md:text-xl text-stone-500 italic font-light max-w-2xl mx-auto leading-relaxed">
+      This policy explains how Crediton Table handles information. Our primary goal is the preservation of community heritage, not the collection of personal data.
+    </p>
+  </header>
+
+  <div class="text-center mb-20">
+    <p class="text-[10px] uppercase tracking-widest text-stone-400 border-y border-stone-100 py-4 inline-block px-8">
+      Last Updated: January 2026
+    </p>
+  </div>
+
+  <div class="space-y-20">
+    
+    <section>
+      <h3 class="serif text-3xl mb-6 text-stone-800">1. Information Collection</h3>
+      <p class="text-stone-700 leading-relaxed mb-4">
+        Crediton Table is designed as a static digital archive. We do not require users to create accounts, subscribe to newsletters, or provide personal details to access the recipes.
+      </p>
+      <ul class="list-disc list-inside text-stone-700 space-y-2 italic font-light">
+        <li><strong>Log Data:</strong> Like most websites, our hosting provider may collect basic server logs (IP addresses, browser types) to ensure site security and performance.</li>
+        <li><strong>Cookies:</strong> We do not use tracking or advertising cookies. Any cookies used are strictly for essential site functionality.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3 class="serif text-3xl mb-6 text-stone-800">2. External Links & Donations</h3>
+      <p class="text-stone-700 leading-relaxed mb-4">
+        Our site contains links to external platforms, including <a href="https://creditonuc.org" class="underline text-stone-500">creditonuc.org</a> and third-party payment processors for donations.
+      </p>
+      <p class="text-stone-700 leading-relaxed">
+        When you click a link to donate, you are leaving Crediton Table. We do not see or store your credit card information or billing details. These transactions are governed by the privacy policies of the respective payment providers and the Church.
+      </p>
+    </section>
+
+    <section>
+      <h3 class="serif text-3xl mb-6 text-stone-800">3. Community Contributions</h3>
+      <p class="text-stone-700 leading-relaxed mb-4">
+        If you contact us via email or GitHub to provide feedback, suggest a recipe, or report a typo, we will only use your contact information to respond to your inquiry. We will never sell or distribute your email address to third parties.
+      </p>
+    </section>
+
+    <section>
+      <h3 class="serif text-3xl mb-6 text-stone-800">4. Open Source Transparency</h3>
+      <p class="text-stone-700 leading-relaxed mb-4">
+        As an open-source project, our code is public. While this promotes transparency, please be aware that any information you contribute to our public GitHub repository (such as comments on "Issues" or "Pull Requests") becomes part of the public record.
+      </p>
+    </section>
+
+    <section class="pt-12 border-t border-stone-200">
+      <h3 class="serif text-2xl mb-4 text-stone-800">Contact</h3>
+      <p class="text-stone-600 italic">
+        For questions regarding this policy or the handling of community heritage data, please reach out via our GitHub repository or the contact methods provided in the site footer.
+      </p>
+    </section>
+  </div>
+
+  <div class="text-center mt-24">
+    <a href="/" class="inline-block uppercase tracking-[0.3em] text-[10px] font-bold py-4 px-8 border border-stone-200 hover:bg-stone-50 transition-colors no-underline text-stone-600">
+      Return to Archive
+    </a>
+  </div>
+</main>
+<!-- Footer -->
+{% include footer.html %}    
+</body>
+</html>
