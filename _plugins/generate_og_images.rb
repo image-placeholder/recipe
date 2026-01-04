@@ -58,9 +58,9 @@ module Jekyll
         # - The Source file is newer than the image (with 2s buffer)
         needs_update = if image_mtime == 0
                          true
-                       elsif (template_mtime.to_i > image_mtime + 2)
+                       elsif (template_mtime.to_i > image_mtime + 10)
                          true
-                       elsif source_path && File.exist?(source_path) && (File.mtime(source_path).to_i > image_mtime + 2)
+                       elsif source_path && File.exist?(source_path) && (File.mtime(source_path).to_i > image_mtime + 10)
                          true
                        else
                          false
