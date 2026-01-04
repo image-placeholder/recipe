@@ -44,6 +44,8 @@ jobs:
         run: |
           chmod +x _build/sh/preBuild.sh
           ./_build/sh/preBuild.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}    
 
 
       - name: Build with Jekyll
@@ -56,7 +58,8 @@ jobs:
         run: |
           chmod +x _build/sh/postBuild.sh
           ./_build/sh/postBuild.sh
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}    
 
       - name: Compress Images
         uses: MarketingPipeline/Image-Optimizer-Action@main
