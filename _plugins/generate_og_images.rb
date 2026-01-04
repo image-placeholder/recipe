@@ -5,7 +5,7 @@ require 'parallel'
 module Jekyll
   class GenerateOgImages < Generator
     safe true
-    priority :low # Run late to ensure front matter is already processed by other plugins
+    priority :high # Run late to ensure front matter is already processed by other plugins
 
     def generate(site)
       @og_folder = site.config['og_images_folder'] || 'assets/og-images'
