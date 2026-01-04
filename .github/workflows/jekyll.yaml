@@ -46,13 +46,6 @@ jobs:
           ./_build/sh/preBuild.sh
 
 
-
-      - name: Build project using Webpack/Rollup
-        run: |
-          npm i
-          npm install liquid js-yaml front-matter lazysizes markmap-lib markmap-view tocbot leaflet.markercluster leaflet vanillajs-datepicker @knadh/autocomp --save
-          npm run build
-
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
