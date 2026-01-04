@@ -17,6 +17,12 @@ module Jekyll
 
       FileUtils.mkdir_p(@output_dir) unless Dir.exist?(@output_dir)
 
+      # 1. Template Freshness Check
+      template_full_path = File.join(site.source, @template_path)
+      return unless File.exist?(template_full_path)
+      template_raw = File.read(template_full_path)
+      template_mtime = File.mtime(template_full_path)
+
       @grover_options = {
         format: 'png',
         viewport: { width: 1200, height: 630 },
@@ -25,21 +31,48 @@ module Jekyll
         launch_args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--single-process']
       }
 
-      items = (site.posts.docs + site.pages).reject do |p| 
+      # 2. Filter items: Only process if incremental is OFF OR if the file actually needs an update
+      all_items = (site.posts.docs + site.pages).reject do |p| 
         p.data['image'] && !p.data['image'].include?(@og_folder)
       end
 
-      template_full_path = File.join(site.source, @template_path)
-      return unless File.exist?(template_full_path)
-      template_raw = File.read(template_full_path)
+      # Determine which items actually need processing
+      items_to_process = all_items.select do |item|
+        slug = normalize_slug(item.data['slug'] || item.data['title'])
+        image_path = File.join(@output_dir, "#{slug}-og.png")
 
-      # Sanitize site config to be Marshal-friendly
+        # Regenerate if:
+        # - Image doesn't exist
+        # - Source file is newer than image
+        # - The OG Template itself is newer than the image
+        needs_update = !File.exist?(image_path) || 
+                       (item.path && File.exist?(item.path) && File.mtime(item.path) > File.mtime(image_path)) ||
+                       (template_mtime > File.mtime(image_path))
+        
+        # If it doesn't need an update, we still need to register it as a static file
+        unless needs_update
+          image_name = "#{slug}-og.png"
+          register_static_file(site, image_name)
+          set_og_meta_tags(item, File.join('/', @og_folder, image_name))
+        end
+
+        needs_update
+      end
+
+      if items_to_process.empty?
+        Jekyll.logger.info "OG Generation:", "Everything up to date. Skipping."
+        return
+      end
+
+      Jekyll.logger.info "OG Generation:", "Regenerating #{items_to_process.size} items..."
+
+      # 3. Sanitize site config
       sanitized_config = site.config.each_with_object({}) do |(k, v), h|
         h[k.to_s] = v.is_a?(Proc) ? nil : v
       end
 
-      # Prepare the queue with simple data types only
-      processing_queue = items.map do |item|
+      # 4. Prepare only the items that need updates
+      processing_queue = items_to_process.map do |item|
         {
           'id' => item.url,
           'path' => item.path,
@@ -57,15 +90,16 @@ module Jekyll
         process_in_fork(item_data, template_raw)
       end
 
+      # 5. Finalize the newly generated items
       results.compact.each do |res|
-        original_item = items.find { |i| i.url == res[:id] }
+        original_item = all_items.find { |i| i.url == res[:id] }
         next unless original_item
 
         register_static_file(site, res[:image_name])
         set_og_meta_tags(original_item, res[:relative_path])
       end
 
-      Jekyll.logger.info "OG Generation:", "Finished processing #{items.size} items."
+      Jekyll.logger.info "OG Generation:", "Finished processing."
     end
 
     private
