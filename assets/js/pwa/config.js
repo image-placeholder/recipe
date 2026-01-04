@@ -1,3 +1,8 @@
+---
+layout: none
+---
+{% assign base_url = site.baseurl | default: "" %}
+const base_url = `{{base_url}}`
 /**
  * JFA PWA Toolkit
  * https://github.com/jfadev/jfa-pwa-toolkit
@@ -13,7 +18,7 @@ const PWA_CONFIG = {
     // App config
     app: {
         // App name
-        name: 'your-app-name',
+        name: '{{site.title}} (PWA)',
         // App version
         version: 'v1',
     },
@@ -21,15 +26,15 @@ const PWA_CONFIG = {
     // Service Worker config
     sw: {
         // Main service worker filepath (always root of project)
-        filepath: '/sw.js',
+        filepath: `${base_url}/sw.js`,
         // Route of offline page
-        offline_route: '/pwa/errors/offline/',
+        offline_route: `${base_url}/offline/`,
     },
 
     // Push manager config
     push: {
         // Enable/disable push notifications
-        active: true,
+        active: false,
         // Server config
         server: {
             // API public key
@@ -40,14 +45,14 @@ const PWA_CONFIG = {
         // Notification config
         notification: {
             // Title of notifications from the server
-            title: 'Your App Name',
+            title: '{{site.title}}',
             // Options object same that showNotification() options
             // (https://developer.mozilla.org/es/docs/Web/API/ServiceWorkerRegistration/showNotification)
             options: {
                 // A string representing an extra content to display within the notification
                 body: '',
                 // he URL of an image to be used as an icon by the notification
-                icon: '/pwa/icons/firefox/firefox-general-64-64.png',
+                icon: `${base_url}/assets/js/pwa/icons/firefox/firefox-general-64-64.png`,
                 // A vibration pattern to run with the display of the notification.
                 // A vibration pattern can be an array with as few as one member.
                 // The values are times in milliseconds where the even indices (0, 2, 4, etc.)
@@ -77,7 +82,7 @@ const PWA_CONFIG = {
             active: true,
             // The maximum number of entries to cache.
             // Entries used the least will be removed as the maximum is reached.
-            maxentries: 500,
+            maxentries: 50,
             // The maximum age of an entry before it's treated as stale and removed.
             maxageseconds: 365 * 24 * 60 * 60,
         },
@@ -87,7 +92,7 @@ const PWA_CONFIG = {
             active: true,
             // The maximum number of entries to cache.
             // Entries used the least will be removed as the maximum is reached.
-            maxentries: 500,
+            maxentries: 50,
             // The maximum age of an entry before it's treated as stale and removed.
             maxageseconds: 365 * 24 * 60 * 60,
         },
@@ -98,7 +103,7 @@ const PWA_CONFIG = {
             active: true,
             // The maximum number of entries to cache.
             // Entries used the least will be removed as the maximum is reached.
-            maxentries: 500,
+            maxentries: 50,
             // The maximum age of an entry before it's treated as stale and removed.
             maxageseconds: 365 * 24 * 60 * 60,
         },
@@ -108,19 +113,19 @@ const PWA_CONFIG = {
                 // Enable/disable network only routes caching
                 active: true,
                 // Matching routes with a Regular Expression
-                regex: /\/(?:login|logout)\//,
+                // regex: /\/(?:login|logout)\//,
             },
             // Resources are requested from both the cache and the network in parallel.
             // The strategy will respond with the cached version if available,
             // otherwise wait for the network response.
             // The cache is updated with the network response with each successful request.
             stalewhilerevalidate: {
-                active: true,
-                regex: /\/news\/.*/,
+                active: false,
+                // regex: /\/news\/.*/,
             },
             // Network first request strategy.
             networkfirst: {
-                active: true,
+                active: false,
                 regex: /.*/,
             },
             // Cache first request strategy.
@@ -140,7 +145,7 @@ const PWA_CONFIG = {
         custom: {
             active: false,
             // service worker script route
-            // script: '/pwa/sw/my-custom-sw.js',
+            // script: './pwa/sw/my-custom-sw.js',
         },
     },
 
@@ -150,9 +155,42 @@ const PWA_CONFIG = {
         active: true,
         // Routes to
         routes: [
-            '/assets/example.css',
-            '/assets/example.png',
-            '/assets/example.js',
+       //     '/page1.html',
+        //    '/page2.html',
+            // '/page3.html', (not precached)
+            `${base_url}/`,
+          //  './offline/index.html',
+      /*      './offline.html',
+             
+            '/offline.html',
+            './offline/',
+            `${base_url}/about-us/`,
+            './faq/',
+            './resources/',
+            './volunteer/',
+            './support-us/',
+            './contact-us/',
+            './board-members/',
+            './events/',
+            './404/',
+            './privacy-policy/',
+            './terms-of-service/',
+            './deleted/',
+             './resources/tools', */ 
+           // 'https://fonts.googleapis.com/icon?family=Material+Icons',
+         //   'https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css',
+           // 'https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js',
+            `${base_url}/404/`,
+            `${base_url}/privacy-pollicy/`,
+            `${base_url}/support-us/`,
+            `${base_url}/api/`,
+            `${base_url}/founder/`,
+            `${base_url}/recipes/`,
+            `${base_url}/about/`,
+            `${base_url}/api/search.json`,
+            `${base_url}assets/js/pwa/pwa.js`,
+            `${base_url}/assets/js/pwa/sw.js`,
+            `${base_url}/sw.js`
         ],
-    },
+    }
 }
