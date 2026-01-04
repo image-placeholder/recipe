@@ -29,49 +29,82 @@ npm install puppeteer
 
 # Check for changes in _data/recipe
 
+
 DATA_PATH="_data/recipe"
-IS_GH_ACTIONS=false
+SCRIPT_PATH=".github/workflows/splitRecipes/splitRecipes.js"
+CACHE_DIR=".npm-cache"
 
 # Detect GitHub Actions
-if [ "$GITHUB_ACTIONS" = "true" ]; then
-  IS_GH_ACTIONS=true
+IS_GH_ACTIONS=false
+[ "$GITHUB_ACTIONS" = "true" ] && IS_GH_ACTIONS=true
+
+echo "Environment:"
+echo "  GitHub Actions: $IS_GH_ACTIONS"
+echo "  OS: $(uname -s)"
+
+# -----------------------------
+# NPM CACHE (portable)
+# -----------------------------
+mkdir -p "$CACHE_DIR"
+npm config set cache "$CACHE_DIR" --global
+
+# -----------------------------
+# GIT AVAILABILITY CHECK
+# -----------------------------
+if command -v git >/dev/null 2>&1; then
+  HAS_GIT=true
+else
+  HAS_GIT=false
 fi
 
-# Ensure we're in a git repo
-if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
-  echo "Not in a git repository — running recipe pipeline unconditionally."
-  RUN_PIPELINE=true
-else
-  # Check for previous commit
+# -----------------------------
+# CHANGE DETECTION
+# -----------------------------
+if [ "$HAS_GIT" = "true" ] && git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
   if git rev-parse HEAD^ >/dev/null 2>&1; then
-    if git diff --quiet HEAD^ HEAD -- "$DATA_PATH"; then
+    if git diff --name-only HEAD^ HEAD -- "$DATA_PATH" | grep -q .; then
+      echo "Changes detected in $DATA_PATH."
+    else
       echo "No changes in $DATA_PATH — skipping recipe processing."
       exit 0
     fi
-    RUN_PIPELINE=true
   else
-    echo "No previous commit found — running recipe pipeline."
-    RUN_PIPELINE=true
+    echo "No previous commit — running recipe pipeline."
   fi
+else
+  echo "Git not available or not a repository — running recipe pipeline."
 fi
 
-if [ "$RUN_PIPELINE" != "true" ]; then
-  exit 0
-fi
-
+# -----------------------------
+# RUN PIPELINE
+# -----------------------------
 echo "Running recipe pipeline..."
 
-npm install humanize-duration js-yaml @musement/iso-duration @huggingface/transformers @xenova/transformers
+npm install \
+  humanize-duration \
+  js-yaml \
+  @musement/iso-duration \
+  @huggingface/transformers \
+  @xenova/transformers
 
-node --max-old-space-size=6144 .github/workflows/splitRecipes/splitRecipes.js
+node --max-old-space-size=6144 "$SCRIPT_PATH"
 
-# If not on GitHub Actions, stop here (local build)
+# -----------------------------
+# STOP HERE IF NOT CI
+# -----------------------------
 if [ "$IS_GH_ACTIONS" != "true" ]; then
-  echo "Local build detected — skipping git commit and push."
+  echo "Local or non-Git environment — skipping git commit and push."
   exit 0
 fi
 
-# Only commit if something changed
+# -----------------------------
+# COMMIT & PUSH (CI ONLY)
+# -----------------------------
+if [ "$HAS_GIT" != "true" ]; then
+  echo "Git not available — cannot commit."
+  exit 0
+fi
+
 if git diff --quiet; then
   echo "No output changes to commit."
   exit 0
@@ -81,5 +114,5 @@ git config --global user.email "github-actions[bot]@users.noreply.github.com"
 git config --global user.name "github-actions[bot]"
 
 git add .
-git commit -m "Converted Recipes into JSON API Endpoints"
+git commit -m "Add converted CSV to JSON output"
 git push
