@@ -7,7 +7,7 @@ require 'set'
 module Jekyll
   class GenerateOgImages < Generator
     safe true
-    priority :normal
+    priority :lowest
 
     def generate(site)
       Jekyll.logger.info "Starting Grover OG image generation..."
