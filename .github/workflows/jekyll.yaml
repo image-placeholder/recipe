@@ -1,5 +1,5 @@
-# This workflow builds and deploys a Jekyll site to GitHub Pages.
-name: Deploy Jekyll site to Pages
+# This workflow builds and deploys the Jekyll site to GitHub Pages.
+name: Deploy Jekyll Site to Pages
 
 on:
   push:
@@ -24,18 +24,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libvips
-          
-          # Install wkhtmltopdf from the PPA repository
-          sudo apt-get install -y software-properties-common
-          sudo add-apt-repository ppa:alessandro-strada/ppa -y
-          sudo apt-get update
-          sudo apt-get install -y wkhtmltopdf
-          npm install -g puppeteer
-
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -46,6 +34,11 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
+      - name: Set up Node.js environment
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
  
       - name: Running Pre-build tasks
         run: |
@@ -53,10 +46,6 @@ jobs:
           ./_build/sh/preBuild.sh
 
 
-      - name: Set up Node.js environment
-        uses: actions/setup-node@v2
-        with:
-          node-version: '20'
 
       - name: Build project using Webpack/Rollup
         run: |
@@ -70,16 +59,17 @@ jobs:
           JEKYLL_ENV: production
           NODE_PATH: ${{ github.workspace }}/node_modules
 
-      - name: Compress Images in _site/assets
-        uses: MarketingPipeline/Image-Optimizer-Action@main
-        with:
-          filename: _site/assets/
-          recursion: true
-
       - name: Running Post-Build tasks
         run: |
           chmod +x _build/sh/postBuild.sh
           ./_build/sh/postBuild.sh
+
+
+      - name: Compress Images
+        uses: MarketingPipeline/Image-Optimizer-Action@main
+        with:
+          filename: _site/
+          recursion: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
