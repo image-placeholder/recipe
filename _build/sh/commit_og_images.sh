@@ -40,7 +40,15 @@ if [ ! -d "$OG_PATH" ]; then
   exit 0
 fi
 
-if git diff --quiet -- "$OG_PATH"; then
+#if git diff --quiet -- "$OG_PATH"; then
+#  echo "No changes detected in $OG_PATH — skipping commit."
+#  exit 0
+#fi
+
+git add "$OG_PATH"
+
+# Now check if there is anything staged for commit
+if git diff --cached --quiet; then
   echo "No changes detected in $OG_PATH — skipping commit."
   exit 0
 fi
