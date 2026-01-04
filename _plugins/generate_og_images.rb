@@ -38,40 +38,32 @@ module Jekyll
 
       # Determine which items actually need processing
       items_to_process = all_items.select do |item|
-        slug = normalize_slug(item.data['slug'] || item.data['title'])
-        image_path = File.join(@output_dir, "#{slug}-og.png")
-
-        # Regenerate if:
-        # - Image doesn't exist
-        # - Source file is newer than image
-        # - The OG Template itself is newer than the image
-        # - It's a real file on disk and has been modified since the image was made
+        # 1. PRE-RENDER the title in case it contains Liquid like {{ site.title }}
+        rendered_title = render_string(item.data['title'].to_s, item, site)
+        item.data['rendered_title'] = rendered_title # Save for the fork
         
-        # Expand the path to be absolute so File.mtime always finds it
+        slug = normalize_slug(item.data['slug'] || rendered_title)
+        image_name = "#{slug}-og.png"
+        image_path = File.join(@output_dir, image_name)
+        
         source_path = item.path ? File.expand_path(item.path, site.source) : nil
-        # 2. Get image mtime once (default to 0 if missing)
-        image_mtime = File.exist?(image_path) ? File.mtime(image_path).to_i : 0
-
-        # 3. Regenerate if:
-        # - Image doesn't exist
-        # - The Template is newer than the image (with 2s buffer)
-        # - The Source file is newer than the image (with 2s buffer)
-        needs_update = if image_mtime == 0
-                         true
-                       elsif (template_mtime.to_i > image_mtime + 2)
-                         true
-                       elsif source_path && File.exist?(source_path) && (File.mtime(source_path).to_i > image_mtime + 10)
-                         true
-                       else
-                         false
-                       end
+        image_exists = File.exist?(image_path) && File.size(image_path) > 0
         
-        # If it doesn't need an update, we still need to register it as a static file
-        unless needs_update
-          image_name = "#{slug}-og.png"
-          register_static_file(site, image_name)
-          set_og_meta_tags(item, File.join('/', @og_folder, image_name))
+        # 2. BETTER FRESHNESS CHECK
+        needs_update = false
+        if !image_exists
+          needs_update = true
+        else
+          image_mtime = File.mtime(image_path).to_i
+          # Update if template changed
+          needs_update = true if template_mtime > image_mtime
+          # Update if source file changed (using 1s buffer for precision)
+          needs_update = true if source_path && File.exist?(source_path) && File.mtime(source_path).to_i > image_mtime
         end
+
+        # Always register and set tags, whether we generate now or use cache
+        register_static_file(site, image_name)
+        set_og_meta_tags(item, File.join('/', @og_folder, image_name))
 
         needs_update
       end
