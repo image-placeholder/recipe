@@ -24,10 +24,14 @@
 
     <div class="z-10 flex items-center justify-between">
       <div class="flex items-center gap-4">
+        {% if site.logo_text %}
         <div class="w-12 h-12 bg-white rounded-full flex items-center justify-center text-slate-900 font-black">
-          {% if site.logo_text %}{{ site.logo_text }}{% else %}JS{% endif %}
+          {{ site.logo_text }}
         </div>
-        <span class="text-2xl text-slate-400">/{{ page.categories | first | default: 'posts' }}</span>
+        {% else %}
+        
+        {% endif %}
+        <span class="text-2xl text-slate-400">/{{ page.slug }}</span>
       </div>
       <p class="text-xl text-slate-500">{{ page.date | date: "%B %d, %Y" }}</p>
     </div>
