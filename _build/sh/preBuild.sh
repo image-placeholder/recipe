@@ -31,7 +31,8 @@ echo "✔ OG Image Generation Dependencies Installed"
 # -----------------------------
 # RUN RECIPE PIPELINE (SPLIT & RANK SIMILARITES)
 # -----------------------------
-chmod +x ./recipe_pipeline.sh
+chmod +x recipe_pipeline.sh
+./recipe_pipeline.sh
 
 echo "▶ Running Webpack Build (Pre-Build)"
 
