@@ -25,12 +25,12 @@
       </div>
       
       <h1 class="serif text-8xl leading-tight text-stone-900">
-        {{ title | liquidify | default: "Untitled" }}
+        {{ page.title  | default: "Untitled"  | liquidify }}
       </h1>
 
  
        <p class="serif italic text-4xl text-stone-500 mt-6 font-light">
-        {{ page.description }}
+        {{ page.description | liquidify  }}
         
       </p> 
       
