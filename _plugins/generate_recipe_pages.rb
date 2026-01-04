@@ -95,6 +95,7 @@ module Jekyll
             cuisines[data["recipeCuisine"]] << page
           end
 
+         =begin 
           # 🔥 Remove persisted build-time field
           if data.key?("_naturalized_times")
             data.delete("_naturalized_times")
@@ -109,6 +110,7 @@ module Jekyll
           if data.key?("_similar")
             data.delete("_similar")
           end
+          =end 
           
           # ✍️ Write cleaned data back to file
           File.write(
