@@ -6,46 +6,68 @@ module Jekyll
     def generate(site)
       site_url = site.config['url'] || ""
       
-      # 1. Generate llms.txt (The Curated Index)
+      # 1. Initialize Content
       summary_content = "# #{site.config['title']}\n"
       summary_content << "> #{site.config['description']}\n\n"
-      summary_content << "## Main Resources\n"
       
-      # 2. Generate llms-full.txt (The Complete Content)
       full_content = "# Full Index: #{site.config['title']}\n\n"
 
-      # Process Pages and Posts
-      all_docs = site.pages + site.posts.docs
-      all_docs.each do |doc|
-        # Skip documents without a title or those explicitly hidden
-        next unless doc.data['title'] && !doc.data['hide_llm']
-        
-        abs_url = site_url + doc.url
-        title = doc.data['title']
-        
-        # Safely get summary: use front matter 'summary', 
-        # or fall back to excerpt, or default to empty string
-        summary = doc.data['summary'] || (doc.data['excerpt'] ? doc.data['excerpt'].to_s.strip[0..150] : "")
-
-        # Add to summary file
-        summary_content << "- [#{title}](#{abs_url}): #{summary}\n"
-
-        # Fix: Safely handle nil content for llms-full.txt
-        raw_content = doc.content.to_s.strip
-        
-        full_content << "## #{title}\n"
-        full_content << "URL: #{abs_url}\n\n"
-        full_content << "#{raw_content}\n\n"
-        full_content << "---\n\n"
+      # 2. Collect and Filter Documents
+      all_docs = (site.pages + site.posts.docs).reject do |doc|
+        # Exclude: pagination, hidden files, or missing titles
+        doc.data['pager'] || 
+        doc.url =~ /\/page\d+\/$/ || 
+        doc.data['hide_llm'] || 
+        doc.data['title'].nil?
       end
 
-      # Link llms-full.txt at the bottom of llms.txt as per 2026 standards
-      summary_content << "\n## Full Content\n"
+      # 3. Group by Category for the Summary File
+      grouped = all_docs.group_by { |d| d.data['categories']&.first || "General" }
+
+      grouped.each do |category, docs|
+        summary_content << "## #{category.capitalize}\n"
+        
+        docs.each do |doc|
+          abs_url = site_url + doc.url
+          title = doc.data['title']
+          
+          # Clean HTML for Summary (short excerpt)
+          raw_summary = doc.data['summary'] || (doc.data['excerpt'] ? doc.data['excerpt'].to_s : "")
+          clean_summary = strip_html(raw_summary).strip[0..150].gsub(/\s+/, " ")
+
+          summary_content << "- [#{title}](#{abs_url}): #{clean_summary}\n"
+
+          # Clean HTML for Full Index
+          clean_full_body = strip_html(doc.content.to_s).strip
+          
+          full_content << "## #{title}\n"
+          full_content << "URL: #{abs_url}\n"
+          full_content << "Category: #{category}\n\n"
+          full_content << "#{clean_full_body}\n\n"
+          full_content << "---\n\n"
+        end
+        summary_content << "\n"
+      end
+
+      # 4. Link Full Index at the bottom of Summary
+      summary_content << "## Full Content\n"
       summary_content << "- [Full Site Index](#{site_url}/llms-full.txt): A complete text dump for deep indexing.\n"
 
-      # Write files to the site object
+      # 5. Output Files
       site.pages << LlmsStaticPage.new(site, site.source, "/", "llms.txt", summary_content)
       site.pages << LlmsStaticPage.new(site, site.source, "/", "llms-full.txt", full_content)
+    end
+
+    private
+
+    def strip_html(input)
+      return "" if input.nil?
+      input.to_s
+           .gsub(/<script.*?<\/script>/m, '') # Remove JS
+           .gsub(/<style.*?<\/style>/m, '')   # Remove CSS
+           .gsub(/<[^>]*>/, ' ')              # Strip tags
+           .gsub(/&nbsp;/, ' ')               # Fix common entities
+           .gsub(/\s+/, " ")                  # Normalize whitespace
     end
   end
 
