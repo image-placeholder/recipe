@@ -15,7 +15,6 @@ module Jekyll
       @template_path = site.config['og_template'] || '_includes/og-template.html'
       @output_dir = File.join(site.source, @og_folder)
 
-      # Ensure Directory
       begin
         FileUtils.mkdir_p(@output_dir)
         FileUtils.chmod_R(0755, @output_dir)
@@ -24,11 +23,11 @@ module Jekyll
         return
       end
 
-      # Optimized Grover Options for Speed and Low RAM
+      # Config for headless browser
       @grover_options = {
         format: 'png',
         viewport: { width: 1200, height: 630 },
-        wait_until: 'domcontentloaded', # Faster than networkidle0
+        wait_until: 'domcontentloaded',
         root_path: Dir.pwd,
         launch_args: [
           '--no-sandbox',
@@ -42,51 +41,58 @@ module Jekyll
         ]
       }
 
+      # Filter items
       items = (site.posts.docs + site.pages).reject do |p| 
         p.data['image'] && !p.data['image'].include?(@og_folder)
       end
 
-      # Parallel processing with Processes instead of Threads
-      # We return the data needed to update the site object since forks can't modify the parent memory
+      # Capture template content before forking
+      template_full_path = File.join(site.source, @template_path)
+      unless File.exist?(template_full_path)
+        Jekyll.logger.error "OG Generation:", "Template missing at #{template_full_path}"
+        return
+      end
+      
+      template_raw_content = File.read(template_full_path)
+
+      # Process in parallel processes
       results = Parallel.map(items, in_processes: Parallel.processor_count) do |item|
-        process_item_in_fork(site.source, item)
+        process_item_in_fork(item, template_raw_content)
       end
 
-      # Back in the main process: Register files and update metadata
+      # Update the main site object with results
       results.compact.each do |result_data|
         item = result_data[:item_ref]
         image_name = result_data[:image_name]
-        image_path = result_data[:relative_path]
+        image_rel_path = result_data[:relative_path]
 
         register_static_file(site, image_name)
-        set_og_meta_tags(item, image_path)
+        set_og_meta_tags(item, image_rel_path)
       end
 
-      Jekyll.logger.info "OG Generation:", "Complete."
+      Jekyll.logger.info "OG Generation:", "Processed #{items.size} items."
     end
 
     private
 
-    def process_item_in_fork(site_source, item)
+    def process_item_in_fork(item, template_raw)
+      return nil if item.nil?
+
       slug = normalize_slug(item.data['slug'] || item.data['title'])
       image_name = "#{slug}-og.png"
       image_path = File.join(@output_dir, image_name)
       relative_path = File.join('/', @og_folder, image_name)
 
-      # 1. Immediate Freshness Check (Speed Boost)
+      # Freshness Check
       if File.exist?(image_path) && File.size?(image_path).to_i > 0
         if item.path && File.exist?(item.path) && (File.mtime(image_path) > File.mtime(item.path))
           return { item_ref: item, image_name: image_name, relative_path: relative_path }
         end
       end
 
-      # 2. Render Template
-      template_full_path = File.join(site_source, @template_path)
-      return nil unless File.exist?(template_full_path)
+      # Render Template
+      html_content = render_template_content(item, template_raw)
 
-      html_content = render_template_content(site_source, item)
-
-      # 3. Generate Image
       begin
         grover = Grover.new(html_content, **@grover_options)
         png = grover.to_png
@@ -97,20 +103,15 @@ module Jekyll
           return { item_ref: item, image_name: image_name, relative_path: relative_path }
         end
       rescue => e
-        # Minimal logging in forks to avoid IO congestion
+        # Output to stdout because logger can behave weirdly in forks
         puts "OG Error for #{slug}: #{e.message}"
       end
 
       nil
     end
 
-    def register_static_file(site, name)
-      site.static_files << Jekyll::StaticFile.new(site, site.source, @og_folder, name)
-    end
-
-    def render_template_content(site_source, item)
-      template_content = File.read(File.join(site_source, @template_path))
-      liquid = Liquid::Template.parse(template_raw)
+    def render_template_content(item, template_str)
+      liquid = Liquid::Template.parse(template_str)
 
       # Defensive excerpt handling
       content_str = item.content.to_s
@@ -126,20 +127,26 @@ module Jekyll
         'excerpt' => excerpt_content,
         'date' => item.respond_to?(:date) && item.date ? item.date.strftime('%B %d, %Y') : nil
       }
+
       liquid.render(payload)
     end
 
+    def register_static_file(site, name)
+      site.static_files << Jekyll::StaticFile.new(site, site.source, @og_folder, name)
+    end
+
     def set_og_meta_tags(item, image_path)
-      raw_excerpt = item.data['excerpt'] || item.content[0..150]
-      excerpt_content = raw_excerpt.to_s.strip
-      excerpt_content = "No preview available" if excerpt_content.empty?
+      content_str = item.content.to_s
+      raw_excerpt = item.data['excerpt'].to_s
+      excerpt_content = raw_excerpt.empty? ? content_str[0..150] : raw_excerpt
+      excerpt_content = excerpt_content.to_s.strip
 
       item.data['image'] = image_path
       item.data['og'] ||= {}
       item.data['og'].merge!({
         'image' => image_path,
         'type' => 'article',
-        'title' => item.data['title']&.strip || "Untitled",
+        'title' => (item.data['title'] || "Untitled").to_s.strip,
         'description' => excerpt_content
       })
     end
