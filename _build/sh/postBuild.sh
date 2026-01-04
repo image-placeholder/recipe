@@ -1,13 +1,13 @@
 #!/usr/bin/env sh
 set -e
 
-echo "▶ Running post build script for OG images..."
-
 OG_PATH="assets/og-images"
 TARGET_BRANCH="main"
 
+echo "▶ Running post build script for OG images..."
+
 # -----------------------------
-# ENVIRONMENT CHECKS
+# Environment checks
 # -----------------------------
 if [ "$GITHUB_ACTIONS" != "true" ]; then
   echo "Not running in GitHub Actions — skipping."
@@ -25,7 +25,7 @@ if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
 fi
 
 # -----------------------------
-# BRANCH CHECK
+# Branch check (detached HEAD safe)
 # -----------------------------
 CURRENT_BRANCH="$(git branch --show-current 2>/dev/null || echo "$GITHUB_REF_NAME")"
 
@@ -35,7 +35,7 @@ if [ "$CURRENT_BRANCH" != "$TARGET_BRANCH" ]; then
 fi
 
 # -----------------------------
-# CHECK FOR OG IMAGE CHANGES
+# Check for changes
 # -----------------------------
 if [ ! -d "$OG_PATH" ]; then
   echo "No $OG_PATH directory — nothing to commit."
@@ -48,10 +48,15 @@ if git diff --quiet -- "$OG_PATH"; then
 fi
 
 # -----------------------------
-# COMMIT & PUSH
+# Configure GitHub token for push
 # -----------------------------
-echo "Changes detected in $OG_PATH — committing to $TARGET_BRANCH..."
+if [ -n "$GITHUB_TOKEN" ]; then
+  git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+fi
 
+# -----------------------------
+# Commit & push
+# -----------------------------
 git config --global user.email "github-actions[bot]@users.noreply.github.com"
 git config --global user.name "github-actions[bot]"
 
