@@ -1,27 +1,25 @@
 require 'grover'
 require 'fileutils'
 require 'parallel'
-require 'set'
 
 module Jekyll
   class GenerateOgImages < Generator
     safe true
-    priority :high
+    priority :low # Run late to ensure front matter is already processed by other plugins
 
     def generate(site)
-      Jekyll.logger.info "OG Generation:", "Starting optimized Grover process..."
-
       @og_folder = site.config['og_images_folder'] || 'assets/og-images'
       @template_path = site.config['og_template'] || '_includes/og-template.html'
       @output_dir = File.join(site.source, @og_folder)
 
-      FileUtils.mkdir_p(@output_dir) unless Dir.exist?(@output_dir)
+      # Ensure directory exists
+      FileUtils.mkdir_p(@output_dir)
 
-      # 1. Template Freshness Check
       template_full_path = File.join(site.source, @template_path)
       return unless File.exist?(template_full_path)
+      
       template_raw = File.read(template_full_path)
-      template_mtime = File.mtime(template_full_path)
+      template_mtime = File.mtime(template_full_path).to_i
 
       @grover_options = {
         format: 'png',
@@ -31,12 +29,8 @@ module Jekyll
         launch_args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--single-process']
       }
 
-      # 2. Filter items: Only process if incremental is OFF OR if the file actually needs an update
-      all_items = (site.posts.docs + site.pages).reject do |p| 
-        p.data['image'] && !p.data['image'].include?(@og_folder)
-      end
+      all_items = (site.posts.docs + site.pages).reject { |p| p.data['og_skip'] }
 
-      # Determine which items actually need processing
       items_to_process = all_items.select do |item|
         # 1. PRE-RENDER the title in case it contains Liquid like {{ site.title }}
         rendered_title = render_string(item.data['title'].to_s, item, site)
@@ -68,91 +62,52 @@ module Jekyll
         needs_update
       end
 
-      if items_to_process.empty?
-        Jekyll.logger.info "OG Generation:", "Everything up to date. Skipping."
-        return
-      end
+      return if items_to_process.empty?
 
-      Jekyll.logger.info "OG Generation:", "Regenerating #{items_to_process.size} items..."
+      Jekyll.logger.info "OG Generation:", "Processing #{items_to_process.size} images..."
 
-      # 3. Sanitize site config
-      sanitized_config = site.config.each_with_object({}) do |(k, v), h|
-        h[k.to_s] = v.is_a?(Proc) ? nil : v
-      end
+      # Sanitize config for Parallel processing
+      sanitized_config = site.config.each_with_object({}) { |(k, v), h| h[k.to_s] = v unless v.is_a?(Proc) }
 
-      # 4. Prepare only the items that need updates
       processing_queue = items_to_process.map do |item|
         {
           'id' => item.url,
-          'path' => item.path,
-          'title' => item.data['title'].to_s,
-          'slug' => item.data['slug'].to_s,
+          'image_path' => File.join(@output_dir, "#{normalize_slug(item.data['slug'] || item.data['rendered_title'])}-og.png"),
+          'title' => item.data['rendered_title'],
           'content' => item.content.to_s[0..500],
           'excerpt' => item.data['excerpt'].to_s,
-          'date' => item.respond_to?(:date) && item.date ? item.date.strftime('%B %d, %Y') : nil,
           'page_data' => item.data.transform_values { |v| v.is_a?(Proc) ? nil : v },
           'site_config' => sanitized_config
         }
       end
 
-      results = Parallel.map(processing_queue, in_processes: Parallel.processor_count) do |item_data|
-        process_in_fork(item_data, template_raw)
+      Parallel.each(processing_queue, in_processes: Parallel.processor_count) do |item_data|
+        html = render_liquid(item_data, template_raw)
+        begin
+          png = Grover.new(html, **@grover_options).to_png
+          File.binwrite(item_data['image_path'], png)
+        rescue => e
+          Jekyll.logger.error "OG Error:", "Grover failed for #{item_data['id']}: #{e.message}"
+        end
       end
-
-      # 5. Finalize the newly generated items
-      results.compact.each do |res|
-        original_item = all_items.find { |i| i.url == res[:id] }
-        next unless original_item
-
-        register_static_file(site, res[:image_name])
-        set_og_meta_tags(original_item, res[:relative_path])
-      end
-
-      Jekyll.logger.info "OG Generation:", "Finished processing."
     end
 
     private
 
-    def process_in_fork(item_data, template_raw)
-      slug = normalize_slug(item_data['slug'].empty? ? item_data['title'] : item_data['slug'])
-      image_name = "#{slug}-og.png"
-      image_path = File.join(@output_dir, image_name)
-      relative_path = File.join('/', @og_folder, image_name)
-
-      # Freshness Check
-      if File.exist?(image_path) && File.size?(image_path).to_i > 0
-        if item_data['path'] && File.exist?(item_data['path'])
-          if File.mtime(image_path) > File.mtime(item_data['path'])
-            return { id: item_data['id'], image_name: image_name, relative_path: relative_path }
-          end
-        end
-      end
-
-      html = render_liquid(item_data, template_raw)
-
-      begin
-        grover = Grover.new(html, **@grover_options)
-        png = grover.to_png
-        if png
-          File.binwrite(image_path, png)
-          { id: item_data['id'], image_name: image_name, relative_path: relative_path }
-        end
-      rescue => e
-        puts "Grover Error for #{item_data['id']}: #{e.message}"
-        nil
-      end
+    # Helper to render Liquid inside front matter strings (like titles)
+    def render_string(str, item, site)
+      return str unless str.include?('{{')
+      template = Liquid::Template.parse(str)
+      template.render(site.site_payload.merge("page" => item.data))
     end
 
     def render_liquid(item_data, template_str)
       liquid = Liquid::Template.parse(template_str)
-      excerpt = item_data['excerpt'].empty? ? item_data['content'][0..150] : item_data['excerpt']
-      
       payload = {
         'page' => item_data['page_data'],
         'site' => item_data['site_config'],
         'title' => item_data['title'],
-        'excerpt' => excerpt.to_s.strip,
-        'date' => item_data['date']
+        'excerpt' => item_data['excerpt'].empty? ? item_data['content'][0..150] : item_data['excerpt']
       }
       liquid.render(payload)
     end
@@ -163,8 +118,7 @@ module Jekyll
 
     def set_og_meta_tags(item, image_path)
       item.data['image'] = image_path
-      item.data['og'] ||= {}
-      item.data['og']['image'] = image_path
+      item.data['og_image'] = image_path # Useful for some SEO plugins
     end
 
     def normalize_slug(text)
