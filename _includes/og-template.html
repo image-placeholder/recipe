@@ -25,15 +25,28 @@
       </div>
       
       <h1 class="serif text-8xl leading-tight text-stone-900">
-        {{ title  | default: "Untitled" }}
+   {% if page.type == "recipes" %}
+    Browse All Recipes
+  {% elsif page.type == "categories" %}
+    Browse Recipes by {{ page.type }}
+  {% elsif page.type == "cuisines-categories" %}
+     Browse Recipes by Cuisine
+  {% elsif page.type == "category" %}
+    {{ page.title }} Recipes
+   {% elsif page.type == "cuisine" %}
+    {{ page.title }} Recipes       
+  {% else %}
+     {{ title  | default: "Untitled" }}
+  {% endif %}
+        
+       
         
       </h1>
 
  
        <p class="serif italic text-4xl text-stone-500 mt-6 font-light">
        {{ page.og_image_description | default: page.description | default: "" }}
-       {{ page.type }} 
-        
+  
       </p> 
       
   
