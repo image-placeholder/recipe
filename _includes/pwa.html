@@ -76,8 +76,15 @@
   {% file_read /assets/js/pwa/pwa.js %}
   </script>
 
-
 <script>
-// Register Service Worker
-PWA.ServiceWorker.register();   
+  function isPWA() {
+    return (
+      window.matchMedia('(display-mode: standalone)').matches ||
+      window.navigator.standalone === true // iOS
+    );
+  }
+
+  if ('serviceWorker' in navigator && isPWA()) {
+    PWA.ServiceWorker.register();
+  }
 </script>
