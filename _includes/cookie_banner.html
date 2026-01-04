@@ -1,0 +1,23 @@
+<div id="cookie-banner" class="fixed bottom-0 left-0 right-0 z-50 p-6 animate-fade-up pointer-events-none hidden">
+  <div class="max-w-4xl mx-auto bg-white border border-stone-200 shadow-2xl p-6 md:p-8 pointer-events-auto">
+    <div class="flex flex-col md:flex-row items-center justify-between gap-8">
+      
+      <div class="flex-1 text-center md:text-left">
+        <span class="uppercase tracking-[0.3em] text-[10px] font-bold text-stone-400 mb-2 block">Privacy Notice</span>
+        <p class="serif italic text-stone-600 leading-relaxed">
+          We use essential cookies to ensure the archive remains functional and to understand site traffic. No personal data is ever sold or shared.
+        </p>
+      </div>
+
+      <div class="flex gap-4 items-center shrink-0">
+        <a href="{{ '/privacy-policy/' | relative_url }}" class="text-[10px] uppercase tracking-widest font-bold text-stone-400 hover:text-stone-800 transition-colors px-4">
+          Details
+        </a>
+        <button data-accept-cookies class="bg-stone-800 text-white px-8 py-3 uppercase text-[10px] tracking-[0.2em] font-bold hover:bg-stone-700 transition-colors">
+          Accept
+        </button>
+      </div>
+
+    </div>
+  </div>
+</div>
