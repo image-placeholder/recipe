@@ -2,6 +2,56 @@
 
 set -e
 
+# Check for changes in _data/recipe
+
+
+DATA_PATH="_data/recipe"
+SCRIPT_PATH=".github/workflows/splitRecipes/splitRecipes.js"
+CACHE_DIR=".npm-cache"
+
+# Detect GitHub Actions
+IS_GH_ACTIONS=false
+[ "$GITHUB_ACTIONS" = "true" ] && IS_GH_ACTIONS=true
+
+echo "Environment:"
+echo "  GitHub Actions: $IS_GH_ACTIONS"
+echo "  OS: $(uname -s)"
+
+# -----------------------------
+# NPM CACHE (portable)
+# -----------------------------
+mkdir -p "$CACHE_DIR"
+npm config set cache "$CACHE_DIR" --global
+
+# -----------------------------
+# GIT AVAILABILITY CHECK
+# -----------------------------
+if command -v git >/dev/null 2>&1; then
+  HAS_GIT=true
+else
+  HAS_GIT=false
+fi
+
+# -----------------------------
+# CHANGE DETECTION
+# -----------------------------
+if [ "$HAS_GIT" = "true" ] && git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+  if git rev-parse HEAD^ >/dev/null 2>&1; then
+    if git diff --name-only HEAD^ HEAD -- "$DATA_PATH" | grep -q .; then
+      echo "Changes detected in $DATA_PATH."
+    else
+      echo "No changes in $DATA_PATH — skipping recipe processing."
+      exit 0
+    fi
+  else
+    echo "No previous commit — running recipe pipeline."
+  fi
+else
+  echo "Git not available or not a repository — running recipe pipeline."
+fi
+
+echo "Running recipe pipeline..."
+
 npm install \
   humanize-duration \
   js-yaml \
