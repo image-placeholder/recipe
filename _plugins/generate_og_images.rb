@@ -110,19 +110,22 @@ module Jekyll
 
     def render_template_content(site_source, item)
       template_content = File.read(File.join(site_source, @template_path))
-      liquid = Liquid::Template.parse(template_content)
+      liquid = Liquid::Template.parse(template_raw)
 
-      raw_excerpt = item.data['excerpt'] || item.content[0..150]
-      excerpt_content = raw_excerpt.to_s.strip
+      # Defensive excerpt handling
+      content_str = item.content.to_s
+      raw_excerpt = item.data['excerpt'].to_s
+      
+      excerpt_content = raw_excerpt.empty? ? content_str[0..150] : raw_excerpt
+      excerpt_content = excerpt_content.to_s.strip
       excerpt_content = "No preview available" if excerpt_content.empty?
 
       payload = {
         'page' => item.data,
-        'title' => item.data['title']&.strip || "Untitled",
+        'title' => (item.data['title'] || "Untitled").to_s.strip,
         'excerpt' => excerpt_content,
-        'date' => item.respond_to?(:date) ? item.date.strftime('%B %d, %Y') : nil
+        'date' => item.respond_to?(:date) && item.date ? item.date.strftime('%B %d, %Y') : nil
       }
-
       liquid.render(payload)
     end
 
