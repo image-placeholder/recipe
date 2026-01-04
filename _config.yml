@@ -23,6 +23,9 @@ url:                https://image-placeholder.github.io
 plugins_dir:        _plugins
 baseurl: "/"
 
+# Changes the logo text in Image OG template. 
+logo_text: "CT"
+
 # Inclusion/exclusion of future dated posts
 future:             false
 # Produces an index for related posts. Install rb-gsl and libgsl to speed this up
