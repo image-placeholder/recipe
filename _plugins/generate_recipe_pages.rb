@@ -1,5 +1,6 @@
 require "json"
 require "jekyll"
+require "parallel"
 
 module Jekyll
   class GenerateRecipePages < Generator
@@ -10,318 +11,125 @@ module Jekyll
       recipe_dir = File.join(site.source, "api", "recipes")
       return unless Dir.exist?(recipe_dir)
 
-      all_recipe_pages = []
-      used_slugs = {}
+      Jekyll.logger.info "Recipe Gen:", "Processing recipes in parallel..."
 
+      recipe_files = Dir[File.join(recipe_dir, "*.json")]
+      per_page = 12
+
+      # 1. Parallel Parsing
+      # We extract only the data needed for indexing to keep memory low
+      recipe_data_list = Parallel.map(recipe_files, in_processes: Parallel.processor_count) do |file_path|
+        begin
+          raw_data = JSON.parse(File.read(file_path))
+          base_slug = File.basename(file_path, ".json")
+          
+          # Prepare Schema
+          allowed_keys = %w[url name image description cookTime cookTimeOriginalFormat prepTime 
+                            prepTimeOriginalFormat totalTime totalTimeOriginalFormat recipeYield 
+                            recipeIngredients recipeInstructions recipeCategories recipeCuisines 
+                            recipeTypes keywords]
+          
+          schema = raw_data.select { |k, _| allowed_keys.include?(k) }
+
+          {
+            "slug" => base_slug,
+            "data" => raw_data,
+            "schema" => schema,
+            "category" => raw_data["recipeCategory"].to_s.strip,
+            "cuisine" => raw_data["recipeCuisine"].to_s.strip,
+            "title" => raw_data["name"].to_s
+          }
+        rescue => e
+          puts "Error parsing #{file_path}: #{e.message}"
+          nil
+        end
+      end.compact
+
+      # Sort once
+      recipe_data_list.sort_by! { |r| r["title"].downcase }
+
+      # 2. Initialize Collections
+      all_recipe_pages = []
       categories = Hash.new { |h, k| h[k] = [] }
       cuisines   = Hash.new { |h, k| h[k] = [] }
 
-      per_page = 12
-
-      # -----------------------------
-      # 1. Individual Recipe Pages
-      # -----------------------------
-      Dir[File.join(recipe_dir, "*.json")].each do |file_path|
-        begin
-          data = JSON.parse(File.read(file_path))
-          base_slug = File.basename(file_path, ".json")
-
-          unique_slug = base_slug
-          if used_slugs.key?(base_slug)
-            used_slugs[base_slug] += 1
-            unique_slug = "#{base_slug}-#{used_slugs[base_slug]}"
-          else
-            used_slugs[base_slug] = 1
-          end
-
-          page = Jekyll::PageWithoutAFile.new(
-            site,
-            site.source,
-            "recipes/#{unique_slug}",
-            "index.html"
-          )
-
-
-
-          schema = data.dup
-
-          # 🔥 Remove persisted build-time fields to be removed from recipe schemas.
-
-          # ✅ Allowed recipe schema keys (https://schema.org/Recipe)
-          allowed_keys = %w[
-            url
-            name
-            image
-            description
-            cookTime
-            cookTimeOriginalFormat
-            prepTime
-            prepTimeOriginalFormat
-            totalTime
-            totalTimeOriginalFormat
-            recipeYield
-            recipeIngredients
-            recipeInstructions
-            recipeCategories
-            recipeCuisines
-            recipeTypes
-            keywords
-          ]
-          
-          # 🔥 Strip everything else
-          schema.select! { |key, _| allowed_keys.include?(key) }
-
-          # Old way - saved for usage later possibly. 
-          #["_naturalized_times", "_similar"].each do |field|
-          #  schema.delete(field) if schema.key?(field)
-          #end
-          
-          page.data = data.merge(
-            "layout"    => "recipe",
-            "title"     => data["name"],
-            "permalink" => "/recipes/#{unique_slug}/",
-            "slug"      => unique_slug,
-            "recipe_schema"      => schema
-          )
-
-          page.content = ""
-          all_recipe_pages << page
-
-          if data["recipeCategory"].to_s.strip != ""
-            categories[data["recipeCategory"]] << page
-          end
-
-          if data["recipeCuisine"].to_s.strip != ""
-            cuisines[data["recipeCuisine"]] << page
-          end
-
+      # 3. Create Individual Pages (Main Process)
+      recipe_data_list.each_with_index do |r, i|
+        page = Jekyll::PageWithoutAFile.new(site, site.source, "recipes/#{r['slug']}", "index.html")
         
-          # 🔥 Remove persisted build-time field
-          #if data.key?("_naturalized_times")
-          #  data.delete("_naturalized_times")
-          #end
-          
-          # 🔥 Remove persisted build-time field
-          #if data.key?("url")
-          #  data.delete("url")
-          #end
-          
-          # 🔥 Remove persisted build-time field
-          #if data.key?("_similar")
-          #  data.delete("_similar")
-          #end
-           
-          
-          # ✍️ Write cleaned data back to file
-          File.write(
-            file_path,
-            JSON.pretty_generate(data),
-            mode: "w"
-          )
- 
+        # Navigation Data
+        prev_recipe = i > 0 ? { "url" => "/recipes/#{recipe_data_list[i-1]['slug']}/", "title" => recipe_data_list[i-1]['title'] } : nil
+        next_recipe = i < recipe_data_list.length - 1 ? { "url" => "/recipes/#{recipe_data_list[i+1]['slug']}/", "title" => recipe_data_list[i+1]['title'] } : nil
 
-        rescue StandardError => e
-          Jekyll.logger.error "Recipe parse error:", "#{file_path} — #{e.message}"
-        end
-      end
-
-      all_recipe_pages.sort_by! { |p| p.data["title"].to_s.downcase }
-
-      # -----------------------------
-      # 2. Previous / Next Navigation
-      # -----------------------------
-      all_recipe_pages.each_with_index do |p, i|
-        p.data["pagination"] = {
-          "previous" => i > 0 ? {
-            "url"   => all_recipe_pages[i - 1].data["permalink"],
-            "title" => all_recipe_pages[i - 1].data["title"]
-          } : nil,
-          "next" => i < all_recipe_pages.length - 1 ? {
-            "url"   => all_recipe_pages[i + 1].data["permalink"],
-            "title" => all_recipe_pages[i + 1].data["title"]
-          } : nil
-        }
-
-        site.pages << p
-      end
-
-      # -----------------------------
-      # 3. Main Recipe Index Pagination
-      # -----------------------------
-      total_pages = (all_recipe_pages.size.to_f / per_page).ceil
-
-      (1..total_pages).each do |page_num|
-        slice = all_recipe_pages.slice((page_num - 1) * per_page, per_page)
-
-        dir = page_num == 1 ? "recipes" : "recipes/#{page_num}"
-
-        page = Jekyll::PageWithoutAFile.new(site, site.source, dir, "index.html")
-        page.data = {
-          "layout" => "recipe-archive",
-          "title"  => "Recipes",
-          "type"   => "recipes",
-          "paginated_recipes" => slice.map(&:data),
-          "pagination" => {
-            "current_page" => page_num,
-            "total_pages"  => total_pages,
-            "next_page"    => page_num < total_pages ? page_num + 1 : nil,
-            "prev_page"    => page_num > 1 ? page_num - 1 : nil,
-            "base_url"     => "/recipes/"
-          }
-        }
-
+        page.data = r["data"].merge({
+          "layout" => "recipe",
+          "title" => r["title"],
+          "permalink" => "/recipes/#{r['slug']}/",
+          "slug" => r["slug"],
+          "recipe_schema" => r["schema"],
+          "pagination" => { "previous" => prev_recipe, "next" => next_recipe }
+        })
+        
+        page.content = ""
+        all_recipe_pages << page
         site.pages << page
+
+        categories[r["category"]] << page unless r["category"].empty?
+        cuisines[r["cuisine"]] << page unless r["cuisine"].empty?
       end
 
-      # -----------------------------
-      # 4. Paginated Category Pages
-      # -----------------------------
-      categories.each do |name, pages|
+      # 4. Generate All Archives (Paginated)
+      generate_paginated_archive(site, all_recipe_pages, "recipes", "Recipes", "recipes", "/recipes/", per_page)
+      
+      generate_grouped_archives(site, categories, "category", per_page)
+      generate_grouped_archives(site, cuisines, "cuisine", per_page)
+
+      # 5. Generate Landing Pages (Category/Cuisine list)
+      generate_landing_pages(site, categories, "category", "Categories", per_page)
+      generate_landing_pages(site, cuisines, "cuisine", "Cuisines", per_page)
+    end
+
+    private
+
+    def generate_grouped_archives(site, groups, type, per_page)
+      groups.each do |name, pages|
         slug = slugify(name)
-        total_pages = (pages.size.to_f / per_page).ceil
-
-        (1..total_pages).each do |page_num|
-          slice = pages.slice((page_num - 1) * per_page, per_page)
-          dir = page_num == 1 ? "recipes/category/#{slug}" : "recipes/category/#{slug}/#{page_num}"
-
-          page = Jekyll::PageWithoutAFile.new(site, site.source, dir, "index.html")
-          page.data = {
-            "layout" => "recipe-archive",
-            "title"  => name,
-            "type"   => "category",
-            "slug"   => slug,
-            "count"  => pages.size,
-            "paginated_recipes" => slice,
-            "pagination" => {
-              "current_page" => page_num,
-              "total_pages"  => total_pages,
-              "next_page"    => page_num < total_pages ? page_num + 1 : nil,
-              "prev_page"    => page_num > 1 ? page_num - 1 : nil,
-              "base_url"     => "/recipes/category/#{slug}/"
-            }
-          }
-
-          site.pages << page
-        end
+        generate_paginated_archive(site, pages, "recipes/#{type}/#{slug}", name, type, "/recipes/#{type}/#{slug}/", per_page)
       end
+    end
 
-      # -----------------------------
-      # 5. Paginated Cuisine Pages
-      # -----------------------------
-      cuisines.each do |name, pages|
-        slug = slugify(name)
-        total_pages = (pages.size.to_f / per_page).ceil
-
-        (1..total_pages).each do |page_num|
-          slice = pages.slice((page_num - 1) * per_page, per_page)
-          dir = page_num == 1 ? "recipes/cuisine/#{slug}" : "recipes/cuisine/#{slug}/#{page_num}"
-
-          page = Jekyll::PageWithoutAFile.new(site, site.source, dir, "index.html")
-          page.data = {
-            "layout" => "recipe-archive",
-            "title"  => name,
-            "type"   => "cuisine",
-            "slug"   => slug,
-            "count"  => pages.size,
-            "paginated_recipes" => slice,
-            "pagination" => {
-              "current_page" => page_num,
-              "total_pages"  => total_pages,
-              "next_page"    => page_num < total_pages ? page_num + 1 : nil,
-              "prev_page"    => page_num > 1 ? page_num - 1 : nil,
-              "base_url"     => "/recipes/cuisine/#{slug}/"
-            }
-          }
-
-          site.pages << page
-        end
-      end
-
-      # -----------------------------
-      # 6. Paginated Category Landing Pages
-      # -----------------------------
-      category_items = categories.map do |name, pages|
-        {
-          "title" => name,
-          "name"  => name,
-          "slug"  => slugify(name),
-          "count" => pages.size,
-          "permalink" => "/recipes/category/#{slugify(name)}/"
-        }
-      end.sort_by { |c| c["name"].downcase }
-
-      total_pages = (category_items.size.to_f / per_page).ceil
-
+    def generate_paginated_archive(site, items, base_dir, title, type, base_url, per_page)
+      total_pages = (items.size.to_f / per_page).ceil
       (1..total_pages).each do |page_num|
-        slice = category_items.slice((page_num - 1) * per_page, per_page)
-        dir = page_num == 1 ? "recipes/category" : "recipes/category/#{page_num}"
-
+        dir = page_num == 1 ? base_dir : "#{base_dir}/#{page_num}"
         page = Jekyll::PageWithoutAFile.new(site, site.source, dir, "index.html")
         page.data = {
           "layout" => "recipe-archive",
-          "title"  => "Categories",
-          "type"   => "categories",
-          "paginated_recipes" => slice,
+          "title" => title,
+          "type" => type,
+          "paginated_recipes" => items.slice((page_num - 1) * per_page, per_page).map(&:data),
           "pagination" => {
             "current_page" => page_num,
-            "total_pages"  => total_pages,
-            "next_page"    => page_num < total_pages ? page_num + 1 : nil,
-            "prev_page"    => page_num > 1 ? page_num - 1 : nil,
-            "base_url"     => "/recipes/category/"
+            "total_pages" => total_pages,
+            "next_page" => page_num < total_pages ? page_num + 1 : nil,
+            "prev_page" => page_num > 1 ? page_num - 1 : nil,
+            "base_url" => base_url
           }
         }
-
-        site.pages << page
-      end
-
-      # -----------------------------
-      # 7. Paginated Cuisine Landing Pages
-      # -----------------------------
-      cuisine_items = cuisines.map do |name, pages|
-        {
-          "title" => name,
-          "name"  => name,
-          "slug"  => slugify(name),
-          "count" => pages.size,
-          "permalink" => "/recipes/cuisine/#{slugify(name)}/"
-        }
-      end.sort_by { |c| c["name"].downcase }
-
-      total_pages = (cuisine_items.size.to_f / per_page).ceil
-
-      (1..total_pages).each do |page_num|
-        slice = cuisine_items.slice((page_num - 1) * per_page, per_page)
-        dir = page_num == 1 ? "recipes/cuisine" : "recipes/cuisine/#{page_num}"
-
-        page = Jekyll::PageWithoutAFile.new(site, site.source, dir, "index.html")
-        page.data = {
-          "layout" => "recipe-archive",
-          "title"  => "Cuisines",
-          "type"   => "cuisines-categories",
-          "paginated_recipes" => slice,
-          "pagination" => {
-            "current_page" => page_num,
-            "total_pages"  => total_pages,
-            "next_page"    => page_num < total_pages ? page_num + 1 : nil,
-            "prev_page"    => page_num > 1 ? page_num - 1 : nil,
-            "base_url"     => "/recipes/cuisine/"
-          }
-        }
-
         site.pages << page
       end
     end
 
-    # -----------------------------
-    # Utility: slugify
-    # -----------------------------
+    def generate_landing_pages(site, groups, type, title, per_page)
+      items = groups.map do |name, pages|
+        { "title" => name, "name" => name, "slug" => slugify(name), "count" => pages.size, "permalink" => "/recipes/#{type}/#{slugify(name)}/" }
+      end.sort_by { |c| c["name"].downcase }
+
+      generate_paginated_archive(site, items, "recipes/#{type}", title, "#{type}s", "/recipes/#{type}/", per_page)
+    end
+
     def slugify(text)
-      text.to_s
-          .downcase
-          .strip
-          .gsub(/\s+/, "-")
-          .gsub(/[^\w-]/, "")
-          .gsub(/--+/, "-")
+      text.to_s.downcase.strip.gsub(/\s+/, "-").gsub(/[^\w-]/, "").gsub(/--+/, "-")
     end
   end
 end
