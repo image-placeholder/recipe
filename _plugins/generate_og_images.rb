@@ -35,9 +35,18 @@ module Jekyll
       @grover_options = {
         format: 'png',
         viewport: { width: 1200, height: 630 },
-        wait_until: 'domcontentloaded',
+        wait_until: 'networkidle0',
         root_path: Dir.pwd,
-        launch_args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--single-process']
+        launch_args: [
+          '--no-sandbox',
+          '--disable-setuid-sandbox',
+          '--disable-dev-shm-usage',
+          '--disable-gpu',
+          '--no-first-run',
+          '--no-zygote',
+          '--single-process',
+          '--font-render-hinting=none'
+        ]
       }
 
       all_items = (site.posts.docs + site.pages).reject do |p| 
