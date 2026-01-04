@@ -105,6 +105,7 @@ module Jekyll
       payload = {
         'page' => item_data['data'],
         'title' => item_data['title'],
+        'site' => site.config,
         'excerpt' => excerpt.to_s.strip,
         'date' => item_data['date']
       }
