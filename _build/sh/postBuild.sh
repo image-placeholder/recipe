@@ -1,10 +1,7 @@
 #!/usr/bin/env sh
-
 set -e
 
-echo "Running post build script...."
-
-# put any of your post build scripts here
+echo "▶ Running post build script for OG images..."
 
 OG_PATH="assets/og-images"
 TARGET_BRANCH="main"
@@ -23,22 +20,22 @@ if ! command -v git >/dev/null 2>&1; then
 fi
 
 if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
-  echo "Not in a git repository — skipping."
+  echo "Not inside a git repository — skipping."
   exit 0
 fi
 
 # -----------------------------
-# BRANCH CHECK (GH PAGES ONLY)
+# BRANCH CHECK
 # -----------------------------
-CURRENT_BRANCH="$(git branch --show-current 2>/dev/null || true)"
+CURRENT_BRANCH="$(git branch --show-current 2>/dev/null || echo "$GITHUB_REF_NAME")"
 
 if [ "$CURRENT_BRANCH" != "$TARGET_BRANCH" ]; then
-  echo "Current branch is '$CURRENT_BRANCH' (not '$TARGET_BRANCH') — skipping."
+  echo "Current branch is '$CURRENT_BRANCH' (not '$TARGET_BRANCH') — skipping commit."
   exit 0
 fi
 
 # -----------------------------
-# CHANGE CHECK
+# CHECK FOR OG IMAGE CHANGES
 # -----------------------------
 if [ ! -d "$OG_PATH" ]; then
   echo "No $OG_PATH directory — nothing to commit."
@@ -46,19 +43,20 @@ if [ ! -d "$OG_PATH" ]; then
 fi
 
 if git diff --quiet -- "$OG_PATH"; then
-  echo "No changes detected in $OG_PATH."
+  echo "No changes detected in $OG_PATH — skipping commit."
   exit 0
 fi
 
 # -----------------------------
 # COMMIT & PUSH
 # -----------------------------
-echo "Committing OG images on $TARGET_BRANCH."
+echo "Changes detected in $OG_PATH — committing to $TARGET_BRANCH..."
 
 git config --global user.email "github-actions[bot]@users.noreply.github.com"
 git config --global user.name "github-actions[bot]"
 
 git add "$OG_PATH"
 git commit -m "Add/update generated OG images"
-git push
-echo "▶ Post build script finished"
+git push --quiet
+
+echo "▶ Post build script finished."
