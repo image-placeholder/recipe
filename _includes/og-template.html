@@ -31,7 +31,7 @@
 
  
        <p class="serif italic text-4xl text-stone-500 mt-6 font-light">
-        {{ page.description }}
+       {{ page.og_image_description | default: page.description | default: "" }}
         
       </p> 
       
