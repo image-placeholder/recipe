@@ -44,17 +44,19 @@ module Jekyll
         image_exists = File.exist?(image_path) && File.size(image_path) > 0
         
         # 2. BETTER FRESHNESS CHECK
-        needs_update = false
-        if !image_exists
-          needs_update = true
-        else
-          image_mtime = File.mtime(image_path).to_i
-          # Update if template changed
-          needs_update = true if template_mtime > image_mtime
-          # Update if source file changed (using 1s buffer for precision)
-          needs_update = true if source_path && File.exist?(source_path) && File.mtime(source_path).to_i > image_mtime
-        end
+        needs_update = if image_mtime == 0
+                         true
+                       elsif (template_mtime.to_i > image_mtime + 2)
+                         true
+                       elsif source_path && File.exist?(source_path) && (File.mtime(source_path).to_i > image_mtime + 2)
+                         true
+                       elsif !image_exists
+                         true
+                       else
+                         false
+                       end
 
+        
         # Always register and set tags, whether we generate now or use cache
         register_static_file(site, image_name)
         set_og_meta_tags(item, File.join('/', @og_folder, image_name))
