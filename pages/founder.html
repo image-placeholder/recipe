@@ -1,6 +1,7 @@
 ---
 permalink: /founder/
-title: "Jared Van Valkengoed"
+title: "Meet The Founder"
+founder_name: "Jared Van Valkengoed"
 ---
 {% assign base_url = site.baseurl | default: "" %}
 <!DOCTYPE html>
@@ -9,26 +10,26 @@ title: "Jared Van Valkengoed"
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{page.title}} | Founder of {{site.title}}</title>
+  <title>{{page.title}} | {{site.title}}</title>
   
   <!-- Primary Meta Tags -->
-  <meta name="title" content="{{page.title}} | Founder of {{site.title}}">
-  <meta name="description" content="Learn about {{page.title}}, founder of {{site.title}}. Raised in Crediton, Ontario, he digitized and modernized the church cookbooks to preserve South Huron's culinary heritage for generations.">
-  <meta name="keywords" content="{{site.title}}, {{page.title}}, Crediton Ontario, church cookbooks, digitized recipes, South Huron food traditions, culinary heritage, founder story">
+  <meta name="title" content="{{page.founder_name}} | Founder of {{site.title}}">
+  <meta name="description" content="Learn about {{page.founder_name}}, founder of {{site.title}}. Raised in Crediton, Ontario, he digitized and modernized the church cookbooks to preserve South Huron's culinary heritage for generations.">
+  <meta name="keywords" content="{{site.title}}, {{page.founder_name}}, Crediton Ontario, church cookbooks, digitized recipes, South Huron food traditions, culinary heritage, founder story">
   <meta name="author" content="{{page.title}}">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://yourwebsite.com/founder">
-  <meta property="og:title" content="{{page.title}} | Founder of {{site.title}}">
-  <meta property="og:description" content="Discover how {{page.title}} preserved and modernized the Crediton Church community cookbooks, protecting South Huron's culinary traditions.">
+  <meta property="og:title" content="{{page.founder_name}} | Founder of {{site.title}}">
+  <meta property="og:description" content="Discover how {{page.founder_name}} preserved and modernized the Crediton Church community cookbooks, protecting South Huron's culinary traditions.">
   <meta property="og:image" content="https://yourwebsite.com/path-to/jared-photo.jpg">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="https://yourwebsite.com/founder">
-  <meta property="twitter:title" content="{{page.title}} | Founder of {{site.title}}">
-  <meta property="twitter:description" content="Meet {{page.title}}, founder of {{site.title}}. Digitizing the church cookbooks, he preserves the food traditions and community stories of South Huron.">
+  <meta property="twitter:title" content="{{page.founder_name}} | Founder of {{site.title}}">
+  <meta property="twitter:description" content="Meet {{page.founder_name}}, founder of {{site.title}}. Digitizing the church cookbooks, he preserves the food traditions and community stories of South Huron.">
   <meta property="twitter:image" content="https://yourwebsite.com/path-to/jared-photo.jpg">
 
   <!-- Favicon & Touch -->
@@ -93,7 +94,7 @@ title: "Jared Van Valkengoed"
     </span>
 
     <h2 class="text-5xl md:text-7xl mb-8 serif">
-      {{page.title}}<br>
+      {{page.founder_name}}<br>
       <span class="italic font-light">Preserving South Huron’s Culinary Heritage</span>
     </h2>
 
@@ -107,7 +108,7 @@ title: "Jared Van Valkengoed"
   <article class="bg-white border border-stone-200 p-8 md:p-16 shadow-sm space-y-12">
     
     <div class="flex flex-col md:flex-row items-start gap-8">
-      <img src="/path-to/jared-photo.jpg" alt="{{page.title}}" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full border border-stone-200 shadow-sm">
+      <img src="/path-to/jared-photo.jpg" alt="{{page.founder_name}}" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full border border-stone-200 shadow-sm">
       
       <div class="flex-1">
         <h3 class="serif text-3xl italic mb-4">About Jared</h3>
