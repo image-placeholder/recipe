@@ -1,7 +1,7 @@
 require 'grover'
 require 'fileutils'
 require 'parallel'
-require 'set'
+require 'digest'
 
 module Jekyll
   class GenerateOgImages < Generator
@@ -12,18 +12,25 @@ module Jekyll
       @og_folder = site.config['og_images_folder'] || 'assets/og-images'
       @template_path = site.config['og_template'] || '_includes/og-template.html'
       @output_dir = File.join(site.source, @og_folder)
+      FileUtils.mkdir_p(@output_dir) unless Dir.exist?(@output_dir)
 
-      # 1. Template Freshness Check - Direct from Disk
+      # 1. Template Hashing (The "Nuclear" Option for Freshness)
       template_full_path = File.expand_path(@template_path, site.source)
-      
-      unless File.exist?(template_full_path)
-        Jekyll.logger.warn "OG Generation:", "Template not found at #{template_full_path}"
-        return
-      end
+      return unless File.exist?(template_full_path)
 
       template_raw = File.read(template_full_path)
-      # We get the mtime directly from the OS to ensure it's not cached
-      template_mtime = File.mtime(template_full_path).to_i
+      # Create a unique fingerprint of the template content
+      current_template_hash = Digest::MD5.hexdigest(template_raw)
+      
+      # We store the hash in a hidden file to compare against previous runs
+      hash_file = File.join(@output_dir, '.template_hash')
+      old_template_hash = File.exist?(hash_file) ? File.read(hash_file).strip : nil
+      
+      template_changed = (current_template_hash != old_template_hash)
+
+      if template_changed
+        Jekyll.logger.info "OG Generation:", "Template change detected (Hash mismatch). Forcing full rebuild."
+      end
 
       @grover_options = {
         format: 'png',
@@ -33,9 +40,6 @@ module Jekyll
         launch_args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--single-process']
       }
 
-      FileUtils.mkdir_p(@output_dir) unless Dir.exist?(@output_dir)
-
-      # 2. Filter items: Determine which items actually need processing
       all_items = (site.posts.docs + site.pages).reject do |p| 
         p.data['image'] && !p.data['image'].include?(@og_folder)
       end
@@ -44,29 +48,17 @@ module Jekyll
         slug = normalize_slug(item.data['slug'] || item.data['title'])
         image_name = "#{slug}-og.png"
         image_path = File.join(@output_dir, image_name)
-
-        # Get image mtime (0 if it doesn't exist)
-        image_mtime = File.exist?(image_path) ? File.mtime(image_path).to_i : 0
         
-        # Get source file mtime
+        # Freshness Logic
+        image_exists = File.exist?(image_path)
         source_path = item.path ? File.expand_path(item.path, site.source) : nil
-        source_mtime = (source_path && File.exist?(source_path)) ? File.mtime(source_path).to_i : 0
+        source_newer = source_path && File.exist?(source_path) && (File.mtime(source_path) > File.mtime(image_path)) rescue false
 
-        # REGENERATION LOGIC
-        # We use a 1-second buffer. If Template or Source is >= Image, we rebuild.
-        needs_update = false
-        if image_mtime == 0
-          needs_update = true
-        elsif template_mtime > image_mtime
-          needs_update = true
-        elsif source_mtime > image_mtime
-          needs_update = true
-        end
-        
+        needs_update = !image_exists || template_changed || source_newer
+
         if needs_update
           true
         else
-          # If no update needed, register the existing file so Jekyll doesn't delete it
           register_static_file(site, image_name)
           set_og_meta_tags(item, File.join('/', @og_folder, image_name))
           false
@@ -74,19 +66,17 @@ module Jekyll
       end
 
       if items_to_process.empty?
-        Jekyll.logger.info "OG Generation:", "No changes detected in template or content. Skipping."
+        Jekyll.logger.info "OG Generation:", "Everything up to date."
         return
       end
 
-      Jekyll.logger.info "OG Generation:", "Changes detected! Regenerating #{items_to_process.size} images..."
+      Jekyll.logger.info "OG Generation:", "Processing #{items_to_process.size} images..."
 
-      # 3. Process the queue
+      # Prepare Queue
       sanitized_config = site.config.each_with_object({}) { |(k, v), h| h[k.to_s] = v.is_a?(Proc) ? nil : v }
-
       processing_queue = items_to_process.map do |item|
         {
           'id' => item.url,
-          'path' => item.path,
           'title' => item.data['title'].to_s,
           'slug' => item.data['slug'].to_s,
           'content' => item.content.to_s[0..500],
@@ -97,11 +87,15 @@ module Jekyll
         }
       end
 
+      # Run Grover
       results = Parallel.map(processing_queue, in_processes: Parallel.processor_count) do |item_data|
         process_in_fork(item_data, template_raw)
       end
 
-      # 4. Finalize registration
+      # Save the new hash after successful generation
+      File.write(hash_file, current_template_hash)
+
+      # Register Results
       results.compact.each do |res|
         original_item = all_items.find { |i| i.url == res[:id] }
         next unless original_item
@@ -125,10 +119,8 @@ module Jekyll
       begin
         grover = Grover.new(html, **@grover_options)
         png = grover.to_png
-        if png
-          File.binwrite(image_path, png)
-          { id: item_data['id'], image_name: image_name, relative_path: relative_path }
-        end
+        File.binwrite(image_path, png) if png
+        { id: item_data['id'], image_name: image_name, relative_path: relative_path }
       rescue => e
         puts "Grover Error: #{e.message}"
         nil
