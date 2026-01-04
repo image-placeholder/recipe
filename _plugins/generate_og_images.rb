@@ -49,9 +49,22 @@ module Jekyll
         
         # Expand the path to be absolute so File.mtime always finds it
         source_path = item.path ? File.expand_path(item.path, site.source) : nil
-        needs_update = !File.exist?(image_path) || 
-                       (template_mtime > File.mtime(image_path)) ||
-                       (source_path && File.exist?(source_path) && File.mtime(source_path) > File.mtime(image_path))
+        # 2. Get image mtime once (default to 0 if missing)
+        image_mtime = File.exist?(image_path) ? File.mtime(image_path).to_i : 0
+
+        # 3. Regenerate if:
+        # - Image doesn't exist
+        # - The Template is newer than the image (with 2s buffer)
+        # - The Source file is newer than the image (with 2s buffer)
+        needs_update = if image_mtime == 0
+                         true
+                       elsif (template_mtime.to_i > image_mtime + 2)
+                         true
+                       elsif source_path && File.exist?(source_path) && (File.mtime(source_path).to_i > image_mtime + 2)
+                         true
+                       else
+                         false
+                       end
         
         # If it doesn't need an update, we still need to register it as a static file
         unless needs_update
