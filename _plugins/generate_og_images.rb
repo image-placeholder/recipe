@@ -20,8 +20,9 @@ module Jekyll
       # 1. Template Freshness Check
       template_full_path = File.join(site.source, @template_path)
       return unless File.exist?(template_full_path)
+      
       template_raw = File.read(template_full_path)
-      template_mtime = File.mtime(template_full_path)
+      template_mtime = File.mtime(template_full_path).to_i
 
       @grover_options = {
         format: 'png',
@@ -31,44 +32,31 @@ module Jekyll
         launch_args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--single-process']
       }
 
-      # 2. Filter items: Only process if incremental is OFF OR if the file actually needs an update
+      # 2. Filter items
       all_items = (site.posts.docs + site.pages).reject do |p| 
         p.data['image'] && !p.data['image'].include?(@og_folder)
       end
 
-      # Determine which items actually need processing
       items_to_process = all_items.select do |item|
         slug = normalize_slug(item.data['slug'] || item.data['title'])
-        image_path = File.join(@output_dir, "#{slug}-og.png")
+        image_name = "#{slug}-og.png"
+        image_path = File.join(@output_dir, image_name)
 
-        # Regenerate if:
-        # - Image doesn't exist
-        # - Source file is newer than image
-        # - The OG Template itself is newer than the image
-        # - It's a real file on disk and has been modified since the image was made
-        
-        # Expand the path to be absolute so File.mtime always finds it
         source_path = item.path ? File.expand_path(item.path, site.source) : nil
-        # 2. Get image mtime once (default to 0 if missing)
         image_mtime = File.exist?(image_path) ? File.mtime(image_path).to_i : 0
 
-        # 3. Regenerate if:
-        # - Image doesn't exist
-        # - The Template is newer than the image (with 2s buffer)
-        # - The Source file is newer than the image (with 2s buffer)
+        # Logic: Regenerate if image is missing, or if template/source is newer than image (+ 2s buffer)
         needs_update = if image_mtime == 0
                          true
-                       elsif (template_mtime.to_i > image_mtime + 10)
+                       elsif (template_mtime > image_mtime + 2)
                          true
-                       elsif source_path && File.exist?(source_path) && (File.mtime(source_path).to_i > image_mtime + 10)
+                       elsif source_path && File.exist?(source_path) && (File.mtime(source_path).to_i > image_mtime + 2)
                          true
                        else
                          false
                        end
         
-        # If it doesn't need an update, we still need to register it as a static file
         unless needs_update
-          image_name = "#{slug}-og.png"
           register_static_file(site, image_name)
           set_og_meta_tags(item, File.join('/', @og_folder, image_name))
         end
@@ -83,16 +71,16 @@ module Jekyll
 
       Jekyll.logger.info "OG Generation:", "Regenerating #{items_to_process.size} items..."
 
-      # 3. Sanitize site config
       sanitized_config = site.config.each_with_object({}) do |(k, v), h|
         h[k.to_s] = v.is_a?(Proc) ? nil : v
       end
 
-      # 4. Prepare only the items that need updates
+      # 3. Prepare queue - Pass template_mtime so the fork knows the template changed
       processing_queue = items_to_process.map do |item|
         {
           'id' => item.url,
           'path' => item.path,
+          'template_mtime' => template_mtime, # FIXED: Pass this to the fork
           'title' => item.data['title'].to_s,
           'slug' => item.data['slug'].to_s,
           'content' => item.content.to_s[0..500],
@@ -107,7 +95,7 @@ module Jekyll
         process_in_fork(item_data, template_raw)
       end
 
-      # 5. Finalize the newly generated items
+      # 4. Finalize
       results.compact.each do |res|
         original_item = all_items.find { |i| i.url == res[:id] }
         next unless original_item
@@ -127,12 +115,22 @@ module Jekyll
       image_path = File.join(@output_dir, image_name)
       relative_path = File.join('/', @og_folder, image_name)
 
-      # Freshness Check
+      # Check if we can skip (Parallel safety check)
       if File.exist?(image_path) && File.size?(image_path).to_i > 0
-        if item_data['path'] && File.exist?(item_data['path'])
-          if File.mtime(image_path) > File.mtime(item_data['path'])
-            return { id: item_data['id'], image_name: image_name, relative_path: relative_path }
-          end
+        image_mtime = File.mtime(image_path).to_i
+        
+        # FIXED: Ensure we check the template timestamp here too
+        template_fresh = image_mtime > (item_data['template_mtime'] + 2)
+        
+        source_path = item_data['path']
+        source_fresh = if source_path && File.exist?(source_path)
+                         image_mtime > (File.mtime(source_path).to_i + 2)
+                       else
+                         true
+                       end
+
+        if template_fresh && source_fresh
+          return { id: item_data['id'], image_name: image_name, relative_path: relative_path }
         end
       end
 
