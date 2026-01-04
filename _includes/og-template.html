@@ -31,7 +31,10 @@
         {% else %}
         
         {% endif %}
-        <span class="text-2xl text-slate-400">/{{ page.slug }}</span>
+
+        {% if page.slug %}
+        <span class="text-2xl text-slate-400">/{{ page.path }}/{{ page.slug }}</span>
+        {% endif %}
       </div>
       <p class="text-xl text-slate-500">{{ page.date | date: "%B %d, %Y" }}</p>
     </div>
