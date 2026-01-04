@@ -110,10 +110,89 @@ All other properties, including build-time or non-Schema.org fields, are removed
 
 ## Data Integrity
 
-* All recipes must be valid `Recipe` objects
+* All recipes must be valid `Recipe` objects - any additonal keys will be removed from the schema at build time. 
 * Invalid or non-conforming entries may be excluded from the build
 * Cleaned recipe data may be written back during the build process
 
+# 🖼️ High-Performance OG Image Generator for Jekyll
+
+A custom Jekyll generator that uses **Puppeteer (via Grover)** to render beautiful, dynamic Open Graph images for every page, post, and recipe in your site. It is optimized for large sites (1,000+ pages) using multi-process parallelization and smart incremental caching.
+
+## 🚀 Key Features
+
+* **Parallel Processing:** Uses all available CPU cores to render images simultaneously.
+* **Smart Incremental Builds:** Only regenerates images if the source file or the HTML template has changed.
+* **Template-Based:** Use standard Liquid, HTML, and CSS to design your OG images in `_includes/og-template.html`.
+* **Recipe Support:** Automatically handles dynamically generated recipe pages and standard pages like `index.html`.
+* **Performance Optimized:** Sanitizes data before forking to prevent memory leaks and serialization errors.
+
+## 📦 Dependencies
+
+You must have the following installed on your system:
+
+1. **Node.js & Puppeteer:** Required for headless browser rendering.
+2. **Ruby Gems:**
+```ruby
+gem 'grover'
+gem 'parallel'
+
+```
+
+
+
+## 🛠️ Configuration
+
+Add these variables to your `_config.yml`:
+
+```yaml
+og_images_folder: "assets/og-images" # Where images will be saved
+og_template: "_includes/og-template.html" # The HTML design for your OG image
+title: "My Awesome Site" # Fallback title for index pages
+
+```
+
+## 🎨 Creating the Template
+
+Create a file at `_includes/og-template.html`. You can use any CSS (Flexbox/Grid) to layout your image. The generator provides the following Liquid variables:
+
+* `{{ title }}`: The page or post title.
+* `{{ excerpt }}`: A short description (falls back to content snippet).
+* `{{ date }}`: The formatted date of the post.
+* `{{ site.url }}`: Access to any variable in your `_config.yml`.
+
+```html
+<style>
+  body { width: 1200px; height: 630px; background: #111; color: white; display: flex; align-items: center; }
+  .box { border: 10px solid gold; padding: 40px; }
+</style>
+<div class="box">
+  <h1>{{ title }}</h1>
+  <p>{{ excerpt }}</p>
+  <span>{{ site.title }}</span>
+</div>
+
+```
+
+## ⚙️ How the Incremental Logic Works
+
+The generator is designed to be "silent" when no changes occur. It uses a 3-point check to decide if an image needs rendering:
+
+1. **Existence:** If `slug-og.png` is missing, it generates.
+2. **Template Check:** If `_includes/og-template.html` is newer than the image, **all** images regenerate.
+3. **Source Check:** If `posts/my-post.md` is newer than its corresponding image (with a 1-second buffer), it regenerates.
+
+## 🖥️ CI/CD (GitHub Actions) Note
+
+If you are running this in GitHub Actions, ensure you have a step to install the browser:
+
+```yaml
+- name: Install Browser for Grover
+  run: |
+    npm install puppeteer
+    sudo apt-get install -y libgbm-dev
+
+```
+ 
 
 # Build Hooks: Pre-Build & Post-Build
 
