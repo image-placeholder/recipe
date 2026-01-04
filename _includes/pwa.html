@@ -77,6 +77,9 @@
   </script>
 
 <script>
+(function () {
+  if (!('serviceWorker' in navigator)) return;
+
   function isPWA() {
     return (
       window.matchMedia('(display-mode: standalone)').matches ||
@@ -84,7 +87,8 @@
     );
   }
 
-  if ('serviceWorker' in navigator && isPWA()) {
+  if (isPWA() && window.PWA?.ServiceWorker?.register) {
     PWA.ServiceWorker.register();
   }
+})();
 </script>
