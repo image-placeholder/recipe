@@ -38,35 +38,24 @@ module Jekyll
 
       # Determine which items actually need processing
       items_to_process = all_items.select do |item|
-        # Use a safe title fallback for pages like index.html that might not have a title key
-        display_title = item.data['title'] || site.config['title'] || "index"
-        slug = normalize_slug(item.data['slug'] || display_title)
+        slug = normalize_slug(item.data['slug'] || item.data['title'])
+        image_path = File.join(@output_dir, "#{slug}-og.png")
+
+        # Regenerate if:
+        # - Image doesn't exist
+        # - Source file is newer than image
+        # - The OG Template itself is newer than the image
+        # - It's a real file on disk and has been modified since the image was made
         
-        image_name = "#{slug}-og.png"
-        image_path = File.join(@output_dir, image_name)
-        
-        # 1. Resolve absolute path of the source file
-        # Standard pages (index.html) have item.path; dynamic pages might not.
+        # Expand the path to be absolute so File.mtime always finds it
         source_path = item.path ? File.expand_path(item.path, site.source) : nil
+        needs_update = !File.exist?(image_path) || 
+                       (template_mtime > File.mtime(image_path)) ||
+                       (source_path && File.exist?(source_path) && File.mtime(source_path) > File.mtime(image_path))
         
-        # 2. Check existence of the generated image
-        image_exists = File.exist?(image_path) && File.size?(image_path).to_i > 0
-
-        # 3. Determine if update is required
-        needs_update = if !image_exists
-                         true # Image is missing
-                       elsif template_mtime > File.mtime(image_path)
-                         true # Template changed, global update needed
-                       elsif source_path && File.exist?(source_path)
-                         # If it's a real file (index.md, about.html), check modification time
-                         File.mtime(source_path) > File.mtime(image_path)
-                       else
-                         # If it's a virtual page (recipe index), and image exists, we assume it's fresh
-                         false
-                       end
-
-        # If it's fresh, register it and skip processing
+        # If it doesn't need an update, we still need to register it as a static file
         unless needs_update
+          image_name = "#{slug}-og.png"
           register_static_file(site, image_name)
           set_og_meta_tags(item, File.join('/', @og_folder, image_name))
         end
