@@ -1,3 +1,48 @@
+# Jekyll Recipe Site with Structured Data Support
+
+This is a Jekyll-based recipe site that generates structured recipe pages from **Schema.org `Recipe` JSON data**. Recipes are processed through a **Node.js build step** before being consumed by Jekyll to generate individual recipe pages, paginated archives, and category and cuisine indexes.
+
+## Features
+
+* **Schema.org `Recipe` Support**
+  Recipes are defined as structured data using the Schema.org `Recipe` specification to ensure consistency, validity, and SEO-friendly output.
+
+* **Centralized Recipe Data**
+  Recipes are stored in a single `_data/recipes.json` file as an array of `Recipe` objects and processed automatically during the build.
+
+* **Node.js Preprocessing Pipeline**
+  A Node.js build step validates, normalizes, and converts recipe data before Jekyll runs, ensuring clean and predictable inputs.
+
+* **Automatic Recipe Page Generation**
+  Jekyll generates:
+
+  * Individual recipe pages
+  * Paginated recipe indexes
+  * Paginated category archives (`recipeCategory`)
+  * Paginated cuisine archives (`recipeCuisine`)
+
+* **Schema-Constrained Output**
+  Only supported Schema.org `Recipe` properties are preserved. Non-schema and build-time fields are stripped during generation.
+
+* **JSON API Output**
+  Structured recipe data is exposed as JSON for reuse in APIs, search, or external integrations.
+
+* **Tailwind CSS & PurgeCSS**
+  Utility-first styling with PurgeCSS to remove unused styles and keep output minimal.
+
+* **Webpack Asset Pipeline**
+  JavaScript is bundled and optimized with Webpack, allowing custom entry points and efficient asset management.
+
+* **Font Awesome Optimization**
+  Only the icons actually used by the site are included, minimizing CSS size.
+
+* **High Performance**
+  Optimized assets and a streamlined build pipeline deliver **excellent Lighthouse scores** for performance, accessibility, SEO, and best practices.
+
+* **Progressive Web App (PWA) Support**
+  Enables offline access and app-like installation behavior for the recipe site.
+
+
 # Recipes Data
 
 Recipes **must be stored in `_data/recipes.json`** as an **array of Schema.org `Recipe` objects**.
@@ -904,3 +949,111 @@ function searchRecipes(recipes, query) {
 ---
 
 This workflow can be easily integrated into **React, Vue, or vanilla JS** projects to dynamically render recipes, filter lists, or implement a search feature.
+
+
+
+### Webpack
+
+Webpack is used to bundle JavaScript files that include `import` or `export` statements.  
+The configuration can be found in the `_webpack` directory, where you can also define additional entry points as needed.  
+
+For a detailed overview of the build process, see the [Webpack README](_webpack/README.md).
+
+
+### Tailwind CSS
+
+Tailwind is used to generate the site’s CSS using utility classes.  
+The build process installs Tailwind and its required PostCSS tools:
+
+```bash
+npm install tailwindcss@3.4.17 postcss autoprefixer
+npx tailwindcss -i ./assets/css/_tailwind.css -o ./assets/css/tailwind.css --minify
+````
+
+The file **`/assets/css/_tailwind.css`** is required as the input source.
+It typically includes the base Tailwind directives:
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+When you run the Tailwind build command, it processes `_tailwind.css`, applies PostCSS and Autoprefixer, and outputs a minified stylesheet to **`/assets/css/tailwind.css`**, which is the file included in your Jekyll site.
+
+### PurgeCSS
+
+PurgeCSS is used to remove unused CSS from specific stylesheets, keeping file sizes smaller.  
+
+In this setup, PurgeCSS is **only applied to Font Awesome** to avoid breaking Tailwind:
+
+```yaml
+PurgeCSS:
+  content: ["_site/**/*.html", "_site/**/*.js"]
+  css: ["_site/assets/css/font-awesome.css"] # Only purge Font Awesome; PurgeCSS will break Tailwind
+  output: _site/assets/css/
+````
+
+* `content` specifies the HTML and JS files to scan for used classes.
+* `css` lists the stylesheets to purge — here, only **Font Awesome** is targeted.
+* `output` defines where the purged CSS is saved.
+
+> ⚠️ Tailwind CSS is **not purged** because removing unused classes can break its utility-based design.
+
+
+### Font Awesome
+
+Font Awesome icons are included and managed via Webpack then purged via PurgeCSS.  
+
+The setup copies the CSS and webfonts from `node_modules` to the site’s assets:
+
+- `all.min.css` → `assets/css/font-awesome.css`  
+- `webfonts/` → `assets/webfonts/`  
+
+This allows you to use Font Awesome classes in your HTML, while keeping the fonts and CSS bundled correctly by Webpack.
+
+
+### JavaScript Minification
+
+All other JavaScript files in your Jekyll site (outside of `_webpack` builds) are automatically minified using **Jekyll Terser**.  
+
+- Terser processes these JS files during the Jekyll build.  
+- The resulting files are minified, reducing file size and improving load performance.  
+- `_webpack`-generated files are **not affected** by Jekyll Terser, since they are already minified via Webpack.
+
+### PWA Support
+
+This site includes **Progressive Web App (PWA)** support via [Google Workbox](https://github.com/GoogleChrome/workbox).  
+
+- It provides offline functionality, allowing the site to load even without an internet connection.  
+- A service worker manages caching of assets like HTML, CSS, JS, and images.  
+- The site can be installed on mobile devices or desktops, giving it an app-like experience.  
+- PWA features work seamlessly alongside Webpack, Tailwind, and other build tools in this project.
+
+
+### Inline Critical CSS & JS in Jekyll
+
+For small or critical assets, you can inline CSS or JS directly in your pages using the custom Jekyll `file_read` tag:
+
+```html
+<!-- Inline critical JS -->
+<script>
+  {% file_read /assets/js/nav_menu.js %}
+</script>
+
+<!-- Inline critical CSS -->
+<style>
+  {% file_read /assets/css/styles.css %}
+</style>
+````
+
+Inlining critical code can improve page load performance by reducing additional HTTP requests.
+
+## Contributing
+
+Feel free to open an issue or submit a pull request if you'd like to contribute to this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
