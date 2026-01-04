@@ -12,7 +12,7 @@ module Jekyll
     def process_front_matter(doc, site)
       # Define which fields you want to allow Liquid in
       # Add 'description', 'og_title', etc., to this list
-      keys_to_render = ['title', 'description']
+      keys_to_render = ['title', 'description', 'og_image_description']
 
       keys_to_render.each do |key|
         if doc.data[key] && doc.data[key].include?("{{")
