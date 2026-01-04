@@ -1,0 +1,130 @@
+---
+title: Privacy Policy
+permalink: /privacy-policy/
+og_image_description: "View the {{site.title}} privacy policy"
+---
+{% assign base_url = site.baseurl | default: "" %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script> 
+  <title>{{page.title}} | {{site.title}}</title>
+ <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f7f2;
+    }
+
+    h1,
+    h2,
+    h3,
+    .serif {
+      font-family: 'Playfair Display', serif;
+    }
+
+    /* Premium Navigation Blur */
+    .glass-nav {
+      background-color: rgba(248, 247, 242, 0.8);
+      backdrop-filter: blur(8px);
+    }
+
+    /* Print optimization to hide URL and Page # */
+    @media print {
+      @page {
+        margin: 0;
+      }
+
+      body {
+        margin: 2cm;
+        background: white !important;
+        color: black !important;
+      }
+
+      nav,
+      footer,
+      button,
+      .no-print {
+        display: none !important;
+      }
+    }
+  </style>
+
+  
+
+ {% include head_content.html base_url=base_url %} 
+  
+</head>
+<body> 
+<!-- Navigation -->
+{% include navigation.html %}   
+
+
+<main class="max-w-4xl mx-auto px-6 py-16 md:py-24">
+  <header class="text-center mb-24 animate-fade-in">
+    <span class="text-xs uppercase tracking-[0.3em] font-bold text-stone-400 mb-4 block">
+      Connect With the Archive
+    </span>
+    <h2 class="text-5xl md:text-7xl mb-8 serif">
+      Contact Us<br>
+      <span class="italic font-light text-4xl md:text-6xl text-stone-600">Share a Story or a Fix</span>
+    </h2>
+    <div class="w-16 h-px bg-stone-300 mx-auto mb-8"></div>
+    <p class="text-lg md:text-xl text-stone-500 italic font-light max-w-2xl mx-auto leading-relaxed">
+      Whether you found a typo in a 1954 recipe or have a memory of these community dinners to share, we would love to hear from you.
+    </p>
+  </header>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-24">
+    <div class="border border-stone-200 p-10 bg-white hover:border-stone-400 transition-colors duration-500 flex flex-col items-center text-center">
+      <div class="w-12 h-12 border border-stone-800 flex items-center justify-center mb-6">
+        <svg class="w-5 h-5 text-stone-800" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+        </svg>
+      </div>
+      <h3 class="serif text-2xl mb-4 text-stone-800">General Inquiries</h3>
+      <p class="text-sm text-stone-500 italic mb-8 leading-relaxed">
+        For recipe corrections, family stories, or general feedback about the archive.
+      </p>
+      <a href="mailto:hello@yourdomain.com" class="text-[10px] uppercase tracking-[0.3em] font-bold text-stone-900 border-b border-stone-900 pb-1 hover:text-stone-400 hover:border-stone-400 transition-all">
+        Send an Email
+      </a>
+    </div>
+
+    <div class="border border-stone-200 p-10 bg-white hover:border-stone-400 transition-colors duration-500 flex flex-col items-center text-center">
+      <div class="w-12 h-12 border border-stone-800 flex items-center justify-center mb-6">
+        <svg class="w-5 h-5 text-stone-800" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+        </svg>
+      </div>
+      <h3 class="serif text-2xl mb-4 text-stone-800">Technical Support</h3>
+      <p class="text-sm text-stone-500 italic mb-8 leading-relaxed">
+        Found a bug or want to contribute code? Open an issue or a pull request on GitHub.
+      </p>
+      <a href="https://github.com/your-repo" target="_blank" class="text-[10px] uppercase tracking-[0.3em] font-bold text-stone-900 border-b border-stone-900 pb-1 hover:text-stone-400 hover:border-stone-400 transition-all">
+        Open GitHub
+      </a>
+    </div>
+  </div>
+
+  <section class="max-w-2xl mx-auto text-center border-t border-stone-200 pt-16">
+    <h4 class="serif text-2xl mb-6 text-stone-800 italic">Church Inquiries</h4>
+    <p class="text-sm text-stone-500 leading-relaxed mb-8 font-light">
+      Please note that Crediton Table is a private historical archive and is <span class="font-bold text-stone-800">not affiliated</span> with Zion United Church. For matters regarding current church services, events, or official records, please contact the church directly.
+    </p>
+    <a href="https://creditonuc.org" target="_blank" class="inline-block border border-stone-200 px-8 py-4 text-[10px] uppercase tracking-[0.4em] font-bold text-stone-400 hover:border-stone-800 hover:text-stone-800 transition-all">
+      Visit Church Website
+    </a>
+  </section>
+</main>
+
+<!-- Cookies Banner -->
+{% include cookie_banner.html %}
+  
+<!-- Footer -->
+{% include footer.html %}    
+</body>
+</html>
