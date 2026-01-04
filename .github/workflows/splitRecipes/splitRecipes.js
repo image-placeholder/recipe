@@ -56,7 +56,7 @@ function getRecommendationSettings(config) {
     model: typeof rec.model === 'string' ? rec.model : 'all-MiniLM-L6-v2',
     vector_path: typeof rec.vector_path === 'string'
       ? rec.vector_path
-      : './recipe-vectors.json',
+      : './_cache/recipe-vectors.json',
     max_recommendations: maxRecommendations
   };
 }
