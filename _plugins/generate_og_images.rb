@@ -9,19 +9,20 @@ module Jekyll
     priority :lowest
 
     def generate(site)
-      Jekyll.logger.info "OG Generation:", "Starting optimized Grover process..."
-
       @og_folder = site.config['og_images_folder'] || 'assets/og-images'
       @template_path = site.config['og_template'] || '_includes/og-template.html'
       @output_dir = File.join(site.source, @og_folder)
 
-      FileUtils.mkdir_p(@output_dir) unless Dir.exist?(@output_dir)
-
-      # 1. Template Freshness Check
-      template_full_path = File.join(site.source, @template_path)
-      return unless File.exist?(template_full_path)
+      # 1. Template Freshness Check - Direct from Disk
+      template_full_path = File.expand_path(@template_path, site.source)
       
+      unless File.exist?(template_full_path)
+        Jekyll.logger.warn "OG Generation:", "Template not found at #{template_full_path}"
+        return
+      end
+
       template_raw = File.read(template_full_path)
+      # We get the mtime directly from the OS to ensure it's not cached
       template_mtime = File.mtime(template_full_path).to_i
 
       @grover_options = {
@@ -32,7 +33,9 @@ module Jekyll
         launch_args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--single-process']
       }
 
-      # 2. Filter items
+      FileUtils.mkdir_p(@output_dir) unless Dir.exist?(@output_dir)
+
+      # 2. Filter items: Determine which items actually need processing
       all_items = (site.posts.docs + site.pages).reject do |p| 
         p.data['image'] && !p.data['image'].include?(@og_folder)
       end
@@ -42,45 +45,48 @@ module Jekyll
         image_name = "#{slug}-og.png"
         image_path = File.join(@output_dir, image_name)
 
-        source_path = item.path ? File.expand_path(item.path, site.source) : nil
+        # Get image mtime (0 if it doesn't exist)
         image_mtime = File.exist?(image_path) ? File.mtime(image_path).to_i : 0
-
-        # Logic: Regenerate if image is missing, or if template/source is newer than image (+ 2s buffer)
-        needs_update = if image_mtime == 0
-                         true
-                       elsif (template_mtime > image_mtime + 2)
-                         true
-                       elsif source_path && File.exist?(source_path) && (File.mtime(source_path).to_i > image_mtime + 2)
-                         true
-                       else
-                         false
-                       end
         
-        unless needs_update
+        # Get source file mtime
+        source_path = item.path ? File.expand_path(item.path, site.source) : nil
+        source_mtime = (source_path && File.exist?(source_path)) ? File.mtime(source_path).to_i : 0
+
+        # REGENERATION LOGIC
+        # We use a 1-second buffer. If Template or Source is >= Image, we rebuild.
+        needs_update = false
+        if image_mtime == 0
+          needs_update = true
+        elsif template_mtime > image_mtime
+          needs_update = true
+        elsif source_mtime > image_mtime
+          needs_update = true
+        end
+        
+        if needs_update
+          true
+        else
+          # If no update needed, register the existing file so Jekyll doesn't delete it
           register_static_file(site, image_name)
           set_og_meta_tags(item, File.join('/', @og_folder, image_name))
+          false
         end
-
-        needs_update
       end
 
       if items_to_process.empty?
-        Jekyll.logger.info "OG Generation:", "Everything up to date. Skipping."
+        Jekyll.logger.info "OG Generation:", "No changes detected in template or content. Skipping."
         return
       end
 
-      Jekyll.logger.info "OG Generation:", "Regenerating #{items_to_process.size} items..."
+      Jekyll.logger.info "OG Generation:", "Changes detected! Regenerating #{items_to_process.size} images..."
 
-      sanitized_config = site.config.each_with_object({}) do |(k, v), h|
-        h[k.to_s] = v.is_a?(Proc) ? nil : v
-      end
+      # 3. Process the queue
+      sanitized_config = site.config.each_with_object({}) { |(k, v), h| h[k.to_s] = v.is_a?(Proc) ? nil : v }
 
-      # 3. Prepare queue - Pass template_mtime so the fork knows the template changed
       processing_queue = items_to_process.map do |item|
         {
           'id' => item.url,
           'path' => item.path,
-          'template_mtime' => template_mtime, # FIXED: Pass this to the fork
           'title' => item.data['title'].to_s,
           'slug' => item.data['slug'].to_s,
           'content' => item.content.to_s[0..500],
@@ -95,16 +101,15 @@ module Jekyll
         process_in_fork(item_data, template_raw)
       end
 
-      # 4. Finalize
+      # 4. Finalize registration
       results.compact.each do |res|
         original_item = all_items.find { |i| i.url == res[:id] }
         next unless original_item
-
         register_static_file(site, res[:image_name])
         set_og_meta_tags(original_item, res[:relative_path])
       end
 
-      Jekyll.logger.info "OG Generation:", "Finished processing."
+      Jekyll.logger.info "OG Generation:", "Finished."
     end
 
     private
@@ -114,25 +119,6 @@ module Jekyll
       image_name = "#{slug}-og.png"
       image_path = File.join(@output_dir, image_name)
       relative_path = File.join('/', @og_folder, image_name)
-
-      # Check if we can skip (Parallel safety check)
-      if File.exist?(image_path) && File.size?(image_path).to_i > 0
-        image_mtime = File.mtime(image_path).to_i
-        
-        # FIXED: Ensure we check the template timestamp here too
-        template_fresh = image_mtime > (item_data['template_mtime'] + 2)
-        
-        source_path = item_data['path']
-        source_fresh = if source_path && File.exist?(source_path)
-                         image_mtime > (File.mtime(source_path).to_i + 2)
-                       else
-                         true
-                       end
-
-        if template_fresh && source_fresh
-          return { id: item_data['id'], image_name: image_name, relative_path: relative_path }
-        end
-      end
 
       html = render_liquid(item_data, template_raw)
 
@@ -144,7 +130,7 @@ module Jekyll
           { id: item_data['id'], image_name: image_name, relative_path: relative_path }
         end
       rescue => e
-        puts "Grover Error for #{item_data['id']}: #{e.message}"
+        puts "Grover Error: #{e.message}"
         nil
       end
     end
@@ -152,7 +138,6 @@ module Jekyll
     def render_liquid(item_data, template_str)
       liquid = Liquid::Template.parse(template_str)
       excerpt = item_data['excerpt'].empty? ? item_data['content'][0..150] : item_data['excerpt']
-      
       payload = {
         'page' => item_data['page_data'],
         'site' => item_data['site_config'],
