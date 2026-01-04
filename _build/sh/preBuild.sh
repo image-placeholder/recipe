@@ -75,44 +75,19 @@ else
   echo "Git not available or not a repository — running recipe pipeline."
 fi
 
+
+
 # -----------------------------
 # RUN PIPELINE
 # -----------------------------
 echo "Running recipe pipeline..."
+chmod +x ./recipe_pipeline.sh
 
-npm install \
-  humanize-duration \
-  js-yaml \
-  @musement/iso-duration \
-  @huggingface/transformers \
-  @xenova/transformers
+echo "▶ Running Webpack Build (Pre-Build)"
 
-node --max-old-space-size=6144 "$SCRIPT_PATH"
+npm i
+npm install liquid js-yaml front-matter lazysizes markmap-lib markmap-view tocbot leaflet.markercluster leaflet vanillajs-datepicker @knadh/autocomp --save
+npm run build
+npx tailwindcss -i ./assets/css/_tailwind.css -o ./assets/css/tailwind.min.css --minify
 
-# -----------------------------
-# STOP HERE IF NOT CI
-# -----------------------------
-if [ "$IS_GH_ACTIONS" != "true" ]; then
-  echo "Local or non-Git environment — skipping git commit and push."
-  exit 0
-fi
-
-# -----------------------------
-# COMMIT & PUSH (CI ONLY)
-# -----------------------------
-if [ "$HAS_GIT" != "true" ]; then
-  echo "Git not available — cannot commit."
-  exit 0
-fi
-
-if git diff --quiet; then
-  echo "No output changes to commit."
-  exit 0
-fi
-
-git config --global user.email "github-actions[bot]@users.noreply.github.com"
-git config --global user.name "github-actions[bot]"
-
-git add .
-git commit -m "Add converted CSV to JSON output"
-git push
+echo "✔ Pre Webpack Build Completed"
