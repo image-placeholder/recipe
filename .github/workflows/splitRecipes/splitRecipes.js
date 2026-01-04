@@ -31,13 +31,15 @@ function createSimilarityEngine(settings) {
     return {
       type: 'transformers',
       model: settings.model,
-      similarity: engine.getRecommendations
+      similarity: engine.getRecommendations,
+      max_recommendations: settings.max_recommendations
     };
   }
 
   return {
     type: 'simple',
-    similarity: getSimilarRecipes
+    similarity: getSimilarRecipes,
+    max_recommendations: settings.max_recommendations
   };
 }
 
@@ -45,11 +47,17 @@ function createSimilarityEngine(settings) {
 function getRecommendationSettings(config) {
   const rec = config.recommendations || {};
 
+  const maxRecommendations = Number.isFinite(Number(rec.max_recommendations))
+    ? Number(rec.max_recommendations)
+    : 5;
+
   return {
     engine: rec.engine === 'transformers' ? 'transformers' : 'simple',
     model: typeof rec.model === 'string' ? rec.model : 'all-MiniLM-L6-v2',
-    vector_path: typeof rec.vector_path === 'string' ? rec.vector_path : './recipe-vectors.json'
-    
+    vector_path: typeof rec.vector_path === 'string'
+      ? rec.vector_path
+      : './recipe-vectors.json',
+    max_recommendations: maxRecommendations
   };
 }
 
@@ -200,7 +208,7 @@ const generateRecipes = async () => {
       console.log(`Processing similarities for: ${recipe.name}`);
 
       // Run Recommendation System (Await now works correctly)
-      const recipeWithRecs = await similarRecipes(recipe, recipesWithUrls, 5, engine.similarity);
+      const recipeWithRecs = await similarRecipes(recipe, recipesWithUrls, 5, engine.similarity, settings.max_recommendations);
 
       delete recipeWithRecs.url; // if you don't it will get stuck in /recipe/#id.json in Jekyll build. 
       // Write individual recipe file
