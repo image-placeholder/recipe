@@ -7,7 +7,7 @@ echo "Running post build script...."
 # put any of your post build scripts here
 
 OG_PATH="assets/og-images"
-TARGET_BRANCH="gh-pages"
+TARGET_BRANCH="main"
 
 # -----------------------------
 # ENVIRONMENT CHECKS
@@ -61,5 +61,4 @@ git config --global user.name "github-actions[bot]"
 git add "$OG_PATH"
 git commit -m "Add/update generated OG images"
 git push
-
 echo "▶ Post build script finished"
