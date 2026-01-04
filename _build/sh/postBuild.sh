@@ -6,10 +6,6 @@ echo "Running post build script...."
 
 # put any of your post build scripts here
 
-
-#!/bin/sh
-set -e
-
 OG_PATH="assets/og-images"
 TARGET_BRANCH="gh-pages"
 
