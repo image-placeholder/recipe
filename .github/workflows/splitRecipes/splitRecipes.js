@@ -9,7 +9,7 @@ const yaml = require('js-yaml');
 const { glob } = require('glob');
 
 // Configuration
-const RECIPE_PATTERN = 'recipes/**/*.{json,txt}'; // Adjust pattern as needed
+const RECIPE_PATTERN = '_data/recipes*.{json,txt}'; // Adjust pattern as needed
 const OUTPUT_DIR = path.join(process.cwd(), 'api');
 
 // Setup locales
