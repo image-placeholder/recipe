@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
     menuOverlay.classList.remove('hidden');
     requestAnimationFrame(() => menuOverlay.classList.add('opacity-100'));
     enableFocus();
-    disableBodyScroll();
+    disableBodyScroll(body);
 
     // Hamburger → X
     line1?.classList.add('-rotate-45', '-translate-y-[5px]', 'w-[20px]');
@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
     menuOverlay.classList.remove('opacity-100');
     menuOverlay.classList.add('hidden');
 
-    enableBodyScroll();
+    enableBodyScroll(body);
 
     // X → Hamburger
     line1?.classList.remove('-rotate-45', '-translate-y-[5px]', 'w-[20px]');
