@@ -4,6 +4,10 @@ set -e
 
 echo "Running post build script...."
 
+echo "▶ Purging Jekyll Cache"
+rm -rf .jekyll-cache
+echo "✔ Cached Purged"
+
 echo "▶ Installing Font Awesome"
 
 npm install --save @fortawesome/fontawesome-free
