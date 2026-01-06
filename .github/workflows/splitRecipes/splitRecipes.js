@@ -163,23 +163,50 @@ async function loadRecipesFromFiles(pattern) {
       const parsed = parseRecipeFilename(filename);
       
       const content = await _fs.readFile(file, 'utf8');
-      const recipe = JSON.parse(content);
+      let recipeData = JSON.parse(content);
 
-      // Enrich recipe with file metadata
-      const enrichedRecipe = {
-        ...recipe,
-        _file_source: parsed.source,
-        _file_date: parsed.date,
-        _file_path: file
-      };
-
-      recipes.push(enrichedRecipe);
+      // Handle if the file contains an array of recipes
+      if (Array.isArray(recipeData)) {
+        console.log(`  ${file} contains ${recipeData.length} recipes (array)`);
+        recipeData.forEach((recipe, idx) => {
+          if (!recipe || typeof recipe !== 'object') {
+            console.warn(`  Skipping invalid recipe at index ${idx} in ${file}`);
+            return;
+          }
+          
+          const enrichedRecipe = {
+            ...recipe,
+            _file_source: parsed.source,
+            _file_date: parsed.date,
+            _file_path: file
+          };
+          recipes.push(enrichedRecipe);
+        });
+      } else if (recipeData && typeof recipeData === 'object') {
+        // Single recipe object
+        console.log(`  ${file} contains 1 recipe (object): ${recipeData.name || 'UNNAMED'}`);
+        
+        if (!recipeData.name) {
+          console.warn(`  Warning: Recipe in ${file} has no name property!`);
+          console.warn(`  Available properties: ${Object.keys(recipeData).join(', ')}`);
+        }
+        
+        const enrichedRecipe = {
+          ...recipeData,
+          _file_source: parsed.source,
+          _file_date: parsed.date,
+          _file_path: file
+        };
+        recipes.push(enrichedRecipe);
+      } else {
+        console.error(`  Invalid recipe format in ${file}`);
+      }
     } catch (err) {
       console.error(`Failed to process ${file}:`, err.message);
     }
   }
 
-  console.log(`Successfully loaded ${recipes.length} recipes`);
+  console.log(`Successfully loaded ${recipes.length} recipes from ${files.length} files`);
   return recipes;
 }
 
