@@ -7,6 +7,33 @@ const humanizeDuration = require('humanize-duration');
 const {RecipeEngine} = require('./RecipeEngine.js');
 const yaml = require('js-yaml');
 
+/*
+to do implment glob - parse sources.
+import fs from 'fs/promises';
+import { glob } from 'glob';
+
+async function readAllFiles(pattern) {
+  // Find all files matching the glob pattern
+  const files = await glob(pattern);
+
+  // Read all files in parallel
+  const contents = await Promise.all(
+    files.map(async file => {
+      const data = await fs.readFile(file, 'utf-8');
+      return { file, data };
+    })
+  );
+
+  return contents;
+}
+
+// Example usage
+(async () => {
+  const allFiles = await readAllFiles('recipes/**/*.txt'); // change pattern
+  console.log(allFiles);
+})();
+
+*/
 
 
 function loadJekyllConfig(configPath = '_config.yml') {
