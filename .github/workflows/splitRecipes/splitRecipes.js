@@ -33,6 +33,63 @@ async function readAllFiles(pattern) {
   console.log(allFiles);
 })();
 
+// stream version
+import fs from 'fs';
+import readline from 'readline';
+import { glob } from 'glob';
+
+// Reuse parseRecipes logic for filenames
+function parseRecipeFilename(filename) {
+  const dateRegex = /^\d{4}(-\d{2}){0,2}$/;
+  const base = filename.replace(/^recipes_?/, '');
+  if (!base) return { source: null, date: null };
+
+  const parts = base.split('_');
+  const last = parts[parts.length - 1];
+
+  if (dateRegex.test(last)) {
+    return { source: parts.slice(0, -1).join('_') || null, date: last };
+  } else {
+    return { source: parts.join('_') || null, date: null };
+  }
+}
+
+async function processFiles(pattern) {
+  const files = await glob(pattern);
+  const results = [];
+
+  for (const file of files) {
+    const filename = file.split('/').pop().replace(/\..+$/, ''); // remove path & extension
+    const parsed = parseRecipeFilename(filename);
+
+    // Stream file content line by line
+    const rl = readline.createInterface({
+      input: fs.createReadStream(file),
+      crlfDelay: Infinity
+    });
+
+    const lines = [];
+    for await (const line of rl) {
+      lines.push(line);
+    }
+
+    results.push({
+      file,
+      parsedFilename: parsed,
+      content: lines.join('\n') // can keep as array if you want streaming
+    });
+  }
+
+  return results;
+}
+
+// Example usage
+(async () => {
+  const allData = await processFiles('recipes/**/*.txt'); // adjust pattern
+  console.log(allData);
+})();
+
+
 */
 
 
