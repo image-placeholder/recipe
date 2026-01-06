@@ -72,14 +72,16 @@ function loadJekyllConfig(configPath = '_config.yml') {
   }
 }
 
-function createSimilarityEngine(settings) {
+async function createSimilarityEngine(settings) {
   if (settings.engine === 'transformers') {
     const engine = new RecipeEngine(settings.vector_path);
+    // Properly bind the method to maintain 'this' context
     return {
       type: 'transformers',
       model: settings.model,
-      similarity: engine.getRecommendations,
-      max_recommendations: settings.max_recommendations
+      similarity: (recipe, recipes, amount) => engine.getRecommendations(recipe, recipes, amount),
+      max_recommendations: settings.max_recommendations,
+      engine: engine // Keep reference to engine instance
     };
   }
 
@@ -200,7 +202,7 @@ const generateRecipes = async () => {
 
     const config = loadJekyllConfig();
     const settings = getRecommendationSettings(config);
-    const engine = createSimilarityEngine(settings);
+    const engine = await createSimilarityEngine(settings);
     console.log(`Using ${engine.type} engine for calculating similar recipes...`);
 
     // First pass: Pre-assign URLs
