@@ -47,6 +47,9 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -104,6 +107,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "favourite-chicken-241",
       "similarity": "0.7054"
     },
@@ -158,6 +164,9 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-breast-212",
       "similarity": "0.6566"
     },
@@ -227,6 +236,9 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "creamy-chicken-stew-252",
       "similarity": "0.6138"
     },
@@ -294,6 +306,9 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "2 hours"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pork-chop-rice-casserole-211",
       "similarity": "0.6128"
     },
@@ -345,6 +360,9 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-and-broccoli-234",
       "similarity": "0.6051"
     }

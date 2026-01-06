@@ -55,6 +55,9 @@
     "cookTime": null,
     "totalTime": null
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -123,6 +126,9 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-supreme-238",
       "similarity": "0.7083"
     },
@@ -181,6 +187,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "curry-chicken-230",
       "similarity": "0.6684"
     },
@@ -244,6 +253,9 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "lemon-chicken-with-thyme-224",
       "similarity": "0.6592"
     },
@@ -296,6 +308,9 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-grape-salad-65",
       "similarity": "0.6554"
     },
@@ -360,6 +375,9 @@
         "cookTime": "35 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-with-a-chinese-accent-245",
       "similarity": "0.6471"
     }

@@ -46,6 +46,9 @@
     "cookTime": "30 minutes",
     "totalTime": "40 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -100,6 +103,9 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pork-chops-with-dried-fruit-206",
       "similarity": "0.7085"
     },
@@ -158,6 +164,9 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "oven-barbecued-pork-chops-210",
       "similarity": "0.6978"
     },
@@ -225,6 +234,9 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "2 hours"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pork-chop-rice-casserole-211",
       "similarity": "0.6674"
     },
@@ -269,6 +281,9 @@
         "cookTime": "25 minutes",
         "totalTime": "30 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "sliced-ham-199",
       "similarity": "0.5806"
     },
@@ -311,6 +326,9 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "sweet-and-sour-chicken-223",
       "similarity": "0.5802"
     }

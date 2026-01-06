@@ -62,6 +62,9 @@
     "cookTime": "20 minutes",
     "totalTime": "40 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -113,6 +116,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "hamburg-noodle-casserole-172",
       "similarity": "0.8879"
     },
@@ -182,6 +188,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "macaroni-casserole-175",
       "similarity": "0.8033"
     },
@@ -247,6 +256,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chinese-hamburger-casserole-174",
       "similarity": "0.7767"
     },
@@ -317,6 +329,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-casserole-178",
       "similarity": "0.7386"
     },
@@ -384,6 +399,9 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "ken-noodle-supper-240",
       "similarity": "0.7265"
     }

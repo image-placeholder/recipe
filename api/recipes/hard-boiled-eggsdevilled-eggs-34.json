@@ -66,6 +66,9 @@
     "cookTime": "15 minutes",
     "totalTime": "35 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -116,6 +119,9 @@
         "cookTime": "5 minutes",
         "totalTime": null
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pickled-eggs-35",
       "similarity": "0.6409"
     },
@@ -169,6 +175,9 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "plain-pickled-eggs-30",
       "similarity": "0.6208"
     },
@@ -226,6 +235,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "potato-casserole-141",
       "similarity": "0.5998"
     },
@@ -284,6 +296,9 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "fancy-pickled-eggs-31",
       "similarity": "0.5815"
     },
@@ -348,6 +363,9 @@
         "cookTime": "25 minutes",
         "totalTime": "35 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "artichoke-appetizer-1",
       "similarity": "0.5610"
     }

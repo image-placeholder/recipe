@@ -52,6 +52,9 @@
     "cookTime": "10 minutes",
     "totalTime": "25 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -117,6 +120,9 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "ken-noodle-supper-240",
       "similarity": "0.6744"
     },
@@ -181,6 +187,9 @@
         "cookTime": "28 minutes",
         "totalTime": "43 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pasta-bean-soup-111",
       "similarity": "0.6678"
     },
@@ -248,6 +257,9 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "2 hours"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pork-chop-rice-casserole-211",
       "similarity": "0.6524"
     },
@@ -305,6 +317,9 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "mushroom-soup-113",
       "similarity": "0.6488"
     },
@@ -357,6 +372,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "veggie-basic-soup-120",
       "similarity": "0.6481"
     }

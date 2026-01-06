@@ -59,6 +59,9 @@
     "cookTime": "30 minutes",
     "totalTime": "1 hour"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -120,6 +123,9 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "parmesan-chicken-239",
       "similarity": "0.7158"
     },
@@ -181,6 +187,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "lasagna-192",
       "similarity": "0.5866"
     },
@@ -240,6 +249,9 @@
         "cookTime": "",
         "totalTime": "1 hour 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "greek-salad-69",
       "similarity": "0.5729"
     },
@@ -316,6 +328,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chili-turkey-247",
       "similarity": "0.5571"
     },
@@ -380,6 +395,9 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "veggie-pizza-47",
       "similarity": "0.5560"
     }

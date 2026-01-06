@@ -63,6 +63,9 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -122,6 +125,9 @@
         "cookTime": "2 hours 30 minutes",
         "totalTime": "2 hours 50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "french-onion-soup-115",
       "similarity": "0.7207"
     },
@@ -176,6 +182,9 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "mexican-salad-50",
       "similarity": "0.7165"
     },
@@ -240,6 +249,9 @@
         "cookTime": "28 minutes",
         "totalTime": "43 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pasta-bean-soup-111",
       "similarity": "0.7005"
     },
@@ -314,6 +326,9 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "mexican-enchilada-bake-227",
       "similarity": "0.6706"
     },
@@ -387,6 +402,9 @@
         "cookTime": "40 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "mexican-enchilada-bake-229",
       "similarity": "0.6706"
     }

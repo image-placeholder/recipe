@@ -47,6 +47,9 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -90,6 +93,9 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cabbage-soup-106",
       "similarity": "0.7892"
     },
@@ -135,6 +141,9 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 45 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cabbage-soup-109",
       "similarity": "0.7892"
     },
@@ -194,6 +203,9 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 30 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "beef-barley-soup-100",
       "similarity": "0.7428"
     },
@@ -244,6 +256,9 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "creamy-broccoli-soup-112",
       "similarity": "0.7398"
     },
@@ -308,6 +323,9 @@
         "cookTime": "28 minutes",
         "totalTime": "43 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pasta-bean-soup-111",
       "similarity": "0.7391"
     }

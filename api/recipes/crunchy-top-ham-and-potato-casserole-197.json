@@ -48,6 +48,9 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 25 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,6 +106,9 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "ham-casserole-200",
       "similarity": "0.8929"
     },
@@ -154,6 +160,9 @@
         "cookTime": "8 hours",
         "totalTime": "8 hours 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "ham-potato-casserole-209",
       "similarity": "0.8122"
     },
@@ -211,6 +220,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "potato-casserole-141",
       "similarity": "0.7326"
     },
@@ -279,6 +291,9 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "macaroni-ham-casserole-196",
       "similarity": "0.6994"
     },
@@ -335,6 +350,9 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "meat-and-potato-casserole-159",
       "similarity": "0.6494"
     }

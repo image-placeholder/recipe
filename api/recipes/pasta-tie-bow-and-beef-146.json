@@ -52,6 +52,9 @@
     "cookTime": "20 minutes",
     "totalTime": "35 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -100,6 +103,9 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pasta-salad-85",
       "similarity": "0.6163"
     },
@@ -170,6 +176,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-casserole-178",
       "similarity": "0.6131"
     },
@@ -221,6 +230,9 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-and-broccoli-234",
       "similarity": "0.5908"
     },
@@ -285,6 +297,9 @@
         "cookTime": "28 minutes",
         "totalTime": "43 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pasta-bean-soup-111",
       "similarity": "0.5850"
     },
@@ -335,6 +350,9 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-sauce-177",
       "similarity": "0.5810"
     }

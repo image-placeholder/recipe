@@ -53,6 +53,9 @@
     "cookTime": "5 minutes",
     "totalTime": "20 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,6 +106,9 @@
         "cookTime": "5 minutes",
         "totalTime": null
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pickled-eggs-35",
       "similarity": "0.8741"
     },
@@ -156,6 +162,9 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "plain-pickled-eggs-30",
       "similarity": "0.8297"
     },
@@ -227,6 +236,9 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "hard-boiled-eggsdevilled-eggs-34",
       "similarity": "0.5815"
     },
@@ -281,6 +293,9 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "sliced-bean-salad-49",
       "similarity": "0.5548"
     },
@@ -336,6 +351,9 @@
         "cookTime": "2 hours 15 minutes",
         "totalTime": "2 hours 35 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "glazed-cottage-roll-198",
       "similarity": "0.5094"
     }

@@ -56,6 +56,9 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -122,6 +125,9 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "garfields-lasagna-195",
       "similarity": "0.7705"
     },
@@ -188,6 +194,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "florentine-lasagna-rolls-194",
       "similarity": "0.6827"
     },
@@ -258,6 +267,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-casserole-178",
       "similarity": "0.6559"
     },
@@ -325,6 +337,9 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "noodles-with-hamburg-166",
       "similarity": "0.6385"
     },
@@ -402,6 +417,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pizza-casserole-171",
       "similarity": "0.6315"
     }

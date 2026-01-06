@@ -51,6 +51,9 @@
     "cookTime": "10 minutes",
     "totalTime": "20 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -133,6 +136,9 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
       "similarity": "0.5388"
     },
@@ -187,6 +193,9 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "orange-pineapple-jello-76",
       "similarity": "0.5135"
     },
@@ -252,6 +261,9 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-pineapple-stir-fry-221",
       "similarity": "0.5028"
     },
@@ -300,6 +312,9 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "punch-53",
       "similarity": "0.4949"
     },
@@ -353,6 +368,9 @@
         "cookTime": "5 minutes",
         "totalTime": "15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "plain-pickled-eggs-30",
       "similarity": "0.4948"
     }

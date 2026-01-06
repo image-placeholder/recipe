@@ -61,6 +61,9 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -120,6 +123,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "lasagna-192",
       "similarity": "0.6827"
     },
@@ -170,6 +176,9 @@
         "cookTime": "10 minutes",
         "totalTime": "30 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pasta-salad-85",
       "similarity": "0.6567"
     },
@@ -238,6 +247,9 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "garfields-lasagna-195",
       "similarity": "0.6558"
     },
@@ -288,6 +300,9 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-sauce-177",
       "similarity": "0.6273"
     },
@@ -342,6 +357,9 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-sauce-187",
       "similarity": "0.6273"
     }

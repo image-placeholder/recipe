@@ -69,6 +69,9 @@
     "cookTime": "40 minutes",
     "totalTime": "1 hour"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -135,6 +138,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "tortilla-soup-124",
       "similarity": "0.6706"
     },
@@ -192,6 +198,9 @@
         "cookTime": "30 minutes",
         "totalTime": "40 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "mexican-fudge-12",
       "similarity": "0.6638"
     },
@@ -257,6 +266,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chinese-hamburger-casserole-174",
       "similarity": "0.6450"
     },
@@ -311,6 +323,9 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "mexican-salad-50",
       "similarity": "0.6419"
     },
@@ -366,6 +381,9 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "nacho-fiesta-dip-28",
       "similarity": "0.6280"
     }

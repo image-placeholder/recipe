@@ -37,6 +37,9 @@
     "cookTime": "",
     "totalTime": "5 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -85,6 +88,9 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-sauce-177",
       "similarity": "0.5834"
     },
@@ -139,6 +145,9 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-sauce-187",
       "similarity": "0.5834"
     },
@@ -213,6 +222,9 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "thai-chicken-235",
       "similarity": "0.5831"
     },
@@ -253,6 +265,9 @@
         "cookTime": null,
         "totalTime": "5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cold-meat-mustard-122",
       "similarity": "0.5623"
     },
@@ -312,6 +327,9 @@
         "cookTime": "",
         "totalTime": "1 hour 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "greek-salad-69",
       "similarity": "0.5613"
     }

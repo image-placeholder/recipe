@@ -52,6 +52,9 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 45 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -107,6 +110,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cheese-dip-in-a-bread-bowl-4",
       "similarity": "0.7359"
     },
@@ -164,6 +170,9 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spinach-dip-16",
       "similarity": "0.7045"
     },
@@ -225,6 +234,9 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "nacho-dip-29",
       "similarity": "0.6265"
     },
@@ -280,6 +292,9 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "nacho-fiesta-dip-28",
       "similarity": "0.6160"
     },
@@ -320,6 +335,9 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "crab-dip-20",
       "similarity": "0.5869"
     }

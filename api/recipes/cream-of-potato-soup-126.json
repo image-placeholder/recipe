@@ -43,6 +43,9 @@
     "cookTime": "2 hours 30 minutes",
     "totalTime": "2 hours 45 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -96,6 +99,9 @@
         "cookTime": "20 minutes",
         "totalTime": "40 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "potato-soup-125",
       "similarity": "0.8881"
     },
@@ -153,6 +159,9 @@
         "cookTime": "15 minutes",
         "totalTime": "25 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "mushroom-soup-113",
       "similarity": "0.7393"
     },
@@ -203,6 +212,9 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "creamy-broccoli-soup-112",
       "similarity": "0.7065"
     },
@@ -269,6 +281,9 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cheddar-baked-potato-slices-140",
       "similarity": "0.6854"
     },
@@ -326,6 +341,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "potato-casserole-141",
       "similarity": "0.6808"
     }

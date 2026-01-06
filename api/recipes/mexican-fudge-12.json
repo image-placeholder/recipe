@@ -52,6 +52,9 @@
     "cookTime": "30 minutes",
     "totalTime": "40 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -105,6 +108,9 @@
         "cookTime": "",
         "totalTime": "1 hour 15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "nacho-fiesta-dip-28",
       "similarity": "0.7464"
     },
@@ -184,6 +190,9 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "hot-taco-dip-21",
       "similarity": "0.7369"
     },
@@ -247,6 +256,9 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chili-con-queso-nacho-cheese-dip-27",
       "similarity": "0.7098"
     },
@@ -301,6 +313,9 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "mexican-salad-50",
       "similarity": "0.6953"
     },
@@ -362,6 +377,9 @@
         "cookTime": "",
         "totalTime": "10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "nacho-dip-29",
       "similarity": "0.6885"
     }

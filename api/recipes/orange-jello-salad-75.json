@@ -47,6 +47,9 @@
     "cookTime": "5 minutes",
     "totalTime": "20 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -89,6 +92,9 @@
         "cookTime": null,
         "totalTime": null
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "lemon-salad-80",
       "similarity": "0.8103"
     },
@@ -143,6 +149,9 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "orange-pineapple-jello-76",
       "similarity": "0.7844"
     },
@@ -203,6 +212,9 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "mandarin-orange-salad-88",
       "similarity": "0.7573"
     },
@@ -256,6 +268,9 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "romaine-salad-with-orange-84",
       "similarity": "0.7014"
     },
@@ -320,6 +335,9 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "tossed-berry-mandarin-salad-87",
       "similarity": "0.6839"
     }

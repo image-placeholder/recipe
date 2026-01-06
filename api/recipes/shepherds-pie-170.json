@@ -65,6 +65,9 @@
     "cookTime": "20 minutes",
     "totalTime": "40 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -131,6 +134,9 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "english-shepherds-pie-173",
       "similarity": "0.9149"
     },
@@ -206,6 +212,9 @@
         "cookTime": "30 minutes",
         "totalTime": "55 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "hamburger-pie-169",
       "similarity": "0.7213"
     },
@@ -275,6 +284,9 @@
         "cookTime": "30 minutes",
         "totalTime": "1 hour 15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "turkey-or-chicken-pies-251",
       "similarity": "0.6326"
     },
@@ -349,6 +361,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "beef-and-rice-casserole-168",
       "similarity": "0.6271"
     },
@@ -405,6 +420,9 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "meat-and-potato-casserole-159",
       "similarity": "0.6199"
     }

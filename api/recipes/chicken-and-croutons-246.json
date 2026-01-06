@@ -77,6 +77,9 @@
     "cookTime": "1 hour 15 minutes",
     "totalTime": "1 hour 35 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -134,6 +137,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "favourite-chicken-241",
       "similarity": "0.7279"
     },
@@ -185,6 +191,9 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-and-broccoli-234",
       "similarity": "0.7242"
     },
@@ -239,6 +248,9 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-breast-212",
       "similarity": "0.7048"
     },
@@ -310,6 +322,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-and-cheese-casserole-244",
       "similarity": "0.6657"
     },
@@ -371,6 +386,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "stuffing-and-chicken-242",
       "similarity": "0.6585"
     }

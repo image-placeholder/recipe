@@ -51,6 +51,9 @@
     "cookTime": "20 minutes",
     "totalTime": "30 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -123,6 +126,9 @@
         "cookTime": "15 minutes",
         "totalTime": "35 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "thai-chicken-235",
       "similarity": "0.6874"
     },
@@ -178,6 +184,9 @@
         "cookTime": "",
         "totalTime": "15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chinese-rice-salad-81",
       "similarity": "0.6559"
     },
@@ -240,6 +249,9 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "stir-fry-chicken-225",
       "similarity": "0.6388"
     },
@@ -293,6 +305,9 @@
         "cookTime": "10 minutes",
         "totalTime": "25 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "beef-broccoli-stir-fry-148",
       "similarity": "0.6377"
     },
@@ -357,6 +372,9 @@
         "cookTime": "35 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-with-a-chinese-accent-245",
       "similarity": "0.6098"
     }

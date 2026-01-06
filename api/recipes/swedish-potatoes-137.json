@@ -60,6 +60,9 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -124,6 +127,9 @@
         "cookTime": "55 minutes",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cheddar-baked-potato-slices-140",
       "similarity": "0.7303"
     },
@@ -181,6 +187,9 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "sliced-baked-potatoes-138",
       "similarity": "0.6992"
     },
@@ -238,6 +247,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "potato-casserole-141",
       "similarity": "0.6776"
     },
@@ -289,6 +301,9 @@
         "cookTime": "8 hours",
         "totalTime": "8 hours 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "ham-potato-casserole-209",
       "similarity": "0.6622"
     },
@@ -346,6 +361,9 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "ham-casserole-200",
       "similarity": "0.6597"
     }

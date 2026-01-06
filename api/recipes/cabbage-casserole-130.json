@@ -50,6 +50,9 @@
     "cookTime": "45 minutes",
     "totalTime": "1 hour 10 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -103,6 +106,9 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "broccoli-casserole-129",
       "similarity": "0.7710"
     },
@@ -154,6 +160,9 @@
         "cookTime": "25 minutes",
         "totalTime": "40 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "broccoli-casserole-133",
       "similarity": "0.7710"
     },
@@ -225,6 +234,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-and-cheese-casserole-244",
       "similarity": "0.7613"
     },
@@ -281,6 +293,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "barley-and-corn-casserole-132",
       "similarity": "0.7052"
     },
@@ -351,6 +366,9 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "mock-cabbage-rolls-164",
       "similarity": "0.7024"
     }

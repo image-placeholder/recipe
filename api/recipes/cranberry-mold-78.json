@@ -37,6 +37,9 @@
     "cookTime": null,
     "totalTime": null
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -98,6 +101,9 @@
         "cookTime": "10 minutes",
         "totalTime": "8 hours 30 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "fruit-mold-ring-around-79",
       "similarity": "0.8076"
     },
@@ -152,6 +158,9 @@
         "cookTime": "5 minutes",
         "totalTime": "25 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "orange-pineapple-jello-76",
       "similarity": "0.5990"
     },
@@ -206,6 +215,9 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cottage-cheese-jellied-salad-66",
       "similarity": "0.5425"
     },
@@ -263,6 +275,9 @@
         "cookTime": "",
         "totalTime": "20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "party-time-salad-77",
       "similarity": "0.5266"
     },
@@ -315,6 +330,9 @@
         "cookTime": "5 minutes",
         "totalTime": "20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "orange-jello-salad-75",
       "similarity": "0.5159"
     }

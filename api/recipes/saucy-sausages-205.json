@@ -51,6 +51,9 @@
     "cookTime": "30 minutes",
     "totalTime": "40 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -89,6 +92,9 @@
         "cookTime": null,
         "totalTime": "5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cold-meat-mustard-122",
       "similarity": "0.6607"
     },
@@ -142,6 +148,9 @@
         "cookTime": "10 minutes",
         "totalTime": "20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "zesty-bbq-sauce-136",
       "similarity": "0.6249"
     },
@@ -218,6 +227,9 @@
         "cookTime": "50 minutes",
         "totalTime": "1 hour 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "bake-sausage-southwest-217",
       "similarity": "0.6223"
     },
@@ -281,6 +293,9 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "meat-balls-and-sour-and-sweet-sauce-160",
       "similarity": "0.6094"
     },
@@ -347,6 +362,9 @@
         "cookTime": "1 hour 30 minutes",
         "totalTime": "1 hour 50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "south-african-lamb-215",
       "similarity": "0.5751"
     }

@@ -55,6 +55,9 @@
     "cookTime": "1 hour 30 minutes",
     "totalTime": "1 hour 50 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -138,6 +141,9 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 40 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cheeseburger-meat-loaf-157",
       "similarity": "0.8739"
     },
@@ -184,6 +190,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cheesy-meat-loaf-153",
       "similarity": "0.8498"
     },
@@ -262,6 +271,9 @@
         "cookTime": "1 hour 15 minutes",
         "totalTime": "1 hour 35 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "jelly-roll-style-meat-loaf-154",
       "similarity": "0.8075"
     },
@@ -325,6 +337,9 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "meat-balls-and-sour-and-sweet-sauce-160",
       "similarity": "0.6205"
     },
@@ -400,6 +415,9 @@
         "cookTime": "30 minutes",
         "totalTime": "55 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "hamburger-pie-169",
       "similarity": "0.5970"
     }

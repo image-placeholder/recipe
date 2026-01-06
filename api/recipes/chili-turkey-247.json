@@ -71,6 +71,9 @@
     "cookTime": "30 minutes",
     "totalTime": "50 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -131,6 +134,9 @@
         "cookTime": "45 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chili-con-carne-165",
       "similarity": "0.7198"
     },
@@ -200,6 +206,9 @@
         "cookTime": "30 minutes",
         "totalTime": "1 hour 15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "turkey-or-chicken-pies-251",
       "similarity": "0.7109"
     },
@@ -274,6 +283,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "beef-and-rice-casserole-168",
       "similarity": "0.6900"
     },
@@ -344,6 +356,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-casserole-178",
       "similarity": "0.6692"
     },
@@ -406,6 +421,9 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "turkey-a-la-king-248",
       "similarity": "0.6653"
     }

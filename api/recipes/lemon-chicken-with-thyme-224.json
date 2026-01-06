@@ -58,6 +58,9 @@
     "cookTime": "15 minutes",
     "totalTime": "25 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -130,6 +133,9 @@
         "cookTime": "35 minutes",
         "totalTime": "55 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "classy-chicken-243",
       "similarity": "0.7101"
     },
@@ -188,6 +194,9 @@
         "cookTime": "1 hour",
         "totalTime": "1 hour 10 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "curry-chicken-230",
       "similarity": "0.6975"
     },
@@ -242,6 +251,9 @@
         "cookTime": "30 minutes",
         "totalTime": "45 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-breast-212",
       "similarity": "0.6867"
     },
@@ -306,6 +318,9 @@
         "cookTime": "35 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-with-a-chinese-accent-245",
       "similarity": "0.6716"
     },
@@ -366,6 +381,9 @@
         "cookTime": null,
         "totalTime": null
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "chicken-glazed-with-basil-balsamic-vinegar-214",
       "similarity": "0.6592"
     }

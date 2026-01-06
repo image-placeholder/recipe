@@ -33,6 +33,9 @@
     "cookTime": "5 minutes",
     "totalTime": "10 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -82,6 +85,9 @@
         "cookTime": "15 minutes",
         "totalTime": "30 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "sausage-balls-44",
       "similarity": "0.6372"
     },
@@ -147,6 +153,9 @@
         "cookTime": "20 minutes",
         "totalTime": "35 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "tomato-macaroni-soup-123",
       "similarity": "0.5827"
     },
@@ -208,6 +217,9 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cheese-broccoli-soup-105",
       "similarity": "0.5763"
     },
@@ -277,6 +289,9 @@
         "cookTime": "20 minutes",
         "totalTime": "30 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cheese-broccoli-soup-108",
       "similarity": "0.5763"
     },
@@ -322,6 +337,9 @@
         "cookTime": null,
         "totalTime": null
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "shrimp-spread-10",
       "similarity": "0.5731"
     }

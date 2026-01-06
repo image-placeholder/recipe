@@ -59,6 +59,9 @@
     "cookTime": "10 minutes",
     "totalTime": "30 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -131,6 +134,9 @@
         "cookTime": "20 minutes",
         "totalTime": "1 hour 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pizza-190",
       "similarity": "0.6735"
     },
@@ -209,6 +215,9 @@
         "cookTime": "16 minutes",
         "totalTime": "36 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "taco-ring-183",
       "similarity": "0.6470"
     },
@@ -278,6 +287,9 @@
         "cookTime": "3 hours",
         "totalTime": "3 hours 30 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "cabbage-rolls-167",
       "similarity": "0.6357"
     },
@@ -350,6 +362,9 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "bacon-broccoli-salad-63",
       "similarity": "0.6256"
     },
@@ -427,6 +442,9 @@
         "cookTime": "",
         "totalTime": "2 hours 15 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "fairest-wheels-36",
       "similarity": "0.6194"
     }

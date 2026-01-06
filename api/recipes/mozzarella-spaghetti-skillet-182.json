@@ -58,6 +58,9 @@
     "cookTime": "20 minutes",
     "totalTime": "30 minutes"
   },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
   "_similar": [
     {
       "@context": "https://schema.org/",
@@ -106,6 +109,9 @@
         "cookTime": "4 hours",
         "totalTime": "4 hours 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-sauce-177",
       "similarity": "0.8075"
     },
@@ -160,6 +166,9 @@
         "cookTime": "2 hours",
         "totalTime": "2 hours 20 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-sauce-187",
       "similarity": "0.8075"
     },
@@ -230,6 +239,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "spaghetti-casserole-178",
       "similarity": "0.7789"
     },
@@ -307,6 +319,9 @@
         "cookTime": "35 minutes",
         "totalTime": "1 hour 5 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "baked-spaghetti-and-meatballs-176",
       "similarity": "0.7579"
     },
@@ -384,6 +399,9 @@
         "cookTime": "30 minutes",
         "totalTime": "50 minutes"
       },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
       "url": "pizza-casserole-171",
       "similarity": "0.7379"
     }
