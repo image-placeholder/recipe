@@ -1,12 +1,15 @@
+---
+layout: none
+---
 {
     "dir": "ltr",
     "lang": "en-us",
-    "name": "Your App Name",
-    "scope": "/",
+    "name": "{{ site.title }}",
+    "scope": "{{ '/' | relative_url }}",
     "display": "standalone",
-    "start_url": "/",
-    "short_name": "Your App Short Name",
-    "description": "Your App Description.",
+    "start_url": "{{ '/' | relative_url }}",
+    "short_name": "{{ site.title }}",
+    "description": "{{ site.description }}",
     "orientation": "any",
     "theme_color": "#000",
     "background_color": "#000",
