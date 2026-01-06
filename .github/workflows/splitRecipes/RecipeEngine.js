@@ -3,6 +3,27 @@ import { pipeline } from '@xenova/transformers';
 import path from "path";
 import fs from "fs";
 
+// 1. Initialize the feature extraction pipeline
+/*
+const extractor = await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2');
+
+async function getSimilarity(ing1, ing2) {
+    const output1 = await extractor(ing1, { pooling: 'mean', normalize: true });
+    const output2 = await extractor(ing2, { pooling: 'mean', normalize: true });
+
+    // Compute dot product (since they are normalized, this is cosine similarity)
+    let score = 0;
+    for (let i = 0; i < output1.data.length; i++) {
+        score += output1.data[i] * output2.data[i];
+    }
+    return score;
+}
+
+const score = await getSimilarity("Raspberry Jam", "Jam");
+console.log(`Similarity: ${score.toFixed(4)}`); 
+// Expected Score: ~0.85 to 0.90
+*/ 
+
  export class RecipeEngine {
   constructor(storagePath = './embeddings.json') {
     this.extractor = null;
