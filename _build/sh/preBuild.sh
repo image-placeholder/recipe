@@ -37,7 +37,7 @@ chmod +x _build/sh/recipe_pipeline.sh
 echo "▶ Running Webpack Build (Pre-Build)"
 
 npm i
-npm install liquid js-yaml front-matter lazysizes markmap-lib markmap-view tocbot leaflet.markercluster leaflet vanillajs-datepicker @knadh/autocomp --save
+npm install liquid glob js-yaml front-matter lazysizes markmap-lib markmap-view tocbot leaflet.markercluster leaflet vanillajs-datepicker @knadh/autocomp --save
 npm run build
 npx tailwindcss -i ./assets/css/_tailwind.css -o ./assets/css/tailwind.min.css --minify
 
