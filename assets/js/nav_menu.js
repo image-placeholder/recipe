@@ -1,3 +1,5 @@
+import { disableBodyScroll, enableBodyScroll } from 'https://esm.sh/body-scroll-lock';
+
 document.addEventListener('DOMContentLoaded', () => {
   const menuToggle = document.getElementById('menu-toggle');
   const mobileMenu = document.getElementById('mobile-menu');
@@ -63,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
     menuOverlay.classList.remove('hidden');
     requestAnimationFrame(() => menuOverlay.classList.add('opacity-100'));
     enableFocus();
-    body.classList.add('overflow-hidden');
+    disableBodyScroll();
 
     // Hamburger → X
     line1?.classList.add('-rotate-45', '-translate-y-[5px]', 'w-[20px]');
@@ -80,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
     menuOverlay.classList.remove('opacity-100');
     menuOverlay.classList.add('hidden');
 
-    body.classList.remove('overflow-hidden');
+    enableBodyScroll();
 
     // X → Hamburger
     line1?.classList.remove('-rotate-45', '-translate-y-[5px]', 'w-[20px]');
