@@ -93,6 +93,85 @@ isoDuration.setLocales(
 )
 
 
+function parseRecipes(arr) {
+  const dateRegex = /^\d{4}(-\d{2}){0,2}$/;
+
+  return arr.map(str => {
+    // Remove "recipes" prefix
+    const rest = str.replace(/^recipes_?/, '');
+    if (!rest) return { source: null, date: null };
+
+    const parts = rest.split('_');
+    let date = null;
+    let source = null;
+
+    // Try to detect the last part as a date
+    const lastPart = parts[parts.length - 1];
+    const secondLastPart = parts.length > 1 ? parts[parts.length - 2] : null;
+
+    if (dateRegex.test(lastPart)) {
+      date = lastPart;
+      source = parts.slice(0, -1).join('_') || null;
+    } else if (secondLastPart && dateRegex.test(parts.slice(-2).join('-'))) {
+      // Handles split dates like ["2017","10","12"]
+      date = parts.slice(-2).join('-');
+      source = parts.slice(0, -2).join('_') || null;
+    } else {
+      source = parts.join('_') || null;
+    }
+
+    if(source){
+      source = source.replaceAll("-", " ").replaceAll("_", " ")
+    }
+    return { source, date };
+  });
+}
+
+/*
+[// [object Object] 
+{
+  "source": "Exeter Cookbook",
+  "date": "2017-10"
+},// [object Object] 
+{
+  "source": "Exeter Cookbook",
+  "date": "2017-10-12"
+},// [object Object] 
+{
+  "source": null,
+  "date": null
+},// [object Object] 
+{
+  "source": "Exeter Cookbook",
+  "date": "2017"
+},// [object Object] 
+{
+  "source": "Exeter Cookbook Special",
+  "date": "2018-03"
+},// [object Object] 
+{
+  "source": "OnlySource",
+  "date": null
+},// [object Object] 
+{
+  "source": null,
+  "date": "2021"
+}]
+
+const input = [
+  "recipes_Exeter_Cookbook_2017-10",
+  "recipes_Exeter_Cookbook_2017-10-12",
+  "recipes",
+  "recipes_Exeter_Cookbook_2017",
+  "recipes_Exeter_Cookbook_Special_2018-03",
+  "recipes_OnlySource",
+  "recipes_2021"
+];
+
+console.log(parseRecipes(input));
+
+*/
+
 // ----------------------------------
 // Main
 // ----------------------------------
