@@ -1,4 +1,4 @@
-import { disableBodyScroll, enableBodyScroll } from 'https://esm.sh/body-scroll-lock-upgrade';
+import { disableBodyScroll, enableBodyScroll } from 'https://esm.sh/gh/vercel/body-scroll-lock';
 
 document.addEventListener('DOMContentLoaded', () => {
   const menuToggle = document.getElementById('menu-toggle');
