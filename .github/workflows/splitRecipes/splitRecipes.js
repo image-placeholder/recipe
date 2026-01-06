@@ -1,44 +1,41 @@
-const fs = require('fs'); 
+const fs = require('fs');
 const path = require('path');
 const { isoDuration, en } = require("@musement/iso-duration");
 const _fs = require('fs').promises;
-const {getSimilarRecipes} = require("./similarRecipes.js");
+const { getSimilarRecipes } = require("./similarRecipes.js");
 const humanizeDuration = require('humanize-duration');
-const {RecipeEngine} = require('./RecipeEngine.js');
+const { RecipeEngine } = require('./RecipeEngine.js');
 const yaml = require('js-yaml');
+const { glob } = require('glob');
 
-/*
-to do implment glob - parse sources.
-import fs from 'fs/promises';
-import { glob } from 'glob';
+// Configuration
+const RECIPE_PATTERN = 'recipes/**/*.{json,txt}'; // Adjust pattern as needed
+const OUTPUT_DIR = path.join(process.cwd(), 'api');
 
-async function readAllFiles(pattern) {
-  // Find all files matching the glob pattern
-  const files = await glob(pattern);
+// Setup locales
+isoDuration.setLocales(
+  {
+    en,
+  },
+  {
+    fallbackLocale: 'en',
+  }
+);
 
-  // Read all files in parallel
-  const contents = await Promise.all(
-    files.map(async file => {
-      const data = await fs.readFile(file, 'utf-8');
-      return { file, data };
-    })
-  );
+// ----------------------------------
+// Helpers
+// ----------------------------------
+const humanizeISODuration = (iso) => {
+  if (!iso) return null;
 
-  return contents;
-}
+  try {
+    const duration = isoDuration(iso);
+    return duration.humanize('en');
+  } catch {
+    return null;
+  }
+};
 
-// Example usage
-(async () => {
-  const allFiles = await readAllFiles('recipes/**/*.txt'); // change pattern
-  console.log(allFiles);
-})();
-
-// stream version
-import fs from 'fs';
-import readline from 'readline';
-import { glob } from 'glob';
-
-// Reuse parseRecipes logic for filenames
 function parseRecipeFilename(filename) {
   const dateRegex = /^\d{4}(-\d{2}){0,2}$/;
   const base = filename.replace(/^recipes_?/, '');
@@ -48,50 +45,17 @@ function parseRecipeFilename(filename) {
   const last = parts[parts.length - 1];
 
   if (dateRegex.test(last)) {
-    return { source: parts.slice(0, -1).join('_') || null, date: last };
+    return { 
+      source: parts.slice(0, -1).join('_').replaceAll("-", " ").replaceAll("_", " ") || null, 
+      date: last 
+    };
   } else {
-    return { source: parts.join('_') || null, date: null };
+    return { 
+      source: parts.join('_').replaceAll("-", " ").replaceAll("_", " ") || null, 
+      date: null 
+    };
   }
 }
-
-async function processFiles(pattern) {
-  const files = await glob(pattern);
-  const results = [];
-
-  for (const file of files) {
-    const filename = file.split('/').pop().replace(/\..+$/, ''); // remove path & extension
-    const parsed = parseRecipeFilename(filename);
-
-    // Stream file content line by line
-    const rl = readline.createInterface({
-      input: fs.createReadStream(file),
-      crlfDelay: Infinity
-    });
-
-    const lines = [];
-    for await (const line of rl) {
-      lines.push(line);
-    }
-
-    results.push({
-      file,
-      parsedFilename: parsed,
-      content: lines.join('\n') // can keep as array if you want streaming
-    });
-  }
-
-  return results;
-}
-
-// Example usage
-(async () => {
-  const allData = await processFiles('recipes/**/*.txt'); // adjust pattern
-  console.log(allData);
-})();
-
-
-*/
-
 
 function loadJekyllConfig(configPath = '_config.yml') {
   try {
@@ -110,7 +74,6 @@ function loadJekyllConfig(configPath = '_config.yml') {
 
 function createSimilarityEngine(settings) {
   if (settings.engine === 'transformers') {
-    // Initialize with a custom filename
     const engine = new RecipeEngine(settings.vector_path);
     return {
       type: 'transformers',
@@ -126,7 +89,6 @@ function createSimilarityEngine(settings) {
     max_recommendations: settings.max_recommendations
   };
 }
-
 
 function getRecommendationSettings(config) {
   const rec = config.recommendations || {};
@@ -145,148 +107,23 @@ function getRecommendationSettings(config) {
   };
 }
 
+const slugify = (text) => {
+  return text
+    .toString()
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-')
+    .replace(/[^\w-]+/g, '')
+    .replace(/--+/g, '-');
+};
 
-// ----------------------------------
-// Helpers
-// ----------------------------------
-const humanizeISODuration = (iso) => {
-  if (!iso) return null;
-
-  try {
-    const duration = isoDuration(iso);
-
-    return duration.humanize('en');
-  } catch {
-    return null;
+const ensureDir = (dir) => {
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
   }
 };
 
-
-// Setup locales
-//   key - string you want to use in `humanize` function
-//   value - IsoDuration i18n object.
-isoDuration.setLocales(
-  {
-    en,
-  //  pl,
-   // it,
-  },
-  {
-    fallbackLocale: 'en',
-  }
-)
-
-
-function parseRecipes(arr) {
-  const dateRegex = /^\d{4}(-\d{2}){0,2}$/;
-
-  return arr.map(str => {
-    // Remove "recipes" prefix
-    const rest = str.replace(/^recipes_?/, '');
-    if (!rest) return { source: null, date: null };
-
-    const parts = rest.split('_');
-    let date = null;
-    let source = null;
-
-    // Try to detect the last part as a date
-    const lastPart = parts[parts.length - 1];
-    const secondLastPart = parts.length > 1 ? parts[parts.length - 2] : null;
-
-    if (dateRegex.test(lastPart)) {
-      date = lastPart;
-      source = parts.slice(0, -1).join('_') || null;
-    } else if (secondLastPart && dateRegex.test(parts.slice(-2).join('-'))) {
-      // Handles split dates like ["2017","10","12"]
-      date = parts.slice(-2).join('-');
-      source = parts.slice(0, -2).join('_') || null;
-    } else {
-      source = parts.join('_') || null;
-    }
-
-    if(source){
-      source = source.replaceAll("-", " ").replaceAll("_", " ")
-    }
-    return { source, date };
-  });
-}
-
-/*
-[// [object Object] 
-{
-  "source": "Exeter Cookbook",
-  "date": "2017-10"
-},// [object Object] 
-{
-  "source": "Exeter Cookbook",
-  "date": "2017-10-12"
-},// [object Object] 
-{
-  "source": null,
-  "date": null
-},// [object Object] 
-{
-  "source": "Exeter Cookbook",
-  "date": "2017"
-},// [object Object] 
-{
-  "source": "Exeter Cookbook Special",
-  "date": "2018-03"
-},// [object Object] 
-{
-  "source": "OnlySource",
-  "date": null
-},// [object Object] 
-{
-  "source": null,
-  "date": "2021"
-}]
-
-const input = [
-  "recipes_Exeter_Cookbook_2017-10",
-  "recipes_Exeter_Cookbook_2017-10-12",
-  "recipes",
-  "recipes_Exeter_Cookbook_2017",
-  "recipes_Exeter_Cookbook_Special_2018-03",
-  "recipes_OnlySource",
-  "recipes_2021"
-];
-
-console.log(parseRecipes(input));
-
-*/
-
-// ----------------------------------
-// Main
-// ----------------------------------
-async function naturalizeRecipeTimes(recipes) {
-  try {
-    const updatedRecipes = recipes.map(recipe => ({
-      ...recipe,
-      _naturalized_times: {
-        prepTime: humanizeISODuration(recipe.prepTime),
-        cookTime: humanizeISODuration(recipe.cookTime),
-        totalTime: humanizeISODuration(recipe.totalTime),
-      },
-    }));
-
-    await _fs.writeFile(
-      DATA_FILE,
-      JSON.stringify(updatedRecipes, null, 2),
-      'utf8'
-    );
-
-    console.log(`✓ Naturalized times added to ${updatedRecipes.length} recipes`);
-  } catch (err) {
-    console.error('✗ Failed to naturalize recipe times:', err);
-    process.exitCode = 1;
-  }
-}
-
-
-
-
-async function similarRecipes(recipe, recipes, amount=5, engine) {
+async function similarRecipes(recipe, recipes, amount = 5, engine) {
   if (!recipe || typeof recipe !== 'object') return recipe;
 
   return {
@@ -308,40 +145,65 @@ function naturalizeRecipeTimes(recipe) {
   };
 }
 
+// ----------------------------------
+// Load recipes from files
+// ----------------------------------
+async function loadRecipesFromFiles(pattern) {
+  console.log(`Searching for recipe files matching: ${pattern}`);
+  const files = await glob(pattern);
+  console.log(`Found ${files.length} recipe files`);
 
-// 1. Configuration
-const DATA_FILE = path.join(process.cwd(), '_data', 'recipes.json');
-const OUTPUT_DIR = path.join(process.cwd(), 'api');
+  const recipes = [];
 
-// Utility to create a URL-friendly slug
-const slugify = (text) => {
-  return text
-    .toString()
-    .toLowerCase()
-    .trim()
-    .replace(/\s+/g, '-')     // Replace spaces with -
-    .replace(/[^\w-]+/g, '')  // Remove all non-word chars
-    .replace(/--+/g, '-');    // Replace multiple - with single -
-};
+  for (const file of files) {
+    try {
+      const filename = path.basename(file, path.extname(file));
+      const parsed = parseRecipeFilename(filename);
+      
+      const content = await _fs.readFile(file, 'utf8');
+      const recipe = JSON.parse(content);
 
-// Ensure directory exists
-const ensureDir = (dir) => {
-  if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir, { recursive: true });
+      // Enrich recipe with file metadata
+      const enrichedRecipe = {
+        ...recipe,
+        _file_source: parsed.source,
+        _file_date: parsed.date,
+        _file_path: file
+      };
+
+      recipes.push(enrichedRecipe);
+    } catch (err) {
+      console.error(`Failed to process ${file}:`, err.message);
+    }
   }
-};
 
+  console.log(`Successfully loaded ${recipes.length} recipes`);
+  return recipes;
+}
+
+// ----------------------------------
+// Main generation function
+// ----------------------------------
 const generateRecipes = async () => {
   try {
     ensureDir(OUTPUT_DIR);
-    const rawData = fs.readFileSync(DATA_FILE, 'utf8');
-    const recipes = JSON.parse(rawData);
+
+    // Load recipes from files instead of single JSON
+    const recipes = await loadRecipesFromFiles(RECIPE_PATTERN);
+
+    if (recipes.length === 0) {
+      console.error('No recipes found. Check your RECIPE_PATTERN.');
+      process.exit(1);
+    }
+
     console.log(`Processing ${recipes.length} recipes...`);
+
     const config = loadJekyllConfig();
     const settings = getRecommendationSettings(config);
     const engine = createSimilarityEngine(settings);
-    console.log(`Using ${engine.engine} for calculating similar recipes...`);
-    // First pass: Pre-assign URLs so recommendations have valid links when rendered in JEKYLL. 
+    console.log(`Using ${engine.type} engine for calculating similar recipes...`);
+
+    // First pass: Pre-assign URLs
     const recipesWithUrls = recipes.map((recipe, index) => {
       const id = recipe.id || (index + 1);
       const baseSlug = slugify(recipe.name || 'untitled-recipe');
@@ -360,7 +222,7 @@ const generateRecipes = async () => {
     const authorsMap = {};
     const authorSlugMap = {};
 
-    // FIX: Use for...of instead of forEach to respect await
+    // Process each recipe
     for (const [index, recipe] of recipesWithUrls.entries()) {
       const id = recipe.id || (index + 1);
       const baseSlug = slugify(recipe.name || 'untitled-recipe');
@@ -368,15 +230,21 @@ const generateRecipes = async () => {
       const filePath = path.join(OUTPUT_DIR, 'recipes');
       ensureDir(filePath);
 
-      console.log(`Processing similarities for: ${recipe.name}`);
+      console.log(`[${index + 1}/${recipes.length}] Processing: ${recipe.name}`);
 
-      // Run Recommendation System (Await now works correctly)
-      const recipeWithRecs = await similarRecipes(recipe, recipesWithUrls, 5, engine.similarity, settings.max_recommendations);
+      // Calculate similar recipes
+      const recipeWithRecs = await similarRecipes(
+        recipe, 
+        recipesWithUrls, 
+        settings.max_recommendations, 
+        engine.similarity
+      );
 
-      delete recipeWithRecs.url; // if you don't it will get stuck in /recipe/#id.json in Jekyll build. 
+      delete recipeWithRecs.url;
+
       // Write individual recipe file
       fs.writeFileSync(
-        path.join(filePath, fileName), 
+        path.join(filePath, fileName),
         JSON.stringify(naturalizeRecipeTimes(recipeWithRecs), null, 2)
       );
 
@@ -388,7 +256,7 @@ const generateRecipes = async () => {
         authors = [recipe.author.name];
       }
 
-      // Build minimal search index
+      // Build search index item
       const searchItem = {
         name: recipe.name,
         author: authors.join(', '),
@@ -426,72 +294,98 @@ const generateRecipes = async () => {
       });
     }
 
-    // ALL aggregate file writes below now wait until the loop above is 100% finished
+    // Write all aggregate files
     console.log('Finalizing aggregate files...');
 
-    // Write search index
-    fs.writeFileSync(path.join(OUTPUT_DIR, 'search.json'), JSON.stringify(searchIndex, null, 2));
+    // Search index
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, 'search.json'),
+      JSON.stringify(searchIndex, null, 2)
+    );
 
-    // Write categories list
+    // Categories
     const categoriesList = Object.keys(categoriesMap).map(cat => ({
       name: cat,
       slug: categorySlugMap[cat],
       count: categoriesMap[cat].length
     }));
-    fs.writeFileSync(path.join(OUTPUT_DIR, 'categories.json'), JSON.stringify(categoriesList, null, 2));
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, 'categories.json'),
+      JSON.stringify(categoriesList, null, 2)
+    );
 
-    // Write per-category recipes
     const categoryDir = path.join(OUTPUT_DIR, 'categories');
     ensureDir(categoryDir);
     Object.entries(categoriesMap).forEach(([category, items]) => {
       const catSlug = categorySlugMap[category];
-      fs.writeFileSync(path.join(categoryDir, `${catSlug}.json`), JSON.stringify(items, null, 2));
+      fs.writeFileSync(
+        path.join(categoryDir, `${catSlug}.json`),
+        JSON.stringify(items, null, 2)
+      );
     });
 
-    // Write cuisines list
+    // Cuisines
     const cuisinesList = Object.keys(cuisinesMap).map(c => ({
       name: c,
       slug: cuisineSlugMap[c],
       count: cuisinesMap[c].length
     }));
-    fs.writeFileSync(path.join(OUTPUT_DIR, 'cuisines.json'), JSON.stringify(cuisinesList, null, 2));
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, 'cuisines.json'),
+      JSON.stringify(cuisinesList, null, 2)
+    );
 
-    // Write per-cuisine recipes
     const cuisineDir = path.join(OUTPUT_DIR, 'cuisines');
     ensureDir(cuisineDir);
     Object.entries(cuisinesMap).forEach(([cuisine, items]) => {
       const cuisineSlug = cuisineSlugMap[cuisine];
-      fs.writeFileSync(path.join(cuisineDir, `${cuisineSlug}.json`), JSON.stringify(items, null, 2));
+      fs.writeFileSync(
+        path.join(cuisineDir, `${cuisineSlug}.json`),
+        JSON.stringify(items, null, 2)
+      );
     });
 
-    // Write authors list
+    // Authors
     const authorsList = Object.keys(authorsMap).map(a => ({
       name: a,
       slug: authorSlugMap[a],
       count: authorsMap[a].length
     }));
-    fs.writeFileSync(path.join(OUTPUT_DIR, 'authors.json'), JSON.stringify(authorsList, null, 2));
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, 'authors.json'),
+      JSON.stringify(authorsList, null, 2)
+    );
 
-    // Write per-author recipes
     const authorDir = path.join(OUTPUT_DIR, 'authors');
     ensureDir(authorDir);
     Object.entries(authorsMap).forEach(([author, items]) => {
       const authorSlug = authorSlugMap[author];
-      fs.writeFileSync(path.join(authorDir, `${authorSlug}.json`), JSON.stringify(items, null, 2));
+      fs.writeFileSync(
+        path.join(authorDir, `${authorSlug}.json`),
+        JSON.stringify(items, null, 2)
+      );
     });
 
-    // Write stats
+    // Stats
     const stats = {
       totalRecipes: recipes.length,
       totalAuthors: Object.keys(authorsMap).length,
       totalCategories: Object.keys(categoriesMap).length,
       totalCuisines: Object.keys(cuisinesMap).length
     };
-    fs.writeFileSync(path.join(OUTPUT_DIR, 'stats.json'), JSON.stringify(stats, null, 2));
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, 'stats.json'),
+      JSON.stringify(stats, null, 2)
+    );
 
     console.log('✅ Generation complete!');
+    console.log(`   Recipes: ${stats.totalRecipes}`);
+    console.log(`   Authors: ${stats.totalAuthors}`);
+    console.log(`   Categories: ${stats.totalCategories}`);
+    console.log(`   Cuisines: ${stats.totalCuisines}`);
   } catch (error) {
     console.error('❌ Error processing recipes:', error);
+    process.exit(1);
   }
 };
 
