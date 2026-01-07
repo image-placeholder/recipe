@@ -1,0 +1,203 @@
+---
+permalink: /page-find/
+title: "Search Recipes"
+og_image_description: "Search recipes from {{site.title}}"
+---
+{% assign base_url = site.baseurl | default: "" %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{page.title}} | {{site.title}}</title>
+ <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f7f2;
+    }
+
+    h1,
+    h2,
+    h3,
+    .serif {
+      font-family: 'Playfair Display', serif;
+    }
+
+    /* Premium Navigation Blur */
+    .glass-nav {
+      background-color: rgba(248, 247, 242, 0.8);
+      backdrop-filter: blur(8px);
+    }
+
+    /* Print optimization to hide URL and Page # */
+    @media print {
+      @page {
+        margin: 0;
+      }
+
+      body {
+        margin: 2cm;
+        background: white !important;
+        color: black !important;
+      }
+
+      nav,
+      footer,
+      button,
+      .no-print {
+        display: none !important;
+      }
+    }
+  </style>
+
+<style> body { font-family: 'Inter', sans-serif; } h1, h2, h3, .serif { font-family: 'Playfair Display', serif; } .bg-heritage { background-color: #fcfaf7; }
+    /* Smooth Fade In for Results */
+    .result-item {
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    .result-item.visible {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* Custom underline transition */
+    .search-input-focus {
+        transition: width 0.6s ease;
+        width: 0%;
+    }
+    input:focus + .search-input-focus {
+        width: 100%;
+    }
+
+/* ----------------------------------
+   Skeleton fade out
+---------------------------------- */
+.skeleton {
+  opacity: 1;
+  transition: opacity 200ms ease;
+}
+
+.skeleton.fade-out {
+  opacity: 0;
+}
+
+    /* ----------------------------------
+       Card entrance animation
+    ---------------------------------- */
+    .result-item {
+      opacity: 0;
+      transform: translateY(8px);
+      transition:
+        opacity 260ms ease,
+        transform 260ms ease;
+    }
+    
+    .result-item.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    
+    /* ----------------------------------
+       Reduced motion support
+    ---------------------------------- */
+    @media (prefers-reduced-motion: reduce) {
+      .skeleton,
+      .result-item {
+        transition: none !important;
+        transform: none !important;
+        opacity: 1 !important;
+      }
+    }
+
+  
+</style>
+  
+  
+
+ {% include head_content.html base_url=base_url %} 
+  
+</head>
+<body> 
+<!-- Navigation -->
+{% include navigation.html %}   
+<main class="flex-grow max-w-5xl mx-auto w-full px-6 py-20">
+    <div class="text-center mb-16">
+        <span class="text-[10px] uppercase tracking-[0.4em] text-stone-400 mb-4 block underline underline-offset-8 decoration-stone-200">Digital Ledger Search</span>
+        <h2 class="text-4xl md:text-6xl font-bold mb-12 serif italic">What are you <br>craving for?</h2>
+
+        <div class="relative max-w-2xl mx-auto">
+        <input
+          type="text"
+          id="mainSearch"
+          placeholder="Search by name, or contributor..."
+          class="w-full bg-transparent text-2xl md:text-3xl text-center border-none focus:outline-none placeholder-stone-200 serif italic py-4"
+          autocomplete="off"
+          role="searchbox"
+          aria-label="Search recipes"
+          aria-describedby="searchHelp"
+          aria-controls="resultsGrid"
+          aria-autocomplete="list"
+        />
+        
+        <p id="searchHelp" class="sr-only">
+          Type to search recipes by name, or contributor.
+        </p>
+            <div class="h-[1px] bg-stone-200 w-full absolute bottom-0"></div>
+            <div class="h-[1px] bg-stone-900 absolute bottom-0 left-0 search-input-focus"></div>
+        </div>
+      <p id="resultsStatus" class="sr-only" role="status" aria-live="polite"></p>
+    </div>
+
+    <div id="resultsGrid" class="grid grid-cols-1 md:grid-cols-2 gap-8 min-h-[400px]">
+        <div id="searchPlaceholder" class="col-span-full text-center py-20">
+            <p class="text-stone-300 italic serif text-xl">Type to browse the community's digitized recipes...</p>
+        </div>
+    </div>
+</main>
+
+<template id="skeletonTemplate">
+  <div class="skeleton animate-pulse bg-stone-50 border border-stone-100 p-10">
+    <div class="h-2 w-24 bg-stone-200 mb-4"></div>
+    <div class="h-6 w-3/4 bg-stone-200 mb-4"></div>
+    <div class="h-3 w-full bg-stone-200 mb-6"></div>
+    <div class="h-2 w-16 bg-stone-300"></div>
+  </div>
+</template>
+
+<div class="max-w-3xl mx-auto p-6 bg-white rounded-xl shadow-sm border border-slate-100">
+  <h2 class="text-2xl font-bold text-slate-800 mb-4 flex items-center gap-2">
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-orange-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+    </svg>
+    Find a Recipe
+  </h2>
+
+  <div id="search" class="prose prose-slate max-w-none"></div>
+</div>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ 
+            element: "#search", 
+            showSubResults: true,
+            showImages: true,
+            translations: {
+                placeholder: "Search ingredients (e.g. Tomato, Basil...)"
+            }
+        });
+    });
+</script>
+<!-- Cookies Banner -->
+{% include cookie_banner.html %}
+  
+<!-- Footer -->
+{% include footer.html %}    
+</body>
+</html>
