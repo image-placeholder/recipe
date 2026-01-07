@@ -1,0 +1,334 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Marinated Vegetable Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Ruth Haines"
+  },
+  "description": "A colorful and versatile marinated vegetable salad perfect for serving as finger food or a side dish.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "recipeYield": "Variable",
+  "recipeIngredient": [
+    "1 medium cauliflower",
+    "3 celery stalks",
+    "1/2 English cucumber",
+    "1 bunch broccoli",
+    "1/2 bunch radishes",
+    "Cherry tomatoes",
+    "1 small bag baby carrots",
+    "1 bottle Italian dressing"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash and clean all the vegetables, then drain well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Break cauliflower and broccoli into bite-sized pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Trim radishes and carrots; leave whole unless large, then cut into bite-sized pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut celery into 3-inch pieces and slice cucumber into 1/2-inch slices."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Leave cherry tomatoes whole."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place all prepared vegetables in a large bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour Italian dressing over the vegetables and let set for a few hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve as finger food or as a salad."
+    }
+  ],
+  "keywords": "marinated vegetables, vegetable salad, Italian dressing",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "",
+    "totalTime": "20 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Van Valkengoed"
+      },
+      "description": "A colorful pasta salad with penne or spiral pasta, vegetables, feta cheese, and a tangy herb dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeIngredient": [
+        "½ bag penne or spiral pasta",
+        "1 green pepper, chopped",
+        "2 tomatoes, chopped",
+        "3 green onions, chopped",
+        "½ can black olives, sliced",
+        "1½ lb feta cheese, crumbled",
+        "1 bottle Classic Herb dressing"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the pasta according to package instructions, then drain and cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped green pepper, tomatoes, green onions, and sliced black olives to the cooled pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Crumble the feta cheese into the pasta mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the Classic Herb dressing over the salad and toss to combine."
+        }
+      ],
+      "keywords": "pasta salad, feta cheese, herb dressing, vegetable salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "pasta-salad-85",
+      "similarity": "0.6928"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the marinade well in the morning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve."
+        }
+      ],
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "onion-salad-74",
+      "similarity": "0.6551"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Dinney"
+      },
+      "description": "A cooked salad dressing made with eggs, sugar, mustard, and vinegar, thickened with cornstarch.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT8M",
+      "totalTime": "PT13M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 tsp salt",
+        "2 eggs",
+        "1 cup white sugar",
+        "2 tsp dry mustard",
+        "1 cup vinegar",
+        "3 Tbsp cornstarch",
+        "1 cup 2% milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook in the microwave for approximately 8 minutes."
+        }
+      ],
+      "keywords": "cooked salad dressing, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "8 minutes",
+        "totalTime": "13 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "salad-dressing-102",
+      "similarity": "0.6546"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Doris Ohmayer"
+      },
+      "description": "A creamy salad dressing cooked over boiling water, made with eggs, sugar, mustard, and vinegar.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "2 well-beaten eggs",
+        "2 tsp flour",
+        "½ cup white sugar",
+        "¾ cup white vinegar",
+        "1 heaping tsp dry mustard",
+        "¼ cup boiling water",
+        "Pinch of salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix eggs, sugar, mustard, and salt together with flour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add vinegar and boiling water to the egg mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook over boiling water until creamy."
+        }
+      ],
+      "keywords": "creamy salad dressing, cooked dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "salad-dressing-103",
+      "similarity": "0.6546"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Evelyn Pickering"
+      },
+      "description": "A thickened salad dressing made by boiling a mixture of eggs, sugar, flour, mustard, water, and vinegar, finished with butter.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "3 Tbsp flour",
+        "3 eggs",
+        "1 cup white sugar",
+        "1½ cups water",
+        "1 Tbsp dry mustard",
+        "1 cup vinegar",
+        "1 Tbsp butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat eggs and add sugar and dry ingredients."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil water and vinegar together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour egg mixture into vinegar-water mixture and boil until it thickens, stirring continually."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Take off heat and stir in 1 Tbsp butter."
+        }
+      ],
+      "keywords": "thickened salad dressing, boiled dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "salad-dressing-104",
+      "similarity": "0.6546"
+    }
+  ]
+}

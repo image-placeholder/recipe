@@ -1,0 +1,342 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Pickled Eggs",
+  "author": {
+    "@type": "Person",
+    "name": "Margaret Beaver"
+  },
+  "description": "Tangy pickled eggs made with vinegar, mustard, and spices, perfect for snacking or as a side dish.",
+  "recipeCategory": "Snack",
+  "recipeCuisine": "American",
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "5 days",
+  "recipeYield": "12 pickled eggs",
+  "recipeIngredient": [
+    "12 hard-boiled eggs",
+    "2 cups white vinegar",
+    "1 cup water",
+    "1 tsp dry mustard",
+    "1 tsp salt",
+    "½ tsp pepper",
+    "1 onion, cut into pieces",
+    "Pinch of sugar (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine the vinegar, water, mustard, salt, pepper, and onion pieces in a saucepan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring the mixture to a boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the hot pickling liquid over the hard-boiled eggs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the eggs stand in the pickling liquid for 5 days before serving."
+    }
+  ],
+  "keywords": "pickled eggs, tangy snack, preserved eggs",
+  "_naturalized_times": {
+    "prepTime": "5 minutes",
+    "cookTime": "5 minutes",
+    "totalTime": null
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Plain Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A simple recipe for pickled eggs with a tangy cider vinegar brine and sliced onions.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT5M",
+      "totalTime": "PT15M",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "1 tsp pickling spice",
+        "2 cups cider vinegar",
+        "1 large onion, sliced into rings",
+        "12 hard-boiled eggs, shelled",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine all ingredients except eggs and onion rings in a stainless steel or enamel pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil and simmer for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large jar, alternate layers of eggs and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the heated liquid over the eggs and onions, ensuring all are covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
+        }
+      ],
+      "keywords": "pickled eggs, cider vinegar, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "plain-pickled-eggs-30",
+      "similarity": "0.8994"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fancy Pickled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Antonia Hull"
+      },
+      "description": "A variation of pickled eggs with beets, giving them a distinctive purple color and sweet flavor.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "12 pickled eggs",
+      "recipeIngredient": [
+        "1 (16 oz) can sliced beets",
+        "½ tsp ground cloves",
+        "2 bay leaves",
+        "2 Tbsp sugar",
+        "½ tsp celery seed",
+        "1 large onion, sliced into rings",
+        "1 tsp salt",
+        "2 cups cider vinegar",
+        "12 large boiled eggs (shells removed)",
+        "1 cinnamon stick"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In an enamel or stainless steel saucepan, combine all ingredients except eggs and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil and simmer for 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large glass jar, alternate layers of eggs, beets, and onion rings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the heated liquid into the jar, ensuring all layers are covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 24 hours before serving. Will keep in the fridge for 2 weeks."
+        }
+      ],
+      "keywords": "pickled eggs, beets, appetizer, purple eggs",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "fancy-pickled-eggs-31",
+      "similarity": "0.8741"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hard Boiled Eggs/Devilled Eggs",
+      "author": {
+        "@type": "Person",
+        "name": "Missy MacLeod"
+      },
+      "description": "A classic deviled egg recipe with a creamy yolk filling, garnished with paprika and optional olive slices.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT15M",
+      "totalTime": "PT35M",
+      "recipeYield": "24 deviled eggs",
+      "recipeIngredient": [
+        "1 dozen (12) eggs, hard-boiled and peeled",
+        "Mayonnaise",
+        "Mustard (optional)",
+        "Chives (optional)",
+        "Pickle relish (optional)",
+        "Paprika",
+        "Olive slices (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place the eggs in a covered saucepan with enough cold water to cover them. Bring to a rapid boil, then turn off the heat and let stand for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cool the eggs by filling the pot with cold water and changing it frequently until the eggs are cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the shells and rinse the eggs to remove any bits of shell."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Slice the eggs in half lengthwise and carefully scoop out the yolks into a bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mash the yolks with a fork or pastry blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise and mix until the yolks reach a creamy consistency. Optionally add mustard, chives, and pickle relish to taste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scoop the yolk mixture back into the egg white halves."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with paprika and/or olive slices as desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill the deviled eggs until ready to serve."
+        }
+      ],
+      "keywords": "deviled eggs, hard-boiled eggs, appetizer",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "hard-boiled-eggsdevilled-eggs-34",
+      "similarity": "0.6409"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Dinney"
+      },
+      "description": "A cooked salad dressing made with eggs, sugar, mustard, and vinegar, thickened with cornstarch.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT8M",
+      "totalTime": "PT13M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 tsp salt",
+        "2 eggs",
+        "1 cup white sugar",
+        "2 tsp dry mustard",
+        "1 cup vinegar",
+        "3 Tbsp cornstarch",
+        "1 cup 2% milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook in the microwave for approximately 8 minutes."
+        }
+      ],
+      "keywords": "cooked salad dressing, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "8 minutes",
+        "totalTime": "13 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "salad-dressing-102",
+      "similarity": "0.5926"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Doris Ohmayer"
+      },
+      "description": "A creamy salad dressing cooked over boiling water, made with eggs, sugar, mustard, and vinegar.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "2 well-beaten eggs",
+        "2 tsp flour",
+        "½ cup white sugar",
+        "¾ cup white vinegar",
+        "1 heaping tsp dry mustard",
+        "¼ cup boiling water",
+        "Pinch of salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix eggs, sugar, mustard, and salt together with flour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add vinegar and boiling water to the egg mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook over boiling water until creamy."
+        }
+      ],
+      "keywords": "creamy salad dressing, cooked dressing",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "salad-dressing-103",
+      "similarity": "0.5926"
+    }
+  ]
+}

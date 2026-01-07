@@ -1,0 +1,370 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Green Beans and Artichokes",
+  "author": {
+    "@type": "Person",
+    "name": "Loma Finkbeiner"
+  },
+  "description": "A savory side dish featuring green beans and artichoke hearts mixed with garlic, onion, and Romano cheese.",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1 (14 oz) can artichokes, drained and quartered",
+    "1 finely chopped onion",
+    "1 clove garlic, minced",
+    "¼ cup olive oil",
+    "½ cup freshly grated Romano cheese",
+    "½ cup Italian bread crumbs",
+    "1 (10 oz) pkg frozen french-style green beans, cooked and drained"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Saute the onion and garlic in olive oil until the onion is softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in bread crumbs and cook until they absorb the oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add green beans, artichoke hearts, and cheese. Combine thoroughly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat slowly to soften the cheese. Season with salt and pepper to taste."
+    }
+  ],
+  "keywords": "green beans, artichokes, Romano cheese, side dish",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "10 minutes",
+    "totalTime": "25 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Artichoke Appetizer",
+      "author": {
+        "@type": "Person",
+        "name": "Loma Finkbeiner"
+      },
+      "description": "A warm, cheesy artichoke appetizer perfect for serving with bread or crackers.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT25M",
+      "totalTime": "PT35M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 (14 oz) can artichoke hearts",
+        "Dash garlic salt",
+        "1 cup grated Parmesan cheese",
+        "2 Tbsp chopped green onion",
+        "1 cup shredded mozzarella cheese",
+        "1 Tbsp chopped parsley",
+        "1 cup Hellmann's mayonnaise"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Drain artichoke hearts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine artichoke hearts with cheese, mayonnaise, garlic salt, and green onion in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle parsley over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 25 to 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT25M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with bread or crackers."
+        }
+      ],
+      "keywords": "artichoke appetizer, cheesy dip, party snack",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "35 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "artichoke-appetizer-1",
+      "similarity": "0.6494"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Hamburger Pie",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A savory pie made with ground beef, green beans, and tomato soup, topped with a layer of mashed potatoes and baked until golden.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT30M",
+      "totalTime": "PT55M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 medium onion, sliced",
+        "1 to 1½ cups cooked green beans",
+        "1 Tbsp oil",
+        "1 lb hamburger",
+        "¼ tsp salt",
+        "⅛ tsp pepper",
+        "1 can tomato soup",
+        "5 medium potatoes",
+        "½ cup warm milk",
+        "1 beaten egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 4 Tbsp oil in a pan and brown the sliced onion."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the hamburger, salt, and pepper to the pan and brown the meat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cooked green beans and tomato soup to the meat mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the mixture to a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the potatoes until tender, then mash with warm milk and beaten egg."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon the mashed potatoes in mounds over the top of the meat mixture in the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "hamburger pie, shepherd's pie, casserole",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "55 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "hamburger-pie-169",
+      "similarity": "0.5233"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pasta & Bean Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Fydenchuk"
+      },
+      "description": "A hearty and flavorful soup featuring pasta, beans, and vegetables in a tomato-based broth.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Italian",
+      "prepTime": "PT15M",
+      "cookTime": "PT28M",
+      "totalTime": "PT43M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 Tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 carrots, finely chopped",
+        "2 celery sticks, finely chopped",
+        "3 crushed garlic cloves",
+        "1/4 tsp oregano",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "19 oz can white kidney or romano beans, drained",
+        "10 oz can chicken broth, diluted with 1 cup water",
+        "28 oz can tomatoes with juice",
+        "3 cups small shell pasta or macaroni",
+        "1 1/2 tsp dried basil",
+        "1/4 tsp dried rosemary",
+        "1/2 cup chopped fresh basil",
+        "1/2 cup grated Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place oil in a large pan over medium heat. Stir in onion, carrots, celery, and garlic. Cook, uncovered, stirring often, until onion is soft, about 5 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add broth, tomatoes and juice, seasoning, and beans. Break up tomatoes. Increase heat to medium and bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Uncover, increase heat, and bring to a boil. Add pasta or macaroni. Boil gently, uncovered, stirring often, for about 8 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If desired, add additional hot broth or water for more broth. Stir in basil and Parmesan. Serve immediately."
+        }
+      ],
+      "keywords": "pasta soup, bean soup, Italian soup, vegetable broth",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "28 minutes",
+        "totalTime": "43 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "pasta-bean-soup-111",
+      "similarity": "0.5192"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sliced Bean Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Phyllis Lightfoot"
+      },
+      "description": "A tangy and sweet pickled bean salad made with green or yellow beans, perfect for serving with onion and cream.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeYield": "2 to 3 quarts",
+      "recipeIngredient": [
+        "Yellow or green beans",
+        "2 cups white vinegar",
+        "2 cups white sugar",
+        "1 tsp salt",
+        "1½ cups water",
+        "Onion and cream for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Slice the beans and cook until tender enough to pierce with a fork."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the cooked beans and pack them into jars."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, bring the sugar, water, vinegar, and salt to a boil to make the syrup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the hot syrup over the beans in the jars."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, pour off the liquid and add chopped onion and cream."
+        }
+      ],
+      "keywords": "pickled bean salad, sweet and tangy, preserved beans",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "30 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "sliced-bean-salad-49",
+      "similarity": "0.5170"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spareribs to Go",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A versatile spareribs recipe that can be broiled or heated in a glaze sauce, perfect for make-ahead meals.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeIngredient": [
+        "3 to 4 lb spareribs",
+        "1 cup ketchup",
+        "¼ cup soya sauce",
+        "Glaze: 4 crushed garlic cloves",
+        "½ cup honey"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil spareribs, cut into serving pieces, in salted water for 1½ hours. Drain and place in a shallow dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the glaze mixture (garlic and honey) over the ribs. May be frozen for later use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To finish, remove ribs from the glaze and broil 6 inches from heat in the oven or barbecue until crisp. Alternatively, baste ribs and heat in the sauce."
+        }
+      ],
+      "keywords": "spareribs, garlic honey glaze, make-ahead ribs",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "spareribs-to-go-204",
+      "similarity": "0.4963"
+    }
+  ]
+}

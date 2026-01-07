@@ -1,0 +1,390 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Mexican Enchilada Bake",
+  "author": {
+    "@type": "Person",
+    "name": "Jenni Leslie"
+  },
+  "description": "A hearty, layered enchilada casserole with chicken, beans, rice, and cheese, topped with a tangy tomato-salsa sauce.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Mexican-American",
+  "prepTime": "PT25M",
+  "cookTime": "PT40M",
+  "totalTime": "PT1H5M",
+  "recipeYield": "1 9x13 inch casserole",
+  "recipeIngredient": [
+    "2½ cups tomato sauce or ¾ cup each diced carrots and diced canned tomatoes",
+    "1¼ cups salsa",
+    "½ cup chopped green onions",
+    "4 tsp chili powder",
+    "2 Tbsp lime juice",
+    "3 tsp ground cumin",
+    "2 cups chopped, cooked chicken",
+    "12 (6 inch) corn tortillas",
+    "1½ cups shredded cheddar",
+    "2 cups cooked brown rice",
+    "½ cup sour cream",
+    "1 can (19 oz) black beans, rinsed and drained",
+    "Diced red pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine tomato sauce, salsa, 2 teaspoons chili powder, and 2 teaspoons cumin in a medium saucepan. Bring to a boil, then reduce heat to low and simmer, covered, for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, mix together chicken, rice, beans, carrots, red pepper, onion, lime juice, cilantro, remaining 2 teaspoons chili powder, and remaining 1 teaspoon cumin."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spray a 9x13 inch baking dish with nonstick spray."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread 1 cup of the sauce over the bottom of the baking dish. Arrange 6 tortillas over the sauce, overlapping as necessary."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spoon another 1 cup of sauce over the tortillas and spread evenly. Top with half of the bean mixture and half of the cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange the remaining tortillas on top. Cover with another 1 cup of sauce, followed by the remaining bean mixture and remaining cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spoon any remaining sauce over the top. Cover with foil and bake at 350°F for 35 to 40 minutes until bubbly and heated through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let stand for 5 minutes before serving. Top individual servings with a dollop of sour cream."
+    }
+  ],
+  "keywords": "enchilada casserole, Mexican bake, chicken and cheese",
+  "_naturalized_times": {
+    "prepTime": "25 minutes",
+    "cookTime": "40 minutes",
+    "totalTime": "1 hour 5 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tortilla Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A flavorful Mexican-inspired soup with chicken, vegetables, and crispy tortilla chips.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Mexican",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "Chicken (breasts or thighs)",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 can diced tomatoes",
+        "1 cup corn",
+        "1 can black beans, optional",
+        "1 bay leaf",
+        "¼ cup chopped cilantro",
+        "½ tsp chili powder",
+        "½ tsp cumin",
+        "½ tsp oregano",
+        "Salt and pepper to taste",
+        "Tortilla chips",
+        "Sour cream",
+        "Cheddar cheese, grated",
+        "1 jar salsa"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Saute chicken pieces with onion, garlic, and spices until chicken is cooked through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add 4 cups water and boil to make stock."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove chicken and chop, discarding any bones and skin."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine remaining ingredients (except tortilla chips, sour cream, and cheese) and heat through."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, place tortilla chips in soup bowls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour soup over chips and top with sour cream, jalapenos (optional), and shredded cheddar cheese."
+        }
+      ],
+      "keywords": "tortilla soup, Mexican soup, chicken soup, spicy soup",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "tortilla-soup-124",
+      "similarity": "0.6706"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Fudge",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A warm, cheesy baked appetizer served on Triscuits.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "1 9×11 in pan",
+      "recipeIngredient": [
+        "2 cups shredded cheddar cheese",
+        "3 eggs, lightly beaten",
+        "½ cup taco or salsa sauce",
+        "2 cups shredded mozzarella cheese",
+        "Triscuits for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease a 9×11 in pan and spread the cheddar cheese evenly on the bottom."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lightly beat the eggs and mix with taco or salsa sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the egg mixture over the cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with the shredded mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut into squares while warm and serve on Triscuits."
+        }
+      ],
+      "keywords": "Mexican fudge, baked cheese dip, salsa appetizer, cheesy squares",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "mexican-fudge-12",
+      "similarity": "0.6638"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chinese Hamburger Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Meredith Mary"
+      },
+      "description": "A hearty, savory casserole featuring ground hamburger, rice, and vegetables, with an optional addition of bean sprouts for an authentic touch.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H20M",
+      "recipeYield": "6 to 8 servings",
+      "recipeIngredient": [
+        "1 lb hamburger",
+        "½ cup warm water",
+        "½ cup uncooked rice",
+        "2 medium onions, chopped",
+        "1 cup sliced celery",
+        "1 can cream of mushroom soup",
+        "1 can cream of chicken soup (optional)",
+        "1 can mushrooms, drained",
+        "¼ cup soya sauce",
+        "¼ tsp pepper",
+        "1 tsp salt",
+        "1 cup bean sprouts (optional)",
+        "1 handful chow mein noodles"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Thoroughly brown hamburger in a skillet; add the onions, celery, cream of mushroom and cream of chicken soups."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir in the mushrooms, warm water, uncooked rice, soya sauce, pepper and salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add bean sprouts if using for a more authentic taste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Turn the ingredients into a casserole dish and bake at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove cover, stir the casserole and continue baking for about 15 minutes longer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle chow mein noodles over casserole and bake for 15 minutes more (total baking time is 1 hour)."
+        }
+      ],
+      "keywords": "Chinese casserole, hamburger casserole, rice casserole",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "chinese-hamburger-casserole-174",
+      "similarity": "0.6450"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mexican Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Sheila Jarvie"
+      },
+      "description": "A hearty and flavorful salad with kidney beans, lentils, and low-fat cheese, topped with salsa and served with taco chips.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT10M",
+      "recipeYield": "8 to 9 servings",
+      "recipeIngredient": [
+        "¾ cup kidney beans",
+        "¾ cup lentils",
+        "½ cup diced tomato",
+        "1 cup shredded lettuce",
+        "½ green pepper, chopped",
+        "½ cup low-fat cheese (mozzarella or cheddar or combination)",
+        "2 green onions, chopped",
+        "¼ cup Catalina dressing",
+        "¼ cup salsa",
+        "Taco chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine kidney beans, lentils, diced tomato, shredded lettuce, chopped green pepper, low-fat cheese, and green onions in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Toss the salad with Catalina dressing until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top the salad with salsa."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve immediately with taco chips on the side."
+        }
+      ],
+      "keywords": "Mexican salad, bean salad, taco chips",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "10 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "mexican-salad-50",
+      "similarity": "0.6419"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Nacho Fiesta Dip",
+      "author": {
+        "@type": "Person",
+        "name": "Chris Dinney"
+      },
+      "description": "A layered dip featuring cottage cheese, cream cheese, and taco seasoning, topped with lettuce, tomatoes, and cheddar cheese.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT1H15M",
+      "recipeYield": "1 large bowl",
+      "recipeIngredient": [
+        "2 cups cottage cheese",
+        "1 pkg taco seasoning",
+        "2 cups cream cheese",
+        "1½ to 2 cups grated cheddar cheese",
+        "½ small head lettuce, shredded",
+        "3 medium tomatoes, diced",
+        "Large bag tortilla chips for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix cottage cheese, cream cheese, and taco seasoning together in a blender until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the mixture in a large bowl lined with Saran Wrap and refrigerate covered for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the dip from the bowl by tipping it onto a platter or large plate and peeling off the Saran Wrap."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dip with shredded lettuce, then diced tomatoes, and finally grated cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Surround with tortilla chips and serve."
+        }
+      ],
+      "keywords": "layered dip, nacho fiesta, taco seasoning, cheesy dip",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "nacho-fiesta-dip-28",
+      "similarity": "0.6280"
+    }
+  ]
+}

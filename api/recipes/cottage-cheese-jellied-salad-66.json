@@ -1,0 +1,341 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cottage Cheese Jellied Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Jean E. Neil"
+  },
+  "description": "A light and fruity salad made with cottage cheese, pineapple, and walnuts, set in a gelatin mold.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT2H15M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "3 oz package orange or lemon flavored gelatin",
+    "1 cup boiling water",
+    "1 cup drained crushed pineapple",
+    "½ cup chopped walnuts (optional)",
+    "½ cup mayonnaise",
+    "1 cup cottage cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dissolve gelatin in boiling water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add mayonnaise and whisk to blend."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chill until the mixture starts to set."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add cottage cheese, pineapple, and walnuts. Combine well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the mixture into a clear glass bowl or a 4-cup lightly oiled mold."
+    }
+  ],
+  "keywords": "cottage cheese salad, jellied salad, pineapple salad",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "",
+    "totalTime": "2 hours 15 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Party-Time Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Phyllis Bender"
+      },
+      "description": "A creamy lime Jello salad with pineapple, cream cheese, and celery.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "1 1½ quart mould",
+      "recipeIngredient": [
+        "1 can crushed pineapple",
+        "1 (8 oz) package cream cheese",
+        "1 (3 oz) package lime flavoured Jello",
+        "1 cup celery, diced",
+        "1½ cups whipped cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat pineapple juice and hot water to measure 1 cup."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve Jello powder in hot liquid and stir, then add ¾ cup cold water."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let partially set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cream cheese and mix with beaters."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add crushed pineapple, whipped cream, and celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour into a 1½ quart mould and chill until firm."
+        }
+      ],
+      "keywords": "party-time salad, lime Jello, cream cheese, pineapple",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "party-time-salad-77",
+      "similarity": "0.7151"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Strawberry Tossed Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Donelda Lewis"
+      },
+      "description": "A fresh and fruity salad with mixed greens, strawberries, and a sweet vinaigrette.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "4 cups torn Bibb or Boston lettuce",
+        "8 cups torn romaine lettuce",
+        "2½ cups sliced fresh strawberries",
+        "1 cup (4 oz) shredded Monterey Jack cheese",
+        "½ cup slivered almonds, toasted or coated with sugar",
+        "½ cup vegetable oil",
+        "⅓ cup white sugar",
+        "¼ cup cider or red wine vinegar",
+        "1 garlic clove, minced",
+        "¼ tsp salt",
+        "¼ tsp paprika",
+        "Pinch white pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the first 7 ingredients (oil, sugar, vinegar, garlic, salt, paprika, and white pepper) in a jar with a tight-fitting lid and shake well to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, toss salad greens, strawberries, cheese, and almonds in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle with the prepared dressing and toss to coat."
+        }
+      ],
+      "keywords": "strawberry salad, fruit salad, sweet salad dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "strawberry-tossed-salad-96",
+      "similarity": "0.6690"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Club Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "1 large bowl",
+      "recipeIngredient": [
+        "7 cups romaine lettuce",
+        "1 cup crisp cooked bacon, chopped",
+        "1 cup chopped hard-boiled eggs",
+        "¾ cup ranch or dip dressing",
+        "¾ cup grated cheese (marble, cheddar, etc.)",
+        "1 cup cooked chicken breast, diced",
+        "½ cup grated carrots",
+        "1 cup diced tomatoes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients in a large bowl, layering each ingredient to look festive."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with dressing."
+        }
+      ],
+      "keywords": "layered salad, club salad, ranch dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "club-salad-68",
+      "similarity": "0.6399"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Lemon Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Mona Hamilton"
+      },
+      "description": "A light and fluffy lemon Jello dessert mixed with whipped Dream Whip.",
+      "recipeCategory": "Dessert",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "recipeYield": "1 serving",
+      "recipeIngredient": [
+        "1 package lemon Jello (85g)",
+        "1 small can frozen lemonade",
+        "1 cup hot water",
+        "¼ cup water",
+        "¼ cup sugar",
+        "1 package Dream Whip Mix"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve the lemon Jello in hot water with sugar."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add frozen lemonade and ¼ cup water to the Jello mixture and let set."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whip the Dream Whip Mix and combine with the set Jello."
+        }
+      ],
+      "keywords": "lemon Jello, whipped dessert, Dream Whip",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": null,
+        "totalTime": null
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "lemon-salad-80",
+      "similarity": "0.6355"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Bacon Broccoli Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Meghan Brand"
+        },
+        {
+          "@type": "Person",
+          "name": "Mona Hamilton"
+        },
+        {
+          "@type": "Person",
+          "name": "Alwinna Galloway"
+        },
+        {
+          "@type": "Person",
+          "name": "Thelma Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Linda Nakamura"
+        }
+      ],
+      "description": "A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "3 cups broccoli florets",
+        "½ cup low-fat yogurt",
+        "½ cup chopped red onion",
+        "¼ cup light mayonnaise",
+        "¼ cup sunflower seeds",
+        "½ cup raisins",
+        "2 Tbsp sugar",
+        "1 Tbsp lemon juice",
+        "½ cup crumbled feta cheese",
+        "4 slices cooked bacon, crumbled"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the broccoli, red onion, sunflower seeds, raisins, and crumbled bacon in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the yogurt, mayonnaise, sugar, and lemon juice to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad ingredients and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 2 hours to allow the flavors to meld."
+        }
+      ],
+      "keywords": "broccoli salad, bacon salad, yogurt dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "bacon-broccoli-salad-63",
+      "similarity": "0.6311"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Fruit Dip",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "fruit dip, orange cream cheese, marshmallow dip",
+    "description": "A simple and flavorful cream cheese dip infused with orange juice and marshmallow creme, ideal for fresh fruit.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/fruit-dip-24"
+  },
+  {
+    "name": "Stuffed Mushrooms",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "stuffed mushrooms, appetizer, bacon, cream cheese",
+    "description": "A savory appetizer of mushroom caps filled with a creamy mixture of bacon, cream cheese, and Parmesan.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/stuffed-mushrooms-32"
+  },
+  {
+    "name": "Bacon Wrapped Water Chestnuts",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "bacon-wrapped water chestnuts, sweet and savory, appetizer",
+    "description": "Sweet and savory bacon-wrapped water chestnuts marinated overnight in a mixture of soya sauce and brown sugar.",
+    "category": "Appetizer",
+    "cuisine": "American",
+    "url": "recipes/bacon-wrapped-water-chestnuts-40"
+  },
+  {
+    "name": "Jo-Ann's Homemade Iced Tea",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "homemade iced tea, sweet tea, lemonade-infused tea, refreshing drink",
+    "description": "A refreshing homemade iced tea recipe sweetened with sugar and mixed with frozen lemonade for a tangy twist.",
+    "category": "Beverage",
+    "cuisine": "American",
+    "url": "recipes/jo-anns-homemade-iced-tea-42"
+  },
+  {
+    "name": "Pasta Tie Bow and Beef",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "pasta, beef, Italian-inspired, Parmesan cheese",
+    "description": "A hearty pasta dish with sautéed beef, mushrooms, and red peppers, topped with Parmesan cheese.",
+    "category": "Main Course",
+    "cuisine": "Italian-inspired",
+    "url": "recipes/pasta-tie-bow-and-beef-146"
+  },
+  {
+    "name": "Beef Broccoli Stir-Fry",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "beef stir-fry, broccoli, soy sauce, oyster sauce",
+    "description": "A quick and flavorful stir-fry of beef sirloin and broccoli in a savory soy and oyster sauce mixture.",
+    "category": "Main Dish",
+    "cuisine": "Asian-inspired",
+    "url": "recipes/beef-broccoli-stir-fry-148"
+  },
+  {
+    "name": "Delicious Meat Loaf",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "meatloaf, cheddar cheese, ketchup glaze, classic American",
+    "description": "A classic meatloaf with a cheddar cheese and carrot mixture, topped with a sweet ketchup-mustard glaze.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/delicious-meat-loaf-156"
+  },
+  {
+    "name": "Veal Parmigiana",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "veal parmesan, breaded veal, Italian-American, tomato sauce",
+    "description": "Crispy breaded veal cutlets topped with a homemade quick tomato sauce and melted mozzarella cheese.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/veal-parmigiana-216"
+  },
+  {
+    "name": "Chicken with a Chinese Accent",
+    "author": "Suzanne Finkbeiner",
+    "keyword": "Chinese chicken, sweet and savory, baked chicken",
+    "description": "A sweet and savory chicken dish with a Chinese-inspired flavor profile, featuring soya sauce and brown sugar.",
+    "category": "Main Course",
+    "cuisine": "Chinese-American",
+    "url": "recipes/chicken-with-a-chinese-accent-245"
+  }
+]

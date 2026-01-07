@@ -1,0 +1,372 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Broccoli Casserole",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Nola Lewis"
+    },
+    {
+      "@type": "Person",
+      "name": "Tanya Allen"
+    }
+  ],
+  "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT35M",
+  "totalTime": "PT55M",
+  "recipeIngredient": [
+    "2 lb broccoli, fresh or frozen",
+    "1 can cream of chicken soup",
+    "8 oz Cheez Whiz",
+    "1 cup cooked rice",
+    "1 can mushroom soup",
+    "Butter and bread crumbs or fried onions for topping"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F for 30 to 40 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+    }
+  ],
+  "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "35 minutes",
+    "totalTime": "55 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cauliflower Broccoli Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A versatile casserole recipe that can use either cauliflower or broccoli, topped with croutons and Parmesan cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT40M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "Cauliflower or broccoli",
+        "1 can cream of celery soup",
+        "2 Tbsp mayonnaise",
+        "1/4 cup shredded Colby cheese",
+        "1/4 cup Parmesan cheese",
+        "1/2 cup croutons",
+        "Some cracker crumbs",
+        "A little butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the chosen vegetable in the microwave for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cream of celery soup, mayonnaise, and cheese to the cooked vegetable. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add croutons to the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread cracker crumbs on top of the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle Parmesan cheese over the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put butter pieces on top of the mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at 350°F for 40 minutes."
+        }
+      ],
+      "keywords": "cauliflower casserole, broccoli casserole, cheesy vegetable bake",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "40 minutes",
+        "totalTime": "50 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cauliflower-broccoli-casserole-144",
+      "similarity": "0.8463"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Supreme Broccoli Soup Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Flora Hodge"
+      },
+      "description": "A creamy broccoli casserole with a crunchy crouton topping, baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 9x9 inch pan",
+      "recipeIngredient": [
+        "1 can mushroom soup",
+        "1 head broccoli, cooked",
+        "1/2 cup grated carrot",
+        "1 Tbsp flour",
+        "Salt and pepper to taste",
+        "1/2 cup sour cream",
+        "4 Tbsp melted butter",
+        "1 Tbsp chopped onion",
+        "1/2 cup croutons",
+        "1 cup sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place cooked broccoli in a 9x9 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together mushroom soup, flour, sour cream, and seasonings. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated carrot, chopped onion, and croutons over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle with melted butter."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325°F for 1/2 hour."
+        }
+      ],
+      "keywords": "broccoli casserole, creamy soup casserole, baked vegetable dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "supreme-broccoli-soup-casserole-128",
+      "similarity": "0.8251"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Cheese Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "June Schroeder"
+      },
+      "description": "A comforting chicken and rice casserole topped with a crunchy corn flake and celery mixture.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1½ lb diced cooked chicken",
+        "1 medium onion, finely chopped",
+        "2 cups cooked rice",
+        "¼ lb grated cheddar cheese",
+        "½ cup milk",
+        "1 can Campbell's cream of celery soup",
+        "4 Tbsp butter or margarine",
+        "¾ cup crushed corn flakes",
+        "1½ cups chopped celery",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Blend together the chicken, rice, cream soup, milk, cheese, and onion in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mixture into a buttered casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Stir the corn flake crumbs into melted butter, then mix in the chopped celery."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook until the celery is hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the corn flake and celery mixture over the chicken mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 375°F oven for about ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "chicken casserole, cheesy rice bake, comfort food",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "chicken-and-cheese-casserole-244",
+      "similarity": "0.7891"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Atkinson"
+      },
+      "description": "A creamy cabbage casserole with a crunchy bread crumb topping, baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H10M",
+      "recipeIngredient": [
+        "Cabbage, cut into wedges",
+        "2 Tbsp butter",
+        "2 Tbsp flour",
+        "1 cup milk",
+        "Salt to taste",
+        "Grated cheese",
+        "8 oz Cheez Whiz",
+        "2 slices buttered bread"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook cabbage wedges until tender, then drain and cut into large pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a white sauce with butter, flour, and milk. Season with salt, grated cheese, and Cheez Whiz."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked cabbage with the white sauce mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with crumbled buttered bread."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 45 minutes."
+        }
+      ],
+      "keywords": "cabbage casserole, creamy vegetable dish, comforting main course",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cabbage-casserole-130",
+      "similarity": "0.7710"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chicken and Broccoli",
+      "author": {
+        "@type": "Person",
+        "name": "Marguerite Finkbeiner"
+      },
+      "description": "A creamy chicken and broccoli pasta bake with Parmesan cheese and mushroom soup.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 cup small shells pasta",
+        "1 can cream of mushroom soup",
+        "2 cups broccoli, cooked",
+        "1½ cups chicken, cooked and chopped",
+        "½ cup milk",
+        "½ cup Parmesan cheese",
+        "¼ tsp ground pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook the small shells pasta according to package directions. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add cooked broccoli, chopped chicken, cream of mushroom soup, milk, Parmesan cheese, and ground pepper to the cooked pasta."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Boil the mixture for 2 minutes to heat through and combine the sauce."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot with a cranberry salad."
+        }
+      ],
+      "keywords": "chicken and broccoli, pasta bake, creamy chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "chicken-and-broccoli-234",
+      "similarity": "0.7514"
+    }
+  ]
+}

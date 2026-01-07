@@ -1,0 +1,370 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "South African Lamb",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Robertson"
+  },
+  "description": "A flavorful lamb stew with dried fruits, curry powder, and orange juice, simmered to tender perfection.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "South African",
+  "prepTime": "PT20M",
+  "cookTime": "PT1H30M",
+  "totalTime": "PT1H50M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "2½ cups chopped dried fruit (apples, apricots, raisins, etc.)",
+    "1 cup hot water",
+    "1 medium onion, chopped",
+    "1 Tbsp curry powder",
+    "½ cup orange juice",
+    "2 Tbsp red wine vinegar",
+    "1 Tbsp sugar",
+    "1 tsp tomato paste or ketchup",
+    "1 to 1½ lb lamb, cubed",
+    "Rice, bulgar, or couscous for serving"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine dried fruit, orange juice, and hot water. Let stand for 1 to 2 hours to soak."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Brown the lamb cubes and drain on paper towels."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sauté the chopped onion until soft, then reduce heat to low and stir in curry powder."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the soaked fruit and 1 cup of soaking liquid to the pan. Stir in vinegar, sugar, and tomato paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the browned lamb to the pan, cover, and simmer for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Uncover and allow the liquid to reduce to desired consistency."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve with rice, bulgar, or couscous."
+    }
+  ],
+  "keywords": "South African lamb, lamb stew, curry lamb, dried fruit",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "1 hour 30 minutes",
+    "totalTime": "1 hour 50 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Roasted Lamb",
+      "author": {
+        "@type": "Person",
+        "name": "Christopher Mullin"
+      },
+      "description": "A slow-roasted lamb recipe with a flavorful garlic and rosemary paste, perfect for a tender and aromatic main course.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mediterranean",
+      "prepTime": "PT20M",
+      "cookTime": "PT6H30M",
+      "totalTime": "PT6H50M",
+      "recipeYield": "Serves 6-8",
+      "recipeIngredient": [
+        "6 pounds lamb roast",
+        "2 Tbsp olive oil",
+        "2 Tbsp butter",
+        "2 Tbsp flour",
+        "2 cloves garlic, minced",
+        "1 tsp fresh or dried rosemary"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Make a paste with olive oil, butter, garlic, and rosemary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make small holes in the lamb and insert garlic cloves or pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Smear the lamb with the prepared paste."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with flour and place in a roasting pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add a scant amount of water to the pan and sprinkle rosemary on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roast slowly at 250°F to 300°F for 6 to 7 hours or until done."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove the lid near the end to brown the lamb."
+        }
+      ],
+      "keywords": "roasted lamb, garlic and rosemary, slow cooking",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "6 hours 30 minutes",
+        "totalTime": "6 hours 50 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "roasted-lamb-218",
+      "similarity": "0.7622"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Saucy Sausages",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A flavorful Oktoberfest sausage dish baked in a rich sauce made with chili sauce, salsa, and spices.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeIngredient": [
+        "Approximately 9 Oktoberfest sausages",
+        "1 Tbsp garlic barbecue sauce",
+        "4 Tbsp HP sauce",
+        "1 cup chili sauce",
+        "1 tsp garlic salt",
+        "1 cup salsa sauce",
+        "1 tsp seasoning salt",
+        "¼ cup ketchup",
+        "1 tsp onion powder"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "First, boil sausages until almost done or brown them in a frying pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, combine the barbecue sauce, HP sauce, chili sauce, garlic salt, salsa sauce, seasoning salt, ketchup, and onion powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the sausages in the bottom of a roasting pan or baking dish. Sprinkle with the three spices (garlic salt, seasoning salt, onion powder). Cover with the sauce mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and bake in a 350 °F oven for approximately ½ hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Can be served with rice."
+        }
+      ],
+      "keywords": "Oktoberfest sausages, saucy sausages, baked sausages",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "saucy-sausages-205",
+      "similarity": "0.5751"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Caesar Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Valerie (Finkbeiner) Mullin"
+      },
+      "description": "A classic Caesar salad recipe with romaine lettuce, crumbled bacon, croutons, and a homemade dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1 romaine lettuce",
+        "6 slices bacon, cooked and crumbled",
+        "1 tsp wine vinegar",
+        "½ tsp Worcestershire sauce",
+        "2 shakes Tabasco sauce",
+        "Croutons",
+        "1 egg",
+        "1 tsp capers (optional)",
+        "3 to 4 mashed anchovies",
+        "Dressing (keeps 2 days):",
+        "⅓ cup olive oil",
+        "1 clove garlic, minced",
+        "2 Tbsp lemon",
+        "½ tsp dry mustard",
+        "¼ tsp salt and pepper",
+        "2 Tbsp Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Rub salad bowl with garlic."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wash and tear lettuce. Dry in a tea towel."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place lettuce in bowl with bacon and croutons."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Blend dressing ingredients together."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over salad and toss until leaves are coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve with freshly grated Parmesan."
+        }
+      ],
+      "keywords": "Caesar salad, bacon, croutons, homemade dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "25 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "caesar-salad-59",
+      "similarity": "0.5674"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pork Chops with Dried Fruit",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A savory and sweet dish featuring pork chops cooked with assorted dried fruits in a flavorful orange juice sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 pork chops",
+        "1½ cups assorted dried fruit (apples, peaches, pears, apricots, raisins)",
+        "1 Tbsp vegetable oil",
+        "2 cups orange juice, divided",
+        "1½ tsp cornstarch",
+        "¼ tsp allspice",
+        "½ tsp Worcestershire sauce",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat a large skillet over medium-high heat. Add oil and cook pork chops until golden brown on each side, about 6 to 8 minutes per side. Remove chops to a plate."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Reduce heat, add 1 cup orange juice to the skillet, and scrape any browned bits from the pan. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining orange juice, dried fruit, Worcestershire sauce, and allspice. Simmer for 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cornstarch with a small amount of water or juice. Stir into the skillet and cook until the sauce thickens, about 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Return pork chops to the skillet and cook until heated through. Serve with rice or couscous."
+        }
+      ],
+      "keywords": "pork chops, dried fruit, orange juice sauce, savory sweet dish",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "pork-chops-with-dried-fruit-206",
+      "similarity": "0.5354"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Club Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Linda Finkbeiner"
+      },
+      "description": "A layered salad featuring romaine lettuce, bacon, eggs, cheese, chicken, carrots, and tomatoes, topped with ranch dressing or dip.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "1 large bowl",
+      "recipeIngredient": [
+        "7 cups romaine lettuce",
+        "1 cup crisp cooked bacon, chopped",
+        "1 cup chopped hard-boiled eggs",
+        "¾ cup ranch or dip dressing",
+        "¾ cup grated cheese (marble, cheddar, etc.)",
+        "1 cup cooked chicken breast, diced",
+        "½ cup grated carrots",
+        "1 cup diced tomatoes"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients in a large bowl, layering each ingredient to look festive."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with dressing."
+        }
+      ],
+      "keywords": "layered salad, club salad, ranch dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "club-salad-68",
+      "similarity": "0.5321"
+    }
+  ]
+}

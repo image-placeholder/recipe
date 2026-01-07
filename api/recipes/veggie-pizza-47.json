@@ -1,0 +1,452 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Veggie Pizza",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Linda Nakamura"
+    },
+    {
+      "@type": "Person",
+      "name": "Teena Houston"
+    }
+  ],
+  "description": "A simple and customizable veggie pizza using crescent rolls as the crust, topped with a cream cheese mixture and various vegetables.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT30M",
+  "recipeIngredient": [
+    "2 pkg Pillsbury crescent rolls",
+    "1 cup sour cream",
+    "1/2 cup mayonnaise",
+    "2 large cream cheese",
+    "2 pkg Hidden Valley ranch dressing",
+    "Grated cheddar cheese",
+    "Veggies (broccoli, cauliflower, carrots, celery, red or green peppers, green onions)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Roll out crescent rolls on a cookie sheet and a small cake pan. Bake until golden brown. Cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix sour cream, mayonnaise, cream cheese, and ranch dressing to make the cream mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread cream mixture on cooled rolls."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with finely chopped vegetables of your choice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover with grated cheddar cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chill and cut into small pieces. Serve as hors d'oeuvres."
+    }
+  ],
+  "keywords": "veggie pizza, appetizer, crescent rolls",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "10 minutes",
+    "totalTime": "30 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza",
+      "author": {
+        "@type": "Person",
+        "name": "Alan Dick"
+      },
+      "description": "A homemade pizza recipe with a yeast-based crust, topped with spaghetti sauce, various meats, and mozzarella cheese.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT1H",
+      "cookTime": "PT20M",
+      "totalTime": "PT1H20M",
+      "recipeYield": "1 pizza",
+      "recipeIngredient": [
+        "1 to 2 Tbsp yeast",
+        "1 tsp sugar",
+        "3½ cups flour",
+        "½ tsp salt",
+        "¾ cup vegetable oil",
+        "1¼ cups warm water",
+        "1¾ cups spaghetti sauce",
+        "Sliced pepperoni",
+        "Salami",
+        "Mushrooms",
+        "Bacon",
+        "Ground beef",
+        "Pineapple",
+        "Mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve yeast in warm water with sugar. Let stand in a warm place for 10 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Measure flour and salt into a large bowl. Make a well and pour in the yeast mixture. Stir and add oil gradually, working the dough until thoroughly mixed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Knead the dough, form into a ball, and let stand in a warm place for approximately 45 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll out the dough on a floured pastry board to an even thickness. Transfer to a pizza pan or cookie sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover with spaghetti sauce, meats, mushrooms, and other toppings. Finish with mozzarella cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for approximately 20 minutes or until the crust is golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for 3 to 5 minutes before cutting and serving."
+        }
+      ],
+      "keywords": "homemade pizza, Italian-American, yeast crust",
+      "_naturalized_times": {
+        "prepTime": "1 hour",
+        "cookTime": "20 minutes",
+        "totalTime": "1 hour 20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "pizza-190",
+      "similarity": "0.6735"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Taco Ring",
+      "author": {
+        "@type": "Person",
+        "name": "Lorie Valkengoed"
+      },
+      "description": "A savory taco-flavored ring made with crescent rolls, ground beef, and cheese, served with salsa and fresh toppings.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Mexican-American",
+      "prepTime": "PT20M",
+      "cookTime": "PT16M",
+      "totalTime": "PT36M",
+      "recipeYield": "1 ring",
+      "recipeIngredient": [
+        "1 lb lean ground hamburger",
+        "1 cup water",
+        "1 packet taco seasoning mix",
+        "2 cups shredded lettuce",
+        "1 cup grated mild cheddar cheese",
+        "1 cup salsa dip",
+        "2 packages Pillsbury crescent rolls",
+        "1 tomato, diced",
+        "1 green pepper (optional)",
+        "Sour cream for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Fry the hamburger and let it cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ¼ cup water and taco seasoning mix to the fried hamburger."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lay the crescent roll dough on the outside edge of a 15-inch pizza-style pan, forming a circle with the pointed edge out."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Scoop the hamburger mixture onto the dough, leaving a 5-inch wide circle in the center."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add shredded cheese on top of the hamburger mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the pointed edge of the pastry over the beef mixture and press to seal."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for approximately 16 minutes or as per the directions on the pastry package until golden brown."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let cool slightly before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, remove the top from the green pepper and scoop out the insides. Place salsa inside the green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the green pepper in the middle of the ring along with shredded lettuce and tomato. Serve with sour cream."
+        }
+      ],
+      "keywords": "taco ring, crescent roll recipe, taco bake, Mexican-inspired",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "16 minutes",
+        "totalTime": "36 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "taco-ring-183",
+      "similarity": "0.6470"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Rolls",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "European",
+      "prepTime": "PT30M",
+      "cookTime": "PT3H",
+      "totalTime": "PT3H30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 head cabbage",
+        "½ lb ground pork",
+        "1 lb ground beef",
+        "1 medium onion",
+        "2 Tbsp lard",
+        "¾ cup uncooked rice (Uncle Ben's)",
+        "1 tsp salt",
+        "½ tsp black pepper",
+        "1 (24 oz) can tomato juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chop the onion and fry in lard for 10 minutes until softened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
+        }
+      ],
+      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "3 hours",
+        "totalTime": "3 hours 30 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cabbage-rolls-167",
+      "similarity": "0.6357"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Bacon Broccoli Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Meghan Brand"
+        },
+        {
+          "@type": "Person",
+          "name": "Mona Hamilton"
+        },
+        {
+          "@type": "Person",
+          "name": "Alwinna Galloway"
+        },
+        {
+          "@type": "Person",
+          "name": "Thelma Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Linda Nakamura"
+        }
+      ],
+      "description": "A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "3 cups broccoli florets",
+        "½ cup low-fat yogurt",
+        "½ cup chopped red onion",
+        "¼ cup light mayonnaise",
+        "¼ cup sunflower seeds",
+        "½ cup raisins",
+        "2 Tbsp sugar",
+        "1 Tbsp lemon juice",
+        "½ cup crumbled feta cheese",
+        "4 slices cooked bacon, crumbled"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the broccoli, red onion, sunflower seeds, raisins, and crumbled bacon in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the yogurt, mayonnaise, sugar, and lemon juice to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad ingredients and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 2 hours to allow the flavors to meld."
+        }
+      ],
+      "keywords": "broccoli salad, bacon salad, yogurt dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "bacon-broccoli-salad-63",
+      "similarity": "0.6256"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Fairest Wheels",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A chilled, rolled tortilla snack filled with a spicy chicken and cheese mixture.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "4 oz light cream cheese, softened",
+        "1 cup finely chopped cooked chicken",
+        "2 Tbsp low-fat sour cream",
+        "½ cup chopped lettuce",
+        "4 Tbsp red pepper jelly",
+        "2 cups reduced-fat shredded cheddar cheese",
+        "3 (9-inch) flour tortillas",
+        "⅔ cup chopped green bell pepper",
+        "⅓ cup minced green onions and red pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a medium bowl, combine chicken, lettuce, cheddar cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In another bowl, beat cream cheese and sour cream together until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the cream cheese mixture to the chicken mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread ⅓ cup of the chicken and cream cheese mixture onto one side of a tortilla, leaving a ½-inch border at the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with ⅓ cup shredded cheese and top with red pepper jelly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roll up the tortilla tightly and seal the edge."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Repeat with remaining tortillas and filling mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap each roll in plastic wrap and refrigerate for 2 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Trim the ends off each roll and cut into 8 slices."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve cold."
+        }
+      ],
+      "keywords": "chicken roll-ups, cheese snack, cold appetizer",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "fairest-wheels-36",
+      "similarity": "0.6194"
+    }
+  ]
+}

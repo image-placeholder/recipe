@@ -1,0 +1,336 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Wilting Spinach Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Valerie (Finkbeiner) Mullin"
+  },
+  "description": "A warm spinach salad with garlic, almonds, and a balsamic vinegar dressing.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1½ lb fresh spinach",
+    "4 tsp balsamic vinegar",
+    "9 Tbsp olive oil",
+    "3 garlic cloves",
+    "½ cup slivered almonds",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash and tear spinach. Dry and pat with a tea towel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small skillet, heat olive oil and crush garlic into it."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add almonds and stir until lightly browned."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add balsamic vinegar and turn off heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Immediately pour the hot dressing over the spinach salad and toss."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately."
+    }
+  ],
+  "keywords": "spinach salad, wilting spinach, warm salad",
+  "_naturalized_times": {
+    "prepTime": "10 minutes",
+    "cookTime": "5 minutes",
+    "totalTime": "15 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spinach Lettuce Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Jo Anne Pickering"
+      },
+      "description": "A fresh and versatile green salad with a homemade balsamic dressing and a crunchy topping made from toasted almonds, sesame seeds, and noodle soup mix.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeIngredient": [
+        "Dressing: ½ cup balsamic vinegar",
+        "½ cup olive oil",
+        "¼ cup white sugar",
+        "1½ cup soya sauce",
+        "Toppings: 1 Tbsp butter",
+        "1 pkg noodle soup mix (without seasoning packet)",
+        "1 pkg slivered almonds",
+        "1 pkg sesame seeds",
+        "Any type of green leafy vegetable (spinach, lettuce, broccoli, coleslaw)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix the dressing ingredients together and refrigerate until ready to use."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter in a pan and add almonds, noodle soup mix (without spice packet), and sesame seeds. Toast until lightly browned."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Prepare the salad greens and store in the refrigerator."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, pour the dressing over the salad and top with the toasted almond mixture."
+        }
+      ],
+      "keywords": "spinach salad, lettuce salad, homemade dressing, crunchy topping",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "spinach-lettuce-salad-83",
+      "similarity": "0.7798"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Onion Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Wallace Pfaff"
+        },
+        {
+          "@type": "Person",
+          "name": "Joanne Pickering"
+        }
+      ],
+      "description": "A simple onion salad marinated in a sweet and tangy dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H10M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 Spanish onions, thinly sliced",
+        "1 1/2 tsp salt",
+        "1/2 cup white sugar",
+        "1 cup mayonnaise or salad dressing",
+        "1/3 cup water",
+        "1/3 cup vinegar",
+        "1 tsp celery seed"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate the thinly sliced onions with salt, sugar, water, and vinegar overnight."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the marinade well in the morning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add mayonnaise (or salad dressing) and celery seed to the drained onions."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chill until ready to serve."
+        }
+      ],
+      "keywords": "onion salad, marinated onions, sweet and tangy salad",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 10 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "onion-salad-74",
+      "similarity": "0.6881"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Strawberry Tossed Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Donelda Lewis"
+      },
+      "description": "A fresh and fruity salad with mixed greens, strawberries, and a sweet vinaigrette.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "4 cups torn Bibb or Boston lettuce",
+        "8 cups torn romaine lettuce",
+        "2½ cups sliced fresh strawberries",
+        "1 cup (4 oz) shredded Monterey Jack cheese",
+        "½ cup slivered almonds, toasted or coated with sugar",
+        "½ cup vegetable oil",
+        "⅓ cup white sugar",
+        "¼ cup cider or red wine vinegar",
+        "1 garlic clove, minced",
+        "¼ tsp salt",
+        "¼ tsp paprika",
+        "Pinch white pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the first 7 ingredients (oil, sugar, vinegar, garlic, salt, paprika, and white pepper) in a jar with a tight-fitting lid and shake well to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, toss salad greens, strawberries, cheese, and almonds in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle with the prepared dressing and toss to coat."
+        }
+      ],
+      "keywords": "strawberry salad, fruit salad, sweet salad dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "strawberry-tossed-salad-96",
+      "similarity": "0.6714"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sauerkraut Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the dressing cool to room temperature."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the cooled dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+        }
+      ],
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "sauerkraut-salad-82",
+      "similarity": "0.6620"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Salad Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Marie Dinney"
+      },
+      "description": "A cooked salad dressing made with eggs, sugar, mustard, and vinegar, thickened with cornstarch.",
+      "recipeCategory": "Salad Dressing",
+      "recipeCuisine": "American",
+      "prepTime": "PT5M",
+      "cookTime": "PT8M",
+      "totalTime": "PT13M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 tsp salt",
+        "2 eggs",
+        "1 cup white sugar",
+        "2 tsp dry mustard",
+        "1 cup vinegar",
+        "3 Tbsp cornstarch",
+        "1 cup 2% milk"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients thoroughly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook in the microwave for approximately 8 minutes."
+        }
+      ],
+      "keywords": "cooked salad dressing, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "5 minutes",
+        "cookTime": "8 minutes",
+        "totalTime": "13 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "salad-dressing-102",
+      "similarity": "0.6416"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Potato Soup",
+    "author": "Barbara Ratz",
+    "keyword": "potato soup, creamy soup, comfort food",
+    "description": "A creamy potato soup with carrots, onions, and bacon, finished with sour cream and butter for added richness.",
+    "category": "Soup",
+    "cuisine": "American",
+    "url": "recipes/potato-soup-125"
+  },
+  {
+    "name": "Swedish Potatoes",
+    "author": "Barbara Ratz",
+    "keyword": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+    "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+    "category": "Side Dish",
+    "cuisine": "American",
+    "url": "recipes/swedish-potatoes-137"
+  },
+  {
+    "name": "Jelly Roll Style Meat Loaf",
+    "author": "Barbara Ratz",
+    "keyword": "meat loaf, jelly roll, mozzarella cheese, baked",
+    "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+    "category": "Main Course",
+    "cuisine": "American",
+    "url": "recipes/jelly-roll-style-meat-loaf-154"
+  },
+  {
+    "name": "Pizza Meatball",
+    "author": "Barbara Ratz",
+    "keyword": "pizza, meatball, Italian-American, baked",
+    "description": "",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/pizza-meatball-193"
+  }
+]

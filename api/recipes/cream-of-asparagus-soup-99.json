@@ -1,0 +1,340 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cream of Asparagus Soup",
+  "author": {
+    "@type": "Person",
+    "name": "Bonnie McNutt"
+  },
+  "description": "A creamy and smooth asparagus soup made with canned asparagus, perfect for serving year-round with optional fresh garnishes.",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT40M",
+  "totalTime": "PT1H",
+  "recipeYield": "Multiple servings",
+  "recipeIngredient": [
+    "2 medium onions, chopped",
+    "6 chicken bouillon cubes",
+    "2 (12 oz) cans asparagus tips or cuttings",
+    "4 celery sticks, chopped",
+    "¼ cup (125 mL) butter",
+    "6 Tbsp (90 mL) flour",
+    "1 cup (250 mL) whipping cream",
+    "6 cups (1½ L) water",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Chop onions and celery medium fine and sauté in butter until limp but not brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add flour and stir for 1 minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gradually add chicken stock (dissolve bouillon cubes in water) and stir until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to a boil, then add canned asparagus including liquid and simmer for 30 to 40 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Purée the soup in a blender and press through a sieve for a smooth texture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To serve, bring soup to a boil, remove from heat, and stir in whipping cream."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season to taste and keep warm over low heat without boiling."
+    }
+  ],
+  "keywords": "asparagus soup, creamy soup, canned asparagus",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "40 minutes",
+    "totalTime": "1 hour"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cream of Cucumber Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Martine Bercier"
+      },
+      "description": "A refreshing and creamy cucumber soup made with chicken broth, milk, and a hint of cayenne pepper.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "French",
+      "prepTime": "PT10M",
+      "cookTime": "PT8M",
+      "totalTime": "PT18M",
+      "recipeIngredient": [
+        "1 Tbsp olive oil",
+        "1 onion",
+        "3 large cucumbers, peeled, seeds removed",
+        "¼ cup flour",
+        "3¼ cups chicken broth",
+        "1 pinch cayenne pepper",
+        "½ tsp nutmeg",
+        "½ cup milk",
+        "1 Tbsp fresh dill"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In the microwave, cook onions and olive oil on High for 2 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dice cucumbers and add to onions. Cook until soft."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Use a blender to purée the cucumbers (hand blender works well)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the flour with ¼ cup chicken broth. Add to the cucumbers, along with the remaining chicken broth, cayenne, and nutmeg. Cook 6 to 8 minutes on High."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the milk and dill. Serve."
+        }
+      ],
+      "keywords": "cucumber soup, creamy soup, refreshing soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "8 minutes",
+        "totalTime": "18 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cream-of-cucumber-soup-119",
+      "similarity": "0.6796"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and a hint of sweetness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "1 Tbsp liquid sweetener",
+        "½ head cabbage",
+        "1 can French-style beans (optional)",
+        "3 cups tomato juice",
+        "4 cups water",
+        "1 large can mushrooms",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery, including leaves and tips",
+        "1 tsp lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cabbage-soup-106",
+      "similarity": "0.6508"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Betty Glanville"
+      },
+      "description": "A hearty cabbage soup with vegetables and optional sweetener.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "½ head cabbage",
+        "1 can French-style beans, drained",
+        "3 cups tomato juice",
+        "1 large can mushrooms",
+        "4 cups water",
+        "Salt, garlic pepper to taste",
+        "6 stalks celery leaves and tips",
+        "1 tsp lemon juice",
+        "1 Tbsp liquid sweetener (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add all ingredients to a large pot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook at low heat for 1½ hours."
+        }
+      ],
+      "keywords": "cabbage soup, vegetable soup, hearty soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cabbage-soup-109",
+      "similarity": "0.6508"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "French Onion Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Katherine Ratz"
+      },
+      "description": "A classic French onion soup made with caramelized onions, consomme, and topped with melted mozzarella cheese and croutons.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "French",
+      "prepTime": "PT20M",
+      "cookTime": "PT2H30M",
+      "totalTime": "PT2H50M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "1/4 cup butter",
+        "2 large Spanish onions",
+        "1 can consomme",
+        "1 can water",
+        "4 Oxo cubes dissolved in 2 cups hot water",
+        "Salt to flavour",
+        "4 slices French bread",
+        "1 cup shredded mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt butter. Saute onions until transparent."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add to Oxo, consomme and water. Simmer about 2 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put in onion soup bowls, add a slice of French bread on top of each one and add shredded mozzarella cheese sprinkled over each."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put in oven at 350°F for 30 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "French onion soup, caramelized onions, melted cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours 30 minutes",
+        "totalTime": "2 hours 50 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "french-onion-soup-115",
+      "similarity": "0.6291"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Creamy Broccoli Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy and comforting broccoli soup made with potatoes, chicken broth, and a touch of Miracle Whip for richness.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT10M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "2 cups chicken broth",
+        "1 cup cubed peeled potatoes",
+        "4 cups broccoli",
+        "1/2 cup Miracle Whip",
+        "1/2 tsp cumin (optional)",
+        "Salt and pepper to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large saucepan, bring chicken broth to a boil. Add potatoes and broccoli. Simmer for 10 minutes or until tender."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Purée the mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the puréed mixture back into the saucepan. Using a whisk, blend in Miracle Whip and seasonings."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the soup thoroughly, stirring occasionally, until warmed through. Serve hot."
+        }
+      ],
+      "keywords": "creamy broccoli soup, potato soup, comforting soup",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "creamy-broccoli-soup-112",
+      "similarity": "0.6274"
+    }
+  ]
+}

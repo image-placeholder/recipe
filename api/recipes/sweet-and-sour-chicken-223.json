@@ -1,0 +1,384 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Sweet and Sour Chicken",
+  "author": {
+    "@type": "Person",
+    "name": "Mary Kenney"
+  },
+  "description": "A simple and flavorful sweet and sour chicken recipe using onion soup mix and apricot jam.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT5M",
+  "cookTime": "PT2H",
+  "totalTime": "PT2H5M",
+  "recipeIngredient": [
+    "1 pkg onion soup mix",
+    "½ cup apricot jam",
+    "1 small bottle Russian dressing"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix together onion soup mix, apricot jam, and Russian dressing in a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the mixture over the chicken in a baking dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F for 2 hours."
+    }
+  ],
+  "keywords": "sweet and sour chicken, easy chicken recipe, apricot jam chicken",
+  "_naturalized_times": {
+    "prepTime": "5 minutes",
+    "cookTime": "2 hours",
+    "totalTime": "2 hours 5 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet & Sour Pineapple Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "A sweet and tangy chicken dish baked in a pineapple-based sauce, perfect for a comforting meal.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "⅗ cup (¼ cup + 2 Tbsp) crushed pineapple, drained",
+        "½ cup vinegar",
+        "2 Tbsp light brown sugar",
+        "½ tsp salt",
+        "¼ to ½ cup ketchup",
+        "¼ cup water",
+        "4 chicken breasts",
+        "1 Tbsp cornstarch"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Simmer the chicken breasts in water until cooked through, turning occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a pan, combine crushed pineapple, vinegar, brown sugar, salt, ketchup, and water. Cook over heat, stirring until the sauce thickens."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken in a casserole dish and pour the sweet and sour sauce over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover the dish with tinfoil and bake at 325°F for 1½ hours."
+        }
+      ],
+      "keywords": "sweet and sour chicken, pineapple chicken, baked chicken",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 45 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "sweet-sour-pineapple-chicken-222",
+      "similarity": "0.6665"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sweet and Sour Pineapple with Chicken and Ginger",
+      "author": {
+        "@type": "Person",
+        "name": "Dave MacLeod"
+      },
+      "description": "A classic sweet and sour dish featuring parboiled chicken legs in a tangy pineapple and ginger sauce, served over fried rice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Chinese-Canadian",
+      "prepTime": "PT20M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "4 to 6 chicken legs",
+        "1 to 2 tsp ginger",
+        "1 Tbsp vegetable oil",
+        "1/2 cup chopped onions",
+        "1 tsp salt",
+        "1/4 cup sugar (white or brown)",
+        "1 cup celery slices",
+        "1/4 cup vinegar",
+        "1 can (10 oz) mushrooms, drained",
+        "1 chicken Oxo cube or pouch",
+        "1 1/2 cups hot water",
+        "1 can (19 oz) pineapple",
+        "1/4 cup cold water",
+        "4 tsp cornstarch",
+        "1/4 cup soya sauce"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Rinse and separate chicken legs at the joint. Parboil for 15 to 20 minutes to remove excess fat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Saute onions and celery in vegetable oil until tender. Add drained mushrooms and cook briefly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dissolve chicken Oxo cube in hot water. Add soya sauce, ginger, salt, sugar, and vinegar. Bring to a boil."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cornstarch with cold water until smooth. Pour into boiling sauce and stir frequently until thickened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add drained pineapple to the sauce. Adjust seasoning with pineapple juice if desired."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lay parboiled chicken pieces in a greased casserole dish. Pour sauce over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 20 to 25 minutes until bubbling.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT20M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over Chicken Vegetable Fried Rice."
+        }
+      ],
+      "keywords": "sweet and sour chicken, pineapple chicken, ginger sauce",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "sweet-and-sour-pineapple-with-chicken-and-ginger-219",
+      "similarity": "0.6413"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Classy Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Ina Browning"
+      },
+      "description": "A creamy, curry-flavored chicken dish with asparagus or broccoli and a cheddar cheese topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "4 to 6 servings",
+      "recipeIngredient": [
+        "3 skinless, boneless chicken breasts",
+        "1 can cream of chicken soup",
+        "½ cup mayonnaise",
+        "¼ tsp pepper",
+        "1 tsp curry powder",
+        "3 Tbsp oil",
+        "1 tsp lemon juice",
+        "1 (10 oz) pkg frozen asparagus or broccoli",
+        "1 cup grated cheddar cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the chicken into 2×4 inch pieces and sprinkle with pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Saute the chicken slowly in oil over medium heat until white and clear, about 6 minutes. Drain."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook asparagus or broccoli until tender crisp, drain, and arrange in the bottom of a buttered 7-inch diameter casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the cooked chicken on top of the asparagus or broccoli layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cream of chicken soup, mayonnaise, curry powder, and lemon juice together and pour over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle the grated cheddar cheese over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, uncovered, at 375 °F for 30 to 35 minutes.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 375,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "creamy chicken, curry chicken, asparagus, cheddar cheese",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "classy-chicken-243",
+      "similarity": "0.6247"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Curry Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Leslie Jenni"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "International",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "6 to 8 boneless chicken breasts",
+        "¼ cup Dijon mustard",
+        "2 Tbsp prepared mustard",
+        "1 Tbsp lime juice",
+        "¼ cup butter",
+        "1 tsp curry powder",
+        "½ cup honey"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 350°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients except chicken breasts in a microwave-safe bowl until butter is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken breasts in a shallow baking dish sprayed with nonstick spray."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the curry mixture over the chicken breasts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake uncovered for 1 hour, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve over rice."
+        }
+      ],
+      "keywords": "curry chicken, baked chicken, honey mustard chicken",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "curry-chicken-230",
+      "similarity": "0.6117"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Easy Curried Chicken",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "International",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeIngredient": [
+        "Chicken pieces",
+        "2 cans cream of chicken soup",
+        "¾ cup mayonnaise",
+        "1 tsp curry powder (or to taste)",
+        "Broccoli and carrots, cut into bite-size pieces",
+        "Bread crumbs for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Grease the bottom of a pan and layer with vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange chicken pieces on top of the vegetables."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix cream of chicken soup, mayonnaise, and curry powder."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the soup mixture over the chicken."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle bread crumbs on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 375°F for 1 hour."
+        }
+      ],
+      "keywords": "curried chicken, creamy chicken, baked chicken casserole",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "easy-curried-chicken-231",
+      "similarity": "0.6093"
+    }
+  ]
+}

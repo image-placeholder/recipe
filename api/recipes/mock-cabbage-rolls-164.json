@@ -1,0 +1,392 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Mock Cabbage Rolls",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Lori Allen"
+    },
+    {
+      "@type": "Person",
+      "name": "Betty Macisaac"
+    }
+  ],
+  "description": "A casserole-style dish mimicking cabbage rolls, featuring a savory ground beef and rice mixture layered over shredded cabbage and topped with cheddar cheese.",
+  "recipeCategory": "Casserole",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT45M",
+  "totalTime": "PT1H5M",
+  "recipeYield": "1 large casserole",
+  "recipeIngredient": [
+    "1 lb hamburger",
+    "1 tsp garlic salt",
+    "1 onion, chopped",
+    "1 cup uncooked rice",
+    "Salt and pepper to taste",
+    "1 can tomato soup",
+    "1 can mushrooms, drained",
+    "1 can stewed tomatoes",
+    "1 tsp seasoning salt",
+    "1 cabbage, shredded",
+    "1 tsp onion powder",
+    "2 cups grated cheddar cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown hamburger with chopped onion, salt, pepper, mushrooms, seasoning salt, onion powder, and garlic salt in a skillet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add rice, tomatoes, and soup to the browned hamburger mixture; mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Shred cabbage and place in the bottom of a large casserole dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the hamburger mixture on top of the cabbage layer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover and bake in a preheated 350°F oven for 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from oven, sprinkle cheddar cheese on top, cover, and return to oven for an additional 15 to 30 minutes, or until cabbage is cooked and cheese is melted."
+    }
+  ],
+  "keywords": "mock cabbage rolls, casserole, cheesy cabbage",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "45 minutes",
+    "totalTime": "1 hour 5 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Rolls",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "European",
+      "prepTime": "PT30M",
+      "cookTime": "PT3H",
+      "totalTime": "PT3H30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 head cabbage",
+        "½ lb ground pork",
+        "1 lb ground beef",
+        "1 medium onion",
+        "2 Tbsp lard",
+        "¾ cup uncooked rice (Uncle Ben's)",
+        "1 tsp salt",
+        "½ tsp black pepper",
+        "1 (24 oz) can tomato juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chop the onion and fry in lard for 10 minutes until softened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
+        }
+      ],
+      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "3 hours",
+        "totalTime": "3 hours 30 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cabbage-rolls-167",
+      "similarity": "0.7196"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Brenda Atkinson"
+      },
+      "description": "A creamy cabbage casserole with a crunchy bread crumb topping, baked until golden.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H10M",
+      "recipeIngredient": [
+        "Cabbage, cut into wedges",
+        "2 Tbsp butter",
+        "2 Tbsp flour",
+        "1 cup milk",
+        "Salt to taste",
+        "Grated cheese",
+        "8 oz Cheez Whiz",
+        "2 slices buttered bread"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook cabbage wedges until tender, then drain and cut into large pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make a white sauce with butter, flour, and milk. Season with salt, grated cheese, and Cheez Whiz."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked cabbage with the white sauce mixture."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with crumbled buttered bread."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 45 minutes."
+        }
+      ],
+      "keywords": "cabbage casserole, creamy vegetable dish, comforting main course",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cabbage-casserole-130",
+      "similarity": "0.7024"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Nola Lewis"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanya Allen"
+        }
+      ],
+      "description": "A classic broccoli casserole with a cheesy, soup-based sauce and a crunchy topping.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeIngredient": [
+        "2 lb broccoli, fresh or frozen",
+        "1 can cream of chicken soup",
+        "8 oz Cheez Whiz",
+        "1 cup cooked rice",
+        "1 can mushroom soup",
+        "Butter and bread crumbs or fried onions for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Partially cook broccoli and drain. Place in a large casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix together Cheez Whiz, cream of chicken soup, mushroom soup, and cooked rice. Pour over broccoli."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 30 to 40 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with butter and bread crumbs or a can of fried onions before serving."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy casserole, comforting main dish",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "broccoli-casserole-129",
+      "similarity": "0.6432"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanor Beaver"
+      },
+      "description": "A creamy broccoli casserole topped with a cheesy bread crumb mixture, perfect for a comforting vegetable side.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "2 heads broccoli, precooked",
+        "1 cup celery, precooked",
+        "1 can mushroom soup",
+        "½ cup grated cheese",
+        "1 Tbsp melted margarine",
+        "½ cup sour cream",
+        "1 cup bread crumbs"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix together broccoli, celery, and mushroom soup. Place in a casserole dish."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Make the topping by combining grated cheese, melted margarine, sour cream, and bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread the topping over the casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 325 °F to 350 °F for 25 to 30 minutes."
+        }
+      ],
+      "keywords": "broccoli casserole, cheesy, comforting vegetable side",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "40 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "broccoli-casserole-133",
+      "similarity": "0.6432"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "T.V. Mix",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Donald Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Margaret Beaver"
+        },
+        {
+          "@type": "Person",
+          "name": "Brenda Martene"
+        },
+        {
+          "@type": "Person",
+          "name": "Phyllis Lightfoot"
+        }
+      ],
+      "description": "A savory and crunchy snack mix featuring pretzels, Chex cereals, nuts, and a blend of seasonings, perfect for munching.",
+      "recipeCategory": "Snack",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H40M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 pkg pretzel sticks, broken into pieces",
+        "1 pkg rice Chex (or Cheerios)",
+        "1 pkg wheat Chex (or Shreddies)",
+        "1 lb salted peanuts",
+        "1 cup salad oil",
+        "½ cup butter",
+        "1 tsp Worcestershire sauce",
+        "1 tsp celery salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Melt the butter in a saucepan or microwave-safe bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the salad oil, Worcestershire sauce, and celery salt to the melted butter and stir to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large roasting pan, combine the broken pretzels, Chex cereals, and salted peanuts."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the butter and oil mixture over the cereal and nut mixture, stirring until everything is evenly coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated 200°F oven for 1½ hours, stirring occasionally."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep the roasting pan covered during baking, stirring every 15-20 minutes to ensure even toasting."
+        }
+      ],
+      "keywords": "snack mix, Chex mix, party snack, savory snack",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 40 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "tv-mix-45",
+      "similarity": "0.6250"
+    }
+  ]
+}

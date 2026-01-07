@@ -1,0 +1,362 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Cheddar Baked Potato Slices",
+  "author": {
+    "@type": "Person",
+    "name": "Ina Browning"
+  },
+  "description": "Thinly sliced baking potatoes baked with cheddar cheese and a creamy mushroom soup sauce.",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT55M",
+  "totalTime": "PT1H10M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "4 medium baking potatoes, cut into ¼ inch slices",
+    "1 can cream of mushroom soup",
+    "½ tsp paprika",
+    "½ tsp pepper",
+    "1 cup shredded cheddar cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, combine cream of mushroom soup, paprika, and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange potato slices in overlapping rows in a greased 2-quart oblong baking dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle shredded cheddar cheese over the potatoes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spoon the soup mixture evenly over the cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the dish with foil and bake at 400°F for 45 minutes.",
+      "cookMethod": "Bake",
+      "tool": "Oven",
+      "temperature": {
+        "@type": "Temperature",
+        "name": "oven",
+        "value": 400,
+        "unitCode": "FAR"
+      },
+      "duration": "PT45M"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Uncover and continue baking for an additional 10 minutes, or until potatoes are fork-tender."
+    }
+  ],
+  "keywords": "baked potatoes, cheddar cheese, creamy sauce",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "55 minutes",
+    "totalTime": "1 hour 10 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sliced Baked Potatoes",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Robertson"
+      },
+      "description": "A simple yet elegant baked potato dish featuring thinly sliced potatoes topped with melted cheddar and Parmesan cheese, and fresh herbs.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 servings",
+      "recipeIngredient": [
+        "4 medium baking potatoes",
+        "2-3 Tbsp melted butter",
+        "2-3 Tbsp fresh chopped herbs (such as parsley, chives, thyme, or sage)",
+        "2 Tbsp grated cheddar cheese",
+        "1½ Tbsp Parmesan cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Scrub and rinse the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut the potatoes crosswise into thin slices, but not all the way through. Use the handle of a wooden spoon on either side of the potato to guide the knife."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the potatoes on a baking sheet and fan them slightly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle the potatoes with melted butter and sprinkle with fresh herbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 425°F for about 50 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with cheddar and Parmesan cheese and return to the oven until the cheese is lightly browned and the potatoes are soft inside."
+        }
+      ],
+      "keywords": "baked potatoes, sliced potatoes, cheesy potatoes, herbed potatoes",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "1 hour 5 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "sliced-baked-potatoes-138",
+      "similarity": "0.7901"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Swedish Potatoes",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "description": "A creamy mashed potato casserole topped with a buttery breadcrumb and cheese crust, serving 10 to 12 people.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT30M",
+      "totalTime": "PT50M",
+      "recipeYield": "10-12 servings",
+      "recipeIngredient": [
+        "12 large potatoes",
+        "2 slightly beaten eggs",
+        "1 cup sour cream",
+        "1 tsp salt",
+        "¾ cup bread crumbs",
+        "2 Tbsp butter",
+        "1¼ tsp butter",
+        "1 (8 oz) package cream cheese",
+        "2 tsp onion salt or chopped onion"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cook and mash the potatoes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix in the remaining ingredients except for the bread crumbs, additional butter, and grated cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Put the mashed potato mixture into a greased 9x13 inch pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Dot the top with butter and sprinkle with bread crumbs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake, covered, at 350°F for 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle grated cheese over the bread crumbs on top and return to the oven until the cheese is melted and bubbly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To reheat, cover with foil (shiny side in) and heat slowly at 250°F to 300°F."
+        }
+      ],
+      "keywords": "mashed potato casserole, Swedish potatoes, cheesy potato bake",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "50 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "swedish-potatoes-137",
+      "similarity": "0.7303"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Potato Casserole",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Heather Clarke"
+        },
+        {
+          "@type": "Person",
+          "name": "M. Leanne Kenney"
+        }
+      ],
+      "description": "A hearty potato casserole made with frozen hash browns, cream soups, and grated cheese.",
+      "recipeCategory": "Side Dish",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 casserole",
+      "recipeIngredient": [
+        "1 (2 lb) bag frozen hash browns",
+        "1 can cream of celery soup",
+        "1 can cream of mushroom soup",
+        "500 mL sour cream",
+        "1 cup grated cheese",
+        "¼ cup diced onions"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together in a shallow pan until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT1H"
+        }
+      ],
+      "keywords": "potato casserole, hash browns, creamy, cheesy",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "potato-casserole-141",
+      "similarity": "0.7098"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cream of Potato Soup",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A rich and creamy potato soup enhanced with Campbell's soup base, leeks, and mushrooms, topped with shredded cheddar cheese.",
+      "recipeCategory": "Soup",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT2H30M",
+      "totalTime": "PT2H45M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "4 to 6 cups cooked potatoes, cubed",
+        "1 square Campbell's potato soup base",
+        "Salt and pepper to taste",
+        "Garlic salt to taste",
+        "1 to 2 cups finely chopped mushrooms",
+        "2 to 3 leeks, chopped fine",
+        "Shredded cheddar cheese (amount desired)",
+        "Water or milk (as needed for consistency)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, combine all ingredients except cheese."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring to a boil, stirring often, then simmer for 2 to 3 hours, adding more liquid if necessary."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add shredded cheddar cheese during the last 30 minutes of simmering."
+        }
+      ],
+      "keywords": "cream of potato soup, cheesy soup, slow-cooked soup",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "2 hours 30 minutes",
+        "totalTime": "2 hours 45 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cream-of-potato-soup-126",
+      "similarity": "0.6854"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Ham & Potato Casserole",
+      "author": {
+        "@type": "Person",
+        "name": "Shelley Kinsman"
+      },
+      "description": "A layered ham, potato, and cheese casserole cooked in a slow cooker.",
+      "recipeCategory": "Casserole",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT8H",
+      "totalTime": "PT8H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "8 slices ham",
+        "8 to 10 medium potatoes, sliced",
+        "2 onions, sliced thin",
+        "1 cup grated cheese",
+        "Salt and pepper to taste",
+        "Cream of mushroom or celery soup",
+        "Paprika"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put half of the ham, potatoes, onions, cheese, salt, and pepper in a slow cooker."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the remaining half of the ingredients for the second layer."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Top with soup and sprinkle with paprika."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook on slow for 8 to 10 hours or on high for 4 hours."
+        }
+      ],
+      "keywords": "ham, potato, casserole, slow cooker",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "8 hours",
+        "totalTime": "8 hours 20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "ham-potato-casserole-209",
+      "similarity": "0.6711"
+    }
+  ]
+}

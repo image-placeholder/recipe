@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Pickled Eggs",
+    "author": "Margaret Beaver",
+    "keyword": "pickled eggs, tangy snack, preserved eggs",
+    "description": "Tangy pickled eggs made with vinegar, mustard, and spices, perfect for snacking or as a side dish.",
+    "category": "Snack",
+    "cuisine": "American",
+    "url": "recipes/pickled-eggs-35"
+  },
+  {
+    "name": "T.V. Mix",
+    "author": "Donald Finkbeiner, Margaret Beaver, Brenda Martene, Phyllis Lightfoot",
+    "keyword": "snack mix, Chex mix, party snack, savory snack",
+    "description": "A savory and crunchy snack mix featuring pretzels, Chex cereals, nuts, and a blend of seasonings, perfect for munching.",
+    "category": "Snack",
+    "cuisine": "American",
+    "url": "recipes/tv-mix-45"
+  },
+  {
+    "name": "Hot Potato Salad",
+    "author": "Margaret Beaver",
+    "keyword": "hot potato salad, vinegar dressing, warm salad",
+    "description": "A warm potato salad dressed with a tangy vinegar-based sauce.",
+    "category": "Salad",
+    "cuisine": "American",
+    "url": "recipes/hot-potato-salad-86"
+  },
+  {
+    "name": "Spaghetti Sauce",
+    "author": "Margaret Beaver",
+    "keyword": "spaghetti sauce, homemade sauce, Italian-American cuisine",
+    "description": "A hearty spaghetti sauce made with ground hamburger, vegetables, and a blend of herbs and spices.",
+    "category": "Main Course",
+    "cuisine": "Italian-American",
+    "url": "recipes/spaghetti-sauce-187"
+  }
+]

@@ -1,0 +1,386 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Fresh Broccoli Mandarin Salad",
+  "author": {
+    "@type": "Person",
+    "name": "Sandra Vandeworp (Finkbeiner)"
+  },
+  "description": "A refreshing salad featuring fresh broccoli, mandarin oranges, mushrooms, and a rich, creamy dressing with a hint of mustard.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT30M",
+  "recipeYield": "10 to 12 servings",
+  "recipeIngredient": [
+    "1 egg plus 1 egg yolk, slightly beaten",
+    "½ cup sugar",
+    "1½ tsp cornstarch",
+    "1 tsp mustard",
+    "¼ cup vinegar",
+    "¼ cup water",
+    "3 Tbsp softened butter",
+    "½ cup mayonnaise",
+    "6 bacon strips, cooked and crumbled",
+    "2 cups sliced fresh mushrooms",
+    "½ cup slivered almonds, toasted",
+    "1 cup drained mandarin oranges",
+    "½ medium red onion, sliced into rings",
+    "4 cups fresh broccoli florets"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In the top of a double boiler, whisk together the egg, egg yolk, sugar, cornstarch, and mustard."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slowly whisk in the vinegar and water mixture, then cook over hot water, stirring constantly, until the dressing thickens."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from heat and stir in the softened butter and mayonnaise. Chill the dressing."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Just before serving, combine the crumbled bacon, mushrooms, almonds, mandarin oranges, red onion, and broccoli in a large salad bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chilled dressing and toss to coat the salad ingredients evenly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate any leftovers."
+    }
+  ],
+  "keywords": "broccoli mandarin salad, creamy dressing, fresh salad",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "10 minutes",
+    "totalTime": "30 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Tossed Berry-Mandarin Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Anne Cotte"
+      },
+      "description": "A refreshing mixed greens salad with strawberries, mandarin oranges, sweet onion, and bacon, topped with a homemade honey-cider dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeYield": "8-10 servings",
+      "recipeIngredient": [
+        "8 cups torn mixed salad greens",
+        "2 cups fresh sliced strawberries",
+        "1 (10 oz) can mandarin oranges, drained",
+        "1 medium sweet onion, sliced and separated into rings",
+        "⅓ cup slivered almonds, toasted",
+        "4 strips cooked bacon, crumbled",
+        "¼ cup white sugar",
+        "2 Tbsp cider vinegar",
+        "2 Tbsp honey",
+        "1¼ tsp fresh lemon juice",
+        "½ tsp paprika",
+        "½ tsp ground mustard",
+        "½ tsp grated onion",
+        "¼ tsp celery seed",
+        "Dash salt",
+        "⅓ cup vegetable oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a microwave-safe bowl, combine sugar, cider vinegar, honey, lemon juice, paprika, mustard, grated onion, celery seed, and salt."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Microwave uncovered on high for 1½ to 2 minutes, stirring until the sugar is dissolved."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Whisk in vegetable oil until well combined. Refrigerate until chilled."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large serving bowl, combine the mixed greens, sliced strawberries, mandarin oranges, sweet onion rings, toasted almonds, and crumbled bacon."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drizzle the chilled dressing over the salad and gently toss to coat."
+        }
+      ],
+      "keywords": "fruit salad, mixed greens, strawberry, mandarin orange, bacon",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "tossed-berry-mandarin-salad-87",
+      "similarity": "0.8242"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Mandarin Orange Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic spinach and lettuce salad with mandarin oranges and toasted almonds, dressed with a sweet and tangy homemade vinaigrette.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT20M",
+      "recipeYield": "4-6 servings",
+      "recipeIngredient": [
+        "1 bunch romaine lettuce",
+        "1 leaf red tip lettuce",
+        "1 pkg fresh spinach",
+        "4 (10 oz) cans mandarin oranges, drained",
+        "1 cup slivered almonds, toasted",
+        "½ small red onion, chopped",
+        "Dressing:",
+        "½ cup sugar",
+        "¼ cup vinegar",
+        "1 tsp dry mustard",
+        "1 tsp salt",
+        "1 cup vegetable oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Wash and clean the romaine lettuce, red tip lettuce, and spinach. Dry thoroughly and rip into bite-sized pieces."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a saucepan, combine sugar, vinegar, mustard, and salt. Bring to a boil, then allow to cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Once cooled, blend the dressing mixture in a blender until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the prepared lettuce mixture about 10 minutes before serving."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Just before serving, add the drained mandarin oranges and toasted slivered almonds."
+        }
+      ],
+      "keywords": "mandarin orange salad, spinach salad, homemade dressing",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "mandarin-orange-salad-88",
+      "similarity": "0.8074"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Chinese Rice Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A flavorful salad made with Minute Rice, frozen peas, chopped celery, and a savory dressing, optionally garnished with chow mein noodles and shrimp.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Chinese-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT15M",
+      "recipeIngredient": [
+        "1⅓ cups cooked Minute Rice",
+        "1 (10 oz) package frozen peas",
+        "1½ cups chopped celery",
+        "¼ cup chopped onion",
+        "1 tsp salt",
+        "1 Tbsp soy sauce",
+        "3 tsp malt vinegar",
+        "2 tsp curry powder",
+        "½ tsp sugar",
+        "Dressing: ½ cup oil",
+        "Chow mein noodles for garnish (optional)",
+        "1 can drained shrimp (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine cooked rice, frozen peas, chopped celery, and onion in a large bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the dressing ingredients (oil, soy sauce, malt vinegar, curry powder, salt, and sugar)."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the rice mixture and toss to combine."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Garnish with chow mein noodles and/or add drained shrimp if desired."
+        }
+      ],
+      "keywords": "Chinese rice salad, savory salad, Minute Rice",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "chinese-rice-salad-81",
+      "similarity": "0.7013"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Bacon Broccoli Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Meghan Brand"
+        },
+        {
+          "@type": "Person",
+          "name": "Mona Hamilton"
+        },
+        {
+          "@type": "Person",
+          "name": "Alwinna Galloway"
+        },
+        {
+          "@type": "Person",
+          "name": "Thelma Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Linda Nakamura"
+        }
+      ],
+      "description": "A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "3 cups broccoli florets",
+        "½ cup low-fat yogurt",
+        "½ cup chopped red onion",
+        "¼ cup light mayonnaise",
+        "¼ cup sunflower seeds",
+        "½ cup raisins",
+        "2 Tbsp sugar",
+        "1 Tbsp lemon juice",
+        "½ cup crumbled feta cheese",
+        "4 slices cooked bacon, crumbled"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the broccoli, red onion, sunflower seeds, raisins, and crumbled bacon in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the yogurt, mayonnaise, sugar, and lemon juice to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad ingredients and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 2 hours to allow the flavors to meld."
+        }
+      ],
+      "keywords": "broccoli salad, bacon salad, yogurt dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "bacon-broccoli-salad-63",
+      "similarity": "0.6956"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Broccoli Supreme",
+      "author": {
+        "@type": "Person",
+        "name": "Louise Wein"
+      },
+      "description": "A chilled broccoli salad with raisins, bacon, and a creamy cheese dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT3H25M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "6 cups fresh broccoli",
+        "2 Tbsp vinegar",
+        "2 Tbsp vegetable oil",
+        "1/3 cup raisins",
+        "2 tsp white sugar",
+        "2 Tbsp chopped onion",
+        "1 Tbsp prepared mustard",
+        "6 or 8 slices bacon, cooled and crumbled",
+        "1/4 tsp salt",
+        "1/8 tsp garlic powder",
+        "1 small pkg cream cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat dressing ingredients until smooth."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add dressing to broccoli, raisins, and onion. Cover and chill at least 3 hours."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with bacon and serve."
+        }
+      ],
+      "keywords": "broccoli salad, bacon, creamy dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "3 hours 25 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "broccoli-supreme-60",
+      "similarity": "0.6929"
+    }
+  ]
+}

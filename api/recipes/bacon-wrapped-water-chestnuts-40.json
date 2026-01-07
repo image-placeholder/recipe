@@ -1,0 +1,391 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Bacon Wrapped Water Chestnuts",
+  "author": {
+    "@type": "Person",
+    "name": "Suzanne Finkbeiner"
+  },
+  "description": "Sweet and savory bacon-wrapped water chestnuts marinated overnight in a mixture of soya sauce and brown sugar.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT8H45M",
+  "recipeYield": "1 batch",
+  "recipeIngredient": [
+    "1 can whole water chestnuts",
+    "¼ cup soya sauce",
+    "¼ cup brown sugar",
+    "½ lb bacon"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown bacon and cut in half."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roll water chestnuts in white sugar, wrap with bacon, and secure with toothpicks."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix brown sugar and soya sauce together."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour mixture over bacon-wrapped water chestnuts and marinate overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F for 30 minutes.",
+      "cookMethod": "Bake",
+      "tool": "Oven",
+      "temperature": {
+        "@type": "Temperature",
+        "name": "oven",
+        "value": 350,
+        "unitCode": "FAR"
+      },
+      "duration": "PT30M"
+    }
+  ],
+  "keywords": "bacon-wrapped water chestnuts, sweet and savory, appetizer",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "30 minutes",
+    "totalTime": "8 hours 45 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Water Chestnuts Wrapped in Bacon",
+      "author": {
+        "@type": "Person",
+        "name": "Diane Dinney"
+      },
+      "description": "Bacon-wrapped water chestnuts marinated in a savory mixture of soya sauce and Worcestershire sauce, then baked until crispy.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT1H15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT1H35M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "2 cans water chestnuts",
+        "¼ cup soya sauce",
+        "½ lb bacon",
+        "1 tsp Worcestershire sauce",
+        "1 tsp garlic salt",
+        "2 tsp minced onions",
+        "Toothpicks"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Marinate bacon in soya sauce, Worcestershire sauce, garlic salt, and minced onions for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap bacon around chestnuts and secure with toothpicks."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cook in a 350°F oven until bacon is done.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          }
+        }
+      ],
+      "keywords": "bacon-wrapped water chestnuts, appetizer, savory snack",
+      "_naturalized_times": {
+        "prepTime": "1 hour 15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "1 hour 35 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "water-chestnuts-wrapped-in-bacon-39",
+      "similarity": "0.9573"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Rumaki",
+      "author": {
+        "@type": "Person",
+        "name": "Leanne Robinson"
+      },
+      "description": "Classic rumaki appetizer featuring bacon-wrapped water chestnuts baked in a ketchup and brown sugar glaze.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H10M",
+      "recipeYield": "1 batch",
+      "recipeIngredient": [
+        "1 lb bacon",
+        "1 can water chestnuts",
+        "½ cup ketchup",
+        "½ cup brown sugar"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Cut the pound of bacon in half."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Wrap bacon around chestnuts and secure with toothpicks."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "temperature": {
+            "@type": "Temperature",
+            "name": "oven",
+            "value": 350,
+            "unitCode": "FAR"
+          },
+          "duration": "PT30M"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix ketchup and brown sugar."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour mixture over chestnuts and bake for another ½ hour.",
+          "cookMethod": "Bake",
+          "tool": "Oven",
+          "duration": "PT30M"
+        }
+      ],
+      "keywords": "rumaki, bacon-wrapped water chestnuts, appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 10 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "rumaki-41",
+      "similarity": "0.7827"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Roasted Chestnuts",
+      "author": {
+        "@type": "Person",
+        "name": "Julie-Ann Bibby"
+      },
+      "description": "Tender and flavorful roasted chestnuts seasoned with butter, salt, and cinnamon.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "1 lb roasted chestnuts",
+      "recipeIngredient": [
+        "1 lb chestnuts",
+        "¼ cup butter",
+        "Salt to taste",
+        "1 pinch cinnamon"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 375°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut a ½-inch crisscross on the flat side of each chestnut, ensuring the cut goes through the nut to prevent explosion during baking."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the scored chestnuts in a shallow baking pan and bake for 25 to 30 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Allow the chestnuts to cool, then peel off the shells."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a skillet, melt the butter over high heat and sauté the peeled chestnuts until well coated."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the skillet to the oven and roast until the chestnuts are golden on top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with salt and cinnamon to taste before serving."
+        }
+      ],
+      "keywords": "roasted chestnuts, savory snack, holiday appetizer",
+      "_naturalized_times": {
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "roasted-chestnuts-26",
+      "similarity": "0.7203"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Bacon Broccoli Salad",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Meghan Brand"
+        },
+        {
+          "@type": "Person",
+          "name": "Mona Hamilton"
+        },
+        {
+          "@type": "Person",
+          "name": "Alwinna Galloway"
+        },
+        {
+          "@type": "Person",
+          "name": "Thelma Finkbeiner"
+        },
+        {
+          "@type": "Person",
+          "name": "Linda Nakamura"
+        }
+      ],
+      "description": "A hearty broccoli salad with crispy bacon, red onion, and a tangy dressing featuring low-fat yogurt and feta cheese.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "6 servings",
+      "recipeIngredient": [
+        "3 cups broccoli florets",
+        "½ cup low-fat yogurt",
+        "½ cup chopped red onion",
+        "¼ cup light mayonnaise",
+        "¼ cup sunflower seeds",
+        "½ cup raisins",
+        "2 Tbsp sugar",
+        "1 Tbsp lemon juice",
+        "½ cup crumbled feta cheese",
+        "4 slices cooked bacon, crumbled"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Combine the broccoli, red onion, sunflower seeds, raisins, and crumbled bacon in a large salad bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate bowl, mix together the yogurt, mayonnaise, sugar, and lemon juice to make the dressing."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the dressing over the salad ingredients and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Refrigerate for 2 hours to allow the flavors to meld."
+        }
+      ],
+      "keywords": "broccoli salad, bacon salad, yogurt dressing",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "bacon-broccoli-salad-63",
+      "similarity": "0.5725"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Spinach Dip",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Ruth Slaght"
+        },
+        {
+          "@type": "Person",
+          "name": "Jo Anne Pickering"
+        }
+      ],
+      "description": "A creamy spinach dip made with sour cream, mayonnaise, and Knorr vegetable soup mix, served in a hollowed-out pumpernickel bread loaf.",
+      "recipeCategory": "Appetizer",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT0M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "about 4 cups of dip",
+      "recipeIngredient": [
+        "1 pkg (300 g) frozen chopped spinach, thawed and drained",
+        "1 can (10 oz) water chestnuts, drained and chopped",
+        "2 cups (500 mL) sour cream",
+        "1 cup mayonnaise",
+        "1 pkg Knorr vegetable soup mix",
+        "3 green onions, chopped",
+        "1 large round pumpernickel bread loaf (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Squeeze excess moisture from the thawed spinach."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a bowl, combine the spinach, sour cream, mayonnaise, Knorr soup mix, water chestnuts, and green onions. Stir until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and refrigerate for at least 2 hours to allow flavors to blend."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using a bread loaf, scoop out a large hollow through the top and fill with the dip mixture. Serve with bread cubes cut from the centre and/or assorted fresh vegetables."
+        }
+      ],
+      "keywords": "spinach dip, party appetizer, pumpernickel bread",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "",
+        "totalTime": "2 hours 15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "spinach-dip-16",
+      "similarity": "0.5303"
+    }
+  ]
+}

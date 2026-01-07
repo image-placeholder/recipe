@@ -1,0 +1,341 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Freezer Cole Slaw",
+  "author": {
+    "@type": "Person",
+    "name": "Bonnie McNutt"
+  },
+  "description": "A freezer coleslaw recipe with a sweet and tangy dressing, made with grated cabbage and optional vegetables.",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "cookTime": "PT5M",
+  "totalTime": "PT20M",
+  "recipeYield": "Several servings",
+  "recipeIngredient": [
+    "1 large cabbage, grated or chopped",
+    "1 large carrot, grated (optional)",
+    "1 onion, grated (optional)",
+    "1 cup white sugar",
+    "1 cup white vinegar",
+    "1 Tbsp salt",
+    "1 Tbsp celery seed",
+    "1 tsp mustard (optional)",
+    "¼ cup water"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat together vinegar, sugar, salt, water, celery seed, and mustard to make the syrup."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grate or chop cabbage and other vegetables in a food processor."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the cabbage mixture with the syrup and refrigerate overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place in a container, seal, and freeze."
+    }
+  ],
+  "keywords": "freezer coleslaw, slaw, salad",
+  "_naturalized_times": {
+    "prepTime": "15 minutes",
+    "cookTime": "5 minutes",
+    "totalTime": "20 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Layered Coleslaw Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Kim MacDonald"
+      },
+      "description": "A layered coleslaw salad with shredded carrots, snow peas, and a creamy Miracle Whip dressing.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT0M",
+      "totalTime": "PT8H20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1/2 head cabbage, shredded",
+        "1 pkg (8.5 oz) Oriental flavor dry noodles",
+        "4 handfuls snow peas",
+        "1 bunch chopped green onions",
+        "1 sliced red pepper",
+        "5 shredded carrots",
+        "1 cup Miracle Whip dressing",
+        "1 cup sour cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Shred cabbage and place in bottom of large glass bowl. Top with remaining ingredients in order given."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine Miracle Whip, sour cream, and package of noodle seasoning. Spread evenly over salad."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cover and let stand overnight."
+        }
+      ],
+      "keywords": "layered coleslaw, creamy dressing, overnight salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "",
+        "totalTime": "8 hours 20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "layered-coleslaw-salad-62",
+      "similarity": "0.7540"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Asian Coleslaw",
+      "author": {
+        "@type": "Person",
+        "name": "Dianne Finkbeiner"
+      },
+      "description": "A crunchy Asian-inspired coleslaw with toasted nuts and noodles.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Asian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT5M",
+      "totalTime": "PT20M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 bag cabbage salad",
+        "1/2 to 6 green onions, chopped",
+        "1/4 cup slivered almonds",
+        "1/4 cup sesame seeds",
+        "1 tsp soya sauce",
+        "1 pkg Mr. Noodle (just noodles)",
+        "2 to 3 Tbsp butter",
+        "Salt and pepper",
+        "1/2 cup canola oil",
+        "1/2 cup red wine vinegar",
+        "1/2 cup sugar"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Brown the first 6 ingredients in a frying pan. Let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add dressing 1/2 hour before serving."
+        }
+      ],
+      "keywords": "Asian coleslaw, toasted nuts, noodles",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "20 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "asian-coleslaw-61",
+      "similarity": "0.7396"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Coleslaw Chalet Dressing",
+      "author": {
+        "@type": "Person",
+        "name": "Ruth Haines"
+      },
+      "description": "A classic coleslaw recipe with a tangy dressing made with white vinegar, sugar, and spices.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (medium size) head cabbage, shredded",
+        "2 carrots, finely chopped",
+        "1 Spanish onion, minced",
+        "3 stalks celery, finely chopped",
+        "¾ cup white sugar",
+        "¾ cup salad oil",
+        "1 cup white vinegar",
+        "2 tsp salt",
+        "1 tsp celery seed",
+        "1 Green pepper, finely chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring all dressing ingredients to a boil and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Keep shredded cabbage and other ingredients in a glass or enamel container."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour dressing over the cabbage mixture and refrigerate tightly covered for several hours before using."
+        }
+      ],
+      "keywords": "coleslaw, chalet dressing, salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "coleslaw-chalet-dressing-57",
+      "similarity": "0.7242"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cabbage Rolls",
+      "author": {
+        "@type": "Person",
+        "name": "Heather Clarke"
+      },
+      "description": "Traditional cabbage rolls filled with a savory mixture of ground pork, beef, and rice, simmered in tomato juice.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "European",
+      "prepTime": "PT30M",
+      "cookTime": "PT3H",
+      "totalTime": "PT3H30M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "1 head cabbage",
+        "½ lb ground pork",
+        "1 lb ground beef",
+        "1 medium onion",
+        "2 Tbsp lard",
+        "¾ cup uncooked rice (Uncle Ben's)",
+        "1 tsp salt",
+        "½ tsp black pepper",
+        "1 (24 oz) can tomato juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Boil the cabbage head for 10 minutes to soften the leaves. Drain and let cool."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chop the onion and fry in lard for 10 minutes until softened."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix the cooked onion and lard with ground pork, ground beef, rice, salt, and pepper until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Peel off cabbage leaves and cut out the thick stem. Place about 1 tablespoon of the meat mixture in the center of each leaf, fold the sides, and roll into a neat package."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Line the bottom of a large pot with a layer of cabbage leaves to prevent burning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Arrange the cabbage rolls seam-side down in the pot, layering them as needed."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the tomato juice over the cabbage rolls, ensuring they are mostly covered."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bring the tomato juice to a simmer, then reduce heat and let cook for the entire afternoon (approximately 3 hours)."
+        }
+      ],
+      "keywords": "cabbage rolls, stuffed cabbage, ground meat, comfort food",
+      "_naturalized_times": {
+        "prepTime": "30 minutes",
+        "cookTime": "3 hours",
+        "totalTime": "3 hours 30 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cabbage-rolls-167",
+      "similarity": "0.5985"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Sauerkraut Salad",
+      "author": {
+        "@type": "Person",
+        "name": "Lorna Finkbeiner"
+      },
+      "description": "A tangy and crunchy salad featuring sauerkraut, chopped vegetables, and a sweet-and-sour dressing that keeps well in the refrigerator.",
+      "recipeCategory": "Salad",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT5M",
+      "totalTime": "PT25M",
+      "recipeYield": "Several servings",
+      "recipeIngredient": [
+        "1 (28 oz) jar or can sauerkraut, drained",
+        "1 cup chopped celery",
+        "1 cup chopped onion",
+        "1 cup chopped red pepper",
+        "¼ cup chopped green pepper",
+        "2 cups white sugar",
+        "1 cup white vinegar",
+        "1 tsp salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the vinegar, sugar, and salt in a saucepan until boiling."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let the dressing cool to room temperature."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the drained sauerkraut, chopped celery, onion, red pepper, and green pepper."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the cooled dressing over the salad and toss to coat."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Store in a sealed container in the refrigerator for up to 2-3 weeks."
+        }
+      ],
+      "keywords": "sauerkraut salad, tangy salad, make-ahead salad",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "25 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "sauerkraut-salad-82",
+      "similarity": "0.5797"
+    }
+  ]
+}

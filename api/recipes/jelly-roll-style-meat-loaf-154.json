@@ -1,0 +1,410 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Jelly Roll Style Meat Loaf",
+  "author": {
+    "@type": "Person",
+    "name": "Barbara Ratz"
+  },
+  "description": "A creative meat loaf recipe shaped like a jelly roll, filled with mozzarella cheese and baked in a loaf pan.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "prepTime": "PT20M",
+  "cookTime": "PT1H15M",
+  "totalTime": "PT1H35M",
+  "recipeYield": "1 loaf",
+  "recipeIngredient": [
+    "½ lb ground beef",
+    "3 cups shredded mozzarella cheese",
+    "1 beaten egg",
+    "½ cup cracker crumbs or dry bread crumbs",
+    "½ tsp basil",
+    "1 clove garlic, minced",
+    "½ cup minced onion",
+    "1 tsp salt",
+    "⅛ tsp pepper",
+    "2 (8 oz) cans tomato sauce"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix all ingredients except ground beef in a large bowl, using only 1 cup of mozzarella cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add ground beef and mix thoroughly with hands until just combined."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Shape the mixture into a 10x12 inch rectangle on waxed paper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle 2 cups of mozzarella cheese over the meat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roll up the mixture like a jelly roll using the waxed paper and press ends together to seal."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the foil-wrapped jelly roll in a meat loaf pan and bake in a 350°F oven for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain off fat and pour reserved tomato sauce on the roll."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for an additional 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let stand for 10 to 15 minutes before slicing."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Decorate with tomato slices and green parsley on a serving tray."
+    }
+  ],
+  "keywords": "meat loaf, jelly roll, mozzarella cheese, baked",
+  "_naturalized_times": {
+    "prepTime": "20 minutes",
+    "cookTime": "1 hour 15 minutes",
+    "totalTime": "1 hour 35 minutes"
+  },
+  "_file_source": null,
+  "_file_date": null,
+  "_file_path": "_data/recipes.json",
+  "_similar": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Delicious Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Suzanne Finkbeiner"
+      },
+      "description": "A classic meatloaf with a cheddar cheese and carrot mixture, topped with a sweet ketchup-mustard glaze.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H50M",
+      "recipeYield": "1 meatloaf",
+      "recipeIngredient": [
+        "1½ lb lean ground beef",
+        "2 eggs",
+        "⅔ cup milk",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "1 cup shredded cheddar cheese",
+        "¼ cup brown sugar",
+        "3 slices fresh bread, crumbled",
+        "¼ cup ketchup",
+        "1 onion, chopped",
+        "4 Tbsp prepared mustard",
+        "½ cup shredded raw carrot"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Beat eggs in a bowl with a fork, then add milk, salt, pepper, and crumbled bread. Beat until the bread disintegrates."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add chopped onion, shredded carrot, cheddar cheese, and ground beef to the bowl. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack the mixture into a loaf pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Combine brown sugar, ketchup, and prepared mustard in a small bowl. Spread this glaze over the meatloaf."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for approximately 1½ hours."
+        }
+      ],
+      "keywords": "meatloaf, cheddar cheese, ketchup glaze, classic American",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "1 hour 30 minutes",
+        "totalTime": "1 hour 50 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "delicious-meat-loaf-156",
+      "similarity": "0.8075"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheeseburger Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Lori Allen"
+      },
+      "description": "A cheeseburger-inspired meatloaf with a cheddar cheese and pickle relish filling, topped with tomato sauce.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT25M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H40M",
+      "recipeYield": "1 meatloaf",
+      "recipeIngredient": [
+        "1½ lb lean ground hamburger",
+        "½ tsp garlic salt",
+        "½ cup fine bread crumbs",
+        "1 tsp onion powder",
+        "1 egg",
+        "1 can (8 oz) tomato sauce",
+        "¼ cup parsley flakes",
+        "½ cup finely chopped onion",
+        "1 tsp salt",
+        "1 cup shredded cheddar cheese",
+        "⅛ tsp pepper",
+        "½ tsp seasoning salt",
+        "½ cup sweet pickle relish"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a mixing bowl, combine ground beef, egg, bread crumbs, garlic salt, onion powder, salt, pepper, and seasoning salt. Mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Mix chopped onion and tomato sauce together in a separate bowl."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add half of the tomato sauce and onion mixture to the beef mixture and mix well."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack half of the beef mixture into a loaf pan."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle shredded cheddar cheese and sweet pickle relish evenly over the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pack the remaining beef mixture on top and press firmly."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a preheated oven at 350°F for 1 hour."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Carefully spoon off excess fat from the top."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour the remaining tomato sauce and onion mixture over the meatloaf."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake for an additional 15 minutes."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Let stand for about 5 minutes before inverting onto a heated serving platter if desired."
+        }
+      ],
+      "keywords": "cheeseburger meatloaf, stuffed meatloaf, cheddar and pickle filling",
+      "_naturalized_times": {
+        "prepTime": "25 minutes",
+        "cookTime": "1 hour 15 minutes",
+        "totalTime": "1 hour 40 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cheeseburger-meat-loaf-157",
+      "similarity": "0.7661"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Cheesy Meat Loaf",
+      "author": {
+        "@type": "Person",
+        "name": "Pam Allen"
+      },
+      "description": "A classic meat loaf recipe with a cheesy twist, featuring ground beef, chopped onions, and green pepper, baked at 350°F.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT15M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H15M",
+      "recipeYield": "1 loaf",
+      "recipeIngredient": [
+        "1 lb ground beef",
+        "¾ cup bread crumbs",
+        "1 beaten egg",
+        "½ cup chopped onions",
+        "¼ cup chopped green pepper",
+        "¼ cup ketchup",
+        "¾ tsp salt",
+        "1 cup cheese, cut into small cubes",
+        "⅛ tsp pepper",
+        "Chili sauce (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together until well combined."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake at 350°F for 1 hour."
+        }
+      ],
+      "keywords": "meat loaf, cheesy, ground beef, baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 15 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "cheesy-meat-loaf-153",
+      "similarity": "0.7206"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Pizza Meatball",
+      "author": {
+        "@type": "Person",
+        "name": "Barbara Ratz"
+      },
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Italian-American",
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "8 servings",
+      "recipeIngredient": [
+        "1 (12 inch) baked pizza crust",
+        "12 oz frozen meatballs, thawed and cut in half",
+        "14 oz pizza sauce, divided",
+        "1¼ tsp dried Italian seasoning",
+        "1½ cups shredded mozzarella cheese"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place pizza crust in a pizza pan or on a baking sheet."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle 1 cup of shredded mozzarella cheese over the crust."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs on top of the cheese, cut side down."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spread remaining pizza sauce over the meatballs."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sprinkle with remaining cheese and Italian seasoning."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in a 400°F oven for approximately 20 minutes, or until cheese is melted."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cut into pizza wheels and serve."
+        }
+      ],
+      "keywords": "pizza, meatball, Italian-American, baked",
+      "_naturalized_times": {
+        "prepTime": "15 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "35 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "pizza-meatball-193",
+      "similarity": "0.6720"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Meat Balls and Sour And Sweet Sauce",
+      "author": {
+        "@type": "Person",
+        "name": "Glenda Wuerth"
+      },
+      "description": "A classic meatball recipe served in a tangy sweet and sour sauce, perfect for serving over meatballs, chicken, or pork chops.",
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "American",
+      "prepTime": "PT20M",
+      "cookTime": "PT35M",
+      "totalTime": "PT55M",
+      "recipeYield": "Multiple servings",
+      "recipeIngredient": [
+        "2 lb hamburger",
+        "1 slice dry bread (crumbs)",
+        "1 Tbsp cornstarch",
+        "¼ cup milk",
+        "1 tsp onion flakes or 1 tsp real onion",
+        "1 (19 oz) can pineapple, crushed",
+        "⅓ cup vinegar",
+        "1 tsp salt",
+        "1 Tbsp soya sauce",
+        "1 tsp Worcestershire sauce",
+        "1 egg"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Mix all ingredients together and form into 1½ inch balls."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake in an ungreased oblong pan for 20 to 25 minutes at 400°F."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove from oven and drain grease."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place meatballs in a large casserole."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour sweet and sour sauce over the top and return to oven for 10 minutes or until hot."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To make the sauce, mix all ingredients together in a saucepan and stir while bringing to a boil until thickened."
+        }
+      ],
+      "keywords": "meatballs, sweet and sour sauce, baked meatballs",
+      "_naturalized_times": {
+        "prepTime": "20 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "55 minutes"
+      },
+      "_file_source": null,
+      "_file_date": null,
+      "_file_path": "_data/recipes.json",
+      "url": "meat-balls-and-sour-and-sweet-sauce-160",
+      "similarity": "0.6489"
+    }
+  ]
+}
