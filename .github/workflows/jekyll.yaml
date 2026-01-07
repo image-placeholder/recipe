@@ -85,3 +85,4 @@ jobs:
             branch: gh-pages
         # Specify the directory containing the built static files
             folder: _site  # Or the folder where your Jekyll build output is stored
+            clean: true
